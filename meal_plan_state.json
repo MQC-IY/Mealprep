@@ -1,57 +1,57 @@
 {
   "last_generated_week": "2026-W22",
   "last_lunch_ids": [
-    "san_bei_ji_chicken",
-    "chinese_beef_daikon_stew",
-    "zaatar_chicken_rice",
-    "koshari_egyptian",
-    "shakshuka_chicken_feta"
+    "enchiladas_rojas_chicken",
+    "ethiopian_doro_wat",
+    "hainanese_chicken_rice",
+    "hunkar_begendi",
+    "imam_bayildi_chicken"
   ],
   "generator_version": "variants-v6",
   "last_dessert_ids": [
-    "light_banana_bread"
+    "berry_oat_pudding_slices"
   ],
   "variants": {
     "standard": {
       "last_generated_week": "2026-W22",
       "generator_version": "variants-v6",
       "last_lunch_ids": [
-        "san_bei_ji_chicken",
-        "chinese_beef_daikon_stew",
-        "zaatar_chicken_rice",
-        "koshari_egyptian",
-        "shakshuka_chicken_feta"
+        "enchiladas_rojas_chicken",
+        "ethiopian_doro_wat",
+        "hainanese_chicken_rice",
+        "hunkar_begendi",
+        "imam_bayildi_chicken"
       ],
       "last_dessert_ids": [
-        "light_banana_bread"
+        "berry_oat_pudding_slices"
       ]
     },
     "gesund": {
       "last_generated_week": "2026-W22",
       "generator_version": "variants-v6",
       "last_lunch_ids": [
-        "kongnamul_chicken_rice",
-        "pho_ga_chicken",
-        "turkey_mushroom_orzo_skillet",
-        "creamy_bean_polenta_veg",
-        "chicken_green_pea_noodles"
+        "lentil_pumpkin_orzo_pot",
+        "lentil_soup_auvergnat",
+        "korean_buddha_bowl",
+        "lentil_broccoli_polenta",
+        "mild_lentil_udon_pan"
       ],
       "last_dessert_ids": [
-        "light_banana_bread"
+        "apple_cinnamon_oat_cake"
       ]
     },
     "schnell": {
       "last_generated_week": "2026-W22",
       "generator_version": "variants-v6",
       "last_lunch_ids": [
-        "mild_bean_rice_skillet",
-        "carrot_red_lentil_rice_pot",
-        "chicken_spinach_bulgur_pan",
-        "zucchini_pea_pasta_turkey",
-        "tomato_lentil_polenta_chicken"
+        "turkish_lentil_bulgur_pot",
+        "white_bean_carrot_quinoa_stew",
+        "pad_krapao_chicken",
+        "pasta_arrabbiata_chicken",
+        "pea_broccoli_couscous_turkey"
       ],
       "last_dessert_ids": [
-        "yogurt_lemon_cake"
+        "light_carrot_cake"
       ]
     }
   }
