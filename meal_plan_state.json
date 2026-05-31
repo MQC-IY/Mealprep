@@ -1,57 +1,57 @@
 {
   "last_generated_week": "2026-W22",
   "last_lunch_ids": [
-    "san_bei_ji_chicken",
-    "chinese_beef_daikon_stew",
-    "zaatar_chicken_rice",
-    "koshari_egyptian",
-    "shakshuka_chicken_feta"
+    "chinese_chicken_glass_noodles",
+    "butter_chicken_basmati",
+    "turkish_tavuk_sis_bulgur",
+    "zaatar_chicken_pomegranate",
+    "pasta_arrabbiata_chicken"
   ],
   "generator_version": "variants-v6",
   "last_dessert_ids": [
-    "light_banana_bread"
+    "light_carrot_cake"
   ],
   "variants": {
     "standard": {
       "last_generated_week": "2026-W22",
       "generator_version": "variants-v6",
       "last_lunch_ids": [
-        "san_bei_ji_chicken",
-        "chinese_beef_daikon_stew",
-        "zaatar_chicken_rice",
-        "koshari_egyptian",
-        "shakshuka_chicken_feta"
+        "chinese_chicken_glass_noodles",
+        "butter_chicken_basmati",
+        "turkish_tavuk_sis_bulgur",
+        "zaatar_chicken_pomegranate",
+        "pasta_arrabbiata_chicken"
       ],
       "last_dessert_ids": [
-        "light_banana_bread"
+        "light_carrot_cake"
       ]
     },
     "gesund": {
       "last_generated_week": "2026-W22",
       "generator_version": "variants-v6",
       "last_lunch_ids": [
-        "kongnamul_chicken_rice",
-        "pho_ga_chicken",
-        "turkey_mushroom_orzo_skillet",
-        "creamy_bean_polenta_veg",
-        "chicken_green_pea_noodles"
+        "doenjang_jjigae",
+        "vietnamese_lemongrass_chicken",
+        "mild_tomato_chickpea_gnocchi",
+        "chicken_cauliflower_rice_pan",
+        "spinach_red_lentil_couscous"
       ],
       "last_dessert_ids": [
-        "light_banana_bread"
+        "apple_cinnamon_oat_cake"
       ]
     },
     "schnell": {
       "last_generated_week": "2026-W22",
       "generator_version": "variants-v6",
       "last_lunch_ids": [
-        "mild_bean_rice_skillet",
-        "carrot_red_lentil_rice_pot",
-        "chicken_spinach_bulgur_pan",
-        "zucchini_pea_pasta_turkey",
-        "tomato_lentil_polenta_chicken"
+        "turkey_cauliflower_bulgur_pot",
+        "sweet_potato_lentil_curry",
+        "chicken_mild_paprika_orzo",
+        "turkey_pepper_couscous_skillet",
+        "green_bean_couscous_turkey"
       ],
       "last_dessert_ids": [
-        "yogurt_lemon_cake"
+        "berry_oat_pudding_slices"
       ]
     }
   }
