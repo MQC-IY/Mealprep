@@ -1,0 +1,129 @@
+id: yosenabe_tofu_chicken
+pool: lunch
+healthy: true
+quick: false
+next_day: false
+meals: 2
+de:
+  title: Japanisches Tofu-Hähnchen-Eintopf (Yosenabe)
+  summary: |-
+    Japanischer Eintopf-Klassiker mit Hähnchen, Seidentofu, Pilzen und Gemüse in leichter Kombu-Dashi-Brühe mit Ponzu zum Dippen.
+en:
+  title: 'TODO: Japanisches Tofu-Hähnchen-Eintopf (Yosenabe)'
+  summary: |-
+    TODO: Japanischer Eintopf-Klassiker mit Hähnchen, Seidentofu, Pilzen und Gemüse in leichter Kombu-Dashi-Brühe mit Ponzu zum Dippen.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 500
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Seidentofu
+  en_name: 'TODO: Seidentofu'
+  qty: 400
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Pak Choi
+  en_name: 'TODO: Pak Choi'
+  qty: 300
+  unit: g
+  category: Gemüse und Salat
+- de_name: Shiitake-Pilze (frisch)
+  en_name: 'TODO: Shiitake-Pilze (frisch)'
+  qty: 150
+  unit: g
+  category: Gemüse und Salat
+- de_name: Enoki-Pilze
+  en_name: 'TODO: Enoki-Pilze'
+  qty: 100
+  unit: g
+  category: Gemüse und Salat
+- de_name: Karotten
+  en_name: 'TODO: Karotten'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 3
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Ingwer (frisch)
+  en_name: 'TODO: Ingwer (frisch)'
+  qty: 20
+  unit: g
+  category: Gemüse und Salat
+- de_name: Udon-Nudeln (vorgekocht)
+  en_name: 'TODO: Udon-Nudeln (vorgekocht)'
+  qty: 400
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Kombu-Dashi-Brühe
+  en_name: 'TODO: Kombu-Dashi-Brühe'
+  qty: 1.5
+  unit: Liter
+  category: Konserven und Vorrat
+- de_name: Sojasoße
+  en_name: 'TODO: Sojasoße'
+  qty: 4
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Mirin
+  en_name: 'TODO: Mirin'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sake
+  en_name: 'TODO: Sake'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Ponzu-Soße (zum Servieren)
+  en_name: 'TODO: Ponzu-Soße (zum Servieren)'
+  qty: 4
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sesamöl
+  en_name: 'TODO: Sesamöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Shichimi-Togarashi
+  en_name: 'TODO: Shichimi-Togarashi'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Weißer Pfeffer
+  en_name: 'TODO: Weißer Pfeffer'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Brühe-Basis: Dashi-Brühe mit Sojasoße, Mirin und Sake aufkochen. Knoblauch und Ingwer (dünn geschnitten) 5 Minuten mitköcheln.
+- |-
+  Hähnchenbrust schräg in dünne Scheiben schneiden. Karotten schräg in Scheiben schneiden. Pak Choi halbieren.
+- Seidentofu vorsichtig in grobe Würfel schneiden.
+- Hähnchen in die köchelnde Brühe geben und 5 Minuten garen.
+- |-
+  Karotten und Shiitake-Pilze dazugeben, 3 Minuten köcheln. Pak Choi, Enoki-Pilze und Udon-Nudeln einlegen und weitere 3 Minuten garen.
+- Tofu vorsichtig zuletzt einlegen und nur 2 Minuten erhitzen.
+- |-
+  Sesamöl einträufeln. In tiefe Schalen schöpfen, mit Frühlingszwiebeln und Shichimi-Togarashi garnieren. Ponzu-Soße separat zum Dippen servieren.
+en_steps:
+- |-
+  TODO: Brühe-Basis: Dashi-Brühe mit Sojasoße, Mirin und Sake aufkochen. Knoblauch und Ingwer (dünn geschnitten) 5 Minuten mitköcheln.
+- |-
+  TODO: Hähnchenbrust schräg in dünne Scheiben schneiden. Karotten schräg in Scheiben schneiden. Pak Choi halbieren.
+- 'TODO: Seidentofu vorsichtig in grobe Würfel schneiden.'
+- 'TODO: Hähnchen in die köchelnde Brühe geben und 5 Minuten garen.'
+- |-
+  TODO: Karotten und Shiitake-Pilze dazugeben, 3 Minuten köcheln. Pak Choi, Enoki-Pilze und Udon-Nudeln einlegen und weitere 3 Minuten garen.
+- 'TODO: Tofu vorsichtig zuletzt einlegen und nur 2 Minuten erhitzen.'
+- |-
+  TODO: Sesamöl einträufeln. In tiefe Schalen schöpfen, mit Frühlingszwiebeln und Shichimi-Togarashi garnieren. Ponzu-Soße separat zum Dippen servieren.

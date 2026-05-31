@@ -1,0 +1,101 @@
+id: pollo_al_ajillo
+pool: lunch
+healthy: false
+quick: true
+next_day: false
+quick_minutes: 25
+meals: 2
+de:
+  title: Pollo al Ajillo – Hähnchen in Knoblauch-Weißwein-Sauce
+  summary: |-
+    Kastilianisches Knoblauch-Hähnchen in einer duftenden Sauce aus reichlich Knoblauch, trockenem Sherry, Pimentón ahumado und Olivenöl.
+en:
+  title: 'TODO: Pollo al Ajillo – Hähnchen in Knoblauch-Weißwein-Sauce'
+  summary: |-
+    TODO: Kastilianisches Knoblauch-Hähnchen in einer duftenden Sauce aus reichlich Knoblauch, trockenem Sherry, Pimentón ahumado und Olivenöl.
+ingredients:
+- de_name: Hähnchenstücke mit Knochen (Oberschenkel und Drumsticks)
+  en_name: 'TODO: Hähnchenstücke mit Knochen (Oberschenkel und Drumsticks)'
+  qty: 900
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 10
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Trockener Sherry (Fino) oder Weißwein
+  en_name: 'TODO: Trockener Sherry (Fino) oder Weißwein'
+  qty: 150
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 200
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 5
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Frische Petersilie
+  en_name: 'TODO: Frische Petersilie'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Pimentón ahumado (geräuchertes Paprikapulver)
+  en_name: 'TODO: Pimentón ahumado (geräuchertes Paprikapulver)'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Lorbeerblätter
+  en_name: 'TODO: Lorbeerblätter'
+  qty: 3
+  unit: Stk
+  category: Gewürze
+- de_name: Cayennepfeffer
+  en_name: 'TODO: Cayennepfeffer'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Hähnchenstücke trocken tupfen, kräftig mit Salz, Pfeffer und 1 TL Pimentón würzen.
+- |-
+  Olivenöl in einer großen, tiefen Pfanne bei hoher Hitze erhitzen. Hähnchenstücke portionsweise rundherum 5–6 Minuten goldbraun und knusprig anbraten. Herausnehmen.
+- |-
+  Knoblauchzehen (6 davon ganz gelassen, 4 fein gehackt) im selben Öl bei mittlerer Hitze 2–3 Minuten goldgelb anbraten.
+- |-
+  Lorbeerblätter und restlichen Pimentón sowie Cayennepfeffer einrühren. Mit Sherry ablöschen, kräftig aufkochen und 2 Minuten einkochen.
+- |-
+  Brühe dazugießen. Hähnchenstücke zurücklegen, Deckel auflegen und bei niedriger bis mittlerer Hitze 35 Minuten schmoren.
+- |-
+  Deckel abnehmen, weitere 10 Minuten offen köcheln, bis die Sauce konzentriert und leicht sämig ist. Lorbeer entfernen.
+- Mit reichlich gehackter Petersilie bestreuen.
+- Dazu frisches Weißbrot reichen, um die Sauce aufzutunken.
+en_steps:
+- |-
+  TODO: Hähnchenstücke trocken tupfen, kräftig mit Salz, Pfeffer und 1 TL Pimentón würzen.
+- |-
+  TODO: Olivenöl in einer großen, tiefen Pfanne bei hoher Hitze erhitzen. Hähnchenstücke portionsweise rundherum 5–6 Minuten goldbraun und knusprig anbraten. Herausnehmen.
+- |-
+  TODO: Knoblauchzehen (6 davon ganz gelassen, 4 fein gehackt) im selben Öl bei mittlerer Hitze 2–3 Minuten goldgelb anbraten.
+- |-
+  TODO: Lorbeerblätter und restlichen Pimentón sowie Cayennepfeffer einrühren. Mit Sherry ablöschen, kräftig aufkochen und 2 Minuten einkochen.
+- |-
+  TODO: Brühe dazugießen. Hähnchenstücke zurücklegen, Deckel auflegen und bei niedriger bis mittlerer Hitze 35 Minuten schmoren.
+- |-
+  TODO: Deckel abnehmen, weitere 10 Minuten offen köcheln, bis die Sauce konzentriert und leicht sämig ist. Lorbeer entfernen.
+- 'TODO: Mit reichlich gehackter Petersilie bestreuen.'
+- 'TODO: Dazu frisches Weißbrot reichen, um die Sauce aufzutunken.'

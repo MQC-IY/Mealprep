@@ -1,0 +1,77 @@
+id: stuffed_pepper_pot
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 3
+de:
+  title: Gefüllte Paprika aus dem Topf
+  summary: |-
+    Vereinfachte gefüllte Paprika mit Hack, Reis, Tomatensauce, Paprika und Kräutern.
+en:
+  title: 'TODO: Gefüllte Paprika aus dem Topf'
+  summary: |-
+    TODO: Vereinfachte gefüllte Paprika mit Hack, Reis, Tomatensauce, Paprika und Kräutern.
+ingredients:
+- de_name: Putenhack
+  en_name: 'TODO: Putenhack'
+  qty: 600
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Reis
+  en_name: 'TODO: Reis'
+  qty: 250
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Paprika
+  en_name: 'TODO: Paprika'
+  qty: 4
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Passierte Tomaten
+  en_name: 'TODO: Passierte Tomaten'
+  qty: 1
+  unit: Glas
+  category: Konserven und Vorrat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 2
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Paprika edelsüß
+  en_name: 'TODO: Paprika edelsüß'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Oregano
+  en_name: 'TODO: Oregano'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Reis vorkochen.
+- |-
+  Hack mit Zwiebel, Knoblauch, Reis, Paprika edelsüß und Oregano mischen und in halbierte Paprika füllen.
+- Passierte Tomaten angießen und alles im Topf oder Ofen weich garen.
+- Erwachsene zum Schluss mit Salz und Pfeffer abschmecken.
+en_steps:
+- 'TODO: Reis vorkochen.'
+- |-
+  TODO: Hack mit Zwiebel, Knoblauch, Reis, Paprika edelsüß und Oregano mischen und in halbierte Paprika füllen.
+- 'TODO: Passierte Tomaten angießen und alles im Topf oder Ofen weich garen.'
+- 'TODO: Erwachsene zum Schluss mit Salz und Pfeffer abschmecken.'

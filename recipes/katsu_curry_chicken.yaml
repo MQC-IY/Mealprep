@@ -1,0 +1,118 @@
+id: katsu_curry_chicken
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Japanisches Katsu-Curry mit Hähnchen und Reis
+  summary: |-
+    Knusprig paniertes Hähnchen-Katsu auf würzigem japanischen Curry-Soße mit Jasminreis – ein japanischer Klassiker.
+en:
+  title: 'TODO: Japanisches Katsu-Curry mit Hähnchen und Reis'
+  summary: |-
+    TODO: Knusprig paniertes Hähnchen-Katsu auf würzigem japanischen Curry-Soße mit Jasminreis – ein japanischer Klassiker.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 800
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Ei
+  en_name: 'TODO: Ei'
+  qty: 2
+  unit: Stk
+  category: Protein und Milchprodukte
+- de_name: Zwiebeln
+  en_name: 'TODO: Zwiebeln'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Karotten
+  en_name: 'TODO: Karotten'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Kartoffeln (mehligkochend)
+  en_name: 'TODO: Kartoffeln (mehligkochend)'
+  qty: 3
+  unit: Stk
+  category: Kohlenhydrate und Sattmacher
+- de_name: Jasminreis
+  en_name: 'TODO: Jasminreis'
+  qty: 400
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Panko-Semmelbrösel
+  en_name: 'TODO: Panko-Semmelbrösel'
+  qty: 120
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Mehl (Type 405)
+  en_name: 'TODO: Mehl (Type 405)'
+  qty: 80
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Japanische Curry-Roux
+  en_name: 'TODO: Japanische Curry-Roux'
+  qty: 100
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 700
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Tonkatsu-Soße
+  en_name: 'TODO: Tonkatsu-Soße'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Pflanzenöl (zum Frittieren)
+  en_name: 'TODO: Pflanzenöl (zum Frittieren)'
+  qty: 400
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Worcestersoße
+  en_name: 'TODO: Worcestersoße'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer (gemahlen)
+  en_name: 'TODO: Schwarzer Pfeffer (gemahlen)'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- Reis waschen und mit 700 ml Wasser garen.
+- |-
+  Zwiebeln in halbe Ringe, Karotten in Scheiben, Kartoffeln in mundgerechte Stücke schneiden. In einem Topf mit etwas Öl 5 Minuten anbraten.
+- |-
+  Brühe angießen, aufkochen und 15 Minuten köcheln, bis Kartoffeln weich sind. Curry-Roux einrühren und vollständig auflösen. Worcestersoße hinzufügen. 5 Minuten einköcheln.
+- |-
+  Hähnchenbrust zwischen Frischhaltefolie auf 1 cm Dicke klopfen. Salzen und pfeffern.
+- |-
+  Drei Schüsseln bereitstellen: Mehl, verquirlte Eier, Panko. Hähnchen nacheinander wenden, gut andrücken.
+- |-
+  Öl in einer tiefen Pfanne auf 175 °C erhitzen. Hähnchen portionsweise 3–4 Minuten pro Seite goldbraun frittieren. Auf Küchenpapier abtropfen lassen.
+- |-
+  Hähnchen-Katsu in diagonale Streifen schneiden. Reis in Schalen anrichten, Curry-Soße daneben geben, Katsu darauflegen. Mit Tonkatsu-Soße beträufeln.
+en_steps:
+- 'TODO: Reis waschen und mit 700 ml Wasser garen.'
+- |-
+  TODO: Zwiebeln in halbe Ringe, Karotten in Scheiben, Kartoffeln in mundgerechte Stücke schneiden. In einem Topf mit etwas Öl 5 Minuten anbraten.
+- |-
+  TODO: Brühe angießen, aufkochen und 15 Minuten köcheln, bis Kartoffeln weich sind. Curry-Roux einrühren und vollständig auflösen. Worcestersoße hinzufügen. 5 Minuten einköcheln.
+- |-
+  TODO: Hähnchenbrust zwischen Frischhaltefolie auf 1 cm Dicke klopfen. Salzen und pfeffern.
+- |-
+  TODO: Drei Schüsseln bereitstellen: Mehl, verquirlte Eier, Panko. Hähnchen nacheinander wenden, gut andrücken.
+- |-
+  TODO: Öl in einer tiefen Pfanne auf 175 °C erhitzen. Hähnchen portionsweise 3–4 Minuten pro Seite goldbraun frittieren. Auf Küchenpapier abtropfen lassen.
+- |-
+  TODO: Hähnchen-Katsu in diagonale Streifen schneiden. Reis in Schalen anrichten, Curry-Soße daneben geben, Katsu darauflegen. Mit Tonkatsu-Soße beträufeln.

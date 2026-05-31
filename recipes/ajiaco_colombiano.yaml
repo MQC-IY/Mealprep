@@ -1,0 +1,111 @@
+id: ajiaco_colombiano
+pool: lunch
+healthy: true
+quick: false
+next_day: true
+meals: 3
+de:
+  title: Kolumbianische Ajiaco – Hähnchen-Kartoffelsuppe
+  summary: |-
+    Reichhaltige kolumbianische Suppe aus Bogotá mit Hähnchen, drei Kartoffelsorten, Guascas-Kräutern, Mais und Sahne.
+en:
+  title: 'TODO: Kolumbianische Ajiaco – Hähnchen-Kartoffelsuppe'
+  summary: |-
+    TODO: Reichhaltige kolumbianische Suppe aus Bogotá mit Hähnchen, drei Kartoffelsorten, Guascas-Kräutern, Mais und Sahne.
+ingredients:
+- de_name: Hähnchenbrust oder -schenkel
+  en_name: 'TODO: Hähnchenbrust oder -schenkel'
+  qty: 900
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Sahne
+  en_name: 'TODO: Sahne'
+  qty: 150
+  unit: ml
+  category: Protein und Milchprodukte
+- de_name: Kartoffeln, mehligkochend
+  en_name: 'TODO: Kartoffeln, mehligkochend'
+  qty: 600
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Kartoffeln, festkochend
+  en_name: 'TODO: Kartoffeln, festkochend'
+  qty: 600
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 2000
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Maiskolben (Dose oder frisch)
+  en_name: 'TODO: Maiskolben (Dose oder frisch)'
+  qty: 2
+  unit: Stk
+  category: Konserven und Vorrat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 4
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Koriander, frisch
+  en_name: 'TODO: Koriander, frisch'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Limette
+  en_name: 'TODO: Limette'
+  qty: 1
+  unit: Stk
+  category: Obst
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Guascas (oder Oregano als Ersatz)
+  en_name: 'TODO: Guascas (oder Oregano als Ersatz)'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Hähnchen in die Hühnerbrühe legen, Zwiebel und Knoblauch zugeben, aufkochen. Bei mittlerer Hitze 25 Minuten gar köcheln. Hähnchen herausnehmen, zupfen, Brühe durch ein Sieb gießen.
+- |-
+  Mehligkochende Kartoffeln schälen und in Stücke schneiden. In der gefilterten Brühe 20 Minuten kochen bis sie zerfallen und die Suppe eindicken.
+- |-
+  Festkochende Kartoffeln in Scheiben schneiden, zusammen mit dem Mais zugeben und 15 Minuten mitkochen.
+- |-
+  Gezupftes Hähnchen zurück in die Suppe geben. Kreuzkümmel, Guascas und Chiliflocken einrühren.
+- |-
+  Frühlingszwiebeln in Ringe schneiden und zugeben. 5 Minuten bei niedriger Hitze ziehen lassen.
+- |-
+  Mit Salz, Limettensaft und Chiliflocken abschmecken. Mit Sahne und frischem Koriander servieren.
+en_steps:
+- |-
+  TODO: Hähnchen in die Hühnerbrühe legen, Zwiebel und Knoblauch zugeben, aufkochen. Bei mittlerer Hitze 25 Minuten gar köcheln. Hähnchen herausnehmen, zupfen, Brühe durch ein Sieb gießen.
+- |-
+  TODO: Mehligkochende Kartoffeln schälen und in Stücke schneiden. In der gefilterten Brühe 20 Minuten kochen bis sie zerfallen und die Suppe eindicken.
+- |-
+  TODO: Festkochende Kartoffeln in Scheiben schneiden, zusammen mit dem Mais zugeben und 15 Minuten mitkochen.
+- |-
+  TODO: Gezupftes Hähnchen zurück in die Suppe geben. Kreuzkümmel, Guascas und Chiliflocken einrühren.
+- |-
+  TODO: Frühlingszwiebeln in Ringe schneiden und zugeben. 5 Minuten bei niedriger Hitze ziehen lassen.
+- |-
+  TODO: Mit Salz, Limettensaft und Chiliflocken abschmecken. Mit Sahne und frischem Koriander servieren.

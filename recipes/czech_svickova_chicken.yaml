@@ -1,0 +1,127 @@
+id: czech_svickova_chicken
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Tschechisches Svíčková-inspiriertes Hähnchen mit Rahmgemüsesauce
+  summary: |-
+    Nach dem böhmischen Schmorfleischklassiker: Hähnchen schmort in einer süß-sauren Wurzelgemüse-Sahnein-Sauce mit Preiselbeeren und Zitrone.
+en:
+  title: 'TODO: Tschechisches Svíčková-inspiriertes Hähnchen mit Rahmgemüsesauce'
+  summary: |-
+    TODO: Nach dem böhmischen Schmorfleischklassiker: Hähnchen schmort in einer süß-sauren Wurzelgemüse-Sahnein-Sauce mit Preiselbeeren und Zitrone.
+ingredients:
+- de_name: Hähnchenstücke (Brust und Schenkel)
+  en_name: 'TODO: Hähnchenstücke (Brust und Schenkel)'
+  qty: 600
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Schlagsahne
+  en_name: 'TODO: Schlagsahne'
+  qty: 200
+  unit: ml
+  category: Protein und Milchprodukte
+- de_name: Sauerrahm
+  en_name: 'TODO: Sauerrahm'
+  qty: 100
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Butter
+  en_name: 'TODO: Butter'
+  qty: 40
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Preiselbeeren (Glas oder Dose)
+  en_name: 'TODO: Preiselbeeren (Glas oder Dose)'
+  qty: 4
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 300
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Weißweinessig
+  en_name: 'TODO: Weißweinessig'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Karotten
+  en_name: 'TODO: Karotten'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Pastinaken oder Petersilienwurzel
+  en_name: 'TODO: Pastinaken oder Petersilienwurzel'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Zwiebeln
+  en_name: 'TODO: Zwiebeln'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 3
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Zitronensaft
+  en_name: 'TODO: Zitronensaft'
+  qty: 2
+  unit: EL
+  category: Obst
+- de_name: Lorbeerblätter
+  en_name: 'TODO: Lorbeerblätter'
+  qty: 3
+  unit: Stk
+  category: Gewürze
+- de_name: Piment, ganz
+  en_name: 'TODO: Piment, ganz'
+  qty: 5
+  unit: Stk
+  category: Gewürze
+- de_name: Schwarzer Pfeffer, ganz
+  en_name: 'TODO: Schwarzer Pfeffer, ganz'
+  qty: 8
+  unit: Stk
+  category: Gewürze
+- de_name: Kümmel (ganz)
+  en_name: 'TODO: Kümmel (ganz)'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+- de_name: Thymian, getrocknet
+  en_name: 'TODO: Thymian, getrocknet'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Hähnchenstücke salzen und pfeffern. Butter in einem Bräter erhitzen, Hähnchen goldbraun anbraten. Herausnehmen.
+- |-
+  Karotten und Pastinaken in Würfel schneiden, Zwiebeln hacken. Im gleichen Fett 8 Minuten anbraten. Knoblauch, Lorbeer, Piment, Pfefferkörner, Kümmel und Thymian hinzufügen.
+- |-
+  Mit Weißweinessig ablöschen, einkochen. Hühnerbrühe und Schlagsahne einrühren. Hähnchen zurücklegen. Zugedeckt 35 Minuten bei mittlerer Hitze schmoren.
+- |-
+  Hähnchen herausnehmen. Sauce durch ein Sieb passieren oder mit dem Stabmixer glatt pürieren. Sauerrahm einrühren, mit Zitronensaft, Salz und Pfeffer abschmecken.
+- |-
+  Hähnchen zurück in die Sauce legen und kurz erwärmen. Mit böhmischen Knödeln, Semmelknödeln oder Reis servieren. Preiselbeeren als Beilage reichen.
+en_steps:
+- |-
+  TODO: Hähnchenstücke salzen und pfeffern. Butter in einem Bräter erhitzen, Hähnchen goldbraun anbraten. Herausnehmen.
+- |-
+  TODO: Karotten und Pastinaken in Würfel schneiden, Zwiebeln hacken. Im gleichen Fett 8 Minuten anbraten. Knoblauch, Lorbeer, Piment, Pfefferkörner, Kümmel und Thymian hinzufügen.
+- |-
+  TODO: Mit Weißweinessig ablöschen, einkochen. Hühnerbrühe und Schlagsahne einrühren. Hähnchen zurücklegen. Zugedeckt 35 Minuten bei mittlerer Hitze schmoren.
+- |-
+  TODO: Hähnchen herausnehmen. Sauce durch ein Sieb passieren oder mit dem Stabmixer glatt pürieren. Sauerrahm einrühren, mit Zitronensaft, Salz und Pfeffer abschmecken.
+- |-
+  TODO: Hähnchen zurück in die Sauce legen und kurz erwärmen. Mit böhmischen Knödeln, Semmelknödeln oder Reis servieren. Preiselbeeren als Beilage reichen.

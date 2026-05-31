@@ -1,0 +1,107 @@
+id: greek_revithia
+pool: lunch
+healthy: true
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Griechischer Revithia – Kichererbseneintopf
+  summary: |-
+    Santorinis Sonntagsgericht: langsam gegarte Kichererbsen mit Olivenöl, Rosmarin und Zitrone – vollmundig, nährstoffreich und unaufwändig.
+en:
+  title: 'TODO: Griechischer Revithia – Kichererbseneintopf'
+  summary: |-
+    TODO: Santorinis Sonntagsgericht: langsam gegarte Kichererbsen mit Olivenöl, Rosmarin und Zitrone – vollmundig, nährstoffreich und unaufwändig.
+ingredients:
+- de_name: Kichererbsen (Dose)
+  en_name: 'TODO: Kichererbsen (Dose)'
+  qty: 2
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Gehackte Tomaten
+  en_name: 'TODO: Gehackte Tomaten'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 6
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Gemüsebrühe
+  en_name: 'TODO: Gemüsebrühe'
+  qty: 500
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Zwiebeln
+  en_name: 'TODO: Zwiebeln'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Selleriestangen
+  en_name: 'TODO: Selleriestangen'
+  qty: 2
+  unit: Stange
+  category: Gemüse und Salat
+- de_name: Frische Rosmarinzweige
+  en_name: 'TODO: Frische Rosmarinzweige'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Zitronensaft
+  en_name: 'TODO: Zitronensaft'
+  qty: 4
+  unit: EL
+  category: Obst
+- de_name: Zitronenschale
+  en_name: 'TODO: Zitronenschale'
+  qty: 1
+  unit: Stk
+  category: Obst
+- de_name: Getrockneter Oregano
+  en_name: 'TODO: Getrockneter Oregano'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Zwiebeln grob würfeln, Sellerie schräg schneiden, Knoblauch pressen. 4 EL Olivenöl in einem Topf erhitzen und Zwiebeln und Sellerie 8 Minuten weich dünsten.
+- |-
+  Knoblauch, Chiliflocken und Oregano hinzufügen, 1 Minute rösten. Gehackte Tomaten und Gemüsebrühe einrühren.
+- |-
+  Abgetropfte Kichererbsen und Rosmarinzweige einlegen. Alles zum Kochen bringen, Hitze reduzieren und 30 Minuten zugedeckt köcheln.
+- |-
+  Rosmarinzweige entfernen. Etwa ein Viertel der Kichererbsen mit einer Gabel zerdrücken, um den Eintopf anzudicken.
+- |-
+  Restliches Olivenöl (2 EL), Zitronensaft und Zitronenschale einrühren. Kräftig abschmecken. Mit crustigem Brot und Kalamata-Oliven servieren.
+en_steps:
+- |-
+  TODO: Zwiebeln grob würfeln, Sellerie schräg schneiden, Knoblauch pressen. 4 EL Olivenöl in einem Topf erhitzen und Zwiebeln und Sellerie 8 Minuten weich dünsten.
+- |-
+  TODO: Knoblauch, Chiliflocken und Oregano hinzufügen, 1 Minute rösten. Gehackte Tomaten und Gemüsebrühe einrühren.
+- |-
+  TODO: Abgetropfte Kichererbsen und Rosmarinzweige einlegen. Alles zum Kochen bringen, Hitze reduzieren und 30 Minuten zugedeckt köcheln.
+- |-
+  TODO: Rosmarinzweige entfernen. Etwa ein Viertel der Kichererbsen mit einer Gabel zerdrücken, um den Eintopf anzudicken.
+- |-
+  TODO: Restliches Olivenöl (2 EL), Zitronensaft und Zitronenschale einrühren. Kräftig abschmecken. Mit crustigem Brot und Kalamata-Oliven servieren.

@@ -1,0 +1,110 @@
+id: japanese_soboro_bowl
+pool: lunch
+healthy: true
+quick: true
+next_day: false
+quick_minutes: 25
+meals: 3
+de:
+  title: Soboro-Don mit Putenhack, Ei und Erbsen
+  summary: |-
+    Japanische Dreifarben-Reisschale: würzig-süßes Putenhack, weiche Eierflocken und grüne Erbsen auf Sushireis.
+en:
+  title: 'TODO: Soboro-Don mit Putenhack, Ei und Erbsen'
+  summary: |-
+    TODO: Japanische Dreifarben-Reisschale: würzig-süßes Putenhack, weiche Eierflocken und grüne Erbsen auf Sushireis.
+ingredients:
+- de_name: Putenhack oder Hähnchenhack
+  en_name: 'TODO: Putenhack oder Hähnchenhack'
+  qty: 650
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Sushireis oder Basmatireis
+  en_name: 'TODO: Sushireis oder Basmatireis'
+  qty: 350
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Eier
+  en_name: 'TODO: Eier'
+  qty: 4
+  unit: Stk
+  category: Protein und Milchprodukte
+- de_name: Erbsen, TK
+  en_name: 'TODO: Erbsen, TK'
+  qty: 200
+  unit: g
+  category: Gemüse und Salat
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Ingwer, frisch gerieben
+  en_name: 'TODO: Ingwer, frisch gerieben'
+  qty: 20
+  unit: g
+  category: Gemüse und Salat
+- de_name: Sojasauce
+  en_name: 'TODO: Sojasauce'
+  qty: 5
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Mirin
+  en_name: 'TODO: Mirin'
+  qty: 4
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sake oder trockener Weißwein
+  en_name: 'TODO: Sake oder trockener Weißwein'
+  qty: 4
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Zucker
+  en_name: 'TODO: Zucker'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sesamöl
+  en_name: 'TODO: Sesamöl'
+  qty: 2
+  unit: TL
+  category: Konserven und Vorrat
+- de_name: Rapsöl
+  en_name: 'TODO: Rapsöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sesam
+  en_name: 'TODO: Sesam'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Reis garen.
+- Sojasauce, Mirin, Sake, Zucker und geriebenen Ingwer verrühren.
+- |-
+  Putenhack in Rapsöl in einem trockenen Topf bei mittlerer Hitze krümelig anbraten – dabei mit Stäbchen oder einer Gabel ständig rühren, bis das Hack fein und trocken ist.
+- |-
+  Die Würzsauce zum Hack geben und bei mittlerer Hitze einkochen, bis die Flüssigkeit fast vollständig aufgesogen ist. Sesamöl unterrühren.
+- |-
+  Eier mit 1 TL Zucker und einer Prise Salz verquirlen. In einer beschichteten Pfanne mit wenig Rapsöl bei niedriger Hitze zu weichen, flockigen Rühreiern garen.
+- Erbsen kurz blanchieren oder in der Pfanne erwärmen.
+- |-
+  Reis in Schalen verteilen. Hack, Ei und Erbsen nebeneinander daraufgeben. Mit Frühlingszwiebeln und Sesam servieren.
+en_steps:
+- 'TODO: Reis garen.'
+- 'TODO: Sojasauce, Mirin, Sake, Zucker und geriebenen Ingwer verrühren.'
+- |-
+  TODO: Putenhack in Rapsöl in einem trockenen Topf bei mittlerer Hitze krümelig anbraten – dabei mit Stäbchen oder einer Gabel ständig rühren, bis das Hack fein und trocken ist.
+- |-
+  TODO: Die Würzsauce zum Hack geben und bei mittlerer Hitze einkochen, bis die Flüssigkeit fast vollständig aufgesogen ist. Sesamöl unterrühren.
+- |-
+  TODO: Eier mit 1 TL Zucker und einer Prise Salz verquirlen. In einer beschichteten Pfanne mit wenig Rapsöl bei niedriger Hitze zu weichen, flockigen Rühreiern garen.
+- 'TODO: Erbsen kurz blanchieren oder in der Pfanne erwärmen.'
+- |-
+  TODO: Reis in Schalen verteilen. Hack, Ei und Erbsen nebeneinander daraufgeben. Mit Frühlingszwiebeln und Sesam servieren.

@@ -1,0 +1,121 @@
+id: kung_pao_chicken
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Kung Pao Hähnchen mit Reis
+  summary: |-
+    Klassisches Sichuan-Gericht mit zartem Hähnchen, getrockneten Chilischoten, knackigen Erdnüssen und betäubend-scharfer Würze.
+en:
+  title: 'TODO: Kung Pao Hähnchen mit Reis'
+  summary: |-
+    TODO: Klassisches Sichuan-Gericht mit zartem Hähnchen, getrockneten Chilischoten, knackigen Erdnüssen und betäubend-scharfer Würze.
+ingredients:
+- de_name: Hähnchenbrustfilet
+  en_name: 'TODO: Hähnchenbrustfilet'
+  qty: 400
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Jasminreis
+  en_name: 'TODO: Jasminreis'
+  qty: 200
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Ingwer, frisch
+  en_name: 'TODO: Ingwer, frisch'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Getrocknete rote Chilischoten
+  en_name: 'TODO: Getrocknete rote Chilischoten'
+  qty: 8
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Erdnüsse (geröstet)
+  en_name: 'TODO: Erdnüsse (geröstet)'
+  qty: 60
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Sojasauce
+  en_name: 'TODO: Sojasauce'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Dunkle Sojasauce
+  en_name: 'TODO: Dunkle Sojasauce'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Reisessig
+  en_name: 'TODO: Reisessig'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Shaoxing-Reiswein
+  en_name: 'TODO: Shaoxing-Reiswein'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Zucker
+  en_name: 'TODO: Zucker'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sesamöl
+  en_name: 'TODO: Sesamöl'
+  qty: 1
+  unit: TL
+  category: Konserven und Vorrat
+- de_name: Speisestärke
+  en_name: 'TODO: Speisestärke'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Erdnussöl
+  en_name: 'TODO: Erdnussöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Szechuanpfeffer, gemahlen
+  en_name: 'TODO: Szechuanpfeffer, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- Jasminreis waschen und kochen.
+- |-
+  Hähnchen in 2-cm-Würfel schneiden. Mit 1 EL Sojasauce, 1 EL Shaoxing-Wein und Speisestärke (1 EL) vermischen und 15 Minuten marinieren.
+- |-
+  Sauce: restliche Sojasauce, dunkle Sojasauce, Reisessig, Zucker und restliche Stärke (in 2 EL Wasser aufgelöst) verrühren.
+- |-
+  Öl im Wok bei starker Hitze erhitzen. Getrocknete Chilis und Szechuanpfeffer 30 Sekunden anbraten, bis sie duften.
+- |-
+  Hähnchen zugeben und 3–4 Minuten scharf anbraten. Knoblauch und Ingwer zugeben und 1 Minute mitbraten.
+- Sauce angießen und unter Rühren aufkochen, bis sie eindickt.
+- Erdnüsse und Frühlingszwiebeln zugeben. Sesamöl unterrühren.
+- Mit Jasminreis anrichten.
+en_steps:
+- 'TODO: Jasminreis waschen und kochen.'
+- |-
+  TODO: Hähnchen in 2-cm-Würfel schneiden. Mit 1 EL Sojasauce, 1 EL Shaoxing-Wein und Speisestärke (1 EL) vermischen und 15 Minuten marinieren.
+- |-
+  TODO: Sauce: restliche Sojasauce, dunkle Sojasauce, Reisessig, Zucker und restliche Stärke (in 2 EL Wasser aufgelöst) verrühren.
+- |-
+  TODO: Öl im Wok bei starker Hitze erhitzen. Getrocknete Chilis und Szechuanpfeffer 30 Sekunden anbraten, bis sie duften.
+- |-
+  TODO: Hähnchen zugeben und 3–4 Minuten scharf anbraten. Knoblauch und Ingwer zugeben und 1 Minute mitbraten.
+- 'TODO: Sauce angießen und unter Rühren aufkochen, bis sie eindickt.'
+- 'TODO: Erdnüsse und Frühlingszwiebeln zugeben. Sesamöl unterrühren.'
+- 'TODO: Mit Jasminreis anrichten.'

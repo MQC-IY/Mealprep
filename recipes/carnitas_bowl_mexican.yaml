@@ -1,0 +1,131 @@
+id: carnitas_bowl_mexican
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Mexikanische Carnitas-Bowl
+  summary: |-
+    Langsam geschmortes Hähnchen mit mexikanischen Gewürzen, knusprig angebratene Carnitas-Stücke auf Chipotle-Reis mit schwarzen Bohnen, Avocado und Pico de Gallo.
+en:
+  title: 'TODO: Mexikanische Carnitas-Bowl'
+  summary: |-
+    TODO: Langsam geschmortes Hähnchen mit mexikanischen Gewürzen, knusprig angebratene Carnitas-Stücke auf Chipotle-Reis mit schwarzen Bohnen, Avocado und Pico de Gallo.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 900
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Langkornreis
+  en_name: 'TODO: Langkornreis'
+  qty: 300
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Schwarze Bohnen
+  en_name: 'TODO: Schwarze Bohnen'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Gehackte Tomaten
+  en_name: 'TODO: Gehackte Tomaten'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Orangensaft
+  en_name: 'TODO: Orangensaft'
+  qty: 100
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Avocado
+  en_name: 'TODO: Avocado'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Tomate
+  en_name: 'TODO: Tomate'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Rote Zwiebel
+  en_name: 'TODO: Rote Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Koriander, frisch
+  en_name: 'TODO: Koriander, frisch'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Jalapeño
+  en_name: 'TODO: Jalapeño'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Limette
+  en_name: 'TODO: Limette'
+  qty: 2
+  unit: Stk
+  category: Obst
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Chipotle-Pulver
+  en_name: 'TODO: Chipotle-Pulver'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Oregano
+  en_name: 'TODO: Oregano'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Paprika edelsüß
+  en_name: 'TODO: Paprika edelsüß'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Zimt, gemahlen
+  en_name: 'TODO: Zimt, gemahlen'
+  qty: 0.25
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Hähnchen mit Kreuzkümmel, Chipotle, Oregano, Paprika, Zimt, Knoblauch, Orangensaft und Olivenöl marinieren. 30 Minuten ruhen lassen.
+- |-
+  Hähnchen in einem schweren Topf mit Deckel bei mittlerer Hitze 25 Minuten schmoren. Dann herausnehmen und mit zwei Gabeln zerzupfen.
+- |-
+  Gezupftes Hähnchen in einer heißen Pfanne ohne zusätzliches Fett 3–4 Minuten knusprig braten.
+- |-
+  Reis kochen. Bohnen aus der Dose abgießen, in der Pfanne mit Kreuzkümmel und Salz kurz erhitzen.
+- |-
+  Pico de Gallo: Tomaten, halbe Zwiebel, Jalapeño und Koriander fein würfeln. Mit Limettensaft und Salz abschmecken.
+- |-
+  Avocado in Scheiben schneiden. Bowls mit Reis, Bohnen, Carnitas, Avocado und Pico de Gallo füllen.
+en_steps:
+- |-
+  TODO: Hähnchen mit Kreuzkümmel, Chipotle, Oregano, Paprika, Zimt, Knoblauch, Orangensaft und Olivenöl marinieren. 30 Minuten ruhen lassen.
+- |-
+  TODO: Hähnchen in einem schweren Topf mit Deckel bei mittlerer Hitze 25 Minuten schmoren. Dann herausnehmen und mit zwei Gabeln zerzupfen.
+- |-
+  TODO: Gezupftes Hähnchen in einer heißen Pfanne ohne zusätzliches Fett 3–4 Minuten knusprig braten.
+- |-
+  TODO: Reis kochen. Bohnen aus der Dose abgießen, in der Pfanne mit Kreuzkümmel und Salz kurz erhitzen.
+- |-
+  TODO: Pico de Gallo: Tomaten, halbe Zwiebel, Jalapeño und Koriander fein würfeln. Mit Limettensaft und Salz abschmecken.
+- |-
+  TODO: Avocado in Scheiben schneiden. Bowls mit Reis, Bohnen, Carnitas, Avocado und Pico de Gallo füllen.

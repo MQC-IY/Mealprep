@@ -1,0 +1,138 @@
+id: thai_green_curry_chicken
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Thai Green Curry mit Hähnchen und Reis
+  summary: |-
+    Aromatisches grünes Thai-Curry mit saftigem Hähnchen, Kokosmilch, Kaffirlimettenblättern und Jasminreis.
+en:
+  title: 'TODO: Thai Green Curry mit Hähnchen und Reis'
+  summary: |-
+    TODO: Aromatisches grünes Thai-Curry mit saftigem Hähnchen, Kokosmilch, Kaffirlimettenblättern und Jasminreis.
+ingredients:
+- de_name: Hähnchenbrustfilet
+  en_name: 'TODO: Hähnchenbrustfilet'
+  qty: 400
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Kokosmilch
+  en_name: 'TODO: Kokosmilch'
+  qty: 400
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Grüne Currypaste
+  en_name: 'TODO: Grüne Currypaste'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Fischsauce
+  en_name: 'TODO: Fischsauce'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Geflügelfond
+  en_name: 'TODO: Geflügelfond'
+  qty: 100
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Kokoscreme
+  en_name: 'TODO: Kokoscreme'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Jasminreis
+  en_name: 'TODO: Jasminreis'
+  qty: 200
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Zucchini
+  en_name: 'TODO: Zucchini'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Paprika (grün)
+  en_name: 'TODO: Paprika (grün)'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Kaffirlimettenblätter
+  en_name: 'TODO: Kaffirlimettenblätter'
+  qty: 4
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Zitronengras
+  en_name: 'TODO: Zitronengras'
+  qty: 1
+  unit: Stange
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 2
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Thai-Basilikum (frisch)
+  en_name: 'TODO: Thai-Basilikum (frisch)'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Frische rote Chili
+  en_name: 'TODO: Frische rote Chili'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Palmzucker
+  en_name: 'TODO: Palmzucker'
+  qty: 1
+  unit: TL
+  category: Konserven und Vorrat
+- de_name: Erdnussöl
+  en_name: 'TODO: Erdnussöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Limette
+  en_name: 'TODO: Limette'
+  qty: 1
+  unit: Stk
+  category: Obst
+- de_name: Gemahlener Koriander
+  en_name: 'TODO: Gemahlener Koriander'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Jasminreis waschen und im Verhältnis 1:1,5 mit Wasser aufkochen, bei niedriger Hitze 12 Minuten garkochen, beiseite stellen.
+- |-
+  Hähnchenbrustfilet in mundgerechte Stücke schneiden. Zucchini und Paprika in grobe Stücke schneiden. Zitronengras anquetschen.
+- |-
+  Erdnussöl im Wok oder Topf bei mittlerer Hitze erhitzen. Grüne Currypaste 1–2 Minuten unter Rühren anrösten, bis es duftet.
+- Kokoscreme hinzufügen und mit der Paste verrühren.
+- Hähnchenstücke zugeben und 3–4 Minuten anbraten, bis sie leicht Farbe nehmen.
+- |-
+  Restliche Kokosmilch, Geflügelfond, Kaffirlimettenblätter, Zitronengras und Fischsauce hinzufügen. Aufkochen lassen.
+- |-
+  Zucchini und Paprika zugeben. 8–10 Minuten bei mittlerer Hitze köcheln, bis das Gemüse gar ist.
+- |-
+  Mit Palmzucker, Fischsauce und Limettensaft abschmecken. Zitronengras entfernen. Thai-Basilikum unterheben.
+- Mit Jasminreis anrichten und mit geschnittener Chili garnieren.
+en_steps:
+- |-
+  TODO: Jasminreis waschen und im Verhältnis 1:1,5 mit Wasser aufkochen, bei niedriger Hitze 12 Minuten garkochen, beiseite stellen.
+- |-
+  TODO: Hähnchenbrustfilet in mundgerechte Stücke schneiden. Zucchini und Paprika in grobe Stücke schneiden. Zitronengras anquetschen.
+- |-
+  TODO: Erdnussöl im Wok oder Topf bei mittlerer Hitze erhitzen. Grüne Currypaste 1–2 Minuten unter Rühren anrösten, bis es duftet.
+- 'TODO: Kokoscreme hinzufügen und mit der Paste verrühren.'
+- |-
+  TODO: Hähnchenstücke zugeben und 3–4 Minuten anbraten, bis sie leicht Farbe nehmen.
+- |-
+  TODO: Restliche Kokosmilch, Geflügelfond, Kaffirlimettenblätter, Zitronengras und Fischsauce hinzufügen. Aufkochen lassen.
+- |-
+  TODO: Zucchini und Paprika zugeben. 8–10 Minuten bei mittlerer Hitze köcheln, bis das Gemüse gar ist.
+- |-
+  TODO: Mit Palmzucker, Fischsauce und Limettensaft abschmecken. Zitronengras entfernen. Thai-Basilikum unterheben.
+- 'TODO: Mit Jasminreis anrichten und mit geschnittener Chili garnieren.'

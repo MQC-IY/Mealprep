@@ -1,0 +1,146 @@
+id: yakisoba_chicken_veg
+pool: lunch
+healthy: false
+quick: true
+next_day: false
+quick_minutes: 30
+meals: 2
+de:
+  title: Hähnchen-Yakisoba mit Wokgemüse
+  summary: |-
+    Gebratene japanische Weizennudeln mit Hähnchen, Wokgemüse und würziger Yakisoba-Soße – schnell und geschmacksstark.
+en:
+  title: 'TODO: Hähnchen-Yakisoba mit Wokgemüse'
+  summary: |-
+    TODO: Gebratene japanische Weizennudeln mit Hähnchen, Wokgemüse und würziger Yakisoba-Soße – schnell und geschmacksstark.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 600
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Weißkohl
+  en_name: 'TODO: Weißkohl'
+  qty: 300
+  unit: g
+  category: Gemüse und Salat
+- de_name: Karotten
+  en_name: 'TODO: Karotten'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Zwiebeln
+  en_name: 'TODO: Zwiebeln'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Paprika (rot und grün)
+  en_name: 'TODO: Paprika (rot und grün)'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 3
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Ingwer (frisch)
+  en_name: 'TODO: Ingwer (frisch)'
+  qty: 20
+  unit: g
+  category: Gemüse und Salat
+- de_name: Yakisoba-Nudeln (vorgekocht)
+  en_name: 'TODO: Yakisoba-Nudeln (vorgekocht)'
+  qty: 600
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Worcestersoße
+  en_name: 'TODO: Worcestersoße'
+  qty: 4
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sojasoße
+  en_name: 'TODO: Sojasoße'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Austernsauce
+  en_name: 'TODO: Austernsauce'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sake
+  en_name: 'TODO: Sake'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sesamöl
+  en_name: 'TODO: Sesamöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Pflanzenöl
+  en_name: 'TODO: Pflanzenöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Zucker
+  en_name: 'TODO: Zucker'
+  qty: 1
+  unit: TL
+  category: Konserven und Vorrat
+- de_name: Togarashi
+  en_name: 'TODO: Togarashi'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Aonori (getrockneter Meeresalgenstaub)
+  en_name: 'TODO: Aonori (getrockneter Meeresalgenstaub)'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Benishoga (roter eingelegter Ingwer)
+  en_name: 'TODO: Benishoga (roter eingelegter Ingwer)'
+  qty: 30
+  unit: g
+  category: Gewürze
+de_steps:
+- |-
+  Hähnchenbrust in dünne Streifen schneiden, mit Sake, Pfeffer und 1 EL Sojasoße 10 Minuten marinieren.
+- |-
+  Yakisoba-Soße anrühren: Worcestersoße, restliche Sojasoße, Austernsauce und Zucker verrühren.
+- |-
+  Gemüse vorbereiten: Weißkohl in grobe Stücke, Karotten in dünne Stifte, Zwiebeln in Streifen, Paprika in dünne Ringe schneiden. Knoblauch und Ingwer fein hacken.
+- |-
+  Wok oder große Pfanne stark erhitzen. Pflanzenöl hineingeben. Hähnchen portionsweise scharf anbraten (3–4 Minuten), herausnehmen.
+- |-
+  Im selben Wok Knoblauch und Ingwer 30 Sekunden anbraten. Karotten und Zwiebeln 2 Minuten braten, dann Kohl und Paprika dazugeben und weitere 3 Minuten unter Rühren garen.
+- |-
+  Yakisoba-Nudeln dazugeben und Soße darübergießen. Alles kräftig 2 Minuten unter Rühren braten.
+- |-
+  Hähnchen zurückgeben, Sesamöl einrühren. Sofort auf Teller verteilen, mit Frühlingszwiebeln, Aonori, Togarashi und Benishoga garnieren.
+en_steps:
+- |-
+  TODO: Hähnchenbrust in dünne Streifen schneiden, mit Sake, Pfeffer und 1 EL Sojasoße 10 Minuten marinieren.
+- |-
+  TODO: Yakisoba-Soße anrühren: Worcestersoße, restliche Sojasoße, Austernsauce und Zucker verrühren.
+- |-
+  TODO: Gemüse vorbereiten: Weißkohl in grobe Stücke, Karotten in dünne Stifte, Zwiebeln in Streifen, Paprika in dünne Ringe schneiden. Knoblauch und Ingwer fein hacken.
+- |-
+  TODO: Wok oder große Pfanne stark erhitzen. Pflanzenöl hineingeben. Hähnchen portionsweise scharf anbraten (3–4 Minuten), herausnehmen.
+- |-
+  TODO: Im selben Wok Knoblauch und Ingwer 30 Sekunden anbraten. Karotten und Zwiebeln 2 Minuten braten, dann Kohl und Paprika dazugeben und weitere 3 Minuten unter Rühren garen.
+- |-
+  TODO: Yakisoba-Nudeln dazugeben und Soße darübergießen. Alles kräftig 2 Minuten unter Rühren braten.
+- |-
+  TODO: Hähnchen zurückgeben, Sesamöl einrühren. Sofort auf Teller verteilen, mit Frühlingszwiebeln, Aonori, Togarashi und Benishoga garnieren.

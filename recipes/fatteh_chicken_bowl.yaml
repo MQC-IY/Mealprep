@@ -1,0 +1,119 @@
+id: fatteh_chicken_bowl
+pool: lunch
+healthy: false
+quick: false
+next_day: false
+meals: 2
+de:
+  title: Libanesische Fatteh-Bowl mit Kichererbsen
+  summary: |-
+    Klassische libanesische Fatteh: Knuspriges Fladenbrot, Kichererbsen, würziges Hähnchen, Joghurt-Tahini-Sauce und geröstete Pinienkerne.
+en:
+  title: 'TODO: Libanesische Fatteh-Bowl mit Kichererbsen'
+  summary: |-
+    TODO: Klassische libanesische Fatteh: Knuspriges Fladenbrot, Kichererbsen, würziges Hähnchen, Joghurt-Tahini-Sauce und geröstete Pinienkerne.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 700
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Naturjoghurt
+  en_name: 'TODO: Naturjoghurt'
+  qty: 400
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Kichererbsen
+  en_name: 'TODO: Kichererbsen'
+  qty: 2
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Tahini
+  en_name: 'TODO: Tahini'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Fladenbrote
+  en_name: 'TODO: Fladenbrote'
+  qty: 4
+  unit: Stk
+  category: Kohlenhydrate und Sattmacher
+- de_name: Petersilie, frisch
+  en_name: 'TODO: Petersilie, frisch'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Pinienkerne
+  en_name: 'TODO: Pinienkerne'
+  qty: 40
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Zitrone
+  en_name: 'TODO: Zitrone'
+  qty: 2
+  unit: Stk
+  category: Obst
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+- de_name: Koriander, gemahlen
+  en_name: 'TODO: Koriander, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Paprika edelsüß
+  en_name: 'TODO: Paprika edelsüß'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Zimt, gemahlen
+  en_name: 'TODO: Zimt, gemahlen'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Sumach
+  en_name: 'TODO: Sumach'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Fladenbrote in Stücke reißen, mit Olivenöl beträufeln und bei 200 °C ca. 8 Minuten goldbraun und knusprig backen.
+- |-
+  Hähnchen würfeln. Mit Kreuzkümmel, Koriander, Paprika, Zimt, Chiliflocken und 2 Knoblauchzehen würzen. In Olivenöl scharf anbraten.
+- |-
+  Kichererbsen abgießen, kurz in der Pfanne mit etwas Öl und Kreuzkümmel durchschwenken.
+- |-
+  Joghurt-Sauce: Joghurt mit Tahini, Saft einer Zitrone, 2 Knoblauchzehen (gepresst), Salz und 2 EL Wasser cremig verrühren.
+- Pinienkerne in einer trockenen Pfanne goldbraun rösten.
+- |-
+  Bowls aufbauen: Fladenbrot-Chips als Basis, Kichererbsen darüber, Hähnchen obenauf, Joghurt-Tahini-Sauce großzügig verteilen. Mit Petersilie, Pinienkernen, Sumach und Chiliflocken bestreuen.
+en_steps:
+- |-
+  TODO: Fladenbrote in Stücke reißen, mit Olivenöl beträufeln und bei 200 °C ca. 8 Minuten goldbraun und knusprig backen.
+- |-
+  TODO: Hähnchen würfeln. Mit Kreuzkümmel, Koriander, Paprika, Zimt, Chiliflocken und 2 Knoblauchzehen würzen. In Olivenöl scharf anbraten.
+- |-
+  TODO: Kichererbsen abgießen, kurz in der Pfanne mit etwas Öl und Kreuzkümmel durchschwenken.
+- |-
+  TODO: Joghurt-Sauce: Joghurt mit Tahini, Saft einer Zitrone, 2 Knoblauchzehen (gepresst), Salz und 2 EL Wasser cremig verrühren.
+- 'TODO: Pinienkerne in einer trockenen Pfanne goldbraun rösten.'
+- |-
+  TODO: Bowls aufbauen: Fladenbrot-Chips als Basis, Kichererbsen darüber, Hähnchen obenauf, Joghurt-Tahini-Sauce großzügig verteilen. Mit Petersilie, Pinienkernen, Sumach und Chiliflocken bestreuen.

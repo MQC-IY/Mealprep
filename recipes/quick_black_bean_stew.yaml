@@ -1,0 +1,91 @@
+id: quick_black_bean_stew
+pool: lunch
+healthy: true
+quick: true
+next_day: true
+quick_minutes: 20
+meals: 2
+de:
+  title: Schneller Schwarze-Bohnen-Eintopf
+  summary: |-
+    Rauchig-scharfer Schwarzbohnen-Eintopf mit Chipotle, Koriander und Limette — in 20 Minuten.
+en:
+  title: 'TODO: Schneller Schwarze-Bohnen-Eintopf'
+  summary: |-
+    TODO: Rauchig-scharfer Schwarzbohnen-Eintopf mit Chipotle, Koriander und Limette — in 20 Minuten.
+ingredients:
+- de_name: Schwarze Bohnen, abgetropft
+  en_name: 'TODO: Schwarze Bohnen, abgetropft'
+  qty: 2
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Gehackte Tomaten
+  en_name: 'TODO: Gehackte Tomaten'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Gemüsebrühe
+  en_name: 'TODO: Gemüsebrühe'
+  qty: 400
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Chipotle-Paste
+  en_name: 'TODO: Chipotle-Paste'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Frischer Koriander
+  en_name: 'TODO: Frischer Koriander'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 3
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Limette, Saft
+  en_name: 'TODO: Limette, Saft'
+  qty: 1
+  unit: Stk
+  category: Obst
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Geräuchertes Paprikapulver
+  en_name: 'TODO: Geräuchertes Paprikapulver'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- Zwiebel würfeln und Knoblauch hacken. In Olivenöl 3 Minuten anschwitzen.
+- Kreuzkümmel, geräuchertes Paprika und Chipotle-Paste einrühren, 1 Minute rösten.
+- |-
+  Bohnen, Tomaten und Brühe hinzufügen. Aufkochen und 12 Minuten köcheln lassen. Ein Viertel der Bohnen mit einer Gabel zerdrücken, um die Suppe zu binden.
+- |-
+  Vom Herd nehmen, Limettensaft einrühren, mit Salz abschmecken und mit frisch gehacktem Koriander servieren.
+en_steps:
+- 'TODO: Zwiebel würfeln und Knoblauch hacken. In Olivenöl 3 Minuten anschwitzen.'
+- |-
+  TODO: Kreuzkümmel, geräuchertes Paprika und Chipotle-Paste einrühren, 1 Minute rösten.
+- |-
+  TODO: Bohnen, Tomaten und Brühe hinzufügen. Aufkochen und 12 Minuten köcheln lassen. Ein Viertel der Bohnen mit einer Gabel zerdrücken, um die Suppe zu binden.
+- |-
+  TODO: Vom Herd nehmen, Limettensaft einrühren, mit Salz abschmecken und mit frisch gehacktem Koriander servieren.

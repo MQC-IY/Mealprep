@@ -1,0 +1,89 @@
+id: french_chicken_ratatouille
+pool: lunch
+healthy: true
+quick: false
+next_day: true
+meals: 3
+de:
+  title: Hähnchen-Ratatouille mit Kartoffeln
+  summary: |-
+    Französisch inspiriertes Ratatouille mit Hähnchen, Aubergine, Zucchini, Paprika, Tomate und Kräutern.
+en:
+  title: 'TODO: Hähnchen-Ratatouille mit Kartoffeln'
+  summary: |-
+    TODO: Französisch inspiriertes Ratatouille mit Hähnchen, Aubergine, Zucchini, Paprika, Tomate und Kräutern.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 800
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Kartoffeln
+  en_name: 'TODO: Kartoffeln'
+  qty: 700
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Zucchini
+  en_name: 'TODO: Zucchini'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Aubergine
+  en_name: 'TODO: Aubergine'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Paprika
+  en_name: 'TODO: Paprika'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Gehackte Tomaten
+  en_name: 'TODO: Gehackte Tomaten'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 2
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Kräuter der Provence
+  en_name: 'TODO: Kräuter der Provence'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Basilikum
+  en_name: 'TODO: Basilikum'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Kartoffeln würfeln und vorgaren.
+- Hähnchen in Stücke schneiden und anbraten.
+- |-
+  Gemüse mit Zwiebel und Knoblauch in Olivenöl schmoren, Tomaten und Kräuter zugeben.
+- Kartoffeln und Hähnchen unterheben und alles zusammen weich ziehen lassen.
+- Erwachsene zum Schluss mit Salz, Pfeffer und extra Kräutern abschmecken.
+en_steps:
+- 'TODO: Kartoffeln würfeln und vorgaren.'
+- 'TODO: Hähnchen in Stücke schneiden und anbraten.'
+- |-
+  TODO: Gemüse mit Zwiebel und Knoblauch in Olivenöl schmoren, Tomaten und Kräuter zugeben.
+- 'TODO: Kartoffeln und Hähnchen unterheben und alles zusammen weich ziehen lassen.'
+- 'TODO: Erwachsene zum Schluss mit Salz, Pfeffer und extra Kräutern abschmecken.'

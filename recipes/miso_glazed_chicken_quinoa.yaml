@@ -1,0 +1,133 @@
+id: miso_glazed_chicken_quinoa
+pool: lunch
+healthy: true
+quick: false
+next_day: false
+meals: 2
+de:
+  title: Miso-glasiertes Hähnchen mit Gemüse-Quinoa
+  summary: |-
+    Hähnchenbrust mit kräftiger Aka-Miso-Glasur, ofengegart und auf nährstoffreichem Quinoa mit Gemüse serviert.
+en:
+  title: 'TODO: Miso-glasiertes Hähnchen mit Gemüse-Quinoa'
+  summary: |-
+    TODO: Hähnchenbrust mit kräftiger Aka-Miso-Glasur, ofengegart und auf nährstoffreichem Quinoa mit Gemüse serviert.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 800
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Brokkoli
+  en_name: 'TODO: Brokkoli'
+  qty: 400
+  unit: g
+  category: Gemüse und Salat
+- de_name: Karotten
+  en_name: 'TODO: Karotten'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Zuckerschoten
+  en_name: 'TODO: Zuckerschoten'
+  qty: 150
+  unit: g
+  category: Gemüse und Salat
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 3
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Quinoa
+  en_name: 'TODO: Quinoa'
+  qty: 300
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Aka-Miso (rote Misopaste)
+  en_name: 'TODO: Aka-Miso (rote Misopaste)'
+  qty: 4
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Mirin
+  en_name: 'TODO: Mirin'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sake
+  en_name: 'TODO: Sake'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sojasoße
+  en_name: 'TODO: Sojasoße'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sesamöl
+  en_name: 'TODO: Sesamöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Honig
+  en_name: 'TODO: Honig'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Pflanzenöl
+  en_name: 'TODO: Pflanzenöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Gemüsebrühe
+  en_name: 'TODO: Gemüsebrühe'
+  qty: 600
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Sesamkörner (schwarz und weiß)
+  en_name: 'TODO: Sesamkörner (schwarz und weiß)'
+  qty: 2
+  unit: EL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Quinoa in der Gemüsebrühe aufkochen, Hitze reduzieren und 15 Minuten köcheln, bis die Brühe absorbiert ist. Mit Deckel 5 Minuten quellen lassen.
+- |-
+  Miso-Glasur anrühren: Aka-Miso, Mirin, Sake, Sojasoße, Honig und gepressten Knoblauch glatt rühren.
+- |-
+  Backofen auf 200 °C (Ober-/Unterhitze) vorheizen. Hähnchenbrust auf ein Backblech legen, großzügig mit der Miso-Glasur bestreichen.
+- |-
+  20–22 Minuten im Ofen garen, nach der Hälfte der Zeit erneut mit Glasur einstreichen.
+- |-
+  Karotten in dünne Scheiben, Brokkoli in kleine Röschen schneiden. In Sesamöl mit Pflanzenöl 5 Minuten scharf anbraten. Zuckerschoten die letzten 2 Minuten dazugeben.
+- Hähnchen 5 Minuten ruhen lassen, dann in Scheiben schneiden.
+- |-
+  Quinoa mit dem Gemüse mischen. Hähnchen darauflegen, mit Frühlingszwiebeln und Sesamkörnern garnieren.
+en_steps:
+- |-
+  TODO: Quinoa in der Gemüsebrühe aufkochen, Hitze reduzieren und 15 Minuten köcheln, bis die Brühe absorbiert ist. Mit Deckel 5 Minuten quellen lassen.
+- |-
+  TODO: Miso-Glasur anrühren: Aka-Miso, Mirin, Sake, Sojasoße, Honig und gepressten Knoblauch glatt rühren.
+- |-
+  TODO: Backofen auf 200 °C (Ober-/Unterhitze) vorheizen. Hähnchenbrust auf ein Backblech legen, großzügig mit der Miso-Glasur bestreichen.
+- |-
+  TODO: 20–22 Minuten im Ofen garen, nach der Hälfte der Zeit erneut mit Glasur einstreichen.
+- |-
+  TODO: Karotten in dünne Scheiben, Brokkoli in kleine Röschen schneiden. In Sesamöl mit Pflanzenöl 5 Minuten scharf anbraten. Zuckerschoten die letzten 2 Minuten dazugeben.
+- 'TODO: Hähnchen 5 Minuten ruhen lassen, dann in Scheiben schneiden.'
+- |-
+  TODO: Quinoa mit dem Gemüse mischen. Hähnchen darauflegen, mit Frühlingszwiebeln und Sesamkörnern garnieren.

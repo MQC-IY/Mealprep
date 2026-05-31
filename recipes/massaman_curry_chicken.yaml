@@ -1,0 +1,133 @@
+id: massaman_curry_chicken
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Massaman Curry mit Hähnchen und Kartoffeln
+  summary: |-
+    Mildes, tiefwürziges Massaman-Curry mit zartem Hähnchen, Kartoffeln, gerösteten Erdnüssen und wärmenden Gewürzen.
+en:
+  title: 'TODO: Massaman Curry mit Hähnchen und Kartoffeln'
+  summary: |-
+    TODO: Mildes, tiefwürziges Massaman-Curry mit zartem Hähnchen, Kartoffeln, gerösteten Erdnüssen und wärmenden Gewürzen.
+ingredients:
+- de_name: Hähnchenschenkel (ausgelöst)
+  en_name: 'TODO: Hähnchenschenkel (ausgelöst)'
+  qty: 500
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Kokosmilch
+  en_name: 'TODO: Kokosmilch'
+  qty: 400
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Massaman-Currypaste
+  en_name: 'TODO: Massaman-Currypaste'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Geflügelfond
+  en_name: 'TODO: Geflügelfond'
+  qty: 150
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Fischsauce
+  en_name: 'TODO: Fischsauce'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Tamarindenpaste
+  en_name: 'TODO: Tamarindenpaste'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Palmzucker
+  en_name: 'TODO: Palmzucker'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Erdnussöl
+  en_name: 'TODO: Erdnussöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Jasminreis
+  en_name: 'TODO: Jasminreis'
+  qty: 200
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Kartoffeln (festkochend)
+  en_name: 'TODO: Kartoffeln (festkochend)'
+  qty: 300
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Kaffirlimettenblätter
+  en_name: 'TODO: Kaffirlimettenblätter'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Zitronengras
+  en_name: 'TODO: Zitronengras'
+  qty: 1
+  unit: Stange
+  category: Gemüse und Salat
+- de_name: Erdnüsse (geröstet)
+  en_name: 'TODO: Erdnüsse (geröstet)'
+  qty: 50
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Limette
+  en_name: 'TODO: Limette'
+  qty: 1
+  unit: Stk
+  category: Obst
+- de_name: Zimtstange
+  en_name: 'TODO: Zimtstange'
+  qty: 1
+  unit: Stk
+  category: Gewürze
+- de_name: Sternanis
+  en_name: 'TODO: Sternanis'
+  qty: 2
+  unit: Stk
+  category: Gewürze
+- de_name: Kardamomkapseln
+  en_name: 'TODO: Kardamomkapseln'
+  qty: 3
+  unit: Stk
+  category: Gewürze
+de_steps:
+- |-
+  Jasminreis waschen und kochen. Kartoffeln schälen und in 3-cm-Würfel schneiden. Zwiebel in Spalten schneiden.
+- Hähnchenschenkel in große Stücke teilen. Zitronengras anquetschen.
+- |-
+  Öl im Topf erhitzen. Massaman-Paste mit Zimtstange, Sternanis und Kardamom 2 Minuten bei mittlerer Hitze anrösten.
+- Hähnchen zugeben und von allen Seiten anbraten (4–5 Min.).
+- |-
+  Kokosmilch, Geflügelfond, Zitronengras und Kaffirlimettenblätter zugießen. Aufkochen.
+- |-
+  Kartoffeln und Zwiebel zugeben. Hitze reduzieren und 25–30 Minuten zugedeckt köcheln, bis Kartoffeln weich sind.
+- |-
+  Mit Fischsauce, Tamarindenpaste, Palmzucker und Limettensaft abschmecken. Ganzgewürze entfernen.
+- Mit Jasminreis anrichten und mit gerösteten Erdnüssen bestreuen.
+en_steps:
+- |-
+  TODO: Jasminreis waschen und kochen. Kartoffeln schälen und in 3-cm-Würfel schneiden. Zwiebel in Spalten schneiden.
+- 'TODO: Hähnchenschenkel in große Stücke teilen. Zitronengras anquetschen.'
+- |-
+  TODO: Öl im Topf erhitzen. Massaman-Paste mit Zimtstange, Sternanis und Kardamom 2 Minuten bei mittlerer Hitze anrösten.
+- 'TODO: Hähnchen zugeben und von allen Seiten anbraten (4–5 Min.).'
+- |-
+  TODO: Kokosmilch, Geflügelfond, Zitronengras und Kaffirlimettenblätter zugießen. Aufkochen.
+- |-
+  TODO: Kartoffeln und Zwiebel zugeben. Hitze reduzieren und 25–30 Minuten zugedeckt köcheln, bis Kartoffeln weich sind.
+- |-
+  TODO: Mit Fischsauce, Tamarindenpaste, Palmzucker und Limettensaft abschmecken. Ganzgewürze entfernen.
+- 'TODO: Mit Jasminreis anrichten und mit gerösteten Erdnüssen bestreuen.'

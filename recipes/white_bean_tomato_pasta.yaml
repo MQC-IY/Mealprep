@@ -1,0 +1,67 @@
+id: white_bean_tomato_pasta
+pool: lunch
+healthy: true
+quick: true
+next_day: false
+quick_minutes: 20
+meals: 3
+de:
+  title: Tomatenpasta mit weißen Bohnen
+  summary: Schnelle, milde Bohnenpasta mit Spinat und cremiger Tomatensauce.
+en:
+  title: 'TODO: Tomatenpasta mit weißen Bohnen'
+  summary: 'TODO: Schnelle, milde Bohnenpasta mit Spinat und cremiger Tomatensauce.'
+ingredients:
+- de_name: Vollkornnudeln
+  en_name: 'TODO: Vollkornnudeln'
+  qty: 320
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Weiße Bohnen
+  en_name: 'TODO: Weiße Bohnen'
+  qty: 2
+  unit: Dosen
+  category: Konserven und Vorrat
+- de_name: Passierte Tomaten
+  en_name: 'TODO: Passierte Tomaten'
+  qty: 1
+  unit: Glas
+  category: Konserven und Vorrat
+- de_name: Blattspinat
+  en_name: 'TODO: Blattspinat'
+  qty: 150
+  unit: g
+  category: Gemüse und Salat
+- de_name: Frischkäse natur
+  en_name: 'TODO: Frischkäse natur'
+  qty: 100
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Basilikum
+  en_name: 'TODO: Basilikum'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Nudeln kochen.
+- Zwiebel in Olivenöl anschwitzen, Tomaten und Bohnen zugeben.
+- Frischkäse und Spinat unterrühren und kurz ziehen lassen.
+en_steps:
+- 'TODO: Nudeln kochen.'
+- 'TODO: Zwiebel in Olivenöl anschwitzen, Tomaten und Bohnen zugeben.'
+- 'TODO: Frischkäse und Spinat unterrühren und kurz ziehen lassen.'

@@ -1,0 +1,112 @@
+id: fabada_white_bean_stew
+pool: lunch
+healthy: true
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Fabada Asturiana-inspirierter Weißbohneneintopf
+  summary: |-
+    Asturischer Weißbohneneintopf mit Chorizo, Morcilla, Speck und Safran – einer der reichhaltigsten und sättigendsten Klassiker der spanischen Küche.
+en:
+  title: 'TODO: Fabada Asturiana-inspirierter Weißbohneneintopf'
+  summary: |-
+    TODO: Asturischer Weißbohneneintopf mit Chorizo, Morcilla, Speck und Safran – einer der reichhaltigsten und sättigendsten Klassiker der spanischen Küche.
+ingredients:
+- de_name: Große weiße Bohnen aus der Dose (Fabes oder Cannellini)
+  en_name: 'TODO: Große weiße Bohnen aus der Dose (Fabes oder Cannellini)'
+  qty: 2
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Chorizo
+  en_name: 'TODO: Chorizo'
+  qty: 200
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Morcilla (Blutwurst) oder Bratwurst
+  en_name: 'TODO: Morcilla (Blutwurst) oder Bratwurst'
+  qty: 150
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Geräucherter Bauchspeck am Stück
+  en_name: 'TODO: Geräucherter Bauchspeck am Stück'
+  qty: 150
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Hühner- oder Schweinebrühe
+  en_name: 'TODO: Hühner- oder Schweinebrühe'
+  qty: 600
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Safranfäden
+  en_name: 'TODO: Safranfäden'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Pimentón ahumado
+  en_name: 'TODO: Pimentón ahumado'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Lorbeerblätter
+  en_name: 'TODO: Lorbeerblätter'
+  qty: 2
+  unit: Stk
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Safranfäden in 3 EL warmem Wasser 10 Minuten einweichen. Chorizo und Morcilla in dicke Scheiben schneiden, Speck in 3–4 Stücke.
+- |-
+  Olivenöl in einem großen Topf bei mittlerer Hitze erwärmen. Zwiebel und Knoblauch (beides fein gewürfelt) 5 Minuten anschwitzen.
+- |-
+  Speck dazugeben und 3 Minuten mitbraten. Chorizo-Scheiben einlegen, 2 Minuten weiterbraten.
+- |-
+  Pimentón und Lorbeer einrühren, 1 Minute rösten. Brühe und Safranwasser dazugießen, aufkochen.
+- Bohnen (abgetropft, aber nicht gespült) einlegen. Morcilla obenauf setzen.
+- |-
+  Herd auf niedrigste Stufe reduzieren. Zugedeckt 40 Minuten sanft köcheln – nicht umrühren, damit die Bohnen ganz bleiben.
+- |-
+  Für eine sämige Sauce: Einige Bohnen herausheben und mit einer Gabel zerdrücken, zurück in den Topf einrühren.
+- |-
+  Lorbeer entfernen, mit Salz und Pfeffer abschmecken. Traditionell ohne Beilage servieren.
+en_steps:
+- |-
+  TODO: Safranfäden in 3 EL warmem Wasser 10 Minuten einweichen. Chorizo und Morcilla in dicke Scheiben schneiden, Speck in 3–4 Stücke.
+- |-
+  TODO: Olivenöl in einem großen Topf bei mittlerer Hitze erwärmen. Zwiebel und Knoblauch (beides fein gewürfelt) 5 Minuten anschwitzen.
+- |-
+  TODO: Speck dazugeben und 3 Minuten mitbraten. Chorizo-Scheiben einlegen, 2 Minuten weiterbraten.
+- |-
+  TODO: Pimentón und Lorbeer einrühren, 1 Minute rösten. Brühe und Safranwasser dazugießen, aufkochen.
+- 'TODO: Bohnen (abgetropft, aber nicht gespült) einlegen. Morcilla obenauf setzen.'
+- |-
+  TODO: Herd auf niedrigste Stufe reduzieren. Zugedeckt 40 Minuten sanft köcheln – nicht umrühren, damit die Bohnen ganz bleiben.
+- |-
+  TODO: Für eine sämige Sauce: Einige Bohnen herausheben und mit einer Gabel zerdrücken, zurück in den Topf einrühren.
+- |-
+  TODO: Lorbeer entfernen, mit Salz und Pfeffer abschmecken. Traditionell ohne Beilage servieren.

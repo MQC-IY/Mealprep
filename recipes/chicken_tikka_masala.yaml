@@ -1,0 +1,141 @@
+id: chicken_tikka_masala
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Chicken Tikka Masala mit Reis
+  summary: |-
+    Gegrillte, marinierte Hähnchenstücke in einer aromatischen orangen Masala-Sauce – saftig, würzig und unwiderstehlich.
+en:
+  title: 'TODO: Chicken Tikka Masala mit Reis'
+  summary: |-
+    TODO: Gegrillte, marinierte Hähnchenstücke in einer aromatischen orangen Masala-Sauce – saftig, würzig und unwiderstehlich.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 650
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Vollfett-Joghurt
+  en_name: 'TODO: Vollfett-Joghurt'
+  qty: 150
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Sahne
+  en_name: 'TODO: Sahne'
+  qty: 100
+  unit: ml
+  category: Protein und Milchprodukte
+- de_name: Butter
+  en_name: 'TODO: Butter'
+  qty: 30
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Zwiebeln
+  en_name: 'TODO: Zwiebeln'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 5
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Ingwer, frisch
+  en_name: 'TODO: Ingwer, frisch'
+  qty: 4
+  unit: cm
+  category: Gemüse und Salat
+- de_name: Grüne Paprika
+  en_name: 'TODO: Grüne Paprika'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Basmatireis
+  en_name: 'TODO: Basmatireis'
+  qty: 300
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Gehackte Tomaten
+  en_name: 'TODO: Gehackte Tomaten'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Tomatenmark
+  en_name: 'TODO: Tomatenmark'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Pflanzenöl
+  en_name: 'TODO: Pflanzenöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Garam Masala
+  en_name: 'TODO: Garam Masala'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Tikka-Masala-Gewürzmischung
+  en_name: 'TODO: Tikka-Masala-Gewürzmischung'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Kashmiri-Chilipulver
+  en_name: 'TODO: Kashmiri-Chilipulver'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+- de_name: Kurkuma
+  en_name: 'TODO: Kurkuma'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Koriander, gemahlen
+  en_name: 'TODO: Koriander, gemahlen'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Paprikapulver, geräuchert
+  en_name: 'TODO: Paprikapulver, geräuchert'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Hähnchen in große Würfel schneiden. Mit Joghurt, Tikka-Masala-Mischung, Kashmiri-Chili, Kurkuma, Salz und Öl vermengen. Mindestens 1 Stunde marinieren.
+- |-
+  Mariniertes Hähnchen unter dem Backofengrill oder in einer heißen Grillpfanne bei hoher Hitze 6–8 Minuten von allen Seiten grillen, bis leicht angebrannt. Beiseitestellen.
+- |-
+  Butter in einem Topf erhitzen. Fein gewürfelte Zwiebeln 10 Minuten goldbraun braten. Knoblauch und Ingwer (gerieben) 2 Minuten mitbraten.
+- |-
+  Koriander, Kreuzkümmel, geräuchertes Paprika und Garam Masala einstreuen, 1 Minute rösten. Tomatenmark einrühren, dann gehackte Tomaten hinzufügen.
+- |-
+  Sauce 15 Minuten köcheln lassen. Mit einem Stabmixer glatt pürieren. Sahne einrühren und weitere 5 Minuten köcheln.
+- |-
+  Gegrillte Hähnchenstücke in die Sauce geben, 10 Minuten bei niedriger Hitze fertig garen. Mit Basmatireis und frischem Koriander servieren.
+en_steps:
+- |-
+  TODO: Hähnchen in große Würfel schneiden. Mit Joghurt, Tikka-Masala-Mischung, Kashmiri-Chili, Kurkuma, Salz und Öl vermengen. Mindestens 1 Stunde marinieren.
+- |-
+  TODO: Mariniertes Hähnchen unter dem Backofengrill oder in einer heißen Grillpfanne bei hoher Hitze 6–8 Minuten von allen Seiten grillen, bis leicht angebrannt. Beiseitestellen.
+- |-
+  TODO: Butter in einem Topf erhitzen. Fein gewürfelte Zwiebeln 10 Minuten goldbraun braten. Knoblauch und Ingwer (gerieben) 2 Minuten mitbraten.
+- |-
+  TODO: Koriander, Kreuzkümmel, geräuchertes Paprika und Garam Masala einstreuen, 1 Minute rösten. Tomatenmark einrühren, dann gehackte Tomaten hinzufügen.
+- |-
+  TODO: Sauce 15 Minuten köcheln lassen. Mit einem Stabmixer glatt pürieren. Sahne einrühren und weitere 5 Minuten köcheln.
+- |-
+  TODO: Gegrillte Hähnchenstücke in die Sauce geben, 10 Minuten bei niedriger Hitze fertig garen. Mit Basmatireis und frischem Koriander servieren.

@@ -1,0 +1,101 @@
+id: chicken_saltimbocca_marsala
+pool: lunch
+healthy: false
+quick: false
+next_day: false
+meals: 2
+de:
+  title: Hähnchen-Saltimbocca mit Marsala-Sauce
+  summary: |-
+    Zarte Hähnchenbrust mit Salbei und Prosciutto, in Butter scharf angebraten und mit einer tiefen Marsala-Jus vollendet.
+en:
+  title: 'TODO: Hähnchen-Saltimbocca mit Marsala-Sauce'
+  summary: |-
+    TODO: Zarte Hähnchenbrust mit Salbei und Prosciutto, in Butter scharf angebraten und mit einer tiefen Marsala-Jus vollendet.
+ingredients:
+- de_name: Hähnchenbrust (ohne Haut)
+  en_name: 'TODO: Hähnchenbrust (ohne Haut)'
+  qty: 800
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Prosciutto di Parma (dünn geschnitten)
+  en_name: 'TODO: Prosciutto di Parma (dünn geschnitten)'
+  qty: 8
+  unit: Stk
+  category: Protein und Milchprodukte
+- de_name: Frischer Salbei
+  en_name: 'TODO: Frischer Salbei'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Schalotten
+  en_name: 'TODO: Schalotten'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 3
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Marsala secco (trocken)
+  en_name: 'TODO: Marsala secco (trocken)'
+  qty: 200
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 200
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Butter (kalt, gewürfelt)
+  en_name: 'TODO: Butter (kalt, gewürfelt)'
+  qty: 80
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Mehl (zum Bestäuben)
+  en_name: 'TODO: Mehl (zum Bestäuben)'
+  qty: 40
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Meersalz
+  en_name: 'TODO: Meersalz'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Hähnchenbrüste horizontal halbieren, sodass 8 flache Schnitzel entstehen. Zwischen Frischhaltefolie auf ca. 8 mm Dicke plattieren. Salzen und pfeffern.
+- |-
+  Je 1–2 Salbeiblätter auf die glatte Seite jedes Schnitzels legen, dann eine Scheibe Prosciutto darüberlegen und andrücken. Prosciuttoseite leicht in Mehl tauchen, abklopfen.
+- |-
+  2 EL Olivenöl und ein Nussbutterreserve in einer großen Pfanne bei hoher Hitze erhitzen. Schnitzel mit Prosciuttoseite nach unten einlegen, 2–3 Min. knusprig braten. Wenden und 2 Min. fertig garen. In Lagen warmhalten.
+- |-
+  Pfannenfett abgießen, 1 EL frisches Olivenöl bei mittlerer Hitze erhitzen. Schalotten fein würfeln und glasig dünsten, ca. 3 Min. Knoblauch fein hacken, 1 Min. mitdünsten.
+- |-
+  Marsala in die Pfanne gießen, aufkochen und auf die Hälfte einreduzieren lassen, dabei alle Röststoffe lösen, ca. 4 Min. Hühnerbrühe hinzufügen, erneut um ein Drittel einkochen.
+- |-
+  Pfanne vom Herd nehmen, kalte Butterwürfel Stück für Stück einrühren (montieren), bis eine glänzende, sämige Sauce entsteht. Abschmecken. Saltimbocca in der Sauce schwenken, mit restlichen frischen Salbeiblättern bestreut sofort servieren.
+en_steps:
+- |-
+  TODO: Hähnchenbrüste horizontal halbieren, sodass 8 flache Schnitzel entstehen. Zwischen Frischhaltefolie auf ca. 8 mm Dicke plattieren. Salzen und pfeffern.
+- |-
+  TODO: Je 1–2 Salbeiblätter auf die glatte Seite jedes Schnitzels legen, dann eine Scheibe Prosciutto darüberlegen und andrücken. Prosciuttoseite leicht in Mehl tauchen, abklopfen.
+- |-
+  TODO: 2 EL Olivenöl und ein Nussbutterreserve in einer großen Pfanne bei hoher Hitze erhitzen. Schnitzel mit Prosciuttoseite nach unten einlegen, 2–3 Min. knusprig braten. Wenden und 2 Min. fertig garen. In Lagen warmhalten.
+- |-
+  TODO: Pfannenfett abgießen, 1 EL frisches Olivenöl bei mittlerer Hitze erhitzen. Schalotten fein würfeln und glasig dünsten, ca. 3 Min. Knoblauch fein hacken, 1 Min. mitdünsten.
+- |-
+  TODO: Marsala in die Pfanne gießen, aufkochen und auf die Hälfte einreduzieren lassen, dabei alle Röststoffe lösen, ca. 4 Min. Hühnerbrühe hinzufügen, erneut um ein Drittel einkochen.
+- |-
+  TODO: Pfanne vom Herd nehmen, kalte Butterwürfel Stück für Stück einrühren (montieren), bis eine glänzende, sämige Sauce entsteht. Abschmecken. Saltimbocca in der Sauce schwenken, mit restlichen frischen Salbeiblättern bestreut sofort servieren.

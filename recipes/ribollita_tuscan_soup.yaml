@@ -1,0 +1,125 @@
+id: ribollita_tuscan_soup
+pool: lunch
+healthy: true
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Ribollita – Toskanische Brot-Bohnen-Suppe
+  summary: |-
+    Sättigende toskanische Brotsuppe mit weißen Bohnen, Grünkohl, Cannellini und altem Brot – am zweiten Tag noch besser.
+en:
+  title: 'TODO: Ribollita – Toskanische Brot-Bohnen-Suppe'
+  summary: |-
+    TODO: Sättigende toskanische Brotsuppe mit weißen Bohnen, Grünkohl, Cannellini und altem Brot – am zweiten Tag noch besser.
+ingredients:
+- de_name: Cannellini-Bohnen aus der Dose
+  en_name: 'TODO: Cannellini-Bohnen aus der Dose'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Altbackenes Brot (Ciabatta oder Bauernbrot)
+  en_name: 'TODO: Altbackenes Brot (Ciabatta oder Bauernbrot)'
+  qty: 150
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Grünkohl (Cavolo Nero)
+  en_name: 'TODO: Grünkohl (Cavolo Nero)'
+  qty: 200
+  unit: g
+  category: Gemüse und Salat
+- de_name: Karotte
+  en_name: 'TODO: Karotte'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Staudensellerie
+  en_name: 'TODO: Staudensellerie'
+  qty: 2
+  unit: Stange
+  category: Gemüse und Salat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 3
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Tomatenmark
+  en_name: 'TODO: Tomatenmark'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Gemüsebrühe
+  en_name: 'TODO: Gemüsebrühe'
+  qty: 800
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 4
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Frischer Rosmarin
+  en_name: 'TODO: Frischer Rosmarin'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Frischer Thymian
+  en_name: 'TODO: Frischer Thymian'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Peperoncino gemahlen
+  en_name: 'TODO: Peperoncino gemahlen'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Parmesan gerieben
+  en_name: 'TODO: Parmesan gerieben'
+  qty: 30
+  unit: g
+  category: Protein und Milchprodukte
+de_steps:
+- |-
+  Zwiebel, Karotten und Sellerie fein würfeln. Knoblauch hacken. Grünkohl von den dicken Stielen befreien und in Streifen schneiden.
+- |-
+  Olivenöl in einem großen Topf erhitzen. Zwiebel, Karotte und Sellerie darin 8 Minuten bei mittlerer Hitze anbraten.
+- Knoblauch, Peperoncino und Tomatenmark einrühren, 2 Minuten weiterbraten.
+- |-
+  Die Hälfte der Cannellini-Bohnen mit einer Gabel grob zerdrücken und in den Topf geben.
+- |-
+  Restliche ganze Bohnen und Gemüsebrühe dazugeben. Rosmarin und Thymian einlegen. 20 Minuten köcheln lassen.
+- Grünkohl einrühren, weitere 15 Minuten köcheln.
+- |-
+  Kräuterzweige entfernen. Brot in grobe Stücke reißen und direkt in die Suppe geben. Gut umrühren, bis das Brot aufgeweicht und die Suppe dicklich ist.
+- |-
+  Mit Salz und Pfeffer abschmecken. Mit einem großzügigen Schuss gutem Olivenöl und geriebenem Parmesan servieren.
+en_steps:
+- |-
+  TODO: Zwiebel, Karotten und Sellerie fein würfeln. Knoblauch hacken. Grünkohl von den dicken Stielen befreien und in Streifen schneiden.
+- |-
+  TODO: Olivenöl in einem großen Topf erhitzen. Zwiebel, Karotte und Sellerie darin 8 Minuten bei mittlerer Hitze anbraten.
+- 'TODO: Knoblauch, Peperoncino und Tomatenmark einrühren, 2 Minuten weiterbraten.'
+- |-
+  TODO: Die Hälfte der Cannellini-Bohnen mit einer Gabel grob zerdrücken und in den Topf geben.
+- |-
+  TODO: Restliche ganze Bohnen und Gemüsebrühe dazugeben. Rosmarin und Thymian einlegen. 20 Minuten köcheln lassen.
+- 'TODO: Grünkohl einrühren, weitere 15 Minuten köcheln.'
+- |-
+  TODO: Kräuterzweige entfernen. Brot in grobe Stücke reißen und direkt in die Suppe geben. Gut umrühren, bis das Brot aufgeweicht und die Suppe dicklich ist.
+- |-
+  TODO: Mit Salz und Pfeffer abschmecken. Mit einem großzügigen Schuss gutem Olivenöl und geriebenem Parmesan servieren.

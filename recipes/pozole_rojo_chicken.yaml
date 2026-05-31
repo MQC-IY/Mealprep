@@ -1,0 +1,110 @@
+id: pozole_rojo_chicken
+pool: lunch
+healthy: true
+quick: false
+next_day: true
+meals: 3
+de:
+  title: Pozole Rojo – Mexikanischer Hähncheneintopf mit Hominy
+  summary: |-
+    Kräftiger mexikanischer Eintopf mit gegarten Maiskörnern (Hominy), zartem Hähnchen und einer tiefen Ancho-Guajillo-Chili-Brühe.
+en:
+  title: 'TODO: Pozole Rojo – Mexikanischer Hähncheneintopf mit Hominy'
+  summary: |-
+    TODO: Kräftiger mexikanischer Eintopf mit gegarten Maiskörnern (Hominy), zartem Hähnchen und einer tiefen Ancho-Guajillo-Chili-Brühe.
+ingredients:
+- de_name: Hähnchenbrust oder -schenkel
+  en_name: 'TODO: Hähnchenbrust oder -schenkel'
+  qty: 900
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Hominy (Maiskonserve)
+  en_name: 'TODO: Hominy (Maiskonserve)'
+  qty: 2
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Gehackte Tomaten
+  en_name: 'TODO: Gehackte Tomaten'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 1500
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 6
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Koriander, frisch
+  en_name: 'TODO: Koriander, frisch'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Limette
+  en_name: 'TODO: Limette'
+  qty: 2
+  unit: Stk
+  category: Obst
+- de_name: Ancho-Chilipulver
+  en_name: 'TODO: Ancho-Chilipulver'
+  qty: 3
+  unit: TL
+  category: Gewürze
+- de_name: Guajillo-Chilipulver oder Cayennepfeffer
+  en_name: 'TODO: Guajillo-Chilipulver oder Cayennepfeffer'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Oregano, mexikanisch
+  en_name: 'TODO: Oregano, mexikanisch'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Rapsöl
+  en_name: 'TODO: Rapsöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+de_steps:
+- |-
+  Hähnchen zusammen mit 1 halbierten Zwiebel, 3 Knoblauchzehen und etwas Salz in der Hühnerbrühe 25 Minuten gar köcheln. Hähnchen herausnehmen, abkühlen lassen und in Fasern zupfen. Brühe durch ein Sieb gießen und aufbewahren.
+- |-
+  Restliche Zwiebel fein würfeln, restlichen Knoblauch hacken. Öl in einem großen Topf erhitzen und Zwiebeln 5 Minuten anbraten.
+- |-
+  Knoblauch, Ancho-Chilipulver, Guajillo-Chilipulver, Kreuzkümmel und Oregano zugeben und 1 Minute rösten.
+- |-
+  Gehackte Tomaten einrühren, kurz aufkochen lassen, dann die gefilterte Brühe zugießen.
+- |-
+  Abgetropfte Hominy-Körner zugeben und alles 20 Minuten bei mittlerer Hitze köcheln lassen.
+- |-
+  Gezupftes Hähnchen zurück in den Topf geben, 5 Minuten erwärmen. Mit Salz, Limettensaft und Chili abschmecken.
+- |-
+  In tiefen Schüsseln servieren, garniert mit frischem Koriander und Limettenspalten.
+en_steps:
+- |-
+  TODO: Hähnchen zusammen mit 1 halbierten Zwiebel, 3 Knoblauchzehen und etwas Salz in der Hühnerbrühe 25 Minuten gar köcheln. Hähnchen herausnehmen, abkühlen lassen und in Fasern zupfen. Brühe durch ein Sieb gießen und aufbewahren.
+- |-
+  TODO: Restliche Zwiebel fein würfeln, restlichen Knoblauch hacken. Öl in einem großen Topf erhitzen und Zwiebeln 5 Minuten anbraten.
+- |-
+  TODO: Knoblauch, Ancho-Chilipulver, Guajillo-Chilipulver, Kreuzkümmel und Oregano zugeben und 1 Minute rösten.
+- |-
+  TODO: Gehackte Tomaten einrühren, kurz aufkochen lassen, dann die gefilterte Brühe zugießen.
+- |-
+  TODO: Abgetropfte Hominy-Körner zugeben und alles 20 Minuten bei mittlerer Hitze köcheln lassen.
+- |-
+  TODO: Gezupftes Hähnchen zurück in den Topf geben, 5 Minuten erwärmen. Mit Salz, Limettensaft und Chili abschmecken.
+- |-
+  TODO: In tiefen Schüsseln servieren, garniert mit frischem Koriander und Limettenspalten.

@@ -1,0 +1,92 @@
+id: quick_moroccan_chickpea_pot
+pool: lunch
+healthy: true
+quick: true
+next_day: true
+quick_minutes: 22
+meals: 2
+de:
+  title: Schneller Marokkanischer Kichererbsen-Topf
+  summary: |-
+    Würzig-aromatischer Kichererbsen-Eintopf mit Harissa, Ras el Hanout und Zitrone in 22 Minuten.
+en:
+  title: 'TODO: Schneller Marokkanischer Kichererbsen-Topf'
+  summary: |-
+    TODO: Würzig-aromatischer Kichererbsen-Eintopf mit Harissa, Ras el Hanout und Zitrone in 22 Minuten.
+ingredients:
+- de_name: Kichererbsen, abgetropft
+  en_name: 'TODO: Kichererbsen, abgetropft'
+  qty: 2
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Gehackte Tomaten
+  en_name: 'TODO: Gehackte Tomaten'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Harissa-Paste
+  en_name: 'TODO: Harissa-Paste'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Gemüsebrühe
+  en_name: 'TODO: Gemüsebrühe'
+  qty: 400
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Zitrone, Saft und Schale
+  en_name: 'TODO: Zitrone, Saft und Schale'
+  qty: 1
+  unit: Stk
+  category: Obst
+- de_name: Ras el Hanout
+  en_name: 'TODO: Ras el Hanout'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Zimt, gemahlen
+  en_name: 'TODO: Zimt, gemahlen'
+  qty: 0.25
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Zwiebel fein würfeln und in Olivenöl 3 Minuten glasig dünsten. Knoblauch hacken und 1 Minute mitdünsten.
+- |-
+  Ras el Hanout, Kreuzkümmel, Zimt und Harissa-Paste einrühren und 1 Minute rösten.
+- |-
+  Kichererbsen, Tomaten und Brühe hinzufügen. Aufkochen und 14 Minuten kräftig köcheln lassen.
+- Zitronensaft und -schale einrühren, mit Salz abschmecken. Heiß servieren.
+en_steps:
+- |-
+  TODO: Zwiebel fein würfeln und in Olivenöl 3 Minuten glasig dünsten. Knoblauch hacken und 1 Minute mitdünsten.
+- |-
+  TODO: Ras el Hanout, Kreuzkümmel, Zimt und Harissa-Paste einrühren und 1 Minute rösten.
+- |-
+  TODO: Kichererbsen, Tomaten und Brühe hinzufügen. Aufkochen und 14 Minuten kräftig köcheln lassen.
+- 'TODO: Zitronensaft und -schale einrühren, mit Salz abschmecken. Heiß servieren.'

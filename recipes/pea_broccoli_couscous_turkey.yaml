@@ -1,0 +1,57 @@
+id: pea_broccoli_couscous_turkey
+pool: lunch
+healthy: true
+quick: true
+next_day: false
+quick_minutes: 25
+meals: 3
+de:
+  title: Puten-Couscous mit Brokkoli und Erbsen
+  summary: Schnelles Couscousgericht mit Putenhack, Brokkoli und Erbsen.
+en:
+  title: 'TODO: Puten-Couscous mit Brokkoli und Erbsen'
+  summary: 'TODO: Schnelles Couscousgericht mit Putenhack, Brokkoli und Erbsen.'
+ingredients:
+- de_name: Putenhack
+  en_name: 'TODO: Putenhack'
+  qty: 650
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Couscous
+  en_name: 'TODO: Couscous'
+  qty: 280
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Brokkoli
+  en_name: 'TODO: Brokkoli'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Erbsen, TK
+  en_name: 'TODO: Erbsen, TK'
+  qty: 220
+  unit: g
+  category: Gemüse und Salat
+- de_name: Naturjoghurt
+  en_name: 'TODO: Naturjoghurt'
+  qty: 100
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Couscous quellen lassen.
+- Putenhack scharf anbraten.
+- Brokkoli und Erbsen weich garen.
+en_steps:
+- 'TODO: Couscous quellen lassen.'
+- 'TODO: Putenhack scharf anbraten.'
+- 'TODO: Brokkoli und Erbsen weich garen.'

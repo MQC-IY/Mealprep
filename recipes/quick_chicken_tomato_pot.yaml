@@ -1,0 +1,87 @@
+id: quick_chicken_tomato_pot
+pool: lunch
+healthy: false
+quick: true
+next_day: true
+quick_minutes: 28
+meals: 2
+de:
+  title: Schneller Hähnchen-Tomaten-Topf
+  summary: |-
+    Saftige Hähnchenbrust in mediteraner Tomaten-Oliven-Kapernsauce in knapp 30 Minuten.
+en:
+  title: 'TODO: Schneller Hähnchen-Tomaten-Topf'
+  summary: |-
+    TODO: Saftige Hähnchenbrust in mediteraner Tomaten-Oliven-Kapernsauce in knapp 30 Minuten.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 600
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Gehackte Tomaten
+  en_name: 'TODO: Gehackte Tomaten'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Kalamata-Oliven, entsteint
+  en_name: 'TODO: Kalamata-Oliven, entsteint'
+  qty: 80
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Kapern
+  en_name: 'TODO: Kapern'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 200
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Oregano, getrocknet
+  en_name: 'TODO: Oregano, getrocknet'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Salz und Pfeffer
+  en_name: 'TODO: Salz und Pfeffer'
+  qty: 1
+  unit: Stk
+  category: Gewürze
+de_steps:
+- |-
+  Hähnchenbrust in gleichmäßige Würfel schneiden, mit Salz und Pfeffer würzen. In Olivenöl bei hoher Hitze 4–5 Minuten goldbraun anbraten. Herausnehmen.
+- Zwiebel würfeln und Knoblauch hacken. Im Bratfett 2 Minuten anschwitzen.
+- |-
+  Oregano und Chiliflocken einrühren. Tomaten, Brühe, Oliven und Kapern hinzufügen und aufkochen.
+- |-
+  Hähnchen zurückgeben und 12 Minuten bei mittlerer Hitze köcheln lassen. Abschmecken.
+en_steps:
+- |-
+  TODO: Hähnchenbrust in gleichmäßige Würfel schneiden, mit Salz und Pfeffer würzen. In Olivenöl bei hoher Hitze 4–5 Minuten goldbraun anbraten. Herausnehmen.
+- 'TODO: Zwiebel würfeln und Knoblauch hacken. Im Bratfett 2 Minuten anschwitzen.'
+- |-
+  TODO: Oregano und Chiliflocken einrühren. Tomaten, Brühe, Oliven und Kapern hinzufügen und aufkochen.
+- |-
+  TODO: Hähnchen zurückgeben und 12 Minuten bei mittlerer Hitze köcheln lassen. Abschmecken.

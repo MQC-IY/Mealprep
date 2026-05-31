@@ -1,0 +1,122 @@
+id: tunisian_shakshuka_chicken
+pool: lunch
+healthy: false
+quick: true
+next_day: false
+quick_minutes: 30
+meals: 2
+de:
+  title: Tunesisches Shakshuka mit Hähnchen
+  summary: |-
+    Würzige, Harissa-befeuerte Tomatensauce mit saftigem Hähnchen und pochierten Eiern – Nordafrika trifft mediterrane Intensität.
+en:
+  title: 'TODO: Tunesisches Shakshuka mit Hähnchen'
+  summary: |-
+    TODO: Würzige, Harissa-befeuerte Tomatensauce mit saftigem Hähnchen und pochierten Eiern – Nordafrika trifft mediterrane Intensität.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 400
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Eier
+  en_name: 'TODO: Eier'
+  qty: 4
+  unit: Stk
+  category: Protein und Milchprodukte
+- de_name: Zwiebeln
+  en_name: 'TODO: Zwiebeln'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Paprika, rot
+  en_name: 'TODO: Paprika, rot'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Frische Korianderblätter
+  en_name: 'TODO: Frische Korianderblätter'
+  qty: 0.5
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Gehackte Tomaten
+  en_name: 'TODO: Gehackte Tomaten'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Harissa-Paste
+  en_name: 'TODO: Harissa-Paste'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sauerteigbrot oder Pita
+  en_name: 'TODO: Sauerteigbrot oder Pita'
+  qty: 4
+  unit: Stk
+  category: Kohlenhydrate und Sattmacher
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+- de_name: Koriander, gemahlen
+  en_name: 'TODO: Koriander, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Paprikapulver, geräuchert
+  en_name: 'TODO: Paprikapulver, geräuchert'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chilipulver
+  en_name: 'TODO: Chilipulver'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Hähnchen in kleine Stücke schneiden. Mit Salz, Pfeffer und der Hälfte des Kreuzkümmels würzen.
+- |-
+  Olivenöl in einer großen, tiefen Pfanne erhitzen. Hähnchen 5–6 Minuten anbraten, bis goldbraun. Herausnehmen.
+- |-
+  Fein gewürfelte Zwiebeln und Paprika im selben Öl 8 Minuten weich dünsten. Knoblauch einrühren und 2 Minuten mitbraten.
+- |-
+  Harissa-Paste einrühren und 1 Minute rösten. Kreuzkümmel, Koriander, geräuchertes Paprika und Chili hinzufügen.
+- |-
+  Gehackte Tomaten hinzufügen, Hähnchen zurück in die Pfanne geben. 10 Minuten köcheln lassen, bis die Sauce eindickt.
+- |-
+  Vier Mulden in die Sauce drücken. Je ein Ei hineingleiten lassen. Pfanne abdecken und 5–7 Minuten pochieren, bis das Eiweiß gestockt, das Eigelb noch weich ist. Mit Koriander und Brot servieren.
+en_steps:
+- |-
+  TODO: Hähnchen in kleine Stücke schneiden. Mit Salz, Pfeffer und der Hälfte des Kreuzkümmels würzen.
+- |-
+  TODO: Olivenöl in einer großen, tiefen Pfanne erhitzen. Hähnchen 5–6 Minuten anbraten, bis goldbraun. Herausnehmen.
+- |-
+  TODO: Fein gewürfelte Zwiebeln und Paprika im selben Öl 8 Minuten weich dünsten. Knoblauch einrühren und 2 Minuten mitbraten.
+- |-
+  TODO: Harissa-Paste einrühren und 1 Minute rösten. Kreuzkümmel, Koriander, geräuchertes Paprika und Chili hinzufügen.
+- |-
+  TODO: Gehackte Tomaten hinzufügen, Hähnchen zurück in die Pfanne geben. 10 Minuten köcheln lassen, bis die Sauce eindickt.
+- |-
+  TODO: Vier Mulden in die Sauce drücken. Je ein Ei hineingleiten lassen. Pfanne abdecken und 5–7 Minuten pochieren, bis das Eiweiß gestockt, das Eigelb noch weich ist. Mit Koriander und Brot servieren.

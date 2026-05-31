@@ -1,0 +1,123 @@
+id: tanzanian_pilau_rice_chicken
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 3
+de:
+  title: Tansanischer Pilau-Reis mit Hähnchen
+  summary: |-
+    Ostafrikanischer Gewürzreis mit Hähnchen, ganzen Gewürzen – Kardamom, Nelken, Zimt, Kreuzkümmel – und karamellisierten Zwiebeln.
+en:
+  title: 'TODO: Tansanischer Pilau-Reis mit Hähnchen'
+  summary: |-
+    TODO: Ostafrikanischer Gewürzreis mit Hähnchen, ganzen Gewürzen – Kardamom, Nelken, Zimt, Kreuzkümmel – und karamellisierten Zwiebeln.
+ingredients:
+- de_name: Hähnchenstücke mit Knochen
+  en_name: 'TODO: Hähnchenstücke mit Knochen'
+  qty: 1000
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Langkornreis
+  en_name: 'TODO: Langkornreis'
+  qty: 400
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 700
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Rapsöl
+  en_name: 'TODO: Rapsöl'
+  qty: 4
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Gehackte Tomaten
+  en_name: 'TODO: Gehackte Tomaten'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 5
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Ingwer, frisch
+  en_name: 'TODO: Ingwer, frisch'
+  qty: 30
+  unit: g
+  category: Gemüse und Salat
+- de_name: Rote Chili
+  en_name: 'TODO: Rote Chili'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Koriander, frisch
+  en_name: 'TODO: Koriander, frisch'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Kardamom, ganze Kapseln
+  en_name: 'TODO: Kardamom, ganze Kapseln'
+  qty: 6
+  unit: Stk
+  category: Gewürze
+- de_name: Nelken, ganz
+  en_name: 'TODO: Nelken, ganz'
+  qty: 5
+  unit: Stk
+  category: Gewürze
+- de_name: Zimtstange
+  en_name: 'TODO: Zimtstange'
+  qty: 1
+  unit: Stk
+  category: Gewürze
+- de_name: Kreuzkümmel, ganz
+  en_name: 'TODO: Kreuzkümmel, ganz'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer, ganz
+  en_name: 'TODO: Schwarzer Pfeffer, ganz'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Kurkuma
+  en_name: 'TODO: Kurkuma'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- Reis waschen und 20 Minuten in kaltem Wasser einweichen, dann abgießen.
+- |-
+  Öl in einem großen schweren Topf bei mittlerer Hitze erhitzen. Kardamomkapseln, Nelken, Zimtstange, ganzen Kreuzkümmel und Pfefferkörner zugeben und 1 Minute knistern lassen bis es duftet.
+- |-
+  Zwei Zwiebeln fein würfeln und im Gewürzöl 15 Minuten karamellisieren, bis sie dunkelbraun und süßlich sind.
+- |-
+  Knoblauch und Ingwer reiben, mit gehackter Chili zugeben und 2 Minuten mitrösten. Kurkuma einrühren.
+- |-
+  Gehackte Tomaten zugeben und 8 Minuten bei mittlerer Hitze einköcheln bis die Masse trocken wird.
+- |-
+  Hähnchenstücke zugeben und rundherum in der Gewürzmasse 5 Minuten anbraten. Restliche Zwiebel in Ringe schneiden und zugeben.
+- |-
+  Eingeweichten Reis zugeben und 2 Minuten mitrösten. Hühnerbrühe angießen, aufkochen. Hitze minimal, Deckel drauf, 25 Minuten kochen bis Reis gar ist. Mit frischem Koriander und Limettenspalten servieren.
+en_steps:
+- 'TODO: Reis waschen und 20 Minuten in kaltem Wasser einweichen, dann abgießen.'
+- |-
+  TODO: Öl in einem großen schweren Topf bei mittlerer Hitze erhitzen. Kardamomkapseln, Nelken, Zimtstange, ganzen Kreuzkümmel und Pfefferkörner zugeben und 1 Minute knistern lassen bis es duftet.
+- |-
+  TODO: Zwei Zwiebeln fein würfeln und im Gewürzöl 15 Minuten karamellisieren, bis sie dunkelbraun und süßlich sind.
+- |-
+  TODO: Knoblauch und Ingwer reiben, mit gehackter Chili zugeben und 2 Minuten mitrösten. Kurkuma einrühren.
+- |-
+  TODO: Gehackte Tomaten zugeben und 8 Minuten bei mittlerer Hitze einköcheln bis die Masse trocken wird.
+- |-
+  TODO: Hähnchenstücke zugeben und rundherum in der Gewürzmasse 5 Minuten anbraten. Restliche Zwiebel in Ringe schneiden und zugeben.
+- |-
+  TODO: Eingeweichten Reis zugeben und 2 Minuten mitrösten. Hühnerbrühe angießen, aufkochen. Hitze minimal, Deckel drauf, 25 Minuten kochen bis Reis gar ist. Mit frischem Koriander und Limettenspalten servieren.

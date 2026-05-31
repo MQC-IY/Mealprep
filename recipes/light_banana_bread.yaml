@@ -1,0 +1,68 @@
+id: light_banana_bread
+pool: dessert
+de:
+  title: Leichtes Bananenbrot
+  summary: |-
+    Natürlich süß durch reife Bananen, mit Haferflocken und Joghurt statt schwerer Creme.
+en:
+  title: 'TODO: Leichtes Bananenbrot'
+  summary: |-
+    TODO: Natürlich süß durch reife Bananen, mit Haferflocken und Joghurt statt schwerer Creme.
+ingredients:
+- de_name: Reife Bananen
+  en_name: 'TODO: Reife Bananen'
+  qty: 3
+  unit: Stk
+  category: Obst
+- de_name: Haferflocken
+  en_name: 'TODO: Haferflocken'
+  qty: 150
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Dinkelmehl
+  en_name: 'TODO: Dinkelmehl'
+  qty: 150
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Naturjoghurt
+  en_name: 'TODO: Naturjoghurt'
+  qty: 150
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Eier
+  en_name: 'TODO: Eier'
+  qty: 2
+  unit: Stk
+  category: Protein und Milchprodukte
+- de_name: Walnüsse
+  en_name: 'TODO: Walnüsse'
+  qty: 60
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Backpulver
+  en_name: 'TODO: Backpulver'
+  qty: 1
+  unit: Packung
+  category: Konserven und Vorrat
+- de_name: Zimt
+  en_name: 'TODO: Zimt'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Bananen zerdrücken.
+- Mit Eiern und Naturjoghurt verrühren.
+- Haferflocken, Dinkelmehl, Backpulver und Zimt unterheben.
+- Walnüsse optional grob hacken und für Erwachsenenstücke einstreuen.
+- In einer Kastenform bei 180 Grad etwa 40 bis 45 Minuten backen.
+en_steps:
+- 'TODO: Bananen zerdrücken.'
+- 'TODO: Mit Eiern und Naturjoghurt verrühren.'
+- 'TODO: Haferflocken, Dinkelmehl, Backpulver und Zimt unterheben.'
+- 'TODO: Walnüsse optional grob hacken und für Erwachsenenstücke einstreuen.'
+- 'TODO: In einer Kastenform bei 180 Grad etwa 40 bis 45 Minuten backen.'

@@ -1,0 +1,109 @@
+id: ras_el_hanout_chicken_eggplant
+pool: lunch
+healthy: false
+quick: false
+next_day: false
+meals: 2
+de:
+  title: Hähnchen mit Ras-el-Hanout und Auberginenpüree
+  summary: |-
+    Zartes, mit Ras el Hanout gewürztes Hähnchen auf samtigem geräuchertem Auberginenpüree – ein Traumgericht der modernen nordafrikanisch-levantinischen Küche.
+en:
+  title: 'TODO: Hähnchen mit Ras-el-Hanout und Auberginenpüree'
+  summary: |-
+    TODO: Zartes, mit Ras el Hanout gewürztes Hähnchen auf samtigem geräuchertem Auberginenpüree – ein Traumgericht der modernen nordafrikanisch-levantinischen Küche.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 800
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Aubergine
+  en_name: 'TODO: Aubergine'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 5
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Petersilie, frisch
+  en_name: 'TODO: Petersilie, frisch'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Granatapfelkerne
+  en_name: 'TODO: Granatapfelkerne'
+  qty: 80
+  unit: g
+  category: Obst
+- de_name: Tahini
+  en_name: 'TODO: Tahini'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 5
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 200
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Fladenbrote
+  en_name: 'TODO: Fladenbrote'
+  qty: 4
+  unit: Stk
+  category: Kohlenhydrate und Sattmacher
+- de_name: Zitrone
+  en_name: 'TODO: Zitrone'
+  qty: 2
+  unit: Stk
+  category: Obst
+- de_name: Ras el Hanout
+  en_name: 'TODO: Ras el Hanout'
+  qty: 3
+  unit: TL
+  category: Gewürze
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Sumach
+  en_name: 'TODO: Sumach'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Auberginen direkt über einer Gasflamme oder unter dem Backofengrill bei höchster Stufe rundum verkohlen lassen, ca. 20–25 Minuten, bis sie innen weich sind. Abkühlen lassen, Haut abziehen.
+- |-
+  Auberginenfleisch mit 2 Knoblauchzehen, Tahini, Zitronensaft, 2 EL Olivenöl und Salz pürieren. Mit Kreuzkümmel abschmecken.
+- |-
+  Hähnchen mit Ras el Hanout, Chiliflocken, 3 Knoblauchzehen, 2 EL Olivenöl und Salz marinieren. Mind. 20 Minuten ruhen lassen.
+- |-
+  Hähnchen in einer heißen Pfanne 6–7 Minuten je Seite braten. Mit Brühe ablöschen und 2 Minuten einglasieren.
+- Fladenbrote aufwärmen.
+- |-
+  Auberginenpüree als Basis, Hähnchen oben drauf. Mit Granatapfelkernen, Petersilie, Sumach und Olivenöl anrichten.
+en_steps:
+- |-
+  TODO: Auberginen direkt über einer Gasflamme oder unter dem Backofengrill bei höchster Stufe rundum verkohlen lassen, ca. 20–25 Minuten, bis sie innen weich sind. Abkühlen lassen, Haut abziehen.
+- |-
+  TODO: Auberginenfleisch mit 2 Knoblauchzehen, Tahini, Zitronensaft, 2 EL Olivenöl und Salz pürieren. Mit Kreuzkümmel abschmecken.
+- |-
+  TODO: Hähnchen mit Ras el Hanout, Chiliflocken, 3 Knoblauchzehen, 2 EL Olivenöl und Salz marinieren. Mind. 20 Minuten ruhen lassen.
+- |-
+  TODO: Hähnchen in einer heißen Pfanne 6–7 Minuten je Seite braten. Mit Brühe ablöschen und 2 Minuten einglasieren.
+- 'TODO: Fladenbrote aufwärmen.'
+- |-
+  TODO: Auberginenpüree als Basis, Hähnchen oben drauf. Mit Granatapfelkernen, Petersilie, Sumach und Olivenöl anrichten.

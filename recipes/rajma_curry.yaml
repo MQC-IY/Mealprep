@@ -1,0 +1,141 @@
+id: rajma_curry
+pool: lunch
+healthy: true
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Rajma – Kidneybohnen-Curry mit Reis
+  summary: |-
+    Cremiges Kidneybohnen-Curry in einer tiefen Tomaten-Zwiebel-Sauce – das nordindische Seelenfutter par excellence.
+en:
+  title: 'TODO: Rajma – Kidneybohnen-Curry mit Reis'
+  summary: |-
+    TODO: Cremiges Kidneybohnen-Curry in einer tiefen Tomaten-Zwiebel-Sauce – das nordindische Seelenfutter par excellence.
+ingredients:
+- de_name: Rote Kidneybohnen, gekocht
+  en_name: 'TODO: Rote Kidneybohnen, gekocht'
+  qty: 2
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Gehackte Tomaten
+  en_name: 'TODO: Gehackte Tomaten'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Tomatenmark
+  en_name: 'TODO: Tomatenmark'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Pflanzenöl
+  en_name: 'TODO: Pflanzenöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Butter
+  en_name: 'TODO: Butter'
+  qty: 20
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Zwiebeln
+  en_name: 'TODO: Zwiebeln'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 5
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Ingwer, frisch
+  en_name: 'TODO: Ingwer, frisch'
+  qty: 3
+  unit: cm
+  category: Gemüse und Salat
+- de_name: Tomate
+  en_name: 'TODO: Tomate'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Grüne Chilischote
+  en_name: 'TODO: Grüne Chilischote'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Frische Korianderblätter
+  en_name: 'TODO: Frische Korianderblätter'
+  qty: 0.5
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Basmatireis
+  en_name: 'TODO: Basmatireis'
+  qty: 300
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Kreuzkümmelsamen
+  en_name: 'TODO: Kreuzkümmelsamen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Koriander, gemahlen
+  en_name: 'TODO: Koriander, gemahlen'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Kurkuma
+  en_name: 'TODO: Kurkuma'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Kashmiri-Chilipulver
+  en_name: 'TODO: Kashmiri-Chilipulver'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Garam Masala
+  en_name: 'TODO: Garam Masala'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Amchur (Mangopulver)
+  en_name: 'TODO: Amchur (Mangopulver)'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Zwiebeln fein würfeln, Tomaten würfeln, Knoblauch und Ingwer reiben, Chilischoten hacken.
+- |-
+  Öl und Butter in einem schweren Topf erhitzen. Kreuzkümmelsamen knistern lassen. Zwiebeln hineingeben und 12 Minuten dunkelgoldbraun braten.
+- |-
+  Knoblauch-Ingwer-Paste einrühren, 2 Minuten braten. Tomatenmark dazugeben und 2 Minuten rösten.
+- |-
+  Frische und gehackte Dosentomaten, Kurkuma, Kreuzkümmel, Koriander und Kashmiri-Chili einrühren. 10 Minuten köcheln lassen.
+- |-
+  Abgetropfte Kidneybohnen hinzufügen, 200 ml Wasser dazugeben. Alles 20 Minuten bei mittlerer Hitze köcheln. Einige Bohnen mit einem Löffel zerdrücken, um die Sauce zu binden.
+- |-
+  Garam Masala und Amchur einrühren, mit Salz abschmecken. Mit frischem Koriander bestreuen und mit Basmatireis servieren.
+en_steps:
+- |-
+  TODO: Zwiebeln fein würfeln, Tomaten würfeln, Knoblauch und Ingwer reiben, Chilischoten hacken.
+- |-
+  TODO: Öl und Butter in einem schweren Topf erhitzen. Kreuzkümmelsamen knistern lassen. Zwiebeln hineingeben und 12 Minuten dunkelgoldbraun braten.
+- |-
+  TODO: Knoblauch-Ingwer-Paste einrühren, 2 Minuten braten. Tomatenmark dazugeben und 2 Minuten rösten.
+- |-
+  TODO: Frische und gehackte Dosentomaten, Kurkuma, Kreuzkümmel, Koriander und Kashmiri-Chili einrühren. 10 Minuten köcheln lassen.
+- |-
+  TODO: Abgetropfte Kidneybohnen hinzufügen, 200 ml Wasser dazugeben. Alles 20 Minuten bei mittlerer Hitze köcheln. Einige Bohnen mit einem Löffel zerdrücken, um die Sauce zu binden.
+- |-
+  TODO: Garam Masala und Amchur einrühren, mit Salz abschmecken. Mit frischem Koriander bestreuen und mit Basmatireis servieren.

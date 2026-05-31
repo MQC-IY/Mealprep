@@ -1,0 +1,114 @@
+id: polish_zurek_soup
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Polnischer Żurek – Sauerteigsuppe mit Ei und Weißwurst
+  summary: |-
+    Polens ikonische Sauerteigsuppe: fermentierter Roggensauer mit hart gekochten Eiern, weißer Polnischer Wurst und Meerrettich.
+en:
+  title: 'TODO: Polnischer Żurek – Sauerteigsuppe mit Ei und Weißwurst'
+  summary: |-
+    TODO: Polens ikonische Sauerteigsuppe: fermentierter Roggensauer mit hart gekochten Eiern, weißer Polnischer Wurst und Meerrettich.
+ingredients:
+- de_name: Weiße Polnische Wurst (Biała Kiełbasa) oder Weißwurst
+  en_name: 'TODO: Weiße Polnische Wurst (Biała Kiełbasa) oder Weißwurst'
+  qty: 300
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Eier
+  en_name: 'TODO: Eier'
+  qty: 4
+  unit: Stk
+  category: Protein und Milchprodukte
+- de_name: Sauerrahm
+  en_name: 'TODO: Sauerrahm'
+  qty: 150
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Fermentierter Roggen-Sauerteig-Ansatz (Żur) oder Sauerteig-Starter
+  en_name: 'TODO: Fermentierter Roggen-Sauerteig-Ansatz (Żur) oder Sauerteig-Starter'
+  qty: 250
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Gemüsebrühe oder Wurstbrühe
+  en_name: 'TODO: Gemüsebrühe oder Wurstbrühe'
+  qty: 700
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Meerrettich (Glas)
+  en_name: 'TODO: Meerrettich (Glas)'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Zwiebeln
+  en_name: 'TODO: Zwiebeln'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Karotten
+  en_name: 'TODO: Karotten'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Majoran, getrocknet
+  en_name: 'TODO: Majoran, getrocknet'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Edelsüßes Paprikapulver
+  en_name: 'TODO: Edelsüßes Paprikapulver'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Kümmel (gemahlen)
+  en_name: 'TODO: Kümmel (gemahlen)'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Lorbeerblätter
+  en_name: 'TODO: Lorbeerblätter'
+  qty: 2
+  unit: Stk
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- Eier hart kochen (10 Minuten), abschrecken, schälen und beiseitestellen.
+- |-
+  Wurst in Scheiben schneiden. In einem großen Topf ohne Öl oder mit etwas Fett die Wurstscheiben von beiden Seiten anbraten, bis sie goldbraun sind. Herausnehmen.
+- |-
+  Zwiebeln und Karotten würfeln. Im gleichen Topf 5 Minuten anschwitzen. Knoblauch pressen, Paprikapulver, Majoran, Kümmel und Lorbeer einrühren.
+- |-
+  Gemüsebrühe aufgießen und 15 Minuten köcheln. Żur (Sauerteig-Ansatz) einrühren – er macht die Suppe charakteristisch säuerlich. Nochmals 10 Minuten köcheln.
+- |-
+  Sauerrahm mit 2–3 EL heißer Suppe glatt rühren, dann einrühren. Mit Salz und Pfeffer abschmecken. Meerrettich einrühren.
+- |-
+  Wurstscheiben und halbierte Eier in die Suppe geben. 5 Minuten erwärmen. Mit Schwarzbrot oder Roggenbrötchen servieren.
+en_steps:
+- 'TODO: Eier hart kochen (10 Minuten), abschrecken, schälen und beiseitestellen.'
+- |-
+  TODO: Wurst in Scheiben schneiden. In einem großen Topf ohne Öl oder mit etwas Fett die Wurstscheiben von beiden Seiten anbraten, bis sie goldbraun sind. Herausnehmen.
+- |-
+  TODO: Zwiebeln und Karotten würfeln. Im gleichen Topf 5 Minuten anschwitzen. Knoblauch pressen, Paprikapulver, Majoran, Kümmel und Lorbeer einrühren.
+- |-
+  TODO: Gemüsebrühe aufgießen und 15 Minuten köcheln. Żur (Sauerteig-Ansatz) einrühren – er macht die Suppe charakteristisch säuerlich. Nochmals 10 Minuten köcheln.
+- |-
+  TODO: Sauerrahm mit 2–3 EL heißer Suppe glatt rühren, dann einrühren. Mit Salz und Pfeffer abschmecken. Meerrettich einrühren.
+- |-
+  TODO: Wurstscheiben und halbierte Eier in die Suppe geben. 5 Minuten erwärmen. Mit Schwarzbrot oder Roggenbrötchen servieren.

@@ -1,0 +1,120 @@
+id: iskender_kebab_style
+pool: lunch
+healthy: false
+quick: false
+next_day: false
+meals: 2
+de:
+  title: Türkisches İskender-Kebab mit Joghurt und Butter
+  summary: |-
+    Zartes, dünn geschnittenes Lammhackfleisch auf knusprigem Fladenbrot, übergossen mit würziger Tomatensauce, heißer Gewürzbutter und cremigem Joghurt.
+en:
+  title: 'TODO: Türkisches İskender-Kebab mit Joghurt und Butter'
+  summary: |-
+    TODO: Zartes, dünn geschnittenes Lammhackfleisch auf knusprigem Fladenbrot, übergossen mit würziger Tomatensauce, heißer Gewürzbutter und cremigem Joghurt.
+ingredients:
+- de_name: Lammhackfleisch
+  en_name: 'TODO: Lammhackfleisch'
+  qty: 500
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Vollmilchjoghurt (3,5 %)
+  en_name: 'TODO: Vollmilchjoghurt (3,5 %)'
+  qty: 250
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Butter
+  en_name: 'TODO: Butter'
+  qty: 60
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Fladenbrot (Pide)
+  en_name: 'TODO: Fladenbrot (Pide)'
+  qty: 2
+  unit: Stk
+  category: Kohlenhydrate und Sattmacher
+- de_name: Gehackte Tomaten
+  en_name: 'TODO: Gehackte Tomaten'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Tomatenmark
+  en_name: 'TODO: Tomatenmark'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Zwiebeln
+  en_name: 'TODO: Zwiebeln'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Pul Biber (Aleppo-Pfeffer)
+  en_name: 'TODO: Pul Biber (Aleppo-Pfeffer)'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+- de_name: Paprikapulver, geräuchert
+  en_name: 'TODO: Paprikapulver, geräuchert'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Getrocknete Minze
+  en_name: 'TODO: Getrocknete Minze'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Zwiebeln fein würfeln, Knoblauch pressen. Olivenöl in einer großen Pfanne bei hoher Hitze erhitzen und die Zwiebeln 5 Minuten goldbraun anbraten.
+- |-
+  Lammhackfleisch hinzufügen und unter ständigem Rühren krümelig braun anbraten. Knoblauch, Kreuzkümmel, Paprikapulver, 1 TL Pul Biber und Schwarzen Pfeffer einarbeiten und 2 Minuten mitrösten.
+- |-
+  Tomatenmark einrühren, weitere 1 Minute rösten. Gehackte Tomaten und 100 ml Wasser dazugeben, mit Salz abschmecken. Sauce 15 Minuten bei mittlerer Hitze einkochen lassen.
+- |-
+  Fladenbrot in mundgerechte Stücke reißen, auf einem Backblech verteilen und im Ofen bei 200 °C 5 Minuten anrösten, bis sie leicht knusprig sind.
+- |-
+  Joghurt mit einer Prise Salz und getrockneter Minze verrühren und beiseitestellen.
+- |-
+  Butter in einem kleinen Topf bei mittlerer Hitze schmelzen, bis sie leicht bräunlich duftet. Restlichen 1 TL Pul Biber einrühren – die Gewürzbutter sofort vom Herd nehmen.
+- |-
+  Zum Servieren: Geröstetes Brot auf Teller legen, großzügig mit Fleischsauce bedecken, Joghurt darüber verteilen und die heiße Gewürzbutter über alles träufeln.
+en_steps:
+- |-
+  TODO: Zwiebeln fein würfeln, Knoblauch pressen. Olivenöl in einer großen Pfanne bei hoher Hitze erhitzen und die Zwiebeln 5 Minuten goldbraun anbraten.
+- |-
+  TODO: Lammhackfleisch hinzufügen und unter ständigem Rühren krümelig braun anbraten. Knoblauch, Kreuzkümmel, Paprikapulver, 1 TL Pul Biber und Schwarzen Pfeffer einarbeiten und 2 Minuten mitrösten.
+- |-
+  TODO: Tomatenmark einrühren, weitere 1 Minute rösten. Gehackte Tomaten und 100 ml Wasser dazugeben, mit Salz abschmecken. Sauce 15 Minuten bei mittlerer Hitze einkochen lassen.
+- |-
+  TODO: Fladenbrot in mundgerechte Stücke reißen, auf einem Backblech verteilen und im Ofen bei 200 °C 5 Minuten anrösten, bis sie leicht knusprig sind.
+- |-
+  TODO: Joghurt mit einer Prise Salz und getrockneter Minze verrühren und beiseitestellen.
+- |-
+  TODO: Butter in einem kleinen Topf bei mittlerer Hitze schmelzen, bis sie leicht bräunlich duftet. Restlichen 1 TL Pul Biber einrühren – die Gewürzbutter sofort vom Herd nehmen.
+- |-
+  TODO: Zum Servieren: Geröstetes Brot auf Teller legen, großzügig mit Fleischsauce bedecken, Joghurt darüber verteilen und die heiße Gewürzbutter über alles träufeln.

@@ -1,0 +1,140 @@
+id: moroccan_harira
+pool: lunch
+healthy: true
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Marokkanischer Harira – Linseneintopf
+  summary: |-
+    Wärmender marokkanischer Eintopf mit Linsen, Kichererbsen, Tomaten und frischen Kräutern – ein nahrhaftes Traditionsgericht.
+en:
+  title: 'TODO: Marokkanischer Harira – Linseneintopf'
+  summary: |-
+    TODO: Wärmender marokkanischer Eintopf mit Linsen, Kichererbsen, Tomaten und frischen Kräutern – ein nahrhaftes Traditionsgericht.
+ingredients:
+- de_name: Rote Linsen
+  en_name: 'TODO: Rote Linsen'
+  qty: 150
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Kichererbsen, gekocht
+  en_name: 'TODO: Kichererbsen, gekocht'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Gehackte Tomaten
+  en_name: 'TODO: Gehackte Tomaten'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Tomatenmark
+  en_name: 'TODO: Tomatenmark'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Gemüsebrühe
+  en_name: 'TODO: Gemüsebrühe'
+  qty: 1
+  unit: Liter
+  category: Konserven und Vorrat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Zwiebeln
+  en_name: 'TODO: Zwiebeln'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 3
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Stangensellerie
+  en_name: 'TODO: Stangensellerie'
+  qty: 2
+  unit: Stange
+  category: Gemüse und Salat
+- de_name: Frische Korianderblätter
+  en_name: 'TODO: Frische Korianderblätter'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Frische Petersilie
+  en_name: 'TODO: Frische Petersilie'
+  qty: 0.5
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Zitrone
+  en_name: 'TODO: Zitrone'
+  qty: 1
+  unit: Stk
+  category: Obst
+- de_name: Ras el Hanout
+  en_name: 'TODO: Ras el Hanout'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+- de_name: Kurkuma
+  en_name: 'TODO: Kurkuma'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Koriander, gemahlen
+  en_name: 'TODO: Koriander, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Zimtpulver
+  en_name: 'TODO: Zimtpulver'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Chilipulver
+  en_name: 'TODO: Chilipulver'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Zwiebeln fein würfeln. Sellerie in feine Scheiben schneiden. Knoblauch hacken.
+- |-
+  Olivenöl in einem großen Topf erhitzen. Zwiebeln und Sellerie 8 Minuten weich dünsten. Knoblauch 2 Minuten mitbraten.
+- |-
+  Ras el Hanout, Kurkuma, Kreuzkümmel, Koriander, Zimt und Chili einstreuen, 1 Minute rösten. Tomatenmark kurz mitbraten.
+- |-
+  Gehackte Tomaten und Gemüsebrühe hinzufügen. Rote Linsen dazugeben und aufkochen. 20 Minuten köcheln lassen.
+- |-
+  Abgetropfte Kichererbsen einrühren, weitere 10 Minuten köcheln. Nach Belieben Eintopf leicht stampfen für eine cremigere Konsistenz.
+- |-
+  Mit Salz, Pfeffer und Zitronensaft abschmecken. Mit gehacktem Koriander und Petersilie bestreuen und servieren.
+en_steps:
+- |-
+  TODO: Zwiebeln fein würfeln. Sellerie in feine Scheiben schneiden. Knoblauch hacken.
+- |-
+  TODO: Olivenöl in einem großen Topf erhitzen. Zwiebeln und Sellerie 8 Minuten weich dünsten. Knoblauch 2 Minuten mitbraten.
+- |-
+  TODO: Ras el Hanout, Kurkuma, Kreuzkümmel, Koriander, Zimt und Chili einstreuen, 1 Minute rösten. Tomatenmark kurz mitbraten.
+- |-
+  TODO: Gehackte Tomaten und Gemüsebrühe hinzufügen. Rote Linsen dazugeben und aufkochen. 20 Minuten köcheln lassen.
+- |-
+  TODO: Abgetropfte Kichererbsen einrühren, weitere 10 Minuten köcheln. Nach Belieben Eintopf leicht stampfen für eine cremigere Konsistenz.
+- |-
+  TODO: Mit Salz, Pfeffer und Zitronensaft abschmecken. Mit gehacktem Koriander und Petersilie bestreuen und servieren.

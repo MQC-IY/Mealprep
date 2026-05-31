@@ -1,0 +1,87 @@
+id: quick_sweet_potato_lentil_dal
+pool: lunch
+healthy: true
+quick: true
+next_day: true
+quick_minutes: 25
+meals: 2
+de:
+  title: Schneller Süßkartoffel-Linsen-Dal
+  summary: |-
+    Aromatischer Dal mit roten Linsen und Süßkartoffelwürfeln in Kokosmilch und Curry-Paste.
+en:
+  title: 'TODO: Schneller Süßkartoffel-Linsen-Dal'
+  summary: |-
+    TODO: Aromatischer Dal mit roten Linsen und Süßkartoffelwürfeln in Kokosmilch und Curry-Paste.
+ingredients:
+- de_name: Rote Linsen
+  en_name: 'TODO: Rote Linsen'
+  qty: 200
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Süßkartoffel
+  en_name: 'TODO: Süßkartoffel'
+  qty: 400
+  unit: g
+  category: Gemüse und Salat
+- de_name: Kokosmilch
+  en_name: 'TODO: Kokosmilch'
+  qty: 400
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Gemüsebrühe
+  en_name: 'TODO: Gemüsebrühe'
+  qty: 500
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Rote Thai-Currypaste
+  en_name: 'TODO: Rote Thai-Currypaste'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Kokosnussöl
+  en_name: 'TODO: Kokosnussöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 3
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Ingwer, frisch
+  en_name: 'TODO: Ingwer, frisch'
+  qty: 20
+  unit: g
+  category: Gemüse und Salat
+- de_name: Kurkuma, gemahlen
+  en_name: 'TODO: Kurkuma, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Süßkartoffel schälen und in 1-cm-Würfel schneiden. Zwiebel würfeln, Knoblauch und Ingwer reiben.
+- |-
+  Kokosnussöl in einem Topf erhitzen, Zwiebel 2 Minuten anschwitzen. Knoblauch und Ingwer 1 Minute mitbraten.
+- Currypaste und Kurkuma einrühren und 1 Minute rösten.
+- |-
+  Linsen, Süßkartoffelwürfel, Kokosmilch und Brühe hinzufügen. Aufkochen und 18 Minuten bei mittlerer Hitze köcheln lassen, bis Linsen zerfallen und Süßkartoffeln weich sind. Mit Salz abschmecken.
+en_steps:
+- |-
+  TODO: Süßkartoffel schälen und in 1-cm-Würfel schneiden. Zwiebel würfeln, Knoblauch und Ingwer reiben.
+- |-
+  TODO: Kokosnussöl in einem Topf erhitzen, Zwiebel 2 Minuten anschwitzen. Knoblauch und Ingwer 1 Minute mitbraten.
+- 'TODO: Currypaste und Kurkuma einrühren und 1 Minute rösten.'
+- |-
+  TODO: Linsen, Süßkartoffelwürfel, Kokosmilch und Brühe hinzufügen. Aufkochen und 18 Minuten bei mittlerer Hitze köcheln lassen, bis Linsen zerfallen und Süßkartoffeln weich sind. Mit Salz abschmecken.

@@ -1,0 +1,111 @@
+id: chicken_scaloppine_capers
+pool: lunch
+healthy: false
+quick: true
+next_day: false
+quick_minutes: 25
+meals: 2
+de:
+  title: Hähnchen-Scaloppine mit Kapern und Zitrone
+  summary: |-
+    Dünne Hähnchenschnitzel in einer pikanten Zitronen-Kapern-Sauce – das klassische Piccata-Prinzip, schnell und geschmacksintensiv.
+en:
+  title: 'TODO: Hähnchen-Scaloppine mit Kapern und Zitrone'
+  summary: |-
+    TODO: Dünne Hähnchenschnitzel in einer pikanten Zitronen-Kapern-Sauce – das klassische Piccata-Prinzip, schnell und geschmacksintensiv.
+ingredients:
+- de_name: Hähnchenbrustfilet
+  en_name: 'TODO: Hähnchenbrustfilet'
+  qty: 500
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Kapern abgetropft
+  en_name: 'TODO: Kapern abgetropft'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Zitrone
+  en_name: 'TODO: Zitrone'
+  qty: 2
+  unit: Stk
+  category: Obst
+- de_name: Trockener Weißwein
+  en_name: 'TODO: Trockener Weißwein'
+  qty: 120
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 150
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Mehl
+  en_name: 'TODO: Mehl'
+  qty: 3
+  unit: EL
+  category: Kohlenhydrate und Sattmacher
+- de_name: Butter
+  en_name: 'TODO: Butter'
+  qty: 40
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 2
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Frische Petersilie
+  en_name: 'TODO: Frische Petersilie'
+  qty: 0.5
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Peperoncino Flocken
+  en_name: 'TODO: Peperoncino Flocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Hähnchenbrustfilets horizontal halbieren und zwischen Frischhaltefolie auf ca. 5 mm Dicke flach klopfen. Mit Salz und Pfeffer würzen.
+- |-
+  Mehl auf einem tiefen Teller ausbreiten. Hähnchenschnitzel beidseitig im Mehl wenden, überschüssiges Mehl abklopfen.
+- |-
+  Olivenöl und die Hälfte der Butter in einer großen Pfanne bei mittlerer bis hoher Hitze erhitzen. Hähnchenschnitzel portionsweise 2–3 Minuten pro Seite goldbraun braten. Herausnehmen und warmhalten.
+- Knoblauch fein hacken, in der gleichen Pfanne 30 Sekunden anrösten.
+- |-
+  Mit Weißwein ablöschen und kräftig aufkochen. Hühnerbrühe dazugießen und um die Hälfte einkochen lassen.
+- |-
+  Kapern und Zitronensaft einrühren. Restliche Butter einrühren, bis die Sauce glänzt und leicht sämig ist. Peperoncino-Flocken dazugeben.
+- Hähnchenschnitzel zurück in die Sauce legen und kurz erwärmen.
+- |-
+  Mit gehackter Petersilie und Zitronenscheiben anrichten. Dazu Linguine oder Rucola-Salat reichen.
+en_steps:
+- |-
+  TODO: Hähnchenbrustfilets horizontal halbieren und zwischen Frischhaltefolie auf ca. 5 mm Dicke flach klopfen. Mit Salz und Pfeffer würzen.
+- |-
+  TODO: Mehl auf einem tiefen Teller ausbreiten. Hähnchenschnitzel beidseitig im Mehl wenden, überschüssiges Mehl abklopfen.
+- |-
+  TODO: Olivenöl und die Hälfte der Butter in einer großen Pfanne bei mittlerer bis hoher Hitze erhitzen. Hähnchenschnitzel portionsweise 2–3 Minuten pro Seite goldbraun braten. Herausnehmen und warmhalten.
+- 'TODO: Knoblauch fein hacken, in der gleichen Pfanne 30 Sekunden anrösten.'
+- |-
+  TODO: Mit Weißwein ablöschen und kräftig aufkochen. Hühnerbrühe dazugießen und um die Hälfte einkochen lassen.
+- |-
+  TODO: Kapern und Zitronensaft einrühren. Restliche Butter einrühren, bis die Sauce glänzt und leicht sämig ist. Peperoncino-Flocken dazugeben.
+- 'TODO: Hähnchenschnitzel zurück in die Sauce legen und kurz erwärmen.'
+- |-
+  TODO: Mit gehackter Petersilie und Zitronenscheiben anrichten. Dazu Linguine oder Rucola-Salat reichen.

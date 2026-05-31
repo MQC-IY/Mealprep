@@ -1,0 +1,127 @@
+id: pollo_catalana
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Pollo a la Catalana – Hähnchen mit Oliven und Mandeln
+  summary: |-
+    Katalanisches Schmorhuhn mit Tomaten, grünen Oliven, gerösteten Mandeln, Sherry und Zitrone – die Picada macht die Sauce einzigartig.
+en:
+  title: 'TODO: Pollo a la Catalana – Hähnchen mit Oliven und Mandeln'
+  summary: |-
+    TODO: Katalanisches Schmorhuhn mit Tomaten, grünen Oliven, gerösteten Mandeln, Sherry und Zitrone – die Picada macht die Sauce einzigartig.
+ingredients:
+- de_name: Hähnchenstücke mit Knochen
+  en_name: 'TODO: Hähnchenstücke mit Knochen'
+  qty: 900
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Grüne Oliven entsteint
+  en_name: 'TODO: Grüne Oliven entsteint'
+  qty: 80
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Blanchierte Mandeln
+  en_name: 'TODO: Blanchierte Mandeln'
+  qty: 60
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Geschälte Tomaten aus der Dose
+  en_name: 'TODO: Geschälte Tomaten aus der Dose'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Trockener Sherry oder Weißwein
+  en_name: 'TODO: Trockener Sherry oder Weißwein'
+  qty: 150
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 200
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Zitrone (Schale und Saft)
+  en_name: 'TODO: Zitrone (Schale und Saft)'
+  qty: 1
+  unit: Stk
+  category: Obst
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Frische Petersilie
+  en_name: 'TODO: Frische Petersilie'
+  qty: 0.5
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Pimentón ahumado
+  en_name: 'TODO: Pimentón ahumado'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Safranfäden
+  en_name: 'TODO: Safranfäden'
+  qty: 0.25
+  unit: TL
+  category: Gewürze
+- de_name: Zimt gemahlen
+  en_name: 'TODO: Zimt gemahlen'
+  qty: 0.25
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Safranfäden in 3 EL warmem Wasser einweichen. Hähnchenstücke mit Salz, Pfeffer und Pimentón würzen.
+- Mandeln in einer trockenen Pfanne goldbraun rösten. Beiseitestellen.
+- |-
+  Olivenöl im Schmortopf erhitzen. Hähnchenstücke von beiden Seiten 5 Minuten kräftig anbraten. Herausnehmen.
+- |-
+  Zwiebel fein würfeln, im Bratfett 6 Minuten anschwitzen. Knoblauch (3 Zehen gehackt) dazugeben, 1 Minute weiterbraten.
+- |-
+  Tomaten zerdrückt, Safranwasser, Zimt und Sherry dazugeben. Aufkochen, 3 Minuten einkochen.
+- |-
+  Brühe und Zitronenschale dazugeben. Hähnchenstücke zurücklegen. Zugedeckt 35 Minuten bei niedriger Hitze schmoren.
+- |-
+  Für die Picada: Geröstete Mandeln, 1 rohe Knoblauchzehe und Petersilie im Mörser oder Mixer zu einer groben Paste verarbeiten. Mit Zitronensaft abschmecken.
+- |-
+  Oliven und Picada in die Sauce einrühren. 10 Minuten offen köcheln. Mit Reis oder Brot servieren.
+en_steps:
+- |-
+  TODO: Safranfäden in 3 EL warmem Wasser einweichen. Hähnchenstücke mit Salz, Pfeffer und Pimentón würzen.
+- 'TODO: Mandeln in einer trockenen Pfanne goldbraun rösten. Beiseitestellen.'
+- |-
+  TODO: Olivenöl im Schmortopf erhitzen. Hähnchenstücke von beiden Seiten 5 Minuten kräftig anbraten. Herausnehmen.
+- |-
+  TODO: Zwiebel fein würfeln, im Bratfett 6 Minuten anschwitzen. Knoblauch (3 Zehen gehackt) dazugeben, 1 Minute weiterbraten.
+- |-
+  TODO: Tomaten zerdrückt, Safranwasser, Zimt und Sherry dazugeben. Aufkochen, 3 Minuten einkochen.
+- |-
+  TODO: Brühe und Zitronenschale dazugeben. Hähnchenstücke zurücklegen. Zugedeckt 35 Minuten bei niedriger Hitze schmoren.
+- |-
+  TODO: Für die Picada: Geröstete Mandeln, 1 rohe Knoblauchzehe und Petersilie im Mörser oder Mixer zu einer groben Paste verarbeiten. Mit Zitronensaft abschmecken.
+- |-
+  TODO: Oliven und Picada in die Sauce einrühren. 10 Minuten offen köcheln. Mit Reis oder Brot servieren.

@@ -1,0 +1,86 @@
+id: philippine_chicken_adobo
+pool: lunch
+healthy: false
+quick: true
+next_day: true
+quick_minutes: 30
+meals: 3
+de:
+  title: Philippinischer Hähnchen-Adobo
+  summary: |-
+    Philippinischer Klassiker: Hähnchen in einem würzig-sauren Schmorfond aus Sojasauce, Reisessig, Lorbeer, schwarzem Pfeffer und Knoblauch.
+en:
+  title: 'TODO: Philippinischer Hähnchen-Adobo'
+  summary: |-
+    TODO: Philippinischer Klassiker: Hähnchen in einem würzig-sauren Schmorfond aus Sojasauce, Reisessig, Lorbeer, schwarzem Pfeffer und Knoblauch.
+ingredients:
+- de_name: Hähnchenschenkel mit Knochen
+  en_name: 'TODO: Hähnchenschenkel mit Knochen'
+  qty: 1200
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Sojasauce
+  en_name: 'TODO: Sojasauce'
+  qty: 100
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Reisessig oder weißer Essig
+  en_name: 'TODO: Reisessig oder weißer Essig'
+  qty: 80
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Rapsöl
+  en_name: 'TODO: Rapsöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Basmatireis oder Jasminreis
+  en_name: 'TODO: Basmatireis oder Jasminreis'
+  qty: 350
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 10
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Lorbeerblätter
+  en_name: 'TODO: Lorbeerblätter'
+  qty: 5
+  unit: Stk
+  category: Gewürze
+- de_name: Schwarzer Pfeffer, grob gemahlen
+  en_name: 'TODO: Schwarzer Pfeffer, grob gemahlen'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Knoblauchzehen andrücken. Hähnchenstücke mit Sojasauce, Reisessig, Knoblauch, Lorbeerblättern und schwarzem Pfeffer in einer Schüssel mischen. Mindestens 30 Minuten marinieren, am besten über Nacht.
+- |-
+  Rapsöl in einem schweren Topf bei mittlerer-hoher Hitze erhitzen. Hähnchenstücke aus der Marinade heben und von allen Seiten goldbraun anbraten, herausnehmen.
+- |-
+  Die komplette Marinade (mit Knoblauch und Lorbeer) in den Topf gießen. Aufkochen, Hähnchen zurücklegen.
+- Hitze reduzieren, Deckel drauf und 25 Minuten bei niedriger Hitze schmoren.
+- |-
+  Deckel abnehmen, Hitze erhöhen und die Sauce 10–15 Minuten einreduzieren bis sie dicklich und glänzend ist. Hähnchen dabei gelegentlich wenden.
+- |-
+  Mit Chiliflocken abschmecken. Reis kochen und dazu servieren. Die intensive, säuerlich-salzige Sauce über den Reis löffeln.
+en_steps:
+- |-
+  TODO: Knoblauchzehen andrücken. Hähnchenstücke mit Sojasauce, Reisessig, Knoblauch, Lorbeerblättern und schwarzem Pfeffer in einer Schüssel mischen. Mindestens 30 Minuten marinieren, am besten über Nacht.
+- |-
+  TODO: Rapsöl in einem schweren Topf bei mittlerer-hoher Hitze erhitzen. Hähnchenstücke aus der Marinade heben und von allen Seiten goldbraun anbraten, herausnehmen.
+- |-
+  TODO: Die komplette Marinade (mit Knoblauch und Lorbeer) in den Topf gießen. Aufkochen, Hähnchen zurücklegen.
+- |-
+  TODO: Hitze reduzieren, Deckel drauf und 25 Minuten bei niedriger Hitze schmoren.
+- |-
+  TODO: Deckel abnehmen, Hitze erhöhen und die Sauce 10–15 Minuten einreduzieren bis sie dicklich und glänzend ist. Hähnchen dabei gelegentlich wenden.
+- |-
+  TODO: Mit Chiliflocken abschmecken. Reis kochen und dazu servieren. Die intensive, säuerlich-salzige Sauce über den Reis löffeln.

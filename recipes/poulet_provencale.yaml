@@ -1,0 +1,124 @@
+id: poulet_provencale
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Hähnchen Provençale mit Oliven und Kräutern
+  summary: |-
+    Sonniges Schmorhuhn aus der Provence mit Oliven, Kapern, Tomaten, Herbes de Provence und einem Schuss Weißwein.
+en:
+  title: 'TODO: Hähnchen Provençale mit Oliven und Kräutern'
+  summary: |-
+    TODO: Sonniges Schmorhuhn aus der Provence mit Oliven, Kapern, Tomaten, Herbes de Provence und einem Schuss Weißwein.
+ingredients:
+- de_name: Hähnchenstücke mit Knochen
+  en_name: 'TODO: Hähnchenstücke mit Knochen'
+  qty: 900
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Geschälte Tomaten aus der Dose
+  en_name: 'TODO: Geschälte Tomaten aus der Dose'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Gemischte Oliven entsteint
+  en_name: 'TODO: Gemischte Oliven entsteint'
+  qty: 100
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Kapern abgetropft
+  en_name: 'TODO: Kapern abgetropft'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Trockener Weißwein
+  en_name: 'TODO: Trockener Weißwein'
+  qty: 150
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 200
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Frische Tomaten
+  en_name: 'TODO: Frische Tomaten'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Herbes de Provence
+  en_name: 'TODO: Herbes de Provence'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Paprikapulver edelsüß
+  en_name: 'TODO: Paprikapulver edelsüß'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Lorbeerblätter
+  en_name: 'TODO: Lorbeerblätter'
+  qty: 2
+  unit: Stk
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Frisches Basilikum
+  en_name: 'TODO: Frisches Basilikum'
+  qty: 0.5
+  unit: Bund
+  category: Gemüse und Salat
+de_steps:
+- Hähnchenstücke mit Salz, Pfeffer und Paprikapulver würzen.
+- |-
+  Olivenöl im Schmortopf erhitzen, Hähnchen von beiden Seiten 5 Minuten goldbraun anbraten. Herausnehmen.
+- |-
+  Zwiebel in Ringe und Knoblauch grob hacken. Im Bratfett bei mittlerer Hitze 5 Minuten anschwitzen.
+- Frische Tomaten grob würfeln und dazugeben, 3 Minuten mitschmoren.
+- |-
+  Herbes de Provence und Lorbeer einrühren. Mit Weißwein ablöschen, 2 Minuten einkochen.
+- |-
+  Dosentomaten zerdrückt und Brühe dazugeben. Hähnchenstücke zurücklegen, zugedeckt 35 Minuten bei niedriger Hitze schmoren.
+- |-
+  Deckel abnehmen, Oliven und Kapern einrühren. 10 Minuten offen köcheln. Lorbeer entfernen.
+- Mit frischem Basilikum bestreuen. Mit Couscous, Polenta oder Baguette servieren.
+en_steps:
+- 'TODO: Hähnchenstücke mit Salz, Pfeffer und Paprikapulver würzen.'
+- |-
+  TODO: Olivenöl im Schmortopf erhitzen, Hähnchen von beiden Seiten 5 Minuten goldbraun anbraten. Herausnehmen.
+- |-
+  TODO: Zwiebel in Ringe und Knoblauch grob hacken. Im Bratfett bei mittlerer Hitze 5 Minuten anschwitzen.
+- 'TODO: Frische Tomaten grob würfeln und dazugeben, 3 Minuten mitschmoren.'
+- |-
+  TODO: Herbes de Provence und Lorbeer einrühren. Mit Weißwein ablöschen, 2 Minuten einkochen.
+- |-
+  TODO: Dosentomaten zerdrückt und Brühe dazugeben. Hähnchenstücke zurücklegen, zugedeckt 35 Minuten bei niedriger Hitze schmoren.
+- |-
+  TODO: Deckel abnehmen, Oliven und Kapern einrühren. 10 Minuten offen köcheln. Lorbeer entfernen.
+- |-
+  TODO: Mit frischem Basilikum bestreuen. Mit Couscous, Polenta oder Baguette servieren.

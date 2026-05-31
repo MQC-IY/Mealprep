@@ -1,0 +1,132 @@
+id: shakshuka_chicken_feta
+pool: lunch
+healthy: false
+quick: true
+next_day: false
+quick_minutes: 28
+meals: 2
+de:
+  title: Israelisches Shakshuka-Hähnchen mit Feta
+  summary: |-
+    Klassische Shakshuka erweitert mit würzigem Hähnchen und zerbröseltem Feta – herzhaft, bunt und vollgepackt mit Aromen.
+en:
+  title: 'TODO: Israelisches Shakshuka-Hähnchen mit Feta'
+  summary: |-
+    TODO: Klassische Shakshuka erweitert mit würzigem Hähnchen und zerbröseltem Feta – herzhaft, bunt und vollgepackt mit Aromen.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 400
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Eier
+  en_name: 'TODO: Eier'
+  qty: 4
+  unit: Stk
+  category: Protein und Milchprodukte
+- de_name: Feta-Käse
+  en_name: 'TODO: Feta-Käse'
+  qty: 120
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Zwiebeln
+  en_name: 'TODO: Zwiebeln'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Paprika, rot
+  en_name: 'TODO: Paprika, rot'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Frische Petersilie
+  en_name: 'TODO: Frische Petersilie'
+  qty: 0.5
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Frische Minzblätter
+  en_name: 'TODO: Frische Minzblätter'
+  qty: 0.25
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Gehackte Tomaten
+  en_name: 'TODO: Gehackte Tomaten'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Tomatenmark
+  en_name: 'TODO: Tomatenmark'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Pita-Brot
+  en_name: 'TODO: Pita-Brot'
+  qty: 4
+  unit: Stk
+  category: Kohlenhydrate und Sattmacher
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+- de_name: Koriander, gemahlen
+  en_name: 'TODO: Koriander, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Paprikapulver, geräuchert
+  en_name: 'TODO: Paprikapulver, geräuchert'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chilipulver
+  en_name: 'TODO: Chilipulver'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Hähnchen in kleine Würfel schneiden, mit Salz, Pfeffer und Kreuzkümmel würzen. In Olivenöl scharf anbraten (5 Minuten), herausnehmen.
+- |-
+  In derselben Pfanne Zwiebeln und Paprika 8 Minuten weich dünsten. Knoblauch einrühren, 2 Minuten mitbraten.
+- |-
+  Tomatenmark einrühren und kurz rösten. Koriander, geräuchertes Paprika, restlichen Kreuzkümmel und Chili hinzufügen.
+- |-
+  Gehackte Tomaten und angebratenes Hähnchen in die Pfanne geben. 10 Minuten köcheln lassen. Mit Salz abschmecken.
+- |-
+  Vier Vertiefungen in die Sauce drücken, je ein Ei hineingleiten lassen. Feta über die gesamte Oberfläche bröckeln. Pfanne abdecken, 5–7 Minuten bei mittlerer Hitze garen.
+- |-
+  Mit Petersilie und Minze bestreuen. Direkt aus der Pfanne mit warmem Pita-Brot servieren.
+en_steps:
+- |-
+  TODO: Hähnchen in kleine Würfel schneiden, mit Salz, Pfeffer und Kreuzkümmel würzen. In Olivenöl scharf anbraten (5 Minuten), herausnehmen.
+- |-
+  TODO: In derselben Pfanne Zwiebeln und Paprika 8 Minuten weich dünsten. Knoblauch einrühren, 2 Minuten mitbraten.
+- |-
+  TODO: Tomatenmark einrühren und kurz rösten. Koriander, geräuchertes Paprika, restlichen Kreuzkümmel und Chili hinzufügen.
+- |-
+  TODO: Gehackte Tomaten und angebratenes Hähnchen in die Pfanne geben. 10 Minuten köcheln lassen. Mit Salz abschmecken.
+- |-
+  TODO: Vier Vertiefungen in die Sauce drücken, je ein Ei hineingleiten lassen. Feta über die gesamte Oberfläche bröckeln. Pfanne abdecken, 5–7 Minuten bei mittlerer Hitze garen.
+- |-
+  TODO: Mit Petersilie und Minze bestreuen. Direkt aus der Pfanne mit warmem Pita-Brot servieren.

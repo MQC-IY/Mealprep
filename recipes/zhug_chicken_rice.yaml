@@ -1,0 +1,103 @@
+id: zhug_chicken_rice
+pool: lunch
+healthy: true
+quick: true
+next_day: false
+quick_minutes: 30
+meals: 2
+de:
+  title: Hähnchen mit Grünem Zhug und Basmati
+  summary: |-
+    Jemenitische feurige grüne Chilisauce Zhug – blitzschnell aus Koriander, Jalapeño, Kardamom und Kreuzkümmel gemacht – als Marinade und Sauce für saftiges Hähnchen auf Basmati.
+en:
+  title: 'TODO: Hähnchen mit Grünem Zhug und Basmati'
+  summary: |-
+    TODO: Jemenitische feurige grüne Chilisauce Zhug – blitzschnell aus Koriander, Jalapeño, Kardamom und Kreuzkümmel gemacht – als Marinade und Sauce für saftiges Hähnchen auf Basmati.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 750
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Basmatireis
+  en_name: 'TODO: Basmatireis'
+  qty: 300
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Koriander, frisch
+  en_name: 'TODO: Koriander, frisch'
+  qty: 2
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Petersilie, frisch
+  en_name: 'TODO: Petersilie, frisch'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Jalapeño oder grüne Chili
+  en_name: 'TODO: Jalapeño oder grüne Chili'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 5
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Tomate
+  en_name: 'TODO: Tomate'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 5
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Zitrone
+  en_name: 'TODO: Zitrone'
+  qty: 2
+  unit: Stk
+  category: Obst
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Kardamom, gemahlen
+  en_name: 'TODO: Kardamom, gemahlen'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Koriander, gemahlen
+  en_name: 'TODO: Koriander, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Zhug: Koriander, Petersilie, Jalapeño (ohne Kerne für mittlere Schärfe), Knoblauch, Zitronensaft, Olivenöl, Kreuzkümmel, Kardamom, Koriander gemahlen und Salz im Mixer pulsierend zu einer groben Sauce verarbeiten.
+- |-
+  Hähnchen einschneiden und mit 3 EL des Zhugs einreiben. Mind. 20 Minuten marinieren.
+- Reis nach Packungsanweisung garen.
+- |-
+  Hähnchen in einer heißen Grillpfanne von jeder Seite 6–7 Minuten garen, bis es schöne Röstaromen hat.
+- Tomaten würfeln und mit Chiliflocken und etwas Zitronensaft abschmecken.
+- |-
+  Reis in Bowls geben, Hähnchen in Scheiben schneiden, anrichten. Restlichen Zhug großzügig darüber geben, Tomaten daneben.
+en_steps:
+- |-
+  TODO: Zhug: Koriander, Petersilie, Jalapeño (ohne Kerne für mittlere Schärfe), Knoblauch, Zitronensaft, Olivenöl, Kreuzkümmel, Kardamom, Koriander gemahlen und Salz im Mixer pulsierend zu einer groben Sauce verarbeiten.
+- |-
+  TODO: Hähnchen einschneiden und mit 3 EL des Zhugs einreiben. Mind. 20 Minuten marinieren.
+- 'TODO: Reis nach Packungsanweisung garen.'
+- |-
+  TODO: Hähnchen in einer heißen Grillpfanne von jeder Seite 6–7 Minuten garen, bis es schöne Röstaromen hat.
+- 'TODO: Tomaten würfeln und mit Chiliflocken und etwas Zitronensaft abschmecken.'
+- |-
+  TODO: Reis in Bowls geben, Hähnchen in Scheiben schneiden, anrichten. Restlichen Zhug großzügig darüber geben, Tomaten daneben.

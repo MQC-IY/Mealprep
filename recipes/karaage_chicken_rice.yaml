@@ -1,0 +1,138 @@
+id: karaage_chicken_rice
+pool: lunch
+healthy: false
+quick: false
+next_day: false
+meals: 2
+de:
+  title: Hähnchen Karaage mit Reis und Coleslaw
+  summary: |-
+    Japanisch marinierter, knuspriger frittierter Hähnchen-Karaage mit Zitronenmayonnaise, Reis und knackigem Coleslaw.
+en:
+  title: 'TODO: Hähnchen Karaage mit Reis und Coleslaw'
+  summary: |-
+    TODO: Japanisch marinierter, knuspriger frittierter Hähnchen-Karaage mit Zitronenmayonnaise, Reis und knackigem Coleslaw.
+ingredients:
+- de_name: Hähnchenschenkel (ausgelöst, mit Haut)
+  en_name: 'TODO: Hähnchenschenkel (ausgelöst, mit Haut)'
+  qty: 900
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Eier
+  en_name: 'TODO: Eier'
+  qty: 2
+  unit: Stk
+  category: Protein und Milchprodukte
+- de_name: Weißkohl
+  en_name: 'TODO: Weißkohl'
+  qty: 300
+  unit: g
+  category: Gemüse und Salat
+- de_name: Rotkohl
+  en_name: 'TODO: Rotkohl'
+  qty: 200
+  unit: g
+  category: Gemüse und Salat
+- de_name: Karotten
+  en_name: 'TODO: Karotten'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Ingwer (frisch)
+  en_name: 'TODO: Ingwer (frisch)'
+  qty: 25
+  unit: g
+  category: Gemüse und Salat
+- de_name: Jasminreis
+  en_name: 'TODO: Jasminreis'
+  qty: 400
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Kartoffelstärke (Katakuriko)
+  en_name: 'TODO: Kartoffelstärke (Katakuriko)'
+  qty: 100
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Sojasoße
+  en_name: 'TODO: Sojasoße'
+  qty: 5
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sake
+  en_name: 'TODO: Sake'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Mayonnaise
+  en_name: 'TODO: Mayonnaise'
+  qty: 4
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Reisessig
+  en_name: 'TODO: Reisessig'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sesamöl
+  en_name: 'TODO: Sesamöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Zucker
+  en_name: 'TODO: Zucker'
+  qty: 1
+  unit: TL
+  category: Konserven und Vorrat
+- de_name: Pflanzenöl (zum Frittieren)
+  en_name: 'TODO: Pflanzenöl (zum Frittieren)'
+  qty: 500
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Zitronensaft
+  en_name: 'TODO: Zitronensaft'
+  qty: 2
+  unit: EL
+  category: Obst
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Sesamkörner (weiß)
+  en_name: 'TODO: Sesamkörner (weiß)'
+  qty: 1
+  unit: EL
+  category: Gewürze
+de_steps:
+- |-
+  Hähnchenschenkel in mundgerechte Stücke (ca. 4 cm) schneiden. Knoblauch und Ingwer fein reiben.
+- |-
+  Hähnchen mit Sojasoße, Sake, Knoblauch, Ingwer und Pfeffer mischen. Mindestens 30 Minuten im Kühlschrank marinieren.
+- Reis garen.
+- |-
+  Für den Coleslaw: Weißkohl, Rotkohl und Karotten fein hobeln. Mit Reisessig, Sesamöl, Zucker, 1 Prise Salz und Sesamkörnern mischen. Kühl stellen.
+- |-
+  Öl in einem Topf auf 170 °C erhitzen. Mariniertes Hähnchen portionsweise in Kartoffelstärke wenden, überschüssige Stärke abschütteln.
+- |-
+  Hähnchen 3–4 Minuten frittieren, herausnehmen und 2 Minuten ruhen lassen. Für extra Knusprigkeit bei 180 °C nochmals 1 Minute frittieren.
+- |-
+  Mayonnaise mit Zitronensaft verrühren. Karaage auf Küchenpapier abtropfen lassen und mit Reis, Coleslaw und Zitronenmayo servieren.
+en_steps:
+- |-
+  TODO: Hähnchenschenkel in mundgerechte Stücke (ca. 4 cm) schneiden. Knoblauch und Ingwer fein reiben.
+- |-
+  TODO: Hähnchen mit Sojasoße, Sake, Knoblauch, Ingwer und Pfeffer mischen. Mindestens 30 Minuten im Kühlschrank marinieren.
+- 'TODO: Reis garen.'
+- |-
+  TODO: Für den Coleslaw: Weißkohl, Rotkohl und Karotten fein hobeln. Mit Reisessig, Sesamöl, Zucker, 1 Prise Salz und Sesamkörnern mischen. Kühl stellen.
+- |-
+  TODO: Öl in einem Topf auf 170 °C erhitzen. Mariniertes Hähnchen portionsweise in Kartoffelstärke wenden, überschüssige Stärke abschütteln.
+- |-
+  TODO: Hähnchen 3–4 Minuten frittieren, herausnehmen und 2 Minuten ruhen lassen. Für extra Knusprigkeit bei 180 °C nochmals 1 Minute frittieren.
+- |-
+  TODO: Mayonnaise mit Zitronensaft verrühren. Karaage auf Küchenpapier abtropfen lassen und mit Reis, Coleslaw und Zitronenmayo servieren.

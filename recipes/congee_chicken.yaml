@@ -1,0 +1,97 @@
+id: congee_chicken
+pool: lunch
+healthy: true
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Chinesische Reissuppe (Congee) mit Hähnchen
+  summary: |-
+    Cremiger, seidiger chinesischer Reisbrei mit zart zerfallendem Hähnchen, Ingwer und würzigen Toppings.
+en:
+  title: 'TODO: Chinesische Reissuppe (Congee) mit Hähnchen'
+  summary: |-
+    TODO: Cremiger, seidiger chinesischer Reisbrei mit zart zerfallendem Hähnchen, Ingwer und würzigen Toppings.
+ingredients:
+- de_name: Hähnchenbrustfilet oder -schenkel
+  en_name: 'TODO: Hähnchenbrustfilet oder -schenkel'
+  qty: 300
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Rundkornreis oder Jasminreis
+  en_name: 'TODO: Rundkornreis oder Jasminreis'
+  qty: 150
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 1.2
+  unit: Liter
+  category: Konserven und Vorrat
+- de_name: Sojasauce
+  en_name: 'TODO: Sojasauce'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sesamöl
+  en_name: 'TODO: Sesamöl'
+  qty: 2
+  unit: TL
+  category: Konserven und Vorrat
+- de_name: Ingwer, frisch
+  en_name: 'TODO: Ingwer, frisch'
+  qty: 5
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 2
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 4
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Frischer Koriander
+  en_name: 'TODO: Frischer Koriander'
+  qty: 0.5
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Frische rote Chili
+  en_name: 'TODO: Frische rote Chili'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Weißer Pfeffer, gemahlen
+  en_name: 'TODO: Weißer Pfeffer, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Reis waschen. Ingwer in Scheiben, Knoblauch andrücken.
+- Reis, Hühnerbrühe, Ingwer und Knoblauch in einem großen Topf aufkochen.
+- |-
+  Hähnchenstücke in die Brühe geben. Bei kleiner Hitze 35–40 Minuten köcheln, dabei gelegentlich rühren, bis der Reis cremig und zerfallen ist.
+- Hähnchen herausnehmen. Mit zwei Gabeln in feine Fäden zerzupfen.
+- |-
+  Congee mit Sojasauce, Salz und weißem Pfeffer kräftig abschmecken – er soll sehr würzig sein.
+- Hähnchen zurückgeben und weitere 5 Minuten erwärmen.
+- |-
+  In tiefe Schalen schöpfen. Mit Frühlingszwiebeln, Koriander, Chiliringen und Sesamöl garnieren.
+en_steps:
+- 'TODO: Reis waschen. Ingwer in Scheiben, Knoblauch andrücken.'
+- 'TODO: Reis, Hühnerbrühe, Ingwer und Knoblauch in einem großen Topf aufkochen.'
+- |-
+  TODO: Hähnchenstücke in die Brühe geben. Bei kleiner Hitze 35–40 Minuten köcheln, dabei gelegentlich rühren, bis der Reis cremig und zerfallen ist.
+- 'TODO: Hähnchen herausnehmen. Mit zwei Gabeln in feine Fäden zerzupfen.'
+- |-
+  TODO: Congee mit Sojasauce, Salz und weißem Pfeffer kräftig abschmecken – er soll sehr würzig sein.
+- 'TODO: Hähnchen zurückgeben und weitere 5 Minuten erwärmen.'
+- |-
+  TODO: In tiefe Schalen schöpfen. Mit Frühlingszwiebeln, Koriander, Chiliringen und Sesamöl garnieren.

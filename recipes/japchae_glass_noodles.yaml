@@ -1,0 +1,131 @@
+id: japchae_glass_noodles
+pool: lunch
+healthy: true
+quick: false
+next_day: false
+meals: 2
+de:
+  title: Koreanische Japchae-Glasnudelpfanne mit Hähnchen
+  summary: |-
+    Seidig-geschmeidige Glasnudeln aus Süßkartoffelstärke mit Hähnchen, buntem Gemüse und süß-würziger Sesam-Sojasoße.
+en:
+  title: 'TODO: Koreanische Japchae-Glasnudelpfanne mit Hähnchen'
+  summary: |-
+    TODO: Seidig-geschmeidige Glasnudeln aus Süßkartoffelstärke mit Hähnchen, buntem Gemüse und süß-würziger Sesam-Sojasoße.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 500
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Eier
+  en_name: 'TODO: Eier'
+  qty: 2
+  unit: Stk
+  category: Protein und Milchprodukte
+- de_name: Spinat (frisch)
+  en_name: 'TODO: Spinat (frisch)'
+  qty: 200
+  unit: g
+  category: Gemüse und Salat
+- de_name: Karotten
+  en_name: 'TODO: Karotten'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Paprika (rot)
+  en_name: 'TODO: Paprika (rot)'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Shiitake-Pilze (frisch)
+  en_name: 'TODO: Shiitake-Pilze (frisch)'
+  qty: 150
+  unit: g
+  category: Gemüse und Salat
+- de_name: Zwiebeln
+  en_name: 'TODO: Zwiebeln'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Dangmyeon (koreanische Glasnudeln)
+  en_name: 'TODO: Dangmyeon (koreanische Glasnudeln)'
+  qty: 300
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Sojasoße
+  en_name: 'TODO: Sojasoße'
+  qty: 5
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sesamöl
+  en_name: 'TODO: Sesamöl'
+  qty: 4
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Pflanzenöl
+  en_name: 'TODO: Pflanzenöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Zucker
+  en_name: 'TODO: Zucker'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Reisessig
+  en_name: 'TODO: Reisessig'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sesamkörner (weiß)
+  en_name: 'TODO: Sesamkörner (weiß)'
+  qty: 3
+  unit: EL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Gochugaru
+  en_name: 'TODO: Gochugaru'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Glasnudeln 20 Minuten in kaltem Wasser einweichen, dann 5 Minuten in kochendem Wasser garen. Abgießen, kalt abspülen und in grobe Stücke schneiden.
+- 'Hauptsoße: 3 EL Sojasoße, 2 EL Sesamöl, Zucker und Reisessig verrühren.'
+- |-
+  Hähnchen in dünne Streifen schneiden, mit 1 EL Sojasoße und Pfeffer 10 Minuten marinieren.
+- |-
+  Eier zu dünnen Omelett-Scheiben braten und in Streifen schneiden. Beiseite legen.
+- |-
+  Gemüse einzeln in einer Pfanne kurz sautieren. Alles mit Sojasoße und Knoblauch würzen.
+- Hähnchen in der Pfanne mit Öl 5 Minuten braten.
+- |-
+  Alle Zutaten in einer großen Schüssel mit der Hauptsoße, Gochugaru und restlichem Sesamöl vermengen.
+en_steps:
+- |-
+  TODO: Glasnudeln 20 Minuten in kaltem Wasser einweichen, dann 5 Minuten in kochendem Wasser garen. Abgießen, kalt abspülen und in grobe Stücke schneiden.
+- 'TODO: Hauptsoße: 3 EL Sojasoße, 2 EL Sesamöl, Zucker und Reisessig verrühren.'
+- |-
+  TODO: Hähnchen in dünne Streifen schneiden, mit 1 EL Sojasoße und Pfeffer 10 Minuten marinieren.
+- |-
+  TODO: Eier zu dünnen Omelett-Scheiben braten und in Streifen schneiden. Beiseite legen.
+- |-
+  TODO: Gemüse einzeln in einer Pfanne kurz sautieren. Alles mit Sojasoße und Knoblauch würzen.
+- 'TODO: Hähnchen in der Pfanne mit Öl 5 Minuten braten.'
+- |-
+  TODO: Alle Zutaten in einer großen Schüssel mit der Hauptsoße, Gochugaru und restlichem Sesamöl vermengen.

@@ -1,0 +1,126 @@
+id: adana_chicken_bulgur
+pool: lunch
+healthy: true
+quick: false
+next_day: false
+meals: 2
+de:
+  title: Türkisches Hähnchen-Adana mit Bulgur-Salat
+  summary: |-
+    Feurige türkische Adana-Köfte-Spieße aus Hähnchenhack mit Pul Biber und Kreuzkümmel, dazu frischer Bulgur-Salat mit Petersilie und Granatapfelsirup.
+en:
+  title: 'TODO: Türkisches Hähnchen-Adana mit Bulgur-Salat'
+  summary: |-
+    TODO: Feurige türkische Adana-Köfte-Spieße aus Hähnchenhack mit Pul Biber und Kreuzkümmel, dazu frischer Bulgur-Salat mit Petersilie und Granatapfelsirup.
+ingredients:
+- de_name: Hähnchenhack
+  en_name: 'TODO: Hähnchenhack'
+  qty: 800
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Naturjoghurt
+  en_name: 'TODO: Naturjoghurt'
+  qty: 200
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Bulgur, grob
+  en_name: 'TODO: Bulgur, grob'
+  qty: 300
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Tomate
+  en_name: 'TODO: Tomate'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Petersilie, frisch
+  en_name: 'TODO: Petersilie, frisch'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 4
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 3
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Granatapfelsirup (Nar Ekşisi)
+  en_name: 'TODO: Granatapfelsirup (Nar Ekşisi)'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 350
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Zitrone
+  en_name: 'TODO: Zitrone'
+  qty: 1
+  unit: Stk
+  category: Obst
+- de_name: Pul Biber (Aleppo-Pfeffer)
+  en_name: 'TODO: Pul Biber (Aleppo-Pfeffer)'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+- de_name: Paprika edelsüß
+  en_name: 'TODO: Paprika edelsüß'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Sumach
+  en_name: 'TODO: Sumach'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Zimt, gemahlen
+  en_name: 'TODO: Zimt, gemahlen'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Bulgur: Brühe aufkochen, Bulgur einrühren, Herd abschalten, 15 Minuten quellen lassen.
+- |-
+  Zwiebel sehr fein reiben oder im Mixer zerkleinern. Hähnchenhack mit Pul Biber, Kreuzkümmel, Paprika, Zimt, Knoblauch und geriebener Zwiebel verkneten. Kräftig salzen. Auf flache Spieße formen.
+- |-
+  Spieße in einer sehr heißen Grillpfanne von jeder Seite 4–5 Minuten scharf anbraten.
+- |-
+  Bulgur mit einer Gabel auflockern. Tomaten würfeln, Frühlingszwiebeln schneiden, Petersilie hacken. Alles mit Bulgur mischen.
+- |-
+  Bulgur-Salat mit Granatapfelsirup, Zitronensaft, Olivenöl, Sumach und Salz abschmecken.
+- |-
+  Joghurt mit etwas Pul Biber und Olivenöl auf den Boden der Bowl geben, Bulgur-Salat daneben, Adana-Spieße obenauf.
+en_steps:
+- |-
+  TODO: Bulgur: Brühe aufkochen, Bulgur einrühren, Herd abschalten, 15 Minuten quellen lassen.
+- |-
+  TODO: Zwiebel sehr fein reiben oder im Mixer zerkleinern. Hähnchenhack mit Pul Biber, Kreuzkümmel, Paprika, Zimt, Knoblauch und geriebener Zwiebel verkneten. Kräftig salzen. Auf flache Spieße formen.
+- |-
+  TODO: Spieße in einer sehr heißen Grillpfanne von jeder Seite 4–5 Minuten scharf anbraten.
+- |-
+  TODO: Bulgur mit einer Gabel auflockern. Tomaten würfeln, Frühlingszwiebeln schneiden, Petersilie hacken. Alles mit Bulgur mischen.
+- |-
+  TODO: Bulgur-Salat mit Granatapfelsirup, Zitronensaft, Olivenöl, Sumach und Salz abschmecken.
+- |-
+  TODO: Joghurt mit etwas Pul Biber und Olivenöl auf den Boden der Bowl geben, Bulgur-Salat daneben, Adana-Spieße obenauf.

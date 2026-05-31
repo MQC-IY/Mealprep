@@ -1,0 +1,119 @@
+id: rendang_chicken_jasmine_rice
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Hähnchen-Rendang-Curry mit Jasminreis
+  summary: |-
+    Intensives indonesisches Rendang: Hähnchen langsam in Kokosmilch mit Zitronengras, Galgant, Chilipaste und Kaffirlimette geschmort bis die Sauce karamellisiert.
+en:
+  title: 'TODO: Hähnchen-Rendang-Curry mit Jasminreis'
+  summary: |-
+    TODO: Intensives indonesisches Rendang: Hähnchen langsam in Kokosmilch mit Zitronengras, Galgant, Chilipaste und Kaffirlimette geschmort bis die Sauce karamellisiert.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 800
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Kokosmilch
+  en_name: 'TODO: Kokosmilch'
+  qty: 2
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Rapsöl
+  en_name: 'TODO: Rapsöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sojasauce
+  en_name: 'TODO: Sojasauce'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Jasminreis
+  en_name: 'TODO: Jasminreis'
+  qty: 300
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Rote Chilischoten
+  en_name: 'TODO: Rote Chilischoten'
+  qty: 4
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Schalotten
+  en_name: 'TODO: Schalotten'
+  qty: 4
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 5
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Ingwer, frisch
+  en_name: 'TODO: Ingwer, frisch'
+  qty: 30
+  unit: g
+  category: Gemüse und Salat
+- de_name: Zitronengras
+  en_name: 'TODO: Zitronengras'
+  qty: 2
+  unit: Stange
+  category: Gemüse und Salat
+- de_name: Kaffir-Limettenblätter
+  en_name: 'TODO: Kaffir-Limettenblätter'
+  qty: 6
+  unit: Stk
+  category: Gewürze
+- de_name: Galgant oder Ingwerpulver
+  en_name: 'TODO: Galgant oder Ingwerpulver'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Kurkuma
+  en_name: 'TODO: Kurkuma'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Koriander, gemahlen
+  en_name: 'TODO: Koriander, gemahlen'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Rendang-Paste: Chilischoten, Schalotten, Knoblauch und Ingwer im Mixer zu einer glatten Paste verarbeiten.
+- Zitronengras anquetschen.
+- |-
+  Öl im großen Topf erhitzen. Paste 5 Minuten kräftig anbraten bis sie duftet und etwas Öl oben schwimmt.
+- |-
+  Koriander, Kreuzkümmel, Kurkuma und Galgant einrühren. Hähnchen in große Stücke schneiden und rundum anbraten.
+- |-
+  Kokosmilch, Sojasauce, Zitronengras und Kaffirlimettenblätter zugeben. Aufkochen lassen.
+- |-
+  Hitze reduzieren und 35–40 Minuten köcheln lassen, bis die Sauce stark eingedickt ist und karamellisiert. Reis kochen. Zitronengras und Limettenblätter entfernen vor dem Servieren.
+en_steps:
+- |-
+  TODO: Rendang-Paste: Chilischoten, Schalotten, Knoblauch und Ingwer im Mixer zu einer glatten Paste verarbeiten.
+- 'TODO: Zitronengras anquetschen.'
+- |-
+  TODO: Öl im großen Topf erhitzen. Paste 5 Minuten kräftig anbraten bis sie duftet und etwas Öl oben schwimmt.
+- |-
+  TODO: Koriander, Kreuzkümmel, Kurkuma und Galgant einrühren. Hähnchen in große Stücke schneiden und rundum anbraten.
+- |-
+  TODO: Kokosmilch, Sojasauce, Zitronengras und Kaffirlimettenblätter zugeben. Aufkochen lassen.
+- |-
+  TODO: Hitze reduzieren und 35–40 Minuten köcheln lassen, bis die Sauce stark eingedickt ist und karamellisiert. Reis kochen. Zitronengras und Limettenblätter entfernen vor dem Servieren.

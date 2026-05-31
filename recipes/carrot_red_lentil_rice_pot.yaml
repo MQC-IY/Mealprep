@@ -1,0 +1,62 @@
+id: carrot_red_lentil_rice_pot
+pool: lunch
+healthy: true
+quick: true
+next_day: true
+quick_minutes: 30
+meals: 3
+de:
+  title: Möhren-Linsen-Reis-Topf
+  summary: Milder Topf mit roten Linsen, Reis, Möhren und leichter Tomatenbasis.
+en:
+  title: 'TODO: Möhren-Linsen-Reis-Topf'
+  summary: 'TODO: Milder Topf mit roten Linsen, Reis, Möhren und leichter Tomatenbasis.'
+ingredients:
+- de_name: Rote Linsen
+  en_name: 'TODO: Rote Linsen'
+  qty: 220
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Reis
+  en_name: 'TODO: Reis'
+  qty: 220
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Möhren
+  en_name: 'TODO: Möhren'
+  qty: 4
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Passierte Tomaten
+  en_name: 'TODO: Passierte Tomaten'
+  qty: 1
+  unit: Glas
+  category: Konserven und Vorrat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Currypulver
+  en_name: 'TODO: Currypulver'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Zwiebel und Möhren in Olivenöl anschwitzen.
+- Linsen, Reis und Tomaten zugeben und mit Wasser weich köcheln.
+- Bei Bedarf etwas Wasser nachgießen.
+en_steps:
+- 'TODO: Zwiebel und Möhren in Olivenöl anschwitzen.'
+- 'TODO: Linsen, Reis und Tomaten zugeben und mit Wasser weich köcheln.'
+- 'TODO: Bei Bedarf etwas Wasser nachgießen.'

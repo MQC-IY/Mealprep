@@ -1,0 +1,117 @@
+id: achiote_chicken_tacos
+pool: lunch
+healthy: false
+quick: false
+next_day: false
+meals: 2
+de:
+  title: Hähnchen-Tacos mit Achiote-Marinade
+  summary: |-
+    Mexikanisches Cochinita-Pibil-inspiriertes Hähnchen mit Annatto-Paste, Orangen- und Limettensaft – serviert in Mais-Tortillas mit Roten Zwiebeln und Koriander.
+en:
+  title: 'TODO: Hähnchen-Tacos mit Achiote-Marinade'
+  summary: |-
+    TODO: Mexikanisches Cochinita-Pibil-inspiriertes Hähnchen mit Annatto-Paste, Orangen- und Limettensaft – serviert in Mais-Tortillas mit Roten Zwiebeln und Koriander.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 800
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Maistortillas
+  en_name: 'TODO: Maistortillas'
+  qty: 12
+  unit: Stk
+  category: Kohlenhydrate und Sattmacher
+- de_name: Rote Zwiebel
+  en_name: 'TODO: Rote Zwiebel'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Koriander, frisch
+  en_name: 'TODO: Koriander, frisch'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Jalapeño
+  en_name: 'TODO: Jalapeño'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Achiote-Paste (Annatto)
+  en_name: 'TODO: Achiote-Paste (Annatto)'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Reisessig
+  en_name: 'TODO: Reisessig'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Orange
+  en_name: 'TODO: Orange'
+  qty: 1
+  unit: Stk
+  category: Obst
+- de_name: Limette
+  en_name: 'TODO: Limette'
+  qty: 3
+  unit: Stk
+  category: Obst
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Oregano
+  en_name: 'TODO: Oregano'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Koriander, gemahlen
+  en_name: 'TODO: Koriander, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Paprika edelsüß
+  en_name: 'TODO: Paprika edelsüß'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Achiote-Marinade: Achiote-Paste mit Orangensaft, Limettensaft, 2 EL Olivenöl, Knoblauch, Kreuzkümmel, Oregano, Koriander gemahlen, Paprika und Chiliflocken glatt verrühren.
+- Hähnchen mit Marinade einreiben, 30–60 Minuten marinieren.
+- |-
+  Eingelegte rote Zwiebeln: Zwiebel in dünne Ringe schneiden, mit Reisessig, Salz und 1 Prise Zucker übergießen, mindestens 15 Minuten ziehen lassen.
+- |-
+  Hähnchen in einer heißen Pfanne 6–7 Minuten je Seite garen. Herausnehmen und in Streifen zupfen.
+- Tortillas trocken in der Pfanne kurz erwärmen.
+- |-
+  Tacos belegen: Hähnchen, eingelegte Zwiebeln, Jalapeño-Ringe, frischen Koriander und Limettensaft. Mit Salz abschmecken.
+en_steps:
+- |-
+  TODO: Achiote-Marinade: Achiote-Paste mit Orangensaft, Limettensaft, 2 EL Olivenöl, Knoblauch, Kreuzkümmel, Oregano, Koriander gemahlen, Paprika und Chiliflocken glatt verrühren.
+- 'TODO: Hähnchen mit Marinade einreiben, 30–60 Minuten marinieren.'
+- |-
+  TODO: Eingelegte rote Zwiebeln: Zwiebel in dünne Ringe schneiden, mit Reisessig, Salz und 1 Prise Zucker übergießen, mindestens 15 Minuten ziehen lassen.
+- |-
+  TODO: Hähnchen in einer heißen Pfanne 6–7 Minuten je Seite garen. Herausnehmen und in Streifen zupfen.
+- 'TODO: Tortillas trocken in der Pfanne kurz erwärmen.'
+- |-
+  TODO: Tacos belegen: Hähnchen, eingelegte Zwiebeln, Jalapeño-Ringe, frischen Koriander und Limettensaft. Mit Salz abschmecken.

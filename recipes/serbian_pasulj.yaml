@@ -1,0 +1,119 @@
+id: serbian_pasulj
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Serbisches Pasulj – Bohneneintopf mit Speck
+  summary: |-
+    Der deftige serbische Bohneneintopf mit geräuchertem Speck, Paprika und Ajvar – sättigend, rauchig und mit tiefem Balkan-Charakter.
+en:
+  title: 'TODO: Serbisches Pasulj – Bohneneintopf mit Speck'
+  summary: |-
+    TODO: Der deftige serbische Bohneneintopf mit geräuchertem Speck, Paprika und Ajvar – sättigend, rauchig und mit tiefem Balkan-Charakter.
+ingredients:
+- de_name: Weiße Bohnen (Dose)
+  en_name: 'TODO: Weiße Bohnen (Dose)'
+  qty: 2
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Ajvar (aus dem Glas)
+  en_name: 'TODO: Ajvar (aus dem Glas)'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Gemüsebrühe
+  en_name: 'TODO: Gemüsebrühe'
+  qty: 500
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Olivenöl oder Schmalz
+  en_name: 'TODO: Olivenöl oder Schmalz'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Geräucherter Speck (Bauchspeck, am Stück)
+  en_name: 'TODO: Geräucherter Speck (Bauchspeck, am Stück)'
+  qty: 200
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Geräucherte Paprikawurst (Kulen oder Chorizo)
+  en_name: 'TODO: Geräucherte Paprikawurst (Kulen oder Chorizo)'
+  qty: 150
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Zwiebeln
+  en_name: 'TODO: Zwiebeln'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Paprikaschoten, rot
+  en_name: 'TODO: Paprikaschoten, rot'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Karotten
+  en_name: 'TODO: Karotten'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Edelsüßes Paprikapulver
+  en_name: 'TODO: Edelsüßes Paprikapulver'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Scharfes Paprikapulver
+  en_name: 'TODO: Scharfes Paprikapulver'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Lorbeerblätter
+  en_name: 'TODO: Lorbeerblätter'
+  qty: 2
+  unit: Stk
+  category: Gewürze
+- de_name: Kümmel (gemahlen)
+  en_name: 'TODO: Kümmel (gemahlen)'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Speck in große Würfel schneiden, Wurst in dicke Scheiben. In einem großen Topf bei mittlerer Hitze Speck auslassen, bis Fett austritt. Wurst hinzufügen und 3 Minuten mitanbraten.
+- |-
+  Zwiebeln würfeln, Karotten in Scheiben schneiden, Paprika würfeln. Alles zum Fleisch geben und 8 Minuten weich dünsten.
+- |-
+  Knoblauch pressen, edelsüßes und scharfes Paprikapulver und Kümmel einrühren. 1 Minute bei mittlerer Hitze rösten.
+- |-
+  Ajvar, Gemüsebrühe und abgetropfte Bohnen hinzufügen. Lorbeerblätter einlegen, pfeffern. Alles verrühren und zum Kochen bringen.
+- |-
+  Hitze reduzieren, zugedeckt 30 Minuten köcheln. Etwa ein Fünftel der Bohnen mit einem Löffel zerdrücken, um den Eintopf zu binden. Abschmecken.
+- Mit frischem Brot oder Baguette servieren.
+en_steps:
+- |-
+  TODO: Speck in große Würfel schneiden, Wurst in dicke Scheiben. In einem großen Topf bei mittlerer Hitze Speck auslassen, bis Fett austritt. Wurst hinzufügen und 3 Minuten mitanbraten.
+- |-
+  TODO: Zwiebeln würfeln, Karotten in Scheiben schneiden, Paprika würfeln. Alles zum Fleisch geben und 8 Minuten weich dünsten.
+- |-
+  TODO: Knoblauch pressen, edelsüßes und scharfes Paprikapulver und Kümmel einrühren. 1 Minute bei mittlerer Hitze rösten.
+- |-
+  TODO: Ajvar, Gemüsebrühe und abgetropfte Bohnen hinzufügen. Lorbeerblätter einlegen, pfeffern. Alles verrühren und zum Kochen bringen.
+- |-
+  TODO: Hitze reduzieren, zugedeckt 30 Minuten köcheln. Etwa ein Fünftel der Bohnen mit einem Löffel zerdrücken, um den Eintopf zu binden. Abschmecken.
+- 'TODO: Mit frischem Brot oder Baguette servieren.'

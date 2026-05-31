@@ -1,0 +1,108 @@
+id: teriyaki_bowl_edamame
+pool: lunch
+healthy: true
+quick: true
+next_day: false
+quick_minutes: 25
+meals: 2
+de:
+  title: Japanische Teriyaki-Bowl mit Edamame
+  summary: |-
+    Glasiertes Hähnchen-Teriyaki mit selbst gemachter Sauce, Edamame, Gurke, Avocado und Sesam auf Japanischem Rundkornreis.
+en:
+  title: 'TODO: Japanische Teriyaki-Bowl mit Edamame'
+  summary: |-
+    TODO: Glasiertes Hähnchen-Teriyaki mit selbst gemachter Sauce, Edamame, Gurke, Avocado und Sesam auf Japanischem Rundkornreis.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 700
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Edamame, tiefgekühlt
+  en_name: 'TODO: Edamame, tiefgekühlt'
+  qty: 250
+  unit: g
+  category: Gemüse und Salat
+- de_name: Rundkornreis
+  en_name: 'TODO: Rundkornreis'
+  qty: 300
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Avocado
+  en_name: 'TODO: Avocado'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Gurke
+  en_name: 'TODO: Gurke'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Sojasauce
+  en_name: 'TODO: Sojasauce'
+  qty: 5
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Honig
+  en_name: 'TODO: Honig'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Reisessig
+  en_name: 'TODO: Reisessig'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sesamöl
+  en_name: 'TODO: Sesamöl'
+  qty: 1
+  unit: TL
+  category: Konserven und Vorrat
+- de_name: Rapsöl
+  en_name: 'TODO: Rapsöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Limette
+  en_name: 'TODO: Limette'
+  qty: 1
+  unit: Stk
+  category: Obst
+- de_name: Sesam
+  en_name: 'TODO: Sesam'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Ingwer, gemahlen
+  en_name: 'TODO: Ingwer, gemahlen'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Reis nach Packungsanweisung garen.
+- |-
+  Teriyaki-Sauce: Sojasauce, Honig, Reisessig, Sesamöl und Ingwer in einer kleinen Pfanne 3–4 Minuten einköcheln lassen, bis sie leicht sirupartig ist.
+- Edamame nach Packungsanweisung in kochendem Salzwasser garen, abgießen.
+- |-
+  Hähnchen in mittelgroße Stücke schneiden. In einer heißen Pfanne mit Rapsöl anbraten. Teriyaki-Sauce über das Hähnchen gießen und 2–3 Minuten einglasieren, bis es glänzt.
+- |-
+  Gurke schräg in dünne Scheiben schneiden. Avocado halbieren, entkernen und in Scheiben schneiden.
+- |-
+  Reis in Schüsseln geben. Hähnchen, Edamame, Gurke und Avocado anrichten. Mit Frühlingszwiebeln und Sesam bestreuen. Limettensaft darüber träufeln.
+en_steps:
+- 'TODO: Reis nach Packungsanweisung garen.'
+- |-
+  TODO: Teriyaki-Sauce: Sojasauce, Honig, Reisessig, Sesamöl und Ingwer in einer kleinen Pfanne 3–4 Minuten einköcheln lassen, bis sie leicht sirupartig ist.
+- 'TODO: Edamame nach Packungsanweisung in kochendem Salzwasser garen, abgießen.'
+- |-
+  TODO: Hähnchen in mittelgroße Stücke schneiden. In einer heißen Pfanne mit Rapsöl anbraten. Teriyaki-Sauce über das Hähnchen gießen und 2–3 Minuten einglasieren, bis es glänzt.
+- |-
+  TODO: Gurke schräg in dünne Scheiben schneiden. Avocado halbieren, entkernen und in Scheiben schneiden.
+- |-
+  TODO: Reis in Schüsseln geben. Hähnchen, Edamame, Gurke und Avocado anrichten. Mit Frühlingszwiebeln und Sesam bestreuen. Limettensaft darüber träufeln.

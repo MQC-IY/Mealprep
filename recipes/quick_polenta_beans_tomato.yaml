@@ -1,0 +1,52 @@
+id: quick_polenta_beans_tomato
+pool: lunch
+healthy: true
+quick: true
+next_day: false
+quick_minutes: 20
+meals: 3
+de:
+  title: Schnelle Polenta mit Bohnen und Tomate
+  summary: Sehr schnelles mildes Gericht mit Polenta, weißen Bohnen und Tomatensauce.
+en:
+  title: 'TODO: Schnelle Polenta mit Bohnen und Tomate'
+  summary: 'TODO: Sehr schnelles mildes Gericht mit Polenta, weißen Bohnen und Tomatensauce.'
+ingredients:
+- de_name: Polenta
+  en_name: 'TODO: Polenta'
+  qty: 250
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Weiße Bohnen
+  en_name: 'TODO: Weiße Bohnen'
+  qty: 2
+  unit: Dosen
+  category: Konserven und Vorrat
+- de_name: Passierte Tomaten
+  en_name: 'TODO: Passierte Tomaten'
+  qty: 1
+  unit: Glas
+  category: Konserven und Vorrat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Basilikum
+  en_name: 'TODO: Basilikum'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Polenta weich rühren.
+- Bohnen in Tomatensauce kurz erwärmen.
+- Erwachsenenportion danach mit der Polenta servieren und abschmecken.
+en_steps:
+- 'TODO: Polenta weich rühren.'
+- 'TODO: Bohnen in Tomatensauce kurz erwärmen.'
+- 'TODO: Erwachsenenportion danach mit der Polenta servieren und abschmecken.'

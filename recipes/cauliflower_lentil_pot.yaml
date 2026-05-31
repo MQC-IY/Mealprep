@@ -1,0 +1,68 @@
+id: cauliflower_lentil_pot
+pool: lunch
+healthy: true
+quick: false
+next_day: true
+meals: 3
+de:
+  title: Blumenkohl-Linsen-Topf mit Kartoffeln
+  summary: Milder Topf mit roten Linsen, Blumenkohl, Kartoffeln und leichter Tomatenbasis.
+en:
+  title: 'TODO: Blumenkohl-Linsen-Topf mit Kartoffeln'
+  summary: |-
+    TODO: Milder Topf mit roten Linsen, Blumenkohl, Kartoffeln und leichter Tomatenbasis.
+ingredients:
+- de_name: Rote Linsen
+  en_name: 'TODO: Rote Linsen'
+  qty: 220
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Blumenkohl
+  en_name: 'TODO: Blumenkohl'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Kartoffeln
+  en_name: 'TODO: Kartoffeln'
+  qty: 700
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Passierte Tomaten
+  en_name: 'TODO: Passierte Tomaten'
+  qty: 1
+  unit: Glas
+  category: Konserven und Vorrat
+- de_name: Möhren
+  en_name: 'TODO: Möhren'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Currypulver
+  en_name: 'TODO: Currypulver'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Zwiebel und Möhren in Olivenöl anschwitzen.
+- Kartoffeln und Blumenkohl klein schneiden und mit Linsen und Tomaten zugeben.
+- Mit Wasser auffüllen und weich köcheln lassen.
+en_steps:
+- 'TODO: Zwiebel und Möhren in Olivenöl anschwitzen.'
+- |-
+  TODO: Kartoffeln und Blumenkohl klein schneiden und mit Linsen und Tomaten zugeben.
+- 'TODO: Mit Wasser auffüllen und weich köcheln lassen.'

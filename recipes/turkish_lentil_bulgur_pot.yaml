@@ -1,0 +1,103 @@
+id: turkish_lentil_bulgur_pot
+pool: lunch
+healthy: true
+quick: true
+next_day: true
+quick_minutes: 30
+meals: 3
+de:
+  title: Türkischer Linsen-Bulgur-Topf
+  summary: |-
+    Türkisch inspirierter Topf mit roten Linsen, Bulgur, Tomate, Paprika, Minze und Kreuzkümmel.
+en:
+  title: 'TODO: Türkischer Linsen-Bulgur-Topf'
+  summary: |-
+    TODO: Türkisch inspirierter Topf mit roten Linsen, Bulgur, Tomate, Paprika, Minze und Kreuzkümmel.
+ingredients:
+- de_name: Rote Linsen
+  en_name: 'TODO: Rote Linsen'
+  qty: 250
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Bulgur
+  en_name: 'TODO: Bulgur'
+  qty: 220
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Passierte Tomaten
+  en_name: 'TODO: Passierte Tomaten'
+  qty: 1
+  unit: Glas
+  category: Konserven und Vorrat
+- de_name: Möhren
+  en_name: 'TODO: Möhren'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Paprika
+  en_name: 'TODO: Paprika'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 2
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Paprika edelsüß
+  en_name: 'TODO: Paprika edelsüß'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Paprika geräuchert
+  en_name: 'TODO: Paprika geräuchert'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Minze, getrocknet
+  en_name: 'TODO: Minze, getrocknet'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Kreuzkümmel
+  en_name: 'TODO: Kreuzkümmel'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+- de_name: Pul Biber (türkische Chiliflocken)
+  en_name: 'TODO: Pul Biber (türkische Chiliflocken)'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Sumach
+  en_name: 'TODO: Sumach'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Zitrone
+  en_name: 'TODO: Zitrone'
+  qty: 1
+  unit: Stk
+  category: Obst
+de_steps:
+- |-
+  Zwiebel, Knoblauch, Möhren und Paprika fein schneiden und in Olivenöl kräftig anschwitzen.
+- Paprika edelsüß und Kreuzkümmel kurz mitrösten.
+- Linsen, Bulgur und passierte Tomaten zugeben und mit Wasser auffüllen.
+- Erwachsene mit Minze, Salz, Pfeffer und etwas Zitronensaft abschließen.
+en_steps:
+- |-
+  TODO: Zwiebel, Knoblauch, Möhren und Paprika fein schneiden und in Olivenöl kräftig anschwitzen.
+- 'TODO: Paprika edelsüß und Kreuzkümmel kurz mitrösten.'
+- 'TODO: Linsen, Bulgur und passierte Tomaten zugeben und mit Wasser auffüllen.'
+- 'TODO: Erwachsene mit Minze, Salz, Pfeffer und etwas Zitronensaft abschließen.'

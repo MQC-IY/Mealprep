@@ -1,0 +1,52 @@
+id: lentil_broccoli_polenta
+pool: lunch
+healthy: true
+quick: true
+next_day: false
+quick_minutes: 20
+meals: 3
+de:
+  title: Polenta mit Linsen und Brokkoli
+  summary: Sehr schnelles Gericht mit cremiger Polenta, roten Linsen und Brokkoli.
+en:
+  title: 'TODO: Polenta mit Linsen und Brokkoli'
+  summary: 'TODO: Sehr schnelles Gericht mit cremiger Polenta, roten Linsen und Brokkoli.'
+ingredients:
+- de_name: Polenta
+  en_name: 'TODO: Polenta'
+  qty: 250
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Rote Linsen
+  en_name: 'TODO: Rote Linsen'
+  qty: 180
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Brokkoli
+  en_name: 'TODO: Brokkoli'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Passierte Tomaten
+  en_name: 'TODO: Passierte Tomaten'
+  qty: 1
+  unit: Glas
+  category: Konserven und Vorrat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Polenta weich rühren.
+- Linsen in Tomatensauce weich köcheln.
+- Brokkoli weich garen und unterheben.
+en_steps:
+- 'TODO: Polenta weich rühren.'
+- 'TODO: Linsen in Tomatensauce weich köcheln.'
+- 'TODO: Brokkoli weich garen und unterheben.'

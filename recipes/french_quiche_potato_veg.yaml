@@ -1,0 +1,74 @@
+id: french_quiche_potato_veg
+pool: lunch
+healthy: false
+quick: false
+next_day: false
+meals: 3
+de:
+  title: Leichte Gemüse-Quiche ohne Speck
+  summary: Französisch inspirierte Quiche mit Kartoffelboden, Gemüse und Joghurt-Ei-Guss.
+en:
+  title: 'TODO: Leichte Gemüse-Quiche ohne Speck'
+  summary: |-
+    TODO: Französisch inspirierte Quiche mit Kartoffelboden, Gemüse und Joghurt-Ei-Guss.
+ingredients:
+- de_name: Kartoffeln
+  en_name: 'TODO: Kartoffeln'
+  qty: 900
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Eier
+  en_name: 'TODO: Eier'
+  qty: 5
+  unit: Stk
+  category: Protein und Milchprodukte
+- de_name: Naturjoghurt
+  en_name: 'TODO: Naturjoghurt'
+  qty: 250
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Zucchini
+  en_name: 'TODO: Zucchini'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Möhren
+  en_name: 'TODO: Möhren'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Erbsen, TK
+  en_name: 'TODO: Erbsen, TK'
+  qty: 200
+  unit: g
+  category: Gemüse und Salat
+- de_name: Gouda gerieben
+  en_name: 'TODO: Gouda gerieben'
+  qty: 80
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Kräuter der Provence
+  en_name: 'TODO: Kräuter der Provence'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Kartoffeln in dünne Scheiben schneiden und vorgaren.
+- Gemüse klein schneiden und weich dünsten.
+- Kartoffeln in eine Form legen, Gemüse darauf verteilen.
+- Eier mit Joghurt verrühren und darübergeben.
+en_steps:
+- 'TODO: Kartoffeln in dünne Scheiben schneiden und vorgaren.'
+- 'TODO: Gemüse klein schneiden und weich dünsten.'
+- 'TODO: Kartoffeln in eine Form legen, Gemüse darauf verteilen.'
+- 'TODO: Eier mit Joghurt verrühren und darübergeben.'

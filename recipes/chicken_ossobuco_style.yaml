@@ -1,0 +1,129 @@
+id: chicken_ossobuco_style
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Hähnchen-Ossobuco – Geschmortes Hähnchen
+  summary: |-
+    Hähnchenkeulen nach Ossobuco-Art geschmort mit Weißwein, Tomaten, Karotte und Sellerie – abgerundet mit frischer Gremolata.
+en:
+  title: 'TODO: Hähnchen-Ossobuco – Geschmortes Hähnchen'
+  summary: |-
+    TODO: Hähnchenkeulen nach Ossobuco-Art geschmort mit Weißwein, Tomaten, Karotte und Sellerie – abgerundet mit frischer Gremolata.
+ingredients:
+- de_name: Hähnchenkeulen
+  en_name: 'TODO: Hähnchenkeulen'
+  qty: 800
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Trockener Weißwein
+  en_name: 'TODO: Trockener Weißwein'
+  qty: 200
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 250
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Geschälte Tomaten aus der Dose
+  en_name: 'TODO: Geschälte Tomaten aus der Dose'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Karotte
+  en_name: 'TODO: Karotte'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Staudensellerie
+  en_name: 'TODO: Staudensellerie'
+  qty: 2
+  unit: Stange
+  category: Gemüse und Salat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 3
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Frische Petersilie
+  en_name: 'TODO: Frische Petersilie'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Zitrone (Schale und Saft)
+  en_name: 'TODO: Zitrone (Schale und Saft)'
+  qty: 1
+  unit: Stk
+  category: Obst
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Mehl
+  en_name: 'TODO: Mehl'
+  qty: 2
+  unit: EL
+  category: Kohlenhydrate und Sattmacher
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Getrockneter Thymian
+  en_name: 'TODO: Getrockneter Thymian'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Lorbeerblätter
+  en_name: 'TODO: Lorbeerblätter'
+  qty: 2
+  unit: Stk
+  category: Gewürze
+de_steps:
+- |-
+  Hähnchenkeulen mit Salz, Pfeffer und Thymian würzen, beidseitig leicht in Mehl wenden.
+- |-
+  Olivenöl im Schmortopf bei hoher Hitze erhitzen. Hähnchen von beiden Seiten 4–5 Minuten scharf anbraten. Herausnehmen.
+- |-
+  Zwiebel, Karotten und Sellerie fein würfeln. Im Bratfett bei mittlerer Hitze 6–7 Minuten anschwitzen. Knoblauch dazugeben, 1 Minute weiterbraten.
+- |-
+  Mit Weißwein ablöschen, kräftig aufkochen und 3 Minuten einkochen. Tomaten (zerdrückt), Brühe und Lorbeerblätter einrühren.
+- |-
+  Hähnchenkeulen zurücklegen. Bei geschlossenem Deckel bei niedriger Hitze 45 Minuten schmoren.
+- |-
+  Deckel abnehmen, weitere 15 Minuten offen köcheln, bis die Sauce sämig wird. Lorbeer entfernen.
+- |-
+  Für die Gremolata: Petersilie fein hacken, Zitronenschale fein abreiben und mit gepresstem Knoblauch (1 Zehe, roh) vermischen.
+- |-
+  Hähnchen auf dem Schmortopfinhalt anrichten, Gremolata großzügig darüberstreuen. Mit Risotto oder Polenta servieren.
+en_steps:
+- |-
+  TODO: Hähnchenkeulen mit Salz, Pfeffer und Thymian würzen, beidseitig leicht in Mehl wenden.
+- |-
+  TODO: Olivenöl im Schmortopf bei hoher Hitze erhitzen. Hähnchen von beiden Seiten 4–5 Minuten scharf anbraten. Herausnehmen.
+- |-
+  TODO: Zwiebel, Karotten und Sellerie fein würfeln. Im Bratfett bei mittlerer Hitze 6–7 Minuten anschwitzen. Knoblauch dazugeben, 1 Minute weiterbraten.
+- |-
+  TODO: Mit Weißwein ablöschen, kräftig aufkochen und 3 Minuten einkochen. Tomaten (zerdrückt), Brühe und Lorbeerblätter einrühren.
+- |-
+  TODO: Hähnchenkeulen zurücklegen. Bei geschlossenem Deckel bei niedriger Hitze 45 Minuten schmoren.
+- |-
+  TODO: Deckel abnehmen, weitere 15 Minuten offen köcheln, bis die Sauce sämig wird. Lorbeer entfernen.
+- |-
+  TODO: Für die Gremolata: Petersilie fein hacken, Zitronenschale fein abreiben und mit gepresstem Knoblauch (1 Zehe, roh) vermischen.
+- |-
+  TODO: Hähnchen auf dem Schmortopfinhalt anrichten, Gremolata großzügig darüberstreuen. Mit Risotto oder Polenta servieren.

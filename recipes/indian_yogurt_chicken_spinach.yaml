@@ -1,0 +1,125 @@
+id: indian_yogurt_chicken_spinach
+pool: lunch
+healthy: true
+quick: true
+next_day: false
+quick_minutes: 30
+meals: 2
+de:
+  title: Indisches Hähnchen mit Spinat und Joghurt
+  summary: |-
+    Zartes Hähnchen in einer würzigen Joghurtsauce mit frischem Spinat – leicht, aromatisch und schnell zubereitet.
+en:
+  title: 'TODO: Indisches Hähnchen mit Spinat und Joghurt'
+  summary: |-
+    TODO: Zartes Hähnchen in einer würzigen Joghurtsauce mit frischem Spinat – leicht, aromatisch und schnell zubereitet.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 600
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Vollfett-Joghurt
+  en_name: 'TODO: Vollfett-Joghurt'
+  qty: 200
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Blattspinat, frisch
+  en_name: 'TODO: Blattspinat, frisch'
+  qty: 300
+  unit: g
+  category: Gemüse und Salat
+- de_name: Zwiebeln
+  en_name: 'TODO: Zwiebeln'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Ingwer, frisch
+  en_name: 'TODO: Ingwer, frisch'
+  qty: 3
+  unit: cm
+  category: Gemüse und Salat
+- de_name: Grüne Chilischote
+  en_name: 'TODO: Grüne Chilischote'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Basmatireis
+  en_name: 'TODO: Basmatireis'
+  qty: 300
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Pflanzenöl
+  en_name: 'TODO: Pflanzenöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Garam Masala
+  en_name: 'TODO: Garam Masala'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Kurkuma
+  en_name: 'TODO: Kurkuma'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Koriander, gemahlen
+  en_name: 'TODO: Koriander, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chilipulver
+  en_name: 'TODO: Chilipulver'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Kardamom, gemahlen
+  en_name: 'TODO: Kardamom, gemahlen'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Kreuzkümmelsamen
+  en_name: 'TODO: Kreuzkümmelsamen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Hähnchen in Streifen schneiden. Mit 100 g Joghurt, Kurkuma, Chilipulver, Koriander und Salz marinieren. 30 Minuten ruhen lassen.
+- |-
+  Öl in einer großen Pfanne erhitzen. Kreuzkümmelsamen knistern lassen. Zwiebeln 8 Minuten goldbraun braten. Knoblauch und Ingwer reiben und hinzufügen.
+- |-
+  Garam Masala, Kreuzkümmel und Kardamom einstreuen, 1 Minute rösten. Gehackte grüne Chilischoten hinzufügen.
+- |-
+  Hähnchen in die Pfanne geben, bei starker Hitze 6–7 Minuten anbraten, bis es gar ist.
+- |-
+  Restlichen Joghurt einrühren, bei niedriger Hitze 5 Minuten erwärmen (nicht kochen, damit der Joghurt nicht gerinnt). Spinat portionsweise einrühren und zusammenfallen lassen.
+- Mit Salz und Garam Masala abschmecken. Mit Basmatireis servieren.
+en_steps:
+- |-
+  TODO: Hähnchen in Streifen schneiden. Mit 100 g Joghurt, Kurkuma, Chilipulver, Koriander und Salz marinieren. 30 Minuten ruhen lassen.
+- |-
+  TODO: Öl in einer großen Pfanne erhitzen. Kreuzkümmelsamen knistern lassen. Zwiebeln 8 Minuten goldbraun braten. Knoblauch und Ingwer reiben und hinzufügen.
+- |-
+  TODO: Garam Masala, Kreuzkümmel und Kardamom einstreuen, 1 Minute rösten. Gehackte grüne Chilischoten hinzufügen.
+- |-
+  TODO: Hähnchen in die Pfanne geben, bei starker Hitze 6–7 Minuten anbraten, bis es gar ist.
+- |-
+  TODO: Restlichen Joghurt einrühren, bei niedriger Hitze 5 Minuten erwärmen (nicht kochen, damit der Joghurt nicht gerinnt). Spinat portionsweise einrühren und zusammenfallen lassen.
+- 'TODO: Mit Salz und Garam Masala abschmecken. Mit Basmatireis servieren.'

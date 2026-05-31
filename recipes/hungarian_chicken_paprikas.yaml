@@ -1,0 +1,116 @@
+id: hungarian_chicken_paprikas
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Ungarisches Hähnchen-Paprikás mit Nokedli
+  summary: |-
+    Saftiges Hähnchen in cremiger Sauerrahm-Paprikasauce mit selbst gemachten Nokedli-Knöpfle – Ungarns berühmtestes Schmorgeschirr.
+en:
+  title: 'TODO: Ungarisches Hähnchen-Paprikás mit Nokedli'
+  summary: |-
+    TODO: Saftiges Hähnchen in cremiger Sauerrahm-Paprikasauce mit selbst gemachten Nokedli-Knöpfle – Ungarns berühmtestes Schmorgeschirr.
+ingredients:
+- de_name: Hähnchenschenkel (mit Knochen)
+  en_name: 'TODO: Hähnchenschenkel (mit Knochen)'
+  qty: 700
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Sauerrahm (20 %)
+  en_name: 'TODO: Sauerrahm (20 %)'
+  qty: 250
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Eier
+  en_name: 'TODO: Eier'
+  qty: 2
+  unit: Stk
+  category: Protein und Milchprodukte
+- de_name: Weizenmehl (Typ 405)
+  en_name: 'TODO: Weizenmehl (Typ 405)'
+  qty: 200
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Schmalz oder Butterschmalz
+  en_name: 'TODO: Schmalz oder Butterschmalz'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 300
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Zwiebeln
+  en_name: 'TODO: Zwiebeln'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Paprikaschoten, rot
+  en_name: 'TODO: Paprikaschoten, rot'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 3
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Edelsüßes Paprikapulver
+  en_name: 'TODO: Edelsüßes Paprikapulver'
+  qty: 3
+  unit: EL
+  category: Gewürze
+- de_name: Rosenpaprika (scharf)
+  en_name: 'TODO: Rosenpaprika (scharf)'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Kümmel (gemahlen)
+  en_name: 'TODO: Kümmel (gemahlen)'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Lorbeerblätter
+  en_name: 'TODO: Lorbeerblätter'
+  qty: 2
+  unit: Stk
+  category: Gewürze
+de_steps:
+- |-
+  Hähnchenstücke salzen und pfeffern. Schmalz in einem schweren Topf erhitzen, Hähnchen von allen Seiten goldbraun anbraten. Herausnehmen.
+- |-
+  Zwiebeln fein würfeln und im Bratfett 8 Minuten golden anschwitzen. Topf vom Herd nehmen, edelsüßes Paprikapulver und Rosenpaprika einrühren – wichtig: Paprika nie bei hoher Hitze rösten.
+- |-
+  Hühnerbrühe einrühren, Hähnchen zurücklegen. Knoblauch, Paprikaschoten (gewürfelt), Kümmel und Lorbeer hinzufügen. Zugedeckt bei mittlerer Hitze 40 Minuten schmoren.
+- |-
+  Für die Nokedli: Mehl, Eier, 1 TL Salz und 100–120 ml Wasser zu einem zähen Teig rühren. Gesalzenes Wasser zum Kochen bringen. Teig durch ein Spätzlesieb oder eine Nokedli-Reibe ins Wasser drücken, 2–3 Minuten kochen. Abgießen.
+- |-
+  Hähnchen herausnehmen, Lorbeer entfernen. Sauerrahm mit 2 EL Sauce glatt rühren, dann in die Sauce einrühren. Nicht mehr kochen lassen.
+- |-
+  Hähnchen zurück in die Sauce legen. Mit Nokedli servieren und frischer Petersilie bestreuen.
+en_steps:
+- |-
+  TODO: Hähnchenstücke salzen und pfeffern. Schmalz in einem schweren Topf erhitzen, Hähnchen von allen Seiten goldbraun anbraten. Herausnehmen.
+- |-
+  TODO: Zwiebeln fein würfeln und im Bratfett 8 Minuten golden anschwitzen. Topf vom Herd nehmen, edelsüßes Paprikapulver und Rosenpaprika einrühren – wichtig: Paprika nie bei hoher Hitze rösten.
+- |-
+  TODO: Hühnerbrühe einrühren, Hähnchen zurücklegen. Knoblauch, Paprikaschoten (gewürfelt), Kümmel und Lorbeer hinzufügen. Zugedeckt bei mittlerer Hitze 40 Minuten schmoren.
+- |-
+  TODO: Für die Nokedli: Mehl, Eier, 1 TL Salz und 100–120 ml Wasser zu einem zähen Teig rühren. Gesalzenes Wasser zum Kochen bringen. Teig durch ein Spätzlesieb oder eine Nokedli-Reibe ins Wasser drücken, 2–3 Minuten kochen. Abgießen.
+- |-
+  TODO: Hähnchen herausnehmen, Lorbeer entfernen. Sauerrahm mit 2 EL Sauce glatt rühren, dann in die Sauce einrühren. Nicht mehr kochen lassen.
+- |-
+  TODO: Hähnchen zurück in die Sauce legen. Mit Nokedli servieren und frischer Petersilie bestreuen.

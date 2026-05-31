@@ -1,0 +1,68 @@
+id: berry_oat_pudding_slices
+pool: dessert
+de:
+  title: Beeren-Hafer-Schnitten mit leichter Puddingcreme
+  summary: |-
+    Weiche Hafer-Schnitten mit Beeren und einer einfachen, wenig süßen Vanille-Puddingcreme.
+en:
+  title: 'TODO: Beeren-Hafer-Schnitten mit leichter Puddingcreme'
+  summary: |-
+    TODO: Weiche Hafer-Schnitten mit Beeren und einer einfachen, wenig süßen Vanille-Puddingcreme.
+ingredients:
+- de_name: Beeren, frisch oder TK
+  en_name: 'TODO: Beeren, frisch oder TK'
+  qty: 300
+  unit: g
+  category: Obst
+- de_name: Haferflocken
+  en_name: 'TODO: Haferflocken'
+  qty: 180
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Dinkelmehl
+  en_name: 'TODO: Dinkelmehl'
+  qty: 100
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Milch oder Haferdrink
+  en_name: 'TODO: Milch oder Haferdrink'
+  qty: 500
+  unit: ml
+  category: Protein und Milchprodukte
+- de_name: Vanille-Puddingpulver
+  en_name: 'TODO: Vanille-Puddingpulver'
+  qty: 1
+  unit: Packung
+  category: Konserven und Vorrat
+- de_name: Eier
+  en_name: 'TODO: Eier'
+  qty: 2
+  unit: Stk
+  category: Protein und Milchprodukte
+- de_name: Honig
+  en_name: 'TODO: Honig'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Backpulver
+  en_name: 'TODO: Backpulver'
+  qty: 1
+  unit: Packung
+  category: Konserven und Vorrat
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Haferflocken, Dinkelmehl, Eier, 1 EL Honig und Backpulver zu einem weichen Teig verrühren.
+- Beeren unterheben und bei 180 Grad etwa 25 Minuten backen.
+- Aus Milch, Puddingpulver und 1 EL Honig eine milde Puddingcreme kochen.
+- Pudding dünn auf den abgekühlten Schnitten verteilen.
+en_steps:
+- |-
+  TODO: Haferflocken, Dinkelmehl, Eier, 1 EL Honig und Backpulver zu einem weichen Teig verrühren.
+- 'TODO: Beeren unterheben und bei 180 Grad etwa 25 Minuten backen.'
+- 'TODO: Aus Milch, Puddingpulver und 1 EL Honig eine milde Puddingcreme kochen.'
+- 'TODO: Pudding dünn auf den abgekühlten Schnitten verteilen.'

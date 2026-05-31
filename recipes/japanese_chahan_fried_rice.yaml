@@ -1,0 +1,120 @@
+id: japanese_chahan_fried_rice
+pool: lunch
+healthy: false
+quick: true
+next_day: false
+quick_minutes: 25
+meals: 2
+de:
+  title: Japanischer Chahan (Gebratener Reis mit Hähnchen und Ei)
+  summary: |-
+    Aromatischer japanisch gebratener Reis mit Hähnchen, Ei, Gemüse und dem Geheimnis guter Yakiniku-Würze.
+en:
+  title: 'TODO: Japanischer Chahan (Gebratener Reis mit Hähnchen und Ei)'
+  summary: |-
+    TODO: Aromatischer japanisch gebratener Reis mit Hähnchen, Ei, Gemüse und dem Geheimnis guter Yakiniku-Würze.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 400
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Eier
+  en_name: 'TODO: Eier'
+  qty: 4
+  unit: Stk
+  category: Protein und Milchprodukte
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Zwiebeln
+  en_name: 'TODO: Zwiebeln'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 3
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Ingwer (frisch)
+  en_name: 'TODO: Ingwer (frisch)'
+  qty: 15
+  unit: g
+  category: Gemüse und Salat
+- de_name: Reis (Vortag, kalt)
+  en_name: 'TODO: Reis (Vortag, kalt)'
+  qty: 800
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Sojasoße
+  en_name: 'TODO: Sojasoße'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sake
+  en_name: 'TODO: Sake'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sesamöl
+  en_name: 'TODO: Sesamöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Pflanzenöl
+  en_name: 'TODO: Pflanzenöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Austernsauce
+  en_name: 'TODO: Austernsauce'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sesamkörner (weiß)
+  en_name: 'TODO: Sesamkörner (weiß)'
+  qty: 2
+  unit: EL
+  category: Gewürze
+- de_name: Weißer Pfeffer (gemahlen)
+  en_name: 'TODO: Weißer Pfeffer (gemahlen)'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Togarashi
+  en_name: 'TODO: Togarashi'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Hähnchenbrust in kleine Würfel (1 cm) schneiden, mit Sake, 1 EL Sojasoße und Pfeffer 15 Minuten marinieren.
+- |-
+  Zwiebel fein würfeln, Knoblauch und Ingwer fein hacken, Frühlingszwiebeln in Ringe schneiden.
+- |-
+  Wok auf höchster Stufe stark erhitzen. 2 EL Pflanzenöl hineingeben, Hähnchen scharf 4 Minuten anbraten. Herausnehmen.
+- |-
+  Restliches Öl in den Wok, Zwiebeln, Knoblauch und Ingwer 2 Minuten anbraten. Kalten Reis dazugeben und bei maximaler Hitze 3–4 Minuten unter ständigem Rühren braten.
+- |-
+  Reis an den Rand schieben, Eier in die Mitte schlagen, sofort rühren bis sie cremig gestockt sind, dann mit dem Reis vermischen.
+- |-
+  Hähnchen zurückgeben. Restliche Sojasoße, Austernsauce und Sesamöl einrühren. 1–2 Minuten alles vermengen.
+- Auf Teller geben, mit Frühlingszwiebeln, Sesamkörnern und Togarashi bestreuen.
+en_steps:
+- |-
+  TODO: Hähnchenbrust in kleine Würfel (1 cm) schneiden, mit Sake, 1 EL Sojasoße und Pfeffer 15 Minuten marinieren.
+- |-
+  TODO: Zwiebel fein würfeln, Knoblauch und Ingwer fein hacken, Frühlingszwiebeln in Ringe schneiden.
+- |-
+  TODO: Wok auf höchster Stufe stark erhitzen. 2 EL Pflanzenöl hineingeben, Hähnchen scharf 4 Minuten anbraten. Herausnehmen.
+- |-
+  TODO: Restliches Öl in den Wok, Zwiebeln, Knoblauch und Ingwer 2 Minuten anbraten. Kalten Reis dazugeben und bei maximaler Hitze 3–4 Minuten unter ständigem Rühren braten.
+- |-
+  TODO: Reis an den Rand schieben, Eier in die Mitte schlagen, sofort rühren bis sie cremig gestockt sind, dann mit dem Reis vermischen.
+- |-
+  TODO: Hähnchen zurückgeben. Restliche Sojasoße, Austernsauce und Sesamöl einrühren. 1–2 Minuten alles vermengen.
+- |-
+  TODO: Auf Teller geben, mit Frühlingszwiebeln, Sesamkörnern und Togarashi bestreuen.

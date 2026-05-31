@@ -1,0 +1,118 @@
+id: pollo_alla_cacciatore
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Hähnchen alla Cacciatore – Hähnchen Jäger-Art
+  summary: |-
+    Rustikales Schmorhuhn auf Jäger-Art mit Tomaten, Oliven, Kapern, Rosmarin und Weißwein – ein Klassiker aus der toskanischen Landküche.
+en:
+  title: 'TODO: Hähnchen alla Cacciatore – Hähnchen Jäger-Art'
+  summary: |-
+    TODO: Rustikales Schmorhuhn auf Jäger-Art mit Tomaten, Oliven, Kapern, Rosmarin und Weißwein – ein Klassiker aus der toskanischen Landküche.
+ingredients:
+- de_name: Hähnchenschenkel mit Knochen
+  en_name: 'TODO: Hähnchenschenkel mit Knochen'
+  qty: 800
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Geschälte Tomaten
+  en_name: 'TODO: Geschälte Tomaten'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Trockener Weißwein
+  en_name: 'TODO: Trockener Weißwein'
+  qty: 150
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 200
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Schwarze Oliven entsteint
+  en_name: 'TODO: Schwarze Oliven entsteint'
+  qty: 80
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Kapern abgetropft
+  en_name: 'TODO: Kapern abgetropft'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 3
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Paprika rot
+  en_name: 'TODO: Paprika rot'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Frischer Rosmarin
+  en_name: 'TODO: Frischer Rosmarin'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Getrockneter Oregano
+  en_name: 'TODO: Getrockneter Oregano'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Peperoncino gemahlen
+  en_name: 'TODO: Peperoncino gemahlen'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Hähnchenschenkel trocken tupfen, großzügig mit Salz und Pfeffer würzen.
+- |-
+  Olivenöl in einem schweren Schmortopf bei hoher Hitze erhitzen. Hähnchenschenkel von allen Seiten 4–5 Minuten kräftig anbraten, bis sie goldbraun sind. Herausnehmen.
+- |-
+  Zwiebel in Streifen, Knoblauch grob hacken, Paprika in grobe Stücke schneiden. Im Bratfett bei mittlerer Hitze 5 Minuten anschwitzen.
+- |-
+  Mit Weißwein ablöschen, 2 Minuten einkochen lassen, dabei den Bratensatz vom Topfboden lösen.
+- Tomaten (zerdrückt), Hühnerbrühe, Oregano und Peperoncino einrühren.
+- |-
+  Hähnchenschenkel zurücklegen, Rosmarinzweige dazugeben. Zugedeckt bei niedriger Hitze 35–40 Minuten schmoren.
+- |-
+  Deckel abnehmen, Oliven und Kapern einrühren. Weitere 10 Minuten offen köcheln, bis die Sauce etwas eindickt.
+- Rosmarinzweige entfernen. Mit Weißbrot oder Polenta servieren.
+en_steps:
+- 'TODO: Hähnchenschenkel trocken tupfen, großzügig mit Salz und Pfeffer würzen.'
+- |-
+  TODO: Olivenöl in einem schweren Schmortopf bei hoher Hitze erhitzen. Hähnchenschenkel von allen Seiten 4–5 Minuten kräftig anbraten, bis sie goldbraun sind. Herausnehmen.
+- |-
+  TODO: Zwiebel in Streifen, Knoblauch grob hacken, Paprika in grobe Stücke schneiden. Im Bratfett bei mittlerer Hitze 5 Minuten anschwitzen.
+- |-
+  TODO: Mit Weißwein ablöschen, 2 Minuten einkochen lassen, dabei den Bratensatz vom Topfboden lösen.
+- 'TODO: Tomaten (zerdrückt), Hühnerbrühe, Oregano und Peperoncino einrühren.'
+- |-
+  TODO: Hähnchenschenkel zurücklegen, Rosmarinzweige dazugeben. Zugedeckt bei niedriger Hitze 35–40 Minuten schmoren.
+- |-
+  TODO: Deckel abnehmen, Oliven und Kapern einrühren. Weitere 10 Minuten offen köcheln, bis die Sauce etwas eindickt.
+- 'TODO: Rosmarinzweige entfernen. Mit Weißbrot oder Polenta servieren.'

@@ -1,0 +1,110 @@
+id: mujaddara_lentil_rice
+pool: lunch
+healthy: true
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Levantinisches Mujaddara – Linsen-Reis mit karamellisierten Zwiebeln
+  summary: |-
+    Uraltes levantinisches Gericht aus Linsen, Reis und tief karamellisierten Zwiebeln – schlicht in den Zutaten, komplex im Geschmack.
+en:
+  title: 'TODO: Levantinisches Mujaddara – Linsen-Reis mit karamellisierten Zwiebeln'
+  summary: |-
+    TODO: Uraltes levantinisches Gericht aus Linsen, Reis und tief karamellisierten Zwiebeln – schlicht in den Zutaten, komplex im Geschmack.
+ingredients:
+- de_name: Braune Linsen
+  en_name: 'TODO: Braune Linsen'
+  qty: 200
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Langkornreis
+  en_name: 'TODO: Langkornreis'
+  qty: 200
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Zwiebeln
+  en_name: 'TODO: Zwiebeln'
+  qty: 4
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 3
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Frische Petersilie
+  en_name: 'TODO: Frische Petersilie'
+  qty: 0.5
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 5
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Gemüsebrühe
+  en_name: 'TODO: Gemüsebrühe'
+  qty: 600
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Zitrone
+  en_name: 'TODO: Zitrone'
+  qty: 1
+  unit: Stk
+  category: Obst
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Koriander, gemahlen
+  en_name: 'TODO: Koriander, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Zimtpulver
+  en_name: 'TODO: Zimtpulver'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Allgewürz (Piment)
+  en_name: 'TODO: Allgewürz (Piment)'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Linsen waschen und in Gemüsebrühe 15 Minuten vorkochen – noch leicht bissfest lassen. Abgießen, Kochflüssigkeit aufbewahren.
+- |-
+  Zwiebeln in dünne Halbringe schneiden. Olivenöl in einer großen Pfanne bei mittlerer bis hoher Hitze erhitzen. Zwiebeln 25–30 Minuten unter gelegentlichem Rühren karamellisieren, bis sie tief braun und süßlich sind. Zwei Drittel herausnehmen.
+- |-
+  Mit den verbleibenden Zwiebeln Knoblauch, Kreuzkümmel, Koriander, Zimt und Piment 1 Minute anrösten.
+- |-
+  Reis hinzufügen und 2 Minuten unter Rühren glasig braten. Vorgekochte Linsen und 500 ml der aufbewahrten Brühe dazugeben. Aufkochen, dann bei niedrigster Hitze 18 Minuten garen.
+- Topf vom Herd nehmen, 5 Minuten ruhen lassen. Mit Salz und Pfeffer abschmecken.
+- |-
+  Mit den karamellisierten Zwiebeln bedecken. Mit Petersilie und einem Spritzer Zitronensaft bestreuen. Mit Joghurt servieren.
+en_steps:
+- |-
+  TODO: Linsen waschen und in Gemüsebrühe 15 Minuten vorkochen – noch leicht bissfest lassen. Abgießen, Kochflüssigkeit aufbewahren.
+- |-
+  TODO: Zwiebeln in dünne Halbringe schneiden. Olivenöl in einer großen Pfanne bei mittlerer bis hoher Hitze erhitzen. Zwiebeln 25–30 Minuten unter gelegentlichem Rühren karamellisieren, bis sie tief braun und süßlich sind. Zwei Drittel herausnehmen.
+- |-
+  TODO: Mit den verbleibenden Zwiebeln Knoblauch, Kreuzkümmel, Koriander, Zimt und Piment 1 Minute anrösten.
+- |-
+  TODO: Reis hinzufügen und 2 Minuten unter Rühren glasig braten. Vorgekochte Linsen und 500 ml der aufbewahrten Brühe dazugeben. Aufkochen, dann bei niedrigster Hitze 18 Minuten garen.
+- |-
+  TODO: Topf vom Herd nehmen, 5 Minuten ruhen lassen. Mit Salz und Pfeffer abschmecken.
+- |-
+  TODO: Mit den karamellisierten Zwiebeln bedecken. Mit Petersilie und einem Spritzer Zitronensaft bestreuen. Mit Joghurt servieren.

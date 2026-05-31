@@ -1,0 +1,126 @@
+id: bulgogi_tacos_kimchi_slaw
+pool: lunch
+healthy: false
+quick: false
+next_day: false
+meals: 2
+de:
+  title: Beef Bulgogi-Tacos mit Kimchi-Slaw
+  summary: |-
+    Knusprig karamellisiertes Bulgogi-Rindfleisch in Mais-Tortillas, getoppt mit würzigem Kimchi-Slaw – Korea trifft Mexiko.
+en:
+  title: 'TODO: Beef Bulgogi-Tacos mit Kimchi-Slaw'
+  summary: |-
+    TODO: Knusprig karamellisiertes Bulgogi-Rindfleisch in Mais-Tortillas, getoppt mit würzigem Kimchi-Slaw – Korea trifft Mexiko.
+ingredients:
+- de_name: Rinderhüfte oder Roastbeef (dünn geschnitten, ca. 3 mm)
+  en_name: 'TODO: Rinderhüfte oder Roastbeef (dünn geschnitten, ca. 3 mm)'
+  qty: 700
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Mais-Tortillas (15 cm)
+  en_name: 'TODO: Mais-Tortillas (15 cm)'
+  qty: 12
+  unit: Stk
+  category: Kohlenhydrate und Sattmacher
+- de_name: Weißkohl (fein geraspelt)
+  en_name: 'TODO: Weißkohl (fein geraspelt)'
+  qty: 400
+  unit: g
+  category: Gemüse und Salat
+- de_name: Kimchi
+  en_name: 'TODO: Kimchi'
+  qty: 200
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 6
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Frischer Ingwer
+  en_name: 'TODO: Frischer Ingwer'
+  qty: 30
+  unit: g
+  category: Gemüse und Salat
+- de_name: Birne (gerieben, reif)
+  en_name: 'TODO: Birne (gerieben, reif)'
+  qty: 1
+  unit: Stk
+  category: Obst
+- de_name: Sojasoße
+  en_name: 'TODO: Sojasoße'
+  qty: 80
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Sesamöl
+  en_name: 'TODO: Sesamöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Brauner Zucker
+  en_name: 'TODO: Brauner Zucker'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Reisessig
+  en_name: 'TODO: Reisessig'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Mayonnaise
+  en_name: 'TODO: Mayonnaise'
+  qty: 4
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Gochujang (koreanische Chilipaste)
+  en_name: 'TODO: Gochujang (koreanische Chilipaste)'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Neutrales Öl (zum Braten)
+  en_name: 'TODO: Neutrales Öl (zum Braten)'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sesamsamen (geröstet)
+  en_name: 'TODO: Sesamsamen (geröstet)'
+  qty: 2
+  unit: EL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Bulgogi-Marinade: Sojasoße, braunen Zucker, geriebene Birne, gehackten Knoblauch (4 Zehen), geriebenen Ingwer, 2 EL Sesamöl und schwarzen Pfeffer verrühren. Dünn geschnittenes Rindfleisch einlegen, mind. 20 Min. marinieren (länger = besser).
+- |-
+  Kimchi-Slaw: Weißkohl fein raspeln und mit 1 TL Salz mischen, 10 Min. ziehen lassen, dann ausdrücken. Kimchi grob hacken. Mayonnaise, Gochujang, Reisessig und 1 EL Sesamöl zur Kimchi-Creme verrühren. Kohl, Kimchi und 2 gehackte Knoblauchzehen unterheben. Frühlingszwiebeln in dünne Ringe schneiden – Hälfte in den Slaw, Hälfte zum Garnieren.
+- |-
+  Tortillas in einer trockenen Pfanne oder direkt auf der Gasflamme beidseitig erwärmen bis sie leichte Röststellen haben. In ein Küchentuch wickeln, warm halten.
+- |-
+  Rindfleisch aus der Marinade nehmen, überschüssige Flüssigkeit leicht abtropfen – nicht abwischen. In einer gusseisernen Pfanne oder einem Wok bei sehr hoher Hitze neutrales Öl erhitzen bis es raucht. Fleisch in Portionen (nicht überfüllen!) ausbreiten und 60–90 Sek. karamellisieren lassen ohne zu rühren, dann kurz wenden. Das Karamellisieren des Zuckers erzeugt die Knusprigkeit.
+- |-
+  Alle Komponenten bereitstellen: Bulgogi-Fleisch, Kimchi-Slaw, Frühlingszwiebelringe, Sesamsamen.
+- |-
+  Tacos belegen: Je 2 Tortillas übereinanderlegen (klassisch koreanisch-mexikanischer Stil für Stabilität). Großzügig Kimchi-Slaw auflegen, dann Bulgogi-Rindfleisch darauf verteilen. Mit Frühlingszwiebeln und Sesamsamen bestreuen. Sofort servieren – die Tortillas werden sonst weich.
+en_steps:
+- |-
+  TODO: Bulgogi-Marinade: Sojasoße, braunen Zucker, geriebene Birne, gehackten Knoblauch (4 Zehen), geriebenen Ingwer, 2 EL Sesamöl und schwarzen Pfeffer verrühren. Dünn geschnittenes Rindfleisch einlegen, mind. 20 Min. marinieren (länger = besser).
+- |-
+  TODO: Kimchi-Slaw: Weißkohl fein raspeln und mit 1 TL Salz mischen, 10 Min. ziehen lassen, dann ausdrücken. Kimchi grob hacken. Mayonnaise, Gochujang, Reisessig und 1 EL Sesamöl zur Kimchi-Creme verrühren. Kohl, Kimchi und 2 gehackte Knoblauchzehen unterheben. Frühlingszwiebeln in dünne Ringe schneiden – Hälfte in den Slaw, Hälfte zum Garnieren.
+- |-
+  TODO: Tortillas in einer trockenen Pfanne oder direkt auf der Gasflamme beidseitig erwärmen bis sie leichte Röststellen haben. In ein Küchentuch wickeln, warm halten.
+- |-
+  TODO: Rindfleisch aus der Marinade nehmen, überschüssige Flüssigkeit leicht abtropfen – nicht abwischen. In einer gusseisernen Pfanne oder einem Wok bei sehr hoher Hitze neutrales Öl erhitzen bis es raucht. Fleisch in Portionen (nicht überfüllen!) ausbreiten und 60–90 Sek. karamellisieren lassen ohne zu rühren, dann kurz wenden. Das Karamellisieren des Zuckers erzeugt die Knusprigkeit.
+- |-
+  TODO: Alle Komponenten bereitstellen: Bulgogi-Fleisch, Kimchi-Slaw, Frühlingszwiebelringe, Sesamsamen.
+- |-
+  TODO: Tacos belegen: Je 2 Tortillas übereinanderlegen (klassisch koreanisch-mexikanischer Stil für Stabilität). Großzügig Kimchi-Slaw auflegen, dann Bulgogi-Rindfleisch darauf verteilen. Mit Frühlingszwiebeln und Sesamsamen bestreuen. Sofort servieren – die Tortillas werden sonst weich.

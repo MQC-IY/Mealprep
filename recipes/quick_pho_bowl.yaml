@@ -1,0 +1,115 @@
+id: quick_pho_bowl
+pool: lunch
+healthy: true
+quick: true
+next_day: false
+quick_minutes: 30
+meals: 2
+de:
+  title: Hähnchen-Pho-Bowl (schnell mit Fertigbrühe)
+  summary: |-
+    Würzige vietnamesische Pho in unter 30 Minuten: Hühnerbrühe mit Sternanis, Zimtstange und Ingwer, zartes Hähnchen, Reisnudeln und frischem Beiwerk.
+en:
+  title: 'TODO: Hähnchen-Pho-Bowl (schnell mit Fertigbrühe)'
+  summary: |-
+    TODO: Würzige vietnamesische Pho in unter 30 Minuten: Hühnerbrühe mit Sternanis, Zimtstange und Ingwer, zartes Hähnchen, Reisnudeln und frischem Beiwerk.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 600
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 1500
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Fischsauce
+  en_name: 'TODO: Fischsauce'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Reisnudeln
+  en_name: 'TODO: Reisnudeln'
+  qty: 300
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Sojasprossen
+  en_name: 'TODO: Sojasprossen'
+  qty: 150
+  unit: g
+  category: Gemüse und Salat
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 4
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Koriander, frisch
+  en_name: 'TODO: Koriander, frisch'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Ingwer, frisch
+  en_name: 'TODO: Ingwer, frisch'
+  qty: 30
+  unit: g
+  category: Gemüse und Salat
+- de_name: Rote Chilischote
+  en_name: 'TODO: Rote Chilischote'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Limette
+  en_name: 'TODO: Limette'
+  qty: 2
+  unit: Stk
+  category: Obst
+- de_name: Sternanis
+  en_name: 'TODO: Sternanis'
+  qty: 3
+  unit: Stk
+  category: Gewürze
+- de_name: Zimtstange
+  en_name: 'TODO: Zimtstange'
+  qty: 1
+  unit: Stk
+  category: Gewürze
+- de_name: Nelken, ganz
+  en_name: 'TODO: Nelken, ganz'
+  qty: 3
+  unit: Stk
+  category: Gewürze
+- de_name: Koriander, gemahlen
+  en_name: 'TODO: Koriander, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Ingwer in dicke Scheiben schneiden. In einem Topf ohne Fett trocken rösten, bis er leicht bräunt. Brühe zugießen.
+- |-
+  Sternanis, Zimtstange und Nelken zur Brühe geben. Fischsauce einrühren. 15 Minuten leise köcheln lassen.
+- |-
+  Hähnchen in die siedende Brühe geben und 12–15 Minuten pochieren bis es gar ist. Herausnehmen, in Streifen zupfen.
+- Reisnudeln nach Packungsanweisung garen und abgießen.
+- |-
+  Gewürze aus der Brühe entfernen. Brühe mit Limettensaft und ggf. mehr Fischsauce abschmecken.
+- |-
+  Nudeln in tiefe Schüsseln geben, Hähnchen darauf, heiße Brühe angießen. Sojasprossen, Frühlingszwiebeln, Koriander, Chili und Limettenviertel dazu reichen.
+en_steps:
+- |-
+  TODO: Ingwer in dicke Scheiben schneiden. In einem Topf ohne Fett trocken rösten, bis er leicht bräunt. Brühe zugießen.
+- |-
+  TODO: Sternanis, Zimtstange und Nelken zur Brühe geben. Fischsauce einrühren. 15 Minuten leise köcheln lassen.
+- |-
+  TODO: Hähnchen in die siedende Brühe geben und 12–15 Minuten pochieren bis es gar ist. Herausnehmen, in Streifen zupfen.
+- 'TODO: Reisnudeln nach Packungsanweisung garen und abgießen.'
+- |-
+  TODO: Gewürze aus der Brühe entfernen. Brühe mit Limettensaft und ggf. mehr Fischsauce abschmecken.
+- |-
+  TODO: Nudeln in tiefe Schüsseln geben, Hähnchen darauf, heiße Brühe angießen. Sojasprossen, Frühlingszwiebeln, Koriander, Chili und Limettenviertel dazu reichen.

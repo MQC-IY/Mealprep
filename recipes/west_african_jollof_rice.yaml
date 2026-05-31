@@ -1,0 +1,124 @@
+id: west_african_jollof_rice
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 3
+de:
+  title: Jollof-Reis mit Hähnchen (West-Afrika)
+  summary: |-
+    Westafrikanischer Klassiker: aromatischer, leuchtend-roter Tomaten-Paprika-Reis, geschmort mit Hähnchenstücken, Palmöl und Scotch-Bonnet-Chili.
+en:
+  title: 'TODO: Jollof-Reis mit Hähnchen (West-Afrika)'
+  summary: |-
+    TODO: Westafrikanischer Klassiker: aromatischer, leuchtend-roter Tomaten-Paprika-Reis, geschmort mit Hähnchenstücken, Palmöl und Scotch-Bonnet-Chili.
+ingredients:
+- de_name: Hähnchenschenkel mit Knochen
+  en_name: 'TODO: Hähnchenschenkel mit Knochen'
+  qty: 1200
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Langkornreis
+  en_name: 'TODO: Langkornreis'
+  qty: 400
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Gehackte Tomaten
+  en_name: 'TODO: Gehackte Tomaten'
+  qty: 2
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 500
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Palmöl oder Rapsöl
+  en_name: 'TODO: Palmöl oder Rapsöl'
+  qty: 4
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Tomatenmark
+  en_name: 'TODO: Tomatenmark'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 5
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Ingwer, frisch
+  en_name: 'TODO: Ingwer, frisch'
+  qty: 30
+  unit: g
+  category: Gemüse und Salat
+- de_name: Rote Paprika
+  en_name: 'TODO: Rote Paprika'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Scotch-Bonnet-Chili oder Habanero
+  en_name: 'TODO: Scotch-Bonnet-Chili oder Habanero'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Paprika edelsüß
+  en_name: 'TODO: Paprika edelsüß'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+- de_name: Thymian, getrocknet
+  en_name: 'TODO: Thymian, getrocknet'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Koriander, gemahlen
+  en_name: 'TODO: Koriander, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Hähnchen mit Paprika edelsüß, Kreuzkümmel, Salz und etwas Öl einreiben. In Öl bei hoher Hitze von allen Seiten goldbraun anbraten, herausnehmen.
+- |-
+  Paprika, Zwiebeln (1 Stück), Scotch-Bonnet und gehackte Tomaten zu einem glatten Püree mixen.
+- |-
+  Restliche Zwiebel fein würfeln. Ingwer und Knoblauch reiben. Im Bratfett 5 Minuten bei mittlerer Hitze anschwitzen.
+- |-
+  Tomatenmark zugeben, 3 Minuten unter ständigem Rühren mitrösten bis es dunkel wird. Tomatenpüree zugeben und 15 Minuten bei mittlerer Hitze einköcheln bis die Sauce sehr dick ist.
+- |-
+  Thymian, gemahlenen Koriander und Chiliflocken einrühren. Reis zugeben und 2 Minuten mitrösten.
+- |-
+  Hühnerbrühe angießen, aufkochen. Hähnchen auf den Reis legen, Deckel drauf, Hitze auf minimal reduzieren. 25–30 Minuten kochen bis Reis gar und Flüssigkeit aufgesogen ist.
+- Mit Salz abschmecken. Hähnchen auf dem Reis anrichten und sofort servieren.
+en_steps:
+- |-
+  TODO: Hähnchen mit Paprika edelsüß, Kreuzkümmel, Salz und etwas Öl einreiben. In Öl bei hoher Hitze von allen Seiten goldbraun anbraten, herausnehmen.
+- |-
+  TODO: Paprika, Zwiebeln (1 Stück), Scotch-Bonnet und gehackte Tomaten zu einem glatten Püree mixen.
+- |-
+  TODO: Restliche Zwiebel fein würfeln. Ingwer und Knoblauch reiben. Im Bratfett 5 Minuten bei mittlerer Hitze anschwitzen.
+- |-
+  TODO: Tomatenmark zugeben, 3 Minuten unter ständigem Rühren mitrösten bis es dunkel wird. Tomatenpüree zugeben und 15 Minuten bei mittlerer Hitze einköcheln bis die Sauce sehr dick ist.
+- |-
+  TODO: Thymian, gemahlenen Koriander und Chiliflocken einrühren. Reis zugeben und 2 Minuten mitrösten.
+- |-
+  TODO: Hühnerbrühe angießen, aufkochen. Hähnchen auf den Reis legen, Deckel drauf, Hitze auf minimal reduzieren. 25–30 Minuten kochen bis Reis gar und Flüssigkeit aufgesogen ist.
+- |-
+  TODO: Mit Salz abschmecken. Hähnchen auf dem Reis anrichten und sofort servieren.

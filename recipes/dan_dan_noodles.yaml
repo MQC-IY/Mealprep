@@ -1,0 +1,124 @@
+id: dan_dan_noodles
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Dan Dan Nudeln mit Hackfleisch
+  summary: |-
+    Authentische Sichuan-Nudeln mit würzigem Schweinehackfleisch, Tahini-Sesampaste, Szechuanpfeffer und Chiliöl.
+en:
+  title: 'TODO: Dan Dan Nudeln mit Hackfleisch'
+  summary: |-
+    TODO: Authentische Sichuan-Nudeln mit würzigem Schweinehackfleisch, Tahini-Sesampaste, Szechuanpfeffer und Chiliöl.
+ingredients:
+- de_name: Schweinehackfleisch
+  en_name: 'TODO: Schweinehackfleisch'
+  qty: 250
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Chinesische Weizennudeln oder Spaghetti
+  en_name: 'TODO: Chinesische Weizennudeln oder Spaghetti'
+  qty: 300
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Ingwer, frisch
+  en_name: 'TODO: Ingwer, frisch'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 4
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Pak Choi
+  en_name: 'TODO: Pak Choi'
+  qty: 200
+  unit: g
+  category: Gemüse und Salat
+- de_name: Sesampaste (Tahini)
+  en_name: 'TODO: Sesampaste (Tahini)'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sojasauce
+  en_name: 'TODO: Sojasauce'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Dunkle Sojasauce
+  en_name: 'TODO: Dunkle Sojasauce'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Chiliöl
+  en_name: 'TODO: Chiliöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Reisessig
+  en_name: 'TODO: Reisessig'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Shaoxing-Reiswein
+  en_name: 'TODO: Shaoxing-Reiswein'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 150
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Zucker
+  en_name: 'TODO: Zucker'
+  qty: 1
+  unit: TL
+  category: Konserven und Vorrat
+- de_name: Erdnussöl
+  en_name: 'TODO: Erdnussöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Szechuanpfeffer, gemahlen
+  en_name: 'TODO: Szechuanpfeffer, gemahlen'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+- de_name: Getrocknete Chiliflocken
+  en_name: 'TODO: Getrocknete Chiliflocken'
+  qty: 2
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Nudeln nach Packungsanweisung kochen. Pak Choi im gleichen Kochwasser 1 Minute blanchieren. Abgießen.
+- |-
+  Sesampaste-Sauce: Tahini, Sojasauce, Reisessig, Zucker, Szechuanpfeffer (1 TL) und Hühnerbrühe glatt rühren.
+- Öl im Wok erhitzen. Knoblauch und Ingwer 30 Sek. anbraten.
+- |-
+  Hackfleisch zugeben und krümelig braten. Shaoxing-Wein, dunkle Sojasauce und Chiliflocken zugeben. 4–5 Minuten braten.
+- Sesampaste-Sauce in Schalen aufteilen. Heiße Nudeln darauf geben.
+- Hackfleisch über die Nudeln schöpfen. Pak Choi daneben anrichten.
+- |-
+  Mit Chiliöl, Frühlingszwiebeln und restlichem Szechuanpfeffer bestreuen. Vor dem Essen gut verrühren.
+en_steps:
+- |-
+  TODO: Nudeln nach Packungsanweisung kochen. Pak Choi im gleichen Kochwasser 1 Minute blanchieren. Abgießen.
+- |-
+  TODO: Sesampaste-Sauce: Tahini, Sojasauce, Reisessig, Zucker, Szechuanpfeffer (1 TL) und Hühnerbrühe glatt rühren.
+- 'TODO: Öl im Wok erhitzen. Knoblauch und Ingwer 30 Sek. anbraten.'
+- |-
+  TODO: Hackfleisch zugeben und krümelig braten. Shaoxing-Wein, dunkle Sojasauce und Chiliflocken zugeben. 4–5 Minuten braten.
+- 'TODO: Sesampaste-Sauce in Schalen aufteilen. Heiße Nudeln darauf geben.'
+- 'TODO: Hackfleisch über die Nudeln schöpfen. Pak Choi daneben anrichten.'
+- |-
+  TODO: Mit Chiliöl, Frühlingszwiebeln und restlichem Szechuanpfeffer bestreuen. Vor dem Essen gut verrühren.

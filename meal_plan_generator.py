@@ -222,6 +222,7 @@ HEALTHY_LUNCH_IDS = {
     "quick_moroccan_chickpea_pot",
     "quick_pasta_ceci",
     "quick_sweet_potato_lentil_dal",
+    "sundubu_jjigae_tofu",
 }
 QUICK_LUNCH_IDS = {
     "lentil_coconut_curry",
@@ -764,6 +765,15 @@ NEXT_DAY_LUNCH_IDS = {
     "quick_pea_mint_risotto",
     "quick_sweet_potato_lentil_dal",
     "quick_white_bean_bacon_soup",
+    "bean_zucchini_rice_skillet",
+    "broccoli_rice_bean_skillet",
+    "bulgur_bean_pepper_pan",
+    "chicken_green_bean_rice_pan",
+    "green_bean_couscous_turkey",
+    "lentil_couscous_veg_pan",
+    "quick_bean_bulgur_pan",
+    "spinach_red_lentil_couscous",
+    "white_bean_spinach_couscous",
 }
 
 IMAGES = {

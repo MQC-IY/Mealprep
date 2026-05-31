@@ -1,0 +1,129 @@
+id: saag_aloo
+pool: lunch
+healthy: true
+quick: false
+next_day: false
+meals: 2
+de:
+  title: Saag Aloo – Spinat-Kartoffel-Curry
+  summary: |-
+    Würzige Kartoffeln und frischer Spinat in einer aromatischen Gewürzpaste – ein klassisches veganes nordindisches Curry.
+en:
+  title: 'TODO: Saag Aloo – Spinat-Kartoffel-Curry'
+  summary: |-
+    TODO: Würzige Kartoffeln und frischer Spinat in einer aromatischen Gewürzpaste – ein klassisches veganes nordindisches Curry.
+ingredients:
+- de_name: Kartoffeln, festkochend
+  en_name: 'TODO: Kartoffeln, festkochend'
+  qty: 600
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Blattspinat, frisch
+  en_name: 'TODO: Blattspinat, frisch'
+  qty: 400
+  unit: g
+  category: Gemüse und Salat
+- de_name: Zwiebeln
+  en_name: 'TODO: Zwiebeln'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Ingwer, frisch
+  en_name: 'TODO: Ingwer, frisch'
+  qty: 3
+  unit: cm
+  category: Gemüse und Salat
+- de_name: Tomate
+  en_name: 'TODO: Tomate'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Grüne Chilischote
+  en_name: 'TODO: Grüne Chilischote'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Pflanzenöl
+  en_name: 'TODO: Pflanzenöl'
+  qty: 4
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Kreuzkümmelsamen
+  en_name: 'TODO: Kreuzkümmelsamen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Koriander, gemahlen
+  en_name: 'TODO: Koriander, gemahlen'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Kurkuma
+  en_name: 'TODO: Kurkuma'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chilipulver
+  en_name: 'TODO: Chilipulver'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Garam Masala
+  en_name: 'TODO: Garam Masala'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Senfkörner
+  en_name: 'TODO: Senfkörner'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Asafoetida (Hing)
+  en_name: 'TODO: Asafoetida (Hing)'
+  qty: 0.25
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Kartoffeln schälen, in gleichmäßige Würfel schneiden und in Salzwasser 8 Minuten vorkochen. Abgießen und beiseitestellen.
+- |-
+  Spinat waschen und in kochendem Wasser 2 Minuten blanchieren, abgießen, abkühlen lassen und grob hacken.
+- |-
+  Öl in einer großen Pfanne erhitzen. Senfkörner und Kreuzkümmelsamen hineingeben, bis sie knistern und springen. Asafoetida kurz mitrösten.
+- |-
+  Gewürfelte Zwiebeln dazugeben und 8 Minuten goldbraun anbraten. Geriebenen Knoblauch und Ingwer einrühren, 2 Minuten braten. Chilischoten fein hacken und dazugeben.
+- |-
+  Gehackte Tomaten, Kurkuma, Kreuzkümmel, Koriander und Chilipulver einrühren. 5 Minuten köcheln, bis die Tomaten weich sind.
+- |-
+  Vorgekochte Kartoffeln in die Pfanne geben, gut vermengen. 5 Minuten braten, bis die Kartoffeln leicht anbräunen. Spinat unterrühren und 3 Minuten mitgaren.
+- Mit Garam Masala und Salz abschmecken. Mit Naan oder Basmatireis servieren.
+en_steps:
+- |-
+  TODO: Kartoffeln schälen, in gleichmäßige Würfel schneiden und in Salzwasser 8 Minuten vorkochen. Abgießen und beiseitestellen.
+- |-
+  TODO: Spinat waschen und in kochendem Wasser 2 Minuten blanchieren, abgießen, abkühlen lassen und grob hacken.
+- |-
+  TODO: Öl in einer großen Pfanne erhitzen. Senfkörner und Kreuzkümmelsamen hineingeben, bis sie knistern und springen. Asafoetida kurz mitrösten.
+- |-
+  TODO: Gewürfelte Zwiebeln dazugeben und 8 Minuten goldbraun anbraten. Geriebenen Knoblauch und Ingwer einrühren, 2 Minuten braten. Chilischoten fein hacken und dazugeben.
+- |-
+  TODO: Gehackte Tomaten, Kurkuma, Kreuzkümmel, Koriander und Chilipulver einrühren. 5 Minuten köcheln, bis die Tomaten weich sind.
+- |-
+  TODO: Vorgekochte Kartoffeln in die Pfanne geben, gut vermengen. 5 Minuten braten, bis die Kartoffeln leicht anbräunen. Spinat unterrühren und 3 Minuten mitgaren.
+- |-
+  TODO: Mit Garam Masala und Salz abschmecken. Mit Naan oder Basmatireis servieren.

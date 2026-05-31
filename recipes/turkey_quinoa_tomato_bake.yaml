@@ -1,0 +1,61 @@
+id: turkey_quinoa_tomato_bake
+pool: lunch
+healthy: true
+quick: false
+next_day: true
+meals: 3
+de:
+  title: Puten-Quinoa-Auflauf mit Tomate
+  summary: Auflauf mit Putenhack, Quinoa, Tomate und Zucchini.
+en:
+  title: 'TODO: Puten-Quinoa-Auflauf mit Tomate'
+  summary: 'TODO: Auflauf mit Putenhack, Quinoa, Tomate und Zucchini.'
+ingredients:
+- de_name: Putenhack
+  en_name: 'TODO: Putenhack'
+  qty: 650
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Quinoa
+  en_name: 'TODO: Quinoa'
+  qty: 250
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Passierte Tomaten
+  en_name: 'TODO: Passierte Tomaten'
+  qty: 1
+  unit: Glas
+  category: Konserven und Vorrat
+- de_name: Zucchini
+  en_name: 'TODO: Zucchini'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Eier
+  en_name: 'TODO: Eier'
+  qty: 3
+  unit: Stk
+  category: Protein und Milchprodukte
+- de_name: Naturjoghurt
+  en_name: 'TODO: Naturjoghurt'
+  qty: 180
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Quinoa vorgaren.
+- Putenhack scharf anbraten, Zucchini klein schneiden.
+- Alles in eine Form geben, Joghurt mit Eiern verrühren und darübergeben.
+en_steps:
+- 'TODO: Quinoa vorgaren.'
+- 'TODO: Putenhack scharf anbraten, Zucchini klein schneiden.'
+- 'TODO: Alles in eine Form geben, Joghurt mit Eiern verrühren und darübergeben.'

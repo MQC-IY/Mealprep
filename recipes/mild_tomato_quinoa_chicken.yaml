@@ -1,0 +1,57 @@
+id: mild_tomato_quinoa_chicken
+pool: lunch
+healthy: true
+quick: true
+next_day: false
+quick_minutes: 30
+meals: 3
+de:
+  title: Tomaten-Quinoa mit Hähnchen
+  summary: Milder Quinoatopf mit Hähnchen, Tomate und Erbsen.
+en:
+  title: 'TODO: Tomaten-Quinoa mit Hähnchen'
+  summary: 'TODO: Milder Quinoatopf mit Hähnchen, Tomate und Erbsen.'
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 750
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Quinoa
+  en_name: 'TODO: Quinoa'
+  qty: 260
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Passierte Tomaten
+  en_name: 'TODO: Passierte Tomaten'
+  qty: 1
+  unit: Glas
+  category: Konserven und Vorrat
+- de_name: Erbsen, TK
+  en_name: 'TODO: Erbsen, TK'
+  qty: 220
+  unit: g
+  category: Gemüse und Salat
+- de_name: Möhren
+  en_name: 'TODO: Möhren'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Hähnchen scharf anbraten.
+- Quinoa, Tomaten und etwas Wasser zugeben.
+- Möhren und Erbsen weich mitgaren.
+en_steps:
+- 'TODO: Hähnchen scharf anbraten.'
+- 'TODO: Quinoa, Tomaten und etwas Wasser zugeben.'
+- 'TODO: Möhren und Erbsen weich mitgaren.'

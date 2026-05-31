@@ -1,0 +1,130 @@
+id: chinese_chicken_glass_noodles
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Chinesisches Hähnchen mit Glasnudeln
+  summary: |-
+    Zarte Hähnchenstücke mit Glasnudeln, Pilzen und Gemüse in einer würzigen Soja-Ingwer-Sauce – schnell und sättigend.
+en:
+  title: 'TODO: Chinesisches Hähnchen mit Glasnudeln'
+  summary: |-
+    TODO: Zarte Hähnchenstücke mit Glasnudeln, Pilzen und Gemüse in einer würzigen Soja-Ingwer-Sauce – schnell und sättigend.
+ingredients:
+- de_name: Hähnchenbrustfilet
+  en_name: 'TODO: Hähnchenbrustfilet'
+  qty: 350
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Glasnudeln (Mungbohnen-Fadennudeln)
+  en_name: 'TODO: Glasnudeln (Mungbohnen-Fadennudeln)'
+  qty: 150
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Getrocknete Shiitake-Pilze
+  en_name: 'TODO: Getrocknete Shiitake-Pilze'
+  qty: 20
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Ingwer, frisch
+  en_name: 'TODO: Ingwer, frisch'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Möhren
+  en_name: 'TODO: Möhren'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Frische rote Chili
+  en_name: 'TODO: Frische rote Chili'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Sojasauce
+  en_name: 'TODO: Sojasauce'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Dunkle Sojasauce
+  en_name: 'TODO: Dunkle Sojasauce'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Austernsauce
+  en_name: 'TODO: Austernsauce'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Shaoxing-Reiswein
+  en_name: 'TODO: Shaoxing-Reiswein'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 200
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Sesamöl
+  en_name: 'TODO: Sesamöl'
+  qty: 1
+  unit: TL
+  category: Konserven und Vorrat
+- de_name: Speisestärke
+  en_name: 'TODO: Speisestärke'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Erdnussöl
+  en_name: 'TODO: Erdnussöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Weißer Pfeffer, gemahlen
+  en_name: 'TODO: Weißer Pfeffer, gemahlen'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Getrocknete Shiitake-Pilze in 200 ml warmem Wasser 20 Minuten einweichen. Einweichwasser aufbewahren. Pilze in Scheiben schneiden.
+- Glasnudeln in heißem Wasser 5 Minuten einweichen, abgießen.
+- |-
+  Hähnchen in dünne Streifen schneiden. Mit 1 EL Sojasauce, Stärke und Shaoxing-Wein (1 EL) 15 Minuten marinieren.
+- Möhren in feine Stifte, Knoblauch und Ingwer fein hacken.
+- |-
+  Öl im Wok erhitzen. Hähnchen 3–4 Minuten scharf braten. Knoblauch und Ingwer zugeben.
+- Pilze und Möhren zugeben, 2 Minuten mitbraten.
+- |-
+  Restlichen Shaoxing-Wein, Sojasauce, dunkle Sojasauce, Austernsauce, Hühnerbrühe und Pilzeinweichwasser (gefiltert) zugeben.
+- |-
+  Glasnudeln einrühren und 3–4 Minuten bei mittlerer Hitze köcheln, bis sie die Sauce aufgesogen haben.
+- Mit Pfeffer abschmecken. Sesamöl, Frühlingszwiebeln und Chili unterheben.
+en_steps:
+- |-
+  TODO: Getrocknete Shiitake-Pilze in 200 ml warmem Wasser 20 Minuten einweichen. Einweichwasser aufbewahren. Pilze in Scheiben schneiden.
+- 'TODO: Glasnudeln in heißem Wasser 5 Minuten einweichen, abgießen.'
+- |-
+  TODO: Hähnchen in dünne Streifen schneiden. Mit 1 EL Sojasauce, Stärke und Shaoxing-Wein (1 EL) 15 Minuten marinieren.
+- 'TODO: Möhren in feine Stifte, Knoblauch und Ingwer fein hacken.'
+- |-
+  TODO: Öl im Wok erhitzen. Hähnchen 3–4 Minuten scharf braten. Knoblauch und Ingwer zugeben.
+- 'TODO: Pilze und Möhren zugeben, 2 Minuten mitbraten.'
+- |-
+  TODO: Restlichen Shaoxing-Wein, Sojasauce, dunkle Sojasauce, Austernsauce, Hühnerbrühe und Pilzeinweichwasser (gefiltert) zugeben.
+- |-
+  TODO: Glasnudeln einrühren und 3–4 Minuten bei mittlerer Hitze köcheln, bis sie die Sauce aufgesogen haben.
+- 'TODO: Mit Pfeffer abschmecken. Sesamöl, Frühlingszwiebeln und Chili unterheben.'

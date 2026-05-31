@@ -1,0 +1,95 @@
+id: pasta_alle_vongole
+pool: lunch
+healthy: false
+quick: false
+next_day: false
+meals: 2
+de:
+  title: Pasta alle Vongole mit Weißwein
+  summary: |-
+    Venusmuscheln, die sich in Knoblauch-Weißwein-Brühe öffnen, mit Spaghetti und Olivenöl zu einem Gericht verbunden – muss sofort gegessen werden, da die Muscheln schnell gummig werden.
+en:
+  title: 'TODO: Pasta alle Vongole mit Weißwein'
+  summary: |-
+    TODO: Venusmuscheln, die sich in Knoblauch-Weißwein-Brühe öffnen, mit Spaghetti und Olivenöl zu einem Gericht verbunden – muss sofort gegessen werden, da die Muscheln schnell gummig werden.
+ingredients:
+- de_name: Venusmuscheln (Vongole)
+  en_name: 'TODO: Venusmuscheln (Vongole)'
+  qty: 1500
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Spaghetti
+  en_name: 'TODO: Spaghetti'
+  qty: 500
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Trockener Weißwein
+  en_name: 'TODO: Trockener Weißwein'
+  qty: 200
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Olivenöl extra vergine
+  en_name: 'TODO: Olivenöl extra vergine'
+  qty: 8
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 6
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Peperoncini (getrocknet)
+  en_name: 'TODO: Peperoncini (getrocknet)'
+  qty: 2
+  unit: Stk
+  category: Gewürze
+- de_name: Glatte Petersilie
+  en_name: 'TODO: Glatte Petersilie'
+  qty: 2
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Zitrone
+  en_name: 'TODO: Zitrone'
+  qty: 1
+  unit: Stk
+  category: Obst
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Muscheln in kaltem Salzwasser (1 EL Salz pro Liter) mindestens 30 Minuten wässern, damit Sand austritt. Mehrfach durchrühren, Wasser wechseln. Alle Muscheln, die sich nach Klopfen nicht schließen, wegwerfen.
+- |-
+  Einen großen Topf Salzwasser für die Pasta aufsetzen und zum Kochen bringen. Spaghetti 2 Minuten kürzer als die Packungsangabe kochen (al dente+ für die Pfanne). Vor dem Abgießen 300 ml Nudelwasser auffangen.
+- |-
+  Knoblauch in hauchdünne Scheiben schneiden. Petersilienblätter grob hacken, Stiele fein hacken. Peperoncini zerkrümeln.
+- |-
+  4 EL Olivenöl in einer sehr großen, hohen Pfanne oder einem weiten Topf bei mittlerer Hitze erwärmen. Knoblauch und Petersilienstiele 1 Minute anschwitzen – NICHT bräunen. Peperoncini zugeben, 30 Sekunden mitrösten.
+- |-
+  Muscheln in die Pfanne geben, mit Weißwein ablöschen, Deckel drauf. Bei hoher Hitze 3–5 Minuten dämpfen und zwischendurch schwenken, bis alle Muscheln offen sind. Muscheln, die geschlossen bleiben, entfernen und wegwerfen.
+- |-
+  Abgegossene Spaghetti direkt in die Pfanne zu den Muscheln geben. Bei mittlerer Hitze 1–2 Minuten schwenken, dabei nach Bedarf Nudelwasser einarbeiten, bis eine sämige, emulgierte Sauce entsteht.
+- |-
+  Restliches Olivenöl (4 EL) einrühren, Petersilienblätter und Zitronensaft zugeben. Mit Salz und Pfeffer abschmecken. Sofort in vorgewärmten tiefen Tellern servieren – kein Warten, kein Aufwärmen.
+en_steps:
+- |-
+  TODO: Muscheln in kaltem Salzwasser (1 EL Salz pro Liter) mindestens 30 Minuten wässern, damit Sand austritt. Mehrfach durchrühren, Wasser wechseln. Alle Muscheln, die sich nach Klopfen nicht schließen, wegwerfen.
+- |-
+  TODO: Einen großen Topf Salzwasser für die Pasta aufsetzen und zum Kochen bringen. Spaghetti 2 Minuten kürzer als die Packungsangabe kochen (al dente+ für die Pfanne). Vor dem Abgießen 300 ml Nudelwasser auffangen.
+- |-
+  TODO: Knoblauch in hauchdünne Scheiben schneiden. Petersilienblätter grob hacken, Stiele fein hacken. Peperoncini zerkrümeln.
+- |-
+  TODO: 4 EL Olivenöl in einer sehr großen, hohen Pfanne oder einem weiten Topf bei mittlerer Hitze erwärmen. Knoblauch und Petersilienstiele 1 Minute anschwitzen – NICHT bräunen. Peperoncini zugeben, 30 Sekunden mitrösten.
+- |-
+  TODO: Muscheln in die Pfanne geben, mit Weißwein ablöschen, Deckel drauf. Bei hoher Hitze 3–5 Minuten dämpfen und zwischendurch schwenken, bis alle Muscheln offen sind. Muscheln, die geschlossen bleiben, entfernen und wegwerfen.
+- |-
+  TODO: Abgegossene Spaghetti direkt in die Pfanne zu den Muscheln geben. Bei mittlerer Hitze 1–2 Minuten schwenken, dabei nach Bedarf Nudelwasser einarbeiten, bis eine sämige, emulgierte Sauce entsteht.
+- |-
+  TODO: Restliches Olivenöl (4 EL) einrühren, Petersilienblätter und Zitronensaft zugeben. Mit Salz und Pfeffer abschmecken. Sofort in vorgewärmten tiefen Tellern servieren – kein Warten, kein Aufwärmen.

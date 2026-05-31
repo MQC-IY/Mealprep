@@ -1,0 +1,118 @@
+id: indonesian_rendang_chicken
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 3
+de:
+  title: Indonesisches Rendang-Hähnchen
+  summary: |-
+    Langsam geschmortes Hähnchen in einer aromatischen Paste aus Zitronengras, Galgant, Kokosmilch, Kurkuma und Chili – eines der aromatischsten Gerichte Südostasiens.
+en:
+  title: 'TODO: Indonesisches Rendang-Hähnchen'
+  summary: |-
+    TODO: Langsam geschmortes Hähnchen in einer aromatischen Paste aus Zitronengras, Galgant, Kokosmilch, Kurkuma und Chili – eines der aromatischsten Gerichte Südostasiens.
+ingredients:
+- de_name: Hähnchenschenkel mit Knochen
+  en_name: 'TODO: Hähnchenschenkel mit Knochen'
+  qty: 1200
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Kokosmilch
+  en_name: 'TODO: Kokosmilch'
+  qty: 2
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Rapsöl
+  en_name: 'TODO: Rapsöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Jasminreis
+  en_name: 'TODO: Jasminreis'
+  qty: 350
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 6
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Ingwer, frisch
+  en_name: 'TODO: Ingwer, frisch'
+  qty: 40
+  unit: g
+  category: Gemüse und Salat
+- de_name: Zitronengrasstangen
+  en_name: 'TODO: Zitronengrasstangen'
+  qty: 3
+  unit: Stange
+  category: Gemüse und Salat
+- de_name: Rote Chili
+  en_name: 'TODO: Rote Chili'
+  qty: 4
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Galgant (frisch oder getrocknet)
+  en_name: 'TODO: Galgant (frisch oder getrocknet)'
+  qty: 20
+  unit: g
+  category: Gemüse und Salat
+- de_name: Kurkuma, frisch oder gemahlen
+  en_name: 'TODO: Kurkuma, frisch oder gemahlen'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Koriander, gemahlen
+  en_name: 'TODO: Koriander, gemahlen'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+- de_name: Zimt, gemahlen
+  en_name: 'TODO: Zimt, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Rendang-Paste herstellen: Zwiebeln, Knoblauch, Ingwer, Galgant, rote Chilis und Kurkuma im Mixer zu einer feinen Paste pürieren.
+- Zitronengrasstangen mit dem Messerrücken anquetschen.
+- |-
+  Öl in einem schweren Topf bei mittlerer Hitze erhitzen. Rendang-Paste 5–7 Minuten anbraten, unter ständigem Rühren, bis sie sehr duftend und etwas dunkler ist.
+- |-
+  Gemahlenen Koriander, Kreuzkümmel, Zimt und Chiliflocken zugeben, 1 Minute mitrösten.
+- |-
+  Hähnchenstücke zugeben und rundherum mit der Paste überziehen. Angedrückte Zitronengrasstangen zugeben.
+- |-
+  Kokosmilch angießen, aufkochen. Hitze stark reduzieren, Deckel halb drauf und 45–60 Minuten köcheln lassen, gelegentlich rühren.
+- |-
+  In den letzten 15 Minuten Deckel ganz abnehmen und bei mittlerer Hitze einköcheln, bis die Sauce eindickt und das Hähnchen karamellisiert. Mit Jasminreis servieren.
+en_steps:
+- |-
+  TODO: Rendang-Paste herstellen: Zwiebeln, Knoblauch, Ingwer, Galgant, rote Chilis und Kurkuma im Mixer zu einer feinen Paste pürieren.
+- 'TODO: Zitronengrasstangen mit dem Messerrücken anquetschen.'
+- |-
+  TODO: Öl in einem schweren Topf bei mittlerer Hitze erhitzen. Rendang-Paste 5–7 Minuten anbraten, unter ständigem Rühren, bis sie sehr duftend und etwas dunkler ist.
+- |-
+  TODO: Gemahlenen Koriander, Kreuzkümmel, Zimt und Chiliflocken zugeben, 1 Minute mitrösten.
+- |-
+  TODO: Hähnchenstücke zugeben und rundherum mit der Paste überziehen. Angedrückte Zitronengrasstangen zugeben.
+- |-
+  TODO: Kokosmilch angießen, aufkochen. Hitze stark reduzieren, Deckel halb drauf und 45–60 Minuten köcheln lassen, gelegentlich rühren.
+- |-
+  TODO: In den letzten 15 Minuten Deckel ganz abnehmen und bei mittlerer Hitze einköcheln, bis die Sauce eindickt und das Hähnchen karamellisiert. Mit Jasminreis servieren.

@@ -1,0 +1,104 @@
+id: hainanese_chicken_rice
+pool: lunch
+healthy: false
+quick: false
+next_day: false
+meals: 3
+de:
+  title: Singapurisches Hainanese Chicken Rice
+  summary: |-
+    Singapurischer Nationalklassiker: pochiertes Hähnchen mit zartem, in Hühnerbrühe gekochtem Jasminreis, Ingwer-Chili-Sauce und Soßen zum Dippen.
+en:
+  title: 'TODO: Singapurisches Hainanese Chicken Rice'
+  summary: |-
+    TODO: Singapurischer Nationalklassiker: pochiertes Hähnchen mit zartem, in Hühnerbrühe gekochtem Jasminreis, Ingwer-Chili-Sauce und Soßen zum Dippen.
+ingredients:
+- de_name: Ganzes Hähnchen oder Hähnchenschenkel
+  en_name: 'TODO: Ganzes Hähnchen oder Hähnchenschenkel'
+  qty: 1600
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Jasminreis
+  en_name: 'TODO: Jasminreis'
+  qty: 400
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Sojasauce (hell)
+  en_name: 'TODO: Sojasauce (hell)'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sesamöl
+  en_name: 'TODO: Sesamöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Rapsöl
+  en_name: 'TODO: Rapsöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 8
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Ingwer, frisch
+  en_name: 'TODO: Ingwer, frisch'
+  qty: 80
+  unit: g
+  category: Gemüse und Salat
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 6
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Gurke
+  en_name: 'TODO: Gurke'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Rote Chili
+  en_name: 'TODO: Rote Chili'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Limette
+  en_name: 'TODO: Limette'
+  qty: 2
+  unit: Stk
+  category: Obst
+- de_name: Weißer Pfeffer, gemahlen
+  en_name: 'TODO: Weißer Pfeffer, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Kurkuma
+  en_name: 'TODO: Kurkuma'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Hähnchen innen und außen salzen. Einen großen Topf mit Wasser aufkochen. Hähnchen einlegen, 5 Knoblauchzehen, die Hälfte des Ingwers (in Scheiben), Frühlingszwiebelgrün und weißen Pfeffer zugeben.
+- |-
+  Auf niedrige Hitze reduzieren – das Wasser soll kaum simmern. Hähnchen 40–45 Minuten pochieren bis komplett gar. Herausnehmen, sofort in eiskaltes Wasser tauchen für 5 Minuten, dann herausheben.
+- Brühe durch ein Sieb gießen und aufbewahren. Reis abspülen.
+- |-
+  Rapsöl in einem Topf erhitzen. Restlichen Knoblauch und restlichen Ingwer (fein gehackt) 2 Minuten anbraten. Reis zugeben, 2 Minuten anrösten. 600 ml Hühnerbrühe zugeben, aufkochen, Hitze minimal, 15 Minuten köcheln.
+- |-
+  Chili-Ingwer-Sauce: rote Chilis, restlichen Ingwer, 2 Knoblauchzehen, Limettensaft und eine Prise Salz im Mixer pürieren.
+- |-
+  Hähnchen in Stücke schneiden oder zupfen. Mit warmem Reis, Gurkenscheiben, heller Sojasauce, Sesamöl, etwas Brühe zum Trinken und der Chili-Sauce servieren.
+en_steps:
+- |-
+  TODO: Hähnchen innen und außen salzen. Einen großen Topf mit Wasser aufkochen. Hähnchen einlegen, 5 Knoblauchzehen, die Hälfte des Ingwers (in Scheiben), Frühlingszwiebelgrün und weißen Pfeffer zugeben.
+- |-
+  TODO: Auf niedrige Hitze reduzieren – das Wasser soll kaum simmern. Hähnchen 40–45 Minuten pochieren bis komplett gar. Herausnehmen, sofort in eiskaltes Wasser tauchen für 5 Minuten, dann herausheben.
+- 'TODO: Brühe durch ein Sieb gießen und aufbewahren. Reis abspülen.'
+- |-
+  TODO: Rapsöl in einem Topf erhitzen. Restlichen Knoblauch und restlichen Ingwer (fein gehackt) 2 Minuten anbraten. Reis zugeben, 2 Minuten anrösten. 600 ml Hühnerbrühe zugeben, aufkochen, Hitze minimal, 15 Minuten köcheln.
+- |-
+  TODO: Chili-Ingwer-Sauce: rote Chilis, restlichen Ingwer, 2 Knoblauchzehen, Limettensaft und eine Prise Salz im Mixer pürieren.
+- |-
+  TODO: Hähnchen in Stücke schneiden oder zupfen. Mit warmem Reis, Gurkenscheiben, heller Sojasauce, Sesamöl, etwas Brühe zum Trinken und der Chili-Sauce servieren.

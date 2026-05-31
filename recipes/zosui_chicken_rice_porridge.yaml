@@ -1,0 +1,118 @@
+id: zosui_chicken_rice_porridge
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Hähnchen-Zosui (Japanischer Reisbrei)
+  summary: |-
+    Sanfter japanischer Reisbrei mit zartem Hähnchen, Ei, Pilzen und Miso in kräftiger Dashi-Brühe.
+en:
+  title: 'TODO: Hähnchen-Zosui (Japanischer Reisbrei)'
+  summary: |-
+    TODO: Sanfter japanischer Reisbrei mit zartem Hähnchen, Ei, Pilzen und Miso in kräftiger Dashi-Brühe.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 500
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Eier
+  en_name: 'TODO: Eier'
+  qty: 3
+  unit: Stk
+  category: Protein und Milchprodukte
+- de_name: Shiitake-Pilze (frisch)
+  en_name: 'TODO: Shiitake-Pilze (frisch)'
+  qty: 150
+  unit: g
+  category: Gemüse und Salat
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Ingwer (frisch)
+  en_name: 'TODO: Ingwer (frisch)'
+  qty: 20
+  unit: g
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 2
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Gekochter Reis (vom Vortag)
+  en_name: 'TODO: Gekochter Reis (vom Vortag)'
+  qty: 600
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Dashi-Brühe
+  en_name: 'TODO: Dashi-Brühe'
+  qty: 1.2
+  unit: Liter
+  category: Konserven und Vorrat
+- de_name: Shiro-Miso
+  en_name: 'TODO: Shiro-Miso'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sojasoße
+  en_name: 'TODO: Sojasoße'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sake
+  en_name: 'TODO: Sake'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Mirin
+  en_name: 'TODO: Mirin'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sesamöl
+  en_name: 'TODO: Sesamöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Shichimi-Togarashi
+  en_name: 'TODO: Shichimi-Togarashi'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Weißer Pfeffer
+  en_name: 'TODO: Weißer Pfeffer'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Hähnchenbrust mit Ingwerscheiben, Knoblauch und Sake in der Dashi-Brühe bei mittlerer Hitze 15 Minuten pochieren. Hähnchen herausnehmen und zerzupfen. Brühe aufbewahren.
+- |-
+  Brühe erneut aufkochen. Shiitake-Pilze in Scheiben dazugeben und 5 Minuten köcheln.
+- |-
+  Gekochten Reis dazugeben und verrühren. 10 Minuten bei niedriger Hitze köcheln, bis der Reis aufweicht.
+- |-
+  Miso-Paste in einer kleinen Schüssel mit etwas heißer Brühe glatt rühren und einrühren. Sojasoße und Mirin hinzufügen. Nicht mehr aufkochen.
+- Zerzupftes Hähnchen zurückgeben.
+- |-
+  Eier verquirlen und in kreisenden Bewegungen in den leicht köchelnden Brei gießen. Sofort vom Herd nehmen und Eier 1 Minute sanft stocken lassen.
+- |-
+  Sesamöl einträufeln. In tiefe Schalen füllen, mit Frühlingszwiebeln und Shichimi-Togarashi bestreuen.
+en_steps:
+- |-
+  TODO: Hähnchenbrust mit Ingwerscheiben, Knoblauch und Sake in der Dashi-Brühe bei mittlerer Hitze 15 Minuten pochieren. Hähnchen herausnehmen und zerzupfen. Brühe aufbewahren.
+- |-
+  TODO: Brühe erneut aufkochen. Shiitake-Pilze in Scheiben dazugeben und 5 Minuten köcheln.
+- |-
+  TODO: Gekochten Reis dazugeben und verrühren. 10 Minuten bei niedriger Hitze köcheln, bis der Reis aufweicht.
+- |-
+  TODO: Miso-Paste in einer kleinen Schüssel mit etwas heißer Brühe glatt rühren und einrühren. Sojasoße und Mirin hinzufügen. Nicht mehr aufkochen.
+- 'TODO: Zerzupftes Hähnchen zurückgeben.'
+- |-
+  TODO: Eier verquirlen und in kreisenden Bewegungen in den leicht köchelnden Brei gießen. Sofort vom Herd nehmen und Eier 1 Minute sanft stocken lassen.
+- |-
+  TODO: Sesamöl einträufeln. In tiefe Schalen füllen, mit Frühlingszwiebeln und Shichimi-Togarashi bestreuen.

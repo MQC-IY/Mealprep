@@ -1,0 +1,127 @@
+id: salsiccia_lentils_kale
+pool: lunch
+healthy: true
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Salsiccia-Linsen mit Grünkohl
+  summary: |-
+    Herzhafte Umbro-toskanische Linsen mit würziger Salsiccia, Grünkohl, Fenchelsamen und Rotwein – bodenständige Winterküche mit Tiefe.
+en:
+  title: 'TODO: Salsiccia-Linsen mit Grünkohl'
+  summary: |-
+    TODO: Herzhafte Umbro-toskanische Linsen mit würziger Salsiccia, Grünkohl, Fenchelsamen und Rotwein – bodenständige Winterküche mit Tiefe.
+ingredients:
+- de_name: Salsiccia (grobe Bratwurst)
+  en_name: 'TODO: Salsiccia (grobe Bratwurst)'
+  qty: 400
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Braune Linsen (ungekocht)
+  en_name: 'TODO: Braune Linsen (ungekocht)'
+  qty: 200
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Grünkohl
+  en_name: 'TODO: Grünkohl'
+  qty: 200
+  unit: g
+  category: Gemüse und Salat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 3
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Karotte
+  en_name: 'TODO: Karotte'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Staudensellerie
+  en_name: 'TODO: Staudensellerie'
+  qty: 1
+  unit: Stange
+  category: Gemüse und Salat
+- de_name: Trockener Rotwein
+  en_name: 'TODO: Trockener Rotwein'
+  qty: 150
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 600
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Tomatenmark
+  en_name: 'TODO: Tomatenmark'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Fenchelsamen
+  en_name: 'TODO: Fenchelsamen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Peperoncino gemahlen
+  en_name: 'TODO: Peperoncino gemahlen'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Getrockneter Thymian
+  en_name: 'TODO: Getrockneter Thymian'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Salsiccia aus der Haut drücken und in walnussgroße Stücke formen. Zwiebel, Karotte und Sellerie würfeln, Knoblauch hacken.
+- |-
+  Olivenöl in einem großen Topf bei mittlerer bis hoher Hitze erhitzen. Salsiccia-Stücke 4–5 Minuten rundherum anbraten, bis sie Farbe bekommen. Herausnehmen.
+- |-
+  Im selben Topf Zwiebel, Karotte und Sellerie 6 Minuten anschwitzen. Knoblauch, Fenchelsamen und Peperoncino einrühren, 1 Minute rösten.
+- |-
+  Tomatenmark dazugeben, kurz mitrösten. Mit Rotwein ablöschen, 2 Minuten stark einkochen.
+- |-
+  Linsen (abgespült), Brühe und Thymian dazugeben. Salsiccia zurücklegen. Zugedeckt 25 Minuten bei niedriger Hitze köcheln.
+- |-
+  Grünkohl von den Stielen befreien, grob hacken. In den Eintopf einrühren, weitere 10 Minuten offen köcheln.
+- 'Konsistenz prüfen: Der Eintopf soll sämig sein, nicht suppig.'
+- |-
+  Mit Salz und Pfeffer abschmecken. Mit rustikalem Brot und einem Schuss Olivenöl servieren.
+en_steps:
+- |-
+  TODO: Salsiccia aus der Haut drücken und in walnussgroße Stücke formen. Zwiebel, Karotte und Sellerie würfeln, Knoblauch hacken.
+- |-
+  TODO: Olivenöl in einem großen Topf bei mittlerer bis hoher Hitze erhitzen. Salsiccia-Stücke 4–5 Minuten rundherum anbraten, bis sie Farbe bekommen. Herausnehmen.
+- |-
+  TODO: Im selben Topf Zwiebel, Karotte und Sellerie 6 Minuten anschwitzen. Knoblauch, Fenchelsamen und Peperoncino einrühren, 1 Minute rösten.
+- |-
+  TODO: Tomatenmark dazugeben, kurz mitrösten. Mit Rotwein ablöschen, 2 Minuten stark einkochen.
+- |-
+  TODO: Linsen (abgespült), Brühe und Thymian dazugeben. Salsiccia zurücklegen. Zugedeckt 25 Minuten bei niedriger Hitze köcheln.
+- |-
+  TODO: Grünkohl von den Stielen befreien, grob hacken. In den Eintopf einrühren, weitere 10 Minuten offen köcheln.
+- 'TODO: Konsistenz prüfen: Der Eintopf soll sämig sein, nicht suppig.'
+- |-
+  TODO: Mit Salz und Pfeffer abschmecken. Mit rustikalem Brot und einem Schuss Olivenöl servieren.

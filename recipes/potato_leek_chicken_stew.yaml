@@ -1,0 +1,66 @@
+id: potato_leek_chicken_stew
+pool: lunch
+healthy: true
+quick: false
+next_day: true
+meals: 3
+de:
+  title: Kartoffel-Lauch-Hähnchen-Topf
+  summary: Milder Eintopf mit Hähnchen, Kartoffeln, Lauch und Möhren.
+en:
+  title: 'TODO: Kartoffel-Lauch-Hähnchen-Topf'
+  summary: 'TODO: Milder Eintopf mit Hähnchen, Kartoffeln, Lauch und Möhren.'
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 750
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Kartoffeln
+  en_name: 'TODO: Kartoffeln'
+  qty: 900
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Lauch
+  en_name: 'TODO: Lauch'
+  qty: 1
+  unit: Stange
+  category: Gemüse und Salat
+- de_name: Möhren
+  en_name: 'TODO: Möhren'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Naturjoghurt
+  en_name: 'TODO: Naturjoghurt'
+  qty: 120
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Paprika edelsüß
+  en_name: 'TODO: Paprika edelsüß'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Hähnchen mit Zwiebel in Olivenöl scharf anbraten.
+- Kartoffeln, Lauch und Möhren klein schneiden und zugeben.
+- Mit Wasser auffüllen und weich köcheln lassen, etwas Joghurt unterrühren.
+en_steps:
+- 'TODO: Hähnchen mit Zwiebel in Olivenöl scharf anbraten.'
+- 'TODO: Kartoffeln, Lauch und Möhren klein schneiden und zugeben.'
+- 'TODO: Mit Wasser auffüllen und weich köcheln lassen, etwas Joghurt unterrühren.'

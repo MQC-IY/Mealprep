@@ -1,0 +1,62 @@
+id: mild_bulgur_corn_bean_pot
+pool: lunch
+healthy: true
+quick: true
+next_day: true
+quick_minutes: 30
+meals: 3
+de:
+  title: Bulgur-Bohnen-Mais-Topf
+  summary: Milder Topf mit Bulgur, weißen Bohnen, Mais und Tomate.
+en:
+  title: 'TODO: Bulgur-Bohnen-Mais-Topf'
+  summary: 'TODO: Milder Topf mit Bulgur, weißen Bohnen, Mais und Tomate.'
+ingredients:
+- de_name: Bulgur
+  en_name: 'TODO: Bulgur'
+  qty: 220
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Weiße Bohnen
+  en_name: 'TODO: Weiße Bohnen'
+  qty: 2
+  unit: Dosen
+  category: Konserven und Vorrat
+- de_name: Mais
+  en_name: 'TODO: Mais'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Passierte Tomaten
+  en_name: 'TODO: Passierte Tomaten'
+  qty: 1
+  unit: Glas
+  category: Konserven und Vorrat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Paprika
+  en_name: 'TODO: Paprika'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Zwiebel und Paprika anschwitzen.
+- Tomaten, Bohnen, Mais und Bulgur zugeben.
+- Mit Wasser weich köcheln lassen.
+en_steps:
+- 'TODO: Zwiebel und Paprika anschwitzen.'
+- 'TODO: Tomaten, Bohnen, Mais und Bulgur zugeben.'
+- 'TODO: Mit Wasser weich köcheln lassen.'

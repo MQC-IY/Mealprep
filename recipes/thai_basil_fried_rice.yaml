@@ -1,0 +1,113 @@
+id: thai_basil_fried_rice
+pool: lunch
+healthy: false
+quick: true
+next_day: false
+quick_minutes: 20
+meals: 2
+de:
+  title: Thai Basil Fried Rice
+  summary: |-
+    Schneller, würziger gebratener Reis mit Hähnchen, Thai-Basilikum, Chili und Knoblauch – ein klassisches Thai-Streetfood.
+en:
+  title: 'TODO: Thai Basil Fried Rice'
+  summary: |-
+    TODO: Schneller, würziger gebratener Reis mit Hähnchen, Thai-Basilikum, Chili und Knoblauch – ein klassisches Thai-Streetfood.
+ingredients:
+- de_name: Hähnchenbrustfilet
+  en_name: 'TODO: Hähnchenbrustfilet'
+  qty: 300
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Eier
+  en_name: 'TODO: Eier'
+  qty: 2
+  unit: Stk
+  category: Protein und Milchprodukte
+- de_name: Gekochter Jasminreis (vom Vortag)
+  en_name: 'TODO: Gekochter Jasminreis (vom Vortag)'
+  qty: 400
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Frische rote Chilischoten
+  en_name: 'TODO: Frische rote Chilischoten'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Frische grüne Chilischoten
+  en_name: 'TODO: Frische grüne Chilischoten'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Thai-Basilikum (frisch)
+  en_name: 'TODO: Thai-Basilikum (frisch)'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Fischsauce
+  en_name: 'TODO: Fischsauce'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Austernsauce
+  en_name: 'TODO: Austernsauce'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Dunkle Sojasauce
+  en_name: 'TODO: Dunkle Sojasauce'
+  qty: 1
+  unit: TL
+  category: Konserven und Vorrat
+- de_name: Palmzucker
+  en_name: 'TODO: Palmzucker'
+  qty: 1
+  unit: TL
+  category: Konserven und Vorrat
+- de_name: Erdnussöl
+  en_name: 'TODO: Erdnussöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Weißer Pfeffer, gemahlen
+  en_name: 'TODO: Weißer Pfeffer, gemahlen'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Hähnchen in sehr kleine Würfel oder Streifen schneiden. Knoblauch und Chili grob im Mörser zerstoßen.
+- |-
+  Öl im Wok bei maximaler Hitze erhitzen. Knoblauch-Chili-Mischung 30 Sekunden scharf anbraten.
+- Hähnchen zugeben und 3–4 Minuten krümelig braten.
+- |-
+  Erkalteten Reis zugeben und 2–3 Minuten unter ständigem Rühren bei starker Hitze braten, bis er leicht knusprig wird.
+- Eier aufschlagen, über den Reis geben und sofort verrühren, bis sie stocken.
+- |-
+  Fischsauce, Austernsauce, dunkle Sojasauce und Palmzucker zugeben. Alles gut vermengen.
+- Thai-Basilikum und Frühlingszwiebeln unterheben.
+- Mit weißem Pfeffer abschmecken und sofort servieren.
+en_steps:
+- |-
+  TODO: Hähnchen in sehr kleine Würfel oder Streifen schneiden. Knoblauch und Chili grob im Mörser zerstoßen.
+- |-
+  TODO: Öl im Wok bei maximaler Hitze erhitzen. Knoblauch-Chili-Mischung 30 Sekunden scharf anbraten.
+- 'TODO: Hähnchen zugeben und 3–4 Minuten krümelig braten.'
+- |-
+  TODO: Erkalteten Reis zugeben und 2–3 Minuten unter ständigem Rühren bei starker Hitze braten, bis er leicht knusprig wird.
+- |-
+  TODO: Eier aufschlagen, über den Reis geben und sofort verrühren, bis sie stocken.
+- |-
+  TODO: Fischsauce, Austernsauce, dunkle Sojasauce und Palmzucker zugeben. Alles gut vermengen.
+- 'TODO: Thai-Basilikum und Frühlingszwiebeln unterheben.'
+- 'TODO: Mit weißem Pfeffer abschmecken und sofort servieren.'

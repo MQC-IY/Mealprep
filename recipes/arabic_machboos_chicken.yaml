@@ -1,0 +1,146 @@
+id: arabic_machboos_chicken
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Arabisches Hähnchen-Machboos mit Reis
+  summary: |-
+    Das Nationalgericht der Golfstaaten: aromatischer Gewürzreis mit saftigem Hähnchen, getrockneten Zitronen und einer tiefen Baharat-Würzung.
+en:
+  title: 'TODO: Arabisches Hähnchen-Machboos mit Reis'
+  summary: |-
+    TODO: Das Nationalgericht der Golfstaaten: aromatischer Gewürzreis mit saftigem Hähnchen, getrockneten Zitronen und einer tiefen Baharat-Würzung.
+ingredients:
+- de_name: Hähnchenstücke, mit Knochen
+  en_name: 'TODO: Hähnchenstücke, mit Knochen'
+  qty: 800
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Butter
+  en_name: 'TODO: Butter'
+  qty: 30
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Langkornreis oder Basmatireis
+  en_name: 'TODO: Langkornreis oder Basmatireis'
+  qty: 350
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Zwiebeln
+  en_name: 'TODO: Zwiebeln'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Ingwer, frisch
+  en_name: 'TODO: Ingwer, frisch'
+  qty: 3
+  unit: cm
+  category: Gemüse und Salat
+- de_name: Tomate
+  en_name: 'TODO: Tomate'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Grüne Chilischote
+  en_name: 'TODO: Grüne Chilischote'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Frische Korianderblätter
+  en_name: 'TODO: Frische Korianderblätter'
+  qty: 0.5
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Getrocknete Zitronen (Loomi)
+  en_name: 'TODO: Getrocknete Zitronen (Loomi)'
+  qty: 2
+  unit: Stk
+  category: Gewürze
+- de_name: Pflanzenöl
+  en_name: 'TODO: Pflanzenöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Gehackte Tomaten
+  en_name: 'TODO: Gehackte Tomaten'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 600
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Rosenwasser
+  en_name: 'TODO: Rosenwasser'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Baharat-Gewürzmischung
+  en_name: 'TODO: Baharat-Gewürzmischung'
+  qty: 2.5
+  unit: TL
+  category: Gewürze
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Kurkuma
+  en_name: 'TODO: Kurkuma'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Zimtpulver
+  en_name: 'TODO: Zimtpulver'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Kardamom, gemahlen
+  en_name: 'TODO: Kardamom, gemahlen'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Nelkenpulver
+  en_name: 'TODO: Nelkenpulver'
+  qty: 0.25
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Hähnchen mit Baharat, Kurkuma, Kreuzkümmel, Salz und Pfeffer einreiben. Getrocknete Zitronen einstechen.
+- |-
+  Öl in einem großen Topf erhitzen. Hähnchen von allen Seiten goldbraun anbraten. Herausnehmen.
+- |-
+  Butter zugeben. Fein gewürfelte Zwiebeln 10 Minuten goldbraun braten. Knoblauch und geriebenen Ingwer einrühren. Gehackte Chili dazugeben.
+- |-
+  Zimtpulver, Kardamom und Nelken einstreuen, 1 Minute rösten. Tomatenmark kurz mitrösten. Gehackte Tomaten und Dosentomaten hinzufügen, 5 Minuten köcheln.
+- |-
+  Hühnerbrühe und eingestochene Zitronen dazugeben. Hähnchen zurück in den Topf legen. Abdecken und 30 Minuten bei niedriger Hitze schmoren. Hähnchen herausnehmen, Brühe aufbewahren.
+- |-
+  Reis waschen. In der Gewürzbrühe (ca. 600 ml, bei Bedarf mit Wasser auffüllen) 18 Minuten garen. Rosenwasser kurz vor dem Servieren einrühren. Hähnchen auf dem Reis anrichten, mit Koriander bestreuen.
+en_steps:
+- |-
+  TODO: Hähnchen mit Baharat, Kurkuma, Kreuzkümmel, Salz und Pfeffer einreiben. Getrocknete Zitronen einstechen.
+- |-
+  TODO: Öl in einem großen Topf erhitzen. Hähnchen von allen Seiten goldbraun anbraten. Herausnehmen.
+- |-
+  TODO: Butter zugeben. Fein gewürfelte Zwiebeln 10 Minuten goldbraun braten. Knoblauch und geriebenen Ingwer einrühren. Gehackte Chili dazugeben.
+- |-
+  TODO: Zimtpulver, Kardamom und Nelken einstreuen, 1 Minute rösten. Tomatenmark kurz mitrösten. Gehackte Tomaten und Dosentomaten hinzufügen, 5 Minuten köcheln.
+- |-
+  TODO: Hühnerbrühe und eingestochene Zitronen dazugeben. Hähnchen zurück in den Topf legen. Abdecken und 30 Minuten bei niedriger Hitze schmoren. Hähnchen herausnehmen, Brühe aufbewahren.
+- |-
+  TODO: Reis waschen. In der Gewürzbrühe (ca. 600 ml, bei Bedarf mit Wasser auffüllen) 18 Minuten garen. Rosenwasser kurz vor dem Servieren einrühren. Hähnchen auf dem Reis anrichten, mit Koriander bestreuen.

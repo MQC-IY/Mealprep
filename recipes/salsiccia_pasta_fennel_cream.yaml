@@ -1,0 +1,111 @@
+id: salsiccia_pasta_fennel_cream
+pool: lunch
+healthy: false
+quick: false
+next_day: false
+meals: 2
+de:
+  title: Salsiccia-Pasta mit Fenchel und Sahne
+  summary: |-
+    Herzhafte italienische Bratwurst mit karamellisiertem Fenchel, Weißwein und Sahne – sämige Pasta, die wirklich satt macht.
+en:
+  title: 'TODO: Salsiccia-Pasta mit Fenchel und Sahne'
+  summary: |-
+    TODO: Herzhafte italienische Bratwurst mit karamellisiertem Fenchel, Weißwein und Sahne – sämige Pasta, die wirklich satt macht.
+ingredients:
+- de_name: Rigatoni oder Penne rigate
+  en_name: 'TODO: Rigatoni oder Penne rigate'
+  qty: 500
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Salsiccia (grobe Bratwurst, Haut entfernt)
+  en_name: 'TODO: Salsiccia (grobe Bratwurst, Haut entfernt)'
+  qty: 500
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Fenchelknollen
+  en_name: 'TODO: Fenchelknollen'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Schalotten
+  en_name: 'TODO: Schalotten'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Frischer Thymian
+  en_name: 'TODO: Frischer Thymian'
+  qty: 4
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Trockener Weißwein
+  en_name: 'TODO: Trockener Weißwein'
+  qty: 200
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Schlagsahne
+  en_name: 'TODO: Schlagsahne'
+  qty: 200
+  unit: ml
+  category: Protein und Milchprodukte
+- de_name: Parmigiano Reggiano (gerieben)
+  en_name: 'TODO: Parmigiano Reggiano (gerieben)'
+  qty: 80
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Fenchelsamen
+  en_name: 'TODO: Fenchelsamen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken (Peperoncino)
+  en_name: 'TODO: Chiliflocken (Peperoncino)'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Meersalz
+  en_name: 'TODO: Meersalz'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Salzwasser für die Pasta aufsetzen. Fenchelknollen vierteln, Strunk keilförmig herausschneiden, dann in ca. 5 mm dünne Streifen schneiden. Fenchelgrün für die Garnitur aufheben. Schalotten fein würfeln, Knoblauch hacken.
+- |-
+  Olivenöl in einer tiefen, breiten Pfanne bei mittelhoher Hitze erhitzen. Salsicciamasse hineingeben und mit einem Holzlöffel in grobe Stücke brechen. Kräftig braten, bis die Ränder karamellisiert und knusprig sind, ca. 8 Min. Herausnehmen und beiseitestellen.
+- |-
+  Im gleichen Fett Schalotten und Fenchel zufügen. Fenchelsamen und Chiliflocken einrühren. Bei mittlerer Hitze 10–12 Min. braten, bis der Fenchel weich und leicht goldbraun ist. Knoblauch und Thymian zufügen, 1 Min. mitbraten.
+- |-
+  Weißwein angießen, Röststoffe lösen, auf die Hälfte einkochen lassen, ca. 3 Min. Salsiccia zurück in die Pfanne geben. Sahne einrühren, aufkochen, dann bei kleiner Hitze 5 Min. sämig einköcheln lassen.
+- |-
+  Rigatoni nach Packungsangabe al dente kochen. 150 ml Nudelkochwasser abschöpfen, dann abtropfen. Pasta direkt in die Sauce geben, gut durchschwenken. Bei Bedarf Nudelwasser zufügen, damit die Sauce an den Nudeln haftet.
+- |-
+  Vom Herd nehmen, Parmigiano unterrühren. Kräftig mit Salz, Pfeffer und Chiliflocken abschmecken. Mit gehacktem Fenchelgrün bestreut sofort servieren.
+en_steps:
+- |-
+  TODO: Salzwasser für die Pasta aufsetzen. Fenchelknollen vierteln, Strunk keilförmig herausschneiden, dann in ca. 5 mm dünne Streifen schneiden. Fenchelgrün für die Garnitur aufheben. Schalotten fein würfeln, Knoblauch hacken.
+- |-
+  TODO: Olivenöl in einer tiefen, breiten Pfanne bei mittelhoher Hitze erhitzen. Salsicciamasse hineingeben und mit einem Holzlöffel in grobe Stücke brechen. Kräftig braten, bis die Ränder karamellisiert und knusprig sind, ca. 8 Min. Herausnehmen und beiseitestellen.
+- |-
+  TODO: Im gleichen Fett Schalotten und Fenchel zufügen. Fenchelsamen und Chiliflocken einrühren. Bei mittlerer Hitze 10–12 Min. braten, bis der Fenchel weich und leicht goldbraun ist. Knoblauch und Thymian zufügen, 1 Min. mitbraten.
+- |-
+  TODO: Weißwein angießen, Röststoffe lösen, auf die Hälfte einkochen lassen, ca. 3 Min. Salsiccia zurück in die Pfanne geben. Sahne einrühren, aufkochen, dann bei kleiner Hitze 5 Min. sämig einköcheln lassen.
+- |-
+  TODO: Rigatoni nach Packungsangabe al dente kochen. 150 ml Nudelkochwasser abschöpfen, dann abtropfen. Pasta direkt in die Sauce geben, gut durchschwenken. Bei Bedarf Nudelwasser zufügen, damit die Sauce an den Nudeln haftet.
+- |-
+  TODO: Vom Herd nehmen, Parmigiano unterrühren. Kräftig mit Salz, Pfeffer und Chiliflocken abschmecken. Mit gehacktem Fenchelgrün bestreut sofort servieren.

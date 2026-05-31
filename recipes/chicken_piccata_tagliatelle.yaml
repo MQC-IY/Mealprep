@@ -1,0 +1,105 @@
+id: chicken_piccata_tagliatelle
+pool: lunch
+healthy: false
+quick: false
+next_day: false
+meals: 2
+de:
+  title: Hähnchen-Piccata mit Zitronen-Kapern-Sauce und Tagliatelle
+  summary: |-
+    Dünne Hähnchenschnitzel in Zitronenbutter mit Kapern, dazu Tagliatelle al dente – ein klassisches italienisches Gericht, das sofort serviert werden muss.
+en:
+  title: 'TODO: Hähnchen-Piccata mit Zitronen-Kapern-Sauce und Tagliatelle'
+  summary: |-
+    TODO: Dünne Hähnchenschnitzel in Zitronenbutter mit Kapern, dazu Tagliatelle al dente – ein klassisches italienisches Gericht, das sofort serviert werden muss.
+ingredients:
+- de_name: Hähnchenbrustfilets
+  en_name: 'TODO: Hähnchenbrustfilets'
+  qty: 800
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Tagliatelle
+  en_name: 'TODO: Tagliatelle'
+  qty: 500
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Butter
+  en_name: 'TODO: Butter'
+  qty: 120
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Zitronen
+  en_name: 'TODO: Zitronen'
+  qty: 3
+  unit: Stk
+  category: Obst
+- de_name: Kapern
+  en_name: 'TODO: Kapern'
+  qty: 60
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Mehl
+  en_name: 'TODO: Mehl'
+  qty: 80
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 4
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 200
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 3
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Glatte Petersilie
+  en_name: 'TODO: Glatte Petersilie'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Hähnchenbrustfilets horizontal halbieren, sodass 8 dünne Schnitzel entstehen. Jedes Schnitzel zwischen zwei Lagen Frischhaltefolie legen und mit einem Fleischklopfer auf ca. 5 mm flach klopfen. Mit Salz und Pfeffer würzen.
+- |-
+  Mehl auf einen flachen Teller geben. Die Schnitzel beidseitig im Mehl wenden und überschüssiges Mehl abschütteln.
+- |-
+  Tagliatelle in reichlich gesalzenem Wasser nach Packungsanweisung al dente kochen. Kurz vor dem Abgießen eine Tasse Nudelwasser auffangen, dann abgießen.
+- |-
+  Olivenöl und 30 g Butter in einer großen Pfanne bei mittlerer bis hoher Hitze erhitzen. Schnitzel portionsweise 2–3 Minuten pro Seite goldbraun braten. Fertige Schnitzel warm stellen.
+- |-
+  Knoblauch in der gleichen Pfanne 30 Sekunden anschwitzen. Hühnerbrühe und Saft von 2,5 Zitronen angießen, aufkochen und den Bratensatz lösen. Auf die Hälfte reduzieren.
+- |-
+  Pfanne vom Herd nehmen, die restliche Butter (90 g) in kleinen Würfeln einrühren, bis eine sämige Sauce entsteht. Kapern und gehackte Petersilie einrühren. Mit Salz, Pfeffer und Zitronenschale abschmecken.
+- |-
+  Tagliatelle mit etwas Nudelwasser in die Sauce schwenken, bis sie glänzen. Schnitzel daraufsetzen, sofort auf vorgewärmten Tellern anrichten und mit Zitronenscheiben und Petersilie garnieren.
+en_steps:
+- |-
+  TODO: Hähnchenbrustfilets horizontal halbieren, sodass 8 dünne Schnitzel entstehen. Jedes Schnitzel zwischen zwei Lagen Frischhaltefolie legen und mit einem Fleischklopfer auf ca. 5 mm flach klopfen. Mit Salz und Pfeffer würzen.
+- |-
+  TODO: Mehl auf einen flachen Teller geben. Die Schnitzel beidseitig im Mehl wenden und überschüssiges Mehl abschütteln.
+- |-
+  TODO: Tagliatelle in reichlich gesalzenem Wasser nach Packungsanweisung al dente kochen. Kurz vor dem Abgießen eine Tasse Nudelwasser auffangen, dann abgießen.
+- |-
+  TODO: Olivenöl und 30 g Butter in einer großen Pfanne bei mittlerer bis hoher Hitze erhitzen. Schnitzel portionsweise 2–3 Minuten pro Seite goldbraun braten. Fertige Schnitzel warm stellen.
+- |-
+  TODO: Knoblauch in der gleichen Pfanne 30 Sekunden anschwitzen. Hühnerbrühe und Saft von 2,5 Zitronen angießen, aufkochen und den Bratensatz lösen. Auf die Hälfte reduzieren.
+- |-
+  TODO: Pfanne vom Herd nehmen, die restliche Butter (90 g) in kleinen Würfeln einrühren, bis eine sämige Sauce entsteht. Kapern und gehackte Petersilie einrühren. Mit Salz, Pfeffer und Zitronenschale abschmecken.
+- |-
+  TODO: Tagliatelle mit etwas Nudelwasser in die Sauce schwenken, bis sie glänzen. Schnitzel daraufsetzen, sofort auf vorgewärmten Tellern anrichten und mit Zitronenscheiben und Petersilie garnieren.

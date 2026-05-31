@@ -1,0 +1,136 @@
+id: southeast_asian_peanut_chicken
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Südostasiatischer Hähnchen-Erdnuss-Eintopf
+  summary: |-
+    Cremiger Erdnuss-Kokos-Eintopf mit Hähnchen, Paprika und Süßkartoffel – inspiriert von indonesisch-malaiischer Küche mit Galgant, Zitronengras und Chili.
+en:
+  title: 'TODO: Südostasiatischer Hähnchen-Erdnuss-Eintopf'
+  summary: |-
+    TODO: Cremiger Erdnuss-Kokos-Eintopf mit Hähnchen, Paprika und Süßkartoffel – inspiriert von indonesisch-malaiischer Küche mit Galgant, Zitronengras und Chili.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 700
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Kokosmilch
+  en_name: 'TODO: Kokosmilch'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Erdnussmus
+  en_name: 'TODO: Erdnussmus'
+  qty: 4
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 400
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Sojasauce
+  en_name: 'TODO: Sojasauce'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Rapsöl
+  en_name: 'TODO: Rapsöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Jasminreis
+  en_name: 'TODO: Jasminreis'
+  qty: 300
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Süßkartoffel
+  en_name: 'TODO: Süßkartoffel'
+  qty: 400
+  unit: g
+  category: Gemüse und Salat
+- de_name: Paprika
+  en_name: 'TODO: Paprika'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 4
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 3
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Ingwer, frisch
+  en_name: 'TODO: Ingwer, frisch'
+  qty: 25
+  unit: g
+  category: Gemüse und Salat
+- de_name: Zitronengras
+  en_name: 'TODO: Zitronengras'
+  qty: 1
+  unit: Stange
+  category: Gemüse und Salat
+- de_name: Rote Chilischote
+  en_name: 'TODO: Rote Chilischote'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Limette
+  en_name: 'TODO: Limette'
+  qty: 2
+  unit: Stk
+  category: Obst
+- de_name: Kurkuma
+  en_name: 'TODO: Kurkuma'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Koriander, gemahlen
+  en_name: 'TODO: Koriander, gemahlen'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Galgant oder Ingwerpulver
+  en_name: 'TODO: Galgant oder Ingwerpulver'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Hähnchen in Würfel schneiden. Süßkartoffel schälen und würfeln. Zitronengras anquetschen.
+- |-
+  Öl erhitzen. Knoblauch, Ingwer und frischen Chili 2 Minuten anbraten. Zitronengras zugeben.
+- |-
+  Hähnchen anbraten bis außen weiß. Kurkuma, Koriander, Galgant und Chiliflocken einrühren und 1 Minute rösten.
+- |-
+  Brühe, Kokosmilch, Erdnussmus und Sojasauce zugießen. Süßkartoffel und Paprika hinzufügen.
+- |-
+  Auf mittlerer Hitze 20–25 Minuten köcheln lassen, bis Süßkartoffel weich und Sauce eingedickt ist.
+- |-
+  Reis kochen. Mit Limettensaft abschmecken. Mit Frühlingszwiebeln und frischem Chili garnieren.
+en_steps:
+- |-
+  TODO: Hähnchen in Würfel schneiden. Süßkartoffel schälen und würfeln. Zitronengras anquetschen.
+- |-
+  TODO: Öl erhitzen. Knoblauch, Ingwer und frischen Chili 2 Minuten anbraten. Zitronengras zugeben.
+- |-
+  TODO: Hähnchen anbraten bis außen weiß. Kurkuma, Koriander, Galgant und Chiliflocken einrühren und 1 Minute rösten.
+- |-
+  TODO: Brühe, Kokosmilch, Erdnussmus und Sojasauce zugießen. Süßkartoffel und Paprika hinzufügen.
+- |-
+  TODO: Auf mittlerer Hitze 20–25 Minuten köcheln lassen, bis Süßkartoffel weich und Sauce eingedickt ist.
+- |-
+  TODO: Reis kochen. Mit Limettensaft abschmecken. Mit Frühlingszwiebeln und frischem Chili garnieren.

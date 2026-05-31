@@ -1,0 +1,63 @@
+id: chicken_zucchini_polenta
+pool: lunch
+healthy: true
+quick: true
+next_day: false
+quick_minutes: 20
+meals: 3
+de:
+  title: Hähnchen-Zucchini mit cremiger Polenta
+  summary: Schnelles Gericht mit Hähnchen, Zucchini und weicher Polenta.
+en:
+  title: 'TODO: Hähnchen-Zucchini mit cremiger Polenta'
+  summary: 'TODO: Schnelles Gericht mit Hähnchen, Zucchini und weicher Polenta.'
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 750
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Polenta
+  en_name: 'TODO: Polenta'
+  qty: 250
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Zucchini
+  en_name: 'TODO: Zucchini'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Möhren
+  en_name: 'TODO: Möhren'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Naturjoghurt
+  en_name: 'TODO: Naturjoghurt'
+  qty: 100
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Paprika edelsüß
+  en_name: 'TODO: Paprika edelsüß'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Polenta weich rühren.
+- Hähnchen in wenig Öl scharf anbraten.
+- Zucchini und Möhren klein schneiden und weich garen, etwas Joghurt unterrühren.
+en_steps:
+- 'TODO: Polenta weich rühren.'
+- 'TODO: Hähnchen in wenig Öl scharf anbraten.'
+- |-
+  TODO: Zucchini und Möhren klein schneiden und weich garen, etwas Joghurt unterrühren.

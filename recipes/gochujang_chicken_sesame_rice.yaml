@@ -1,0 +1,118 @@
+id: gochujang_chicken_sesame_rice
+pool: lunch
+healthy: false
+quick: true
+next_day: false
+quick_minutes: 30
+meals: 2
+de:
+  title: Gochujang-Hähnchen mit Sesam-Reis
+  summary: |-
+    Mariniertes Gochujang-Hähnchen, ofengegart oder in der Pfanne glasiert, auf nussigem Sesam-Reis mit frischen Gurken und Frühlingszwiebeln.
+en:
+  title: 'TODO: Gochujang-Hähnchen mit Sesam-Reis'
+  summary: |-
+    TODO: Mariniertes Gochujang-Hähnchen, ofengegart oder in der Pfanne glasiert, auf nussigem Sesam-Reis mit frischen Gurken und Frühlingszwiebeln.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 800
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Gurke
+  en_name: 'TODO: Gurke'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 5
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Ingwer (frisch)
+  en_name: 'TODO: Ingwer (frisch)'
+  qty: 15
+  unit: g
+  category: Gemüse und Salat
+- de_name: Kurzkörniger Reis
+  en_name: 'TODO: Kurzkörniger Reis'
+  qty: 400
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Gochujang
+  en_name: 'TODO: Gochujang'
+  qty: 4
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sojasoße
+  en_name: 'TODO: Sojasoße'
+  qty: 4
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sesamöl
+  en_name: 'TODO: Sesamöl'
+  qty: 4
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Honig
+  en_name: 'TODO: Honig'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Reisessig
+  en_name: 'TODO: Reisessig'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Pflanzenöl
+  en_name: 'TODO: Pflanzenöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sesamkörner (schwarz und weiß gemischt)
+  en_name: 'TODO: Sesamkörner (schwarz und weiß gemischt)'
+  qty: 4
+  unit: EL
+  category: Gewürze
+- de_name: Gochugaru
+  en_name: 'TODO: Gochugaru'
+  qty: 1
+  unit: EL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Gochujang-Marinade: Gochujang, Sojasoße, Honig, Reisessig, Sesamöl, Knoblauch (gepresst), Ingwer (gerieben), Gochugaru und Pfeffer verrühren.
+- |-
+  Hähnchenbrust in gleich große Stücke schneiden oder ganz lassen. In der Marinade mindestens 30 Minuten einlegen.
+- |-
+  Backofen auf 200 °C vorheizen. Hähnchen auf einem mit Backpapier belegten Blech 20–22 Minuten garen, nach der Hälfte einmal wenden und erneut bestreichen.
+- |-
+  Reis mit 700 ml Wasser garen. Nach dem Abgießen 2 EL Sesamöl und die Hälfte der Sesamkörner unterheben.
+- Gurke in dünne Halbmonde schneiden, mit 1 EL Reisessig und Prise Salz mischen.
+- Hähnchen aus dem Ofen nehmen und 5 Minuten ruhen lassen.
+- |-
+  Sesam-Reis in Schüsseln geben. Hähnchen darauflegen, Gurkensalat daneben arrangieren.
+en_steps:
+- |-
+  TODO: Gochujang-Marinade: Gochujang, Sojasoße, Honig, Reisessig, Sesamöl, Knoblauch (gepresst), Ingwer (gerieben), Gochugaru und Pfeffer verrühren.
+- |-
+  TODO: Hähnchenbrust in gleich große Stücke schneiden oder ganz lassen. In der Marinade mindestens 30 Minuten einlegen.
+- |-
+  TODO: Backofen auf 200 °C vorheizen. Hähnchen auf einem mit Backpapier belegten Blech 20–22 Minuten garen, nach der Hälfte einmal wenden und erneut bestreichen.
+- |-
+  TODO: Reis mit 700 ml Wasser garen. Nach dem Abgießen 2 EL Sesamöl und die Hälfte der Sesamkörner unterheben.
+- |-
+  TODO: Gurke in dünne Halbmonde schneiden, mit 1 EL Reisessig und Prise Salz mischen.
+- 'TODO: Hähnchen aus dem Ofen nehmen und 5 Minuten ruhen lassen.'
+- |-
+  TODO: Sesam-Reis in Schüsseln geben. Hähnchen darauflegen, Gurkensalat daneben arrangieren.

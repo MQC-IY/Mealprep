@@ -1,0 +1,116 @@
+id: pasta_con_sarde
+pool: lunch
+healthy: true
+quick: false
+next_day: false
+meals: 2
+de:
+  title: Pasta con le Sarde – Nudeln mit Sardinen und Fenchel
+  summary: |-
+    Sizilianische Pasta mit frischen Sardinen, Fenchel, Pinienkerne, Rosinen und Safran – ein einzigartiges Zusammenspiel aus süß, salzig und anisartig.
+en:
+  title: 'TODO: Pasta con le Sarde – Nudeln mit Sardinen und Fenchel'
+  summary: |-
+    TODO: Sizilianische Pasta mit frischen Sardinen, Fenchel, Pinienkerne, Rosinen und Safran – ein einzigartiges Zusammenspiel aus süß, salzig und anisartig.
+ingredients:
+- de_name: Sardinen frisch oder aus der Dose in Öl
+  en_name: 'TODO: Sardinen frisch oder aus der Dose in Öl'
+  qty: 300
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Spaghetti oder Bucatini
+  en_name: 'TODO: Spaghetti oder Bucatini'
+  qty: 300
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Fenchelknolle
+  en_name: 'TODO: Fenchelknolle'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 2
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Pinienkerne
+  en_name: 'TODO: Pinienkerne'
+  qty: 40
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Rosinen
+  en_name: 'TODO: Rosinen'
+  qty: 30
+  unit: g
+  category: Obst
+- de_name: Safranfäden
+  en_name: 'TODO: Safranfäden'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 4
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sardellenpaste oder gehackte Sardellenfilets
+  en_name: 'TODO: Sardellenpaste oder gehackte Sardellenfilets'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Peperoncino gemahlen
+  en_name: 'TODO: Peperoncino gemahlen'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Geröstete Semmelbrösel (Mollica)
+  en_name: 'TODO: Geröstete Semmelbrösel (Mollica)'
+  qty: 40
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+de_steps:
+- |-
+  Safranfäden in 3 EL warmem Wasser einweichen. Rosinen in lauwarmem Wasser 10 Minuten einweichen, abgießen.
+- |-
+  Fenchelknolle vierteln, Strunk entfernen und in feine Streifen schneiden. Fenchelgrün aufheben. Zwiebel und Knoblauch fein hacken.
+- Pinienkerne in einer trockenen Pfanne goldbraun rösten. Herausnehmen.
+- |-
+  Olivenöl in einer großen Pfanne erhitzen. Zwiebel 5 Minuten anschwitzen. Knoblauch, Sardellenpaste und Peperoncino dazugeben, 1 Minute weiterbraten.
+- |-
+  Fenchelstreifen einrühren, 8 Minuten bei mittlerer Hitze weich schmoren. Safranwasser, Rosinen und Pinienkerne dazugeben.
+- |-
+  Sardinen (wenn frisch: grob zerteilt; wenn aus der Dose: abgetropft und grob zerbröckelt) einlegen. Nur 3–4 Minuten sanft erhitzen.
+- Pasta in Salzwasser al dente kochen. Etwas Kochwasser aufheben, dann abgießen.
+- |-
+  Pasta mit der Sardinensauce vermengen. Mit gerösteten Semmelbröseln und fein gehacktem Fenchelgrün bestreuen.
+en_steps:
+- |-
+  TODO: Safranfäden in 3 EL warmem Wasser einweichen. Rosinen in lauwarmem Wasser 10 Minuten einweichen, abgießen.
+- |-
+  TODO: Fenchelknolle vierteln, Strunk entfernen und in feine Streifen schneiden. Fenchelgrün aufheben. Zwiebel und Knoblauch fein hacken.
+- 'TODO: Pinienkerne in einer trockenen Pfanne goldbraun rösten. Herausnehmen.'
+- |-
+  TODO: Olivenöl in einer großen Pfanne erhitzen. Zwiebel 5 Minuten anschwitzen. Knoblauch, Sardellenpaste und Peperoncino dazugeben, 1 Minute weiterbraten.
+- |-
+  TODO: Fenchelstreifen einrühren, 8 Minuten bei mittlerer Hitze weich schmoren. Safranwasser, Rosinen und Pinienkerne dazugeben.
+- |-
+  TODO: Sardinen (wenn frisch: grob zerteilt; wenn aus der Dose: abgetropft und grob zerbröckelt) einlegen. Nur 3–4 Minuten sanft erhitzen.
+- |-
+  TODO: Pasta in Salzwasser al dente kochen. Etwas Kochwasser aufheben, dann abgießen.
+- |-
+  TODO: Pasta mit der Sardinensauce vermengen. Mit gerösteten Semmelbröseln und fein gehacktem Fenchelgrün bestreuen.

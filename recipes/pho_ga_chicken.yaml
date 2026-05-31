@@ -1,0 +1,128 @@
+id: pho_ga_chicken
+pool: lunch
+healthy: true
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Hähnchen-Pho mit Reisnudeln
+  summary: |-
+    Duftende vietnamesische Hühnersuppe mit klarer Gewürzbrühe, zarten Reisnudeln und frischen Kräutern.
+en:
+  title: 'TODO: Hähnchen-Pho mit Reisnudeln'
+  summary: |-
+    TODO: Duftende vietnamesische Hühnersuppe mit klarer Gewürzbrühe, zarten Reisnudeln und frischen Kräutern.
+ingredients:
+- de_name: Hähnchenschenkel (mit Knochen)
+  en_name: 'TODO: Hähnchenschenkel (mit Knochen)'
+  qty: 600
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Reisnudeln (Pho-Nudeln, flach)
+  en_name: 'TODO: Reisnudeln (Pho-Nudeln, flach)'
+  qty: 200
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Ingwer, frisch
+  en_name: 'TODO: Ingwer, frisch'
+  qty: 5
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 4
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Sojasprossen
+  en_name: 'TODO: Sojasprossen'
+  qty: 80
+  unit: g
+  category: Gemüse und Salat
+- de_name: Frischer Koriander
+  en_name: 'TODO: Frischer Koriander'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Frische rote Chili
+  en_name: 'TODO: Frische rote Chili'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Fischsauce
+  en_name: 'TODO: Fischsauce'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Wasser
+  en_name: 'TODO: Wasser'
+  qty: 1.5
+  unit: Liter
+  category: Konserven und Vorrat
+- de_name: Limetten
+  en_name: 'TODO: Limetten'
+  qty: 2
+  unit: Stk
+  category: Obst
+- de_name: Sternanis
+  en_name: 'TODO: Sternanis'
+  qty: 3
+  unit: Stk
+  category: Gewürze
+- de_name: Zimtstange
+  en_name: 'TODO: Zimtstange'
+  qty: 1
+  unit: Stk
+  category: Gewürze
+- de_name: Gewürznelken
+  en_name: 'TODO: Gewürznelken'
+  qty: 3
+  unit: Stk
+  category: Gewürze
+- de_name: Koriandersamen
+  en_name: 'TODO: Koriandersamen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Zwiebeln und Ingwer über einer offenen Flamme oder unter dem Backofengrill 5–7 Minuten anrösten, bis sie leicht verkohlt sind. Oberfläche abkratzen.
+- |-
+  Hähnchenschenkel in kaltem Wasser kurz aufkochen, abgießen und abspülen (Blanchierschritt für klare Brühe).
+- |-
+  Sternanis, Zimtstange, Nelken und Koriandersamen in einer trockenen Pfanne 2 Minuten anrösten.
+- |-
+  Hähnchen, Zwiebeln, Ingwer, Gewürze und 1,5 Liter frisches Wasser in einem großen Topf aufkochen. Schaum abschöpfen.
+- |-
+  Bei kleiner Hitze 45–60 Minuten ziehen lassen. Hähnchen herausnehmen, Fleisch vom Knochen lösen und in Stücke zupfen.
+- Brühe durch ein Sieb gießen, mit Fischsauce und Salz kräftig abschmecken.
+- Reisnudeln nach Packungsanweisung garen.
+- Nudeln in tiefe Schalen verteilen, Hähnchen darüber geben, heiße Brühe angießen.
+- |-
+  Mit Sojasprossen, Frühlingszwiebeln, Koriander, frischer Chili und Limettenspalten servieren.
+en_steps:
+- |-
+  TODO: Zwiebeln und Ingwer über einer offenen Flamme oder unter dem Backofengrill 5–7 Minuten anrösten, bis sie leicht verkohlt sind. Oberfläche abkratzen.
+- |-
+  TODO: Hähnchenschenkel in kaltem Wasser kurz aufkochen, abgießen und abspülen (Blanchierschritt für klare Brühe).
+- |-
+  TODO: Sternanis, Zimtstange, Nelken und Koriandersamen in einer trockenen Pfanne 2 Minuten anrösten.
+- |-
+  TODO: Hähnchen, Zwiebeln, Ingwer, Gewürze und 1,5 Liter frisches Wasser in einem großen Topf aufkochen. Schaum abschöpfen.
+- |-
+  TODO: Bei kleiner Hitze 45–60 Minuten ziehen lassen. Hähnchen herausnehmen, Fleisch vom Knochen lösen und in Stücke zupfen.
+- 'TODO: Brühe durch ein Sieb gießen, mit Fischsauce und Salz kräftig abschmecken.'
+- 'TODO: Reisnudeln nach Packungsanweisung garen.'
+- |-
+  TODO: Nudeln in tiefe Schalen verteilen, Hähnchen darüber geben, heiße Brühe angießen.
+- |-
+  TODO: Mit Sojasprossen, Frühlingszwiebeln, Koriander, frischer Chili und Limettenspalten servieren.

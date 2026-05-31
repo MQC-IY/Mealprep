@@ -1,0 +1,128 @@
+id: chinese_cashew_chicken
+pool: lunch
+healthy: false
+quick: true
+next_day: false
+quick_minutes: 25
+meals: 2
+de:
+  title: Chinesisches Hähnchen mit Cashews
+  summary: |-
+    Knuspriges Hähnchen mit gerösteten Cashews, Paprika und einer würzig-süßen Soja-Austernsauce-Glasur.
+en:
+  title: 'TODO: Chinesisches Hähnchen mit Cashews'
+  summary: |-
+    TODO: Knuspriges Hähnchen mit gerösteten Cashews, Paprika und einer würzig-süßen Soja-Austernsauce-Glasur.
+ingredients:
+- de_name: Hähnchenbrustfilet
+  en_name: 'TODO: Hähnchenbrustfilet'
+  qty: 400
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Jasminreis
+  en_name: 'TODO: Jasminreis'
+  qty: 200
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Cashewkerne (roh oder geröstet)
+  en_name: 'TODO: Cashewkerne (roh oder geröstet)'
+  qty: 80
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 3
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Ingwer, frisch
+  en_name: 'TODO: Ingwer, frisch'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Paprika (rot)
+  en_name: 'TODO: Paprika (rot)'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Paprika (grün)
+  en_name: 'TODO: Paprika (grün)'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Getrocknete rote Chilischoten
+  en_name: 'TODO: Getrocknete rote Chilischoten'
+  qty: 4
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Sojasauce
+  en_name: 'TODO: Sojasauce'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Austernsauce
+  en_name: 'TODO: Austernsauce'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Shaoxing-Reiswein
+  en_name: 'TODO: Shaoxing-Reiswein'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sesamöl
+  en_name: 'TODO: Sesamöl'
+  qty: 1
+  unit: TL
+  category: Konserven und Vorrat
+- de_name: Speisestärke
+  en_name: 'TODO: Speisestärke'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Erdnussöl
+  en_name: 'TODO: Erdnussöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 100
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Weißer Pfeffer, gemahlen
+  en_name: 'TODO: Weißer Pfeffer, gemahlen'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Jasminreis waschen und kochen.
+- |-
+  Hähnchen in 2-cm-Würfel schneiden. Mit Stärke (1 EL), 1 EL Sojasauce, Shaoxing-Wein und Pfeffer 15 Minuten marinieren.
+- |-
+  Sauce: restliche Sojasauce, Austernsauce, Hühnerbrühe und restliche Stärke (1 EL, in Wasser aufgelöst) verrühren.
+- 'Falls rohe Cashews: in trockenem Wok goldbraun rösten und beiseite stellen.'
+- |-
+  Öl im Wok erhitzen. Getrocknete Chilis 30 Sek. anbraten. Hähnchen portionsweise scharf braten (3–4 Min.).
+- Knoblauch, Ingwer und Paprika zugeben. 2 Minuten mitbraten.
+- |-
+  Sauce angießen, aufkochen und eindicken lassen. Cashews und Frühlingszwiebeln unterrühren.
+- Sesamöl beträufeln und mit Reis servieren.
+en_steps:
+- 'TODO: Jasminreis waschen und kochen.'
+- |-
+  TODO: Hähnchen in 2-cm-Würfel schneiden. Mit Stärke (1 EL), 1 EL Sojasauce, Shaoxing-Wein und Pfeffer 15 Minuten marinieren.
+- |-
+  TODO: Sauce: restliche Sojasauce, Austernsauce, Hühnerbrühe und restliche Stärke (1 EL, in Wasser aufgelöst) verrühren.
+- |-
+  TODO: Falls rohe Cashews: in trockenem Wok goldbraun rösten und beiseite stellen.
+- |-
+  TODO: Öl im Wok erhitzen. Getrocknete Chilis 30 Sek. anbraten. Hähnchen portionsweise scharf braten (3–4 Min.).
+- 'TODO: Knoblauch, Ingwer und Paprika zugeben. 2 Minuten mitbraten.'
+- |-
+  TODO: Sauce angießen, aufkochen und eindicken lassen. Cashews und Frühlingszwiebeln unterrühren.
+- 'TODO: Sesamöl beträufeln und mit Reis servieren.'

@@ -1,0 +1,111 @@
+id: quick_tikka_bowl
+pool: lunch
+healthy: false
+quick: true
+next_day: true
+quick_minutes: 28
+meals: 2
+de:
+  title: Hähnchen-Tikka-Masala-Bowl (schnell)
+  summary: |-
+    Schnelle Variante des Klassikers: Hähnchen in cremiger Tomaten-Kokos-Tikka-Sauce mit intensiven Gewürzen, fertig in unter 30 Minuten – kein langes Marinieren nötig.
+en:
+  title: 'TODO: Hähnchen-Tikka-Masala-Bowl (schnell)'
+  summary: |-
+    TODO: Schnelle Variante des Klassikers: Hähnchen in cremiger Tomaten-Kokos-Tikka-Sauce mit intensiven Gewürzen, fertig in unter 30 Minuten – kein langes Marinieren nötig.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 750
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Kokosmilch
+  en_name: 'TODO: Kokosmilch'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Passierte Tomaten
+  en_name: 'TODO: Passierte Tomaten'
+  qty: 400
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Tomatenmark
+  en_name: 'TODO: Tomatenmark'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Rapsöl
+  en_name: 'TODO: Rapsöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Basmatireis
+  en_name: 'TODO: Basmatireis'
+  qty: 300
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Ingwer, frisch
+  en_name: 'TODO: Ingwer, frisch'
+  qty: 25
+  unit: g
+  category: Gemüse und Salat
+- de_name: Koriander, frisch
+  en_name: 'TODO: Koriander, frisch'
+  qty: 0.5
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Garam Masala
+  en_name: 'TODO: Garam Masala'
+  qty: 2.5
+  unit: TL
+  category: Gewürze
+- de_name: Kurkuma
+  en_name: 'TODO: Kurkuma'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Paprika edelsüß
+  en_name: 'TODO: Paprika edelsüß'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Hähnchen in Würfel schneiden. Mit Garam Masala, Kurkuma und Salz direkt in der Pfanne würzen – kein Vormarinieren.
+- Reis gleichzeitig aufsetzen.
+- Hähnchen in heißem Öl scharf anbraten, herausnehmen.
+- |-
+  Im gleichen Topf Zwiebel 5 Minuten braten. Knoblauch, Ingwer, Paprika, Kreuzkümmel und Chiliflocken zugeben, 1 Minute rösten. Tomatenmark einrühren.
+- Passierte Tomaten und Kokosmilch zugießen. 10 Minuten köcheln lassen.
+- |-
+  Hähnchen zurück in die Sauce geben, 5 Minuten mitgaren. Mit Salz und ggf. mehr Chiliflocken abschmecken. Mit Koriander bestreuen.
+en_steps:
+- |-
+  TODO: Hähnchen in Würfel schneiden. Mit Garam Masala, Kurkuma und Salz direkt in der Pfanne würzen – kein Vormarinieren.
+- 'TODO: Reis gleichzeitig aufsetzen.'
+- 'TODO: Hähnchen in heißem Öl scharf anbraten, herausnehmen.'
+- |-
+  TODO: Im gleichen Topf Zwiebel 5 Minuten braten. Knoblauch, Ingwer, Paprika, Kreuzkümmel und Chiliflocken zugeben, 1 Minute rösten. Tomatenmark einrühren.
+- 'TODO: Passierte Tomaten und Kokosmilch zugießen. 10 Minuten köcheln lassen.'
+- |-
+  TODO: Hähnchen zurück in die Sauce geben, 5 Minuten mitgaren. Mit Salz und ggf. mehr Chiliflocken abschmecken. Mit Koriander bestreuen.

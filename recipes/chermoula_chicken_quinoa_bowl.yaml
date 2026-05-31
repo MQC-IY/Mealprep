@@ -1,0 +1,116 @@
+id: chermoula_chicken_quinoa_bowl
+pool: lunch
+healthy: true
+quick: false
+next_day: false
+meals: 2
+de:
+  title: Hähnchen-Chermoula-Bowl mit Quinoa
+  summary: |-
+    Nordafrikanische Chermoula-Marinade aus Koriander, Petersilie, Kreuzkümmel und Zitrone verleiht dem Hähnchen intensive Frische auf Quinoa mit geröstetem Gemüse.
+en:
+  title: 'TODO: Hähnchen-Chermoula-Bowl mit Quinoa'
+  summary: |-
+    TODO: Nordafrikanische Chermoula-Marinade aus Koriander, Petersilie, Kreuzkümmel und Zitrone verleiht dem Hähnchen intensive Frische auf Quinoa mit geröstetem Gemüse.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 750
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Quinoa
+  en_name: 'TODO: Quinoa'
+  qty: 280
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Zucchini
+  en_name: 'TODO: Zucchini'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Paprika
+  en_name: 'TODO: Paprika'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Koriander, frisch
+  en_name: 'TODO: Koriander, frisch'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Petersilie, frisch
+  en_name: 'TODO: Petersilie, frisch'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 5
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 500
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Zitrone
+  en_name: 'TODO: Zitrone'
+  qty: 2
+  unit: Stk
+  category: Obst
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Koriander, gemahlen
+  en_name: 'TODO: Koriander, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Paprika edelsüß
+  en_name: 'TODO: Paprika edelsüß'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Kurkuma
+  en_name: 'TODO: Kurkuma'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Chermoula herstellen: Koriander und Petersilie grob hacken, mit Knoblauch, 3 EL Olivenöl, Zitronensaft und -schale, Kreuzkümmel, Koriander gemahlen, Paprika, Chiliflocken und Kurkuma im Mixer zu einer Paste verarbeiten.
+- |-
+  Hähnchen mit der Hälfte der Chermoula einreiben und mindestens 30 Minuten marinieren.
+- |-
+  Quinoa in Brühe nach Packungsanweisung garen. Mit Salz und etwas Zitronensaft abschmecken.
+- |-
+  Zucchini und Paprika in Stücke schneiden, mit 2 EL Olivenöl und Salz mischen, bei 220 °C 20 Minuten rösten.
+- |-
+  Hähnchen in einer heißen Grillpfanne oder unter dem Grill von jeder Seite 6–7 Minuten garen.
+- |-
+  Bowls mit Quinoa füllen, Gemüse und Hähnchen anrichten. Restliche Chermoula als Sauce darübergeben.
+en_steps:
+- |-
+  TODO: Chermoula herstellen: Koriander und Petersilie grob hacken, mit Knoblauch, 3 EL Olivenöl, Zitronensaft und -schale, Kreuzkümmel, Koriander gemahlen, Paprika, Chiliflocken und Kurkuma im Mixer zu einer Paste verarbeiten.
+- |-
+  TODO: Hähnchen mit der Hälfte der Chermoula einreiben und mindestens 30 Minuten marinieren.
+- |-
+  TODO: Quinoa in Brühe nach Packungsanweisung garen. Mit Salz und etwas Zitronensaft abschmecken.
+- |-
+  TODO: Zucchini und Paprika in Stücke schneiden, mit 2 EL Olivenöl und Salz mischen, bei 220 °C 20 Minuten rösten.
+- |-
+  TODO: Hähnchen in einer heißen Grillpfanne oder unter dem Grill von jeder Seite 6–7 Minuten garen.
+- |-
+  TODO: Bowls mit Quinoa füllen, Gemüse und Hähnchen anrichten. Restliche Chermoula als Sauce darübergeben.

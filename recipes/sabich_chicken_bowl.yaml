@@ -1,0 +1,119 @@
+id: sabich_chicken_bowl
+pool: lunch
+healthy: false
+quick: false
+next_day: false
+meals: 2
+de:
+  title: Israelische Sabich-Bowl mit Aubergine und Tahini
+  summary: |-
+    Inspiriert vom israelischen Streetfood: gebratene Aubergine, hart gekochte Eier, Hähnchen, Tahini-Sauce, Amba-Mango-Chutney und knackiger Salat.
+en:
+  title: 'TODO: Israelische Sabich-Bowl mit Aubergine und Tahini'
+  summary: |-
+    TODO: Inspiriert vom israelischen Streetfood: gebratene Aubergine, hart gekochte Eier, Hähnchen, Tahini-Sauce, Amba-Mango-Chutney und knackiger Salat.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 600
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Eier
+  en_name: 'TODO: Eier'
+  qty: 4
+  unit: Stk
+  category: Protein und Milchprodukte
+- de_name: Aubergine
+  en_name: 'TODO: Aubergine'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Tomate
+  en_name: 'TODO: Tomate'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Petersilie, frisch
+  en_name: 'TODO: Petersilie, frisch'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 3
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Tahini
+  en_name: 'TODO: Tahini'
+  qty: 4
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 4
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Mango-Chutney (Amba)
+  en_name: 'TODO: Mango-Chutney (Amba)'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Fladenbrote
+  en_name: 'TODO: Fladenbrote'
+  qty: 4
+  unit: Stk
+  category: Kohlenhydrate und Sattmacher
+- de_name: Zitrone
+  en_name: 'TODO: Zitrone'
+  qty: 2
+  unit: Stk
+  category: Obst
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+- de_name: Kurkuma
+  en_name: 'TODO: Kurkuma'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Paprika edelsüß
+  en_name: 'TODO: Paprika edelsüß'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Sumach
+  en_name: 'TODO: Sumach'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- Eier hart kochen (10 Minuten), abschrecken, pellen und halbieren.
+- |-
+  Auberginen in 1,5 cm dicke Scheiben schneiden, salzen, 10 Minuten ziehen lassen, abtrocknen. In reichlich Olivenöl von beiden Seiten goldbraun braten.
+- |-
+  Hähnchen mit Kurkuma, Paprika, Kreuzkümmel, Chiliflocken, Knoblauch und Olivenöl würzen. In der Pfanne scharf anbraten und durchgaren.
+- |-
+  Tahini-Sauce: Tahini mit Zitronensaft, 1 Knoblauchzehe und ca. 4 EL Wasser zu einer cremigen Sauce verrühren, salzen.
+- |-
+  Tomaten würfeln. Petersilie grob hacken. Mit Sumach, Zitronensaft und etwas Olivenöl abschmecken.
+- |-
+  Fladenbrote erwärmen. Bowls mit Hähnchen, Aubergine, Eiern, Tomaten-Petersilienssalat anrichten. Tahini und Mango-Chutney darüber geben.
+en_steps:
+- 'TODO: Eier hart kochen (10 Minuten), abschrecken, pellen und halbieren.'
+- |-
+  TODO: Auberginen in 1,5 cm dicke Scheiben schneiden, salzen, 10 Minuten ziehen lassen, abtrocknen. In reichlich Olivenöl von beiden Seiten goldbraun braten.
+- |-
+  TODO: Hähnchen mit Kurkuma, Paprika, Kreuzkümmel, Chiliflocken, Knoblauch und Olivenöl würzen. In der Pfanne scharf anbraten und durchgaren.
+- |-
+  TODO: Tahini-Sauce: Tahini mit Zitronensaft, 1 Knoblauchzehe und ca. 4 EL Wasser zu einer cremigen Sauce verrühren, salzen.
+- |-
+  TODO: Tomaten würfeln. Petersilie grob hacken. Mit Sumach, Zitronensaft und etwas Olivenöl abschmecken.
+- |-
+  TODO: Fladenbrote erwärmen. Bowls mit Hähnchen, Aubergine, Eiern, Tomaten-Petersilienssalat anrichten. Tahini und Mango-Chutney darüber geben.

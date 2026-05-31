@@ -1,0 +1,131 @@
+id: aloo_gobi
+pool: lunch
+healthy: true
+quick: false
+next_day: false
+meals: 2
+de:
+  title: Aloo Gobi – Blumenkohl-Kartoffel-Curry
+  summary: |-
+    Knusprig gebratener Blumenkohl und Kartoffeln in einem duftenden Trocken-Curry – veganer Klassiker mit lebhafter Gewürznote.
+en:
+  title: 'TODO: Aloo Gobi – Blumenkohl-Kartoffel-Curry'
+  summary: |-
+    TODO: Knusprig gebratener Blumenkohl und Kartoffeln in einem duftenden Trocken-Curry – veganer Klassiker mit lebhafter Gewürznote.
+ingredients:
+- de_name: Blumenkohl
+  en_name: 'TODO: Blumenkohl'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Kartoffeln, festkochend
+  en_name: 'TODO: Kartoffeln, festkochend'
+  qty: 500
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Zwiebeln
+  en_name: 'TODO: Zwiebeln'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Tomate
+  en_name: 'TODO: Tomate'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Ingwer, frisch
+  en_name: 'TODO: Ingwer, frisch'
+  qty: 3
+  unit: cm
+  category: Gemüse und Salat
+- de_name: Grüne Chilischote
+  en_name: 'TODO: Grüne Chilischote'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Frische Korianderblätter
+  en_name: 'TODO: Frische Korianderblätter'
+  qty: 0.5
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Pflanzenöl
+  en_name: 'TODO: Pflanzenöl'
+  qty: 4
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Kreuzkümmelsamen
+  en_name: 'TODO: Kreuzkümmelsamen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Senfkörner
+  en_name: 'TODO: Senfkörner'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Kurkuma
+  en_name: 'TODO: Kurkuma'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Koriander, gemahlen
+  en_name: 'TODO: Koriander, gemahlen'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chilipulver
+  en_name: 'TODO: Chilipulver'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Garam Masala
+  en_name: 'TODO: Garam Masala'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+- de_name: Amchur (Mangopulver)
+  en_name: 'TODO: Amchur (Mangopulver)'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Kartoffeln schälen und in gleichmäßige Würfel schneiden. Blumenkohl in kleine Röschen teilen. Beides in Salzwasser 6 Minuten vorkochen – bissfest halten. Abgießen.
+- |-
+  Öl in einer großen schweren Pfanne bei hoher Hitze erhitzen. Kartoffeln und Blumenkohl portionsweise einlegen und goldbraun anbraten. Herausnehmen.
+- |-
+  Im verbleibenden Öl Senfkörner und Kreuzkümmelsamen knistern lassen. Zwiebeln 8 Minuten goldbraun anbraten. Knoblauch und Ingwer einrühren.
+- |-
+  Kurkuma, Kreuzkümmel, Koriander und Chilipulver einstreuen, 1 Minute rösten. Gehackte Tomaten und Chilischoten hinzufügen, 5 Minuten köcheln.
+- |-
+  Gebratenes Gemüse zurück in die Pfanne geben. Alles gut vermischen, 5 Minuten unter gelegentlichem Rühren fertig garen.
+- |-
+  Garam Masala und Amchur einstreuen, mit Salz abschmecken. Mit frischem Koriander bestreuen und mit Naan oder Reis servieren.
+en_steps:
+- |-
+  TODO: Kartoffeln schälen und in gleichmäßige Würfel schneiden. Blumenkohl in kleine Röschen teilen. Beides in Salzwasser 6 Minuten vorkochen – bissfest halten. Abgießen.
+- |-
+  TODO: Öl in einer großen schweren Pfanne bei hoher Hitze erhitzen. Kartoffeln und Blumenkohl portionsweise einlegen und goldbraun anbraten. Herausnehmen.
+- |-
+  TODO: Im verbleibenden Öl Senfkörner und Kreuzkümmelsamen knistern lassen. Zwiebeln 8 Minuten goldbraun anbraten. Knoblauch und Ingwer einrühren.
+- |-
+  TODO: Kurkuma, Kreuzkümmel, Koriander und Chilipulver einstreuen, 1 Minute rösten. Gehackte Tomaten und Chilischoten hinzufügen, 5 Minuten köcheln.
+- |-
+  TODO: Gebratenes Gemüse zurück in die Pfanne geben. Alles gut vermischen, 5 Minuten unter gelegentlichem Rühren fertig garen.
+- |-
+  TODO: Garam Masala und Amchur einstreuen, mit Salz abschmecken. Mit frischem Koriander bestreuen und mit Naan oder Reis servieren.

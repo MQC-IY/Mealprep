@@ -1,0 +1,57 @@
+id: mild_tomato_chickpea_gnocchi
+pool: lunch
+healthy: true
+quick: true
+next_day: false
+quick_minutes: 20
+meals: 3
+de:
+  title: Kichererbsen-Gnocchi in Tomatensauce
+  summary: Sehr schnelle Gnocchi mit Kichererbsen und milder Tomaten-Basilikum-Sauce.
+en:
+  title: 'TODO: Kichererbsen-Gnocchi in Tomatensauce'
+  summary: 'TODO: Sehr schnelle Gnocchi mit Kichererbsen und milder Tomaten-Basilikum-Sauce.'
+ingredients:
+- de_name: Gnocchi
+  en_name: 'TODO: Gnocchi'
+  qty: 800
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Kichererbsen
+  en_name: 'TODO: Kichererbsen'
+  qty: 2
+  unit: Dosen
+  category: Konserven und Vorrat
+- de_name: Passierte Tomaten
+  en_name: 'TODO: Passierte Tomaten'
+  qty: 1
+  unit: Glas
+  category: Konserven und Vorrat
+- de_name: Blattspinat
+  en_name: 'TODO: Blattspinat'
+  qty: 120
+  unit: g
+  category: Gemüse und Salat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Basilikum
+  en_name: 'TODO: Basilikum'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Gnocchi weich garen.
+- Tomaten und Kichererbsen kurz köcheln lassen.
+- Spinat unterheben und Gnocchi untermischen.
+en_steps:
+- 'TODO: Gnocchi weich garen.'
+- 'TODO: Tomaten und Kichererbsen kurz köcheln lassen.'
+- 'TODO: Spinat unterheben und Gnocchi untermischen.'
