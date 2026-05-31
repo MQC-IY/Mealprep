@@ -1,40 +1,40 @@
 {
   "last_generated_week": "2026-W22",
   "last_lunch_ids": [
-    "chinese_chicken_glass_noodles",
-    "butter_chicken_basmati",
-    "turkish_tavuk_sis_bulgur",
-    "zaatar_chicken_pomegranate",
-    "pasta_arrabbiata_chicken"
+    "enchiladas_rojas_chicken",
+    "ethiopian_doro_wat",
+    "hainanese_chicken_rice",
+    "hunkar_begendi",
+    "imam_bayildi_chicken"
   ],
   "generator_version": "variants-v6",
   "last_dessert_ids": [
-    "light_carrot_cake"
+    "berry_oat_pudding_slices"
   ],
   "variants": {
     "standard": {
       "last_generated_week": "2026-W22",
       "generator_version": "variants-v6",
       "last_lunch_ids": [
-        "chinese_chicken_glass_noodles",
-        "butter_chicken_basmati",
-        "turkish_tavuk_sis_bulgur",
-        "zaatar_chicken_pomegranate",
-        "pasta_arrabbiata_chicken"
+        "enchiladas_rojas_chicken",
+        "ethiopian_doro_wat",
+        "hainanese_chicken_rice",
+        "hunkar_begendi",
+        "imam_bayildi_chicken"
       ],
       "last_dessert_ids": [
-        "light_carrot_cake"
+        "berry_oat_pudding_slices"
       ]
     },
     "gesund": {
       "last_generated_week": "2026-W22",
       "generator_version": "variants-v6",
       "last_lunch_ids": [
-        "doenjang_jjigae",
-        "vietnamese_lemongrass_chicken",
-        "mild_tomato_chickpea_gnocchi",
-        "chicken_cauliflower_rice_pan",
-        "spinach_red_lentil_couscous"
+        "lentil_pumpkin_orzo_pot",
+        "lentil_soup_auvergnat",
+        "korean_buddha_bowl",
+        "lentil_broccoli_polenta",
+        "mild_lentil_udon_pan"
       ],
       "last_dessert_ids": [
         "apple_cinnamon_oat_cake"
@@ -44,14 +44,14 @@
       "last_generated_week": "2026-W22",
       "generator_version": "variants-v6",
       "last_lunch_ids": [
-        "turkey_cauliflower_bulgur_pot",
-        "sweet_potato_lentil_curry",
-        "chicken_mild_paprika_orzo",
-        "turkey_pepper_couscous_skillet",
-        "green_bean_couscous_turkey"
+        "turkish_lentil_bulgur_pot",
+        "white_bean_carrot_quinoa_stew",
+        "pad_krapao_chicken",
+        "pasta_arrabbiata_chicken",
+        "pea_broccoli_couscous_turkey"
       ],
       "last_dessert_ids": [
-        "berry_oat_pudding_slices"
+        "light_carrot_cake"
       ]
     }
   }
