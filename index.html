@@ -177,6 +177,21 @@ tailwind.config = {
     color: #a63500;
   }
 
+  /* ── Image skeleton ── */
+  @keyframes shimmer {
+    0%   { background-position: -400px 0; }
+    100% { background-position: 400px 0; }
+  }
+  .img-skeleton {
+    background: linear-gradient(90deg, #ebe8e4 25%, #f0edea 50%, #ebe8e4 75%);
+    background-size: 800px 100%;
+    animation: shimmer 1.4s infinite linear;
+  }
+
+  /* ── Desktop day-detail fade ── */
+  #day-detail { transition: opacity .18s ease; }
+  #day-detail.switching { opacity: 0; }
+
   @media (min-width: 1024px) {
     #sheet-panel {
       max-width: 44rem;
@@ -280,34 +295,84 @@ tailwind.config = {
         </div>
 
         <!-- View: Wochenplan -->
-        <div id="view-wochenplan" class="view active overflow-y-auto no-scroll pb-28 lg:pb-10">
-          <div class="mx-auto max-w-5xl px-4 lg:px-8 mt-8 mb-6 flex justify-between items-center shrink-0">
-            <button onclick="navigateWeek(-1)" aria-label="Vorherige Woche"
-              class="w-10 h-10 flex items-center justify-center rounded-full bg-surface-container-low hover:bg-surface-container active:scale-95 transition-all text-on-surface">
+        <div id="view-wochenplan" class="view active overflow-y-auto no-scroll pb-28 lg:overflow-hidden lg:pb-0">
+
+          <!-- Sticky week nav -->
+          <div class="week-nav-bar sticky top-0 z-10 bg-surface/95 backdrop-blur-sm border-b border-surface-variant/60 flex justify-between items-center px-4 lg:px-8 py-3 shrink-0">
+            <button class="week-prev-btn w-10 h-10 flex items-center justify-center rounded-full bg-surface-container-low hover:bg-surface-container active:scale-95 transition-all text-on-surface disabled:opacity-30 disabled:pointer-events-none" onclick="navigateWeek(-1)" aria-label="Vorherige Woche">
               <span class="material-symbols-outlined">chevron_left</span>
             </button>
             <div class="flex flex-col items-center gap-1">
-              <span id="week-badge" class="bg-primary text-on-primary font-label-sm text-label-sm px-3 py-1 rounded-full hidden">Diese Woche</span>
-              <span id="week-label" class="font-label-md text-label-md text-on-surface"></span>
+              <span class="week-nav-badge bg-primary text-on-primary font-label-sm text-label-sm px-3 py-1 rounded-full hidden">Diese Woche</span>
+              <span class="week-nav-label font-label-md text-label-md text-on-surface"></span>
             </div>
-            <button onclick="navigateWeek(1)" aria-label="Nächste Woche"
-              class="w-10 h-10 flex items-center justify-center rounded-full bg-surface-container-low hover:bg-surface-container active:scale-95 transition-all text-on-surface">
+            <button class="week-next-btn w-10 h-10 flex items-center justify-center rounded-full bg-surface-container-low hover:bg-surface-container active:scale-95 transition-all text-on-surface disabled:opacity-30 disabled:pointer-events-none" onclick="navigateWeek(1)" aria-label="Nächste Woche">
               <span class="material-symbols-outlined">chevron_right</span>
             </button>
           </div>
-          <div id="day-cards" class="mx-auto max-w-5xl px-4 lg:px-8 grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-stack-lg pb-4"></div>
+
+          <!-- Mobile: card grid -->
+          <div id="day-cards" class="lg:hidden mx-auto max-w-5xl px-4 grid grid-cols-1 md:grid-cols-2 gap-stack-lg pb-4 mt-6"></div>
+
+          <!-- Desktop: master-detail split -->
+          <div class="hidden lg:flex flex-1 min-h-0">
+
+            <!-- Master: day list -->
+            <div id="day-list" class="w-72 xl:w-80 shrink-0 overflow-y-auto no-scroll border-r border-surface-variant/60 py-3 px-3"></div>
+
+            <!-- Detail: selected day -->
+            <div id="day-detail" class="flex-1 overflow-y-auto no-scroll"></div>
+
+          </div>
         </div>
 
         <!-- View: Rezepte -->
         <div id="view-rezepte" class="view overflow-y-auto no-scroll pb-28 lg:pb-10">
-          <div class="mx-auto max-w-5xl px-4 lg:px-8 mt-8 mb-stack-lg shrink-0">
-            <h2 id="rezepte-heading" class="font-display text-headline-lg-mobile text-on-background"></h2>
+
+          <!-- Sticky week nav -->
+          <div class="week-nav-bar sticky top-0 z-10 bg-surface/95 backdrop-blur-sm border-b border-surface-variant/60 flex justify-between items-center px-4 lg:px-8 py-3 shrink-0">
+            <button class="week-prev-btn w-10 h-10 flex items-center justify-center rounded-full bg-surface-container-low hover:bg-surface-container active:scale-95 transition-all text-on-surface disabled:opacity-30 disabled:pointer-events-none" onclick="navigateWeek(-1)" aria-label="Vorherige Woche">
+              <span class="material-symbols-outlined">chevron_left</span>
+            </button>
+            <div class="flex flex-col items-center gap-1">
+              <span class="week-nav-badge bg-primary text-on-primary font-label-sm text-label-sm px-3 py-1 rounded-full hidden">Diese Woche</span>
+              <span class="week-nav-label font-label-md text-label-md text-on-surface"></span>
+            </div>
+            <button class="week-next-btn w-10 h-10 flex items-center justify-center rounded-full bg-surface-container-low hover:bg-surface-container active:scale-95 transition-all text-on-surface disabled:opacity-30 disabled:pointer-events-none" onclick="navigateWeek(1)" aria-label="Nächste Woche">
+              <span class="material-symbols-outlined">chevron_right</span>
+            </button>
+          </div>
+
+          <div class="mx-auto max-w-5xl px-4 lg:px-8 mt-6 mb-4 shrink-0">
+            <!-- Search bar -->
+            <div class="relative">
+              <span class="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-on-surface-variant text-[20px]">search</span>
+              <input id="recipe-search" type="search" placeholder="Rezept suchen…"
+                oninput="filterRecipes(this.value)"
+                class="w-full pl-10 pr-4 py-2.5 rounded-xl bg-surface-container border border-surface-container-high font-body-sm text-body-sm text-on-surface placeholder:text-on-surface-variant focus:outline-none focus:ring-2 focus:ring-primary/40 transition-all"/>
+            </div>
           </div>
           <div id="recipe-cards" class="mx-auto max-w-5xl px-4 lg:px-8 grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-6 pb-8"></div>
+          <p id="recipe-no-results" class="hidden mx-auto max-w-5xl px-4 lg:px-8 font-body-sm text-body-sm text-on-surface-variant py-8 text-center">Kein Rezept gefunden.</p>
         </div>
 
         <!-- View: Einkauf -->
         <div id="view-einkauf" class="view overflow-y-auto no-scroll pb-28 lg:pb-10">
+
+          <!-- Sticky week nav -->
+          <div class="week-nav-bar sticky top-0 z-10 bg-surface/95 backdrop-blur-sm border-b border-surface-variant/60 flex justify-between items-center px-4 lg:px-8 py-3 shrink-0">
+            <button class="week-prev-btn w-10 h-10 flex items-center justify-center rounded-full bg-surface-container-low hover:bg-surface-container active:scale-95 transition-all text-on-surface disabled:opacity-30 disabled:pointer-events-none" onclick="navigateWeek(-1)" aria-label="Vorherige Woche">
+              <span class="material-symbols-outlined">chevron_left</span>
+            </button>
+            <div class="flex flex-col items-center gap-1">
+              <span class="week-nav-badge bg-primary text-on-primary font-label-sm text-label-sm px-3 py-1 rounded-full hidden">Diese Woche</span>
+              <span class="week-nav-label font-label-md text-label-md text-on-surface"></span>
+            </div>
+            <button class="week-next-btn w-10 h-10 flex items-center justify-center rounded-full bg-surface-container-low hover:bg-surface-container active:scale-95 transition-all text-on-surface disabled:opacity-30 disabled:pointer-events-none" onclick="navigateWeek(1)" aria-label="Nächste Woche">
+              <span class="material-symbols-outlined">chevron_right</span>
+            </button>
+          </div>
+
           <div class="mx-auto max-w-5xl px-4 lg:px-8 pt-stack-lg">
 
             <!-- Mode toggle -->
@@ -326,7 +391,14 @@ tailwind.config = {
             <div id="shopping-progress-wrap" class="mb-stack-lg shrink-0">
               <div class="flex justify-between items-end mb-stack-sm">
                 <h2 class="font-display text-headline-md text-on-surface">Dein Einkauf</h2>
-                <span id="shopping-progress-label" class="font-label-md text-label-md text-on-surface-variant"></span>
+                <div class="flex items-center gap-3">
+                  <span id="shopping-progress-label" class="font-label-md text-label-md text-on-surface-variant"></span>
+                  <button onclick="copyShoppingList()" aria-label="Einkaufsliste kopieren"
+                    class="w-8 h-8 flex items-center justify-center rounded-full hover:bg-surface-container-high active:scale-95 transition-all text-on-surface-variant"
+                    title="Als Text kopieren">
+                    <span class="material-symbols-outlined text-[20px]">content_copy</span>
+                  </button>
+                </div>
               </div>
               <div class="h-1.5 w-full bg-surface-container-highest rounded-full overflow-hidden">
                 <div id="shopping-progress-bar" class="h-full bg-secondary rounded-full transition-all duration-500" style="width:0%"></div>
@@ -451,6 +523,7 @@ let lunchCounts      = {};
 let shoppingMode     = 'standard';
 let selectedRecipeId = null;
 let recipeRegistry   = {};
+let selectedDayIndex = null;   // desktop master-detail: which day is shown
 
 const TODAY = new Date();
 TODAY.setHours(0,0,0,0);
@@ -574,6 +647,19 @@ function show(id) {
   );
 }
 
+// ── Week nav (all views) ──────────────────────────────────
+function updateWeekNavBars() {
+  if (!weeks.length) return;
+  const isCurrent = isCurrentWeek(weeks[weekIndex]);
+  const label     = formatWeekDates(weeks[weekIndex]);
+  const atFirst   = weekIndex === 0;
+  const atLast    = weekIndex === weeks.length - 1;
+  document.querySelectorAll('.week-nav-badge').forEach(el => el.classList.toggle('hidden', !isCurrent));
+  document.querySelectorAll('.week-nav-label').forEach(el => { el.textContent = label; });
+  document.querySelectorAll('.week-prev-btn').forEach(el => { el.disabled = atFirst; });
+  document.querySelectorAll('.week-next-btn').forEach(el => { el.disabled = atLast; });
+}
+
 // ── Render ────────────────────────────────────────────────
 function render() {
   renderVariantTabs();
@@ -634,20 +720,33 @@ function renderWochenplan() {
 
   [...varData.lunches, varData.dessert].forEach(r => { recipeRegistry[r.id] = r; });
 
-  const isCurrent = isCurrentWeek(week);
-  document.getElementById('week-badge').classList.toggle('hidden', !isCurrent);
-  document.getElementById('week-label').textContent = formatWeekDates(week);
+  lunchCounts = {};
+  varData.days.forEach(day => {
+    if (day.lunch_id) lunchCounts[day.lunch_id] = (lunchCounts[day.lunch_id] || 0) + 1;
+  });
 
+  // Auto-select today, or first day
+  if (selectedDayIndex === null || selectedDayIndex >= varData.days.length) {
+    const todayIdx = varData.days.findIndex(d => isToday(getDayDate(week.monday, d.day)));
+    selectedDayIndex = todayIdx >= 0 ? todayIdx : 0;
+  }
+
+  updateWeekNavBars();
+
+  renderMobileDayCards(week, varData);
+  renderDesktopDayList(week, varData);
+  renderDesktopDayDetail(week, varData);
+}
+
+function renderMobileDayCards(week, varData) {
   document.getElementById('day-cards').innerHTML = varData.days.map(day => {
     const dayDate = getDayDate(week.monday, day.day);
     const today   = isToday(dayDate);
     const borderClass = today ? 'border-l-4 border-primary' : 'border border-surface-container-low/50';
     const glowHtml = today
       ? `<div class="absolute left-0 top-0 bottom-0 w-8 bg-gradient-to-r from-primary-fixed-dim/20 to-transparent opacity-50 pointer-events-none"></div>` : '';
-
     const lunchRecipe = varData.lunches.find(l => l.id === day.lunch_id)
                      || (varData.dessert?.id === day.lunch_id ? varData.dessert : null);
-
     return `
       <div class="bg-surface-container-lowest rounded-2xl p-6 shadow-[0px_4px_24px_rgba(28,28,26,0.06)] ${borderClass} relative overflow-hidden active:scale-[0.98] transition-transform cursor-pointer"
            ${lunchRecipe ? `onclick="openById('${lunchRecipe.id}')"` : ''}>
@@ -656,10 +755,10 @@ function renderWochenplan() {
           <h3 class="font-display text-headline-md-mobile text-on-surface">${day.day}</h3>
           ${today ? `<span class="bg-primary text-on-primary font-label-sm text-label-sm px-3 py-1.5 rounded-full shadow-sm">Heute</span>` : ''}
         </div>
-        <div class="flex flex-col gap-5">
+        <div class="flex flex-col gap-4">
           ${mealRow('🌅','FRÜHSTÜCK', day.breakfast)}
           <div class="h-px w-full bg-surface-container-high/50 ml-10"></div>
-          ${mealRow('🍲','MITTAGESSEN', day.lunch, day.lunch_note)}
+          ${mealRowAccent('🍲','MITTAGESSEN', day.lunch, day.lunch_note)}
           <div class="h-px w-full bg-surface-container-high/50 ml-10"></div>
           ${mealRow('🍎','SNACK', day.snack)}
         </div>
@@ -667,13 +766,178 @@ function renderWochenplan() {
   }).join('');
 }
 
+function renderDesktopDayList(week, varData) {
+  const listEl = document.getElementById('day-list');
+  if (!listEl) return;
+  listEl.innerHTML = varData.days.map((day, i) => {
+    const dayDate  = getDayDate(week.monday, day.day);
+    const today    = isToday(dayDate);
+    const active   = i === selectedDayIndex;
+    const { gradient, emoji } = recipeStyle(day.lunch_id, i);
+    const thumb    = recipeImg(day.lunch_id, 160, 160, 75);
+    const thumbHtml = thumb
+      ? `<img src="${thumb}" class="w-full h-full object-cover" loading="lazy">`
+      : `<div class="w-full h-full flex items-center justify-center text-2xl" style="background:${gradient}">${emoji}</div>`;
+
+    return `
+      <button onclick="selectDay(${i})"
+        class="flex items-center gap-3 w-full px-3 py-3 rounded-xl transition-all text-left mb-1
+               ${active ? 'bg-primary-fixed shadow-sm' : 'hover:bg-surface-container-low'}">
+        <div class="w-14 h-14 rounded-xl overflow-hidden shrink-0 bg-surface-container-high">
+          ${thumbHtml}
+        </div>
+        <div class="flex-1 min-w-0">
+          <div class="flex items-center gap-2 mb-0.5">
+            <span class="font-display text-[15px] font-bold ${active ? 'text-on-primary-fixed' : 'text-on-surface'}">${day.day}</span>
+            ${today ? `<span class="text-[9px] font-bold px-1.5 py-0.5 rounded-full ${active ? 'bg-primary text-on-primary' : 'bg-primary-fixed-dim text-primary'}">Heute</span>` : ''}
+          </div>
+          <p class="font-body-sm text-[13px] truncate ${active ? 'text-on-primary-fixed/80' : 'text-on-surface-variant'}">${day.lunch}</p>
+        </div>
+        ${active ? `<span class="material-symbols-outlined text-[18px] text-primary shrink-0">chevron_right</span>` : ''}
+      </button>`;
+  }).join('');
+}
+
+function renderDesktopDayDetail(week, varData) {
+  const detailEl = document.getElementById('day-detail');
+  if (!detailEl) return;
+
+  const day       = varData.days[selectedDayIndex];
+  if (!day) return;
+
+  const dayDate   = getDayDate(week.monday, day.day);
+  const today     = isToday(dayDate);
+  const dateStr   = dayDate.toLocaleDateString('de-DE', { day:'numeric', month:'long' });
+  const lunchRecipe = varData.lunches.find(l => l.id === day.lunch_id)
+                   || (varData.dessert?.id === day.lunch_id ? varData.dessert : null);
+  const heroImg   = lunchRecipe ? recipeImg(lunchRecipe.id, 1200, 600, 85) : null;
+  const { gradient, emoji } = recipeStyle(day.lunch_id, selectedDayIndex);
+  const timeStr   = lunchRecipe ? fmtTime(lunchRecipe.id) : null;
+  const dayCount  = lunchRecipe ? (lunchCounts[lunchRecipe.id] || 1) : 1;
+
+  const heroHtml = heroImg
+    ? `<div class="relative h-72 xl:h-80 overflow-hidden">
+         <img src="${heroImg}" class="w-full h-full object-cover">
+         <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent"></div>
+         <div class="absolute bottom-0 left-0 right-0 p-6 text-white">
+           <div class="flex items-center gap-3 mb-1">
+             <span class="font-display text-3xl font-bold">${day.day}</span>
+             ${today ? `<span class="bg-primary text-on-primary text-xs font-bold px-3 py-1 rounded-full">Heute</span>` : ''}
+           </div>
+           <p class="text-white/70 text-sm font-medium">${dateStr}</p>
+         </div>
+       </div>`
+    : `<div class="relative h-48 flex items-center justify-center text-6xl" style="background:${gradient}">
+         ${emoji}
+         <div class="absolute bottom-0 left-0 right-0 p-5">
+           <div class="flex items-center gap-3">
+             <span class="font-display text-2xl font-bold text-on-surface">${day.day}</span>
+             ${today ? `<span class="bg-primary text-on-primary text-xs font-bold px-3 py-1 rounded-full">Heute</span>` : ''}
+           </div>
+           <p class="text-on-surface-variant text-sm">${dateStr}</p>
+         </div>
+       </div>`;
+
+  const mealsHtml = `
+    <div class="px-8 py-6 border-b border-surface-variant/60">
+      <div class="flex flex-col gap-5">
+        ${mealRowLarge('🌅', 'Frühstück', day.breakfast)}
+        ${mealRowLarge('🍲', 'Mittagessen', day.lunch, day.lunch_note)}
+        ${mealRowLarge('🍎', 'Snack', day.snack)}
+      </div>
+    </div>`;
+
+  const recipeHtml = lunchRecipe ? `
+    <div class="px-8 py-6">
+      <div class="flex items-start justify-between gap-4 mb-4">
+        <h2 class="font-display text-2xl font-bold text-on-surface leading-tight">${lunchRecipe.title}</h2>
+        <button onclick="openById('${lunchRecipe.id}')"
+          class="shrink-0 flex items-center gap-1.5 bg-primary text-on-primary font-label-sm text-label-sm px-4 py-2 rounded-full hover:bg-primary-container active:scale-95 transition-all whitespace-nowrap">
+          <span class="material-symbols-outlined text-[16px]">open_in_full</span>
+          Vollbild
+        </button>
+      </div>
+      <div class="flex flex-wrap gap-2 mb-5">
+        ${timeStr ? `<span class="bg-surface-container-high text-on-surface-variant px-3 py-1.5 rounded-full font-label-sm text-label-sm inline-flex items-center gap-1.5"><span class="material-symbols-outlined text-[14px]">schedule</span>${timeStr}</span>` : ''}
+        <span class="bg-primary-container text-on-primary-container px-3 py-1.5 rounded-full font-label-sm text-label-sm inline-flex items-center gap-1.5">
+          <span class="material-symbols-outlined text-[14px]">restaurant_menu</span>${dayCount}× diese Woche
+        </span>
+      </div>
+      <p class="font-body-sm text-body-sm text-on-surface-variant leading-relaxed mb-6">${lunchRecipe.summary || ''}</p>
+
+      <div class="grid grid-cols-1 xl:grid-cols-2 gap-8">
+        <div>
+          <h3 class="font-display text-label-md text-label-md text-on-surface mb-4 uppercase tracking-wider">Zutaten</h3>
+          <ul class="flex flex-col gap-1">
+            ${(lunchRecipe.ingredients || []).map(ing => `
+              <li class="flex justify-between items-baseline gap-4 py-2 border-b border-surface-container-high/60 last:border-0">
+                <span class="font-body-sm text-body-sm text-on-surface">${ing.name}</span>
+                <span class="font-label-sm text-label-sm text-on-surface-variant shrink-0">${ing.qty_display ?? ''}</span>
+              </li>`).join('')}
+          </ul>
+        </div>
+        <div>
+          <h3 class="font-display text-label-md text-label-md text-on-surface mb-4 uppercase tracking-wider">Zubereitung</h3>
+          <ol class="flex flex-col gap-4">
+            ${(lunchRecipe.steps || []).map((step, i) => `
+              <li class="flex gap-3">
+                <span class="font-display text-label-md text-primary shrink-0 mt-0.5 w-5">${i+1}</span>
+                <span class="font-body-sm text-body-sm text-on-surface leading-relaxed">${step}</span>
+              </li>`).join('')}
+          </ol>
+        </div>
+      </div>
+    </div>` : '';
+
+  detailEl.innerHTML = heroHtml + mealsHtml + recipeHtml;
+}
+
+function mealRowLarge(emoji, label, name, note) {
+  return `
+    <div class="flex items-start gap-4">
+      <div class="w-10 h-10 rounded-xl flex items-center justify-center text-xl shrink-0 bg-surface-container-low">${emoji}</div>
+      <div class="min-w-0">
+        <p class="font-label-sm text-label-sm text-on-surface-variant tracking-wider uppercase mb-1">${label}</p>
+        <p class="font-body-md text-body-md text-on-surface font-medium leading-snug">${name}</p>
+        ${note ? `<p class="font-body-sm text-body-sm text-on-surface-variant mt-0.5 italic">${note}</p>` : ''}
+      </div>
+    </div>`;
+}
+
+function selectDay(index) {
+  if (index === selectedDayIndex) return;
+  const detailEl = document.getElementById('day-detail');
+  if (detailEl) detailEl.classList.add('switching');
+  setTimeout(() => {
+    selectedDayIndex = index;
+    if (!weeks.length) return;
+    const week    = weeks[weekIndex];
+    const varData = week.variants[currentVariant];
+    renderDesktopDayList(week, varData);
+    renderDesktopDayDetail(week, varData);
+    if (detailEl) detailEl.classList.remove('switching');
+  }, 180);
+}
+
 function mealRow(emoji, label, name, note) {
   return `
     <div class="flex items-start gap-4">
+      <div class="text-xl mt-0.5 shrink-0 opacity-70">${emoji}</div>
+      <div class="min-w-0">
+        <p class="font-label-sm text-label-sm text-on-surface-variant tracking-wider uppercase mb-0.5">${label}</p>
+        <p class="font-body-sm text-body-sm text-on-surface leading-tight">${name}</p>
+        ${note ? `<p class="font-body-sm text-body-sm text-on-surface-variant mt-0.5 italic">${note}</p>` : ''}
+      </div>
+    </div>`;
+}
+
+function mealRowAccent(emoji, label, name, note) {
+  return `
+    <div class="flex items-start gap-4 bg-primary-fixed/40 -mx-2 px-2 py-2 rounded-xl">
       <div class="text-2xl mt-0.5 shrink-0">${emoji}</div>
       <div class="min-w-0">
-        <p class="font-label-sm text-label-sm text-on-surface-variant tracking-wider uppercase mb-1">${label}</p>
-        <p class="font-body-md text-body-md text-on-surface font-medium leading-tight">${name}</p>
+        <p class="font-label-sm text-label-sm text-primary tracking-wider uppercase mb-0.5">${label}</p>
+        <p class="font-body-md text-body-md text-on-surface font-semibold leading-tight">${name}</p>
         ${note ? `<p class="font-body-sm text-body-sm text-on-surface-variant mt-0.5 italic">${note}</p>` : ''}
       </div>
     </div>`;
@@ -684,8 +948,8 @@ function renderRezepte() {
   if (!weeks.length) return;
   const week    = weeks[weekIndex];
   const varData = week.variants[currentVariant];
+  updateWeekNavBars();
 
-  document.getElementById('rezepte-heading').textContent = formatWeekDates(week);
 
   lunchCounts = {};
   varData.days.forEach(day => {
@@ -702,9 +966,10 @@ function renderRezepte() {
     const mealLabel  = isDessert ? 'Dessert der Woche' : `${dayCount}× diese Woche`;
     const cardImg    = recipeImg(recipe.id, 800, 400, 80);
     const bannerHtml = cardImg
-      ? `<div class="relative h-48 overflow-hidden bg-surface-container-high">
+      ? `<div class="relative h-48 overflow-hidden bg-surface-container-high img-skeleton">
            <img src="${cardImg}" alt="${recipe.title.replace(/"/g,'&quot;')}" loading="lazy"
-             class="w-full h-full object-cover"
+             class="w-full h-full object-cover opacity-0 transition-opacity duration-300"
+             onload="this.classList.remove('opacity-0');this.parentElement.classList.remove('img-skeleton')"
              onerror="this.closest('.relative').innerHTML='<div class=\\'h-48 flex items-center justify-center text-6xl\\' style=\\'background:${gradient}\\'>${emoji}</div>'">
          </div>`
       : `<div class="h-48 flex items-center justify-center text-6xl" style="background:${gradient}">${emoji}</div>`;
@@ -733,6 +998,41 @@ function renderRezepte() {
   }).join('');
 }
 
+function copyShoppingList() {
+  if (!weeks.length) return;
+  const varData = weeks[weekIndex].variants[currentVariant];
+  const lines = [`Einkaufsliste – ${formatWeekDates(weeks[weekIndex])} (${currentVariant})`, ''];
+  varData.shopping.forEach(cat => {
+    lines.push(`${CATEGORY_ICONS[cat.category] || ''} ${cat.category}`);
+    cat.items.forEach(item => lines.push(`  • ${item.name}  ${item.qty_display}`));
+    lines.push('');
+  });
+  const text = lines.join('\n');
+  navigator.clipboard.writeText(text).then(() => {
+    const btn = document.querySelector('[onclick="copyShoppingList()"] .material-symbols-outlined');
+    if (btn) { btn.textContent = 'check'; setTimeout(() => { btn.textContent = 'content_copy'; }, 2000); }
+  }).catch(() => {
+    // Fallback for browsers without clipboard API
+    const ta = document.createElement('textarea');
+    ta.value = text; document.body.appendChild(ta); ta.select();
+    document.execCommand('copy'); document.body.removeChild(ta);
+  });
+}
+
+function filterRecipes(query) {
+  const q = query.trim().toLowerCase();
+  const cards = document.querySelectorAll('#recipe-cards article');
+  let visible = 0;
+  cards.forEach(card => {
+    const title = (card.querySelector('h3')?.textContent || '').toLowerCase();
+    const match = !q || title.includes(q);
+    card.style.display = match ? '' : 'none';
+    if (match) visible++;
+  });
+  const noResults = document.getElementById('recipe-no-results');
+  if (noResults) noResults.classList.toggle('hidden', visible > 0 || !q);
+}
+
 // ── Einkauf ───────────────────────────────────────────────
 function switchShoppingMode(mode) {
   shoppingMode = mode;
@@ -746,6 +1046,7 @@ function renderEinkauf() {
   if (!weeks.length) return;
   const week    = weeks[weekIndex];
   const varData = week.variants[currentVariant];
+  updateWeekNavBars();
 
   document.getElementById('shop-tab-standard').className =
     `flex-1 text-center py-2 rounded-lg font-label-md text-label-md transition-all ${
@@ -960,7 +1261,9 @@ document.getElementById('sheet-panel').addEventListener('touchend', e => {
 function switchView(v) {
   currentView = v;
   ['wochenplan','rezepte','einkauf'].forEach(name => {
-    document.getElementById('view-' + name).classList.toggle('active', name === v);
+    const el = document.getElementById('view-' + name);
+    el.classList.toggle('active', name === v);
+    if (name === v) el.scrollTop = 0;
   });
   render();
 }
@@ -969,6 +1272,9 @@ function switchVariant(v) {
   currentVariant   = v;
   shoppingMode     = 'standard';
   selectedRecipeId = null;
+  selectedDayIndex = null;
+  const s = document.getElementById('recipe-search');
+  if (s) s.value = '';
   render();
 }
 
@@ -978,6 +1284,7 @@ function navigateWeek(delta) {
   weekIndex        = next;
   shoppingMode     = 'standard';
   selectedRecipeId = null;
+  selectedDayIndex = null;
   render();
 }
 
