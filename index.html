@@ -6,6 +6,9 @@
 <meta name="apple-mobile-web-app-capable" content="yes"/>
 <meta name="apple-mobile-web-app-status-bar-style" content="default"/>
 <meta name="apple-mobile-web-app-title" content="Mahlzeit"/>
+<meta name="theme-color" content="#a63500"/>
+<link rel="manifest" href="/Mealprep/manifest.json"/>
+<link rel="apple-touch-icon" href="/Mealprep/icons/icon-180.png"/>
 <title>Mahlzeit</title>
 
 <link rel="preconnect" href="https://fonts.googleapis.com"/>
@@ -1447,6 +1450,14 @@ function navigateWeek(delta) {
 
 // ── Start ─────────────────────────────────────────────────
 init();
+
+// ── Service Worker ────────────────────────────────────────
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('/Mealprep/sw.js', { scope: '/Mealprep/' })
+      .catch(() => {}); // silently fail on localhost
+  });
+}
 </script>
 </body>
 </html>
