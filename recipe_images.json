@@ -1,0 +1,1274 @@
+{
+  "chicken_rice_bowl": {
+    "raw": "https://images.unsplash.com/photo-1636401870585-a8852371e84a?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjaGlja2VuJTIwcmljZSUyMGJvd2x8ZW58MXwwfHx8MTc4MDE1OTU0OHww&ixlib=rb-4.1.0",
+    "credit": "Fernando Aguilar",
+    "credit_url": "https://unsplash.com/@feraguilar?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "lentil_coconut_curry": {
+    "raw": "https://images.unsplash.com/photo-1662114742844-9702ab71f373?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxsZW50aWwlMjBjb2NvbnV0JTIwY3Vycnl8ZW58MXwwfHx8MTc4MDE1OTU1MXww&ixlib=rb-4.1.0",
+    "credit": "Yu Hosoi",
+    "credit_url": "https://unsplash.com/@yu_grino?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "turkey_veg_pot": {
+    "raw": "https://images.unsplash.com/photo-1588505617603-f80b72bf8f24?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx0dXJrZXklMjB2ZWclMjBwb3R8ZW58MXwwfHx8MTc4MDE1OTU1NXww&ixlib=rb-4.1.0",
+    "credit": "Nick Fewings",
+    "credit_url": "https://unsplash.com/@jannerboy62?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "mild_pasta_bolognese": {
+    "raw": "https://images.unsplash.com/photo-1622973536968-3ead9e780960?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxtaWxkJTIwcGFzdGElMjBib2xvZ25lc2V8ZW58MXwwfHx8MTc4MDE1OTU1OHww&ixlib=rb-4.1.0",
+    "credit": "Homescreenify",
+    "credit_url": "https://unsplash.com/@homescreenify?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "chicken_potato_broccoli_tray": {
+    "raw": "https://images.unsplash.com/photo-1642522685167-cf414ea225be?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjaGlja2VuJTIwcG90YXRvJTIwYnJvY2NvbGklMjB0cmF5fGVufDF8MHx8fDE3ODAxNTk1NjF8MA&ixlib=rb-4.1.0",
+    "credit": "Yolanda Djajakesukma",
+    "credit_url": "https://unsplash.com/@yeolcolltos?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "couscous_hack_pfanne": {
+    "raw": "https://images.unsplash.com/photo-1739217744880-472f59559cc5?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjb3VzY291cyUyMGhhY2slMjBwZmFubmV8ZW58MXwwfHx8MTc4MDE1OTU2NXww&ixlib=rb-4.1.0",
+    "credit": "Mourad HARKAT",
+    "credit_url": "https://unsplash.com/@artist_mourad?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "rice_noodle_veggie_chicken": {
+    "raw": "https://images.unsplash.com/photo-1491961865842-98f7befd1a60?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxyaWNlJTIwbm9vZGxlJTIwdmVnZ2llJTIwY2hpY2tlbnxlbnwxfDB8fHwxNzgwMTU5NTY4fDA&ixlib=rb-4.1.0",
+    "credit": "Noahs Knight",
+    "credit_url": "https://unsplash.com/@noahsknight?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "mild_djuvec_chicken": {
+    "raw": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxtaWxkJTIwZGp1dmVjJTIwY2hpY2tlbnxlbnwxfDB8fHwxNzgwMTU5NTcxfDA&ixlib=rb-4.1.0",
+    "credit": "JK Sloan",
+    "credit_url": "https://unsplash.com/@jksloan?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "stuffed_pepper_pot": {
+    "raw": "https://images.unsplash.com/photo-1673646960062-9aeb2188335f?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxzdHVmZmVkJTIwcGVwcGVyJTIwcG90fGVufDF8MHx8fDE3ODAxNTk1NzR8MA&ixlib=rb-4.1.0",
+    "credit": "Natalia Gusakova",
+    "credit_url": "https://unsplash.com/@nataliaraylenegusakova?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "balkan_musaka": {
+    "raw": "https://images.unsplash.com/photo-1599666957110-591acea88363?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxiYWxrYW4lMjBtdXNha2F8ZW58MXwwfHx8MTc4MDE1OTU3N3ww&ixlib=rb-4.1.0",
+    "credit": "Sumant Kumar",
+    "credit_url": "https://unsplash.com/@blissful_life__?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "chicken_bulgur_skilet": {
+    "raw": "https://images.unsplash.com/photo-1757715376249-b2a3e943cdf5?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjaGlja2VuJTIwYnVsZ3VyJTIwc2tpbGV0fGVufDF8MHx8fDE3ODAxNTk1ODB8MA&ixlib=rb-4.1.0",
+    "credit": "Zayed Ahmed Zadu",
+    "credit_url": "https://unsplash.com/@zayed_ahmed_zadu?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "italian_turkey_meatballs": {
+    "raw": "https://images.unsplash.com/photo-1714383611462-f730359f9145?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxpdGFsaWFuJTIwdHVya2V5JTIwbWVhdGJhbGxzfGVufDF8MHx8fDE3ODAxNTk1ODN8MA&ixlib=rb-4.1.0",
+    "credit": "Pablo Arroyo",
+    "credit_url": "https://unsplash.com/@pablogamedev?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "italian_minestrone": {
+    "raw": "https://images.unsplash.com/photo-1654828819532-de14593c5552?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxpdGFsaWFuJTIwbWluZXN0cm9uZXxlbnwxfDB8fHwxNzgwMTU5NTg2fDA&ixlib=rb-4.1.0",
+    "credit": "Carolyn Delacorte",
+    "credit_url": "https://unsplash.com/@carolyndelacorte?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "italian_tomato_risotto_chicken": {
+    "raw": "https://images.unsplash.com/photo-1559753496-89b160628831?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxpdGFsaWFuJTIwdG9tYXRvJTIwcmlzb3R0byUyMGNoaWNrZW58ZW58MXwwfHx8MTc4MDE1OTU5MHww&ixlib=rb-4.1.0",
+    "credit": "Fatema Enayath",
+    "credit_url": "https://unsplash.com/@f_en_h?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "japanese_oyakodon_mild": {
+    "raw": "https://images.unsplash.com/photo-1711872039702-c9ed28c1753f?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxqYXBhbmVzZSUyMG95YWtvZG9uJTIwbWlsZHxlbnwxfDB8fHwxNzgwMTU5NTkzfDA&ixlib=rb-4.1.0",
+    "credit": "Kouji Tsuru",
+    "credit_url": "https://unsplash.com/@pafuxu?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "japanese_soboro_bowl": {
+    "raw": "https://images.unsplash.com/photo-1611143669185-af224c5e3252?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxmb29kJTIwamFwYW5lc2V8ZW58MXwwfHx8MTc4MDE1OTU5N3ww&ixlib=rb-4.1.0",
+    "credit": "Jakub Dziubak",
+    "credit_url": "https://unsplash.com/@jckbck?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "japanese_udon_chicken_veg": {
+    "raw": "https://images.unsplash.com/photo-1609183480237-ccbb2d7c5772?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxqYXBhbmVzZSUyMHVkb24lMjBjaGlja2VufGVufDF8MHx8fDE3ODAxNTk2MDB8MA&ixlib=rb-4.1.0",
+    "credit": "Tomoyo S",
+    "credit_url": "https://unsplash.com/@lifetofood?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "turkish_lentil_bulgur_pot": {
+    "raw": "https://images.unsplash.com/photo-1604579278540-db35e2fa658a?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx0dXJraXNoJTIwbGVudGlsJTIwYnVsZ3VyJTIwcG90fGVufDF8MHx8fDE3ODAxNTk2MDN8MA&ixlib=rb-4.1.0",
+    "credit": "Ryan Concepcion",
+    "credit_url": "https://unsplash.com/@bite_size01?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "turkish_chicken_veg_stew": {
+    "raw": "https://images.unsplash.com/photo-1724041305833-2e2791f4b6b5?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx0dXJraXNoJTIwY2hpY2tlbiUyMHZlZyUyMHN0ZXd8ZW58MXwwfHx8MTc4MDE1OTYwNnww&ixlib=rb-4.1.0",
+    "credit": "Gina's Auckland",
+    "credit_url": "https://unsplash.com/@ginasauckland?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "turkish_manti_style_pasta": {
+    "raw": "https://images.unsplash.com/photo-1676300184847-4ee4030409c0?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx0dXJraXNoJTIwbWFudGklMjBzdHlsZSUyMHBhc3RhfGVufDF8MHx8fDE3ODAxNTk2MDl8MA&ixlib=rb-4.1.0",
+    "credit": "Orkun Orcan",
+    "credit_url": "https://unsplash.com/@orkunorcan?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "french_lentil_carrot_stew": {
+    "raw": "https://images.unsplash.com/photo-1664339031004-9cfdf88b8017?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxmcmVuY2glMjBsZW50aWwlMjBjYXJyb3QlMjBzdGV3fGVufDF8MHx8fDE3ODAxNTk2MTJ8MA&ixlib=rb-4.1.0",
+    "credit": "Holly Spangler",
+    "credit_url": "https://unsplash.com/@h_spangler?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "french_chicken_ratatouille": {
+    "raw": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxmcmVuY2glMjBjaGlja2VuJTIwcmF0YXRvdWlsbGV8ZW58MXwwfHx8MTc4MDE1OTYxNXww&ixlib=rb-4.1.0",
+    "credit": "Farhad Ibrahimzade",
+    "credit_url": "https://unsplash.com/@ferhadd?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "french_quiche_potato_veg": {
+    "raw": "https://images.unsplash.com/photo-1608855238293-a8853e7f7c98?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxmcmVuY2glMjBxdWljaGUlMjBwb3RhdG98ZW58MXwwfHx8MTc4MDE1OTYxOHww&ixlib=rb-4.1.0",
+    "credit": "Keriliwi",
+    "credit_url": "https://unsplash.com/@keriliwi?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "chicken_spinach_orzo": {
+    "raw": "https://images.unsplash.com/photo-1739417083034-4e9118f487be?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjaGlja2VuJTIwc3BpbmFjaCUyMG9yem98ZW58MXwwfHx8MTc4MDE1OTYyNHww&ixlib=rb-4.1.0",
+    "credit": "NATHAN MULLET",
+    "credit_url": "https://unsplash.com/@nate072107?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "chickpea_couscous_pot": {
+    "raw": "https://images.unsplash.com/photo-1582576163090-09d3b6f8a969?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjaGlja3BlYSUyMGNvdXNjb3VzJTIwcG90fGVufDF8MHx8fDE3ODAxNTk2Mjh8MA&ixlib=rb-4.1.0",
+    "credit": "Daniela",
+    "credit_url": "https://unsplash.com/@daniela_curly?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "turkey_pea_rice_pan": {
+    "raw": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx0dXJrZXklMjBwZWElMjByaWNlJTIwcGFufGVufDF8MHx8fDE3ODAxNTk2MzF8MA&ixlib=rb-4.1.0",
+    "credit": "Christopher Alvarenga",
+    "credit_url": "https://unsplash.com/@krizphoto?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "zucchini_lentil_pasta": {
+    "raw": "https://images.unsplash.com/photo-1630492782892-74f99406dc59?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx6dWNjaGluaSUyMGxlbnRpbCUyMHBhc3RhfGVufDF8MHx8fDE3ODAxNTk2MzR8MA&ixlib=rb-4.1.0",
+    "credit": "engin akyurt",
+    "credit_url": "https://unsplash.com/@enginakyurt?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "chicken_broccoli_noodle_pan": {
+    "raw": "https://images.unsplash.com/photo-1553621043-f607bfbf6640?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjaGlja2VuJTIwYnJvY2NvbGklMjBub29kbGUlMjBwYW58ZW58MXwwfHx8MTc4MDE1OTYzN3ww&ixlib=rb-4.1.0",
+    "credit": "Riccardo Bergamini",
+    "credit_url": "https://unsplash.com/@deram31?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "quinoa_chicken_veg_pan": {
+    "raw": "https://images.unsplash.com/photo-1638591052814-a9da018c0298?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxxdWlub2ElMjBjaGlja2VuJTIwdmVnJTIwcGFufGVufDF8MHx8fDE3ODAxNTk2NDB8MA&ixlib=rb-4.1.0",
+    "credit": "Avnish Rathore",
+    "credit_url": "https://unsplash.com/@avnishr18?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "white_bean_tomato_pasta": {
+    "raw": "https://images.unsplash.com/photo-1597393353365-9d4366392fe9?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx3aGl0ZSUyMGJlYW4lMjB0b21hdG8lMjBwYXN0YXxlbnwxfDB8fHwxNzgwMTU5NjQzfDA&ixlib=rb-4.1.0",
+    "credit": "Divani",
+    "credit_url": "https://unsplash.com/@heydivani?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "red_lentil_orzo_pot": {
+    "raw": "https://images.unsplash.com/photo-1641848421825-9b62221902b7?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxyZWQlMjBsZW50aWwlMjBvcnpvJTIwcG90fGVufDF8MHx8fDE3ODAxNTk2NDd8MA&ixlib=rb-4.1.0",
+    "credit": "Léo Roza",
+    "credit_url": "https://unsplash.com/@leoroza?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "turkey_zucchini_bulgur_pan": {
+    "raw": "https://images.unsplash.com/photo-1742044609850-ed68d84c39ab?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx0dXJrZXklMjB6dWNjaGluaSUyMGJ1bGd1ciUyMHBhbnxlbnwxfDB8fHwxNzgwMTU5NjUwfDA&ixlib=rb-4.1.0",
+    "credit": "okeykat",
+    "credit_url": "https://unsplash.com/@okeykat?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "mild_bean_rice_skillet": {
+    "raw": "https://images.unsplash.com/photo-1622732777601-e744c3401d44?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxtaWxkJTIwYmVhbiUyMHJpY2UlMjBza2lsbGV0fGVufDF8MHx8fDE3ODAxNTk2NTN8MA&ixlib=rb-4.1.0",
+    "credit": "Sumeet B",
+    "credit_url": "https://unsplash.com/@pixel_is_fun?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "veggie_fried_rice_chicken": {
+    "raw": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx2ZWdnaWUlMjBmcmllZCUyMHJpY2UlMjBjaGlja2VufGVufDF8MHx8fDE3ODAxNTk2NTZ8MA&ixlib=rb-4.1.0",
+    "credit": "Christopher Alvarenga",
+    "credit_url": "https://unsplash.com/@krizphoto?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "yogurt_chicken_couscous": {
+    "raw": "https://images.unsplash.com/photo-1625944228126-74f9d9ae77e3?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx5b2d1cnQlMjBjaGlja2VuJTIwY291c2NvdXN8ZW58MXwwfHx8MTc4MDE1OTY1OXww&ixlib=rb-4.1.0",
+    "credit": "Farhad Ibrahimzade",
+    "credit_url": "https://unsplash.com/@ferhadd?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "spinach_pea_gnocchi_chicken": {
+    "raw": "https://images.unsplash.com/photo-1609016580259-e04ddc09a850?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxzcGluYWNoJTIwcGVhJTIwZ25vY2NoaSUyMGNoaWNrZW58ZW58MXwwfHx8MTc4MDE1OTY2Mnww&ixlib=rb-4.1.0",
+    "credit": "Magda Vrabetz",
+    "credit_url": "https://unsplash.com/@_twistedplot?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "carrot_broccoli_orzo_turkey": {
+    "raw": "https://images.unsplash.com/photo-1778850739898-84ced7156b25?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjYXJyb3QlMjBicm9jY29saSUyMG9yem8lMjB0dXJrZXl8ZW58MXwwfHx8MTc4MDE1OTY2NXww&ixlib=rb-4.1.0",
+    "credit": "Arne Buss",
+    "credit_url": "https://unsplash.com/@arnedaman?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "tomato_basil_polenta_beans": {
+    "raw": "https://images.unsplash.com/photo-1715216553304-4960f95dfff2?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx0b21hdG8lMjBiYXNpbCUyMHBvbGVudGElMjBiZWFuc3xlbnwxfDB8fHwxNzgwMTU5NjY5fDA&ixlib=rb-4.1.0",
+    "credit": "Kerri Leung",
+    "credit_url": "https://unsplash.com/@kerrileung1?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "chicken_mushroom_rice_pan": {
+    "raw": "https://images.unsplash.com/photo-1638502182261-7be714a565ce?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjaGlja2VuJTIwbXVzaHJvb20lMjByaWNlJTIwcGFufGVufDF8MHx8fDE3ODAxNTk2NzJ8MA&ixlib=rb-4.1.0",
+    "credit": "Huyen Bui",
+    "credit_url": "https://unsplash.com/@huyenbui30?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "cauliflower_lentil_pot": {
+    "raw": "https://images.unsplash.com/photo-1589525799498-27248b753303?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjYXVsaWZsb3dlciUyMGxlbnRpbCUyMHBvdHxlbnwxfDB8fHwxNzgwMTU5Njc1fDA&ixlib=rb-4.1.0",
+    "credit": "Maria Ionova",
+    "credit_url": "https://unsplash.com/@marusyaionova?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "turkey_spinach_bean_stew": {
+    "raw": "https://images.unsplash.com/photo-1673465580365-b96bef916770?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx0dXJrZXklMjBzcGluYWNoJTIwYmVhbiUyMHN0ZXd8ZW58MXwwfHx8MTc4MDE1OTY3OXww&ixlib=rb-4.1.0",
+    "credit": "Seyene Otu",
+    "credit_url": "https://unsplash.com/@seyeneotu?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "potato_leek_chicken_stew": {
+    "raw": "https://images.unsplash.com/photo-1680098021573-b9402ee336ec?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxwb3RhdG8lMjBsZWVrJTIwY2hpY2tlbiUyMHN0ZXd8ZW58MXwwfHx8MTc4MDE1OTY4Mnww&ixlib=rb-4.1.0",
+    "credit": "Babs Gorniak",
+    "credit_url": "https://unsplash.com/@babs_gorniak?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "quinoa_veggie_chicken_bake": {
+    "raw": "https://images.unsplash.com/photo-1610657592176-23d38cb78116?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxxdWlub2ElMjB2ZWdnaWUlMjBjaGlja2VuJTIwYmFrZXxlbnwxfDB8fHwxNzgwMTU5Njg1fDA&ixlib=rb-4.1.0",
+    "credit": "Aneta Voborilova",
+    "credit_url": "https://unsplash.com/@anetvob?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "spinach_chickpea_risoni": {
+    "raw": "https://images.unsplash.com/photo-1580910365203-91ea9115a319?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxmb29kJTIwc3BpbmFjaHxlbnwxfDB8fHwxNzgwMTU5Njg5fDA&ixlib=rb-4.1.0",
+    "credit": "Louis Hansel",
+    "credit_url": "https://unsplash.com/@louishansel?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "chicken_carrot_couscous_pan": {
+    "raw": "https://images.unsplash.com/photo-1660338765002-58f397b8e4d3?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjaGlja2VuJTIwY2Fycm90JTIwY291c2NvdXMlMjBwYW58ZW58MXwwfHx8MTc4MDE1OTY5Mnww&ixlib=rb-4.1.0",
+    "credit": "Amit Daruka",
+    "credit_url": "https://unsplash.com/@amitdaruka?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "bulgur_bean_pepper_pan": {
+    "raw": "https://images.unsplash.com/photo-1622732777601-e744c3401d44?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxidWxndXIlMjBiZWFuJTIwcGVwcGVyJTIwcGFufGVufDF8MHx8fDE3ODAxNTk2OTV8MA&ixlib=rb-4.1.0",
+    "credit": "Sumeet B",
+    "credit_url": "https://unsplash.com/@pixel_is_fun?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "turkey_broccoli_rice_pan": {
+    "raw": "https://images.unsplash.com/photo-1587995631109-2a8588e991da?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx0dXJrZXklMjBicm9jY29saSUyMHJpY2UlMjBwYW58ZW58MXwwfHx8MTc4MDE2MzI5Nnww&ixlib=rb-4.1.0",
+    "credit": "Cristian Andronic",
+    "credit_url": "https://unsplash.com/@papycry?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "creamy_tomato_lentil_gnocchi": {
+    "raw": "https://images.unsplash.com/photo-1625166005070-62a041591f6a?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjcmVhbXklMjB0b21hdG8lMjBsZW50aWwlMjBnbm9jY2hpfGVufDF8MHx8fDE3ODAxNjMyOTl8MA&ixlib=rb-4.1.0",
+    "credit": "Hybrid Storytellers",
+    "credit_url": "https://unsplash.com/@hybridstorytellers?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "zucchini_pea_orzo_chicken": {
+    "raw": "https://images.unsplash.com/photo-1731637923214-89218fdf0100?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx6dWNjaGluaSUyMHBlYSUyMG9yem8lMjBjaGlja2VufGVufDF8MHx8fDE3ODAxNjMzMDJ8MA&ixlib=rb-4.1.0",
+    "credit": "Gennady Zakharin",
+    "credit_url": "https://unsplash.com/@gennady107?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "mild_taco_rice_turkey": {
+    "raw": "https://images.unsplash.com/photo-1679279726937-122c49626802?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxtaWxkJTIwdGFjbyUyMHJpY2UlMjB0dXJrZXl8ZW58MXwwfHx8MTc4MDE2MzMwNXww&ixlib=rb-4.1.0",
+    "credit": "Xavier Chng",
+    "credit_url": "https://unsplash.com/@cohesionsingapore?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "white_bean_spinach_couscous": {
+    "raw": "https://images.unsplash.com/photo-1594040815645-5442fb6d48f6?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx3aGl0ZSUyMGJlYW4lMjBzcGluYWNoJTIwY291c2NvdXN8ZW58MXwwfHx8MTc4MDE2MzMwOXww&ixlib=rb-4.1.0",
+    "credit": "Hamza Zaidi",
+    "credit_url": "https://unsplash.com/@hamzazaidi?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "broccoli_quinoa_cheese_bake": {
+    "raw": "https://images.unsplash.com/photo-1778909355098-8ee6b26263a5?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxicm9jY29saSUyMHF1aW5vYSUyMGNoZWVzZSUyMGJha2V8ZW58MXwwfHx8MTc4MDE2MzMxMnww&ixlib=rb-4.1.0",
+    "credit": "David Trinks",
+    "credit_url": "https://unsplash.com/@dtrinksrph?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "carrot_red_lentil_rice_pot": {
+    "raw": "https://images.unsplash.com/photo-1604579278540-db35e2fa658a?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjYXJyb3QlMjByZWQlMjBsZW50aWwlMjByaWNlJTIwcG90fGVufDF8MHx8fDE3ODAxNjMzMTV8MA&ixlib=rb-4.1.0",
+    "credit": "Ryan Concepcion",
+    "credit_url": "https://unsplash.com/@bite_size01?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "chicken_zucchini_polenta": {
+    "raw": "https://images.unsplash.com/photo-1615852735201-2ce54ffa6afa?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjaGlja2VuJTIwenVjY2hpbmklMjBwb2xlbnRhfGVufDF8MHx8fDE3ODAxNjMzMTh8MA&ixlib=rb-4.1.0",
+    "credit": "David B Townsend",
+    "credit_url": "https://unsplash.com/@dbtownsend?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "pea_mint_orzo_turkey": {
+    "raw": "https://images.unsplash.com/photo-1624793937476-9b985694e4cf?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxwZWElMjBtaW50JTIwb3J6byUyMHR1cmtleXxlbnwxfDB8fHwxNzgwMTYzMzIxfDA&ixlib=rb-4.1.0",
+    "credit": "Shoeib Abolhassani",
+    "credit_url": "https://unsplash.com/@shoeibabhn?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "chickpea_tomato_pasta_skillet": {
+    "raw": "https://images.unsplash.com/photo-1650298251706-e9932da7152d?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjaGlja3BlYSUyMHRvbWF0byUyMHBhc3RhJTIwc2tpbGxldHxlbnwxfDB8fHwxNzgwMTYzMzI1fDA&ixlib=rb-4.1.0",
+    "credit": "Crissta Ames-Walle",
+    "credit_url": "https://unsplash.com/@caw2021?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "turkey_cauliflower_bulgur_pot": {
+    "raw": "https://images.unsplash.com/photo-1666724405260-48b7a2024809?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx0dXJrZXklMjBjYXVsaWZsb3dlciUyMGJ1bGd1ciUyMHBvdHxlbnwxfDB8fHwxNzgwMTYzMzI4fDA&ixlib=rb-4.1.0",
+    "credit": "Danielle Townsend",
+    "credit_url": "https://unsplash.com/@danitownzen01?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "mushroom_pea_risotto_chicken": {
+    "raw": "https://images.unsplash.com/photo-1685079230208-dcced9f55eab?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxtdXNocm9vbSUyMHBlYSUyMHJpc290dG8lMjBjaGlja2VufGVufDF8MHx8fDE3ODAxNjMzMzF8MA&ixlib=rb-4.1.0",
+    "credit": "Dannie Sorum",
+    "credit_url": "https://unsplash.com/@danjoso?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "sweet_potato_lentil_curry": {
+    "raw": "https://images.unsplash.com/photo-1664339031004-9cfdf88b8017?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxzd2VldCUyMHBvdGF0byUyMGxlbnRpbCUyMGN1cnJ5fGVufDF8MHx8fDE3ODAxNjMzMzV8MA&ixlib=rb-4.1.0",
+    "credit": "Holly Spangler",
+    "credit_url": "https://unsplash.com/@h_spangler?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "chicken_green_bean_rice_pan": {
+    "raw": "https://images.unsplash.com/photo-1573409157829-fc549dc70bc3?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjaGlja2VuJTIwZ3JlZW4lMjBiZWFuJTIwcmljZSUyMHBhbnxlbnwxfDB8fHwxNzgwMTYzMzM4fDA&ixlib=rb-4.1.0",
+    "credit": "Jacques Bopp",
+    "credit_url": "https://unsplash.com/@jacquesbopp?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "yogurt_turkey_orzo_bake": {
+    "raw": "https://images.unsplash.com/photo-1627279000955-dec899e5f8bc?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx5b2d1cnQlMjB0dXJrZXklMjBvcnpvJTIwYmFrZXxlbnwxfDB8fHwxNzgwMTYzMzQxfDA&ixlib=rb-4.1.0",
+    "credit": "VD Photography",
+    "credit_url": "https://unsplash.com/@vdphotography?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "bean_veg_noodle_pot": {
+    "raw": "https://images.unsplash.com/photo-1627925506511-9340770f5b25?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxiZWFuJTIwdmVnJTIwbm9vZGxlJTIwcG90fGVufDF8MHx8fDE3ODAxNjMzNDR8MA&ixlib=rb-4.1.0",
+    "credit": "Sandra Harris",
+    "credit_url": "https://unsplash.com/@girasolmom?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "spinach_broccoli_couscous_chicken": {
+    "raw": "https://images.unsplash.com/photo-1700956026134-107cfb1cc7b1?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxzcGluYWNoJTIwYnJvY2NvbGklMjBjb3VzY291cyUyMGNoaWNrZW58ZW58MXwwfHx8MTc4MDE2MzM0N3ww&ixlib=rb-4.1.0",
+    "credit": "MealPro",
+    "credit_url": "https://unsplash.com/@mealpro?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "lentil_pumpkin_orzo_pot": {
+    "raw": "https://images.unsplash.com/photo-1641848421825-9b62221902b7?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxsZW50aWwlMjBwdW1wa2luJTIwb3J6byUyMHBvdHxlbnwxfDB8fHwxNzgwMTYzMzUxfDA&ixlib=rb-4.1.0",
+    "credit": "Léo Roza",
+    "credit_url": "https://unsplash.com/@leoroza?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "turkey_corn_zucchini_rice": {
+    "raw": "https://images.unsplash.com/photo-1691322161493-eaeeab3d6ecd?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx0dXJrZXklMjBjb3JuJTIwenVjY2hpbmklMjByaWNlfGVufDF8MHx8fDE3ODAxNjMzNTR8MA&ixlib=rb-4.1.0",
+    "credit": "Charles Chen",
+    "credit_url": "https://unsplash.com/@color0911?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "white_bean_broccoli_pasta": {
+    "raw": "https://images.unsplash.com/photo-1638890763825-e20495f6b819?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx3aGl0ZSUyMGJlYW4lMjBicm9jY29saSUyMHBhc3RhfGVufDF8MHx8fDE3ODAxNjMzNTd8MA&ixlib=rb-4.1.0",
+    "credit": "Nadiia Ganzhyi",
+    "credit_url": "https://unsplash.com/@nadiiag?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "chicken_pepper_bulgur_bowl": {
+    "raw": "https://images.unsplash.com/photo-1584278859516-41e5af3920ee?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjaGlja2VuJTIwcGVwcGVyJTIwYnVsZ3VyJTIwYm93bHxlbnwxfDB8fHwxNzgwMTYzMzYwfDA&ixlib=rb-4.1.0",
+    "credit": "Delaney Van",
+    "credit_url": "https://unsplash.com/@delaneyvan?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "pea_carrot_quinoa_pan": {
+    "raw": "https://images.unsplash.com/photo-1630409351217-bc4fa6422075?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxwZWElMjBjYXJyb3QlMjBxdWlub2ElMjBwYW58ZW58MXwwfHx8MTc4MDE2MzM2M3ww&ixlib=rb-4.1.0",
+    "credit": "Mario Raj",
+    "credit_url": "https://unsplash.com/@chefmariii?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "mild_tomato_chickpea_gnocchi": {
+    "raw": "https://images.unsplash.com/photo-1645087177483-f760329f470f?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxtaWxkJTIwdG9tYXRvJTIwY2hpY2twZWElMjBnbm9jY2hpfGVufDF8MHx8fDE3ODAxNjMzNjZ8MA&ixlib=rb-4.1.0",
+    "credit": "Nathalie Klippert",
+    "credit_url": "https://unsplash.com/@nathaliescontent?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "chicken_cauliflower_rice_pan": {
+    "raw": "https://images.unsplash.com/photo-1638502182261-7be714a565ce?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjaGlja2VuJTIwY2F1bGlmbG93ZXIlMjByaWNlJTIwcGFufGVufDF8MHx8fDE3ODAxNjMzNzB8MA&ixlib=rb-4.1.0",
+    "credit": "Huyen Bui",
+    "credit_url": "https://unsplash.com/@huyenbui30?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "spinach_red_lentil_couscous": {
+    "raw": "https://images.unsplash.com/photo-1617521583527-10229bcc2639?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxzcGluYWNoJTIwcmVkJTIwbGVudGlsJTIwY291c2NvdXN8ZW58MXwwfHx8MTc4MDE2MzM3M3ww&ixlib=rb-4.1.0",
+    "credit": "Glen Carrie",
+    "credit_url": "https://unsplash.com/@glencarrie?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "turkey_mushroom_orzo_skillet": {
+    "raw": "https://images.unsplash.com/photo-1612914191627-ded23570db3d?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx0dXJrZXklMjBtdXNocm9vbSUyMG9yem8lMjBza2lsbGV0fGVufDF8MHx8fDE3ODAxNjMzNzZ8MA&ixlib=rb-4.1.0",
+    "credit": "engin akyurt",
+    "credit_url": "https://unsplash.com/@enginakyurt?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "broccoli_pea_potato_bake": {
+    "raw": "https://images.unsplash.com/photo-1646568109040-27893ba7d9fd?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxicm9jY29saSUyMHBlYSUyMHBvdGF0byUyMGJha2V8ZW58MXwwfHx8MTc4MDE2MzM4MHww&ixlib=rb-4.1.0",
+    "credit": "Alexey Demidov",
+    "credit_url": "https://unsplash.com/@alexeydemidov?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "creamy_bean_polenta_veg": {
+    "raw": "https://images.unsplash.com/photo-1772132025779-a28090bfa2a8?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjcmVhbXklMjBiZWFuJTIwcG9sZW50YXxlbnwxfDB8fHwxNzgwMTYzMzgzfDA&ixlib=rb-4.1.0",
+    "credit": "Gennady Zakharin",
+    "credit_url": "https://unsplash.com/@gennady107?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "chicken_green_pea_noodles": {
+    "raw": "https://images.unsplash.com/photo-1711915420840-b56dbc813b5a?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjaGlja2VuJTIwZ3JlZW4lMjBwZWElMjBub29kbGVzfGVufDF8MHx8fDE3ODAxNjMzODZ8MA&ixlib=rb-4.1.0",
+    "credit": "John Vid",
+    "credit_url": "https://unsplash.com/@vanvid?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "bulgur_lentil_pepper_stew": {
+    "raw": "https://images.unsplash.com/photo-1664339031004-9cfdf88b8017?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxidWxndXIlMjBsZW50aWwlMjBwZXBwZXIlMjBzdGV3fGVufDF8MHx8fDE3ODAxNjMzODl8MA&ixlib=rb-4.1.0",
+    "credit": "Holly Spangler",
+    "credit_url": "https://unsplash.com/@h_spangler?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "turkey_bulgur_spinach_bake": {
+    "raw": "https://images.unsplash.com/photo-1739540620256-a7d8d07a77f7?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx0dXJrZXklMjBidWxndXIlMjBzcGluYWNoJTIwYmFrZXxlbnwxfDB8fHwxNzgwMTYzMzkyfDA&ixlib=rb-4.1.0",
+    "credit": "Gennady Zakharin",
+    "credit_url": "https://unsplash.com/@gennady107?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "zucchini_bean_risoni": {
+    "raw": "https://images.unsplash.com/photo-1692956475726-d4a90d0dfbdf?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx6dWNjaGluaSUyMGJlYW4lMjByaXNvbml8ZW58MXwwfHx8MTc4MDE2MzM5NXww&ixlib=rb-4.1.0",
+    "credit": "engin akyurt",
+    "credit_url": "https://unsplash.com/@enginakyurt?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "chicken_carrot_quinoa_bowl": {
+    "raw": "https://images.unsplash.com/photo-1641919055844-9e622d21cf7c?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjaGlja2VuJTIwY2Fycm90JTIwcXVpbm9hJTIwYm93bHxlbnwxfDB8fHwxNzgwMTYzMzk4fDA&ixlib=rb-4.1.0",
+    "credit": "Collab Media",
+    "credit_url": "https://unsplash.com/@collab_media?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "mild_lentil_udon_pan": {
+    "raw": "https://images.unsplash.com/photo-1660296334115-4218a8fb6502?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxtaWxkJTIwbGVudGlsJTIwdWRvbiUyMHBhbnxlbnwxfDB8fHwxNzgwMTYzNDAyfDA&ixlib=rb-4.1.0",
+    "credit": "Wolfgang Hasselmann",
+    "credit_url": "https://unsplash.com/@wolfgang_hasselmann?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "pea_broccoli_couscous_turkey": {
+    "raw": "https://images.unsplash.com/photo-1670398564097-0762e1b30b3a?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxwZWElMjBicm9jY29saSUyMGNvdXNjb3VzJTIwdHVya2V5fGVufDF8MHx8fDE3ODAxNjM0MDV8MA&ixlib=rb-4.1.0",
+    "credit": "Elena Leya",
+    "credit_url": "https://unsplash.com/@foodistika?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "potato_bean_tomato_stew": {
+    "raw": "https://images.unsplash.com/photo-1715216553304-4960f95dfff2?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxwb3RhdG8lMjBiZWFuJTIwdG9tYXRvJTIwc3Rld3xlbnwxfDB8fHwxNzgwMTYzNDA4fDA&ixlib=rb-4.1.0",
+    "credit": "Kerri Leung",
+    "credit_url": "https://unsplash.com/@kerrileung1?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "chicken_mild_paprika_orzo": {
+    "raw": "https://images.unsplash.com/photo-1490990813269-10586274747f?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjaGlja2VuJTIwbWlsZCUyMHBhcHJpa2ElMjBvcnpvfGVufDF8MHx8fDE3ODAxNjM0MTF8MA&ixlib=rb-4.1.0",
+    "credit": "Quilia",
+    "credit_url": "https://unsplash.com/@heyquilia?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "broccoli_lentil_orzo_bake": {
+    "raw": "https://images.unsplash.com/photo-1778909355098-8ee6b26263a5?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxicm9jY29saSUyMGxlbnRpbCUyMG9yem8lMjBiYWtlfGVufDF8MHx8fDE3ODAxNjM0MTR8MA&ixlib=rb-4.1.0",
+    "credit": "David Trinks",
+    "credit_url": "https://unsplash.com/@dtrinksrph?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "turkey_pepper_couscous_skillet": {
+    "raw": "https://images.unsplash.com/photo-1666724405260-48b7a2024809?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx0dXJrZXklMjBwZXBwZXIlMjBjb3VzY291cyUyMHNraWxsZXR8ZW58MXwwfHx8MTc4MDE2MzQxN3ww&ixlib=rb-4.1.0",
+    "credit": "Danielle Townsend",
+    "credit_url": "https://unsplash.com/@danitownzen01?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "white_bean_carrot_quinoa_stew": {
+    "raw": "https://images.unsplash.com/photo-1587996428538-71d66749a5cb?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx3aGl0ZSUyMGJlYW4lMjBjYXJyb3QlMjBxdWlub2ElMjBzdGV3fGVufDF8MHx8fDE3ODAxNjM0MjB8MA&ixlib=rb-4.1.0",
+    "credit": "Mike Von",
+    "credit_url": "https://unsplash.com/@thevoncomplex?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "chicken_spinach_bulgur_pan": {
+    "raw": "https://images.unsplash.com/photo-1778851182989-ea3f9d2d280b?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjaGlja2VuJTIwc3BpbmFjaCUyMGJ1bGd1ciUyMHBhbnxlbnwxfDB8fHwxNzgwMTYzNDIzfDA&ixlib=rb-4.1.0",
+    "credit": "Arne Buss",
+    "credit_url": "https://unsplash.com/@arnedaman?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "mild_chickpea_rice_bake": {
+    "raw": "https://images.unsplash.com/photo-1600106150552-dbbf6aebf4fa?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxtaWxkJTIwY2hpY2twZWElMjByaWNlJTIwYmFrZXxlbnwxfDB8fHwxNzgwMTYzNDI3fDA&ixlib=rb-4.1.0",
+    "credit": "Marek Piwnicki",
+    "credit_url": "https://unsplash.com/@marekpiwnicki?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "zucchini_pea_pasta_turkey": {
+    "raw": "https://images.unsplash.com/photo-1632370360608-6d7f2a012dc7?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx6dWNjaGluaSUyMHBlYSUyMHBhc3RhJTIwdHVya2V5fGVufDF8MHx8fDE3ODAxNjM0MzB8MA&ixlib=rb-4.1.0",
+    "credit": "Bakd&Raw by Karolin Baitinger",
+    "credit_url": "https://unsplash.com/@bakdandraw?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "cauliflower_broccoli_cheese_quinoa": {
+    "raw": "https://images.unsplash.com/photo-1631255444970-d06bbdd2c04f?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjYXVsaWZsb3dlciUyMGJyb2Njb2xpJTIwY2hlZXNlJTIwcXVpbm9hfGVufDF8MHx8fDE3ODAxNjM0MzN8MA&ixlib=rb-4.1.0",
+    "credit": "Bakd&Raw by Karolin Baitinger",
+    "credit_url": "https://unsplash.com/@bakdandraw?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "tomato_lentil_polenta_chicken": {
+    "raw": "https://images.unsplash.com/photo-1559753496-89b160628831?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx0b21hdG8lMjBsZW50aWwlMjBwb2xlbnRhJTIwY2hpY2tlbnxlbnwxfDB8fHwxNzgwMTYzNDM2fDA&ixlib=rb-4.1.0",
+    "credit": "Fatema Enayath",
+    "credit_url": "https://unsplash.com/@f_en_h?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "green_bean_couscous_turkey": {
+    "raw": "https://images.unsplash.com/photo-1771161409338-8e35cc1e91ad?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxncmVlbiUyMGJlYW4lMjBjb3VzY291cyUyMHR1cmtleXxlbnwxfDB8fHwxNzgwMTYzNDM5fDA&ixlib=rb-4.1.0",
+    "credit": "David Todd McCarty",
+    "credit_url": "https://unsplash.com/@davidtoddmccarty?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "spinach_white_bean_udon": {
+    "raw": "https://images.unsplash.com/photo-1598278242809-6c21ee17aef1?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxzcGluYWNoJTIwd2hpdGUlMjBiZWFuJTIwdWRvbnxlbnwxfDB8fHwxNzgwMTYzNDQyfDA&ixlib=rb-4.1.0",
+    "credit": "Elly Brian",
+    "credit_url": "https://unsplash.com/@ellybrian?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "chicken_millet_veg_bowl": {
+    "raw": "https://images.unsplash.com/photo-1606728035253-49e8a23146de?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxmb29kJTIwY2hpY2tlbnxlbnwxfDB8fHwxNzgwMTYzNDQ2fDA&ixlib=rb-4.1.0",
+    "credit": "Claudio Schwarz",
+    "credit_url": "https://unsplash.com/@purzlbaum?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "mild_bulgur_corn_bean_pot": {
+    "raw": "https://images.unsplash.com/photo-1622732777601-e744c3401d44?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxtaWxkJTIwYnVsZ3VyJTIwY29ybiUyMGJlYW4lMjBwb3R8ZW58MXwwfHx8MTc4MDE2NzA0N3ww&ixlib=rb-4.1.0",
+    "credit": "Sumeet B",
+    "credit_url": "https://unsplash.com/@pixel_is_fun?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "pea_zucchini_orzo_turkey": {
+    "raw": "https://images.unsplash.com/photo-1615485499978-1279c3d6302f?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxwZWElMjB6dWNjaGluaSUyMG9yem8lMjB0dXJrZXl8ZW58MXwwfHx8MTc4MDE2NzA1MHww&ixlib=rb-4.1.0",
+    "credit": "Mockup Graphics",
+    "credit_url": "https://unsplash.com/@mockupgraphics?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "broccoli_rice_bean_skillet": {
+    "raw": "https://images.unsplash.com/photo-1665332111329-dd9d7fa46c74?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxicm9jY29saSUyMHJpY2UlMjBiZWFuJTIwc2tpbGxldHxlbnwxfDB8fHwxNzgwMTY3MDUzfDA&ixlib=rb-4.1.0",
+    "credit": "Keesha's Kitchen",
+    "credit_url": "https://unsplash.com/@keeshasskitchen?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "carrot_spinach_gnocchi_chicken": {
+    "raw": "https://images.unsplash.com/photo-1573742116698-f5b4aa226c5c?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjYXJyb3QlMjBzcGluYWNoJTIwZ25vY2NoaSUyMGNoaWNrZW58ZW58MXwwfHx8MTc4MDE2NzA1Nnww&ixlib=rb-4.1.0",
+    "credit": "Caglar Araz",
+    "credit_url": "https://unsplash.com/@caglararaz?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "lentil_couscous_veg_pan": {
+    "raw": "https://images.unsplash.com/photo-1582576163090-09d3b6f8a969?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxsZW50aWwlMjBjb3VzY291cyUyMHZlZyUyMHBhbnxlbnwxfDB8fHwxNzgwMTY3MDU5fDA&ixlib=rb-4.1.0",
+    "credit": "Daniela",
+    "credit_url": "https://unsplash.com/@daniela_curly?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "turkey_quinoa_tomato_bake": {
+    "raw": "https://images.unsplash.com/photo-1586197122509-651125c9605a?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx0dXJrZXklMjBxdWlub2ElMjB0b21hdG8lMjBiYWtlfGVufDF8MHx8fDE3ODAxNjcwNjN8MA&ixlib=rb-4.1.0",
+    "credit": "Kristine Tumanyan",
+    "credit_url": "https://unsplash.com/@krstne?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "white_bean_pea_polenta": {
+    "raw": "https://images.unsplash.com/photo-1635843095815-7c85a923e734?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx3aGl0ZSUyMGJlYW4lMjBwZWElMjBwb2xlbnRhfGVufDF8MHx8fDE3ODAxNjcwNjZ8MA&ixlib=rb-4.1.0",
+    "credit": "engin akyurt",
+    "credit_url": "https://unsplash.com/@enginakyurt?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "chicken_broccoli_risoni": {
+    "raw": "https://images.unsplash.com/photo-1628025114288-1693ac3bcac1?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjaGlja2VuJTIwYnJvY2NvbGklMjByaXNvbml8ZW58MXwwfHx8MTc4MDE2NzA2OXww&ixlib=rb-4.1.0",
+    "credit": "Fernando Aguilar",
+    "credit_url": "https://unsplash.com/@feraguilar?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "mild_pepper_lentil_rice": {
+    "raw": "https://images.unsplash.com/photo-1612708074992-c7936e82c99b?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxtaWxkJTIwcGVwcGVyJTIwbGVudGlsJTIwcmljZXxlbnwxfDB8fHwxNzgwMTY3MDcyfDA&ixlib=rb-4.1.0",
+    "credit": "Wolfgang Hasselmann",
+    "credit_url": "https://unsplash.com/@wolfgang_hasselmann?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "chicken_pea_couscous_bowl": {
+    "raw": "https://images.unsplash.com/photo-1670398564097-0762e1b30b3a?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjaGlja2VuJTIwcGVhJTIwY291c2NvdXMlMjBib3dsfGVufDF8MHx8fDE3ODAxNjcwNzV8MA&ixlib=rb-4.1.0",
+    "credit": "Elena Leya",
+    "credit_url": "https://unsplash.com/@foodistika?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "broccoli_white_bean_orzo": {
+    "raw": "https://images.unsplash.com/photo-1687102695609-98083cc4e33c?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxicm9jY29saSUyMHdoaXRlJTIwYmVhbiUyMG9yem98ZW58MXwwfHx8MTc4MDE2NzA3OHww&ixlib=rb-4.1.0",
+    "credit": "Tao Yuan",
+    "credit_url": "https://unsplash.com/@peek_a_boo_who?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "turkey_zucchini_rice_bake": {
+    "raw": "https://images.unsplash.com/photo-1747932987138-aed6073021db?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx0dXJrZXklMjB6dWNjaGluaSUyMHJpY2UlMjBiYWtlfGVufDF8MHx8fDE3ODAxNjcwODJ8MA&ixlib=rb-4.1.0",
+    "credit": "Elena Soroka",
+    "credit_url": "https://unsplash.com/@photohelensoroka?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "spinach_millet_chickpeas": {
+    "raw": "https://images.unsplash.com/photo-1582576163090-09d3b6f8a969?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxzcGluYWNoJTIwbWlsbGV0JTIwY2hpY2twZWFzfGVufDF8MHx8fDE3ODAxNjcwODV8MA&ixlib=rb-4.1.0",
+    "credit": "Daniela",
+    "credit_url": "https://unsplash.com/@daniela_curly?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "mild_tomato_quinoa_chicken": {
+    "raw": "https://images.unsplash.com/photo-1576423041422-f057a205f3b5?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxtaWxkJTIwdG9tYXRvJTIwcXVpbm9hJTIwY2hpY2tlbnxlbnwxfDB8fHwxNzgwMTY3MDg4fDA&ixlib=rb-4.1.0",
+    "credit": "Marko Icelic",
+    "credit_url": "https://unsplash.com/@markoicela?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "green_bean_orzo_turkey": {
+    "raw": "https://images.unsplash.com/photo-1574963835594-61eede2070dc?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxncmVlbiUyMGJlYW4lMjBvcnpvJTIwdHVya2V5fGVufDF8MHx8fDE3ODAxNjcwOTF8MA&ixlib=rb-4.1.0",
+    "credit": "Bob Bowie",
+    "credit_url": "https://unsplash.com/@connave?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "lentil_broccoli_polenta": {
+    "raw": "https://images.unsplash.com/photo-1676547480642-4379480a2210?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxsZW50aWwlMjBicm9jY29saSUyMHBvbGVudGF8ZW58MXwwfHx8MTc4MDE2NzA5NHww&ixlib=rb-4.1.0",
+    "credit": "Bakd&Raw by Karolin Baitinger",
+    "credit_url": "https://unsplash.com/@bakdandraw?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "carrot_pea_bulgur_pan": {
+    "raw": "https://images.unsplash.com/photo-1630409351217-bc4fa6422075?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjYXJyb3QlMjBwZWElMjBidWxndXIlMjBwYW58ZW58MXwwfHx8MTc4MDE2NzA5N3ww&ixlib=rb-4.1.0",
+    "credit": "Mario Raj",
+    "credit_url": "https://unsplash.com/@chefmariii?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "chicken_couscous_yogurt_veg": {
+    "raw": "https://images.unsplash.com/photo-1625944228126-74f9d9ae77e3?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjaGlja2VuJTIwY291c2NvdXMlMjB5b2d1cnR8ZW58MXwwfHx8MTc4MDE2NzEwMHww&ixlib=rb-4.1.0",
+    "credit": "Farhad Ibrahimzade",
+    "credit_url": "https://unsplash.com/@ferhadd?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "bean_zucchini_rice_skillet": {
+    "raw": "https://images.unsplash.com/photo-1665332111329-dd9d7fa46c74?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxiZWFuJTIwenVjY2hpbmklMjByaWNlJTIwc2tpbGxldHxlbnwxfDB8fHwxNzgwMTY3MTAzfDA&ixlib=rb-4.1.0",
+    "credit": "Keesha's Kitchen",
+    "credit_url": "https://unsplash.com/@keeshasskitchen?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "pea_spinach_pasta_turkey": {
+    "raw": "https://images.unsplash.com/photo-1625128726788-3fee36746aaa?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxwZWElMjBzcGluYWNoJTIwcGFzdGElMjB0dXJrZXl8ZW58MXwwfHx8MTc4MDE2NzEwN3ww&ixlib=rb-4.1.0",
+    "credit": "Bakd&Raw by Karolin Baitinger",
+    "credit_url": "https://unsplash.com/@bakdandraw?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "mild_quinoa_lentil_bake": {
+    "raw": "https://images.unsplash.com/photo-1594782855419-e646186ad78f?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxtaWxkJTIwcXVpbm9hJTIwbGVudGlsJTIwYmFrZXxlbnwxfDB8fHwxNzgwMTY3MTEwfDA&ixlib=rb-4.1.0",
+    "credit": "Neolene Heppes",
+    "credit_url": "https://unsplash.com/@neolene_h?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "quick_chicken_pepper_rice": {
+    "raw": "https://images.unsplash.com/photo-1664992960082-0ea299a9c53e?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxxdWljayUyMGNoaWNrZW4lMjBwZXBwZXIlMjByaWNlfGVufDF8MHx8fDE3ODAxNjcxMTN8MA&ixlib=rb-4.1.0",
+    "credit": "Keesha's Kitchen",
+    "credit_url": "https://unsplash.com/@keeshasskitchen?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "quick_bean_bulgur_pan": {
+    "raw": "https://images.unsplash.com/photo-1622732777601-e744c3401d44?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxxdWljayUyMGJlYW4lMjBidWxndXIlMjBwYW58ZW58MXwwfHx8MTc4MDE2NzExNnww&ixlib=rb-4.1.0",
+    "credit": "Sumeet B",
+    "credit_url": "https://unsplash.com/@pixel_is_fun?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "quick_turkey_orzo_peas": {
+    "raw": "https://images.unsplash.com/photo-1708428661248-03d821e192eb?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxxdWljayUyMHR1cmtleSUyMG9yem8lMjBwZWFzfGVufDF8MHx8fDE3ODAxNjcxMTl8MA&ixlib=rb-4.1.0",
+    "credit": "Luna Q",
+    "credit_url": "https://unsplash.com/@workingdeluna?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "quick_broccoli_couscous": {
+    "raw": "https://images.unsplash.com/photo-1584270354949-c26b0d5b4a0c?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxxdWljayUyMGJyb2Njb2xpJTIwY291c2NvdXN8ZW58MXwwfHx8MTc4MDE2NzEyMnww&ixlib=rb-4.1.0",
+    "credit": "Louis Hansel",
+    "credit_url": "https://unsplash.com/@louishansel?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "quick_lentil_pasta_carrot": {
+    "raw": "https://images.unsplash.com/photo-1749409196304-cea088c67444?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxxdWljayUyMGxlbnRpbCUyMHBhc3RhJTIwY2Fycm90fGVufDF8MHx8fDE3ODAxNjcxMjV8MA&ixlib=rb-4.1.0",
+    "credit": "Avinash Narnaware",
+    "credit_url": "https://unsplash.com/@90ml_water?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "quick_chicken_udon_spinach": {
+    "raw": "https://images.unsplash.com/photo-1604329760661-e71dc83f8f26?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxxdWljayUyMGNoaWNrZW4lMjB1ZG9uJTIwc3BpbmFjaHxlbnwxfDB8fHwxNzgwMTY3MTI5fDA&ixlib=rb-4.1.0",
+    "credit": "Femoree",
+    "credit_url": "https://unsplash.com/@femoree?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "quick_polenta_beans_tomato": {
+    "raw": "https://images.unsplash.com/photo-1715216553304-4960f95dfff2?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxxdWljayUyMHBvbGVudGElMjBiZWFucyUyMHRvbWF0b3xlbnwxfDB8fHwxNzgwMTY3MTMyfDA&ixlib=rb-4.1.0",
+    "credit": "Kerri Leung",
+    "credit_url": "https://unsplash.com/@kerrileung1?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "quick_turkey_rice_corn": {
+    "raw": "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxxdWljayUyMHR1cmtleSUyMHJpY2UlMjBjb3JufGVufDF8MHx8fDE3ODAxNjcxMzV8MA&ixlib=rb-4.1.0",
+    "credit": "Louis Hansel",
+    "credit_url": "https://unsplash.com/@louishansel?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "quick_zucchini_orzo_beans": {
+    "raw": "https://images.unsplash.com/photo-1596097635691-9da03dec2865?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxxdWljayUyMHp1Y2NoaW5pJTIwb3J6byUyMGJlYW5zfGVufDF8MHx8fDE3ODAxNjcxMzh8MA&ixlib=rb-4.1.0",
+    "credit": "Louis Hansel",
+    "credit_url": "https://unsplash.com/@louishansel?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "quick_quinoa_chicken_peas": {
+    "raw": "https://images.unsplash.com/photo-1636044992970-f6efe88ab1f8?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxxdWljayUyMHF1aW5vYSUyMGNoaWNrZW4lMjBwZWFzfGVufDF8MHx8fDE3ODAxNjcxNDF8MA&ixlib=rb-4.1.0",
+    "credit": "nrd",
+    "credit_url": "https://unsplash.com/@nicotitto?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "teriyaki_chicken_rice": {
+    "raw": "https://images.unsplash.com/photo-1636401870585-a8852371e84a?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx0ZXJpeWFraSUyMGNoaWNrZW4lMjByaWNlfGVufDF8MHx8fDE3ODAxNjcxNDV8MA&ixlib=rb-4.1.0",
+    "credit": "Fernando Aguilar",
+    "credit_url": "https://unsplash.com/@feraguilar?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "katsu_curry_chicken": {
+    "raw": "https://images.unsplash.com/photo-1723208841184-3d91ba244c60?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxqYXBhbmVzZSUyMGthdHN1JTIwY3VycnklMjByaWNlfGVufDF8MHx8fDE3ODAxNjcxNDh8MA&ixlib=rb-4.1.0",
+    "credit": "Kelsey He",
+    "credit_url": "https://unsplash.com/@idwyss?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "miso_ramen_chicken": {
+    "raw": "https://images.unsplash.com/photo-1591814468924-caf88d1232e1?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxtaXNvJTIwcmFtZW4lMjBub29kbGUlMjBzb3VwfGVufDF8MHx8fDE3ODAxNjcxNTF8MA&ixlib=rb-4.1.0",
+    "credit": "Cody  Chan",
+    "credit_url": "https://unsplash.com/@cceee?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "gyudon_beef_rice": {
+    "raw": "https://images.unsplash.com/photo-1761064864527-d428a88cd4f5?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxneXVkb24lMjBiZWVmJTIwcmljZXxlbnwxfDB8fHwxNzgwMTY3MTU1fDA&ixlib=rb-4.1.0",
+    "credit": "Nicholas Ng",
+    "credit_url": "https://unsplash.com/@nicsandman20?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "nikujaga_potato_stew": {
+    "raw": "https://images.unsplash.com/photo-1648970198229-b7c89fc0e2a5?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxqYXBhbmVzZSUyMG1lYXQlMjBwb3RhdG8lMjBzdGV3fGVufDF8MHx8fDE3ODAxNjcxNTl8MA&ixlib=rb-4.1.0",
+    "credit": "Wayne W",
+    "credit_url": "https://unsplash.com/@wayne7?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "karaage_chicken_rice": {
+    "raw": "https://images.unsplash.com/photo-1594254916028-742dedb72062?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxqYXBhbmVzZSUyMGZyaWVkJTIwY2hpY2tlbiUyMGthcmFhZ2V8ZW58MXwwfHx8MTc4MDE2NzE2Mnww&ixlib=rb-4.1.0",
+    "credit": "HONG FENG",
+    "credit_url": "https://unsplash.com/@cosmonaut647?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "yakisoba_chicken_veg": {
+    "raw": "https://images.unsplash.com/photo-1680675494363-75bbf9838a09?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx5YWtpc29iYSUyMGNoaWNrZW58ZW58MXwwfHx8MTc4MDE2NzE2NXww&ixlib=rb-4.1.0",
+    "credit": "R Eris",
+    "credit_url": "https://unsplash.com/@eprayatama?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "japanese_chahan_fried_rice": {
+    "raw": "https://images.unsplash.com/photo-1609570324378-ec0c4c9b6ba8?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxqYXBhbmVzZSUyMGNoYWhhbiUyMGZyaWVkJTIwcmljZXxlbnwxfDB8fHwxNzgwMTY3MTY4fDA&ixlib=rb-4.1.0",
+    "credit": "Jay Nlper",
+    "credit_url": "https://unsplash.com/@itworkonline?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "miso_glazed_chicken_quinoa": {
+    "raw": "https://images.unsplash.com/photo-1522080213597-473dfd70215c?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxtaXNvJTIwZ2xhemVkJTIwY2hpY2tlbiUyMHF1aW5vYXxlbnwxfDB8fHwxNzgwMTY3MTcxfDA&ixlib=rb-4.1.0",
+    "credit": "Arièle Bonte",
+    "credit_url": "https://unsplash.com/@ariele_bonte?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "soba_chicken_dashi": {
+    "raw": "https://images.unsplash.com/photo-1663870158409-2d3c78ba0a9f?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxmb29kJTIwc29iYXxlbnwxfDB8fHwxNzgwMTY3MTc1fDA&ixlib=rb-4.1.0",
+    "credit": "Yosuke Ota",
+    "credit_url": "https://unsplash.com/@yosuke_ota?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "hayashi_rice_chicken": {
+    "raw": "https://images.unsplash.com/photo-1644131447497-8723db691320?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxqYXBhbmVzZSUyMGhheWFzaGklMjByaWNlJTIwZGVtaS1nbGFjZXxlbnwxfDB8fHwxNzgwMTY3MTc4fDA&ixlib=rb-4.1.0",
+    "credit": "Markus Winkler",
+    "credit_url": "https://unsplash.com/@markuswinkler?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "zosui_chicken_rice_porridge": {
+    "raw": "https://images.unsplash.com/photo-1611143669185-af224c5e3252?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxmb29kJTIwamFwYW5lc2V8ZW58MXwwfHx8MTc4MDE1OTU5N3ww&ixlib=rb-4.1.0",
+    "credit": "Jakub Dziubak",
+    "credit_url": "https://unsplash.com/@jckbck?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "yosenabe_tofu_chicken": {
+    "raw": "https://images.unsplash.com/photo-1682496178113-6275890f1fd7?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxqYXBhbmVzZSUyMGhvdCUyMHBvdCUyMG5hYmV8ZW58MXwwfHx8MTc4MDE2NzE4NXww&ixlib=rb-4.1.0",
+    "credit": "You Le",
+    "credit_url": "https://unsplash.com/@le_y0u?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "bibimbap_chicken_veg": {
+    "raw": "https://images.unsplash.com/photo-1600289031464-74d374b64991?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxiaWJpbWJhcCUyMGtvcmVhbiUyMHJpY2UlMjBib3dsfGVufDF8MHx8fDE3ODAxNjcxODh8MA&ixlib=rb-4.1.0",
+    "credit": "Nikolay Smeh",
+    "credit_url": "https://unsplash.com/@nikolay_smeh?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "dakgalbi_spicy_chicken": {
+    "raw": "https://images.unsplash.com/photo-1595323726692-ffc50d79e33a?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxrb3JlYW4lMjBzcGljeSUyMGNoaWNrZW4lMjBzdGlyJTIwZnJ5fGVufDF8MHx8fDE3ODAxNjcxOTF8MA&ixlib=rb-4.1.0",
+    "credit": "The-Lore",
+    "credit_url": "https://unsplash.com/@soumeya?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "doenjang_jjigae": {
+    "raw": "https://images.unsplash.com/photo-1760228865341-675704c22a5b?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxrb3JlYW4lMjBmZXJtZW50ZWQlMjBzb3liZWFuJTIwc3Rld3xlbnwxfDB8fHwxNzgwMTY3MTk0fDA&ixlib=rb-4.1.0",
+    "credit": "rawkkim",
+    "credit_url": "https://unsplash.com/@rawkkim?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "bulgogi_rice_bowl": {
+    "raw": "https://images.unsplash.com/photo-1646299501330-c46c84c0c936?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxrb3JlYW4lMjBidWxnb2dpJTIwYmVlZiUyMHJpY2V8ZW58MXwwfHx8MTc4MDE2NzE5N3ww&ixlib=rb-4.1.0",
+    "credit": "Zhuojun Yu",
+    "credit_url": "https://unsplash.com/@heebase?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "sundubu_jjigae_tofu": {
+    "raw": "https://images.unsplash.com/photo-1580651315530-69c8e0026377?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxrb3JlYW4lMjBzb2Z0JTIwdG9mdSUyMHN0ZXd8ZW58MXwwfHx8MTc4MDE3MDc5OHww&ixlib=rb-4.1.0",
+    "credit": "Markus Winkler",
+    "credit_url": "https://unsplash.com/@markuswinkler?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "japchae_glass_noodles": {
+    "raw": "https://images.unsplash.com/photo-1583032015879-e5022cb87c3b?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxrb3JlYW4lMjBnbGFzcyUyMG5vb2RsZXMlMjBzdGlyJTIwZnJ5fGVufDF8MHx8fDE3ODAxNzA4MDF8MA&ixlib=rb-4.1.0",
+    "credit": "GoodEats YQR",
+    "credit_url": "https://unsplash.com/@goodeats_yqr?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "kimchi_fried_rice_chicken": {
+    "raw": "https://images.unsplash.com/photo-1600688654899-379ec76aca42?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxraW1jaGklMjBmcmllZCUyMHJpY2V8ZW58MXwwfHx8MTc4MDE3MDgwNHww&ixlib=rb-4.1.0",
+    "credit": "Emanuel Ekström",
+    "credit_url": "https://unsplash.com/@emanuelekstrom?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "gochujang_chicken_sesame_rice": {
+    "raw": "https://images.unsplash.com/photo-1636401870585-a8852371e84a?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxrb3JlYW4lMjBnb2NodWphbmclMjBjaGlja2VuJTIwcmljZXxlbnwxfDB8fHwxNzgwMTcwODA4fDA&ixlib=rb-4.1.0",
+    "credit": "Fernando Aguilar",
+    "credit_url": "https://unsplash.com/@feraguilar?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "yukgaejang_beef_soup": {
+    "raw": "https://images.unsplash.com/photo-1709433420624-832e2264c346?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxrb3JlYW4lMjBzcGljeSUyMGJlZWYlMjBzb3VwfGVufDF8MHx8fDE3ODAxNzA4MTF8MA&ixlib=rb-4.1.0",
+    "credit": "Daniel",
+    "credit_url": "https://unsplash.com/@unsplashbydan?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "dak_galbi_cheese_bake": {
+    "raw": "https://images.unsplash.com/photo-1671066823538-06ae47164a78?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxrb3JlYW4lMjBjaGVlc2UlMjBjaGlja2VuJTIwYmFrZXxlbnwxfDB8fHwxNzgwMTcwODE0fDA&ixlib=rb-4.1.0",
+    "credit": "Peter Ooi",
+    "credit_url": "https://unsplash.com/@peterooi?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "tteokbokki_gnocchi_pan": {
+    "raw": "https://images.unsplash.com/photo-1635363638580-c2809d049eee?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxrb3JlYW4lMjBzcGljeSUyMHJpY2UlMjBjYWtlJTIwdHRlb2tib2traXxlbnwxfDB8fHwxNzgwMTcwODE3fDA&ixlib=rb-4.1.0",
+    "credit": "Marcin Skalij",
+    "credit_url": "https://unsplash.com/@m_skalij?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "kongnamul_chicken_rice": {
+    "raw": "https://images.unsplash.com/photo-1646299501330-c46c84c0c936?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxrb3JlYW4lMjBiZWFuJTIwc3Byb3V0JTIwcmljZXxlbnwxfDB8fHwxNzgwMTcwODIxfDA&ixlib=rb-4.1.0",
+    "credit": "Zhuojun Yu",
+    "credit_url": "https://unsplash.com/@heebase?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "pad_thai_chicken": {
+    "raw": "https://images.unsplash.com/photo-1559314809-0d155014e29e?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxwYWQlMjB0aGFpJTIwbm9vZGxlc3xlbnwxfDB8fHwxNzgwMTcwODI0fDA&ixlib=rb-4.1.0",
+    "credit": "Alyssa Kowalski",
+    "credit_url": "https://unsplash.com/@lockandkey?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "thai_green_curry_chicken": {
+    "raw": "https://images.unsplash.com/photo-1616278842935-f36557148755?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx0aGFpJTIwZ3JlZW4lMjBjdXJyeSUyMGNoaWNrZW58ZW58MXwwfHx8MTc4MDE3MDgyN3ww&ixlib=rb-4.1.0",
+    "credit": "Paul Rogers",
+    "credit_url": "https://unsplash.com/@progers?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "thai_red_curry_chicken": {
+    "raw": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx0aGFpJTIwcmVkJTIwY3VycnklMjBjaGlja2VufGVufDF8MHx8fDE3ODAxNzA4MzB8MA&ixlib=rb-4.1.0",
+    "credit": "emy",
+    "credit_url": "https://unsplash.com/@emysong_?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "pad_krapao_chicken": {
+    "raw": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx0aGFpJTIwYmFzaWwlMjBjaGlja2VuJTIwc3RpciUyMGZyeXxlbnwxfDB8fHwxNzgwMTcwODMzfDA&ixlib=rb-4.1.0",
+    "credit": "Farhad Ibrahimzade",
+    "credit_url": "https://unsplash.com/@ferhadd?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "tom_kha_gai": {
+    "raw": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx0aGFpJTIwY29jb251dCUyMGNoaWNrZW4lMjBzb3VwfGVufDF8MHx8fDE3ODAxNzA4MzZ8MA&ixlib=rb-4.1.0",
+    "credit": "Max Griss",
+    "credit_url": "https://unsplash.com/@grissphoto?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "massaman_curry_chicken": null,
+  "thai_peanut_chicken_rice": {
+    "raw": "https://images.unsplash.com/photo-1599354607448-8ad6e92b027a?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx0aGFpJTIwcGVhbnV0JTIwY2hpY2tlbiUyMHJpY2V8ZW58MXwwfHx8MTc4MDE3MDg0M3ww&ixlib=rb-4.1.0",
+    "credit": "rakhmat suwandi",
+    "credit_url": "https://unsplash.com/@rakhmatsuwandi?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "thai_basil_fried_rice": {
+    "raw": "https://images.unsplash.com/photo-1696906594893-e9995c4d7082?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx0aGFpJTIwYmFzaWwlMjBmcmllZCUyMHJpY2V8ZW58MXwwfHx8MTc4MDE3MDg0N3ww&ixlib=rb-4.1.0",
+    "credit": "suradeach saetang",
+    "credit_url": "https://unsplash.com/@jointstar?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "pho_ga_chicken": {
+    "raw": "https://images.unsplash.com/photo-1503764654157-72d979d9af2f?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx2aWV0bmFtZXNlJTIwY2hpY2tlbiUyMHBob3xlbnwxfDB8fHwxNzgwMTcwODUwfDA&ixlib=rb-4.1.0",
+    "credit": "Sharon Chen",
+    "credit_url": "https://unsplash.com/@sharonchen?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "bun_bo_nam_bo": {
+    "raw": "https://images.unsplash.com/photo-1718942900279-4711345169d3?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx2aWV0bmFtZXNlJTIwYmVlZiUyMG5vb2RsZSUyMHNhbGFkfGVufDF8MHx8fDE3ODAxNzA4NTN8MA&ixlib=rb-4.1.0",
+    "credit": "Michael Lock",
+    "credit_url": "https://unsplash.com/@milo_photo?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "vietnamese_lemongrass_chicken": {
+    "raw": "https://images.unsplash.com/photo-1652448259747-08446ae23c77?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx2aWV0bmFtZXNlJTIwbGVtb25ncmFzcyUyMGNoaWNrZW58ZW58MXwwfHx8MTc4MDE3MDg1Nnww&ixlib=rb-4.1.0",
+    "credit": "Nils B",
+    "credit_url": "https://unsplash.com/@nils_b?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "bo_luc_lac_wok_beef": {
+    "raw": "https://images.unsplash.com/photo-1723531055852-744d14ac00b4?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx2aWV0bmFtZXNlJTIwc2hha2luZyUyMGJlZWYlMjB3b2t8ZW58MXwwfHx8MTc4MDE3MDg1OXww&ixlib=rb-4.1.0",
+    "credit": "Yukin Li",
+    "credit_url": "https://unsplash.com/@yukinnnxx?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "vietnamese_wok_chicken_noodles": {
+    "raw": "https://images.unsplash.com/photo-1585032226651-759b368d7246?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx2aWV0bmFtZXNlJTIwd29rJTIwY2hpY2tlbiUyMG5vb2RsZXN8ZW58MXwwfHx8MTc4MDE3MDg2Mnww&ixlib=rb-4.1.0",
+    "credit": "Orijit Chatterjee",
+    "credit_url": "https://unsplash.com/@orijit57?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "canh_chua_fish_soup": {
+    "raw": "https://images.unsplash.com/photo-1730112696140-19e61bb43d36?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx2aWV0bmFtZXNlJTIwc291ciUyMGZpc2glMjBzb3VwfGVufDF8MHx8fDE3ODAxNzA4NjV8MA&ixlib=rb-4.1.0",
+    "credit": "Jon Handley",
+    "credit_url": "https://unsplash.com/@handley4eu?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "kung_pao_chicken": {
+    "raw": "https://images.unsplash.com/photo-1742646803028-94ac3bd00762?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxmb29kJTIwa3VuZ3xlbnwxfDB8fHwxNzgwMTcwODY5fDA&ixlib=rb-4.1.0",
+    "credit": "Raymond Okoro",
+    "credit_url": "https://unsplash.com/@raymondokoro?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "mapo_tofu_pork": {
+    "raw": "https://images.unsplash.com/photo-1773196275043-8d6e367b0bca?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxtYXBvJTIwdG9mdSUyMHNpY2h1YW58ZW58MXwwfHx8MTc4MDE3MDg3Mnww&ixlib=rb-4.1.0",
+    "credit": "Anbinh Pho",
+    "credit_url": "https://unsplash.com/@anbinhpho?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "chinese_cashew_chicken": {
+    "raw": "https://images.unsplash.com/photo-1654482921285-59834b69c0f4?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjaGluZXNlJTIwY2FzaGV3JTIwY2hpY2tlbiUyMHN0aXIlMjBmcnl8ZW58MXwwfHx8MTc4MDE3MDg3NXww&ixlib=rb-4.1.0",
+    "credit": "Alexey Demidov",
+    "credit_url": "https://unsplash.com/@alexeydemidov?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "dan_dan_noodles": {
+    "raw": "https://images.unsplash.com/photo-1585032226651-759b368d7246?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxkYW4lMjBkYW4lMjBub29kbGVzJTIwY2hpbmVzZXxlbnwxfDB8fHwxNzgwMTcwODc4fDA&ixlib=rb-4.1.0",
+    "credit": "Orijit Chatterjee",
+    "credit_url": "https://unsplash.com/@orijit57?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "chinese_beef_broccoli": {
+    "raw": "https://images.unsplash.com/photo-1723531055852-744d14ac00b4?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjaGluZXNlJTIwYmVlZiUyMGJyb2Njb2xpfGVufDF8MHx8fDE3ODAxNzA4ODJ8MA&ixlib=rb-4.1.0",
+    "credit": "Yukin Li",
+    "credit_url": "https://unsplash.com/@yukinnnxx?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "san_bei_ji_chicken": {
+    "raw": "https://images.unsplash.com/photo-1609183480237-ccbb2d7c5772?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx0aHJlZSUyMGN1cCUyMGNoaWNrZW4lMjB0YWl3YW5lc2V8ZW58MXwwfHx8MTc4MDE3MDg4NXww&ixlib=rb-4.1.0",
+    "credit": "Tomoyo S",
+    "credit_url": "https://unsplash.com/@lifetofood?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "chinese_black_bean_chicken": {
+    "raw": "https://images.unsplash.com/photo-1702705487239-10a1ca715454?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjaGluZXNlJTIwYmxhY2slMjBiZWFuJTIwY2hpY2tlbnxlbnwxfDB8fHwxNzgwMTcwODg4fDA&ixlib=rb-4.1.0",
+    "credit": "Deepak Surya",
+    "credit_url": "https://unsplash.com/@dthapa?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "congee_chicken": {
+    "raw": "https://images.unsplash.com/photo-1621658537360-dfcb008fe19f?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjaGlja2VuJTIwY29uZ2VlJTIwcmljZSUyMHBvcnJpZGdlfGVufDF8MHx8fDE3ODAxNzA4OTF8MA&ixlib=rb-4.1.0",
+    "credit": "Charles Chen",
+    "credit_url": "https://unsplash.com/@color0911?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "chinese_pork_tofu_pan": {
+    "raw": "https://images.unsplash.com/photo-1702705497146-bbde3336a801?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjaGluZXNlJTIwcG9yayUyMHRvZnUlMjBzdGlyJTIwZnJ5fGVufDF8MHx8fDE3ODAxNzA4OTV8MA&ixlib=rb-4.1.0",
+    "credit": "Deepak Surya",
+    "credit_url": "https://unsplash.com/@dthapa?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "chinese_beef_daikon_stew": {
+    "raw": "https://images.unsplash.com/photo-1445979323117-80453f573b71?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjaGluZXNlJTIwYnJhaXNlZCUyMGJlZWYlMjBkYWlrb258ZW58MXwwfHx8MTc4MDE3MDg5OHww&ixlib=rb-4.1.0",
+    "credit": "yvonne lee harijanto",
+    "credit_url": "https://unsplash.com/@yvonn3my?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "chinese_chicken_glass_noodles": {
+    "raw": "https://images.unsplash.com/photo-1587589542083-6ee3e5fe5d32?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjaGluZXNlJTIwY2hpY2tlbiUyMGdsYXNzJTIwbm9vZGxlc3xlbnwxfDB8fHwxNzgwMTcwOTAxfDA&ixlib=rb-4.1.0",
+    "credit": "Robson Melo",
+    "credit_url": "https://unsplash.com/@bobmelo?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "butter_chicken_basmati": {
+    "raw": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxidXR0ZXIlMjBjaGlja2VuJTIwbXVyZ2glMjBtYWtoYW5pfGVufDF8MHx8fDE3ODAxNzA5MDR8MA&ixlib=rb-4.1.0",
+    "credit": "Raman",
+    "credit_url": "https://unsplash.com/@potofgold07?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "palak_chicken": {
+    "raw": "https://images.unsplash.com/photo-1716959669858-11d415bdead6?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxwYWxhayUyMGNoaWNrZW4lMjBzcGluYWNoJTIwY3Vycnl8ZW58MXwwfHx8MTc4MDE3MDkwN3ww&ixlib=rb-4.1.0",
+    "credit": "You Le",
+    "credit_url": "https://unsplash.com/@le_y0u?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "chana_masala": {
+    "raw": "https://images.unsplash.com/photo-1587033649773-5c231faa21e3?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjaGFuYSUyMG1hc2FsYXxlbnwxfDB8fHwxNzgwMTcwOTEwfDA&ixlib=rb-4.1.0",
+    "credit": "Rahul Chakraborty",
+    "credit_url": "https://unsplash.com/@hckmstrrahul?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "dal_makhani": {
+    "raw": "https://images.unsplash.com/photo-1727018742095-14c9a05aa71a?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxkYWwlMjBtYWtoYW5pfGVufDF8MHx8fDE3ODAxNzA5MTN8MA&ixlib=rb-4.1.0",
+    "credit": "fuseviews",
+    "credit_url": "https://unsplash.com/@fusewiews?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "chicken_tikka_masala": {
+    "raw": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjaGlja2VuJTIwdGlra2ElMjBtYXNhbGElMjBjdXJyeXxlbnwxfDB8fHwxNzgwMTcwOTE2fDA&ixlib=rb-4.1.0",
+    "credit": "Raman",
+    "credit_url": "https://unsplash.com/@potofgold07?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "saag_aloo": {
+    "raw": "https://images.unsplash.com/photo-1536304575888-ccb70eeef59b?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxzYWFnJTIwYWxvbyUyMHNwaW5hY2glMjBwb3RhdG98ZW58MXwwfHx8MTc4MDE3MDkxOXww&ixlib=rb-4.1.0",
+    "credit": "Pille R. Priske",
+    "credit_url": "https://unsplash.com/@pillepriske?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "rajma_curry": {
+    "raw": "https://images.unsplash.com/photo-1668236534990-73c4ed23043c?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxyYWptYSUyMGtpZG5leSUyMGJlYW4lMjBjdXJyeXxlbnwxfDB8fHwxNzgwMTcwOTIzfDA&ixlib=rb-4.1.0",
+    "credit": "Deepal Tamang",
+    "credit_url": "https://unsplash.com/@deepal_tamang?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "indian_yogurt_chicken_spinach": {
+    "raw": "https://images.unsplash.com/photo-1574653853027-5382a3d23a15?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxpbmRpYW4lMjB5b2d1cnQlMjBjaGlja2VuJTIwc3BpbmFjaHxlbnwxfDB8fHwxNzgwMTcwOTI2fDA&ixlib=rb-4.1.0",
+    "credit": "CHUTTERSNAP",
+    "credit_url": "https://unsplash.com/@chuttersnap?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "aloo_gobi": {
+    "raw": "https://images.unsplash.com/photo-1714383611436-7272fa987320?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxhbG9vJTIwZ29iaSUyMGNhdWxpZmxvd2VyJTIwcG90YXRvfGVufDF8MHx8fDE3ODAxNzA5Mjl8MA&ixlib=rb-4.1.0",
+    "credit": "Pablo Arroyo",
+    "credit_url": "https://unsplash.com/@pablogamedev?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "chicken_biryani": {
+    "raw": "https://images.unsplash.com/photo-1631515243349-e0cb75fb8d3a?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjaGlja2VuJTIwYmlyeWFuaSUyMHJpY2V8ZW58MXwwfHx8MTc4MDE3MDkzM3ww&ixlib=rb-4.1.0",
+    "credit": "Mario Raj",
+    "credit_url": "https://unsplash.com/@chefmariii?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "moroccan_chicken_tagine": {
+    "raw": "https://images.unsplash.com/photo-1661083098412-054431ab7112?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxtb3JvY2NhbiUyMGNoaWNrZW4lMjB0YWdpbmUlMjBvbGl2ZXN8ZW58MXwwfHx8MTc4MDE3MDkzNnww&ixlib=rb-4.1.0",
+    "credit": "sour moha",
+    "credit_url": "https://unsplash.com/@sour_moha?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "moroccan_harira": {
+    "raw": "https://images.unsplash.com/photo-1661083098412-054431ab7112?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxmb29kJTIwbW9yb2NjYW58ZW58MXwwfHx8MTc4MDE3MDk0MHww&ixlib=rb-4.1.0",
+    "credit": "sour moha",
+    "credit_url": "https://unsplash.com/@sour_moha?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "chermoula_chicken_couscous": {
+    "raw": "https://images.unsplash.com/photo-1541518763669-27fef04b14ea?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxtb3JvY2NhbiUyMGNoZXJtb3VsYSUyMGNoaWNrZW4lMjBjb3VzY291c3xlbnwxfDB8fHwxNzgwMTcwOTQ0fDA&ixlib=rb-4.1.0",
+    "credit": "Louis Hansel",
+    "credit_url": "https://unsplash.com/@louishansel?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "tunisian_shakshuka_chicken": {
+    "raw": "https://images.unsplash.com/photo-1695960682129-d35477676196?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxzaGFrc2h1a2ElMjBlZ2dzJTIwdG9tYXRvfGVufDF8MHx8fDE3ODAxNzcyNTd8MA&ixlib=rb-4.1.0",
+    "credit": "Wenhao Ruan",
+    "credit_url": "https://unsplash.com/@wenhao_ruan?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "mujaddara_lentil_rice": {
+    "raw": "https://images.unsplash.com/photo-1679279726937-122c49626802?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxsZW50aWwlMjByaWNlJTIwY2FyYW1lbGlzZWQlMjBvbmlvbnxlbnwxfDB8fHwxNzgwMTc3MjYwfDA&ixlib=rb-4.1.0",
+    "credit": "Xavier Chng",
+    "credit_url": "https://unsplash.com/@cohesionsingapore?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "zaatar_chicken_rice": {
+    "raw": "https://images.unsplash.com/photo-1672477179695-7276b0602fa9?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxmb29kJTIwemFhdGFyfGVufDF8MHx8fDE3ODAxNzcyNjN8MA&ixlib=rb-4.1.0",
+    "credit": "maryam emkani",
+    "credit_url": "https://unsplash.com/@maryamemkani?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "kafta_tomato_potato": {
+    "raw": "https://images.unsplash.com/photo-1531730672916-7394699df32f?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxtaWRkbGUlMjBlYXN0ZXJuJTIwbWVhdGJhbGwlMjB0b21hdG98ZW58MXwwfHx8MTc4MDE3NzI2Nnww&ixlib=rb-4.1.0",
+    "credit": "Quaritsch Photography",
+    "credit_url": "https://unsplash.com/@quaritsch?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "ghormeh_sabzi": {
+    "raw": "https://images.unsplash.com/photo-1625943918336-aa2fb847e0b3?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxwZXJzaWFuJTIwaGVyYiUyMGxhbWIlMjBzdGV3fGVufDF8MHx8fDE3ODAxNzcyNzB8MA&ixlib=rb-4.1.0",
+    "credit": "Farhad Ibrahimzade",
+    "credit_url": "https://unsplash.com/@ferhadd?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "fesenjaan_chicken": {
+    "raw": "https://images.unsplash.com/photo-1672477179695-7276b0602fa9?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxwZXJzaWFuJTIwd2FsbnV0JTIwcG9tZWdyYW5hdGUlMjBjaGlja2VufGVufDF8MHx8fDE3ODAxNzcyNzN8MA&ixlib=rb-4.1.0",
+    "credit": "maryam emkani",
+    "credit_url": "https://unsplash.com/@maryamemkani?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "koshari_egyptian": {
+    "raw": "https://images.unsplash.com/photo-1626266799523-941311ea2273?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxlZ3lwdGlhbiUyMGtvc2hhcmklMjBsZW50aWwlMjByaWNlfGVufDF8MHx8fDE3ODAxNzcyNzZ8MA&ixlib=rb-4.1.0",
+    "credit": "VD Photography",
+    "credit_url": "https://unsplash.com/@vdphotography?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "shakshuka_chicken_feta": {
+    "raw": "https://images.unsplash.com/photo-1584278859380-c94d92e083dd?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxzaGFrc2h1a2ElMjBjaGlja2VuJTIwZmV0YXxlbnwxfDB8fHwxNzgwMTc3Mjc5fDA&ixlib=rb-4.1.0",
+    "credit": "Delaney Van",
+    "credit_url": "https://unsplash.com/@delaneyvan?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "turkish_tavuk_sis_bulgur": {
+    "raw": "https://images.unsplash.com/photo-1673646961623-40914a7e1932?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx0dXJraXNoJTIwdGF2dWslMjBzaXMlMjBidWxndXJ8ZW58MXwwfHx8MTc4MDE3NzI4Mnww&ixlib=rb-4.1.0",
+    "credit": "Natalia Gusakova",
+    "credit_url": "https://unsplash.com/@nataliaraylenegusakova?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "harissa_chicken_lentils": {
+    "raw": "https://images.unsplash.com/photo-1542627501-cadbb5b43ad7?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxoYXJpc3NhJTIwY2hpY2tlbiUyMGxlbnRpbHN8ZW58MXwwfHx8MTc4MDE3NzI4NXww&ixlib=rb-4.1.0",
+    "credit": "Louis Hansel",
+    "credit_url": "https://unsplash.com/@louishansel?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "zaatar_chicken_pomegranate": {
+    "raw": "https://images.unsplash.com/photo-1672477179695-7276b0602fa9?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxmb29kJTIwemFhdGFyfGVufDF8MHx8fDE3ODAxNzcyNjN8MA&ixlib=rb-4.1.0",
+    "credit": "maryam emkani",
+    "credit_url": "https://unsplash.com/@maryamemkani?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "arabic_machboos_chicken": {
+    "raw": "https://images.unsplash.com/photo-1665332195309-9d75071138f0?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxzcGljZWQlMjBhcmFiaWFuJTIwcmljZSUyMGNoaWNrZW58ZW58MXwwfHx8MTc4MDE3NzI5MXww&ixlib=rb-4.1.0",
+    "credit": "Keesha's Kitchen",
+    "credit_url": "https://unsplash.com/@keeshasskitchen?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "pasta_arrabbiata_chicken": {
+    "raw": "https://images.unsplash.com/photo-1555949258-eb67b1ef0ceb?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxwYXN0YSUyMGFycmFiYmlhdGElMjBjaGlja2VufGVufDF8MHx8fDE3ODAxNzcyOTR8MA&ixlib=rb-4.1.0",
+    "credit": "Pixzolo Photography",
+    "credit_url": "https://unsplash.com/@pixzolo?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "pollo_alla_cacciatore": {
+    "raw": "https://images.unsplash.com/photo-1724041305833-2e2791f4b6b5?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjaGlja2VuJTIwY2FjY2lhdG9yZSUyMGl0YWxpYW58ZW58MXwwfHx8MTc4MDE3NzI5N3ww&ixlib=rb-4.1.0",
+    "credit": "Gina's Auckland",
+    "credit_url": "https://unsplash.com/@ginasauckland?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "ribollita_tuscan_soup": {
+    "raw": "https://images.unsplash.com/photo-1612108438004-257c47560118?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx0dXNjYW4lMjBicmVhZCUyMHZlZ2V0YWJsZSUyMHNvdXB8ZW58MXwwfHx8MTc4MDE3NzMwMHww&ixlib=rb-4.1.0",
+    "credit": "Jametlene Reskp",
+    "credit_url": "https://unsplash.com/@reskp?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "pasta_e_fagioli": {
+    "raw": "https://images.unsplash.com/photo-1654828819532-de14593c5552?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxpdGFsaWFuJTIwcGFzdGElMjBiZWFuJTIwc291cHxlbnwxfDB8fHwxNzgwMTc3MzAzfDA&ixlib=rb-4.1.0",
+    "credit": "Carolyn Delacorte",
+    "credit_url": "https://unsplash.com/@carolyndelacorte?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "chicken_scaloppine_capers": {
+    "raw": "https://images.unsplash.com/photo-1608424414817-2f029ed49832?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjaGlja2VuJTIwc2NhbG9wcGluZSUyMGxlbW9uJTIwY2FwZXJzfGVufDF8MHx8fDE3ODAxNzczMDd8MA&ixlib=rb-4.1.0",
+    "credit": "Jordon Kaplan",
+    "credit_url": "https://unsplash.com/@jordon_kaplan?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "gnocchi_amatriciana": {
+    "raw": "https://images.unsplash.com/photo-1598866594230-a7c12756260f?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxwYXN0YSUyMGFtYXRyaWNpYW5hJTIwdG9tYXRvfGVufDF8MHx8fDE3ODAxNzczMTB8MA&ixlib=rb-4.1.0",
+    "credit": "Danijela Prijovic",
+    "credit_url": "https://unsplash.com/@dacakockica?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "chicken_ossobuco_style": {
+    "raw": "https://images.unsplash.com/photo-1770740782771-2b6e1595f658?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxicmFpc2VkJTIwY2hpY2tlbiUyMGl0YWxpYW4lMjB3aGl0ZSUyMHdpbmV8ZW58MXwwfHx8MTc4MDE3NzMxM3ww&ixlib=rb-4.1.0",
+    "credit": "Brett Jordan",
+    "credit_url": "https://unsplash.com/@brett_jordan?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "pasta_con_sarde": {
+    "raw": "https://images.unsplash.com/photo-1598866594230-a7c12756260f?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxwYXN0YSUyMHNhcmRpbmVzJTIwc2ljaWxpYW58ZW58MXwwfHx8MTc4MDE3NzMxNnww&ixlib=rb-4.1.0",
+    "credit": "Danijela Prijovic",
+    "credit_url": "https://unsplash.com/@dacakockica?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "salsiccia_lentils_kale": {
+    "raw": "https://images.unsplash.com/photo-1617521583527-10229bcc2639?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxpdGFsaWFuJTIwc2F1c2FnZSUyMGxlbnRpbCUyMGthbGV8ZW58MXwwfHx8MTc4MDE3NzMxOXww&ixlib=rb-4.1.0",
+    "credit": "Glen Carrie",
+    "credit_url": "https://unsplash.com/@glencarrie?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "tegamaccio_fish_stew": {
+    "raw": "https://images.unsplash.com/photo-1632778129004-f142ce499b3e?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxpdGFsaWFuJTIwZmlzaCUyMHN0ZXclMjBzZWFmb29kfGVufDF8MHx8fDE3ODAxNzczMjJ8MA&ixlib=rb-4.1.0",
+    "credit": "Clark Douglas",
+    "credit_url": "https://unsplash.com/@clark_douglas?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "coq_au_vin": null,
+  "poulet_basquaise": {
+    "raw": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxiYXNxdWUlMjBjaGlja2VuJTIwcGVwcGVyc3xlbnwxfDB8fHwxNzgwMTc3MzI5fDA&ixlib=rb-4.1.0",
+    "credit": "Farhad Ibrahimzade",
+    "credit_url": "https://unsplash.com/@ferhadd?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "blanquette_de_poulet": {
+    "raw": "https://images.unsplash.com/photo-1662114807783-35bbafc320e7?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxmcmVuY2glMjBjcmVhbXklMjBjaGlja2VuJTIwc3Rld3xlbnwxfDB8fHwxNzgwMTc3MzMyfDA&ixlib=rb-4.1.0",
+    "credit": "Yu Hosoi",
+    "credit_url": "https://unsplash.com/@yu_grino?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "soupe_au_pistou": {
+    "raw": "https://images.unsplash.com/photo-1612108438004-257c47560118?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxmcmVuY2glMjBwcm92ZW5jYWwlMjB2ZWdldGFibGUlMjBzb3VwfGVufDF8MHx8fDE3ODAxNzczMzV8MA&ixlib=rb-4.1.0",
+    "credit": "Jametlene Reskp",
+    "credit_url": "https://unsplash.com/@reskp?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "poulet_provencale": {
+    "raw": "https://images.unsplash.com/photo-1641898378548-ac93da99786a?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxwcm92ZW5jYWwlMjBjaGlja2VuJTIwaGVyYnMlMjBvbGl2ZXN8ZW58MXwwfHx8MTc4MDE3NzMzOHww&ixlib=rb-4.1.0",
+    "credit": "Karyna Panchenko",
+    "credit_url": "https://unsplash.com/@karyna_panchenko?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "cassoulet_french": {
+    "raw": "https://images.unsplash.com/photo-1612548127010-97b48ffa2aef?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxmcmVuY2glMjBjYXNzb3VsZXQlMjBiZWFuJTIwZHVja3xlbnwxfDB8fHwxNzgwMTc3MzQxfDA&ixlib=rb-4.1.0",
+    "credit": "logan jeffrey",
+    "credit_url": "https://unsplash.com/@foodjetsexpress?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "lentil_soup_auvergnat": {
+    "raw": "https://images.unsplash.com/photo-1642497394078-4794e837019c?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxmcmVuY2glMjBsZW50aWwlMjBzb3VwfGVufDF8MHx8fDE3ODAxNzczNDV8MA&ixlib=rb-4.1.0",
+    "credit": "Karyna Panchenko",
+    "credit_url": "https://unsplash.com/@karyna_panchenko?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "boeuf_bourguignon_chicken": {
+    "raw": "https://images.unsplash.com/photo-1579712267685-42da80f60aa4?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxmb29kJTIwZnJlbmNofGVufDF8MHx8fDE3ODAxNzczNDh8MA&ixlib=rb-4.1.0",
+    "credit": "Sebastian Coman Photography",
+    "credit_url": "https://unsplash.com/@sebastiancoman?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "pollo_al_ajillo": {
+    "raw": "https://images.unsplash.com/photo-1603496987351-f84a3ba5ec85?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxzcGFuaXNoJTIwZ2FybGljJTIwY2hpY2tlbnxlbnwxfDB8fHwxNzgwMTc3MzUyfDA&ixlib=rb-4.1.0",
+    "credit": "Dr Muhammad Amer",
+    "credit_url": "https://unsplash.com/@drxyz?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "spanish_paella_chicken": {
+    "raw": "https://images.unsplash.com/photo-1512058564366-18510be2db19?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxwYWVsbGElMjBzcGFuaXNoJTIwcmljZXxlbnwxfDB8fHwxNzgwMTc3MzU1fDA&ixlib=rb-4.1.0",
+    "credit": "Annie Spratt",
+    "credit_url": "https://unsplash.com/@anniespratt?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "spanish_chicken_chorizo": {
+    "raw": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxzcGFuaXNoJTIwY2hpY2tlbiUyMGNob3Jpem8lMjBzdGV3fGVufDF8MHx8fDE3ODAxNzczNTh8MA&ixlib=rb-4.1.0",
+    "credit": "Farhad Ibrahimzade",
+    "credit_url": "https://unsplash.com/@ferhadd?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "fabada_white_bean_stew": {
+    "raw": "https://images.unsplash.com/photo-1715216553304-4960f95dfff2?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxzcGFuaXNoJTIwd2hpdGUlMjBiZWFuJTIwY2hvcml6byUyMHN0ZXd8ZW58MXwwfHx8MTc4MDE3NzM2MXww&ixlib=rb-4.1.0",
+    "credit": "Kerri Leung",
+    "credit_url": "https://unsplash.com/@kerrileung1?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "pisto_manchego_chicken": {
+    "raw": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxzcGFuaXNoJTIwcmF0YXRvdWlsbGUlMjBjaGlja2VufGVufDF8MHx8fDE3ODAxNzczNjV8MA&ixlib=rb-4.1.0",
+    "credit": "Farhad Ibrahimzade",
+    "credit_url": "https://unsplash.com/@ferhadd?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "pollo_catalana": {
+    "raw": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjYXRhbGFuJTIwY2hpY2tlbiUyMGFsbW9uZCUyMG9saXZlfGVufDF8MHx8fDE3ODAxNzczNjh8MA&ixlib=rb-4.1.0",
+    "credit": "Farhad Ibrahimzade",
+    "credit_url": "https://unsplash.com/@ferhadd?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "arroz_caldoso_chicken": {
+    "raw": "https://images.unsplash.com/photo-1664992960082-0ea299a9c53e?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxzcGFuaXNoJTIwc291cHklMjByaWNlJTIwY2hpY2tlbnxlbnwxfDB8fHwxNzgwMTc3MzcxfDA&ixlib=rb-4.1.0",
+    "credit": "Keesha's Kitchen",
+    "credit_url": "https://unsplash.com/@keeshasskitchen?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "iskender_kebab_style": {
+    "raw": "https://images.unsplash.com/photo-1612939675110-fe3a0129a024?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxmb29kJTIwaXNrZW5kZXJ8ZW58MXwwfHx8MTc4MDE3NzM3NXww&ixlib=rb-4.1.0",
+    "credit": "Fahmi Anwar",
+    "credit_url": "https://unsplash.com/@fahmisamidi?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "kuru_fasulye_beans": {
+    "raw": "https://images.unsplash.com/photo-1625943918336-aa2fb847e0b3?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx0dXJraXNoJTIwd2hpdGUlMjBiZWFuJTIwc3Rld3xlbnwxfDB8fHwxNzgwMTc3Mzc4fDA&ixlib=rb-4.1.0",
+    "credit": "Farhad Ibrahimzade",
+    "credit_url": "https://unsplash.com/@ferhadd?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "turkish_guvec_chicken": {
+    "raw": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx0dXJraXNoJTIwY2xheSUyMHBvdCUyMGNoaWNrZW4lMjBzdGV3fGVufDF8MHx8fDE3ODAxNzczODF8MA&ixlib=rb-4.1.0",
+    "credit": "Farhad Ibrahimzade",
+    "credit_url": "https://unsplash.com/@ferhadd?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "turkish_beyran_chicken": {
+    "raw": "https://images.unsplash.com/photo-1665593998976-d957f2827fe7?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx0dXJraXNoJTIwbWVhdCUyMHJpY2UlMjBzb3VwfGVufDF8MHx8fDE3ODAxNzczODR8MA&ixlib=rb-4.1.0",
+    "credit": "Keesha's Kitchen",
+    "credit_url": "https://unsplash.com/@keeshasskitchen?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "turkish_kisir_bowl": {
+    "raw": "https://images.unsplash.com/photo-1661685452870-e89b6e8c14fa?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxmb29kJTIwdHVya2lzaHxlbnwxfDB8fHwxNzgwMTc3Mzg4fDA&ixlib=rb-4.1.0",
+    "credit": "Igor Sporynin",
+    "credit_url": "https://unsplash.com/@igorharrier?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "patlican_musakka": {
+    "raw": "https://images.unsplash.com/photo-1740077975984-f2670ed698d9?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx0dXJraXNoJTIwZWdncGxhbnQlMjBtb3Vzc2FrYXxlbnwxfDB8fHwxNzgwMTc3MzkyfDA&ixlib=rb-4.1.0",
+    "credit": "Markus Winkler",
+    "credit_url": "https://unsplash.com/@markuswinkler?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "hunkar_begendi": {
+    "raw": "https://images.unsplash.com/photo-1625944228126-74f9d9ae77e3?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx0dXJraXNoJTIwY2hpY2tlbiUyMGVnZ3BsYW50JTIwcHVyZWV8ZW58MXwwfHx8MTc4MDE3NzM5NXww&ixlib=rb-4.1.0",
+    "credit": "Farhad Ibrahimzade",
+    "credit_url": "https://unsplash.com/@ferhadd?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "imam_bayildi_chicken": {
+    "raw": "https://images.unsplash.com/photo-1750190624998-ef16e3e8cf80?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHx0dXJraXNoJTIwc3R1ZmZlZCUyMGVnZ3BsYW50fGVufDF8MHx8fDE3ODAyMDk2NTd8MA&ixlib=rb-4.1.0",
+    "credit": "Abdul Raheem Kannath",
+    "credit_url": "https://unsplash.com/@raheemblacksnows?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "greek_giouvetsi": {
+    "raw": "https://images.unsplash.com/photo-1490990813269-10586274747f?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxncmVlayUyMGNoaWNrZW4lMjBvcnpvJTIwYmFrZXxlbnwxfDB8fHwxNzgwMjA5NjYwfDA&ixlib=rb-4.1.0",
+    "credit": "Quilia",
+    "credit_url": "https://unsplash.com/@heyquilia?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "greek_fassolada": {
+    "raw": "https://images.unsplash.com/photo-1654828819532-de14593c5552?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxncmVlayUyMHdoaXRlJTIwYmVhbiUyMHNvdXB8ZW58MXwwfHx8MTc4MDIwOTY2M3ww&ixlib=rb-4.1.0",
+    "credit": "Carolyn Delacorte",
+    "credit_url": "https://unsplash.com/@carolyndelacorte?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "greek_souvlaki_chicken": {
+    "raw": "https://images.unsplash.com/photo-1670237735381-ac5c7fa72c51?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxncmVlayUyMHNvdXZsYWtpJTIwZ3JpbGxlZCUyMGNoaWNrZW58ZW58MXwwfHx8MTc4MDIwOTY2Nnww&ixlib=rb-4.1.0",
+    "credit": "amin ramezani",
+    "credit_url": "https://unsplash.com/@aminrmzni?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "greek_pastitsio": {
+    "raw": "https://images.unsplash.com/photo-1777199311086-ec5ff230aefd?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxncmVlayUyMHBhc3RhJTIwYmFrZSUyMGJlY2hhbWVsfGVufDF8MHx8fDE3ODAyMDk2NzB8MA&ixlib=rb-4.1.0",
+    "credit": "Arne Buss",
+    "credit_url": "https://unsplash.com/@arnedaman?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "greek_revithia": {
+    "raw": "https://images.unsplash.com/photo-1612700722193-f0410adb8949?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxncmVlayUyMGNoaWNrcGVhJTIwc3Rld3xlbnwxfDB8fHwxNzgwMjA5NjczfDA&ixlib=rb-4.1.0",
+    "credit": "Weronika Krztoń",
+    "credit_url": "https://unsplash.com/@weronikakrzton?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "hungarian_chicken_paprikas": {
+    "raw": "https://images.unsplash.com/photo-1605497075858-e2a12a2bd037?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxodW5nYXJpYW4lMjBjaGlja2VuJTIwcGFwcmlrYXxlbnwxfDB8fHwxNzgwMjA5Njc2fDA&ixlib=rb-4.1.0",
+    "credit": "Lena Sifoo",
+    "credit_url": "https://unsplash.com/@sifoo84?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "polish_bigos": {
+    "raw": "https://images.unsplash.com/photo-1695089027936-465ca9835017?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxwb2xpc2glMjBodW50ZXIlMjBzdGV3JTIwc2F1ZXJrcmF1dHxlbnwxfDB8fHwxNzgwMjA5Njc5fDA&ixlib=rb-4.1.0",
+    "credit": "Kelsey Todd",
+    "credit_url": "https://unsplash.com/@sparkledump?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "serbian_pasulj": {
+    "raw": "https://images.unsplash.com/photo-1715216553304-4960f95dfff2?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxzZXJiaWFuJTIwYmVhbiUyMHN0ZXd8ZW58MXwwfHx8MTc4MDIwOTY4Mnww&ixlib=rb-4.1.0",
+    "credit": "Kerri Leung",
+    "credit_url": "https://unsplash.com/@kerrileung1?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "bulgarian_kavarma_chicken": {
+    "raw": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxidWxnYXJpYW4lMjBjaGlja2VuJTIwc3Rld3xlbnwxfDB8fHwxNzgwMjA5Njg1fDA&ixlib=rb-4.1.0",
+    "credit": "Farhad Ibrahimzade",
+    "credit_url": "https://unsplash.com/@ferhadd?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "romanian_chicken_mamaliga": {
+    "raw": "https://images.unsplash.com/photo-1615852735201-2ce54ffa6afa?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjaGlja2VuJTIwcG9sZW50YXxlbnwxfDB8fHwxNzgwMjA5Njg5fDA&ixlib=rb-4.1.0",
+    "credit": "David B Townsend",
+    "credit_url": "https://unsplash.com/@dbtownsend?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "czech_svickova_chicken": {
+    "raw": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxmb29kJTIwY3plY2h8ZW58MXwwfHx8MTc4MDIwOTY5Mnww&ixlib=rb-4.1.0",
+    "credit": "Dan Gold",
+    "credit_url": "https://unsplash.com/@danielcgold?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "swabian_lentils_spaetzle": {
+    "raw": "https://images.unsplash.com/photo-1577308856961-8e9ec50d0c67?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxmb29kJTIwZ2VybWFufGVufDF8MHx8fDE3ODAyMDk2OTZ8MA&ixlib=rb-4.1.0",
+    "credit": "Rumman Amin",
+    "credit_url": "https://unsplash.com/@rumanamin?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "german_sauerbraten_chicken": {
+    "raw": "https://images.unsplash.com/photo-1622003074877-15f50ba7b6f8?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxnZXJtYW4lMjBwb3QlMjByb2FzdCUyMGdyYXZ5fGVufDF8MHx8fDE3ODAyMDk2OTl8MA&ixlib=rb-4.1.0",
+    "credit": "ThermoPro",
+    "credit_url": "https://unsplash.com/@thermopro?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "german_barley_vegetable_stew": {
+    "raw": "https://images.unsplash.com/photo-1665593998976-d957f2827fe7?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxiYXJsZXklMjB2ZWdldGFibGUlMjBzb3VwfGVufDF8MHx8fDE3ODAyMDk3MDJ8MA&ixlib=rb-4.1.0",
+    "credit": "Keesha's Kitchen",
+    "credit_url": "https://unsplash.com/@keeshasskitchen?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "hungarian_beef_goulash": {
+    "raw": "https://images.unsplash.com/photo-1600180786608-28d06391d25c?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxodW5nYXJpYW4lMjBiZWVmJTIwZ291bGFzaHxlbnwxfDB8fHwxNzgwMjA5NzA2fDA&ixlib=rb-4.1.0",
+    "credit": "Usman Yousaf",
+    "credit_url": "https://unsplash.com/@usmanyousaf?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "polish_zurek_soup": {
+    "raw": "https://images.unsplash.com/photo-1648726445011-9fbf3a5ddb90?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxwb2xpc2glMjBzb3VyJTIwcnllJTIwc291cCUyMGVnZ3xlbnwxfDB8fHwxNzgwMjA5NzA5fDA&ixlib=rb-4.1.0",
+    "credit": "Rasmus Gundorff Sæderup",
+    "credit_url": "https://unsplash.com/@rasmusgs?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "austrian_chicken_cream_stew": {
+    "raw": "https://images.unsplash.com/photo-1471623817296-aa07ae5c9f47?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxhdXN0cmlhbiUyMGNyZWFtJTIwY2hpY2tlbnxlbnwxfDB8fHwxNzgwMjA5NzEyfDA&ixlib=rb-4.1.0",
+    "credit": "JOHN TOWNER",
+    "credit_url": "https://unsplash.com/@heytowner?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "enchiladas_rojas_chicken": {
+    "raw": "https://images.unsplash.com/photo-1601039641847-7857b994d704?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxmb29kJTIwZW5jaGlsYWRhc3xlbnwxfDB8fHwxNzgwMjA5NzE2fDA&ixlib=rb-4.1.0",
+    "credit": "Gil Ndjouwou",
+    "credit_url": "https://unsplash.com/@gilndjouwou?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "pozole_rojo_chicken": {
+    "raw": "https://images.unsplash.com/photo-1625167171750-419e95f877d8?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxmb29kJTIwbWV4aWNhbnxlbnwxfDB8fHwxNzgwMjA5NzE5fDA&ixlib=rb-4.1.0",
+    "credit": "Hybrid Storytellers",
+    "credit_url": "https://unsplash.com/@hybridstorytellers?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "chicken_tinga_chipotle": {
+    "raw": "https://images.unsplash.com/photo-1689773976415-293dd893f77e?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxtZXhpY2FuJTIwc2hyZWRkZWQlMjBjaGlwb3RsZSUyMGNoaWNrZW58ZW58MXwwfHx8MTc4MDIwOTcyM3ww&ixlib=rb-4.1.0",
+    "credit": "Thomas Park",
+    "credit_url": "https://unsplash.com/@thomascpark?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "arroz_con_pollo": {
+    "raw": "https://images.unsplash.com/photo-1664992960082-0ea299a9c53e?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxhcnJveiUyMGNvbiUyMHBvbGxvJTIwcmljZSUyMGNoaWNrZW58ZW58MXwwfHx8MTc4MDIwOTcyNnww&ixlib=rb-4.1.0",
+    "credit": "Keesha's Kitchen",
+    "credit_url": "https://unsplash.com/@keeshasskitchen?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "sopa_de_lima": {
+    "raw": "https://images.unsplash.com/photo-1579640873954-766bf0235bf3?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxtZXhpY2FuJTIwbGltZSUyMGNoaWNrZW4lMjBzb3VwfGVufDF8MHx8fDE3ODAyMDk3Mjl8MA&ixlib=rb-4.1.0",
+    "credit": "Jarritos Mexican Soda",
+    "credit_url": "https://unsplash.com/@jarritos?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "chicken_burrito_bowl": {
+    "raw": "https://images.unsplash.com/photo-1606728035253-49e8a23146de?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxmb29kJTIwY2hpY2tlbnxlbnwxfDB8fHwxNzgwMTYzNDQ2fDA&ixlib=rb-4.1.0",
+    "credit": "Claudio Schwarz",
+    "credit_url": "https://unsplash.com/@purzlbaum?utm_source=mahlzeit_app&utm_medium=referral"
+  }
+}

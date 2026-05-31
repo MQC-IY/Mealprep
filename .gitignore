@@ -1,0 +1,19 @@
+# Credentials — never commit
+.env
+
+# macOS
+.DS_Store
+
+# Python cache
+__pycache__/
+.pycache/
+*.pyc
+
+# Design reference (Stitch output, large, local only)
+stitch_mahlzeit_meal_prep_ui/
+
+# Archived / one-time files
+old/
+
+# Email images (used by send_meal_plan.py, not the web app)
+images/

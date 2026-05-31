@@ -1,0 +1,988 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="default"/>
+<meta name="apple-mobile-web-app-title" content="Mahlzeit"/>
+<title>Mahlzeit</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@700;800&family=Inter:wght@400;600;700&display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet"/>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+
+<script id="tailwind-config">
+tailwind.config = {
+  darkMode: "class",
+  theme: {
+    extend: {
+      colors: {
+        "primary":                    "#a63500",
+        "on-primary":                 "#ffffff",
+        "primary-container":          "#ca4b17",
+        "on-primary-container":       "#fffbff",
+        "primary-fixed":              "#ffdbcf",
+        "primary-fixed-dim":          "#ffb59c",
+        "on-primary-fixed":           "#390c00",
+        "on-primary-fixed-variant":   "#822700",
+        "inverse-primary":            "#ffb59c",
+        "secondary":                  "#1b6d24",
+        "on-secondary":               "#ffffff",
+        "secondary-container":        "#a0f399",
+        "on-secondary-container":     "#217128",
+        "secondary-fixed":            "#a3f69c",
+        "secondary-fixed-dim":        "#88d982",
+        "on-secondary-fixed":         "#002204",
+        "on-secondary-fixed-variant": "#005312",
+        "tertiary":                   "#69594b",
+        "on-tertiary":                "#ffffff",
+        "tertiary-container":         "#837162",
+        "on-tertiary-container":      "#fffbff",
+        "tertiary-fixed":             "#f5decc",
+        "tertiary-fixed-dim":         "#d8c3b1",
+        "on-tertiary-fixed":          "#25190e",
+        "on-tertiary-fixed-variant":  "#534437",
+        "surface":                    "#fcf9f5",
+        "surface-dim":                "#dcdad6",
+        "surface-bright":             "#fcf9f5",
+        "surface-container-lowest":   "#ffffff",
+        "surface-container-low":      "#f6f3ef",
+        "surface-container":          "#f0edea",
+        "surface-container-high":     "#ebe8e4",
+        "surface-container-highest":  "#e5e2de",
+        "surface-variant":            "#e5e2de",
+        "surface-tint":               "#aa3600",
+        "on-surface":                 "#1c1c1a",
+        "on-surface-variant":         "#59413a",
+        "inverse-surface":            "#31302e",
+        "inverse-on-surface":         "#f3f0ec",
+        "outline":                    "#8d7168",
+        "outline-variant":            "#e1bfb5",
+        "background":                 "#fcf9f5",
+        "on-background":              "#1c1c1a",
+        "error":                      "#ba1a1a",
+        "on-error":                   "#ffffff",
+        "error-container":            "#ffdad6",
+        "on-error-container":         "#93000a",
+      },
+      borderRadius: {
+        "DEFAULT": "0.25rem",
+        "lg":  "0.5rem",
+        "xl":  "0.75rem",
+        "2xl": "1.25rem",
+        "full":"9999px",
+      },
+      spacing: {
+        "stack-sm":   "8px",
+        "stack-md":   "16px",
+        "stack-lg":   "32px",
+        "section-gap":"48px",
+        "margin-safe":"20px",
+        "gutter":     "16px",
+      },
+      fontFamily: {
+        "display": ["Plus Jakarta Sans", "sans-serif"],
+        "body":    ["Inter", "system-ui", "sans-serif"],
+      },
+      fontSize: {
+        "headline-lg-mobile": ["28px", { lineHeight:"34px", fontWeight:"700" }],
+        "headline-md-mobile": ["20px", { lineHeight:"28px", fontWeight:"700" }],
+        "headline-md":        ["24px", { lineHeight:"32px", fontWeight:"700" }],
+        "label-md":           ["14px", { lineHeight:"20px", letterSpacing:"0.01em", fontWeight:"600" }],
+        "label-sm":           ["12px", { lineHeight:"16px", letterSpacing:"0.03em", fontWeight:"700" }],
+        "body-md":            ["16px", { lineHeight:"24px", fontWeight:"400" }],
+        "body-sm":            ["14px", { lineHeight:"20px", fontWeight:"400" }],
+      },
+    }
+  }
+}
+</script>
+
+<style>
+  .material-symbols-outlined {
+    font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+    user-select: none;
+  }
+  .icon-fill { font-variation-settings: 'FILL' 1, 'wght' 400, 'GRAD' 0, 'opsz' 24; }
+
+  .pt-safe { padding-top: env(safe-area-inset-top); }
+  .pb-safe { padding-bottom: env(safe-area-inset-bottom); }
+
+  .no-scroll::-webkit-scrollbar { display: none; }
+  .no-scroll { -ms-overflow-style: none; scrollbar-width: none; }
+
+  .check-custom {
+    appearance: none;
+    width: 24px; height: 24px;
+    border-radius: 8px;
+    border: 2px solid #8d7168;
+    background-color: transparent;
+    display: grid; place-content: center;
+    transition: all .2s ease-in-out;
+    cursor: pointer; flex-shrink: 0;
+  }
+  .check-custom::before {
+    content: "";
+    width: 12px; height: 12px;
+    clip-path: polygon(14% 44%, 0 65%, 50% 100%, 100% 16%, 80% 0%, 43% 62%);
+    transform: scale(0);
+    transition: 120ms transform ease-in-out;
+    background-color: #ffffff;
+  }
+  .check-custom:checked { background-color: #ca4b17; border-color: #ca4b17; }
+  .check-custom:checked::before { transform: scale(1); }
+  .item-checked { text-decoration: line-through; opacity: .45; }
+
+  #sheet-backdrop {
+    position: fixed; inset: 0; z-index: 60;
+    background: rgba(28,28,26,.45);
+    opacity: 0; pointer-events: none;
+    transition: opacity .3s ease;
+  }
+  #sheet-panel {
+    position: fixed; bottom: 0; left: 50%; z-index: 61;
+    width: 100%; max-width: 28rem;
+    transform: translate(-50%, 100%);
+    transition: transform .35s cubic-bezier(.32,.72,0,1);
+    background: #fcf9f5;
+    border-radius: 24px 24px 0 0;
+    max-height: 88dvh;
+    display: flex; flex-direction: column;
+  }
+  #sheet-backdrop.open { opacity: 1; pointer-events: auto; }
+  #sheet-panel.open    { transform: translate(-50%, 0); }
+
+  .view { display: none; }
+  .view.active { display: flex; flex-direction: column; flex: 1; min-height: 0; }
+
+  @keyframes spin { to { transform: rotate(360deg); } }
+  .spinner { animation: spin 1s linear infinite; }
+
+  body { min-height: 100dvh; }
+
+  .sidebar-btn {
+    display: flex; align-items: center; gap: 12px;
+    width: 100%; padding: 10px 14px; border-radius: 12px;
+    font-size: 14px; font-weight: 600; letter-spacing: .01em;
+    color: #59413a; transition: all .15s;
+    cursor: pointer;
+  }
+  .sidebar-btn:hover  { background: #f0edea; }
+  .sidebar-btn.active { background: #ffdbcf; color: #a63500; }
+  .sidebar-btn.active .material-symbols-outlined {
+    font-variation-settings: 'FILL' 1, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+    color: #a63500;
+  }
+
+  @media (min-width: 1024px) {
+    #sheet-panel {
+      max-width: 44rem;
+      border-radius: 24px;
+      top: 50%; bottom: auto;
+      max-height: 85dvh;
+      transform: translate(-50%, -50%) scale(0.94);
+      opacity: 0;
+      pointer-events: none;
+      transition: transform .25s cubic-bezier(.32,.72,0,1), opacity .2s ease;
+    }
+    #sheet-panel.open {
+      transform: translate(-50%, -50%) scale(1);
+      opacity: 1;
+      pointer-events: auto;
+    }
+  }
+</style>
+</head>
+
+<body class="bg-surface-dim font-body text-on-surface antialiased">
+
+<div id="app" class="bg-background min-h-screen relative flex flex-col pt-safe">
+
+  <!-- Loading -->
+  <div id="screen-loading" class="flex-1 flex flex-col items-center justify-center gap-4 text-on-surface-variant">
+    <span class="material-symbols-outlined text-5xl text-primary spinner">restaurant</span>
+    <p class="font-label-md text-label-md">Wird geladen…</p>
+  </div>
+
+  <!-- Error -->
+  <div id="screen-error" class="hidden flex-1 flex flex-col items-center justify-center gap-4 px-margin-safe text-center">
+    <span class="material-symbols-outlined text-5xl text-error">error</span>
+    <p class="font-headline-md-mobile text-headline-md-mobile text-on-surface">Fehler beim Laden</p>
+    <p id="error-msg" class="font-body-sm text-body-sm text-on-surface-variant"></p>
+    <button onclick="init()" class="mt-2 bg-primary text-on-primary font-label-md text-label-md px-6 py-3 rounded-full active:scale-95 transition-transform">
+      Erneut versuchen
+    </button>
+  </div>
+
+  <!-- Main app -->
+  <div id="screen-main" class="hidden flex-1 flex flex-col min-h-0">
+
+    <!-- Header -->
+    <header class="sticky top-0 z-40 bg-surface shadow-[0px_2px_16px_rgba(28,28,26,0.08)] h-16 w-full shrink-0">
+      <div class="max-w-screen-2xl mx-auto h-full flex justify-between items-center px-4 lg:px-8">
+        <button aria-label="Menü" class="w-10 h-10 flex items-center justify-center rounded-full hover:bg-surface-container-low active:scale-95 transition-all text-on-surface-variant">
+          <span class="material-symbols-outlined">restaurant</span>
+        </button>
+        <h1 class="font-display text-headline-lg-mobile text-primary tracking-tight">Mahlzeit</h1>
+        <button aria-label="Einstellungen" class="w-10 h-10 flex items-center justify-center rounded-full hover:bg-surface-container-low active:scale-95 transition-all text-on-surface-variant">
+          <span class="material-symbols-outlined">settings</span>
+        </button>
+      </div>
+    </header>
+
+    <!-- Body: sidebar + content -->
+    <div class="flex flex-1 min-h-0 max-w-screen-2xl mx-auto w-full">
+
+      <!-- Desktop sidebar -->
+      <aside class="hidden lg:flex flex-col w-60 shrink-0 sticky top-16 h-[calc(100dvh-4rem)] border-r border-surface-variant/60 bg-surface overflow-y-auto py-6">
+        <nav class="flex flex-col gap-1 px-3 mb-6">
+          <button onclick="switchView('wochenplan')" id="sidebar-btn-wochenplan" class="sidebar-btn">
+            <span id="sidebar-icon-wochenplan" class="material-symbols-outlined text-[22px]">calendar_today</span>
+            Wochenplan
+          </button>
+          <button onclick="switchView('rezepte')" id="sidebar-btn-rezepte" class="sidebar-btn">
+            <span id="sidebar-icon-rezepte" class="material-symbols-outlined text-[22px]">menu_book</span>
+            Rezepte
+          </button>
+          <button onclick="switchView('einkauf')" id="sidebar-btn-einkauf" class="sidebar-btn">
+            <span id="sidebar-icon-einkauf" class="material-symbols-outlined text-[22px]">shopping_cart</span>
+            Einkauf
+            <span id="sidebar-shopping-badge" class="hidden ml-auto bg-primary text-on-primary text-[10px] font-bold min-w-[20px] h-5 flex items-center justify-center rounded-full px-1"></span>
+          </button>
+        </nav>
+
+        <div class="border-t border-surface-variant/60 mx-3 mb-6"></div>
+
+        <div class="px-3">
+          <p class="font-label-sm text-label-sm text-on-surface-variant mb-3 px-2 uppercase tracking-wider">Variante</p>
+          <div class="flex flex-col gap-1">
+            <button id="sidebar-tab-standard" onclick="switchVariant('standard')" class="sidebar-btn">Standard</button>
+            <button id="sidebar-tab-gesund"   onclick="switchVariant('gesund')"   class="sidebar-btn">Gesund</button>
+            <button id="sidebar-tab-schnell"  onclick="switchVariant('schnell')"  class="sidebar-btn">Schnell</button>
+          </div>
+        </div>
+      </aside>
+
+      <!-- Main content -->
+      <div class="flex-1 flex flex-col min-h-0 min-w-0">
+
+        <!-- Variant tabs (mobile only) -->
+        <div class="lg:hidden mx-margin-safe mt-4 bg-surface-container rounded-full p-1 flex relative shrink-0">
+          <button id="tab-standard" onclick="switchVariant('standard')"
+            class="flex-1 py-2.5 font-label-md text-label-md rounded-full transition-all active:scale-[0.98]">Standard</button>
+          <button id="tab-gesund" onclick="switchVariant('gesund')"
+            class="flex-1 py-2.5 font-label-md text-label-md rounded-full transition-all active:scale-[0.98]">Gesund</button>
+          <button id="tab-schnell" onclick="switchVariant('schnell')"
+            class="flex-1 py-2.5 font-label-md text-label-md rounded-full transition-all active:scale-[0.98]">Schnell</button>
+        </div>
+
+        <!-- View: Wochenplan -->
+        <div id="view-wochenplan" class="view active overflow-y-auto no-scroll pb-28 lg:pb-10">
+          <div class="mx-auto max-w-5xl px-4 lg:px-8 mt-8 mb-6 flex justify-between items-center shrink-0">
+            <button onclick="navigateWeek(-1)" aria-label="Vorherige Woche"
+              class="w-10 h-10 flex items-center justify-center rounded-full bg-surface-container-low hover:bg-surface-container active:scale-95 transition-all text-on-surface">
+              <span class="material-symbols-outlined">chevron_left</span>
+            </button>
+            <div class="flex flex-col items-center gap-1">
+              <span id="week-badge" class="bg-primary text-on-primary font-label-sm text-label-sm px-3 py-1 rounded-full hidden">Diese Woche</span>
+              <span id="week-label" class="font-label-md text-label-md text-on-surface"></span>
+            </div>
+            <button onclick="navigateWeek(1)" aria-label="Nächste Woche"
+              class="w-10 h-10 flex items-center justify-center rounded-full bg-surface-container-low hover:bg-surface-container active:scale-95 transition-all text-on-surface">
+              <span class="material-symbols-outlined">chevron_right</span>
+            </button>
+          </div>
+          <div id="day-cards" class="mx-auto max-w-5xl px-4 lg:px-8 grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-stack-lg pb-4"></div>
+        </div>
+
+        <!-- View: Rezepte -->
+        <div id="view-rezepte" class="view overflow-y-auto no-scroll pb-28 lg:pb-10">
+          <div class="mx-auto max-w-5xl px-4 lg:px-8 mt-8 mb-stack-lg shrink-0">
+            <h2 id="rezepte-heading" class="font-display text-headline-lg-mobile text-on-background"></h2>
+          </div>
+          <div id="recipe-cards" class="mx-auto max-w-5xl px-4 lg:px-8 grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-6 pb-8"></div>
+        </div>
+
+        <!-- View: Einkauf -->
+        <div id="view-einkauf" class="view overflow-y-auto no-scroll pb-28 lg:pb-10">
+          <div class="mx-auto max-w-5xl px-4 lg:px-8 pt-stack-lg">
+
+            <!-- Mode toggle -->
+            <div class="flex bg-surface-container rounded-xl p-1 gap-1 mb-stack-lg shadow-sm max-w-xs">
+              <button id="shop-tab-standard" onclick="switchShoppingMode('standard')"
+                class="flex-1 text-center py-2 rounded-lg font-label-md text-label-md transition-all">
+                Wochenplan
+              </button>
+              <button id="shop-tab-rezept" onclick="switchShoppingMode('rezept')"
+                class="flex-1 text-center py-2 rounded-lg font-label-md text-label-md transition-all">
+                Nach Rezept
+              </button>
+            </div>
+
+            <!-- Progress (standard mode) -->
+            <div id="shopping-progress-wrap" class="mb-stack-lg shrink-0">
+              <div class="flex justify-between items-end mb-stack-sm">
+                <h2 class="font-display text-headline-md text-on-surface">Dein Einkauf</h2>
+                <span id="shopping-progress-label" class="font-label-md text-label-md text-on-surface-variant"></span>
+              </div>
+              <div class="h-1.5 w-full bg-surface-container-highest rounded-full overflow-hidden">
+                <div id="shopping-progress-bar" class="h-full bg-secondary rounded-full transition-all duration-500" style="width:0%"></div>
+              </div>
+            </div>
+
+            <!-- Recipe picker (rezept mode) -->
+            <div id="recipe-picker-wrap" class="hidden mb-stack-lg">
+              <p class="font-label-sm text-label-sm text-on-surface-variant mb-stack-md">Rezept wählen:</p>
+              <div id="recipe-picker" class="flex flex-wrap gap-2"></div>
+            </div>
+
+            <div id="shopping-list" class="grid grid-cols-1 md:grid-cols-2 gap-stack-md"></div>
+          </div>
+        </div>
+
+      </div><!-- /main content -->
+    </div><!-- /body flex -->
+
+    <!-- Bottom nav (mobile only) -->
+    <nav class="lg:hidden fixed bottom-0 left-0 right-0 z-50 flex justify-around items-center px-4 bg-surface shadow-[0px_-4px_24px_rgba(28,28,26,0.06)] border-t border-surface-variant"
+         style="height: calc(64px + env(safe-area-inset-bottom)); padding-bottom: env(safe-area-inset-bottom);">
+      <button onclick="switchView('wochenplan')" class="flex flex-col items-center justify-center gap-1 w-20 pt-2 active:scale-95 transition-all">
+        <span id="nav-icon-wochenplan" class="material-symbols-outlined">calendar_today</span>
+        <span id="nav-label-wochenplan" class="font-label-sm text-[10px] text-on-surface-variant">Wochenplan</span>
+        <div id="nav-dot-wochenplan" class="w-1.5 h-1.5 rounded-full bg-transparent mt-0.5"></div>
+      </button>
+      <button onclick="switchView('rezepte')" class="flex flex-col items-center justify-center gap-1 w-20 pt-2 active:scale-95 transition-all">
+        <span id="nav-icon-rezepte" class="material-symbols-outlined">menu_book</span>
+        <span id="nav-label-rezepte" class="font-label-sm text-[10px] text-on-surface-variant">Rezepte</span>
+        <div id="nav-dot-rezepte" class="w-1.5 h-1.5 rounded-full bg-transparent mt-0.5"></div>
+      </button>
+      <button onclick="switchView('einkauf')" class="flex flex-col items-center justify-center gap-1 w-20 pt-2 active:scale-95 transition-all">
+        <div class="relative">
+          <span id="nav-icon-einkauf" class="material-symbols-outlined">shopping_cart</span>
+          <span id="shopping-badge" class="hidden absolute -top-1 -right-2 bg-primary text-on-primary text-[9px] font-bold w-4 h-4 flex items-center justify-center rounded-full border border-surface"></span>
+        </div>
+        <span id="nav-label-einkauf" class="font-label-sm text-[10px] text-on-surface-variant">Einkauf</span>
+        <div id="nav-dot-einkauf" class="w-1.5 h-1.5 rounded-full bg-transparent mt-0.5"></div>
+      </button>
+    </nav>
+
+  </div><!-- /screen-main -->
+</div><!-- /app -->
+
+<!-- Bottom sheet -->
+<div id="sheet-backdrop" onclick="closeSheet()"></div>
+<div id="sheet-panel" role="dialog" aria-modal="true" aria-label="Rezeptdetails">
+  <!-- Hero image -->
+  <div id="sheet-image-wrap" class="shrink-0 relative hidden">
+    <img id="sheet-image" src="" alt="" class="w-full h-52 object-cover">
+    <a id="sheet-image-credit" href="#" target="_blank" rel="noopener"
+       class="absolute bottom-2 right-2 text-white/70 text-[10px] font-medium bg-black/30 px-1.5 py-0.5 rounded backdrop-blur-sm hover:text-white transition-colors">
+      Foto: Unsplash
+    </a>
+  </div>
+  <!-- Handle -->
+  <div class="flex justify-center pt-3 pb-1 shrink-0">
+    <div class="w-10 h-1 rounded-full bg-surface-container-high"></div>
+  </div>
+  <!-- Sheet header -->
+  <div class="flex items-start justify-between px-6 pt-2 pb-4 shrink-0">
+    <div class="flex-1 pr-4">
+      <p id="sheet-meals" class="font-label-sm text-label-sm text-on-surface-variant mb-1"></p>
+      <h2 id="sheet-title" class="font-display text-headline-md-mobile text-on-surface leading-tight"></h2>
+    </div>
+    <button onclick="closeSheet()" class="w-9 h-9 flex items-center justify-center rounded-full bg-surface-container hover:bg-surface-container-high transition-colors shrink-0">
+      <span class="material-symbols-outlined text-on-surface-variant">close</span>
+    </button>
+  </div>
+  <!-- Child note (hidden, kept for data compatibility) -->
+  <div id="sheet-child-row" class="mx-6 mb-4 shrink-0 hidden">
+    <span class="inline-flex items-center gap-1.5 bg-secondary-container text-on-secondary-container font-label-sm text-label-sm px-3 py-1.5 rounded-full">
+      <span class="material-symbols-outlined text-[14px]">child_care</span>
+      <span id="sheet-child-text"></span>
+    </span>
+  </div>
+  <!-- Scrollable body -->
+  <div class="flex-1 overflow-y-auto no-scroll px-6 pb-8">
+    <p id="sheet-summary" class="font-body-sm text-body-sm text-on-surface-variant mb-stack-lg leading-relaxed"></p>
+    <h3 class="font-display text-label-md text-label-md text-on-surface mb-stack-md uppercase tracking-wider">Zutaten</h3>
+    <ul id="sheet-ingredients" class="flex flex-col gap-2 mb-stack-lg"></ul>
+    <h3 class="font-display text-label-md text-label-md text-on-surface mb-stack-md uppercase tracking-wider">Zubereitung</h3>
+    <ol id="sheet-steps" class="flex flex-col gap-stack-md"></ol>
+  </div>
+</div>
+
+<script>
+// ── Constants ─────────────────────────────────────────────
+const DAYS = ['Montag','Dienstag','Mittwoch','Donnerstag','Freitag','Samstag','Sonntag'];
+
+const CATEGORY_ICONS = {
+  'Protein und Milchprodukte':    '🥩',
+  'Gemüse und Salat':             '🥦',
+  'Kohlenhydrate und Sattmacher': '🌾',
+  'Konserven und Vorrat':         '🥫',
+  'Obst':                         '🍎',
+  'Gewürze':                      '🧂',
+  'Sonstiges':                    '🛒',
+};
+
+const RECIPE_GRADIENTS = [
+  'linear-gradient(135deg,#fde8d8,#f9c4a0)',
+  'linear-gradient(135deg,#e8f0fe,#c5d5f9)',
+  'linear-gradient(135deg,#fce8e8,#f9c4c4)',
+  'linear-gradient(135deg,#e8f4e8,#b8dbb8)',
+  'linear-gradient(135deg,#fff8e1,#ffe082)',
+  'linear-gradient(135deg,#f3e8fb,#ddb8f9)',
+  'linear-gradient(135deg,#e8f4e8,#a5d6a7)',
+];
+const RECIPE_EMOJIS = ['🍛','🥘','🥗','🍲','🍝','🥙','🫕','🍜','🥧','🫔'];
+
+// ── State ─────────────────────────────────────────────────
+let weeks        = [];
+let weekIndex    = 0;
+let currentVariant   = 'standard';
+let currentView      = 'wochenplan';
+let checkedItems     = new Set();
+let recipeImages     = {};
+let recipeTimes      = {};
+let lunchCounts      = {};
+let shoppingMode     = 'standard';
+let selectedRecipeId = null;
+let recipeRegistry   = {};
+
+const TODAY = new Date();
+TODAY.setHours(0,0,0,0);
+
+// ── Helpers ───────────────────────────────────────────────
+function recipeStyle(id, idx) {
+  let h = 0;
+  for (const c of (id || '')) h = (h * 31 + c.charCodeAt(0)) & 0xffffffff;
+  return {
+    gradient: RECIPE_GRADIENTS[Math.abs(h) % RECIPE_GRADIENTS.length],
+    emoji:    RECIPE_EMOJIS[(idx ?? Math.abs(h)) % RECIPE_EMOJIS.length],
+  };
+}
+
+function checkKey(weekKey, variant, category, name) {
+  return `${weekKey}|${variant}|${category}|${name}`;
+}
+
+function loadChecked() {
+  try {
+    const raw = localStorage.getItem('mahlzeit_shopping');
+    checkedItems = new Set(raw ? JSON.parse(raw) : []);
+  } catch { checkedItems = new Set(); }
+}
+
+function saveChecked() {
+  localStorage.setItem('mahlzeit_shopping', JSON.stringify([...checkedItems]));
+}
+
+function formatWeekDates(week) {
+  const mon = new Date(week.monday + 'T00:00:00');
+  const sun = new Date(week.sunday + 'T00:00:00');
+  const opts = { day:'numeric', month:'short' };
+  return `${mon.toLocaleDateString('de-DE', opts)} – ${sun.toLocaleDateString('de-DE', opts)}`;
+}
+
+function isCurrentWeek(week) {
+  const mon = new Date(week.monday + 'T00:00:00');
+  const sun = new Date(week.sunday + 'T23:59:59');
+  return TODAY >= mon && TODAY <= sun;
+}
+
+function getDayDate(weekMonday, dayName) {
+  const d = new Date(weekMonday + 'T00:00:00');
+  d.setDate(d.getDate() + DAYS.indexOf(dayName));
+  return d;
+}
+
+function isToday(date) {
+  return date.toDateString() === TODAY.toDateString();
+}
+
+function shoppingStats(week, variant) {
+  const varData = week.variants[variant];
+  let total = 0, done = 0;
+  for (const cat of varData.shopping) {
+    for (const item of cat.items) {
+      total++;
+      if (checkedItems.has(checkKey(week.week_key, variant, cat.category, item.name))) done++;
+    }
+  }
+  return { total, done };
+}
+
+function fmtTime(id) {
+  const mins = recipeTimes[id];
+  if (!mins) return null;
+  if (mins < 60) return `${mins} Min`;
+  const h = Math.floor(mins / 60), m = mins % 60;
+  return m ? `${h} Std ${m} Min` : `${h} Std`;
+}
+
+function imgSrc(raw, w, h, q = 80) {
+  return `${raw}&w=${w}&h=${h}&fit=crop&q=${q}&auto=format`;
+}
+
+function recipeImg(id, w, h, q) {
+  const entry = recipeImages[id];
+  return entry?.raw ? imgSrc(entry.raw, w, h, q) : null;
+}
+
+function escId(key)   { return 'cb_' + btoa(encodeURIComponent(key)).replace(/[^a-zA-Z0-9]/g,''); }
+function escAttr(str) { return str.replace(/'/g,"\\'"); }
+
+// ── Init ──────────────────────────────────────────────────
+async function init() {
+  show('screen-loading');
+  try {
+    const [weeksRes, imagesRes, timesRes] = await Promise.allSettled([
+      fetch('./weeks.json'),
+      fetch('./recipe_images.json'),
+      fetch('./recipe_times.json'),
+    ]);
+
+    if (weeksRes.status !== 'fulfilled' || !weeksRes.value.ok)
+      throw new Error(`weeks.json: HTTP ${weeksRes.value?.status ?? 'Netzwerkfehler'}`);
+    const data = await weeksRes.value.json();
+    weeks = data.weeks;
+
+    if (imagesRes.status === 'fulfilled' && imagesRes.value.ok)
+      recipeImages = await imagesRes.value.json();
+
+    if (timesRes.status === 'fulfilled' && timesRes.value.ok)
+      recipeTimes = await timesRes.value.json();
+
+    const idx = weeks.findIndex(w => isCurrentWeek(w));
+    weekIndex = idx >= 0 ? idx : 0;
+
+    loadChecked();
+    show('screen-main');
+    render();
+  } catch (e) {
+    document.getElementById('error-msg').textContent = e.message;
+    show('screen-error');
+  }
+}
+
+function show(id) {
+  ['screen-loading','screen-error','screen-main'].forEach(s =>
+    document.getElementById(s).classList.toggle('hidden', s !== id)
+  );
+}
+
+// ── Render ────────────────────────────────────────────────
+function render() {
+  renderVariantTabs();
+  renderBottomNav();
+  if      (currentView === 'wochenplan') renderWochenplan();
+  else if (currentView === 'rezepte')    renderRezepte();
+  else                                   renderEinkauf();
+}
+
+// ── Variant tabs ──────────────────────────────────────────
+function renderVariantTabs() {
+  ['standard','gesund','schnell'].forEach(v => {
+    const btn = document.getElementById('tab-' + v);
+    if (btn) {
+      btn.className = v === currentVariant
+        ? 'flex-1 py-2.5 font-label-md text-label-md rounded-full bg-surface-container-lowest shadow-sm text-primary transition-all active:scale-[0.98]'
+        : 'flex-1 py-2.5 font-label-md text-label-md rounded-full text-on-surface-variant hover:text-on-surface transition-all active:scale-[0.98]';
+    }
+    const sideBtn = document.getElementById('sidebar-tab-' + v);
+    if (sideBtn) sideBtn.classList.toggle('active', v === currentVariant);
+  });
+}
+
+// ── Bottom / sidebar nav ──────────────────────────────────
+function renderBottomNav() {
+  ['wochenplan','rezepte','einkauf'].forEach(v => {
+    const active = v === currentView;
+    const label = document.getElementById('nav-label-' + v);
+    if (label) label.className = `font-label-sm text-[10px] ${active ? 'text-primary font-bold' : 'text-on-surface-variant'}`;
+    const dot  = document.getElementById('nav-dot-' + v);
+    if (dot)   dot.className = `w-1.5 h-1.5 rounded-full mt-0.5 ${active ? 'bg-primary' : 'bg-transparent'}`;
+    const icon = document.getElementById('nav-icon-' + v);
+    if (icon)  icon.className = `material-symbols-outlined ${active ? 'icon-fill text-primary' : 'text-on-surface-variant'}`;
+    const sideBtn = document.getElementById('sidebar-btn-' + v);
+    if (sideBtn) sideBtn.classList.toggle('active', active);
+    const sideIcon = document.getElementById('sidebar-icon-' + v);
+    if (sideIcon) sideIcon.style.fontVariationSettings =
+      active ? "'FILL' 1,'wght' 400,'GRAD' 0,'opsz' 24" : "'FILL' 0,'wght' 400,'GRAD' 0,'opsz' 24";
+  });
+
+  if (weeks.length) {
+    const { total, done } = shoppingStats(weeks[weekIndex], currentVariant);
+    const remaining = total - done;
+    const show      = remaining > 0 && currentView !== 'einkauf';
+    const label     = remaining > 99 ? '99+' : String(remaining);
+    const badge = document.getElementById('shopping-badge');
+    if (badge) { badge.textContent = label; badge.classList.toggle('hidden', !show); }
+    const sBadge = document.getElementById('sidebar-shopping-badge');
+    if (sBadge) { sBadge.textContent = label; sBadge.classList.toggle('hidden', !show); }
+  }
+}
+
+// ── Wochenplan ────────────────────────────────────────────
+function renderWochenplan() {
+  if (!weeks.length) return;
+  const week    = weeks[weekIndex];
+  const varData = week.variants[currentVariant];
+
+  [...varData.lunches, varData.dessert].forEach(r => { recipeRegistry[r.id] = r; });
+
+  const isCurrent = isCurrentWeek(week);
+  document.getElementById('week-badge').classList.toggle('hidden', !isCurrent);
+  document.getElementById('week-label').textContent = formatWeekDates(week);
+
+  document.getElementById('day-cards').innerHTML = varData.days.map(day => {
+    const dayDate = getDayDate(week.monday, day.day);
+    const today   = isToday(dayDate);
+    const borderClass = today ? 'border-l-4 border-primary' : 'border border-surface-container-low/50';
+    const glowHtml = today
+      ? `<div class="absolute left-0 top-0 bottom-0 w-8 bg-gradient-to-r from-primary-fixed-dim/20 to-transparent opacity-50 pointer-events-none"></div>` : '';
+
+    const lunchRecipe = varData.lunches.find(l => l.id === day.lunch_id)
+                     || (varData.dessert?.id === day.lunch_id ? varData.dessert : null);
+
+    return `
+      <div class="bg-surface-container-lowest rounded-2xl p-6 shadow-[0px_4px_24px_rgba(28,28,26,0.06)] ${borderClass} relative overflow-hidden active:scale-[0.98] transition-transform cursor-pointer"
+           ${lunchRecipe ? `onclick="openById('${lunchRecipe.id}')"` : ''}>
+        ${glowHtml}
+        <div class="flex justify-between items-center mb-5">
+          <h3 class="font-display text-headline-md-mobile text-on-surface">${day.day}</h3>
+          ${today ? `<span class="bg-primary text-on-primary font-label-sm text-label-sm px-3 py-1.5 rounded-full shadow-sm">Heute</span>` : ''}
+        </div>
+        <div class="flex flex-col gap-5">
+          ${mealRow('🌅','FRÜHSTÜCK', day.breakfast)}
+          <div class="h-px w-full bg-surface-container-high/50 ml-10"></div>
+          ${mealRow('🍲','MITTAGESSEN', day.lunch, day.lunch_note)}
+          <div class="h-px w-full bg-surface-container-high/50 ml-10"></div>
+          ${mealRow('🍎','SNACK', day.snack)}
+        </div>
+      </div>`;
+  }).join('');
+}
+
+function mealRow(emoji, label, name, note) {
+  return `
+    <div class="flex items-start gap-4">
+      <div class="text-2xl mt-0.5 shrink-0">${emoji}</div>
+      <div class="min-w-0">
+        <p class="font-label-sm text-label-sm text-on-surface-variant tracking-wider uppercase mb-1">${label}</p>
+        <p class="font-body-md text-body-md text-on-surface font-medium leading-tight">${name}</p>
+        ${note ? `<p class="font-body-sm text-body-sm text-on-surface-variant mt-0.5 italic">${note}</p>` : ''}
+      </div>
+    </div>`;
+}
+
+// ── Rezepte ───────────────────────────────────────────────
+function renderRezepte() {
+  if (!weeks.length) return;
+  const week    = weeks[weekIndex];
+  const varData = week.variants[currentVariant];
+
+  document.getElementById('rezepte-heading').textContent = formatWeekDates(week);
+
+  lunchCounts = {};
+  varData.days.forEach(day => {
+    if (day.lunch_id) lunchCounts[day.lunch_id] = (lunchCounts[day.lunch_id] || 0) + 1;
+  });
+
+  const allRecipes = [...varData.lunches, varData.dessert];
+  allRecipes.forEach(r => { recipeRegistry[r.id] = r; });
+
+  document.getElementById('recipe-cards').innerHTML = allRecipes.map((recipe, i) => {
+    const { gradient, emoji } = recipeStyle(recipe.id, i);
+    const isDessert  = i === varData.lunches.length;
+    const dayCount   = lunchCounts[recipe.id] || 1;
+    const mealLabel  = isDessert ? 'Dessert der Woche' : `${dayCount}× diese Woche`;
+    const cardImg    = recipeImg(recipe.id, 800, 400, 80);
+    const bannerHtml = cardImg
+      ? `<div class="relative h-48 overflow-hidden bg-surface-container-high">
+           <img src="${cardImg}" alt="${recipe.title.replace(/"/g,'&quot;')}" loading="lazy"
+             class="w-full h-full object-cover"
+             onerror="this.closest('.relative').innerHTML='<div class=\\'h-48 flex items-center justify-center text-6xl\\' style=\\'background:${gradient}\\'>${emoji}</div>'">
+         </div>`
+      : `<div class="h-48 flex items-center justify-center text-6xl" style="background:${gradient}">${emoji}</div>`;
+
+    return `
+      <article onclick="openById('${recipe.id}')"
+        class="bg-surface-container-lowest rounded-xl shadow-[0px_4px_24px_rgba(28,28,26,0.06)] overflow-hidden flex flex-col group cursor-pointer active:scale-[0.98] transition-transform duration-300">
+        ${bannerHtml}
+        <div class="p-stack-lg flex flex-col gap-stack-sm">
+          <h3 class="font-display text-headline-md text-on-surface group-hover:text-primary transition-colors">${recipe.title}</h3>
+          <p class="font-body-sm text-body-sm text-on-surface-variant line-clamp-2">${recipe.summary || ''}</p>
+          <div class="flex flex-wrap gap-2 mt-stack-sm">
+            <span class="bg-primary-container text-on-primary-container px-3 py-1.5 rounded-full font-label-sm text-label-sm inline-flex items-center gap-1.5">
+              <span class="material-symbols-outlined text-[14px]">restaurant_menu</span>${mealLabel}
+            </span>
+            ${fmtTime(recipe.id) ? `
+            <span class="bg-surface-container-high text-on-surface-variant px-3 py-1.5 rounded-full font-label-sm text-label-sm inline-flex items-center gap-1.5">
+              <span class="material-symbols-outlined text-[14px]">schedule</span>${fmtTime(recipe.id)}
+            </span>` : ''}
+          </div>
+          <div class="mt-stack-md self-end flex items-center gap-1 font-label-md text-label-md text-primary group-hover:translate-x-1 transition-transform">
+            Rezept ansehen <span class="material-symbols-outlined text-[18px]">arrow_forward</span>
+          </div>
+        </div>
+      </article>`;
+  }).join('');
+}
+
+// ── Einkauf ───────────────────────────────────────────────
+function switchShoppingMode(mode) {
+  shoppingMode = mode;
+  if (mode === 'rezept' && !selectedRecipeId && weeks.length) {
+    selectedRecipeId = weeks[weekIndex].variants[currentVariant].lunches[0]?.id || null;
+  }
+  renderEinkauf();
+}
+
+function renderEinkauf() {
+  if (!weeks.length) return;
+  const week    = weeks[weekIndex];
+  const varData = week.variants[currentVariant];
+
+  document.getElementById('shop-tab-standard').className =
+    `flex-1 text-center py-2 rounded-lg font-label-md text-label-md transition-all ${
+      shoppingMode === 'standard'
+        ? 'bg-primary text-on-primary shadow-sm'
+        : 'text-on-surface-variant hover:text-on-surface'}`;
+  document.getElementById('shop-tab-rezept').className =
+    `flex-1 text-center py-2 rounded-lg font-label-md text-label-md transition-all ${
+      shoppingMode === 'rezept'
+        ? 'bg-primary text-on-primary shadow-sm'
+        : 'text-on-surface-variant hover:text-on-surface'}`;
+
+  document.getElementById('shopping-progress-wrap').classList.toggle('hidden', shoppingMode !== 'standard');
+  document.getElementById('recipe-picker-wrap').classList.toggle('hidden', shoppingMode !== 'rezept');
+
+  if (shoppingMode === 'standard') {
+    const { total, done } = shoppingStats(week, currentVariant);
+    document.getElementById('shopping-progress-label').textContent = `${done} von ${total} erledigt`;
+    document.getElementById('shopping-progress-bar').style.width = total ? `${(done/total)*100}%` : '0%';
+    renderShoppingList(week, varData);
+  } else {
+    renderRecipePicker(week, varData);
+    renderRezeptEinkauf(week, varData);
+  }
+  renderBottomNav();
+}
+
+function renderShoppingList(week, varData) {
+  document.getElementById('shopping-list').innerHTML = varData.shopping.map(cat => {
+    const catIcon = CATEGORY_ICONS[cat.category] || '🛒';
+    const items = cat.items.map(item => {
+      const key  = checkKey(week.week_key, currentVariant, cat.category, item.name);
+      const done = checkedItems.has(key);
+      return `
+        <li class="flex items-center gap-3 py-2 cursor-pointer">
+          <input type="checkbox" class="check-custom" id="${escId(key)}"
+            ${done ? 'checked' : ''}
+            onchange="toggleCheck('${escAttr(key)}', this)"/>
+          <label for="${escId(key)}" class="flex-1 flex justify-between items-center cursor-pointer font-body-md text-body-md text-on-surface ${done ? 'item-checked' : ''} transition-all">
+            <span>${item.name}</span>
+            <span class="text-on-surface-variant text-sm shrink-0 ml-2">${item.qty_display}</span>
+          </label>
+        </li>`;
+    }).join('');
+    return `
+      <div class="bg-surface-container-lowest rounded-[20px] shadow-[0px_4px_24px_rgba(28,28,26,0.06)] p-6">
+        <h3 class="font-label-md text-label-md text-tertiary mb-stack-md flex items-center gap-2">
+          <span class="text-xl">${catIcon}</span> ${cat.category}
+        </h3>
+        <ul class="flex flex-col gap-stack-sm">${items}</ul>
+      </div>`;
+  }).join('');
+}
+
+function renderRecipePicker(week, varData) {
+  const recipes = [...varData.lunches, varData.dessert];
+  document.getElementById('recipe-picker').innerHTML = recipes.map(r => {
+    const active = r.id === selectedRecipeId;
+    return `<button onclick="selectRecipe('${r.id}')"
+      class="px-3 py-1.5 rounded-full font-label-sm text-label-sm transition-all active:scale-95 ${
+        active
+          ? 'bg-primary text-on-primary'
+          : 'bg-surface-container-high text-on-surface-variant hover:bg-surface-container-highest'
+      }">${r.title}</button>`;
+  }).join('');
+}
+
+function selectRecipe(id) {
+  selectedRecipeId = id;
+  if (!weeks.length) return;
+  const week    = weeks[weekIndex];
+  const varData = week.variants[currentVariant];
+  renderRecipePicker(week, varData);
+  renderRezeptEinkauf(week, varData);
+}
+
+function renderRezeptEinkauf(week, varData) {
+  const recipes = [...varData.lunches, varData.dessert];
+  const recipe  = recipes.find(r => r.id === selectedRecipeId) || recipes[0];
+  if (!recipe) { document.getElementById('shopping-list').innerHTML = ''; return; }
+
+  const groups = {};
+  (recipe.ingredients || []).forEach(ing => {
+    const cat = ing.category || 'Sonstiges';
+    if (!groups[cat]) groups[cat] = [];
+    groups[cat].push(ing);
+  });
+
+  const CATEGORY_ORDER = [
+    'Protein und Milchprodukte','Gemüse und Salat',
+    'Kohlenhydrate und Sattmacher','Konserven und Vorrat','Obst','Gewürze',
+  ];
+  const orderedCats = [
+    ...CATEGORY_ORDER.filter(c => groups[c]),
+    ...Object.keys(groups).filter(c => !CATEGORY_ORDER.includes(c)),
+  ];
+
+  document.getElementById('shopping-list').innerHTML = orderedCats.map(cat => {
+    const catIcon = CATEGORY_ICONS[cat] || '🛒';
+    const items = groups[cat].map(ing => {
+      const key  = `rezept|${week.week_key}|${currentVariant}|${recipe.id}|${cat}|${ing.name}`;
+      const done = checkedItems.has(key);
+      return `
+        <li class="flex items-center gap-3 py-2 cursor-pointer">
+          <input type="checkbox" class="check-custom" id="${escId(key)}"
+            ${done ? 'checked' : ''}
+            onchange="toggleCheck('${escAttr(key)}', this)"/>
+          <label for="${escId(key)}" class="flex-1 flex justify-between items-center cursor-pointer font-body-md text-body-md text-on-surface ${done ? 'item-checked' : ''} transition-all">
+            <span>${ing.name}</span>
+            <span class="text-on-surface-variant text-sm shrink-0 ml-2">${ing.qty_display ?? ''}</span>
+          </label>
+        </li>`;
+    }).join('');
+    return `
+      <div class="bg-surface-container-lowest rounded-[20px] shadow-[0px_4px_24px_rgba(28,28,26,0.06)] p-6">
+        <h3 class="font-label-md text-label-md text-tertiary mb-stack-md flex items-center gap-2">
+          <span class="text-xl">${catIcon}</span> ${cat}
+        </h3>
+        <ul class="flex flex-col gap-stack-sm">${items}</ul>
+      </div>`;
+  }).join('');
+}
+
+function toggleCheck(key, el) {
+  if (el.checked) checkedItems.add(key);
+  else            checkedItems.delete(key);
+  saveChecked();
+  const label = el.nextElementSibling;
+  if (label) label.classList.toggle('item-checked', el.checked);
+  if (weeks.length) {
+    if (shoppingMode === 'standard') {
+      const { total, done } = shoppingStats(weeks[weekIndex], currentVariant);
+      document.getElementById('shopping-progress-label').textContent = `${done} von ${total} erledigt`;
+      document.getElementById('shopping-progress-bar').style.width = total ? `${(done/total)*100}%` : '0%';
+    }
+    renderBottomNav();
+  }
+}
+
+// ── Bottom sheet ──────────────────────────────────────────
+function openById(id) {
+  const recipe = recipeRegistry[id];
+  if (recipe) openSheet(recipe);
+}
+
+function openSheet(recipe) {
+  const imgWrap   = document.getElementById('sheet-image-wrap');
+  const imgEl     = document.getElementById('sheet-image');
+  const imgCredit = document.getElementById('sheet-image-credit');
+  const entry     = recipeImages[recipe.id];
+  if (entry?.raw) {
+    imgEl.src             = imgSrc(entry.raw, 1200, 520, 85);
+    imgEl.alt             = recipe.title;
+    imgCredit.href        = entry.credit_url || '#';
+    imgCredit.textContent = `Foto: ${entry.credit} / Unsplash`;
+    imgEl.onerror         = () => imgWrap.classList.add('hidden');
+    imgWrap.classList.remove('hidden');
+  } else {
+    imgWrap.classList.add('hidden');
+  }
+
+  const dayCount = lunchCounts[recipe.id] || 1;
+  const timeStr  = fmtTime(recipe.id);
+  document.getElementById('sheet-meals').textContent =
+    [timeStr ? `⏱ ${timeStr}` : null, `${dayCount}× diese Woche`].filter(Boolean).join('  ·  ');
+  document.getElementById('sheet-title').textContent   = recipe.title;
+  document.getElementById('sheet-summary').textContent = recipe.summary || '';
+
+  const childRow = document.getElementById('sheet-child-row');
+  if (recipe.child_note) {
+    document.getElementById('sheet-child-text').textContent = recipe.child_note;
+    childRow.classList.remove('hidden');
+  } else {
+    childRow.classList.add('hidden');
+  }
+
+  document.getElementById('sheet-ingredients').innerHTML =
+    (recipe.ingredients || []).map(ing =>
+      `<li class="flex justify-between items-baseline gap-4 py-2 border-b border-surface-container-high/60 last:border-0">
+        <span class="font-body-sm text-body-sm text-on-surface">${ing.name}</span>
+        <span class="font-label-sm text-label-sm text-on-surface-variant shrink-0">${ing.qty_display ?? ''}</span>
+       </li>`
+    ).join('');
+
+  document.getElementById('sheet-steps').innerHTML =
+    (recipe.steps || []).map((step, i) =>
+      `<li class="flex gap-3">
+        <span class="font-display text-label-md text-primary shrink-0 mt-0.5">${i+1}</span>
+        <span class="font-body-sm text-body-sm text-on-surface leading-relaxed">${step}</span>
+       </li>`
+    ).join('');
+
+  document.getElementById('sheet-backdrop').classList.add('open');
+  document.getElementById('sheet-panel').classList.add('open');
+  document.body.style.overflow = 'hidden';
+}
+
+function closeSheet() {
+  document.getElementById('sheet-backdrop').classList.remove('open');
+  document.getElementById('sheet-panel').classList.remove('open');
+  document.body.style.overflow = '';
+}
+
+document.getElementById('sheet-panel').addEventListener('touchstart', e => {
+  window._sheetTouchY = e.touches[0].clientY;
+});
+document.getElementById('sheet-panel').addEventListener('touchend', e => {
+  if (e.changedTouches[0].clientY - (window._sheetTouchY || 0) > 80) closeSheet();
+});
+
+// ── Navigation ────────────────────────────────────────────
+function switchView(v) {
+  currentView = v;
+  ['wochenplan','rezepte','einkauf'].forEach(name => {
+    document.getElementById('view-' + name).classList.toggle('active', name === v);
+  });
+  render();
+}
+
+function switchVariant(v) {
+  currentVariant   = v;
+  shoppingMode     = 'standard';
+  selectedRecipeId = null;
+  render();
+}
+
+function navigateWeek(delta) {
+  const next = weekIndex + delta;
+  if (next < 0 || next >= weeks.length) return;
+  weekIndex        = next;
+  shoppingMode     = 'standard';
+  selectedRecipeId = null;
+  render();
+}
+
+// ── Start ─────────────────────────────────────────────────
+init();
+</script>
+</body>
+</html>
