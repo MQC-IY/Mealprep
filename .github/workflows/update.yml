@@ -1,0 +1,32 @@
+name: Wochenplan Update
+
+on:
+  schedule:
+    - cron: '0 7 * * 1'  # Every Monday 07:00 UTC = 09:00 German time (CET/CEST)
+  workflow_dispatch:      # Allow manual trigger from GitHub UI
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write     # Required to push the updated weeks.json
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Generate weeks.json
+        run: python3 -B meal_plan_generator.py --json
+
+      - name: Commit and push
+        run: |
+          git config user.name "Mahlzeit Bot"
+          git config user.email "actions@github.com"
+          git add weeks.json meal_plan_state.json
+          git diff --cached --quiet || git commit -m "Wochenplan Update $(date '+%Y-%m-%d')"
+          git push
