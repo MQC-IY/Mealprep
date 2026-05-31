@@ -2,7 +2,7 @@ id: white_bean_spinach_couscous
 pool: lunch
 healthy: true
 quick: true
-next_day: false
+next_day: true
 quick_minutes: 20
 meals: 3
 de:

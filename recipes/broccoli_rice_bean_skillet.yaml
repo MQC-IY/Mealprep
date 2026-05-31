@@ -2,7 +2,7 @@ id: broccoli_rice_bean_skillet
 pool: lunch
 healthy: true
 quick: true
-next_day: false
+next_day: true
 quick_minutes: 25
 meals: 3
 de:

@@ -1,17 +1,17 @@
 id: sundubu_jjigae_tofu
 pool: lunch
-healthy: false
+healthy: true
 quick: false
 next_day: true
 meals: 2
 de:
   title: Sundubu Jjigae – Scharfer Tofu-Eintopf
-  summary: |-
-    Feuriger koreanischer Eintopf mit weichem Seidentofu, Hähnchen, Meeresfrüchten und viel Gochugaru in würziger Anchovy-Brühe.
+  summary: Feuriger koreanischer Eintopf mit weichem Seidentofu, Hähnchen, Meeresfrüchten
+    und viel Gochugaru in würziger Anchovy-Brühe.
 en:
   title: 'TODO: Sundubu Jjigae – Scharfer Tofu-Eintopf'
-  summary: |-
-    TODO: Feuriger koreanischer Eintopf mit weichem Seidentofu, Hähnchen, Meeresfrüchten und viel Gochugaru in würziger Anchovy-Brühe.
+  summary: 'TODO: Feuriger koreanischer Eintopf mit weichem Seidentofu, Hähnchen,
+    Meeresfrüchten und viel Gochugaru in würziger Anchovy-Brühe.'
 ingredients:
 - de_name: Seidentofu (weich)
   en_name: 'TODO: Seidentofu (weich)'
@@ -95,26 +95,24 @@ ingredients:
   category: Gewürze
 de_steps:
 - Reis garen.
-- |-
-  Hähnchen in dünne Streifen schneiden. Knoblauch fein hacken. Zwiebel in grobe Stücke. Chili in Ringe.
-- |-
-  In einem Topf Pflanzenöl und Sesamöl erhitzen. Knoblauch und Gochugaru 1 Minute anbraten.
-- |-
-  Hähnchen dazugeben und 3 Minuten anbraten. Gochujang einrühren und 1 Minute mitbraten.
+- Hähnchen in dünne Streifen schneiden. Knoblauch fein hacken. Zwiebel in grobe Stücke.
+  Chili in Ringe.
+- In einem Topf Pflanzenöl und Sesamöl erhitzen. Knoblauch und Gochugaru 1 Minute
+  anbraten.
+- Hähnchen dazugeben und 3 Minuten anbraten. Gochujang einrühren und 1 Minute mitbraten.
 - Brühe, Zwiebeln und Sojasoße angießen. Aufkochen und 8 Minuten köcheln.
 - Seidentofu in den Topf löffeln. Garnelen und Chili dazugeben. 5 Minuten köcheln.
-- |-
-  Jeweils ein rohes Ei direkt aufschlagen, kurz stocken lassen. Mit Frühlingszwiebeln garnieren und sofort mit Reis servieren.
+- Jeweils ein rohes Ei direkt aufschlagen, kurz stocken lassen. Mit Frühlingszwiebeln
+  garnieren und sofort mit Reis servieren.
 en_steps:
 - 'TODO: Reis garen.'
-- |-
-  TODO: Hähnchen in dünne Streifen schneiden. Knoblauch fein hacken. Zwiebel in grobe Stücke. Chili in Ringe.
-- |-
-  TODO: In einem Topf Pflanzenöl und Sesamöl erhitzen. Knoblauch und Gochugaru 1 Minute anbraten.
-- |-
-  TODO: Hähnchen dazugeben und 3 Minuten anbraten. Gochujang einrühren und 1 Minute mitbraten.
+- 'TODO: Hähnchen in dünne Streifen schneiden. Knoblauch fein hacken. Zwiebel in grobe
+  Stücke. Chili in Ringe.'
+- 'TODO: In einem Topf Pflanzenöl und Sesamöl erhitzen. Knoblauch und Gochugaru 1
+  Minute anbraten.'
+- 'TODO: Hähnchen dazugeben und 3 Minuten anbraten. Gochujang einrühren und 1 Minute
+  mitbraten.'
 - 'TODO: Brühe, Zwiebeln und Sojasoße angießen. Aufkochen und 8 Minuten köcheln.'
-- |-
-  TODO: Seidentofu in den Topf löffeln. Garnelen und Chili dazugeben. 5 Minuten köcheln.
-- |-
-  TODO: Jeweils ein rohes Ei direkt aufschlagen, kurz stocken lassen. Mit Frühlingszwiebeln garnieren und sofort mit Reis servieren.
+- 'TODO: Seidentofu in den Topf löffeln. Garnelen und Chili dazugeben. 5 Minuten köcheln.'
+- 'TODO: Jeweils ein rohes Ei direkt aufschlagen, kurz stocken lassen. Mit Frühlingszwiebeln
+  garnieren und sofort mit Reis servieren.'
