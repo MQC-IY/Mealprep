@@ -1,0 +1,57 @@
+id: frozen_berry_yogurt
+pool: dessert
+healthy: true
+meals: 8
+de:
+  title: Gefrorener Beeren-Joghurt
+  summary: Erfrischende Eiscreme-Alternative aus gefrorenem Joghurt und Beeren ohne Eismaschine — natürlich gesüßt mit Honig und perfekt für heiße Tage.
+en:
+  title: "TODO: Gefrorener Beeren-Joghurt"
+  summary: "TODO: Erfrischende Eiscreme-Alternative aus gefrorenem Joghurt und Beeren ohne Eismaschine — natürlich gesüßt mit Honig und perfekt für heiße Tage."
+ingredients:
+  - de_name: "Griechischer Joghurt (10 % Fett)"
+    en_name: "TODO: Griechischer Joghurt (10 % Fett)"
+    qty: 1200
+    unit: g
+    category: Protein und Milchprodukte
+  - de_name: gefrorene gemischte Beeren
+    en_name: "TODO: gefrorene gemischte Beeren"
+    qty: 600
+    unit: g
+    category: Obst
+  - de_name: Honig
+    en_name: "TODO: Honig"
+    qty: 5
+    unit: EL
+    category: Konserven und Vorrat
+  - de_name: Vanilleextrakt
+    en_name: "TODO: Vanilleextrakt"
+    qty: 2
+    unit: TL
+    category: Gewürze
+  - de_name: Zitronensaft
+    en_name: "TODO: Zitronensaft"
+    qty: 2
+    unit: EL
+    category: Obst
+  - de_name: frische Minze zum Garnieren
+    en_name: "TODO: frische Minze zum Garnieren"
+    qty: 1
+    unit: Stk
+    category: Gewürze
+de_steps:
+  - Gefrorene Beeren im Mixer kurz grob zerkleinern.
+  - "Griechischen Joghurt, Honig, Vanilleextrakt und Zitronensaft hinzugeben und alles cremig mixen."
+  - "Die Masse in eine flache, gefriergeeignete Form (ca. 30×20 cm) gießen und glattstreichen."
+  - Mit Frischhaltefolie abdecken und mindestens 4 Stunden einfrieren.
+  - "20 Minuten vor dem Servieren aus dem Gefrierfach nehmen, damit die Masse etwas antaut."
+  - Mit einem Löffel oder Eisportionierer Kugeln abstechen und in Schälchen anrichten.
+  - Mit frischer Minze garnieren. Im Gefrierfach hält sich der Joghurt bis zu 2 Wochen.
+en_steps:
+  - "TODO: Gefrorene Beeren im Mixer kurz grob zerkleinern."
+  - "TODO: Griechischen Joghurt, Honig, Vanilleextrakt und Zitronensaft hinzugeben und alles cremig mixen."
+  - "TODO: Die Masse in eine flache, gefriergeeignete Form (ca. 30×20 cm) gießen und glattstreichen."
+  - "TODO: Mit Frischhaltefolie abdecken und mindestens 4 Stunden einfrieren."
+  - "TODO: 20 Minuten vor dem Servieren aus dem Gefrierfach nehmen, damit die Masse etwas antaut."
+  - "TODO: Mit einem Löffel oder Eisportionierer Kugeln abstechen und in Schälchen anrichten."
+  - "TODO: Mit frischer Minze garnieren. Im Gefrierfach hält sich der Joghurt bis zu 2 Wochen."

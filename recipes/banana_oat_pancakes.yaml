@@ -1,0 +1,79 @@
+id: banana_oat_pancakes
+pool: dessert
+healthy: true
+meals: 8
+de:
+  title: Bananenpfannkuchen mit Beeren
+  summary: "Saftige Pfannkuchen aus reifen Bananen und Haferflocken, ohne Mehl und Zucker, serviert mit frischen gemischten Beeren. Ideal zum Vorbereiten und schnellen Aufwärmen."
+en:
+  title: "TODO: Bananenpfannkuchen mit Beeren"
+  summary: "TODO: Saftige Pfannkuchen aus reifen Bananen und Haferflocken, ohne Mehl und Zucker, serviert mit frischen gemischten Beeren. Ideal zum Vorbereiten und schnellen Aufwärmen."
+ingredients:
+  - de_name: reife Bananen
+    en_name: "TODO: reife Bananen"
+    qty: 8
+    unit: Stk
+    category: Obst
+  - de_name: Haferflocken (zart)
+    en_name: "TODO: Haferflocken (zart)"
+    qty: 400
+    unit: g
+    category: Kohlenhydrate und Sattmacher
+  - de_name: Eier
+    en_name: "TODO: Eier"
+    qty: 8
+    unit: Stk
+    category: Protein und Milchprodukte
+  - de_name: Naturjoghurt
+    en_name: "TODO: Naturjoghurt"
+    qty: 200
+    unit: g
+    category: Protein und Milchprodukte
+  - de_name: Backpulver
+    en_name: "TODO: Backpulver"
+    qty: 2
+    unit: TL
+    category: Konserven und Vorrat
+  - de_name: Zimt gemahlen
+    en_name: "TODO: Zimt gemahlen"
+    qty: 1
+    unit: TL
+    category: Gewürze
+  - de_name: Vanilleextrakt
+    en_name: "TODO: Vanilleextrakt"
+    qty: 1
+    unit: TL
+    category: Gewürze
+  - de_name: Salz
+    en_name: "TODO: Salz"
+    qty: 1
+    unit: Prise
+    category: Gewürze
+  - de_name: "gemischte Beeren (Erdbeeren, Heidelbeeren, Himbeeren)"
+    en_name: "TODO: gemischte Beeren (Erdbeeren, Heidelbeeren, Himbeeren)"
+    qty: 600
+    unit: g
+    category: Obst
+  - de_name: Kokosöl zum Braten
+    en_name: "TODO: Kokosöl zum Braten"
+    qty: 2
+    unit: EL
+    category: Konserven und Vorrat
+de_steps:
+  - Bananen in einer großen Schüssel mit einer Gabel zu einem feinen Mus zerdrücken.
+  - Eier und Naturjoghurt zu den Bananen geben und gut verrühren.
+  - "Haferflocken, Backpulver, Zimt, Vanilleextrakt und Salz hinzufügen und alles zu einem gleichmäßigen Teig verrühren. 5 Minuten quellen lassen."
+  - Eine beschichtete Pfanne bei mittlerer Hitze erhitzen und etwas Kokosöl hineingeben.
+  - "Je 2–3 EL Teig pro Pfannkuchen in die Pfanne geben und flach drücken. Ca. 3 Minuten backen, bis die Oberfläche Blasen wirft, dann wenden und weitere 2 Minuten backen."
+  - Alle Pfannkuchen nacheinander backen.
+  - "Frische Beeren waschen, größere Erdbeeren halbieren."
+  - Pfannkuchen mit Beeren anrichten. Zum Meal-Prep die abgekühlten Pfannkuchen in einem luftdichten Behälter kühl lagern und vor dem Servieren kurz in der Pfanne oder Mikrowelle erwärmen.
+en_steps:
+  - "TODO: Bananen in einer großen Schüssel mit einer Gabel zu einem feinen Mus zerdrücken."
+  - "TODO: Eier und Naturjoghurt zu den Bananen geben und gut verrühren."
+  - "TODO: Haferflocken, Backpulver, Zimt, Vanilleextrakt und Salz hinzufügen und alles zu einem gleichmäßigen Teig verrühren. 5 Minuten quellen lassen."
+  - "TODO: Eine beschichtete Pfanne bei mittlerer Hitze erhitzen und etwas Kokosöl hineingeben."
+  - "TODO: Je 2–3 EL Teig pro Pfannkuchen in die Pfanne geben und flach drücken. Ca. 3 Minuten backen, bis die Oberfläche Blasen wirft, dann wenden und weitere 2 Minuten backen."
+  - "TODO: Alle Pfannkuchen nacheinander backen."
+  - "TODO: Frische Beeren waschen, größere Erdbeeren halbieren."
+  - "TODO: Pfannkuchen mit Beeren anrichten. Zum Meal-Prep die abgekühlten Pfannkuchen in einem luftdichten Behälter kühl lagern und vor dem Servieren kurz in der Pfanne oder Mikrowelle erwärmen."

@@ -1,0 +1,67 @@
+id: chia_mango_pudding
+pool: dessert
+healthy: true
+meals: 8
+de:
+  title: Chia-Pudding mit Mango und Kokosmilch
+  summary: "Cremiger Chia-Pudding auf Kokosmilchbasis mit süßem Mangopüree — ein erfrischend leichtes Dessert, das sich perfekt einen Tag im Voraus zubereiten lässt."
+en:
+  title: "TODO: Chia-Pudding mit Mango und Kokosmilch"
+  summary: "TODO: Cremiger Chia-Pudding auf Kokosmilchbasis mit süßem Mangopüree — ein erfrischend leichtes Dessert, das sich perfekt einen Tag im Voraus zubereiten lässt."
+ingredients:
+  - de_name: Chiasamen
+    en_name: "TODO: Chiasamen"
+    qty: 160
+    unit: g
+    category: Konserven und Vorrat
+  - de_name: "Kokosmilch (Vollfett, Dose)"
+    en_name: "TODO: Kokosmilch (Vollfett, Dose)"
+    qty: 800
+    unit: ml
+    category: Konserven und Vorrat
+  - de_name: Hafermilch oder Mandelmilch
+    en_name: "TODO: Hafermilch oder Mandelmilch"
+    qty: 400
+    unit: ml
+    category: Protein und Milchprodukte
+  - de_name: Agavendicksaft
+    en_name: "TODO: Agavendicksaft"
+    qty: 3
+    unit: EL
+    category: Konserven und Vorrat
+  - de_name: Vanilleextrakt
+    en_name: "TODO: Vanilleextrakt"
+    qty: 1
+    unit: TL
+    category: Gewürze
+  - de_name: reife Mangos
+    en_name: "TODO: reife Mangos"
+    qty: 4
+    unit: Stk
+    category: Obst
+  - de_name: Limettensaft
+    en_name: "TODO: Limettensaft"
+    qty: 2
+    unit: EL
+    category: Obst
+  - de_name: Kokosflocken ungesüßt zum Garnieren
+    en_name: "TODO: Kokosflocken ungesüßt zum Garnieren"
+    qty: 40
+    unit: g
+    category: Konserven und Vorrat
+de_steps:
+  - "Kokosmilch, Hafermilch, Agavendicksaft und Vanilleextrakt in einer großen Schüssel verrühren."
+  - "Chiasamen einrühren und die Mischung 5 Minuten stehen lassen, dann nochmals kräftig rühren, damit sich keine Klumpen bilden."
+  - Die Schüssel abdecken und mindestens 4 Stunden oder über Nacht im Kühlschrank quellen lassen.
+  - "Mangos schälen, das Fruchtfleisch vom Stein schneiden und in einem Mixer zu einem glatten Püree verarbeiten."
+  - Limettensaft unter das Mangopüree rühren.
+  - Chia-Pudding auf 8 Portionsgläser verteilen und das Mangopüree darauf schichten.
+  - Kokosflocken darüber streuen und bis zum Servieren kalt stellen. Hält sich abgedeckt bis zu 4 Tage im Kühlschrank.
+en_steps:
+  - "TODO: Kokosmilch, Hafermilch, Agavendicksaft und Vanilleextrakt in einer großen Schüssel verrühren."
+  - "TODO: Chiasamen einrühren und die Mischung 5 Minuten stehen lassen, dann nochmals kräftig rühren, damit sich keine Klumpen bilden."
+  - "TODO: Die Schüssel abdecken und mindestens 4 Stunden oder über Nacht im Kühlschrank quellen lassen."
+  - "TODO: Mangos schälen, das Fruchtfleisch vom Stein schneiden und in einem Mixer zu einem glatten Püree verarbeiten."
+  - "TODO: Limettensaft unter das Mangopüree rühren."
+  - "TODO: Chia-Pudding auf 8 Portionsgläser verteilen und das Mangopüree darauf schichten."
+  - "TODO: Kokosflocken darüber streuen und bis zum Servieren kalt stellen. Hält sich abgedeckt bis zu 4 Tage im Kühlschrank."

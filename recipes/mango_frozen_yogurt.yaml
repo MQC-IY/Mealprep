@@ -1,0 +1,62 @@
+id: mango_frozen_yogurt
+pool: dessert
+healthy: true
+meals: 8
+de:
+  title: Mango-Frozen-Joghurt
+  summary: "Cremiger Frozen Joghurt aus reifen Mangos und Griechischem Joghurt — nur drei Zutaten, keine Eismaschine nötig und erfrischend süß."
+en:
+  title: "TODO: Mango-Frozen-Joghurt"
+  summary: "TODO: Cremiger Frozen Joghurt aus reifen Mangos und Griechischem Joghurt — nur drei Zutaten, keine Eismaschine nötig und erfrischend süß."
+ingredients:
+  - de_name: reife Mangos (frisch oder TK)
+    en_name: "TODO: reife Mangos (frisch oder TK)"
+    qty: 1200
+    unit: g
+    category: Obst
+  - de_name: "Griechischer Joghurt (10 % Fett)"
+    en_name: "TODO: Griechischer Joghurt (10 % Fett)"
+    qty: 600
+    unit: g
+    category: Protein und Milchprodukte
+  - de_name: Honig
+    en_name: "TODO: Honig"
+    qty: 3
+    unit: EL
+    category: Konserven und Vorrat
+  - de_name: Limettensaft
+    en_name: "TODO: Limettensaft"
+    qty: 3
+    unit: EL
+    category: Obst
+  - de_name: Vanilleextrakt
+    en_name: "TODO: Vanilleextrakt"
+    qty: 1
+    unit: TL
+    category: Gewürze
+  - de_name: frische Minze zum Garnieren
+    en_name: "TODO: frische Minze zum Garnieren"
+    qty: 1
+    unit: Stk
+    category: Gewürze
+  - de_name: Chiliflocken optional
+    en_name: "TODO: Chiliflocken optional"
+    qty: 1
+    unit: Prise
+    category: Gewürze
+de_steps:
+  - "Frische Mangos schälen, das Fruchtfleisch vom Stein schneiden und in Würfel schneiden. TK-Mango 10 Minuten antauen lassen."
+  - Mangostücke in einem Mixer zu einem glatten Püree verarbeiten.
+  - "Joghurt, Honig, Limettensaft und Vanilleextrakt hinzufügen und alles cremig mixen."
+  - "Masse in eine flache, gefriergeeignete Form gießen, glattstreichen und mit Frischhaltefolie bedecken."
+  - "Mindestens 4 Stunden, besser über Nacht, einfrieren."
+  - 20–30 Minuten vor dem Servieren aus dem Gefrierfach nehmen und antauen lassen.
+  - "Mit einem Eisportionierer Kugeln formen, in Schälchen geben und mit Minze sowie optional etwas Chiliflocken garnieren. Im Gefrierfach bis zu 2 Monate haltbar."
+en_steps:
+  - "TODO: Frische Mangos schälen, das Fruchtfleisch vom Stein schneiden und in Würfel schneiden. TK-Mango 10 Minuten antauen lassen."
+  - "TODO: Mangostücke in einem Mixer zu einem glatten Püree verarbeiten."
+  - "TODO: Joghurt, Honig, Limettensaft und Vanilleextrakt hinzufügen und alles cremig mixen."
+  - "TODO: Masse in eine flache, gefriergeeignete Form gießen, glattstreichen und mit Frischhaltefolie bedecken."
+  - "TODO: Mindestens 4 Stunden, besser über Nacht, einfrieren."
+  - "TODO: 20–30 Minuten vor dem Servieren aus dem Gefrierfach nehmen und antauen lassen."
+  - "TODO: Mit einem Eisportionierer Kugeln formen, in Schälchen geben und mit Minze sowie optional etwas Chiliflocken garnieren. Im Gefrierfach bis zu 2 Monate haltbar."
