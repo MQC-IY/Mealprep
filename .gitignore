@@ -1,6 +1,9 @@
 # Credentials — never commit
 .env
 
+# Claude IDE config (local only)
+.claude/
+
 # macOS
 .DS_Store
 
