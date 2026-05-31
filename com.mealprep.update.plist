@@ -4,12 +4,12 @@
 <plist version="1.0">
 <dict>
   <key>Label</key>
-  <string>com.mealprep.newsletter</string>
+  <string>com.mealprep.update</string>
 
   <key>ProgramArguments</key>
   <array>
     <string>/bin/zsh</string>
-    <string>/Users/YOUR_USERNAME/Documents/Meal_prep/run_mealplan_send.sh</string>
+    <string>/Users/YOUR_USERNAME/Documents/Meal_prep/update_mealplan.sh</string>
   </array>
 
   <key>WorkingDirectory</key>
@@ -22,14 +22,14 @@
     <key>Hour</key>
     <integer>9</integer>
     <key>Minute</key>
-    <integer>15</integer>
+    <integer>0</integer>
   </dict>
 
   <key>StandardOutPath</key>
-  <string>/Users/YOUR_USERNAME/Documents/Meal_prep/mealprep_automation.log</string>
+  <string>/Users/YOUR_USERNAME/Documents/Meal_prep/mealplan_update.log</string>
 
   <key>StandardErrorPath</key>
-  <string>/Users/YOUR_USERNAME/Documents/Meal_prep/mealprep_automation_error.log</string>
+  <string>/Users/YOUR_USERNAME/Documents/Meal_prep/mealplan_update.log</string>
 
   <key>RunAtLoad</key>
   <false/>
