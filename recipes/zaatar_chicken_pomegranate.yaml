@@ -1,0 +1,120 @@
+id: zaatar_chicken_pomegranate
+pool: lunch
+healthy: false
+quick: true
+next_day: false
+quick_minutes: 30
+meals: 2
+de:
+  title: Za'atar-Hähnchen mit Granatapfel und Couscous
+  summary: |-
+    Ofengeröstetes Za'atar-Hähnchen auf levantem Couscous mit frischen Granatapfelkernen, Minze und einem Hauch Granatapfelsirup.
+en:
+  title: 'TODO: Za''atar-Hähnchen mit Granatapfel und Couscous'
+  summary: |-
+    TODO: Ofengeröstetes Za'atar-Hähnchen auf levantem Couscous mit frischen Granatapfelkernen, Minze und einem Hauch Granatapfelsirup.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 600
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Granatapfelkerne, frisch
+  en_name: 'TODO: Granatapfelkerne, frisch'
+  qty: 120
+  unit: g
+  category: Obst
+- de_name: Zitrone
+  en_name: 'TODO: Zitrone'
+  qty: 1
+  unit: Stk
+  category: Obst
+- de_name: Zwiebeln
+  en_name: 'TODO: Zwiebeln'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 3
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Frische Minzblätter
+  en_name: 'TODO: Frische Minzblätter'
+  qty: 0.5
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Frische Petersilie
+  en_name: 'TODO: Frische Petersilie'
+  qty: 0.5
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Couscous
+  en_name: 'TODO: Couscous'
+  qty: 300
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 5
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Granatapfelsirup
+  en_name: 'TODO: Granatapfelsirup'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Gemüsebrühe
+  en_name: 'TODO: Gemüsebrühe'
+  qty: 350
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Za'atar-Gewürzmischung
+  en_name: 'TODO: Za''atar-Gewürzmischung'
+  qty: 3
+  unit: EL
+  category: Gewürze
+- de_name: Sumach
+  en_name: 'TODO: Sumach'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Chilipulver
+  en_name: 'TODO: Chilipulver'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Hähnchenbrust mit Za'atar, 3 EL Olivenöl, Zitronensaft, gepresstem Knoblauch, Chili, Salz und Pfeffer einreiben. 1 Stunde marinieren.
+- |-
+  Backofen auf 200°C vorheizen. Hähnchen 20–25 Minuten rösten, bis durchgegart. 5 Minuten ruhen lassen, dann in Scheiben schneiden.
+- |-
+  Couscous in eine Schüssel geben. Heiße Gemüsebrühe mit 1 EL Olivenöl und einer Prise Salz darübergießen. 5 Minuten quellen lassen, dann auflockern.
+- Zwiebelringe in 1 EL Olivenöl glasig dünsten. Mit Sumach bestreuen.
+- |-
+  Couscous mit Granatapfelsirup, der Hälfte der Granatapfelkerne, Minze und Petersilie vermengen. Mit Salz und Zitronensaft abschmecken.
+- |-
+  Couscous auf Teller verteilen, Hähnchenscheiben darauflegen. Restliche Granatapfelkerne, Zwiebeln und einen weiteren Spritzer Granatapfelsirup darüber geben.
+en_steps:
+- |-
+  TODO: Hähnchenbrust mit Za'atar, 3 EL Olivenöl, Zitronensaft, gepresstem Knoblauch, Chili, Salz und Pfeffer einreiben. 1 Stunde marinieren.
+- |-
+  TODO: Backofen auf 200°C vorheizen. Hähnchen 20–25 Minuten rösten, bis durchgegart. 5 Minuten ruhen lassen, dann in Scheiben schneiden.
+- |-
+  TODO: Couscous in eine Schüssel geben. Heiße Gemüsebrühe mit 1 EL Olivenöl und einer Prise Salz darübergießen. 5 Minuten quellen lassen, dann auflockern.
+- 'TODO: Zwiebelringe in 1 EL Olivenöl glasig dünsten. Mit Sumach bestreuen.'
+- |-
+  TODO: Couscous mit Granatapfelsirup, der Hälfte der Granatapfelkerne, Minze und Petersilie vermengen. Mit Salz und Zitronensaft abschmecken.
+- |-
+  TODO: Couscous auf Teller verteilen, Hähnchenscheiben darauflegen. Restliche Granatapfelkerne, Zwiebeln und einen weiteren Spritzer Granatapfelsirup darüber geben.

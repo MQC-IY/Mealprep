@@ -1,0 +1,57 @@
+id: chicken_millet_veg_bowl
+pool: lunch
+healthy: true
+quick: true
+next_day: false
+quick_minutes: 30
+meals: 3
+de:
+  title: Hähnchen-Hirse-Bowl mit Gemüse
+  summary: Leichte Bowl mit Hähnchen, Hirse, Paprika und Gurke.
+en:
+  title: 'TODO: Hähnchen-Hirse-Bowl mit Gemüse'
+  summary: 'TODO: Leichte Bowl mit Hähnchen, Hirse, Paprika und Gurke.'
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 750
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Hirse
+  en_name: 'TODO: Hirse'
+  qty: 260
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Paprika
+  en_name: 'TODO: Paprika'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Gurke
+  en_name: 'TODO: Gurke'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Möhren
+  en_name: 'TODO: Möhren'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Hirse garen.
+- Hähnchen scharf anbraten.
+- Paprika und Möhren weich garen, Gurke klein würfeln.
+en_steps:
+- 'TODO: Hirse garen.'
+- 'TODO: Hähnchen scharf anbraten.'
+- 'TODO: Paprika und Möhren weich garen, Gurke klein würfeln.'

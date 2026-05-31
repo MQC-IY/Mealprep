@@ -1,0 +1,117 @@
+id: balkan_musaka
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 3
+de:
+  title: Balkan-Musaka mit Kartoffeln und Rinderhack
+  summary: |-
+    Klassische Balkan-Musaka: geschichtete Kartoffeln mit kräftig gewürztem Rinderhack, Tomate und einem üppigen Sauerrahm-Ei-Guss.
+en:
+  title: 'TODO: Balkan-Musaka mit Kartoffeln und Rinderhack'
+  summary: |-
+    TODO: Klassische Balkan-Musaka: geschichtete Kartoffeln mit kräftig gewürztem Rinderhack, Tomate und einem üppigen Sauerrahm-Ei-Guss.
+ingredients:
+- de_name: Kartoffeln
+  en_name: 'TODO: Kartoffeln'
+  qty: 1200
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Rinderhack
+  en_name: 'TODO: Rinderhack'
+  qty: 650
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 3
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Passierte Tomaten
+  en_name: 'TODO: Passierte Tomaten'
+  qty: 1
+  unit: Glas
+  category: Konserven und Vorrat
+- de_name: Tomatenmark
+  en_name: 'TODO: Tomatenmark'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Eier
+  en_name: 'TODO: Eier'
+  qty: 4
+  unit: Stk
+  category: Protein und Milchprodukte
+- de_name: Sauerrahm oder Schmand
+  en_name: 'TODO: Sauerrahm oder Schmand'
+  qty: 250
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Naturjoghurt
+  en_name: 'TODO: Naturjoghurt'
+  qty: 150
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Paprika edelsüß
+  en_name: 'TODO: Paprika edelsüß'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Paprika scharf
+  en_name: 'TODO: Paprika scharf'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Kreuzkümmel
+  en_name: 'TODO: Kreuzkümmel'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Piment, gemahlen
+  en_name: 'TODO: Piment, gemahlen'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Oregano
+  en_name: 'TODO: Oregano'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- Backofen auf 200 °C (Ober-/Unterhitze) vorheizen.
+- |-
+  Kartoffeln schälen und in etwa 4 mm dicke Scheiben schneiden. In Salzwasser 8 bis 10 Minuten halbweich garen, abgießen.
+- |-
+  Zwiebeln und Knoblauch fein würfeln. In Olivenöl bei hoher Hitze anschwitzen. Rinderhack zugeben und kräftig anbraten, bis es Farbe bekommt.
+- |-
+  Tomatenmark einrühren und 2 Minuten rösten. Mit passierten Tomaten ablöschen. Paprika edelsüß, Paprika scharf, Kreuzkümmel, Piment, Oregano, Salz und Pfeffer einrühren. 10 Minuten einköcheln lassen.
+- Sauerrahm, Joghurt und Eier gründlich verquirlen, mit Salz und Pfeffer würzen.
+- |-
+  Eine Auflaufform fetten. Schichten: Kartoffeln – Fleischsauce – Kartoffeln – Fleischsauce – Kartoffeln. Den Sauerrahm-Ei-Guss gleichmäßig darübergießen.
+- |-
+  Im vorgeheizten Ofen 35 bis 40 Minuten goldbraun backen, bis der Guss gestockt und die Oberfläche gebräunt ist. 10 Minuten ruhen lassen, dann portionieren.
+en_steps:
+- 'TODO: Backofen auf 200 °C (Ober-/Unterhitze) vorheizen.'
+- |-
+  TODO: Kartoffeln schälen und in etwa 4 mm dicke Scheiben schneiden. In Salzwasser 8 bis 10 Minuten halbweich garen, abgießen.
+- |-
+  TODO: Zwiebeln und Knoblauch fein würfeln. In Olivenöl bei hoher Hitze anschwitzen. Rinderhack zugeben und kräftig anbraten, bis es Farbe bekommt.
+- |-
+  TODO: Tomatenmark einrühren und 2 Minuten rösten. Mit passierten Tomaten ablöschen. Paprika edelsüß, Paprika scharf, Kreuzkümmel, Piment, Oregano, Salz und Pfeffer einrühren. 10 Minuten einköcheln lassen.
+- |-
+  TODO: Sauerrahm, Joghurt und Eier gründlich verquirlen, mit Salz und Pfeffer würzen.
+- |-
+  TODO: Eine Auflaufform fetten. Schichten: Kartoffeln – Fleischsauce – Kartoffeln – Fleischsauce – Kartoffeln. Den Sauerrahm-Ei-Guss gleichmäßig darübergießen.
+- |-
+  TODO: Im vorgeheizten Ofen 35 bis 40 Minuten goldbraun backen, bis der Guss gestockt und die Oberfläche gebräunt ist. 10 Minuten ruhen lassen, dann portionieren.

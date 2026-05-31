@@ -1,0 +1,67 @@
+id: zucchini_pea_orzo_chicken
+pool: lunch
+healthy: true
+quick: true
+next_day: false
+quick_minutes: 25
+meals: 3
+de:
+  title: Hähnchen-Orzo mit Zucchini und Erbsen
+  summary: Schnelle Pfanne mit Hähnchen, Orzo, Zucchini und Erbsen.
+en:
+  title: 'TODO: Hähnchen-Orzo mit Zucchini und Erbsen'
+  summary: 'TODO: Schnelle Pfanne mit Hähnchen, Orzo, Zucchini und Erbsen.'
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 750
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Orzo oder Kritharaki
+  en_name: 'TODO: Orzo oder Kritharaki'
+  qty: 300
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Zucchini
+  en_name: 'TODO: Zucchini'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Erbsen, TK
+  en_name: 'TODO: Erbsen, TK'
+  qty: 200
+  unit: g
+  category: Gemüse und Salat
+- de_name: Naturjoghurt
+  en_name: 'TODO: Naturjoghurt'
+  qty: 120
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Oregano
+  en_name: 'TODO: Oregano'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Orzo weich garen.
+- Hähnchen mit Zwiebel scharf anbraten.
+- Zucchini und Erbsen weich garen und etwas Joghurt unterrühren.
+en_steps:
+- 'TODO: Orzo weich garen.'
+- 'TODO: Hähnchen mit Zwiebel scharf anbraten.'
+- 'TODO: Zucchini und Erbsen weich garen und etwas Joghurt unterrühren.'

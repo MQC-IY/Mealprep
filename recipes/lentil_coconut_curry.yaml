@@ -1,0 +1,122 @@
+id: lentil_coconut_curry
+pool: lunch
+healthy: true
+quick: true
+next_day: true
+quick_minutes: 30
+meals: 2
+de:
+  title: Rote Linsen-Kokos-Curry mit Reis
+  summary: |-
+    Vollmundiges indisch inspiriertes Curry mit roten Linsen, Spinat und Kokosmilch – mit Garam Masala, Kurkuma, Chili und frischem Ingwer.
+en:
+  title: 'TODO: Rote Linsen-Kokos-Curry mit Reis'
+  summary: |-
+    TODO: Vollmundiges indisch inspiriertes Curry mit roten Linsen, Spinat und Kokosmilch – mit Garam Masala, Kurkuma, Chili und frischem Ingwer.
+ingredients:
+- de_name: Rote Linsen
+  en_name: 'TODO: Rote Linsen'
+  qty: 280
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Kokosmilch
+  en_name: 'TODO: Kokosmilch'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Gehackte Tomaten
+  en_name: 'TODO: Gehackte Tomaten'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Tomatenmark
+  en_name: 'TODO: Tomatenmark'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Basmatireis
+  en_name: 'TODO: Basmatireis'
+  qty: 180
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Ingwer, frisch
+  en_name: 'TODO: Ingwer, frisch'
+  qty: 30
+  unit: g
+  category: Gemüse und Salat
+- de_name: Blattspinat
+  en_name: 'TODO: Blattspinat'
+  qty: 200
+  unit: g
+  category: Gemüse und Salat
+- de_name: Rapsöl oder Kokosöl
+  en_name: 'TODO: Rapsöl oder Kokosöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Kurkuma
+  en_name: 'TODO: Kurkuma'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+- de_name: Koriander, gemahlen
+  en_name: 'TODO: Koriander, gemahlen'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+- de_name: Garam Masala
+  en_name: 'TODO: Garam Masala'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Limette
+  en_name: 'TODO: Limette'
+  qty: 1
+  unit: Stk
+  category: Obst
+de_steps:
+- Reis garen.
+- Zwiebel fein würfeln. Knoblauch und Ingwer fein hacken oder reiben.
+- |-
+  Öl in einem großen Topf bei mittlerer bis hoher Hitze erhitzen. Zwiebel 5 bis 7 Minuten anbraten, bis sie goldbraun ist.
+- |-
+  Knoblauch und Ingwer zugeben und 1 Minute unter Rühren rösten. Kurkuma, Kreuzkümmel, Koriander, Garam Masala und Chiliflocken einrühren und 1 Minute trocken rösten, bis es aromatisch duftet.
+- |-
+  Tomatenmark einrühren und kurz mitrösten. Gehackte Tomaten, Linsen und Kokosmilch zugeben. Mit 300 ml Wasser auffüllen.
+- |-
+  Bei mittlerer Hitze 18 bis 20 Minuten köcheln lassen, bis die Linsen weich und die Sauce sämig ist.
+- |-
+  Spinat unterheben und 2 Minuten mitziehen lassen. Mit Limettensaft, Salz und ggf. mehr Chiliflocken abschmecken. Mit Reis servieren.
+en_steps:
+- 'TODO: Reis garen.'
+- 'TODO: Zwiebel fein würfeln. Knoblauch und Ingwer fein hacken oder reiben.'
+- |-
+  TODO: Öl in einem großen Topf bei mittlerer bis hoher Hitze erhitzen. Zwiebel 5 bis 7 Minuten anbraten, bis sie goldbraun ist.
+- |-
+  TODO: Knoblauch und Ingwer zugeben und 1 Minute unter Rühren rösten. Kurkuma, Kreuzkümmel, Koriander, Garam Masala und Chiliflocken einrühren und 1 Minute trocken rösten, bis es aromatisch duftet.
+- |-
+  TODO: Tomatenmark einrühren und kurz mitrösten. Gehackte Tomaten, Linsen und Kokosmilch zugeben. Mit 300 ml Wasser auffüllen.
+- |-
+  TODO: Bei mittlerer Hitze 18 bis 20 Minuten köcheln lassen, bis die Linsen weich und die Sauce sämig ist.
+- |-
+  TODO: Spinat unterheben und 2 Minuten mitziehen lassen. Mit Limettensaft, Salz und ggf. mehr Chiliflocken abschmecken. Mit Reis servieren.

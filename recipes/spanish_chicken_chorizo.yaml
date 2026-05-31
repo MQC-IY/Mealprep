@@ -1,0 +1,125 @@
+id: spanish_chicken_chorizo
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Spanisches Hähnchen-Chorizo-Eintopf
+  summary: |-
+    Robuster spanischer Eintopf mit Hähnchen, Chorizo, Paprika, Tomaten und Pimentón ahumado – pikant, tiefgründig und perfekt für den nächsten Tag.
+en:
+  title: 'TODO: Spanisches Hähnchen-Chorizo-Eintopf'
+  summary: |-
+    TODO: Robuster spanischer Eintopf mit Hähnchen, Chorizo, Paprika, Tomaten und Pimentón ahumado – pikant, tiefgründig und perfekt für den nächsten Tag.
+ingredients:
+- de_name: Hähnchenschenkel mit Knochen
+  en_name: 'TODO: Hähnchenschenkel mit Knochen'
+  qty: 800
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Chorizo (halbfest)
+  en_name: 'TODO: Chorizo (halbfest)'
+  qty: 200
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Geschälte Tomaten aus der Dose
+  en_name: 'TODO: Geschälte Tomaten aus der Dose'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 300
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Rote Paprika
+  en_name: 'TODO: Rote Paprika'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Trockener Weißwein oder Sherry
+  en_name: 'TODO: Trockener Weißwein oder Sherry'
+  qty: 100
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Pimentón ahumado
+  en_name: 'TODO: Pimentón ahumado'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Kreuzkümmel gemahlen
+  en_name: 'TODO: Kreuzkümmel gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Cayennepfeffer
+  en_name: 'TODO: Cayennepfeffer'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Lorbeerblätter
+  en_name: 'TODO: Lorbeerblätter'
+  qty: 2
+  unit: Stk
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Frische Petersilie
+  en_name: 'TODO: Frische Petersilie'
+  qty: 0.5
+  unit: Bund
+  category: Gemüse und Salat
+de_steps:
+- Hähnchenschenkel würzen. Chorizo in Scheiben schneiden.
+- |-
+  Olivenöl im Schmortopf erhitzen. Hähnchen rundherum 5–6 Minuten stark anbraten. Herausnehmen.
+- |-
+  Chorizo im gleichen Topf bei mittlerer Hitze 3 Minuten anbraten, bis das Fett austritt. Herausnehmen.
+- |-
+  Zwiebel und Knoblauch (beides fein gewürfelt) im Chorizofett 5 Minuten anschwitzen. Paprika in Streifen dazugeben, weitere 5 Minuten mitschmoren.
+- |-
+  Pimentón, Kreuzkümmel, Cayenne und Lorbeer einrühren, 1 Minute rösten. Mit Weißwein/Sherry ablöschen, 2 Minuten einkochen.
+- Dosentomaten (zerdrückt) und Brühe dazugeben. Hähnchen und Chorizo zurücklegen.
+- |-
+  Zugedeckt bei niedriger Hitze 40 Minuten schmoren. Deckel abnehmen, 10 Minuten offen köcheln.
+- Lorbeer entfernen. Mit Petersilie bestreuen und mit Brot oder Reis servieren.
+en_steps:
+- 'TODO: Hähnchenschenkel würzen. Chorizo in Scheiben schneiden.'
+- |-
+  TODO: Olivenöl im Schmortopf erhitzen. Hähnchen rundherum 5–6 Minuten stark anbraten. Herausnehmen.
+- |-
+  TODO: Chorizo im gleichen Topf bei mittlerer Hitze 3 Minuten anbraten, bis das Fett austritt. Herausnehmen.
+- |-
+  TODO: Zwiebel und Knoblauch (beides fein gewürfelt) im Chorizofett 5 Minuten anschwitzen. Paprika in Streifen dazugeben, weitere 5 Minuten mitschmoren.
+- |-
+  TODO: Pimentón, Kreuzkümmel, Cayenne und Lorbeer einrühren, 1 Minute rösten. Mit Weißwein/Sherry ablöschen, 2 Minuten einkochen.
+- |-
+  TODO: Dosentomaten (zerdrückt) und Brühe dazugeben. Hähnchen und Chorizo zurücklegen.
+- |-
+  TODO: Zugedeckt bei niedriger Hitze 40 Minuten schmoren. Deckel abnehmen, 10 Minuten offen köcheln.
+- |-
+  TODO: Lorbeer entfernen. Mit Petersilie bestreuen und mit Brot oder Reis servieren.

@@ -1,0 +1,112 @@
+id: tom_kha_gai
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Tom Kha Gai – Thaikokos-Hühnersuppe
+  summary: |-
+    Reichhaltige Thai-Kokosmilchsuppe mit Hähnchen, Galgant, Zitronengras, Kaffirlimettenblättern und frischen Pilzen.
+en:
+  title: 'TODO: Tom Kha Gai – Thaikokos-Hühnersuppe'
+  summary: |-
+    TODO: Reichhaltige Thai-Kokosmilchsuppe mit Hähnchen, Galgant, Zitronengras, Kaffirlimettenblättern und frischen Pilzen.
+ingredients:
+- de_name: Hähnchenbrustfilet
+  en_name: 'TODO: Hähnchenbrustfilet'
+  qty: 300
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Kokosmilch
+  en_name: 'TODO: Kokosmilch'
+  qty: 400
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Geflügelfond
+  en_name: 'TODO: Geflügelfond'
+  qty: 400
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Fischsauce
+  en_name: 'TODO: Fischsauce'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Galangal (Galgant), frisch oder TK
+  en_name: 'TODO: Galangal (Galgant), frisch oder TK'
+  qty: 5
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Zitronengras
+  en_name: 'TODO: Zitronengras'
+  qty: 2
+  unit: Stange
+  category: Gemüse und Salat
+- de_name: Kaffirlimettenblätter
+  en_name: 'TODO: Kaffirlimettenblätter'
+  qty: 6
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Champignons oder Kräuterseitlinge
+  en_name: 'TODO: Champignons oder Kräuterseitlinge'
+  qty: 150
+  unit: g
+  category: Gemüse und Salat
+- de_name: Frische rote Chili
+  en_name: 'TODO: Frische rote Chili'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Frischer Koriander
+  en_name: 'TODO: Frischer Koriander'
+  qty: 0.5
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Palmzucker
+  en_name: 'TODO: Palmzucker'
+  qty: 1
+  unit: TL
+  category: Konserven und Vorrat
+- de_name: Limetten
+  en_name: 'TODO: Limetten'
+  qty: 2
+  unit: Stk
+  category: Obst
+- de_name: Getrocknete Chiliflocken
+  en_name: 'TODO: Getrocknete Chiliflocken'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Hähnchen in dünne Scheiben schneiden. Zitronengras anquetschen und in 5-cm-Stücke schneiden. Galgant in Scheiben. Kaffirlimettenblätter mittig einreißen.
+- |-
+  Geflügelfond mit Zitronengras, Galgant und Kaffirlimettenblättern in einem Topf zum Kochen bringen. 10 Minuten bei kleiner Hitze ziehen lassen.
+- Kokosmilch einrühren und erneut aufköcheln.
+- Hähnchenscheiben zugeben und 5–6 Minuten bei mittlerer Hitze gar ziehen lassen.
+- Pilze zugeben und weitere 3 Minuten köcheln.
+- Mit Fischsauce, Palmzucker und frischem Limettensaft kräftig abschmecken.
+- |-
+  Aromaten (Zitronengras, Galgant) herausfischen. Frühlingszwiebeln und frische Chili zugeben.
+- |-
+  In Schalen anrichten, mit Koriander bestreuen und Chiliflocken nach Belieben darüberstreuen.
+en_steps:
+- |-
+  TODO: Hähnchen in dünne Scheiben schneiden. Zitronengras anquetschen und in 5-cm-Stücke schneiden. Galgant in Scheiben. Kaffirlimettenblätter mittig einreißen.
+- |-
+  TODO: Geflügelfond mit Zitronengras, Galgant und Kaffirlimettenblättern in einem Topf zum Kochen bringen. 10 Minuten bei kleiner Hitze ziehen lassen.
+- 'TODO: Kokosmilch einrühren und erneut aufköcheln.'
+- |-
+  TODO: Hähnchenscheiben zugeben und 5–6 Minuten bei mittlerer Hitze gar ziehen lassen.
+- 'TODO: Pilze zugeben und weitere 3 Minuten köcheln.'
+- 'TODO: Mit Fischsauce, Palmzucker und frischem Limettensaft kräftig abschmecken.'
+- |-
+  TODO: Aromaten (Zitronengras, Galgant) herausfischen. Frühlingszwiebeln und frische Chili zugeben.
+- |-
+  TODO: In Schalen anrichten, mit Koriander bestreuen und Chiliflocken nach Belieben darüberstreuen.

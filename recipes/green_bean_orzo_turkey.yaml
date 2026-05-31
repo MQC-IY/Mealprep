@@ -1,0 +1,57 @@
+id: green_bean_orzo_turkey
+pool: lunch
+healthy: true
+quick: true
+next_day: false
+quick_minutes: 25
+meals: 3
+de:
+  title: Puten-Orzo mit grünen Bohnen
+  summary: Schnelle Orzo-Pfanne mit Putenhack, grünen Bohnen und Möhren.
+en:
+  title: 'TODO: Puten-Orzo mit grünen Bohnen'
+  summary: 'TODO: Schnelle Orzo-Pfanne mit Putenhack, grünen Bohnen und Möhren.'
+ingredients:
+- de_name: Putenhack
+  en_name: 'TODO: Putenhack'
+  qty: 650
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Orzo oder Kritharaki
+  en_name: 'TODO: Orzo oder Kritharaki'
+  qty: 300
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Grüne Bohnen
+  en_name: 'TODO: Grüne Bohnen'
+  qty: 350
+  unit: g
+  category: Gemüse und Salat
+- de_name: Möhren
+  en_name: 'TODO: Möhren'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Paprika edelsüß
+  en_name: 'TODO: Paprika edelsüß'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Orzo weich garen.
+- Putenhack scharf anbraten.
+- Bohnen und Möhren klein schneiden und weich garen.
+en_steps:
+- 'TODO: Orzo weich garen.'
+- 'TODO: Putenhack scharf anbraten.'
+- 'TODO: Bohnen und Möhren klein schneiden und weich garen.'

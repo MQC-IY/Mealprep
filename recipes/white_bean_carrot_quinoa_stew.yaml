@@ -1,0 +1,62 @@
+id: white_bean_carrot_quinoa_stew
+pool: lunch
+healthy: true
+quick: true
+next_day: true
+quick_minutes: 30
+meals: 3
+de:
+  title: Quinoa-Bohnentopf mit Möhren
+  summary: Milder Topf mit Quinoa, weißen Bohnen, Möhren und Tomaten.
+en:
+  title: 'TODO: Quinoa-Bohnentopf mit Möhren'
+  summary: 'TODO: Milder Topf mit Quinoa, weißen Bohnen, Möhren und Tomaten.'
+ingredients:
+- de_name: Quinoa
+  en_name: 'TODO: Quinoa'
+  qty: 240
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Weiße Bohnen
+  en_name: 'TODO: Weiße Bohnen'
+  qty: 2
+  unit: Dosen
+  category: Konserven und Vorrat
+- de_name: Möhren
+  en_name: 'TODO: Möhren'
+  qty: 4
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Passierte Tomaten
+  en_name: 'TODO: Passierte Tomaten'
+  qty: 1
+  unit: Glas
+  category: Konserven und Vorrat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Oregano
+  en_name: 'TODO: Oregano'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Zwiebel und Möhren in Olivenöl anschwitzen.
+- Tomaten, Bohnen und Quinoa zugeben.
+- Mit Wasser auffüllen und weich köcheln lassen.
+en_steps:
+- 'TODO: Zwiebel und Möhren in Olivenöl anschwitzen.'
+- 'TODO: Tomaten, Bohnen und Quinoa zugeben.'
+- 'TODO: Mit Wasser auffüllen und weich köcheln lassen.'

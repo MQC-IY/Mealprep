@@ -1,0 +1,86 @@
+id: italian_tomato_risotto_chicken
+pool: lunch
+healthy: false
+quick: false
+next_day: false
+meals: 3
+de:
+  title: Tomaten-Risotto mit Hähnchen und Erbsen
+  summary: Cremiges Risotto mit Hähnchen, Tomate, Erbsen, Parmesan und frischen Kräutern.
+en:
+  title: 'TODO: Tomaten-Risotto mit Hähnchen und Erbsen'
+  summary: |-
+    TODO: Cremiges Risotto mit Hähnchen, Tomate, Erbsen, Parmesan und frischen Kräutern.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 750
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Risottoreis
+  en_name: 'TODO: Risottoreis'
+  qty: 300
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Gehackte Tomaten
+  en_name: 'TODO: Gehackte Tomaten'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Erbsen, TK
+  en_name: 'TODO: Erbsen, TK'
+  qty: 250
+  unit: g
+  category: Gemüse und Salat
+- de_name: Möhren
+  en_name: 'TODO: Möhren'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Parmesan
+  en_name: 'TODO: Parmesan'
+  qty: 40
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 1
+  unit: Zehe
+  category: Gemüse und Salat
+- de_name: Basilikum
+  en_name: 'TODO: Basilikum'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Oregano
+  en_name: 'TODO: Oregano'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Hähnchen klein schneiden und in Olivenöl anbraten.
+- Zwiebel, Knoblauch und Möhren fein würfeln und mit dem Reis glasig anschwitzen.
+- Tomaten und nach und nach Wasser zugeben, bis der Reis cremig und weich ist.
+- Erbsen, Hähnchen und Kräuter unterheben.
+en_steps:
+- 'TODO: Hähnchen klein schneiden und in Olivenöl anbraten.'
+- |-
+  TODO: Zwiebel, Knoblauch und Möhren fein würfeln und mit dem Reis glasig anschwitzen.
+- |-
+  TODO: Tomaten und nach und nach Wasser zugeben, bis der Reis cremig und weich ist.
+- 'TODO: Erbsen, Hähnchen und Kräuter unterheben.'

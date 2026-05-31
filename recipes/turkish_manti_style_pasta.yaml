@@ -1,0 +1,112 @@
+id: turkish_manti_style_pasta
+pool: lunch
+healthy: false
+quick: true
+next_day: false
+quick_minutes: 25
+meals: 3
+de:
+  title: Yalancı Mantı – Türkische Pasta mit Joghurt und Pul-Biber-Butter
+  summary: |-
+    Schnelle türkische Manti-Variante: kurze Pasta mit würzigem Rinderhack, reichem Knoblauchjoghurt und feuriger Pul-Biber-Butter.
+en:
+  title: 'TODO: Yalancı Mantı – Türkische Pasta mit Joghurt und Pul-Biber-Butter'
+  summary: |-
+    TODO: Schnelle türkische Manti-Variante: kurze Pasta mit würzigem Rinderhack, reichem Knoblauchjoghurt und feuriger Pul-Biber-Butter.
+ingredients:
+- de_name: Vollkornnudeln (Conchiglie oder Farfalle)
+  en_name: 'TODO: Vollkornnudeln (Conchiglie oder Farfalle)'
+  qty: 400
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Rinderhack
+  en_name: 'TODO: Rinderhack'
+  qty: 600
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Naturjoghurt (Raumtemperatur)
+  en_name: 'TODO: Naturjoghurt (Raumtemperatur)'
+  qty: 500
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 5
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Butter
+  en_name: 'TODO: Butter'
+  qty: 60
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Tomatenmark
+  en_name: 'TODO: Tomatenmark'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Pul Biber (türkische Chiliflocken)
+  en_name: 'TODO: Pul Biber (türkische Chiliflocken)'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Paprika edelsüß
+  en_name: 'TODO: Paprika edelsüß'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Paprika geräuchert
+  en_name: 'TODO: Paprika geräuchert'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Sumach
+  en_name: 'TODO: Sumach'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Minze, getrocknet
+  en_name: 'TODO: Minze, getrocknet'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Kreuzkümmel
+  en_name: 'TODO: Kreuzkümmel'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Nudeln in gut gesalzenem Wasser al dente kochen, abgießen und dabei eine Tasse Nudelwasser aufheben.
+- |-
+  Knoblauch fein hacken oder pressen. Joghurt mit Knoblauch, etwas Salz und einem Schuss Nudelwasser cremig verrühren – er muss Raumtemperatur haben, damit er nicht gerinnt.
+- |-
+  Zwiebel fein würfeln und in Olivenöl bei hoher Hitze anbraten. Rinderhack zugeben und kräftig anbraten, bis es braune Röstaromen entwickelt.
+- |-
+  Tomatenmark einrühren und 2 Minuten mitrösten. Mit Kreuzkümmel, der Hälfte des Pul Bibers, Paprika edelsüß, Salz und Pfeffer würzen.
+- |-
+  Butter in einer kleinen Pfanne bei mittlerer Hitze schmelzen lassen, bis sie leicht nussig riecht. Pul Biber, geräucherten Paprika und getrocknete Minze einrühren und sofort vom Herd nehmen.
+- |-
+  Nudeln auf vorgewärmten Tellern anrichten. Großzügig Knoblauchjoghurt darüber verteilen. Hack daraufgeben. Die Pul-Biber-Butter darüberträufeln. Mit Sumach und Minze abschließen.
+en_steps:
+- |-
+  TODO: Nudeln in gut gesalzenem Wasser al dente kochen, abgießen und dabei eine Tasse Nudelwasser aufheben.
+- |-
+  TODO: Knoblauch fein hacken oder pressen. Joghurt mit Knoblauch, etwas Salz und einem Schuss Nudelwasser cremig verrühren – er muss Raumtemperatur haben, damit er nicht gerinnt.
+- |-
+  TODO: Zwiebel fein würfeln und in Olivenöl bei hoher Hitze anbraten. Rinderhack zugeben und kräftig anbraten, bis es braune Röstaromen entwickelt.
+- |-
+  TODO: Tomatenmark einrühren und 2 Minuten mitrösten. Mit Kreuzkümmel, der Hälfte des Pul Bibers, Paprika edelsüß, Salz und Pfeffer würzen.
+- |-
+  TODO: Butter in einer kleinen Pfanne bei mittlerer Hitze schmelzen lassen, bis sie leicht nussig riecht. Pul Biber, geräucherten Paprika und getrocknete Minze einrühren und sofort vom Herd nehmen.
+- |-
+  TODO: Nudeln auf vorgewärmten Tellern anrichten. Großzügig Knoblauchjoghurt darüber verteilen. Hack daraufgeben. Die Pul-Biber-Butter darüberträufeln. Mit Sumach und Minze abschließen.

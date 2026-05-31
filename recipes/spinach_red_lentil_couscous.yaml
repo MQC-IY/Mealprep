@@ -1,0 +1,57 @@
+id: spinach_red_lentil_couscous
+pool: lunch
+healthy: true
+quick: true
+next_day: false
+quick_minutes: 25
+meals: 3
+de:
+  title: Couscous mit roten Linsen und Spinat
+  summary: Schnelles Couscousgericht mit roten Linsen, Spinat und milder Tomatennote.
+en:
+  title: 'TODO: Couscous mit roten Linsen und Spinat'
+  summary: 'TODO: Schnelles Couscousgericht mit roten Linsen, Spinat und milder Tomatennote.'
+ingredients:
+- de_name: Couscous
+  en_name: 'TODO: Couscous'
+  qty: 280
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Rote Linsen
+  en_name: 'TODO: Rote Linsen'
+  qty: 180
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Blattspinat
+  en_name: 'TODO: Blattspinat'
+  qty: 150
+  unit: g
+  category: Gemüse und Salat
+- de_name: Passierte Tomaten
+  en_name: 'TODO: Passierte Tomaten'
+  qty: 1
+  unit: Glas
+  category: Konserven und Vorrat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Paprika edelsüß
+  en_name: 'TODO: Paprika edelsüß'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Linsen weich kochen und Couscous quellen lassen.
+- Tomaten kurz mit den Linsen köcheln, Spinat unterheben.
+- Couscous untermischen.
+en_steps:
+- 'TODO: Linsen weich kochen und Couscous quellen lassen.'
+- 'TODO: Tomaten kurz mit den Linsen köcheln, Spinat unterheben.'
+- 'TODO: Couscous untermischen.'

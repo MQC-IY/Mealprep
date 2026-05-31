@@ -1,0 +1,132 @@
+id: blanquette_de_poulet
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Hähnchen-Blanquette mit Champignons
+  summary: |-
+    Cremige weiße Hähnchen-Blanquette nach französischer Art mit Champignons, Sahne, Estragon und einem Schuss Weißwein.
+en:
+  title: 'TODO: Hähnchen-Blanquette mit Champignons'
+  summary: |-
+    TODO: Cremige weiße Hähnchen-Blanquette nach französischer Art mit Champignons, Sahne, Estragon und einem Schuss Weißwein.
+ingredients:
+- de_name: Hähnchenbrustfilet
+  en_name: 'TODO: Hähnchenbrustfilet'
+  qty: 600
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Champignons
+  en_name: 'TODO: Champignons'
+  qty: 300
+  unit: g
+  category: Gemüse und Salat
+- de_name: Sahne
+  en_name: 'TODO: Sahne'
+  qty: 150
+  unit: ml
+  category: Protein und Milchprodukte
+- de_name: Trockener Weißwein
+  en_name: 'TODO: Trockener Weißwein'
+  qty: 150
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 400
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 2
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Karotte
+  en_name: 'TODO: Karotte'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Butter
+  en_name: 'TODO: Butter'
+  qty: 40
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Mehl
+  en_name: 'TODO: Mehl'
+  qty: 2
+  unit: EL
+  category: Kohlenhydrate und Sattmacher
+- de_name: Dijon-Senf
+  en_name: 'TODO: Dijon-Senf'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Frischer Estragon
+  en_name: 'TODO: Frischer Estragon'
+  qty: 0.5
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Zitronensaft
+  en_name: 'TODO: Zitronensaft'
+  qty: 1
+  unit: EL
+  category: Obst
+- de_name: Lorbeerblätter
+  en_name: 'TODO: Lorbeerblätter'
+  qty: 2
+  unit: Stk
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Muskatnuss gemahlen
+  en_name: 'TODO: Muskatnuss gemahlen'
+  qty: 0.25
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Hähnchenbrustfilet in gleichmäßige Stücke (ca. 4 cm) schneiden. Karotte würfeln, Zwiebel halbieren, Knoblauch andrücken.
+- |-
+  Hähnchen, Karotte, Zwiebel, Knoblauch und Lorbeer in die Brühe mit Weißwein geben. Sanft aufkochen und bei niedriger Hitze 20 Minuten pochieren. Hähnchen herausnehmen, Brühe durch ein Sieb gießen und aufheben.
+- |-
+  Butter in einem Topf bei mittlerer Hitze schmelzen. Champignons in Scheiben schneiden und 5 Minuten goldbraun anbraten. Herausnehmen.
+- |-
+  In der gleichen Butter Mehl einrühren und 1–2 Minuten hellgelb anschwitzen (helle Mehlschwitze).
+- |-
+  Nach und nach die aufgehobene Pochierbrühe einrühren, bis eine glatte Sauce entsteht. Sahne einrühren, aufkochen lassen.
+- |-
+  Dijon-Senf, Zitronensaft und Muskatnuss einrühren. Hähnchenstücke und Champignons zurücklegen.
+- |-
+  Fein gehackten Estragon einrühren. Mit Salz und Pfeffer abschmecken. 5 Minuten sanft erhitzen.
+- Mit Reis, Eiernudeln oder Dampfkartoffeln servieren.
+en_steps:
+- |-
+  TODO: Hähnchenbrustfilet in gleichmäßige Stücke (ca. 4 cm) schneiden. Karotte würfeln, Zwiebel halbieren, Knoblauch andrücken.
+- |-
+  TODO: Hähnchen, Karotte, Zwiebel, Knoblauch und Lorbeer in die Brühe mit Weißwein geben. Sanft aufkochen und bei niedriger Hitze 20 Minuten pochieren. Hähnchen herausnehmen, Brühe durch ein Sieb gießen und aufheben.
+- |-
+  TODO: Butter in einem Topf bei mittlerer Hitze schmelzen. Champignons in Scheiben schneiden und 5 Minuten goldbraun anbraten. Herausnehmen.
+- |-
+  TODO: In der gleichen Butter Mehl einrühren und 1–2 Minuten hellgelb anschwitzen (helle Mehlschwitze).
+- |-
+  TODO: Nach und nach die aufgehobene Pochierbrühe einrühren, bis eine glatte Sauce entsteht. Sahne einrühren, aufkochen lassen.
+- |-
+  TODO: Dijon-Senf, Zitronensaft und Muskatnuss einrühren. Hähnchenstücke und Champignons zurücklegen.
+- |-
+  TODO: Fein gehackten Estragon einrühren. Mit Salz und Pfeffer abschmecken. 5 Minuten sanft erhitzen.
+- 'TODO: Mit Reis, Eiernudeln oder Dampfkartoffeln servieren.'

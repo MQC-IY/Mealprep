@@ -1,0 +1,115 @@
+id: duck_breast_cherry_wine
+pool: lunch
+healthy: false
+quick: false
+next_day: false
+meals: 2
+de:
+  title: Knusprige Ente mit Kirschen-Rotweinsauce und Kartoffelpüree
+  summary: |-
+    Kross gebratene Entenbrust mit einer tiefen Rotweinsauce aus Sauerkirschen, dazu samtiges Kartoffelpüree – ein Festessen, das direkt nach dem Ruhen serviert werden muss.
+en:
+  title: 'TODO: Knusprige Ente mit Kirschen-Rotweinsauce und Kartoffelpüree'
+  summary: |-
+    TODO: Kross gebratene Entenbrust mit einer tiefen Rotweinsauce aus Sauerkirschen, dazu samtiges Kartoffelpüree – ein Festessen, das direkt nach dem Ruhen serviert werden muss.
+ingredients:
+- de_name: Entenbrustfilets
+  en_name: 'TODO: Entenbrustfilets'
+  qty: 1000
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Mehligkochende Kartoffeln
+  en_name: 'TODO: Mehligkochende Kartoffeln'
+  qty: 1200
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Sauerkirschen aus der Dose
+  en_name: 'TODO: Sauerkirschen aus der Dose'
+  qty: 2
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Rotwein (Spätburgunder)
+  en_name: 'TODO: Rotwein (Spätburgunder)'
+  qty: 250
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Hühner- oder Entenfond
+  en_name: 'TODO: Hühner- oder Entenfond'
+  qty: 300
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Butter
+  en_name: 'TODO: Butter'
+  qty: 100
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Vollmilch
+  en_name: 'TODO: Vollmilch'
+  qty: 150
+  unit: ml
+  category: Protein und Milchprodukte
+- de_name: Schalotten
+  en_name: 'TODO: Schalotten'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Thymian
+  en_name: 'TODO: Thymian'
+  qty: 4
+  unit: Stk
+  category: Gewürze
+- de_name: Lorbeerblatt
+  en_name: 'TODO: Lorbeerblatt'
+  qty: 2
+  unit: Stk
+  category: Gewürze
+- de_name: Zucker
+  en_name: 'TODO: Zucker'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Muskatnuss
+  en_name: 'TODO: Muskatnuss'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Entenbrustfilets aus dem Kühlschrank nehmen und 30 Minuten auf Raumtemperatur bringen. Die Haut mit einem scharfen Messer rautenförmig einritzen (nicht durch das Fleisch schneiden). Beidseitig großzügig salzen und pfeffern.
+- |-
+  Entenbrüste mit der Hautseite nach unten in eine kalte, trockene Pfanne legen und bei mittlerer Hitze aufstellen. Langsam (ca. 12–14 Minuten) das Fett ausbraten, bis die Haut tiefgoldbraun und knusprig ist. Überschüssiges Fett zwischendurch abschöpfen und aufbewahren.
+- |-
+  Entenbrüste wenden und auf der Fleischseite 3–4 Minuten fertig braten (Kerntemperatur 58–62 °C für medium). Aus der Pfanne nehmen und 8 Minuten abgedeckt ruhen lassen.
+- |-
+  Kartoffeln schälen, würfeln und in gesalzenem Wasser weich kochen (ca. 20 Minuten). Abgießen, ausdämpfen lassen, durch eine Kartoffelpresse drücken. Heiße Milch und Butter einarbeiten, mit Salz, Pfeffer und Muskatnuss abschmecken.
+- |-
+  Bratenfett aus der Pfanne abgießen (1 EL zurücklassen). Schalotten fein würfeln und 2 Minuten anschwitzen. Zucker zugeben und leicht karamellisieren. Mit Rotwein ablöschen und auf die Hälfte einkochen.
+- |-
+  Fond, Kirschen mit Kirschsaft, Thymian und Lorbeer zugeben. Bei mittlerer Hitze 10–12 Minuten köcheln, bis die Sauce sämig wird. Thymian und Lorbeer entfernen, mit Salz und Pfeffer abschmecken.
+- |-
+  Entenbrüste schräg in Scheiben schneiden. Kartoffelpüree auf vorgewärmten Tellern anrichten, Entenscheiben darauflegen, Kirschen-Rotweinsauce großzügig angießen und sofort servieren.
+en_steps:
+- |-
+  TODO: Entenbrustfilets aus dem Kühlschrank nehmen und 30 Minuten auf Raumtemperatur bringen. Die Haut mit einem scharfen Messer rautenförmig einritzen (nicht durch das Fleisch schneiden). Beidseitig großzügig salzen und pfeffern.
+- |-
+  TODO: Entenbrüste mit der Hautseite nach unten in eine kalte, trockene Pfanne legen und bei mittlerer Hitze aufstellen. Langsam (ca. 12–14 Minuten) das Fett ausbraten, bis die Haut tiefgoldbraun und knusprig ist. Überschüssiges Fett zwischendurch abschöpfen und aufbewahren.
+- |-
+  TODO: Entenbrüste wenden und auf der Fleischseite 3–4 Minuten fertig braten (Kerntemperatur 58–62 °C für medium). Aus der Pfanne nehmen und 8 Minuten abgedeckt ruhen lassen.
+- |-
+  TODO: Kartoffeln schälen, würfeln und in gesalzenem Wasser weich kochen (ca. 20 Minuten). Abgießen, ausdämpfen lassen, durch eine Kartoffelpresse drücken. Heiße Milch und Butter einarbeiten, mit Salz, Pfeffer und Muskatnuss abschmecken.
+- |-
+  TODO: Bratenfett aus der Pfanne abgießen (1 EL zurücklassen). Schalotten fein würfeln und 2 Minuten anschwitzen. Zucker zugeben und leicht karamellisieren. Mit Rotwein ablöschen und auf die Hälfte einkochen.
+- |-
+  TODO: Fond, Kirschen mit Kirschsaft, Thymian und Lorbeer zugeben. Bei mittlerer Hitze 10–12 Minuten köcheln, bis die Sauce sämig wird. Thymian und Lorbeer entfernen, mit Salz und Pfeffer abschmecken.
+- |-
+  TODO: Entenbrüste schräg in Scheiben schneiden. Kartoffelpüree auf vorgewärmten Tellern anrichten, Entenscheiben darauflegen, Kirschen-Rotweinsauce großzügig angießen und sofort servieren.

@@ -1,0 +1,111 @@
+id: chipotle_chicken_black_beans
+pool: lunch
+healthy: true
+quick: false
+next_day: true
+meals: 3
+de:
+  title: Chipotle-Hähnchen mit schwarzen Bohnen und Reis
+  summary: |-
+    Rauchig mariniertes Chipotle-Hähnchen mit würzigen schwarzen Bohnen und lockerem Limetten-Koriander-Reis.
+en:
+  title: 'TODO: Chipotle-Hähnchen mit schwarzen Bohnen und Reis'
+  summary: |-
+    TODO: Rauchig mariniertes Chipotle-Hähnchen mit würzigen schwarzen Bohnen und lockerem Limetten-Koriander-Reis.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 900
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Langkornreis
+  en_name: 'TODO: Langkornreis'
+  qty: 300
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Schwarze Bohnen
+  en_name: 'TODO: Schwarze Bohnen'
+  qty: 2
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Chipotle-Chilis in Adobo-Sauce
+  en_name: 'TODO: Chipotle-Chilis in Adobo-Sauce'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 100
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 5
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Koriander, frisch
+  en_name: 'TODO: Koriander, frisch'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Limette
+  en_name: 'TODO: Limette'
+  qty: 2
+  unit: Stk
+  category: Obst
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Paprika edelsüß
+  en_name: 'TODO: Paprika edelsüß'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Oregano
+  en_name: 'TODO: Oregano'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Chipotle-Chilis mit etwas Adobo-Sauce, der Hälfte des Knoblauchs, Kreuzkümmel, Paprika edelsüß, Oregano, 1 EL Öl und Limettensaft zu einer Marinade pürieren. Hähnchenbrust einlegen, mindestens 30 Minuten marinieren.
+- |-
+  Reis nach Packungsangabe kochen. Mit Limettensaft und gehacktem Koriander mischen.
+- |-
+  Mariniertes Hähnchen in einer Grillpfanne oder Pfanne bei hoher Hitze 5–6 Minuten pro Seite garen. Kurz ruhen lassen, dann in Scheiben oder Fasern schneiden.
+- |-
+  Zwiebeln fein würfeln, restlichen Knoblauch hacken. In 1 EL Öl 4 Minuten anschwitzen.
+- |-
+  Abgespülte schwarze Bohnen zugeben, Hühnerbrühe angießen. Chiliflocken, Kreuzkümmel und Salz zugeben und 8 Minuten bei mittlerer Hitze köcheln lassen.
+- |-
+  Bohnen grob mit einem Löffel anstampfen für cremigere Konsistenz. Mit Reis, Hähnchen, frischem Koriander und Limettenspalten servieren.
+en_steps:
+- |-
+  TODO: Chipotle-Chilis mit etwas Adobo-Sauce, der Hälfte des Knoblauchs, Kreuzkümmel, Paprika edelsüß, Oregano, 1 EL Öl und Limettensaft zu einer Marinade pürieren. Hähnchenbrust einlegen, mindestens 30 Minuten marinieren.
+- |-
+  TODO: Reis nach Packungsangabe kochen. Mit Limettensaft und gehacktem Koriander mischen.
+- |-
+  TODO: Mariniertes Hähnchen in einer Grillpfanne oder Pfanne bei hoher Hitze 5–6 Minuten pro Seite garen. Kurz ruhen lassen, dann in Scheiben oder Fasern schneiden.
+- |-
+  TODO: Zwiebeln fein würfeln, restlichen Knoblauch hacken. In 1 EL Öl 4 Minuten anschwitzen.
+- |-
+  TODO: Abgespülte schwarze Bohnen zugeben, Hühnerbrühe angießen. Chiliflocken, Kreuzkümmel und Salz zugeben und 8 Minuten bei mittlerer Hitze köcheln lassen.
+- |-
+  TODO: Bohnen grob mit einem Löffel anstampfen für cremigere Konsistenz. Mit Reis, Hähnchen, frischem Koriander und Limettenspalten servieren.

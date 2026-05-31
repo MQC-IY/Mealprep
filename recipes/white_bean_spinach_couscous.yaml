@@ -1,0 +1,62 @@
+id: white_bean_spinach_couscous
+pool: lunch
+healthy: true
+quick: true
+next_day: false
+quick_minutes: 20
+meals: 3
+de:
+  title: Couscous mit weißen Bohnen und Spinat
+  summary: Sehr schnelles Couscousgericht mit Bohnen, Spinat und Zitronenjoghurt.
+en:
+  title: 'TODO: Couscous mit weißen Bohnen und Spinat'
+  summary: 'TODO: Sehr schnelles Couscousgericht mit Bohnen, Spinat und Zitronenjoghurt.'
+ingredients:
+- de_name: Couscous
+  en_name: 'TODO: Couscous'
+  qty: 280
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Weiße Bohnen
+  en_name: 'TODO: Weiße Bohnen'
+  qty: 2
+  unit: Dosen
+  category: Konserven und Vorrat
+- de_name: Blattspinat
+  en_name: 'TODO: Blattspinat'
+  qty: 180
+  unit: g
+  category: Gemüse und Salat
+- de_name: Naturjoghurt
+  en_name: 'TODO: Naturjoghurt'
+  qty: 180
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Zitrone oder Limette
+  en_name: 'TODO: Zitrone oder Limette'
+  qty: 1
+  unit: Stk
+  category: Obst
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Minze, getrocknet
+  en_name: 'TODO: Minze, getrocknet'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Couscous quellen lassen.
+- Bohnen mit Spinat kurz erwärmen, bis der Spinat zusammenfällt.
+- Joghurt mit etwas Zitrone verrühren.
+en_steps:
+- 'TODO: Couscous quellen lassen.'
+- 'TODO: Bohnen mit Spinat kurz erwärmen, bis der Spinat zusammenfällt.'
+- 'TODO: Joghurt mit etwas Zitrone verrühren.'

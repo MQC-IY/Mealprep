@@ -1,0 +1,91 @@
+id: quick_pea_mint_risotto
+pool: lunch
+healthy: false
+quick: true
+next_day: true
+quick_minutes: 25
+meals: 2
+de:
+  title: Schneller Erbsen-Minze-Risotto
+  summary: |-
+    Frischer Frühlings-Risotto mit TK-Erbsen, Minze und Parmesan — cremig in 25 Minuten.
+en:
+  title: 'TODO: Schneller Erbsen-Minze-Risotto'
+  summary: |-
+    TODO: Frischer Frühlings-Risotto mit TK-Erbsen, Minze und Parmesan — cremig in 25 Minuten.
+ingredients:
+- de_name: Risotto-Reis (Arborio)
+  en_name: 'TODO: Risotto-Reis (Arborio)'
+  qty: 300
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: TK-Erbsen
+  en_name: 'TODO: TK-Erbsen'
+  qty: 300
+  unit: g
+  category: Gemüse und Salat
+- de_name: Frische Minze
+  en_name: 'TODO: Frische Minze'
+  qty: 0.5
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Schalotten
+  en_name: 'TODO: Schalotten'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 2
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Parmesan, frisch gerieben
+  en_name: 'TODO: Parmesan, frisch gerieben'
+  qty: 80
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Butter
+  en_name: 'TODO: Butter'
+  qty: 40
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Weißwein
+  en_name: 'TODO: Weißwein'
+  qty: 150
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Gemüsebrühe, heiß
+  en_name: 'TODO: Gemüsebrühe, heiß'
+  qty: 1
+  unit: Liter
+  category: Konserven und Vorrat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Salz und weißer Pfeffer
+  en_name: 'TODO: Salz und weißer Pfeffer'
+  qty: 1
+  unit: Stk
+  category: Gewürze
+de_steps:
+- |-
+  Brühe in einem separaten Topf heiß halten. Schalotten und Knoblauch fein würfeln.
+- |-
+  Olivenöl und die Hälfte der Butter in einem breiten Topf erhitzen. Schalotten und Knoblauch 2 Minuten dünsten. Reis hinzufügen und 2 Minuten glasig rühren.
+- Mit Weißwein ablöschen und unter Rühren einkochen lassen.
+- |-
+  Kellenschöpfweise heiße Brühe hinzufügen und jeweils unter ständigem Rühren einarbeiten. Diesen Vorgang ca. 18 Minuten wiederholen, bis der Reis al dente ist.
+- |-
+  TK-Erbsen in den letzten 3 Minuten unterheben. Vom Herd nehmen, restliche Butter und Parmesan einrühren. Gehackte Minze untermengen und sofort servieren.
+en_steps:
+- |-
+  TODO: Brühe in einem separaten Topf heiß halten. Schalotten und Knoblauch fein würfeln.
+- |-
+  TODO: Olivenöl und die Hälfte der Butter in einem breiten Topf erhitzen. Schalotten und Knoblauch 2 Minuten dünsten. Reis hinzufügen und 2 Minuten glasig rühren.
+- 'TODO: Mit Weißwein ablöschen und unter Rühren einkochen lassen.'
+- |-
+  TODO: Kellenschöpfweise heiße Brühe hinzufügen und jeweils unter ständigem Rühren einarbeiten. Diesen Vorgang ca. 18 Minuten wiederholen, bis der Reis al dente ist.
+- |-
+  TODO: TK-Erbsen in den letzten 3 Minuten unterheben. Vom Herd nehmen, restliche Butter und Parmesan einrühren. Gehackte Minze untermengen und sofort servieren.

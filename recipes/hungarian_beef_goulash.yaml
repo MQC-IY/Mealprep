@@ -1,0 +1,121 @@
+id: hungarian_beef_goulash
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Ungarisches Gulasch mit Rindfleisch und Kartoffeln
+  summary: |-
+    Das Urrezept: Rindfleischwürfel mit enormen Mengen edelsüßem Paprikapulver langsam geschmort mit Kartoffeln, Zwiebeln und Kümmel.
+en:
+  title: 'TODO: Ungarisches Gulasch mit Rindfleisch und Kartoffeln'
+  summary: |-
+    TODO: Das Urrezept: Rindfleischwürfel mit enormen Mengen edelsüßem Paprikapulver langsam geschmort mit Kartoffeln, Zwiebeln und Kümmel.
+ingredients:
+- de_name: Rindfleisch (Rinderschulter oder Gulasch)
+  en_name: 'TODO: Rindfleisch (Rinderschulter oder Gulasch)'
+  qty: 600
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Schmalz oder Butterschmalz
+  en_name: 'TODO: Schmalz oder Butterschmalz'
+  qty: 4
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Rindfleischbrühe
+  en_name: 'TODO: Rindfleischbrühe'
+  qty: 400
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Tomatenmark
+  en_name: 'TODO: Tomatenmark'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Kartoffeln (festkochend)
+  en_name: 'TODO: Kartoffeln (festkochend)'
+  qty: 4
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Zwiebeln
+  en_name: 'TODO: Zwiebeln'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Paprikaschoten, rot
+  en_name: 'TODO: Paprikaschoten, rot'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 3
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Tomaten
+  en_name: 'TODO: Tomaten'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Edelsüßes Paprikapulver
+  en_name: 'TODO: Edelsüßes Paprikapulver'
+  qty: 3
+  unit: EL
+  category: Gewürze
+- de_name: Rosenpaprika (scharf)
+  en_name: 'TODO: Rosenpaprika (scharf)'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Kümmel (gemahlen)
+  en_name: 'TODO: Kümmel (gemahlen)'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Lorbeerblätter
+  en_name: 'TODO: Lorbeerblätter'
+  qty: 2
+  unit: Stk
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Majoran, getrocknet
+  en_name: 'TODO: Majoran, getrocknet'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Rindfleisch in 3 cm Würfel schneiden, salzen und pfeffern. Schmalz in einem schweren Gulaschkessel oder Schmortopf erhitzen. Fleisch portionsweise scharf anbraten, bis eine Kruste entsteht. Herausnehmen.
+- |-
+  Zwiebeln in feine Würfel schneiden und im gleichen Fett bei mittlerer Hitze 15 Minuten langsam karamellisieren.
+- |-
+  Topf vom Herd nehmen. Edelsüßes und Rosenpaprika großzügig einrühren. Tomatenmark einrühren. Dann sofort Rindfleischbrühe aufgießen und gut rühren.
+- |-
+  Fleisch zurücklegen. Tomaten würfeln und hinzufügen, Paprikaschoten in Streifen schneiden und einrühren. Knoblauch, Kümmel, Majoran und Lorbeer hinzufügen.
+- |-
+  Zugedeckt bei niedriger Hitze 1,5 Stunden schmoren, bis das Fleisch sehr zart ist. Kartoffeln in Würfel schneiden, in der letzten halben Stunde einrühren.
+- |-
+  Lorbeer entfernen, abschmecken. Mit Sauerrahm und Brot oder Semmelknödeln servieren.
+en_steps:
+- |-
+  TODO: Rindfleisch in 3 cm Würfel schneiden, salzen und pfeffern. Schmalz in einem schweren Gulaschkessel oder Schmortopf erhitzen. Fleisch portionsweise scharf anbraten, bis eine Kruste entsteht. Herausnehmen.
+- |-
+  TODO: Zwiebeln in feine Würfel schneiden und im gleichen Fett bei mittlerer Hitze 15 Minuten langsam karamellisieren.
+- |-
+  TODO: Topf vom Herd nehmen. Edelsüßes und Rosenpaprika großzügig einrühren. Tomatenmark einrühren. Dann sofort Rindfleischbrühe aufgießen und gut rühren.
+- |-
+  TODO: Fleisch zurücklegen. Tomaten würfeln und hinzufügen, Paprikaschoten in Streifen schneiden und einrühren. Knoblauch, Kümmel, Majoran und Lorbeer hinzufügen.
+- |-
+  TODO: Zugedeckt bei niedriger Hitze 1,5 Stunden schmoren, bis das Fleisch sehr zart ist. Kartoffeln in Würfel schneiden, in der letzten halben Stunde einrühren.
+- |-
+  TODO: Lorbeer entfernen, abschmecken. Mit Sauerrahm und Brot oder Semmelknödeln servieren.

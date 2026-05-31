@@ -1,0 +1,114 @@
+id: turkish_guvec_chicken
+pool: lunch
+healthy: true
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Türkisches Güveç – Hähnchen-Gemüse-Tontopfeintopf
+  summary: |-
+    Saftige Hähnchenschenkel werden mit Sommergemüse, Pul Biber und Tomaten in einem geschlossenen Topf langsam geschmort, bis alles zart und aromatisch ist.
+en:
+  title: 'TODO: Türkisches Güveç – Hähnchen-Gemüse-Tontopfeintopf'
+  summary: |-
+    TODO: Saftige Hähnchenschenkel werden mit Sommergemüse, Pul Biber und Tomaten in einem geschlossenen Topf langsam geschmort, bis alles zart und aromatisch ist.
+ingredients:
+- de_name: Hähnchenschenkel (mit Knochen)
+  en_name: 'TODO: Hähnchenschenkel (mit Knochen)'
+  qty: 600
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Auberginen
+  en_name: 'TODO: Auberginen'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Zucchini
+  en_name: 'TODO: Zucchini'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Paprikaschoten (rot und grün)
+  en_name: 'TODO: Paprikaschoten (rot und grün)'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Tomaten
+  en_name: 'TODO: Tomaten'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Zwiebeln
+  en_name: 'TODO: Zwiebeln'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 5
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Tomatenmark
+  en_name: 'TODO: Tomatenmark'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 4
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Pul Biber (Aleppo-Pfeffer)
+  en_name: 'TODO: Pul Biber (Aleppo-Pfeffer)'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Paprikapulver, geräuchert
+  en_name: 'TODO: Paprikapulver, geräuchert'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Getrockneter Oregano
+  en_name: 'TODO: Getrockneter Oregano'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Ofen auf 180 °C vorheizen. Hähnchenschenkel mit Salz, Pfeffer, Pul Biber und Paprikapulver einreiben.
+- |-
+  Auberginen und Zucchini in 2 cm Würfel schneiden, Paprika grob würfeln, Tomaten vierteln, Zwiebeln in Ringe schneiden. Alles in einer Schüssel mit Olivenöl, Kreuzkümmel und Oregano mischen.
+- |-
+  Gemüse in einem großen Bräter oder Tontopf auslegen. Tomatenmark und Knoblauch unter das Gemüse mischen.
+- |-
+  Hähnchenschenkel oben auf das Gemüse setzen. Mit 100 ml Wasser begießen. Topf fest mit Deckel oder Alufolie verschließen.
+- |-
+  Im Ofen 1 Stunde schmoren lassen. Deckel abnehmen, Hitze auf 220 °C erhöhen und weitere 15 Minuten offen garen, bis das Hähnchen goldbraun ist.
+- Mit frischem Brot servieren und den Bratensaft als Sauce verwenden.
+en_steps:
+- |-
+  TODO: Ofen auf 180 °C vorheizen. Hähnchenschenkel mit Salz, Pfeffer, Pul Biber und Paprikapulver einreiben.
+- |-
+  TODO: Auberginen und Zucchini in 2 cm Würfel schneiden, Paprika grob würfeln, Tomaten vierteln, Zwiebeln in Ringe schneiden. Alles in einer Schüssel mit Olivenöl, Kreuzkümmel und Oregano mischen.
+- |-
+  TODO: Gemüse in einem großen Bräter oder Tontopf auslegen. Tomatenmark und Knoblauch unter das Gemüse mischen.
+- |-
+  TODO: Hähnchenschenkel oben auf das Gemüse setzen. Mit 100 ml Wasser begießen. Topf fest mit Deckel oder Alufolie verschließen.
+- |-
+  TODO: Im Ofen 1 Stunde schmoren lassen. Deckel abnehmen, Hitze auf 220 °C erhöhen und weitere 15 Minuten offen garen, bis das Hähnchen goldbraun ist.
+- 'TODO: Mit frischem Brot servieren und den Bratensaft als Sauce verwenden.'

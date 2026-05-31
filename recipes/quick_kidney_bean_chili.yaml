@@ -1,0 +1,101 @@
+id: quick_kidney_bean_chili
+pool: lunch
+healthy: false
+quick: true
+next_day: true
+quick_minutes: 30
+meals: 2
+de:
+  title: Schneller Kidney-Chili mit Hähnchen
+  summary: |-
+    Rauchig-scharfes Hähnchenchili mit Kidneybohnen und Chipotle — 30 Minuten Schnellküche.
+en:
+  title: 'TODO: Schneller Kidney-Chili mit Hähnchen'
+  summary: |-
+    TODO: Rauchig-scharfes Hähnchenchili mit Kidneybohnen und Chipotle — 30 Minuten Schnellküche.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 500
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Kidneybohnen, abgetropft
+  en_name: 'TODO: Kidneybohnen, abgetropft'
+  qty: 2
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Gehackte Tomaten
+  en_name: 'TODO: Gehackte Tomaten'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Chipotle-Paste
+  en_name: 'TODO: Chipotle-Paste'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 300
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 3
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Paprikaschote, rot
+  en_name: 'TODO: Paprikaschote, rot'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Chilipulver
+  en_name: 'TODO: Chilipulver'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Oregano, getrocknet
+  en_name: 'TODO: Oregano, getrocknet'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Salz und Pfeffer
+  en_name: 'TODO: Salz und Pfeffer'
+  qty: 1
+  unit: Stk
+  category: Gewürze
+de_steps:
+- |-
+  Hähnchenbrust in kleine Würfel schneiden und in Olivenöl bei hoher Hitze 4–5 Minuten kräftig anbraten. Herausnehmen.
+- |-
+  Zwiebel, Knoblauch und Paprika fein würfeln. Im gleichen Topf 3 Minuten anschwitzen.
+- |-
+  Chipotle-Paste, Kreuzkümmel, Chilipulver und Oregano einrühren und 1 Minute rösten.
+- Tomaten, Brühe und Kidneybohnen hinzufügen. Aufkochen.
+- |-
+  Hähnchen zurück in den Topf geben und 12–15 Minuten bei mittlerer Hitze köcheln lassen, bis die Sauce eindickt. Abschmecken.
+en_steps:
+- |-
+  TODO: Hähnchenbrust in kleine Würfel schneiden und in Olivenöl bei hoher Hitze 4–5 Minuten kräftig anbraten. Herausnehmen.
+- |-
+  TODO: Zwiebel, Knoblauch und Paprika fein würfeln. Im gleichen Topf 3 Minuten anschwitzen.
+- |-
+  TODO: Chipotle-Paste, Kreuzkümmel, Chilipulver und Oregano einrühren und 1 Minute rösten.
+- 'TODO: Tomaten, Brühe und Kidneybohnen hinzufügen. Aufkochen.'
+- |-
+  TODO: Hähnchen zurück in den Topf geben und 12–15 Minuten bei mittlerer Hitze köcheln lassen, bis die Sauce eindickt. Abschmecken.

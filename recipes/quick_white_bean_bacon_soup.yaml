@@ -1,0 +1,77 @@
+id: quick_white_bean_bacon_soup
+pool: lunch
+healthy: false
+quick: true
+next_day: true
+quick_minutes: 20
+meals: 2
+de:
+  title: Schnelle Weiße-Bohnen-Suppe mit Speck
+  summary: |-
+    Rustikale Suppe aus weißen Bohnen, knusprigem Speck und Salbei — fertig in 20 Minuten.
+en:
+  title: 'TODO: Schnelle Weiße-Bohnen-Suppe mit Speck'
+  summary: |-
+    TODO: Rustikale Suppe aus weißen Bohnen, knusprigem Speck und Salbei — fertig in 20 Minuten.
+ingredients:
+- de_name: Weiße Bohnen, abgetropft
+  en_name: 'TODO: Weiße Bohnen, abgetropft'
+  qty: 2
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 900
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Geräucherter Speck, gewürfelt
+  en_name: 'TODO: Geräucherter Speck, gewürfelt'
+  qty: 150
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 3
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Salbei, getrocknet
+  en_name: 'TODO: Salbei, getrocknet'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer, grob gemahlen
+  en_name: 'TODO: Schwarzer Pfeffer, grob gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1
+  unit: Stk
+  category: Gewürze
+de_steps:
+- |-
+  Speck in einem Topf bei mittlerer Hitze ohne zusätzliches Fett knusprig ausbraten, ca. 4 Minuten. Mit einem Schaumlöffel herausnehmen.
+- |-
+  Zwiebel würfeln und Knoblauch hacken. Im Speckfett mit einem Schuss Olivenöl 3 Minuten anschwitzen. Salbei einrühren.
+- |-
+  Bohnen und Brühe hinzufügen. Aufkochen und 10 Minuten köcheln lassen. Die Hälfte der Suppe mit einem Stabmixer kurz anpürieren, um eine cremige Konsistenz zu erzeugen.
+- Speck zurückgeben, mit Pfeffer abschmecken und servieren.
+en_steps:
+- |-
+  TODO: Speck in einem Topf bei mittlerer Hitze ohne zusätzliches Fett knusprig ausbraten, ca. 4 Minuten. Mit einem Schaumlöffel herausnehmen.
+- |-
+  TODO: Zwiebel würfeln und Knoblauch hacken. Im Speckfett mit einem Schuss Olivenöl 3 Minuten anschwitzen. Salbei einrühren.
+- |-
+  TODO: Bohnen und Brühe hinzufügen. Aufkochen und 10 Minuten köcheln lassen. Die Hälfte der Suppe mit einem Stabmixer kurz anpürieren, um eine cremige Konsistenz zu erzeugen.
+- 'TODO: Speck zurückgeben, mit Pfeffer abschmecken und servieren.'

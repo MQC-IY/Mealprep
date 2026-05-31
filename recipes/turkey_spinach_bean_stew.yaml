@@ -1,0 +1,66 @@
+id: turkey_spinach_bean_stew
+pool: lunch
+healthy: true
+quick: false
+next_day: true
+meals: 3
+de:
+  title: Puten-Spinat-Bohnen-Topf
+  summary: Tomatiger Eintopf mit Putenhack, weißen Bohnen, Spinat und Möhren.
+en:
+  title: 'TODO: Puten-Spinat-Bohnen-Topf'
+  summary: 'TODO: Tomatiger Eintopf mit Putenhack, weißen Bohnen, Spinat und Möhren.'
+ingredients:
+- de_name: Putenhack
+  en_name: 'TODO: Putenhack'
+  qty: 650
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Weiße Bohnen
+  en_name: 'TODO: Weiße Bohnen'
+  qty: 2
+  unit: Dosen
+  category: Konserven und Vorrat
+- de_name: Blattspinat
+  en_name: 'TODO: Blattspinat'
+  qty: 180
+  unit: g
+  category: Gemüse und Salat
+- de_name: Passierte Tomaten
+  en_name: 'TODO: Passierte Tomaten'
+  qty: 1
+  unit: Glas
+  category: Konserven und Vorrat
+- de_name: Möhren
+  en_name: 'TODO: Möhren'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Oregano
+  en_name: 'TODO: Oregano'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Putenhack mit Zwiebel scharf anbraten.
+- Möhren, Tomaten und Bohnen zugeben und weich köcheln.
+- Spinat zum Schluss unterheben.
+en_steps:
+- 'TODO: Putenhack mit Zwiebel scharf anbraten.'
+- 'TODO: Möhren, Tomaten und Bohnen zugeben und weich köcheln.'
+- 'TODO: Spinat zum Schluss unterheben.'

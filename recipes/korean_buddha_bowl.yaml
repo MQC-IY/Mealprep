@@ -1,0 +1,129 @@
+id: korean_buddha_bowl
+pool: lunch
+healthy: true
+quick: true
+next_day: false
+quick_minutes: 30
+meals: 2
+de:
+  title: Koreanische Buddha-Bowl mit Hähnchen und Kimchi
+  summary: |-
+    Bunte koreanische Bowl mit mariniertem Hähnchen, Kimchi, Gochujang-Sauce, eingelegten Gurken und Sesam-Spinat auf Reis.
+en:
+  title: 'TODO: Koreanische Buddha-Bowl mit Hähnchen und Kimchi'
+  summary: |-
+    TODO: Bunte koreanische Bowl mit mariniertem Hähnchen, Kimchi, Gochujang-Sauce, eingelegten Gurken und Sesam-Spinat auf Reis.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 700
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Kimchi
+  en_name: 'TODO: Kimchi'
+  qty: 200
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Rundkornreis
+  en_name: 'TODO: Rundkornreis'
+  qty: 300
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Blattspinat
+  en_name: 'TODO: Blattspinat'
+  qty: 250
+  unit: g
+  category: Gemüse und Salat
+- de_name: Gurke
+  en_name: 'TODO: Gurke'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Möhren
+  en_name: 'TODO: Möhren'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 4
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 3
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Sojasauce
+  en_name: 'TODO: Sojasauce'
+  qty: 4
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sesamöl
+  en_name: 'TODO: Sesamöl'
+  qty: 2
+  unit: TL
+  category: Konserven und Vorrat
+- de_name: Rapsöl
+  en_name: 'TODO: Rapsöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Reisessig
+  en_name: 'TODO: Reisessig'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Gochujang-Paste
+  en_name: 'TODO: Gochujang-Paste'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Honig
+  en_name: 'TODO: Honig'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Zitrone
+  en_name: 'TODO: Zitrone'
+  qty: 1
+  unit: Stk
+  category: Obst
+- de_name: Sesam
+  en_name: 'TODO: Sesam'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken (Gochugaru)
+  en_name: 'TODO: Chiliflocken (Gochugaru)'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Hähnchen in dünne Scheiben schneiden. Mit 2 EL Sojasauce, 1 EL Gochujang, Honig, 2 Knoblauchzehen (gepresst) und 1 TL Sesamöl marinieren.
+- Reis nach Packungsanweisung garen.
+- |-
+  Gurke in dünne Scheiben hobeln, mit Reisessig, 1 Prise Salz und Chiliflocken kurz einlegen.
+- |-
+  Möhren in feine Julienne schneiden, kurz in kochendem Salzwasser blanchieren oder roh belassen.
+- |-
+  Spinat in einer Pfanne mit etwas Sesamöl und 1 Knoblauchzehe zusammenfallen lassen, mit Sojasauce und Sesam abschmecken.
+- |-
+  Hähnchen in einer sehr heißen Pfanne scharf anbraten, bis es karamellisiert und durchgegart ist.
+- |-
+  Bowls mit Reis füllen. Hähnchen, Kimchi, eingelegte Gurken, Möhren und Spinat nebeneinander anrichten. Mit Frühlingszwiebeln und Sesam bestreuen. Restliche Gochujang-Sauce dazu reichen.
+en_steps:
+- |-
+  TODO: Hähnchen in dünne Scheiben schneiden. Mit 2 EL Sojasauce, 1 EL Gochujang, Honig, 2 Knoblauchzehen (gepresst) und 1 TL Sesamöl marinieren.
+- 'TODO: Reis nach Packungsanweisung garen.'
+- |-
+  TODO: Gurke in dünne Scheiben hobeln, mit Reisessig, 1 Prise Salz und Chiliflocken kurz einlegen.
+- |-
+  TODO: Möhren in feine Julienne schneiden, kurz in kochendem Salzwasser blanchieren oder roh belassen.
+- |-
+  TODO: Spinat in einer Pfanne mit etwas Sesamöl und 1 Knoblauchzehe zusammenfallen lassen, mit Sojasauce und Sesam abschmecken.
+- |-
+  TODO: Hähnchen in einer sehr heißen Pfanne scharf anbraten, bis es karamellisiert und durchgegart ist.
+- |-
+  TODO: Bowls mit Reis füllen. Hähnchen, Kimchi, eingelegte Gurken, Möhren und Spinat nebeneinander anrichten. Mit Frühlingszwiebeln und Sesam bestreuen. Restliche Gochujang-Sauce dazu reichen.

@@ -1,0 +1,62 @@
+id: yogurt_lemon_cake
+pool: dessert
+de:
+  title: Joghurt-Zitronenkuchen in leichter Version
+  summary: |-
+    Frischer, heller Kuchen mit Joghurt, Zitrone und wenig Honig statt dickem Zuckerguss.
+en:
+  title: 'TODO: Joghurt-Zitronenkuchen in leichter Version'
+  summary: |-
+    TODO: Frischer, heller Kuchen mit Joghurt, Zitrone und wenig Honig statt dickem Zuckerguss.
+ingredients:
+- de_name: Dinkelmehl
+  en_name: 'TODO: Dinkelmehl'
+  qty: 200
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Naturjoghurt
+  en_name: 'TODO: Naturjoghurt'
+  qty: 250
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Eier
+  en_name: 'TODO: Eier'
+  qty: 2
+  unit: Stk
+  category: Protein und Milchprodukte
+- de_name: Zitrone
+  en_name: 'TODO: Zitrone'
+  qty: 1
+  unit: Stk
+  category: Obst
+- de_name: Rapsöl
+  en_name: 'TODO: Rapsöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Honig
+  en_name: 'TODO: Honig'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Backpulver
+  en_name: 'TODO: Backpulver'
+  qty: 1
+  unit: Packung
+  category: Konserven und Vorrat
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Joghurt, Eier, Rapsöl, Honig, Zitronensaft und etwas Zitronenabrieb verrühren.
+- Dinkelmehl und Backpulver unterheben.
+- In eine kleine Form geben und bei 180 Grad etwa 30 bis 35 Minuten backen.
+- Ohne Zuckerguss servieren oder mit einem Löffel Joghurt ergänzen.
+en_steps:
+- |-
+  TODO: Joghurt, Eier, Rapsöl, Honig, Zitronensaft und etwas Zitronenabrieb verrühren.
+- 'TODO: Dinkelmehl und Backpulver unterheben.'
+- 'TODO: In eine kleine Form geben und bei 180 Grad etwa 30 bis 35 Minuten backen.'
+- 'TODO: Ohne Zuckerguss servieren oder mit einem Löffel Joghurt ergänzen.'

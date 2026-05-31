@@ -1,0 +1,111 @@
+id: yukgaejang_beef_soup
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Koreanisches Yukgaejang – Scharfe Rindfleischsuppe
+  summary: |-
+    Feuriger koreanischer Rindfleisch-Fadennudel-Eintopf mit Farnkraut, Sojasprossen und Ei in kräftiger Gochugaru-Brühe.
+en:
+  title: 'TODO: Koreanisches Yukgaejang – Scharfe Rindfleischsuppe'
+  summary: |-
+    TODO: Feuriger koreanischer Rindfleisch-Fadennudel-Eintopf mit Farnkraut, Sojasprossen und Ei in kräftiger Gochugaru-Brühe.
+ingredients:
+- de_name: Rindfleisch (Wadenstück oder Suppenfleisch)
+  en_name: 'TODO: Rindfleisch (Wadenstück oder Suppenfleisch)'
+  qty: 600
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Eier
+  en_name: 'TODO: Eier'
+  qty: 2
+  unit: Stk
+  category: Protein und Milchprodukte
+- de_name: Sojasprossen (Kongnamul)
+  en_name: 'TODO: Sojasprossen (Kongnamul)'
+  qty: 200
+  unit: g
+  category: Gemüse und Salat
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 2
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 6
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Gosari (getrocknetes Farnkraut, eingeweicht) oder Pak Choi
+  en_name: 'TODO: Gosari (getrocknetes Farnkraut, eingeweicht) oder Pak Choi'
+  qty: 150
+  unit: g
+  category: Gemüse und Salat
+- de_name: Kurzkörniger Reis
+  en_name: 'TODO: Kurzkörniger Reis'
+  qty: 400
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Rindsbrühe
+  en_name: 'TODO: Rindsbrühe'
+  qty: 1.5
+  unit: Liter
+  category: Konserven und Vorrat
+- de_name: Sojasoße
+  en_name: 'TODO: Sojasoße'
+  qty: 4
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sesamöl
+  en_name: 'TODO: Sesamöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Pflanzenöl
+  en_name: 'TODO: Pflanzenöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Gochugaru
+  en_name: 'TODO: Gochugaru'
+  qty: 5
+  unit: EL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Knoblauchpulver
+  en_name: 'TODO: Knoblauchpulver'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Rindfleisch in kaltem Wasser 30 Minuten wässern, dann in einem Topf mit frischem Wasser aufsetzen, aufkochen und 5 Minuten blanchieren. Abgießen und abspülen.
+- |-
+  Rindfleisch in der Rindsbrühe mit 3 zerdrückten Knoblauchzehen 60 Minuten bei niedriger Hitze köcheln, bis es zart ist. Fleisch herausnehmen und in Fäden zerzupfen. Brühe aufbewahren.
+- |-
+  Restlichen Knoblauch fein hacken. Gochugaru-Paste: Sesamöl, Pflanzenöl, Gochugaru, Knoblauch, Knoblauchpulver in einem kleinen Topf bei niedriger Hitze 2 Minuten rösten.
+- Gochugaru-Paste in die Brühe einrühren. Fleischfäden dazugeben und aufkochen.
+- |-
+  Sojasprossen, Gosari und Frühlingszwiebeln (in 5 cm lange Stücke) dazugeben. 10 Minuten köcheln. Mit Sojasoße und Pfeffer abschmecken.
+- Eier verquirlen und fädenartig in die köchelnde Suppe gießen, sofort umrühren.
+- Reis garen und separat servieren. Suppe in tiefe Schüsseln schöpfen.
+en_steps:
+- |-
+  TODO: Rindfleisch in kaltem Wasser 30 Minuten wässern, dann in einem Topf mit frischem Wasser aufsetzen, aufkochen und 5 Minuten blanchieren. Abgießen und abspülen.
+- |-
+  TODO: Rindfleisch in der Rindsbrühe mit 3 zerdrückten Knoblauchzehen 60 Minuten bei niedriger Hitze köcheln, bis es zart ist. Fleisch herausnehmen und in Fäden zerzupfen. Brühe aufbewahren.
+- |-
+  TODO: Restlichen Knoblauch fein hacken. Gochugaru-Paste: Sesamöl, Pflanzenöl, Gochugaru, Knoblauch, Knoblauchpulver in einem kleinen Topf bei niedriger Hitze 2 Minuten rösten.
+- |-
+  TODO: Gochugaru-Paste in die Brühe einrühren. Fleischfäden dazugeben und aufkochen.
+- |-
+  TODO: Sojasprossen, Gosari und Frühlingszwiebeln (in 5 cm lange Stücke) dazugeben. 10 Minuten köcheln. Mit Sojasoße und Pfeffer abschmecken.
+- |-
+  TODO: Eier verquirlen und fädenartig in die köchelnde Suppe gießen, sofort umrühren.
+- 'TODO: Reis garen und separat servieren. Suppe in tiefe Schüsseln schöpfen.'

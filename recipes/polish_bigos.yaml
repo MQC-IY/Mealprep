@@ -1,0 +1,121 @@
+id: polish_bigos
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Polnischer Bigos – Sauerkraut-Fleisch-Eintopf
+  summary: |-
+    Polens Nationalgericht: Sauerkraut und frischer Weißkohl schmoren stundenlang mit Schweinefleisch, Speck, Kielbasa und Pilzen – besser am nächsten Tag.
+en:
+  title: 'TODO: Polnischer Bigos – Sauerkraut-Fleisch-Eintopf'
+  summary: |-
+    TODO: Polens Nationalgericht: Sauerkraut und frischer Weißkohl schmoren stundenlang mit Schweinefleisch, Speck, Kielbasa und Pilzen – besser am nächsten Tag.
+ingredients:
+- de_name: Schweinebauch (gewürfelt)
+  en_name: 'TODO: Schweinebauch (gewürfelt)'
+  qty: 300
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Kielbasa (Polnische Wurst)
+  en_name: 'TODO: Kielbasa (Polnische Wurst)'
+  qty: 200
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Speckwürfel
+  en_name: 'TODO: Speckwürfel'
+  qty: 100
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Sauerkraut
+  en_name: 'TODO: Sauerkraut'
+  qty: 500
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Getrocknete Steinpilze
+  en_name: 'TODO: Getrocknete Steinpilze'
+  qty: 20
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Tomatenmark
+  en_name: 'TODO: Tomatenmark'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Trockener Rotwein
+  en_name: 'TODO: Trockener Rotwein'
+  qty: 150
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Lorbeerblätter
+  en_name: 'TODO: Lorbeerblätter'
+  qty: 3
+  unit: Stk
+  category: Konserven und Vorrat
+- de_name: Weißkohl
+  en_name: 'TODO: Weißkohl'
+  qty: 400
+  unit: g
+  category: Gemüse und Salat
+- de_name: Zwiebeln
+  en_name: 'TODO: Zwiebeln'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Edelsüßes Paprikapulver
+  en_name: 'TODO: Edelsüßes Paprikapulver'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Kümmel (ganz)
+  en_name: 'TODO: Kümmel (ganz)'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Piment, gemahlen
+  en_name: 'TODO: Piment, gemahlen'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Steinpilze in 250 ml warmem Wasser 30 Minuten einweichen. Herausnehmen, grob hacken. Einweichwasser durch ein feines Sieb gießen und aufbewahren.
+- |-
+  Speckwürfel in einem großen, schweren Topf ohne Öl bei mittlerer Hitze auslassen. Schweinebauch hinzufügen, von allen Seiten 8 Minuten anbraten.
+- |-
+  Zwiebeln würfeln und zum Fleisch geben, 5 Minuten mitbraten. Kielbasa in dicke Scheiben schneiden und mitbraten. Knoblauch pressen, Paprikapulver, Piment und Kümmel einrühren.
+- |-
+  Weißkohl in Streifen schneiden und einrühren. Sauerkraut (nicht abspülen) und eingeweichte Pilze mit ihrem Einweichwasser hinzufügen.
+- |-
+  Tomatenmark einrühren, mit Rotwein ablöschen. Lorbeerblätter einlegen, pfeffern. Alles gut umrühren.
+- |-
+  Zugedeckt bei niedriger Hitze 1,5 Stunden schmoren, dabei gelegentlich rühren. Am Ende salzen und abschmecken. Am nächsten Tag schmeckt Bigos noch besser.
+en_steps:
+- |-
+  TODO: Steinpilze in 250 ml warmem Wasser 30 Minuten einweichen. Herausnehmen, grob hacken. Einweichwasser durch ein feines Sieb gießen und aufbewahren.
+- |-
+  TODO: Speckwürfel in einem großen, schweren Topf ohne Öl bei mittlerer Hitze auslassen. Schweinebauch hinzufügen, von allen Seiten 8 Minuten anbraten.
+- |-
+  TODO: Zwiebeln würfeln und zum Fleisch geben, 5 Minuten mitbraten. Kielbasa in dicke Scheiben schneiden und mitbraten. Knoblauch pressen, Paprikapulver, Piment und Kümmel einrühren.
+- |-
+  TODO: Weißkohl in Streifen schneiden und einrühren. Sauerkraut (nicht abspülen) und eingeweichte Pilze mit ihrem Einweichwasser hinzufügen.
+- |-
+  TODO: Tomatenmark einrühren, mit Rotwein ablöschen. Lorbeerblätter einlegen, pfeffern. Alles gut umrühren.
+- |-
+  TODO: Zugedeckt bei niedriger Hitze 1,5 Stunden schmoren, dabei gelegentlich rühren. Am Ende salzen und abschmecken. Am nächsten Tag schmeckt Bigos noch besser.

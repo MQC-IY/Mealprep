@@ -1,0 +1,118 @@
+id: sambal_chicken_coconut_rice
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Sambal-Hähnchen mit Kokos-Reis
+  summary: |-
+    Würziges indonesisches Hähnchen in einer intensiven Sambal-Oelek-Kokosmilch-Sauce, serviert mit duftendem Kokos-Jasminreis.
+en:
+  title: 'TODO: Sambal-Hähnchen mit Kokos-Reis'
+  summary: |-
+    TODO: Würziges indonesisches Hähnchen in einer intensiven Sambal-Oelek-Kokosmilch-Sauce, serviert mit duftendem Kokos-Jasminreis.
+ingredients:
+- de_name: Hähnchenbrust oder -schenkel
+  en_name: 'TODO: Hähnchenbrust oder -schenkel'
+  qty: 800
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Kokosmilch
+  en_name: 'TODO: Kokosmilch'
+  qty: 2
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Sambal Oelek
+  en_name: 'TODO: Sambal Oelek'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Fischsauce
+  en_name: 'TODO: Fischsauce'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Rapsöl
+  en_name: 'TODO: Rapsöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Jasminreis
+  en_name: 'TODO: Jasminreis'
+  qty: 300
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 5
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Ingwer, frisch
+  en_name: 'TODO: Ingwer, frisch'
+  qty: 30
+  unit: g
+  category: Gemüse und Salat
+- de_name: Zitronengrasstangen
+  en_name: 'TODO: Zitronengrasstangen'
+  qty: 2
+  unit: Stange
+  category: Gemüse und Salat
+- de_name: Kaffirlimettenblätter
+  en_name: 'TODO: Kaffirlimettenblätter'
+  qty: 4
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Limette
+  en_name: 'TODO: Limette'
+  qty: 2
+  unit: Stk
+  category: Obst
+- de_name: Kurkuma
+  en_name: 'TODO: Kurkuma'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+- de_name: Koriander, gemahlen
+  en_name: 'TODO: Koriander, gemahlen'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Kokos-Reis zubereiten: Jasminreis mit einer Dose Kokosmilch und der gleichen Menge Wasser in einem Topf aufkochen. Hitze auf minimal, Deckel drauf, 15 Minuten köcheln bis der Reis gar ist.
+- |-
+  Zwiebeln, Knoblauch und Ingwer fein hacken. Öl in einer großen Pfanne bei mittlerer-hoher Hitze erhitzen. Zwiebeln 5 Minuten glasig anbraten.
+- |-
+  Knoblauch und Ingwer 1 Minute mitrösten. Sambal Oelek, Kurkuma, gemahlenen Koriander und Chiliflocken zugeben, 2 Minuten unter Rühren rösten.
+- Hähnchenstücke zugeben und von allen Seiten 5 Minuten anbraten.
+- |-
+  Zweite Dose Kokosmilch, Fischsauce, angequetschte Zitronengrasstangen und Kaffirlimettenblätter zugeben. Aufkochen, Hitze reduzieren.
+- |-
+  30 Minuten bei mittlerer-niedriger Hitze köcheln bis das Hähnchen sehr zart und die Sauce eingedickt ist.
+- |-
+  Zitronengras und Limettenblätter entfernen. Mit Limettensaft abschmecken. Mit Kokos-Reis servieren.
+en_steps:
+- |-
+  TODO: Kokos-Reis zubereiten: Jasminreis mit einer Dose Kokosmilch und der gleichen Menge Wasser in einem Topf aufkochen. Hitze auf minimal, Deckel drauf, 15 Minuten köcheln bis der Reis gar ist.
+- |-
+  TODO: Zwiebeln, Knoblauch und Ingwer fein hacken. Öl in einer großen Pfanne bei mittlerer-hoher Hitze erhitzen. Zwiebeln 5 Minuten glasig anbraten.
+- |-
+  TODO: Knoblauch und Ingwer 1 Minute mitrösten. Sambal Oelek, Kurkuma, gemahlenen Koriander und Chiliflocken zugeben, 2 Minuten unter Rühren rösten.
+- 'TODO: Hähnchenstücke zugeben und von allen Seiten 5 Minuten anbraten.'
+- |-
+  TODO: Zweite Dose Kokosmilch, Fischsauce, angequetschte Zitronengrasstangen und Kaffirlimettenblätter zugeben. Aufkochen, Hitze reduzieren.
+- |-
+  TODO: 30 Minuten bei mittlerer-niedriger Hitze köcheln bis das Hähnchen sehr zart und die Sauce eingedickt ist.
+- |-
+  TODO: Zitronengras und Limettenblätter entfernen. Mit Limettensaft abschmecken. Mit Kokos-Reis servieren.

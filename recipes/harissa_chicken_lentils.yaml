@@ -1,0 +1,126 @@
+id: harissa_chicken_lentils
+pool: lunch
+healthy: true
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Harissa-Hähnchen mit Linsen und Joghurt
+  summary: |-
+    Feurig-würzige Harissa-Hähnchenstücke auf einem Bett aus herzhaften Linsen, gekrönt von kühlem Joghurt und frischen Kräutern.
+en:
+  title: 'TODO: Harissa-Hähnchen mit Linsen und Joghurt'
+  summary: |-
+    TODO: Feurig-würzige Harissa-Hähnchenstücke auf einem Bett aus herzhaften Linsen, gekrönt von kühlem Joghurt und frischen Kräutern.
+ingredients:
+- de_name: Hähnchenschenkel, ohne Knochen
+  en_name: 'TODO: Hähnchenschenkel, ohne Knochen'
+  qty: 600
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Vollfett-Joghurt
+  en_name: 'TODO: Vollfett-Joghurt'
+  qty: 150
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Grüne oder Braune Linsen
+  en_name: 'TODO: Grüne oder Braune Linsen'
+  qty: 250
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Harissa-Paste
+  en_name: 'TODO: Harissa-Paste'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 4
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 600
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Zwiebeln
+  en_name: 'TODO: Zwiebeln'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Stangensellerie
+  en_name: 'TODO: Stangensellerie'
+  qty: 2
+  unit: Stange
+  category: Gemüse und Salat
+- de_name: Frische Petersilie
+  en_name: 'TODO: Frische Petersilie'
+  qty: 0.5
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Zitrone
+  en_name: 'TODO: Zitrone'
+  qty: 1
+  unit: Stk
+  category: Obst
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+- de_name: Koriander, gemahlen
+  en_name: 'TODO: Koriander, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Kurkuma
+  en_name: 'TODO: Kurkuma'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Paprikapulver, geräuchert
+  en_name: 'TODO: Paprikapulver, geräuchert'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Hähnchen mit 2 EL Harissa, Olivenöl, Salz und Pfeffer einreiben. 30 Minuten marinieren.
+- |-
+  Ofen auf 200°C vorheizen. Hähnchen auf einem Backblech 30–35 Minuten rösten, bis die Haut knusprig ist. Alternativ in einer Grillpfanne grillen.
+- |-
+  Zwiebeln und Sellerie fein würfeln. In 2 EL Olivenöl 8 Minuten weich dünsten. Knoblauch einrühren.
+- |-
+  Kreuzkümmel, Koriander, Kurkuma, Paprika und restliche Harissa einrühren, 1 Minute rösten. Linsen hinzufügen.
+- |-
+  Hühnerbrühe angießen, aufkochen, bei niedriger Hitze 25 Minuten köcheln, bis die Linsen weich sind. Mit Salz und Zitronensaft abschmecken.
+- |-
+  Linsen auf Teller verteilen. Hähnchenstücke darauflegen. Joghurt darüberklecksen, mit Petersilie und Zitronenspalten servieren.
+en_steps:
+- |-
+  TODO: Hähnchen mit 2 EL Harissa, Olivenöl, Salz und Pfeffer einreiben. 30 Minuten marinieren.
+- |-
+  TODO: Ofen auf 200°C vorheizen. Hähnchen auf einem Backblech 30–35 Minuten rösten, bis die Haut knusprig ist. Alternativ in einer Grillpfanne grillen.
+- |-
+  TODO: Zwiebeln und Sellerie fein würfeln. In 2 EL Olivenöl 8 Minuten weich dünsten. Knoblauch einrühren.
+- |-
+  TODO: Kreuzkümmel, Koriander, Kurkuma, Paprika und restliche Harissa einrühren, 1 Minute rösten. Linsen hinzufügen.
+- |-
+  TODO: Hühnerbrühe angießen, aufkochen, bei niedriger Hitze 25 Minuten köcheln, bis die Linsen weich sind. Mit Salz und Zitronensaft abschmecken.
+- |-
+  TODO: Linsen auf Teller verteilen. Hähnchenstücke darauflegen. Joghurt darüberklecksen, mit Petersilie und Zitronenspalten servieren.

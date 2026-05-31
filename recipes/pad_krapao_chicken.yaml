@@ -1,0 +1,116 @@
+id: pad_krapao_chicken
+pool: lunch
+healthy: false
+quick: true
+next_day: false
+quick_minutes: 25
+meals: 2
+de:
+  title: Pad Krapao – Thai-Basilikum-Hähnchen mit Spiegelei
+  summary: |-
+    Scharf-würziges Hähnchen-Hackfleisch mit Thai-Basilikum, Chili und Knoblauch, serviert mit Spiegelei und Jasminreis.
+en:
+  title: 'TODO: Pad Krapao – Thai-Basilikum-Hähnchen mit Spiegelei'
+  summary: |-
+    TODO: Scharf-würziges Hähnchen-Hackfleisch mit Thai-Basilikum, Chili und Knoblauch, serviert mit Spiegelei und Jasminreis.
+ingredients:
+- de_name: Hähnchen-Hackfleisch
+  en_name: 'TODO: Hähnchen-Hackfleisch'
+  qty: 400
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Eier
+  en_name: 'TODO: Eier'
+  qty: 2
+  unit: Stk
+  category: Protein und Milchprodukte
+- de_name: Jasminreis
+  en_name: 'TODO: Jasminreis'
+  qty: 200
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 5
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Frische rote Chilischoten
+  en_name: 'TODO: Frische rote Chilischoten'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Frische grüne Chilischoten
+  en_name: 'TODO: Frische grüne Chilischoten'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Thai-Basilikum (frisch)
+  en_name: 'TODO: Thai-Basilikum (frisch)'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Fischsauce
+  en_name: 'TODO: Fischsauce'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Austernsauce
+  en_name: 'TODO: Austernsauce'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Dunkle Sojasauce
+  en_name: 'TODO: Dunkle Sojasauce'
+  qty: 1
+  unit: TL
+  category: Konserven und Vorrat
+- de_name: Palmzucker
+  en_name: 'TODO: Palmzucker'
+  qty: 1
+  unit: TL
+  category: Konserven und Vorrat
+- de_name: Erdnussöl
+  en_name: 'TODO: Erdnussöl'
+  qty: 4
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Weißer Pfeffer, gemahlen
+  en_name: 'TODO: Weißer Pfeffer, gemahlen'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Jasminreis waschen und kochen.
+- Knoblauch und Chilischoten im Mörser grob zerstoßen.
+- |-
+  3 EL Öl im Wok bei sehr starker Hitze erhitzen. Knoblauch-Chili-Mischung 30 Sekunden anbraten.
+- |-
+  Hähnchen-Hackfleisch zugeben und unter ständigem Rühren 4–5 Minuten krümelig anbraten.
+- |-
+  Fischsauce, Austernsauce, dunkle Sojasauce und Palmzucker zugeben. Alles gut verrühren und 1 Minute einkochen.
+- |-
+  Thai-Basilikum-Blätter und Frühlingszwiebeln zugeben, kurz unterheben bis der Basilikum zusammenfällt.
+- |-
+  In einer zweiten Pfanne 1 EL Öl bei starker Hitze erhitzen und die Eier als knusprige Spiegeleier braten.
+- |-
+  Reis auf Teller geben, Hackfleisch daneben anrichten, Spiegelei obenauf. Mit weißem Pfeffer würzen.
+en_steps:
+- 'TODO: Jasminreis waschen und kochen.'
+- 'TODO: Knoblauch und Chilischoten im Mörser grob zerstoßen.'
+- |-
+  TODO: 3 EL Öl im Wok bei sehr starker Hitze erhitzen. Knoblauch-Chili-Mischung 30 Sekunden anbraten.
+- |-
+  TODO: Hähnchen-Hackfleisch zugeben und unter ständigem Rühren 4–5 Minuten krümelig anbraten.
+- |-
+  TODO: Fischsauce, Austernsauce, dunkle Sojasauce und Palmzucker zugeben. Alles gut verrühren und 1 Minute einkochen.
+- |-
+  TODO: Thai-Basilikum-Blätter und Frühlingszwiebeln zugeben, kurz unterheben bis der Basilikum zusammenfällt.
+- |-
+  TODO: In einer zweiten Pfanne 1 EL Öl bei starker Hitze erhitzen und die Eier als knusprige Spiegeleier braten.
+- |-
+  TODO: Reis auf Teller geben, Hackfleisch daneben anrichten, Spiegelei obenauf. Mit weißem Pfeffer würzen.

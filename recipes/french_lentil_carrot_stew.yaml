@@ -1,0 +1,92 @@
+id: french_lentil_carrot_stew
+pool: lunch
+healthy: true
+quick: false
+next_day: true
+meals: 3
+de:
+  title: Französischer Linsen-Möhren-Eintopf
+  summary: |-
+    Französisch inspirierter Linsentopf mit Möhren, Kartoffeln, Lauch, Knoblauch und Kräutern der Provence.
+en:
+  title: 'TODO: Französischer Linsen-Möhren-Eintopf'
+  summary: |-
+    TODO: Französisch inspirierter Linsentopf mit Möhren, Kartoffeln, Lauch, Knoblauch und Kräutern der Provence.
+ingredients:
+- de_name: Braune Linsen
+  en_name: 'TODO: Braune Linsen'
+  qty: 300
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Kartoffeln
+  en_name: 'TODO: Kartoffeln'
+  qty: 700
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Möhren
+  en_name: 'TODO: Möhren'
+  qty: 4
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Lauch
+  en_name: 'TODO: Lauch'
+  qty: 1
+  unit: Stange
+  category: Gemüse und Salat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 2
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Kräuter der Provence
+  en_name: 'TODO: Kräuter der Provence'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Thymian, getrocknet
+  en_name: 'TODO: Thymian, getrocknet'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Rosmarin, getrocknet
+  en_name: 'TODO: Rosmarin, getrocknet'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Dijon-Senf
+  en_name: 'TODO: Dijon-Senf'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Rotwein oder Rotweinessig
+  en_name: 'TODO: Rotwein oder Rotweinessig'
+  qty: 100
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Linsen abspülen.
+- Kartoffeln, Möhren, Lauch, Zwiebel und Knoblauch klein schneiden.
+- |-
+  Gemüse in Olivenöl anschwitzen, Kräuter kurz mitziehen lassen und Linsen sowie Wasser zugeben.
+- Alles weich und aromatisch köcheln lassen.
+en_steps:
+- 'TODO: Linsen abspülen.'
+- 'TODO: Kartoffeln, Möhren, Lauch, Zwiebel und Knoblauch klein schneiden.'
+- |-
+  TODO: Gemüse in Olivenöl anschwitzen, Kräuter kurz mitziehen lassen und Linsen sowie Wasser zugeben.
+- 'TODO: Alles weich und aromatisch köcheln lassen.'

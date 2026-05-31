@@ -1,0 +1,94 @@
+id: italian_minestrone
+pool: lunch
+healthy: true
+quick: false
+next_day: true
+meals: 3
+de:
+  title: Minestrone mit Bohnen und kleinen Nudeln
+  summary: |-
+    Italienischer Gemüsetopf mit Bohnen, kleinen Nudeln, Sellerie, Zucchini und Kräutern.
+en:
+  title: 'TODO: Minestrone mit Bohnen und kleinen Nudeln'
+  summary: |-
+    TODO: Italienischer Gemüsetopf mit Bohnen, kleinen Nudeln, Sellerie, Zucchini und Kräutern.
+ingredients:
+- de_name: Kleine Suppennudeln
+  en_name: 'TODO: Kleine Suppennudeln'
+  qty: 180
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Weiße Bohnen
+  en_name: 'TODO: Weiße Bohnen'
+  qty: 2
+  unit: Dosen
+  category: Konserven und Vorrat
+- de_name: Gehackte Tomaten
+  en_name: 'TODO: Gehackte Tomaten'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Zucchini
+  en_name: 'TODO: Zucchini'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Möhren
+  en_name: 'TODO: Möhren'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Kartoffeln
+  en_name: 'TODO: Kartoffeln'
+  qty: 500
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Staudensellerie
+  en_name: 'TODO: Staudensellerie'
+  qty: 2
+  unit: Stangen
+  category: Gemüse und Salat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 2
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Oregano
+  en_name: 'TODO: Oregano'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Basilikum
+  en_name: 'TODO: Basilikum'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Zwiebel, Knoblauch, Sellerie, Möhren, Kartoffeln und Zucchini klein schneiden und in Olivenöl anschwitzen.
+- Tomaten und Wasser zugeben und das Gemüse weich köcheln lassen.
+- Bohnen und Kräuter einrühren, Nudeln zum Schluss in der Suppe mitgaren.
+- |-
+  Erwachsene zum Schluss mit Salz, Pfeffer und bei Wunsch etwas Parmesan servieren.
+en_steps:
+- |-
+  TODO: Zwiebel, Knoblauch, Sellerie, Möhren, Kartoffeln und Zucchini klein schneiden und in Olivenöl anschwitzen.
+- 'TODO: Tomaten und Wasser zugeben und das Gemüse weich köcheln lassen.'
+- 'TODO: Bohnen und Kräuter einrühren, Nudeln zum Schluss in der Suppe mitgaren.'
+- |-
+  TODO: Erwachsene zum Schluss mit Salz, Pfeffer und bei Wunsch etwas Parmesan servieren.

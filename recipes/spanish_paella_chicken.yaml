@@ -1,0 +1,124 @@
+id: spanish_paella_chicken
+pool: lunch
+healthy: false
+quick: false
+next_day: false
+meals: 2
+de:
+  title: Spanische Hähnchen-Paella-Pfanne
+  summary: |-
+    Klassische Paella Valenciana mit Hähnchen, Safran, Pimentón, Paprika und Bomba-Reis – die goldene Socarrat-Kruste ist das Herzstück.
+en:
+  title: 'TODO: Spanische Hähnchen-Paella-Pfanne'
+  summary: |-
+    TODO: Klassische Paella Valenciana mit Hähnchen, Safran, Pimentón, Paprika und Bomba-Reis – die goldene Socarrat-Kruste ist das Herzstück.
+ingredients:
+- de_name: Hähnchenstücke mit Knochen
+  en_name: 'TODO: Hähnchenstücke mit Knochen'
+  qty: 700
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Bomba-Reis oder Rundkornreis
+  en_name: 'TODO: Bomba-Reis oder Rundkornreis'
+  qty: 300
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Hühnerbrühe heiß
+  en_name: 'TODO: Hühnerbrühe heiß'
+  qty: 750
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Rote Paprika
+  en_name: 'TODO: Rote Paprika'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Tomate frisch reif
+  en_name: 'TODO: Tomate frisch reif'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Tiefgefrorene Erbsen
+  en_name: 'TODO: Tiefgefrorene Erbsen'
+  qty: 100
+  unit: g
+  category: Gemüse und Salat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 4
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Safranfäden
+  en_name: 'TODO: Safranfäden'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Pimentón ahumado
+  en_name: 'TODO: Pimentón ahumado'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Zitrone zum Servieren
+  en_name: 'TODO: Zitrone zum Servieren'
+  qty: 1
+  unit: Stk
+  category: Obst
+- de_name: Frische Petersilie
+  en_name: 'TODO: Frische Petersilie'
+  qty: 0.5
+  unit: Bund
+  category: Gemüse und Salat
+de_steps:
+- |-
+  Safranfäden in 3 EL heißem Wasser einweichen. Hähnchenstücke kräftig mit Salz, Pfeffer und 1 TL Pimentón würzen.
+- |-
+  Olivenöl in einer großen Paella-Pfanne oder breiten Pfanne bei starker Hitze erhitzen. Hähnchenstücke rundherum 6–8 Minuten kräftig anbraten. Herausnehmen.
+- |-
+  Paprika in Streifen, Zwiebel und Knoblauch fein würfeln. Im Bratfett bei mittlerer Hitze 5 Minuten anschwitzen.
+- |-
+  Tomaten reiben oder fein würfeln und dazugeben. Restlichen Pimentón und Safranwasser einrühren. Den Sofrito 5–7 Minuten bei niedriger Hitze einköcheln.
+- |-
+  Reis einrühren und 1–2 Minuten im Sofrito rösten. Heiße Brühe angießen und gut umrühren.
+- |-
+  Hähnchenstücke zurücklegen. Aufkochen, dann Hitze auf niedrig reduzieren. Ab jetzt NICHT mehr rühren. 15–18 Minuten köcheln.
+- |-
+  Erbsen einstreuen. Hitze für die letzten 2 Minuten kurz hochdrehen, um die Socarrat-Kruste am Boden zu bilden.
+- |-
+  Mit einem Tuch abgedeckt 5 Minuten ruhen lassen. Mit Zitronenspalten und Petersilie servieren.
+en_steps:
+- |-
+  TODO: Safranfäden in 3 EL heißem Wasser einweichen. Hähnchenstücke kräftig mit Salz, Pfeffer und 1 TL Pimentón würzen.
+- |-
+  TODO: Olivenöl in einer großen Paella-Pfanne oder breiten Pfanne bei starker Hitze erhitzen. Hähnchenstücke rundherum 6–8 Minuten kräftig anbraten. Herausnehmen.
+- |-
+  TODO: Paprika in Streifen, Zwiebel und Knoblauch fein würfeln. Im Bratfett bei mittlerer Hitze 5 Minuten anschwitzen.
+- |-
+  TODO: Tomaten reiben oder fein würfeln und dazugeben. Restlichen Pimentón und Safranwasser einrühren. Den Sofrito 5–7 Minuten bei niedriger Hitze einköcheln.
+- |-
+  TODO: Reis einrühren und 1–2 Minuten im Sofrito rösten. Heiße Brühe angießen und gut umrühren.
+- |-
+  TODO: Hähnchenstücke zurücklegen. Aufkochen, dann Hitze auf niedrig reduzieren. Ab jetzt NICHT mehr rühren. 15–18 Minuten köcheln.
+- |-
+  TODO: Erbsen einstreuen. Hitze für die letzten 2 Minuten kurz hochdrehen, um die Socarrat-Kruste am Boden zu bilden.
+- |-
+  TODO: Mit einem Tuch abgedeckt 5 Minuten ruhen lassen. Mit Zitronenspalten und Petersilie servieren.

@@ -1,0 +1,129 @@
+id: chinese_black_bean_chicken
+pool: lunch
+healthy: false
+quick: true
+next_day: false
+quick_minutes: 25
+meals: 2
+de:
+  title: Hähnchen mit Schwarzer-Bohnen-Sauce
+  summary: |-
+    Herzhaftes chinesisches Hähnchen-Wokgericht mit fermentierter Schwarzer-Bohnen-Sauce, Paprika und Ingwer.
+en:
+  title: 'TODO: Hähnchen mit Schwarzer-Bohnen-Sauce'
+  summary: |-
+    TODO: Herzhaftes chinesisches Hähnchen-Wokgericht mit fermentierter Schwarzer-Bohnen-Sauce, Paprika und Ingwer.
+ingredients:
+- de_name: Hähnchenbrustfilet
+  en_name: 'TODO: Hähnchenbrustfilet'
+  qty: 400
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Jasminreis
+  en_name: 'TODO: Jasminreis'
+  qty: 200
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Ingwer, frisch
+  en_name: 'TODO: Ingwer, frisch'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Paprika (rot und grün)
+  en_name: 'TODO: Paprika (rot und grün)'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Schwarze-Bohnen-Sauce (Douchi-Paste)
+  en_name: 'TODO: Schwarze-Bohnen-Sauce (Douchi-Paste)'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sojasauce
+  en_name: 'TODO: Sojasauce'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Austernsauce
+  en_name: 'TODO: Austernsauce'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Shaoxing-Reiswein
+  en_name: 'TODO: Shaoxing-Reiswein'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 100
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Speisestärke
+  en_name: 'TODO: Speisestärke'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Erdnussöl
+  en_name: 'TODO: Erdnussöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sesamöl
+  en_name: 'TODO: Sesamöl'
+  qty: 1
+  unit: TL
+  category: Konserven und Vorrat
+- de_name: Schwarzer Pfeffer, gemahlen
+  en_name: 'TODO: Schwarzer Pfeffer, gemahlen'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Getrocknete Chiliflocken
+  en_name: 'TODO: Getrocknete Chiliflocken'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- Jasminreis waschen und kochen.
+- |-
+  Hähnchen in dünne Streifen schneiden. Mit 1 EL Sojasauce, 1 EL Shaoxing-Wein, Stärke (1 EL) und Pfeffer 15 Minuten marinieren.
+- Paprika und Zwiebel in Streifen schneiden. Knoblauch und Ingwer fein hacken.
+- |-
+  Sauce: Schwarze-Bohnen-Sauce, restliche Sojasauce, Austernsauce, Brühe, Chiliflocken und restliche Stärke (in Wasser) verrühren.
+- |-
+  Öl im Wok bei starker Hitze erhitzen. Hähnchen 3–4 Minuten scharf braten. Herausnehmen.
+- Knoblauch und Ingwer 30 Sek. anbraten. Zwiebel und Paprika 2 Minuten mitbraten.
+- |-
+  Restlichen Shaoxing-Wein zugeben. Hähnchen zurückgeben. Sauce angießen und 2 Min. eindicken lassen.
+- Sesamöl und Frühlingszwiebeln unterheben. Mit Reis servieren.
+en_steps:
+- 'TODO: Jasminreis waschen und kochen.'
+- |-
+  TODO: Hähnchen in dünne Streifen schneiden. Mit 1 EL Sojasauce, 1 EL Shaoxing-Wein, Stärke (1 EL) und Pfeffer 15 Minuten marinieren.
+- |-
+  TODO: Paprika und Zwiebel in Streifen schneiden. Knoblauch und Ingwer fein hacken.
+- |-
+  TODO: Sauce: Schwarze-Bohnen-Sauce, restliche Sojasauce, Austernsauce, Brühe, Chiliflocken und restliche Stärke (in Wasser) verrühren.
+- |-
+  TODO: Öl im Wok bei starker Hitze erhitzen. Hähnchen 3–4 Minuten scharf braten. Herausnehmen.
+- |-
+  TODO: Knoblauch und Ingwer 30 Sek. anbraten. Zwiebel und Paprika 2 Minuten mitbraten.
+- |-
+  TODO: Restlichen Shaoxing-Wein zugeben. Hähnchen zurückgeben. Sauce angießen und 2 Min. eindicken lassen.
+- 'TODO: Sesamöl und Frühlingszwiebeln unterheben. Mit Reis servieren.'

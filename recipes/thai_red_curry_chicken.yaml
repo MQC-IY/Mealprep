@@ -1,0 +1,134 @@
+id: thai_red_curry_chicken
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Thai Red Curry mit Hähnchen
+  summary: |-
+    Feuriges rotes Thai-Curry mit Hähnchen, cremiger Kokosmilch, Aubergine und Thai-Basilikum.
+en:
+  title: 'TODO: Thai Red Curry mit Hähnchen'
+  summary: |-
+    TODO: Feuriges rotes Thai-Curry mit Hähnchen, cremiger Kokosmilch, Aubergine und Thai-Basilikum.
+ingredients:
+- de_name: Hähnchenbrustfilet
+  en_name: 'TODO: Hähnchenbrustfilet'
+  qty: 400
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Kokosmilch
+  en_name: 'TODO: Kokosmilch'
+  qty: 400
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Rote Currypaste
+  en_name: 'TODO: Rote Currypaste'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Fischsauce
+  en_name: 'TODO: Fischsauce'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Geflügelfond
+  en_name: 'TODO: Geflügelfond'
+  qty: 100
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Jasminreis
+  en_name: 'TODO: Jasminreis'
+  qty: 200
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Aubergine (Thai-Aubergine oder gewöhnliche)
+  en_name: 'TODO: Aubergine (Thai-Aubergine oder gewöhnliche)'
+  qty: 200
+  unit: g
+  category: Gemüse und Salat
+- de_name: Paprika (rot)
+  en_name: 'TODO: Paprika (rot)'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Kaffirlimettenblätter
+  en_name: 'TODO: Kaffirlimettenblätter'
+  qty: 4
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Zitronengras
+  en_name: 'TODO: Zitronengras'
+  qty: 1
+  unit: Stange
+  category: Gemüse und Salat
+- de_name: Galangal (Galgant), frisch oder TK
+  en_name: 'TODO: Galangal (Galgant), frisch oder TK'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Thai-Basilikum (frisch)
+  en_name: 'TODO: Thai-Basilikum (frisch)'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Frische rote Chili
+  en_name: 'TODO: Frische rote Chili'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Palmzucker
+  en_name: 'TODO: Palmzucker'
+  qty: 1
+  unit: TL
+  category: Konserven und Vorrat
+- de_name: Erdnussöl
+  en_name: 'TODO: Erdnussöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Limette
+  en_name: 'TODO: Limette'
+  qty: 1
+  unit: Stk
+  category: Obst
+- de_name: Getrocknete Chiliflocken
+  en_name: 'TODO: Getrocknete Chiliflocken'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Jasminreis waschen und mit der 1,5-fachen Menge Wasser zum Kochen bringen. 12 Minuten bei kleiner Hitze garziehen lassen.
+- |-
+  Hähnchen in mundgerechte Würfel schneiden. Aubergine würfeln und 10 Minuten in Salzwasser einweichen, abgießen. Paprika in Streifen schneiden.
+- |-
+  Zitronengras anquetschen. Galgant in Scheiben schneiden. Chilischoten halbieren und entkernen.
+- Öl im Wok erhitzen. Rote Currypaste 1–2 Minuten scharf anrösten.
+- |-
+  4 EL dicke Kokosmilch zugeben und einrühren. Hähnchen zugeben und rundherum anbraten (3–4 Min.).
+- |-
+  Restliche Kokosmilch, Fond, Kaffirlimettenblätter, Zitronengras und Galgant zugeben. Aufkochen lassen.
+- Aubergine und Paprika zufügen. Bei mittlerer Hitze 10 Minuten köcheln.
+- |-
+  Mit Fischsauce, Palmzucker und Limettensaft abschmecken. Zitronengras und Galgant entfernen.
+- |-
+  Thai-Basilikum einrühren. Mit Reis anrichten und mit frischer Chili und Chiliflocken bestreuen.
+en_steps:
+- |-
+  TODO: Jasminreis waschen und mit der 1,5-fachen Menge Wasser zum Kochen bringen. 12 Minuten bei kleiner Hitze garziehen lassen.
+- |-
+  TODO: Hähnchen in mundgerechte Würfel schneiden. Aubergine würfeln und 10 Minuten in Salzwasser einweichen, abgießen. Paprika in Streifen schneiden.
+- |-
+  TODO: Zitronengras anquetschen. Galgant in Scheiben schneiden. Chilischoten halbieren und entkernen.
+- 'TODO: Öl im Wok erhitzen. Rote Currypaste 1–2 Minuten scharf anrösten.'
+- |-
+  TODO: 4 EL dicke Kokosmilch zugeben und einrühren. Hähnchen zugeben und rundherum anbraten (3–4 Min.).
+- |-
+  TODO: Restliche Kokosmilch, Fond, Kaffirlimettenblätter, Zitronengras und Galgant zugeben. Aufkochen lassen.
+- 'TODO: Aubergine und Paprika zufügen. Bei mittlerer Hitze 10 Minuten köcheln.'
+- |-
+  TODO: Mit Fischsauce, Palmzucker und Limettensaft abschmecken. Zitronengras und Galgant entfernen.
+- |-
+  TODO: Thai-Basilikum einrühren. Mit Reis anrichten und mit frischer Chili und Chiliflocken bestreuen.

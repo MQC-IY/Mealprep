@@ -1,0 +1,126 @@
+id: koshari_egyptian
+pool: lunch
+healthy: false
+quick: false
+next_day: false
+meals: 2
+de:
+  title: Ägyptisches Koshari
+  summary: |-
+    Ägyptens beliebtestes Straßengericht: Linsen, Reis, Nudeln und Kichererbsen mit würziger Tomatensauce und knusprigen Zwiebeln.
+en:
+  title: 'TODO: Ägyptisches Koshari'
+  summary: |-
+    TODO: Ägyptens beliebtestes Straßengericht: Linsen, Reis, Nudeln und Kichererbsen mit würziger Tomatensauce und knusprigen Zwiebeln.
+ingredients:
+- de_name: Braune Linsen
+  en_name: 'TODO: Braune Linsen'
+  qty: 150
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Langkornreis
+  en_name: 'TODO: Langkornreis'
+  qty: 150
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Kurze Makkaroni oder Ellenbogennudeln
+  en_name: 'TODO: Kurze Makkaroni oder Ellenbogennudeln'
+  qty: 150
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Kichererbsen, gekocht
+  en_name: 'TODO: Kichererbsen, gekocht'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Gehackte Tomaten
+  en_name: 'TODO: Gehackte Tomaten'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Tomatenmark
+  en_name: 'TODO: Tomatenmark'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Weißweinessig
+  en_name: 'TODO: Weißweinessig'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 5
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Zwiebeln
+  en_name: 'TODO: Zwiebeln'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 5
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Koriander, gemahlen
+  en_name: 'TODO: Koriander, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chilipulver
+  en_name: 'TODO: Chilipulver'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Zimtpulver
+  en_name: 'TODO: Zimtpulver'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Paprikapulver
+  en_name: 'TODO: Paprikapulver'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Linsen in Salzwasser 20 Minuten kochen, bis weich. Abgießen. Reis nach Packungsanweisung garen. Nudeln in Salzwasser al dente kochen. Abgießen.
+- |-
+  Zwiebeln in dünne Ringe schneiden. In reichlich Olivenöl bei hoher Hitze 20–25 Minuten frittieren bis tiefbraun und knusprig. Auf Küchenpapier abtropfen.
+- |-
+  Im verbliebenen Öl Knoblauch 1 Minute anbraten. Tomatenmark einrühren, 2 Minuten rösten. Chilipulver, Kreuzkümmel, Koriander, Zimt, Paprika einstreuen.
+- |-
+  Gehackte Tomaten und Essig hinzufügen. 15 Minuten köcheln lassen, bis eine dicke, würzige Sauce entsteht. Mit Salz abschmecken.
+- |-
+  Linsen, Reis und Nudeln vorsichtig in einem Topf vermengen. Kichererbsen einrühren, alles kurz erhitzen.
+- |-
+  Koshari in tiefe Schüsseln portionieren. Großzügig Tomatensauce darüber löffeln und mit den knusprigen Zwiebeln bedecken. Sofort servieren.
+en_steps:
+- |-
+  TODO: Linsen in Salzwasser 20 Minuten kochen, bis weich. Abgießen. Reis nach Packungsanweisung garen. Nudeln in Salzwasser al dente kochen. Abgießen.
+- |-
+  TODO: Zwiebeln in dünne Ringe schneiden. In reichlich Olivenöl bei hoher Hitze 20–25 Minuten frittieren bis tiefbraun und knusprig. Auf Küchenpapier abtropfen.
+- |-
+  TODO: Im verbliebenen Öl Knoblauch 1 Minute anbraten. Tomatenmark einrühren, 2 Minuten rösten. Chilipulver, Kreuzkümmel, Koriander, Zimt, Paprika einstreuen.
+- |-
+  TODO: Gehackte Tomaten und Essig hinzufügen. 15 Minuten köcheln lassen, bis eine dicke, würzige Sauce entsteht. Mit Salz abschmecken.
+- |-
+  TODO: Linsen, Reis und Nudeln vorsichtig in einem Topf vermengen. Kichererbsen einrühren, alles kurz erhitzen.
+- |-
+  TODO: Koshari in tiefe Schüsseln portionieren. Großzügig Tomatensauce darüber löffeln und mit den knusprigen Zwiebeln bedecken. Sofort servieren.

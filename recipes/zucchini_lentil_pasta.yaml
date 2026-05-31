@@ -1,0 +1,70 @@
+id: zucchini_lentil_pasta
+pool: lunch
+healthy: true
+quick: true
+next_day: false
+quick_minutes: 30
+meals: 3
+de:
+  title: Zucchini-Linsen-Pasta mit Frischkäse
+  summary: |-
+    Milde Pasta mit roten Linsen, Zucchini und einer cremigen Tomaten-Frischkäse-Sauce.
+en:
+  title: 'TODO: Zucchini-Linsen-Pasta mit Frischkäse'
+  summary: |-
+    TODO: Milde Pasta mit roten Linsen, Zucchini und einer cremigen Tomaten-Frischkäse-Sauce.
+ingredients:
+- de_name: Vollkornnudeln
+  en_name: 'TODO: Vollkornnudeln'
+  qty: 350
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Rote Linsen
+  en_name: 'TODO: Rote Linsen'
+  qty: 180
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Zucchini
+  en_name: 'TODO: Zucchini'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Passierte Tomaten
+  en_name: 'TODO: Passierte Tomaten'
+  qty: 1
+  unit: Glas
+  category: Konserven und Vorrat
+- de_name: Frischkäse natur
+  en_name: 'TODO: Frischkäse natur'
+  qty: 120
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Oregano
+  en_name: 'TODO: Oregano'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Nudeln weich kochen.
+- Zwiebel und Zucchini in Olivenöl anschwitzen.
+- Linsen und Tomaten zugeben und weich köcheln lassen, Frischkäse unterrühren.
+en_steps:
+- 'TODO: Nudeln weich kochen.'
+- 'TODO: Zwiebel und Zucchini in Olivenöl anschwitzen.'
+- |-
+  TODO: Linsen und Tomaten zugeben und weich köcheln lassen, Frischkäse unterrühren.

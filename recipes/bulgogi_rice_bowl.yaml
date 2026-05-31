@@ -1,0 +1,127 @@
+id: bulgogi_rice_bowl
+pool: lunch
+healthy: false
+quick: true
+next_day: false
+quick_minutes: 25
+meals: 2
+de:
+  title: Koreanischer Bulgogi-Reistopf
+  summary: |-
+    Klassisches koreanisches Bulgogi – zarte Rindfleischstreifen in würzig-süßer Sesam-Sojasoßen-Marinade mit Birne, auf Reis mit frischem Gemüse.
+en:
+  title: 'TODO: Koreanischer Bulgogi-Reistopf'
+  summary: |-
+    TODO: Klassisches koreanisches Bulgogi – zarte Rindfleischstreifen in würzig-süßer Sesam-Sojasoßen-Marinade mit Birne, auf Reis mit frischem Gemüse.
+ingredients:
+- de_name: Rindfleisch (Roastbeef oder Rumpsteak, dünn aufgeschnitten)
+  en_name: 'TODO: Rindfleisch (Roastbeef oder Rumpsteak, dünn aufgeschnitten)'
+  qty: 700
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Zwiebeln
+  en_name: 'TODO: Zwiebeln'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 5
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Ingwer (frisch)
+  en_name: 'TODO: Ingwer (frisch)'
+  qty: 15
+  unit: g
+  category: Gemüse und Salat
+- de_name: Karotten
+  en_name: 'TODO: Karotten'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Blattsalat (Ssam-Blätter oder Romana)
+  en_name: 'TODO: Blattsalat (Ssam-Blätter oder Romana)'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Kurzkörniger Reis
+  en_name: 'TODO: Kurzkörniger Reis'
+  qty: 400
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Sojasoße
+  en_name: 'TODO: Sojasoße'
+  qty: 6
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sesamöl
+  en_name: 'TODO: Sesamöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Pflanzenöl
+  en_name: 'TODO: Pflanzenöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Zucker
+  en_name: 'TODO: Zucker'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Reisessig
+  en_name: 'TODO: Reisessig'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Asiatische Birne oder Apfel (gerieben)
+  en_name: 'TODO: Asiatische Birne oder Apfel (gerieben)'
+  qty: 1
+  unit: Stk
+  category: Obst
+- de_name: Sesamkörner (weiß)
+  en_name: 'TODO: Sesamkörner (weiß)'
+  qty: 3
+  unit: EL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Gochugaru
+  en_name: 'TODO: Gochugaru'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Birne schälen und fein reiben – das macht das Fleisch zart. Knoblauch und Ingwer fein reiben.
+- |-
+  Bulgogi-Marinade: Sojasoße, Sesamöl, Zucker, Reisessig, geriebene Birne, Knoblauch, Ingwer und schwarzen Pfeffer verrühren.
+- |-
+  Rindfleischscheiben in die Marinade einlegen und mindestens 30 Minuten im Kühlschrank marinieren.
+- Reis garen. Karotten in feine Julienne schneiden.
+- |-
+  Eine schwere Pfanne oder Grillpfanne auf hoher Stufe erhitzen. Pflanzenöl hinzufügen. Rindfleisch portionsweise scharf 1–2 Minuten pro Seite anbraten. Zwiebeln und Karotten die letzten 3 Minuten mitbraten.
+- Gochugaru über das Fleisch streuen, kurz umrühren.
+- |-
+  Reis in Schalen geben, Bulgogi daraufschöpfen, mit reichlich Sesamkörnern und Frühlingszwiebeln garnieren.
+en_steps:
+- |-
+  TODO: Birne schälen und fein reiben – das macht das Fleisch zart. Knoblauch und Ingwer fein reiben.
+- |-
+  TODO: Bulgogi-Marinade: Sojasoße, Sesamöl, Zucker, Reisessig, geriebene Birne, Knoblauch, Ingwer und schwarzen Pfeffer verrühren.
+- |-
+  TODO: Rindfleischscheiben in die Marinade einlegen und mindestens 30 Minuten im Kühlschrank marinieren.
+- 'TODO: Reis garen. Karotten in feine Julienne schneiden.'
+- |-
+  TODO: Eine schwere Pfanne oder Grillpfanne auf hoher Stufe erhitzen. Pflanzenöl hinzufügen. Rindfleisch portionsweise scharf 1–2 Minuten pro Seite anbraten. Zwiebeln und Karotten die letzten 3 Minuten mitbraten.
+- 'TODO: Gochugaru über das Fleisch streuen, kurz umrühren.'
+- |-
+  TODO: Reis in Schalen geben, Bulgogi daraufschöpfen, mit reichlich Sesamkörnern und Frühlingszwiebeln garnieren.

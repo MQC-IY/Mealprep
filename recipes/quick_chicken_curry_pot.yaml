@@ -1,0 +1,92 @@
+id: quick_chicken_curry_pot
+pool: lunch
+healthy: false
+quick: true
+next_day: true
+quick_minutes: 28
+meals: 2
+de:
+  title: Schneller Hähnchen-Curry-Topf
+  summary: Cremiges Thai-Hähnchencarry mit Paprika und Kokosmilch — in 28 Minuten
+    gar.
+en:
+  title: 'TODO: Schneller Hähnchen-Curry-Topf'
+  summary: |-
+    TODO: Cremiges Thai-Hähnchencarry mit Paprika und Kokosmilch — in 28 Minuten gar.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 600
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Kokosmilch
+  en_name: 'TODO: Kokosmilch'
+  qty: 400
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Grüne Thai-Currypaste
+  en_name: 'TODO: Grüne Thai-Currypaste'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Fischsauce
+  en_name: 'TODO: Fischsauce'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Kokosnussöl
+  en_name: 'TODO: Kokosnussöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 200
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Paprikaschote, rot
+  en_name: 'TODO: Paprikaschote, rot'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 3
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Ingwer, frisch
+  en_name: 'TODO: Ingwer, frisch'
+  qty: 20
+  unit: g
+  category: Gemüse und Salat
+- de_name: Zucker
+  en_name: 'TODO: Zucker'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Hähnchen in Streifen schneiden. Paprika in Streifen, Knoblauch und Ingwer fein hacken.
+- |-
+  Kokosnussöl in einem Wok oder Topf bei hoher Hitze erhitzen. Hähnchen portionsweise 4 Minuten anbraten. Herausnehmen.
+- Currypaste, Knoblauch und Ingwer im gleichen Topf 1–2 Minuten kräftig rösten.
+- |-
+  Kokosmilch, Brühe, Fischsauce und Zucker einrühren. Paprika und Hähnchen hinzufügen.
+- |-
+  15 Minuten bei mittlerer Hitze köcheln lassen, bis Paprika gar und die Sauce sämig ist. Mit Pfeffer abschmecken.
+en_steps:
+- |-
+  TODO: Hähnchen in Streifen schneiden. Paprika in Streifen, Knoblauch und Ingwer fein hacken.
+- |-
+  TODO: Kokosnussöl in einem Wok oder Topf bei hoher Hitze erhitzen. Hähnchen portionsweise 4 Minuten anbraten. Herausnehmen.
+- |-
+  TODO: Currypaste, Knoblauch und Ingwer im gleichen Topf 1–2 Minuten kräftig rösten.
+- |-
+  TODO: Kokosmilch, Brühe, Fischsauce und Zucker einrühren. Paprika und Hähnchen hinzufügen.
+- |-
+  TODO: 15 Minuten bei mittlerer Hitze köcheln lassen, bis Paprika gar und die Sauce sämig ist. Mit Pfeffer abschmecken.

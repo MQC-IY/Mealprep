@@ -1,0 +1,133 @@
+id: vietnamese_wok_chicken_noodles
+pool: lunch
+healthy: true
+quick: true
+next_day: false
+quick_minutes: 25
+meals: 2
+de:
+  title: Vietnamesische Wokgemüse mit Hähnchen und Glasnudeln
+  summary: |-
+    Buntes Wokgericht mit zartem Hähnchen, knackigem Gemüse, Glasnudeln und einer würzigen Fischsauce-Austernsauce-Glasur.
+en:
+  title: 'TODO: Vietnamesische Wokgemüse mit Hähnchen und Glasnudeln'
+  summary: |-
+    TODO: Buntes Wokgericht mit zartem Hähnchen, knackigem Gemüse, Glasnudeln und einer würzigen Fischsauce-Austernsauce-Glasur.
+ingredients:
+- de_name: Hähnchenbrustfilet
+  en_name: 'TODO: Hähnchenbrustfilet'
+  qty: 350
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Glasnudeln (Mungbohnen-Fadennudeln)
+  en_name: 'TODO: Glasnudeln (Mungbohnen-Fadennudeln)'
+  qty: 150
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Möhren
+  en_name: 'TODO: Möhren'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Spitzkohl oder Weißkohl
+  en_name: 'TODO: Spitzkohl oder Weißkohl'
+  qty: 200
+  unit: g
+  category: Gemüse und Salat
+- de_name: Paprika (rot und gelb)
+  en_name: 'TODO: Paprika (rot und gelb)'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 3
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Ingwer, frisch
+  en_name: 'TODO: Ingwer, frisch'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Zitronengras
+  en_name: 'TODO: Zitronengras'
+  qty: 1
+  unit: Stange
+  category: Gemüse und Salat
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Frische rote Chili
+  en_name: 'TODO: Frische rote Chili'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Fischsauce
+  en_name: 'TODO: Fischsauce'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Austernsauce
+  en_name: 'TODO: Austernsauce'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sojasauce
+  en_name: 'TODO: Sojasauce'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Erdnussöl
+  en_name: 'TODO: Erdnussöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Geflügelfond
+  en_name: 'TODO: Geflügelfond'
+  qty: 100
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Limette
+  en_name: 'TODO: Limette'
+  qty: 1
+  unit: Stk
+  category: Obst
+- de_name: Schwarzer Pfeffer, gemahlen
+  en_name: 'TODO: Schwarzer Pfeffer, gemahlen'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Glasnudeln in heißem Wasser 5 Minuten einweichen, abgießen und in handliche Stücke schneiden.
+- |-
+  Hähnchen in dünne Streifen schneiden. Möhren schälen und schräg in dünne Scheiben schneiden. Kohl fein schneiden. Paprika in Streifen.
+- Knoblauch und Ingwer fein hacken. Zitronengras fein hacken.
+- |-
+  Öl im Wok bei starker Hitze erhitzen. Knoblauch, Ingwer und Zitronengras 30 Sekunden anbraten.
+- Hähnchen zugeben und 4 Minuten scharf braten.
+- Möhren und Kohl zugeben und 2 Minuten mitbraten. Paprika zugeben.
+- |-
+  Fischsauce, Austernsauce, Sojasauce und Geflügelfond angießen. Glasnudeln einrühren.
+- |-
+  Alles 2–3 Minuten bei starker Hitze unter Rühren braten, bis die Flüssigkeit fast eingekocht ist.
+- |-
+  Frühlingszwiebeln und Chili unterheben. Mit Pfeffer und Limettensaft abschmecken.
+en_steps:
+- |-
+  TODO: Glasnudeln in heißem Wasser 5 Minuten einweichen, abgießen und in handliche Stücke schneiden.
+- |-
+  TODO: Hähnchen in dünne Streifen schneiden. Möhren schälen und schräg in dünne Scheiben schneiden. Kohl fein schneiden. Paprika in Streifen.
+- 'TODO: Knoblauch und Ingwer fein hacken. Zitronengras fein hacken.'
+- |-
+  TODO: Öl im Wok bei starker Hitze erhitzen. Knoblauch, Ingwer und Zitronengras 30 Sekunden anbraten.
+- 'TODO: Hähnchen zugeben und 4 Minuten scharf braten.'
+- 'TODO: Möhren und Kohl zugeben und 2 Minuten mitbraten. Paprika zugeben.'
+- |-
+  TODO: Fischsauce, Austernsauce, Sojasauce und Geflügelfond angießen. Glasnudeln einrühren.
+- |-
+  TODO: Alles 2–3 Minuten bei starker Hitze unter Rühren braten, bis die Flüssigkeit fast eingekocht ist.
+- |-
+  TODO: Frühlingszwiebeln und Chili unterheben. Mit Pfeffer und Limettensaft abschmecken.

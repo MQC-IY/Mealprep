@@ -1,0 +1,98 @@
+id: gnocchi_amatriciana
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Gnocchi all'Amatriciana mit Guanciale
+  summary: |-
+    Saftige Gnocchi in der klassischen Amatriciana-Sauce aus Guanciale, San-Marzano-Tomaten, Peperoncino und Pecorino.
+en:
+  title: 'TODO: Gnocchi all''Amatriciana mit Guanciale'
+  summary: |-
+    TODO: Saftige Gnocchi in der klassischen Amatriciana-Sauce aus Guanciale, San-Marzano-Tomaten, Peperoncino und Pecorino.
+ingredients:
+- de_name: Gnocchi frisch oder getrocknet
+  en_name: 'TODO: Gnocchi frisch oder getrocknet'
+  qty: 500
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Guanciale (oder Pancetta)
+  en_name: 'TODO: Guanciale (oder Pancetta)'
+  qty: 150
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: San-Marzano-Tomaten aus der Dose
+  en_name: 'TODO: San-Marzano-Tomaten aus der Dose'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Trockener Weißwein
+  en_name: 'TODO: Trockener Weißwein'
+  qty: 80
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 2
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Peperoncino getrocknet
+  en_name: 'TODO: Peperoncino getrocknet'
+  qty: 2
+  unit: Stk
+  category: Gewürze
+- de_name: Pecorino Romano gerieben
+  en_name: 'TODO: Pecorino Romano gerieben'
+  qty: 60
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Guanciale in ca. 1 cm dicke Streifen schneiden. Zwiebel fein würfeln, Knoblauch hacken.
+- |-
+  Olivenöl in einer tiefen Pfanne oder einem Schmortopf bei mittlerer Hitze erwärmen. Guanciale darin 4–5 Minuten auslassen, bis er leicht knusprig und das Fett ausgetreten ist.
+- |-
+  Zwiebel und Peperoncino (zerbröselt) dazugeben, 4 Minuten mitbraten. Knoblauch einrühren, 1 Minute weiterbraten.
+- |-
+  Mit Weißwein ablöschen, 2 Minuten einkochen. Tomaten dazugeben und mit einem Löffel zerdrücken. Sauce 20 Minuten bei niedriger Hitze köcheln lassen.
+- |-
+  Salzwasser aufkochen. Gnocchi darin nach Packungsangabe garen. Sobald sie obenauf schwimmen, mit einer Schaumkelle herausnehmen – etwas Kochwasser aufheben.
+- |-
+  Gnocchi in die Sauce geben, gut schwenken. Bei Bedarf etwas Kochwasser einrühren.
+- Großzügig mit Pecorino und frisch gemahlenem Pfeffer servieren.
+en_steps:
+- |-
+  TODO: Guanciale in ca. 1 cm dicke Streifen schneiden. Zwiebel fein würfeln, Knoblauch hacken.
+- |-
+  TODO: Olivenöl in einer tiefen Pfanne oder einem Schmortopf bei mittlerer Hitze erwärmen. Guanciale darin 4–5 Minuten auslassen, bis er leicht knusprig und das Fett ausgetreten ist.
+- |-
+  TODO: Zwiebel und Peperoncino (zerbröselt) dazugeben, 4 Minuten mitbraten. Knoblauch einrühren, 1 Minute weiterbraten.
+- |-
+  TODO: Mit Weißwein ablöschen, 2 Minuten einkochen. Tomaten dazugeben und mit einem Löffel zerdrücken. Sauce 20 Minuten bei niedriger Hitze köcheln lassen.
+- |-
+  TODO: Salzwasser aufkochen. Gnocchi darin nach Packungsangabe garen. Sobald sie obenauf schwimmen, mit einer Schaumkelle herausnehmen – etwas Kochwasser aufheben.
+- |-
+  TODO: Gnocchi in die Sauce geben, gut schwenken. Bei Bedarf etwas Kochwasser einrühren.
+- 'TODO: Großzügig mit Pecorino und frisch gemahlenem Pfeffer servieren.'

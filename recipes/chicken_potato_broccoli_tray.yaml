@@ -1,0 +1,56 @@
+id: chicken_potato_broccoli_tray
+pool: lunch
+healthy: false
+quick: false
+next_day: false
+meals: 3
+de:
+  title: Ofen-Hähnchen mit Kartoffeln und Brokkoli
+  summary: Einfaches Ofengericht mit Kartoffeln, Brokkoli und Hähnchenstücken.
+en:
+  title: 'TODO: Ofen-Hähnchen mit Kartoffeln und Brokkoli'
+  summary: 'TODO: Einfaches Ofengericht mit Kartoffeln, Brokkoli und Hähnchenstücken.'
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 900
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Kartoffeln
+  en_name: 'TODO: Kartoffeln'
+  qty: 1200
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Brokkoli
+  en_name: 'TODO: Brokkoli'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Paprika
+  en_name: 'TODO: Paprika'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Paprika edelsüß
+  en_name: 'TODO: Paprika edelsüß'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Kartoffeln in Spalten schneiden und vorgaren oder vorbacken.
+- Brokkoli und Paprika schneiden, alles mit etwas Öl mischen.
+- Hähnchen kräftig würzen und mit dem Gemüse im Ofen garen.
+en_steps:
+- 'TODO: Kartoffeln in Spalten schneiden und vorgaren oder vorbacken.'
+- 'TODO: Brokkoli und Paprika schneiden, alles mit etwas Öl mischen.'
+- 'TODO: Hähnchen kräftig würzen und mit dem Gemüse im Ofen garen.'

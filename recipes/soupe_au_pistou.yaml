@@ -1,0 +1,120 @@
+id: soupe_au_pistou
+pool: lunch
+healthy: true
+quick: false
+next_day: false
+meals: 2
+de:
+  title: Soupe au Pistou – Provenzalische Gemüsesuppe
+  summary: |-
+    Provenzalische Sommergemüsesuppe mit Bohnen, Zucchini, Kartoffeln und frischer Pistou – dem französischen Cousin des Pestos.
+en:
+  title: 'TODO: Soupe au Pistou – Provenzalische Gemüsesuppe'
+  summary: |-
+    TODO: Provenzalische Sommergemüsesuppe mit Bohnen, Zucchini, Kartoffeln und frischer Pistou – dem französischen Cousin des Pestos.
+ingredients:
+- de_name: Weiße Bohnen aus der Dose
+  en_name: 'TODO: Weiße Bohnen aus der Dose'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Grüne Bohnen frisch
+  en_name: 'TODO: Grüne Bohnen frisch'
+  qty: 150
+  unit: g
+  category: Gemüse und Salat
+- de_name: Zucchini
+  en_name: 'TODO: Zucchini'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Kartoffeln
+  en_name: 'TODO: Kartoffeln'
+  qty: 2
+  unit: Stk
+  category: Kohlenhydrate und Sattmacher
+- de_name: Karotte
+  en_name: 'TODO: Karotte'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Staudensellerie
+  en_name: 'TODO: Staudensellerie'
+  qty: 1
+  unit: Stange
+  category: Gemüse und Salat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Kleine Pasta (Vermicelli oder Ditalini)
+  en_name: 'TODO: Kleine Pasta (Vermicelli oder Ditalini)'
+  qty: 80
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Gemüsebrühe
+  en_name: 'TODO: Gemüsebrühe'
+  qty: 1200
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 4
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Frisches Basilikum (großes Bund)
+  en_name: 'TODO: Frisches Basilikum (großes Bund)'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Parmesan gerieben
+  en_name: 'TODO: Parmesan gerieben'
+  qty: 50
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Kartoffeln und Karotten würfeln, Zucchini in Halbmonde schneiden, Sellerie und Zwiebel fein würfeln, grüne Bohnen in 2 cm lange Stücke schneiden.
+- |-
+  Olivenöl (2 EL) in einem großen Topf erhitzen. Zwiebel und Sellerie 5 Minuten anschwitzen.
+- |-
+  Kartoffeln und Karotten dazugeben, Brühe angießen. Aufkochen und 10 Minuten köcheln.
+- |-
+  Grüne Bohnen, Zucchini und Cannellini-Bohnen einrühren. Weitere 10 Minuten köcheln.
+- Pasta in die Suppe geben und al dente garen.
+- |-
+  Währenddessen die Pistou zubereiten: Basilikumblätter, Knoblauch, Parmesan und 2 EL Olivenöl mit einem Stabmixer oder Mörser zu einer groben Paste verarbeiten. Mit Salz abschmecken.
+- Suppe vom Herd nehmen, mit Salz und Pfeffer abschmecken.
+- |-
+  Suppe in Teller schöpfen und einen großzügigen Klecks Pistou direkt darauf setzen – erst beim Essen unterrühren.
+en_steps:
+- |-
+  TODO: Kartoffeln und Karotten würfeln, Zucchini in Halbmonde schneiden, Sellerie und Zwiebel fein würfeln, grüne Bohnen in 2 cm lange Stücke schneiden.
+- |-
+  TODO: Olivenöl (2 EL) in einem großen Topf erhitzen. Zwiebel und Sellerie 5 Minuten anschwitzen.
+- |-
+  TODO: Kartoffeln und Karotten dazugeben, Brühe angießen. Aufkochen und 10 Minuten köcheln.
+- |-
+  TODO: Grüne Bohnen, Zucchini und Cannellini-Bohnen einrühren. Weitere 10 Minuten köcheln.
+- 'TODO: Pasta in die Suppe geben und al dente garen.'
+- |-
+  TODO: Währenddessen die Pistou zubereiten: Basilikumblätter, Knoblauch, Parmesan und 2 EL Olivenöl mit einem Stabmixer oder Mörser zu einer groben Paste verarbeiten. Mit Salz abschmecken.
+- 'TODO: Suppe vom Herd nehmen, mit Salz und Pfeffer abschmecken.'
+- |-
+  TODO: Suppe in Teller schöpfen und einen großzügigen Klecks Pistou direkt darauf setzen – erst beim Essen unterrühren.

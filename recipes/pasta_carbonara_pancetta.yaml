@@ -1,0 +1,91 @@
+id: pasta_carbonara_pancetta
+pool: lunch
+healthy: false
+quick: false
+next_day: false
+meals: 2
+de:
+  title: Pasta Carbonara mit Pancetta
+  summary: |-
+    Klassische römische Carbonara mit Pancetta, Eigelb und Pecorino – seidig, würzig und ohne einen Tropfen Sahne.
+en:
+  title: 'TODO: Pasta Carbonara mit Pancetta'
+  summary: |-
+    TODO: Klassische römische Carbonara mit Pancetta, Eigelb und Pecorino – seidig, würzig und ohne einen Tropfen Sahne.
+ingredients:
+- de_name: Spaghetti
+  en_name: 'TODO: Spaghetti'
+  qty: 500
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Pancetta (gewürfelt)
+  en_name: 'TODO: Pancetta (gewürfelt)'
+  qty: 200
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Eigelb
+  en_name: 'TODO: Eigelb'
+  qty: 6
+  unit: Stk
+  category: Protein und Milchprodukte
+- de_name: Ei (ganz)
+  en_name: 'TODO: Ei (ganz)'
+  qty: 2
+  unit: Stk
+  category: Protein und Milchprodukte
+- de_name: Pecorino Romano (gerieben)
+  en_name: 'TODO: Pecorino Romano (gerieben)'
+  qty: 120
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Parmigiano Reggiano (gerieben)
+  en_name: 'TODO: Parmigiano Reggiano (gerieben)'
+  qty: 60
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 2
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Schwarzer Pfeffer (grob gemahlen)
+  en_name: 'TODO: Schwarzer Pfeffer (grob gemahlen)'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Meersalz
+  en_name: 'TODO: Meersalz'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+de_steps:
+- |-
+  Einen großen Topf mit reichlich Salzwasser zum Kochen bringen. In einer Schüssel 6 Eigelb und 2 ganze Eier verquirlen, Pecorino und Parmigiano einrühren. Mit sehr großzügig schwarzem Pfeffer würzen – die Mischung soll dickflüssig sein.
+- |-
+  Pancetta in einer großen, kalten Pfanne mit 1 EL Olivenöl bei mittlerer Hitze langsam auslassen, bis das Fett ausgetreten und die Würfel knusprig-goldbraun sind, ca. 8–10 Min. Knoblauchzehen andrücken, mit anbraten, dann entfernen. Pfanne vom Herd nehmen, Pancettafett auffangen.
+- |-
+  Spaghetti al dente kochen (1–2 Min. kürzer als Packungsangabe). Vor dem Abgießen 300 ml Nudelkochwasser abschöpfen.
+- |-
+  Heiße, abgetropfte Spaghetti sofort in die Pancetta-Pfanne geben (Pfanne vom Herd!). Ca. 60 ml Nudelkochwasser hinzufügen und alles schwenken, damit die Nudeln abkühlen – die Pfanne darf nicht mehr zu heiß sein.
+- |-
+  Eiermischung über die Nudeln gießen, sofort mit Zangen oder Gabeln zügig durchmischen. Schrittweise Nudelkochwasser zugeben und rühren, bis eine cremige, seidige Sauce entsteht. Pasta darf nicht stocken – bei Bedarf kurz auf sehr niedriger Hitze nacherwärmen.
+- |-
+  Sofort tief auf vorgewärmten Tellern anrichten. Restlichen Pecorino und viel frisch gemahlenen schwarzen Pfeffer darüber geben. Sofort servieren.
+en_steps:
+- |-
+  TODO: Einen großen Topf mit reichlich Salzwasser zum Kochen bringen. In einer Schüssel 6 Eigelb und 2 ganze Eier verquirlen, Pecorino und Parmigiano einrühren. Mit sehr großzügig schwarzem Pfeffer würzen – die Mischung soll dickflüssig sein.
+- |-
+  TODO: Pancetta in einer großen, kalten Pfanne mit 1 EL Olivenöl bei mittlerer Hitze langsam auslassen, bis das Fett ausgetreten und die Würfel knusprig-goldbraun sind, ca. 8–10 Min. Knoblauchzehen andrücken, mit anbraten, dann entfernen. Pfanne vom Herd nehmen, Pancettafett auffangen.
+- |-
+  TODO: Spaghetti al dente kochen (1–2 Min. kürzer als Packungsangabe). Vor dem Abgießen 300 ml Nudelkochwasser abschöpfen.
+- |-
+  TODO: Heiße, abgetropfte Spaghetti sofort in die Pancetta-Pfanne geben (Pfanne vom Herd!). Ca. 60 ml Nudelkochwasser hinzufügen und alles schwenken, damit die Nudeln abkühlen – die Pfanne darf nicht mehr zu heiß sein.
+- |-
+  TODO: Eiermischung über die Nudeln gießen, sofort mit Zangen oder Gabeln zügig durchmischen. Schrittweise Nudelkochwasser zugeben und rühren, bis eine cremige, seidige Sauce entsteht. Pasta darf nicht stocken – bei Bedarf kurz auf sehr niedriger Hitze nacherwärmen.
+- |-
+  TODO: Sofort tief auf vorgewärmten Tellern anrichten. Restlichen Pecorino und viel frisch gemahlenen schwarzen Pfeffer darüber geben. Sofort servieren.

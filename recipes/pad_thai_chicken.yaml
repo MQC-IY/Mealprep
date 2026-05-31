@@ -1,0 +1,123 @@
+id: pad_thai_chicken
+pool: lunch
+healthy: false
+quick: false
+next_day: false
+meals: 2
+de:
+  title: Pad Thai mit Hähnchen
+  summary: |-
+    Klassische Thai-Reisnudelpfanne mit Hähnchen, Ei, Erdnüssen und würziger Tamarindensauce.
+en:
+  title: 'TODO: Pad Thai mit Hähnchen'
+  summary: |-
+    TODO: Klassische Thai-Reisnudelpfanne mit Hähnchen, Ei, Erdnüssen und würziger Tamarindensauce.
+ingredients:
+- de_name: Hähnchenbrustfilet
+  en_name: 'TODO: Hähnchenbrustfilet'
+  qty: 300
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Eier
+  en_name: 'TODO: Eier'
+  qty: 2
+  unit: Stk
+  category: Protein und Milchprodukte
+- de_name: Reisnudeln (5 mm breit)
+  en_name: 'TODO: Reisnudeln (5 mm breit)'
+  qty: 200
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 3
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Sojasprossen
+  en_name: 'TODO: Sojasprossen'
+  qty: 80
+  unit: g
+  category: Gemüse und Salat
+- de_name: Erdnüsse (geröstet, ungesalzen)
+  en_name: 'TODO: Erdnüsse (geröstet, ungesalzen)'
+  qty: 50
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Tamarindenpaste
+  en_name: 'TODO: Tamarindenpaste'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Fischsauce
+  en_name: 'TODO: Fischsauce'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Palmzucker oder brauner Zucker
+  en_name: 'TODO: Palmzucker oder brauner Zucker'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Erdnussöl
+  en_name: 'TODO: Erdnussöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Limetten
+  en_name: 'TODO: Limetten'
+  qty: 2
+  unit: Stk
+  category: Obst
+- de_name: Getrocknete Chiliflocken
+  en_name: 'TODO: Getrocknete Chiliflocken'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Weißer Pfeffer, gemahlen
+  en_name: 'TODO: Weißer Pfeffer, gemahlen'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Reisnudeln nach Packungsanweisung in lauwarmem Wasser ca. 20 Minuten einweichen, dann abgießen.
+- |-
+  Hähnchenbrustfilet in dünne Streifen schneiden. Knoblauch fein hacken. Frühlingszwiebeln schräg in Ringe schneiden.
+- |-
+  Tamarindenpaste, Fischsauce und Palmzucker in einer kleinen Schüssel verrühren, bis sich der Zucker auflöst.
+- |-
+  Erdnussöl im Wok bei starker Hitze erhitzen. Hähnchen portionsweise scharf anbraten (3–4 Min.), herausnehmen.
+- |-
+  Knoblauch im verbleibenden Öl 30 Sekunden anbraten. Nudeln dazugeben und 1–2 Minuten unter Rühren anbraten.
+- |-
+  Nudeln an den Rand schieben. Eier in die Mitte aufschlagen, kurz rühren und mit den Nudeln vermengen.
+- |-
+  Hähnchen zurückgeben. Tamarindensauce angießen. Alles kräftig vermengen und 2 Minuten auf hoher Hitze schwenken.
+- |-
+  Sojasprossen und Frühlingszwiebeln unterheben. Mit weißem Pfeffer und Chiliflocken abschmecken.
+- |-
+  Auf Teller anrichten. Erdnüsse grob hacken und darüber streuen. Mit Limettenvierteln servieren.
+en_steps:
+- |-
+  TODO: Reisnudeln nach Packungsanweisung in lauwarmem Wasser ca. 20 Minuten einweichen, dann abgießen.
+- |-
+  TODO: Hähnchenbrustfilet in dünne Streifen schneiden. Knoblauch fein hacken. Frühlingszwiebeln schräg in Ringe schneiden.
+- |-
+  TODO: Tamarindenpaste, Fischsauce und Palmzucker in einer kleinen Schüssel verrühren, bis sich der Zucker auflöst.
+- |-
+  TODO: Erdnussöl im Wok bei starker Hitze erhitzen. Hähnchen portionsweise scharf anbraten (3–4 Min.), herausnehmen.
+- |-
+  TODO: Knoblauch im verbleibenden Öl 30 Sekunden anbraten. Nudeln dazugeben und 1–2 Minuten unter Rühren anbraten.
+- |-
+  TODO: Nudeln an den Rand schieben. Eier in die Mitte aufschlagen, kurz rühren und mit den Nudeln vermengen.
+- |-
+  TODO: Hähnchen zurückgeben. Tamarindensauce angießen. Alles kräftig vermengen und 2 Minuten auf hoher Hitze schwenken.
+- |-
+  TODO: Sojasprossen und Frühlingszwiebeln unterheben. Mit weißem Pfeffer und Chiliflocken abschmecken.
+- |-
+  TODO: Auf Teller anrichten. Erdnüsse grob hacken und darüber streuen. Mit Limettenvierteln servieren.

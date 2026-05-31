@@ -1,0 +1,114 @@
+id: swabian_lentils_spaetzle
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Schwäbische Linsen mit Spätzle und Speck
+  summary: |-
+    Schwäbisches Leibgericht: braune Belugalinsen in süß-saurer Essigbrühe mit gebratenem Speck und selbst gemachten Spätzle.
+en:
+  title: 'TODO: Schwäbische Linsen mit Spätzle und Speck'
+  summary: |-
+    TODO: Schwäbisches Leibgericht: braune Belugalinsen in süß-saurer Essigbrühe mit gebratenem Speck und selbst gemachten Spätzle.
+ingredients:
+- de_name: Speckwürfel oder Schwarzwälder Speck
+  en_name: 'TODO: Speckwürfel oder Schwarzwälder Speck'
+  qty: 150
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Eier
+  en_name: 'TODO: Eier'
+  qty: 3
+  unit: Stk
+  category: Protein und Milchprodukte
+- de_name: Weizenmehl (Typ 405)
+  en_name: 'TODO: Weizenmehl (Typ 405)'
+  qty: 250
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Belugalinsen oder braune Linsen
+  en_name: 'TODO: Belugalinsen oder braune Linsen'
+  qty: 200
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Gemüsebrühe
+  en_name: 'TODO: Gemüsebrühe'
+  qty: 600
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Rotweinessig
+  en_name: 'TODO: Rotweinessig'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Schmalz oder Butter
+  en_name: 'TODO: Schmalz oder Butter'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Zwiebeln
+  en_name: 'TODO: Zwiebeln'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Karotten
+  en_name: 'TODO: Karotten'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Selleriestangen
+  en_name: 'TODO: Selleriestangen'
+  qty: 2
+  unit: Stange
+  category: Gemüse und Salat
+- de_name: Lorbeerblätter
+  en_name: 'TODO: Lorbeerblätter'
+  qty: 2
+  unit: Stk
+  category: Gewürze
+- de_name: Majoran, getrocknet
+  en_name: 'TODO: Majoran, getrocknet'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Zucker
+  en_name: 'TODO: Zucker'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Linsen abspülen. Zwiebeln und Karotten würfeln, Sellerie schräg schneiden. Schmalz in einem Topf erhitzen, Zwiebeln und Karotten 5 Minuten anschwitzen.
+- |-
+  Linsen, Gemüsebrühe, Sellerie, Lorbeer und Majoran einrühren. Zum Kochen bringen, dann Hitze reduzieren und 25 Minuten köcheln, bis Linsen weich, aber noch bissfest sind.
+- |-
+  Für die Spätzle: Mehl, Eier, 1 TL Salz und 80–100 ml Wasser zu einem zähen, blasenwerfenden Teig schlagen. Gesalzenes Wasser zum Kochen bringen. Teig durch ein Spätzlesieb oder -brett ins Wasser streichen. Wenn die Spätzle aufsteigen (ca. 2–3 Min.), abschöpfen und kurz in eiskaltem Wasser abschrecken.
+- |-
+  Speckwürfel in einer Pfanne kross ausbraten. Spätzle hinzufügen und 3 Minuten mitbraten.
+- |-
+  Lorbeer aus den Linsen entfernen. Rotweinessig, Zucker, Salz und Pfeffer einrühren – die Linsen sollen angenehm süß-sauer schmecken. Nochmals abschmecken.
+- Linsen auf Teller verteilen, Speck-Spätzle darauf häufen.
+en_steps:
+- |-
+  TODO: Linsen abspülen. Zwiebeln und Karotten würfeln, Sellerie schräg schneiden. Schmalz in einem Topf erhitzen, Zwiebeln und Karotten 5 Minuten anschwitzen.
+- |-
+  TODO: Linsen, Gemüsebrühe, Sellerie, Lorbeer und Majoran einrühren. Zum Kochen bringen, dann Hitze reduzieren und 25 Minuten köcheln, bis Linsen weich, aber noch bissfest sind.
+- |-
+  TODO: Für die Spätzle: Mehl, Eier, 1 TL Salz und 80–100 ml Wasser zu einem zähen, blasenwerfenden Teig schlagen. Gesalzenes Wasser zum Kochen bringen. Teig durch ein Spätzlesieb oder -brett ins Wasser streichen. Wenn die Spätzle aufsteigen (ca. 2–3 Min.), abschöpfen und kurz in eiskaltem Wasser abschrecken.
+- |-
+  TODO: Speckwürfel in einer Pfanne kross ausbraten. Spätzle hinzufügen und 3 Minuten mitbraten.
+- |-
+  TODO: Lorbeer aus den Linsen entfernen. Rotweinessig, Zucker, Salz und Pfeffer einrühren – die Linsen sollen angenehm süß-sauer schmecken. Nochmals abschmecken.
+- 'TODO: Linsen auf Teller verteilen, Speck-Spätzle darauf häufen.'

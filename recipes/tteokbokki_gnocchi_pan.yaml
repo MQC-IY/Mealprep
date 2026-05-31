@@ -1,0 +1,121 @@
+id: tteokbokki_gnocchi_pan
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Tteokbokki-inspirierte Gnocchi-Pfanne
+  summary: |-
+    Knusprige Gnocchi als Ersatz für Reiskuchen in feuriger Gochujang-Anchovy-Soße mit Hähnchen, Ei und Frühlingszwiebeln.
+en:
+  title: 'TODO: Tteokbokki-inspirierte Gnocchi-Pfanne'
+  summary: |-
+    TODO: Knusprige Gnocchi als Ersatz für Reiskuchen in feuriger Gochujang-Anchovy-Soße mit Hähnchen, Ei und Frühlingszwiebeln.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 500
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Eier
+  en_name: 'TODO: Eier'
+  qty: 4
+  unit: Stk
+  category: Protein und Milchprodukte
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Zwiebeln
+  en_name: 'TODO: Zwiebeln'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 5
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Weißkohl
+  en_name: 'TODO: Weißkohl'
+  qty: 200
+  unit: g
+  category: Gemüse und Salat
+- de_name: Gnocchi (vorgekochte Kühlware)
+  en_name: 'TODO: Gnocchi (vorgekochte Kühlware)'
+  qty: 600
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Anchovy-Brühe oder Hühnerbrühe
+  en_name: 'TODO: Anchovy-Brühe oder Hühnerbrühe'
+  qty: 300
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Gochujang
+  en_name: 'TODO: Gochujang'
+  qty: 4
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sojasoße
+  en_name: 'TODO: Sojasoße'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sesamöl
+  en_name: 'TODO: Sesamöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Pflanzenöl
+  en_name: 'TODO: Pflanzenöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Zucker
+  en_name: 'TODO: Zucker'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Gochugaru
+  en_name: 'TODO: Gochugaru'
+  qty: 2
+  unit: EL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Sesamkörner
+  en_name: 'TODO: Sesamkörner'
+  qty: 2
+  unit: EL
+  category: Gewürze
+de_steps:
+- |-
+  Gnocchi in einer beschichteten Pfanne mit 2 EL Pflanzenöl ohne Wasser bei mittlerer bis hoher Hitze 4–5 Minuten goldbraun anbraten. Herausnehmen.
+- |-
+  Hähnchen in mundgerechte Stücke schneiden. Im restlichen Öl 4 Minuten scharf anbraten. Herausnehmen.
+- |-
+  Knoblauch (fein gehackt) und Zwiebeln (Streifen) im Bratfett 2 Minuten anbraten. Gochujang, Gochugaru und Sojasoße einrühren und 1 Minute rösten.
+- |-
+  Brühe angießen und mit Zucker aufkochen. Weißkohl (grobe Stücke) dazugeben und 3 Minuten köcheln.
+- Gnocchi und Hähnchen zurückgeben. Alles 3 Minuten köcheln.
+- Eier in separatem Topf 7 Minuten weich kochen, pellen und halbieren.
+- |-
+  Sesamöl einrühren. In Schüsseln anrichten, Eier dazulegen, mit Frühlingszwiebeln und Sesamkörnern garnieren.
+en_steps:
+- |-
+  TODO: Gnocchi in einer beschichteten Pfanne mit 2 EL Pflanzenöl ohne Wasser bei mittlerer bis hoher Hitze 4–5 Minuten goldbraun anbraten. Herausnehmen.
+- |-
+  TODO: Hähnchen in mundgerechte Stücke schneiden. Im restlichen Öl 4 Minuten scharf anbraten. Herausnehmen.
+- |-
+  TODO: Knoblauch (fein gehackt) und Zwiebeln (Streifen) im Bratfett 2 Minuten anbraten. Gochujang, Gochugaru und Sojasoße einrühren und 1 Minute rösten.
+- |-
+  TODO: Brühe angießen und mit Zucker aufkochen. Weißkohl (grobe Stücke) dazugeben und 3 Minuten köcheln.
+- 'TODO: Gnocchi und Hähnchen zurückgeben. Alles 3 Minuten köcheln.'
+- 'TODO: Eier in separatem Topf 7 Minuten weich kochen, pellen und halbieren.'
+- |-
+  TODO: Sesamöl einrühren. In Schüsseln anrichten, Eier dazulegen, mit Frühlingszwiebeln und Sesamkörnern garnieren.

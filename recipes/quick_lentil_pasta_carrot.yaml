@@ -1,0 +1,52 @@
+id: quick_lentil_pasta_carrot
+pool: lunch
+healthy: true
+quick: true
+next_day: false
+quick_minutes: 25
+meals: 3
+de:
+  title: Schnelle Linsen-Pasta mit Möhren
+  summary: Schnelles Nudelgericht mit roten Linsen, Möhren und würziger Tomatensauce.
+en:
+  title: 'TODO: Schnelle Linsen-Pasta mit Möhren'
+  summary: 'TODO: Schnelles Nudelgericht mit roten Linsen, Möhren und würziger Tomatensauce.'
+ingredients:
+- de_name: Vollkornnudeln
+  en_name: 'TODO: Vollkornnudeln'
+  qty: 320
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Rote Linsen
+  en_name: 'TODO: Rote Linsen'
+  qty: 180
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Möhren
+  en_name: 'TODO: Möhren'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Passierte Tomaten
+  en_name: 'TODO: Passierte Tomaten'
+  qty: 1
+  unit: Glas
+  category: Konserven und Vorrat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Nudeln weich kochen.
+- Linsen und Möhren in der Tomatensauce weich köcheln.
+- Alles mischen.
+en_steps:
+- 'TODO: Nudeln weich kochen.'
+- 'TODO: Linsen und Möhren in der Tomatensauce weich köcheln.'
+- 'TODO: Alles mischen.'

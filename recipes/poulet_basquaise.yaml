@@ -1,0 +1,126 @@
+id: poulet_basquaise
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Poulet Basquaise – Baskisches Paprika-Hähnchen
+  summary: |-
+    Baskisches Schmorgericht mit Hähnchen, roten Paprika, Tomaten, Chorizo, Weißwein und Piment d'Espelette.
+en:
+  title: 'TODO: Poulet Basquaise – Baskisches Paprika-Hähnchen'
+  summary: |-
+    TODO: Baskisches Schmorgericht mit Hähnchen, roten Paprika, Tomaten, Chorizo, Weißwein und Piment d'Espelette.
+ingredients:
+- de_name: Hähnchenstücke mit Knochen
+  en_name: 'TODO: Hähnchenstücke mit Knochen'
+  qty: 900
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Rote Paprika
+  en_name: 'TODO: Rote Paprika'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Grüne Paprika
+  en_name: 'TODO: Grüne Paprika'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Chorizo (mild oder scharf)
+  en_name: 'TODO: Chorizo (mild oder scharf)'
+  qty: 120
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Geschälte Tomaten aus der Dose
+  en_name: 'TODO: Geschälte Tomaten aus der Dose'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Trockener Weißwein
+  en_name: 'TODO: Trockener Weißwein'
+  qty: 150
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Piment d'Espelette oder scharfes Paprikapulver
+  en_name: 'TODO: Piment d''Espelette oder scharfes Paprikapulver'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Geräuchertes Paprikapulver
+  en_name: 'TODO: Geräuchertes Paprikapulver'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Getrockneter Thymian
+  en_name: 'TODO: Getrockneter Thymian'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Lorbeerblätter
+  en_name: 'TODO: Lorbeerblätter'
+  qty: 2
+  unit: Stk
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Frische Petersilie
+  en_name: 'TODO: Frische Petersilie'
+  qty: 0.5
+  unit: Bund
+  category: Gemüse und Salat
+de_steps:
+- |-
+  Hähnchenstücke würzen. Olivenöl in einem Schmortopf stark erhitzen, Hähnchen von beiden Seiten 5 Minuten anbraten. Herausnehmen.
+- |-
+  Chorizo in Scheiben schneiden und im gleichen Topf 2–3 Minuten bei mittlerer Hitze anbraten. Herausnehmen.
+- |-
+  Paprika in Streifen schneiden, Zwiebel in Ringe, Knoblauch hacken. Im Bratfett 8 Minuten sanft anschwitzen.
+- |-
+  Piment d'Espelette, Paprikapulver, Thymian und Lorbeer einrühren, 1 Minute rösten.
+- Mit Weißwein ablöschen, 2 Minuten einkochen. Tomaten zerdrückt dazugeben.
+- |-
+  Hähnchen und Chorizo zurücklegen. Zugedeckt bei niedriger Hitze 40 Minuten schmoren.
+- |-
+  Deckel abnehmen und 10 Minuten offen köcheln, bis die Sauce eindickt. Lorbeer entfernen.
+- Mit frischer Petersilie bestreuen. Mit Basmatireis oder frischem Brot servieren.
+en_steps:
+- |-
+  TODO: Hähnchenstücke würzen. Olivenöl in einem Schmortopf stark erhitzen, Hähnchen von beiden Seiten 5 Minuten anbraten. Herausnehmen.
+- |-
+  TODO: Chorizo in Scheiben schneiden und im gleichen Topf 2–3 Minuten bei mittlerer Hitze anbraten. Herausnehmen.
+- |-
+  TODO: Paprika in Streifen schneiden, Zwiebel in Ringe, Knoblauch hacken. Im Bratfett 8 Minuten sanft anschwitzen.
+- |-
+  TODO: Piment d'Espelette, Paprikapulver, Thymian und Lorbeer einrühren, 1 Minute rösten.
+- 'TODO: Mit Weißwein ablöschen, 2 Minuten einkochen. Tomaten zerdrückt dazugeben.'
+- |-
+  TODO: Hähnchen und Chorizo zurücklegen. Zugedeckt bei niedriger Hitze 40 Minuten schmoren.
+- |-
+  TODO: Deckel abnehmen und 10 Minuten offen köcheln, bis die Sauce eindickt. Lorbeer entfernen.
+- |-
+  TODO: Mit frischer Petersilie bestreuen. Mit Basmatireis oder frischem Brot servieren.

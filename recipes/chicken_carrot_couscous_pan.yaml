@@ -1,0 +1,63 @@
+id: chicken_carrot_couscous_pan
+pool: lunch
+healthy: true
+quick: true
+next_day: false
+quick_minutes: 25
+meals: 3
+de:
+  title: Hähnchen-Couscous-Pfanne mit Möhren
+  summary: Schnelle Couscous-Pfanne mit Hähnchen, Möhren, Erbsen und milder Würzung.
+en:
+  title: 'TODO: Hähnchen-Couscous-Pfanne mit Möhren'
+  summary: 'TODO: Schnelle Couscous-Pfanne mit Hähnchen, Möhren, Erbsen und milder
+    Würzung.'
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 750
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Couscous
+  en_name: 'TODO: Couscous'
+  qty: 280
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Möhren
+  en_name: 'TODO: Möhren'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Erbsen, TK
+  en_name: 'TODO: Erbsen, TK'
+  qty: 200
+  unit: g
+  category: Gemüse und Salat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Paprika edelsüß
+  en_name: 'TODO: Paprika edelsüß'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Couscous quellen lassen.
+- Hähnchen mit Zwiebel scharf anbraten.
+- Möhren und Erbsen weich garen.
+en_steps:
+- 'TODO: Couscous quellen lassen.'
+- 'TODO: Hähnchen mit Zwiebel scharf anbraten.'
+- 'TODO: Möhren und Erbsen weich garen.'

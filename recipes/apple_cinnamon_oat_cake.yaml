@@ -1,0 +1,73 @@
+id: apple_cinnamon_oat_cake
+pool: dessert
+de:
+  title: Apfel-Zimt-Haferkuchen
+  summary: |-
+    Saftiger Blechkuchen mit Apfel, Haferflocken und Skyr, süß genug für den kleinen Nachtisch, aber nicht schwer.
+en:
+  title: 'TODO: Apfel-Zimt-Haferkuchen'
+  summary: |-
+    TODO: Saftiger Blechkuchen mit Apfel, Haferflocken und Skyr, süß genug für den kleinen Nachtisch, aber nicht schwer.
+ingredients:
+- de_name: Äpfel
+  en_name: 'TODO: Äpfel'
+  qty: 3
+  unit: Stk
+  category: Obst
+- de_name: Haferflocken
+  en_name: 'TODO: Haferflocken'
+  qty: 180
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Dinkelmehl
+  en_name: 'TODO: Dinkelmehl'
+  qty: 120
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Skyr oder griechischer Joghurt
+  en_name: 'TODO: Skyr oder griechischer Joghurt'
+  qty: 200
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Eier
+  en_name: 'TODO: Eier'
+  qty: 2
+  unit: Stk
+  category: Protein und Milchprodukte
+- de_name: Rapsöl
+  en_name: 'TODO: Rapsöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Honig
+  en_name: 'TODO: Honig'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Backpulver
+  en_name: 'TODO: Backpulver'
+  qty: 1
+  unit: Packung
+  category: Konserven und Vorrat
+- de_name: Zimt
+  en_name: 'TODO: Zimt'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Äpfel fein würfeln oder grob reiben.
+- Eier, Skyr, Rapsöl und Honig verrühren.
+- Haferflocken, Dinkelmehl, Backpulver und Zimt unterheben.
+- |-
+  Äpfel einrühren, in eine kleine Form geben und bei 180 Grad etwa 30 bis 35 Minuten backen.
+en_steps:
+- 'TODO: Äpfel fein würfeln oder grob reiben.'
+- 'TODO: Eier, Skyr, Rapsöl und Honig verrühren.'
+- 'TODO: Haferflocken, Dinkelmehl, Backpulver und Zimt unterheben.'
+- |-
+  TODO: Äpfel einrühren, in eine kleine Form geben und bei 180 Grad etwa 30 bis 35 Minuten backen.

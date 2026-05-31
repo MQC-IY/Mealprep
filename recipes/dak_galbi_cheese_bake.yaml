@@ -1,0 +1,129 @@
+id: dak_galbi_cheese_bake
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Koreanischer Dak-Galbi-Auflauf mit Käse
+  summary: |-
+    Scharfe Hähnchen-Dak-Galbi-Pfanne mit Süßkartoffeln und Tokkteig, überbacken mit zerlaufenem Mozzarella – beliebte Fusion-Variante.
+en:
+  title: 'TODO: Koreanischer Dak-Galbi-Auflauf mit Käse'
+  summary: |-
+    TODO: Scharfe Hähnchen-Dak-Galbi-Pfanne mit Süßkartoffeln und Tokkteig, überbacken mit zerlaufenem Mozzarella – beliebte Fusion-Variante.
+ingredients:
+- de_name: Hähnchenschenkel (ausgelöst, ohne Haut)
+  en_name: 'TODO: Hähnchenschenkel (ausgelöst, ohne Haut)'
+  qty: 800
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Mozzarella (gerieben)
+  en_name: 'TODO: Mozzarella (gerieben)'
+  qty: 200
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Süßkartoffeln
+  en_name: 'TODO: Süßkartoffeln'
+  qty: 350
+  unit: g
+  category: Gemüse und Salat
+- de_name: Weißkohl
+  en_name: 'TODO: Weißkohl'
+  qty: 250
+  unit: g
+  category: Gemüse und Salat
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 2
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 6
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Ingwer (frisch)
+  en_name: 'TODO: Ingwer (frisch)'
+  qty: 20
+  unit: g
+  category: Gemüse und Salat
+- de_name: Tteok (Reiskuchenröllchen)
+  en_name: 'TODO: Tteok (Reiskuchenröllchen)'
+  qty: 300
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Kurzkörniger Reis
+  en_name: 'TODO: Kurzkörniger Reis'
+  qty: 300
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Gochujang
+  en_name: 'TODO: Gochujang'
+  qty: 5
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sojasoße
+  en_name: 'TODO: Sojasoße'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sesamöl
+  en_name: 'TODO: Sesamöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Pflanzenöl
+  en_name: 'TODO: Pflanzenöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Zucker
+  en_name: 'TODO: Zucker'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Kokosmilch oder Sahne
+  en_name: 'TODO: Kokosmilch oder Sahne'
+  qty: 100
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Gochugaru
+  en_name: 'TODO: Gochugaru'
+  qty: 2
+  unit: EL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Sesamkörner
+  en_name: 'TODO: Sesamkörner'
+  qty: 2
+  unit: EL
+  category: Gewürze
+de_steps:
+- |-
+  Hähnchen in mundgerechte Stücke schneiden. Marinade: Gochujang, Sojasoße, Gochugaru, Zucker, Sesamöl, Knoblauch (gerieben), Ingwer (gerieben) und Pfeffer. Hähnchen 30 Minuten marinieren.
+- Tteok 10 Minuten in warmem Wasser einweichen, abgießen.
+- Süßkartoffeln in 1 cm dicke Scheiben, Weißkohl in Stücke schneiden.
+- Reis garen.
+- |-
+  Backofen auf 220 °C Oberhitze/Grill vorheizen. In einer ofenfesten Pfanne Pflanzenöl erhitzen. Hähnchen mit Marinade scharf 5 Minuten anbraten.
+- |-
+  Süßkartoffeln, Tteok und Weißkohl untermischen. Kokosmilch angießen. 15 Minuten bei 200 °C backen.
+- |-
+  Pfanne herausnehmen, geriebenen Mozzarella großzügig darüberstreuen. Auf Grill stellen und 3–4 Minuten gratinieren. Mit Frühlingszwiebeln und Sesamkörnern bestreuen.
+en_steps:
+- |-
+  TODO: Hähnchen in mundgerechte Stücke schneiden. Marinade: Gochujang, Sojasoße, Gochugaru, Zucker, Sesamöl, Knoblauch (gerieben), Ingwer (gerieben) und Pfeffer. Hähnchen 30 Minuten marinieren.
+- 'TODO: Tteok 10 Minuten in warmem Wasser einweichen, abgießen.'
+- 'TODO: Süßkartoffeln in 1 cm dicke Scheiben, Weißkohl in Stücke schneiden.'
+- 'TODO: Reis garen.'
+- |-
+  TODO: Backofen auf 220 °C Oberhitze/Grill vorheizen. In einer ofenfesten Pfanne Pflanzenöl erhitzen. Hähnchen mit Marinade scharf 5 Minuten anbraten.
+- |-
+  TODO: Süßkartoffeln, Tteok und Weißkohl untermischen. Kokosmilch angießen. 15 Minuten bei 200 °C backen.
+- |-
+  TODO: Pfanne herausnehmen, geriebenen Mozzarella großzügig darüberstreuen. Auf Grill stellen und 3–4 Minuten gratinieren. Mit Frühlingszwiebeln und Sesamkörnern bestreuen.

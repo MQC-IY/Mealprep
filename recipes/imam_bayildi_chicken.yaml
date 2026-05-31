@@ -1,0 +1,111 @@
+id: imam_bayildi_chicken
+pool: lunch
+healthy: false
+quick: false
+next_day: false
+meals: 2
+de:
+  title: Türkischer İmam Bayıldı-inspirierter Auberginen-Topf mit Hähnchen
+  summary: |-
+    Der Klassiker, der den Imam in Ohnmacht fallen ließ: gefüllte Auberginen mit Hähnchen, karamellisierten Zwiebeln, Tomaten und reichlich Olivenöl.
+en:
+  title: 'TODO: Türkischer İmam Bayıldı-inspirierter Auberginen-Topf mit Hähnchen'
+  summary: |-
+    TODO: Der Klassiker, der den Imam in Ohnmacht fallen ließ: gefüllte Auberginen mit Hähnchen, karamellisierten Zwiebeln, Tomaten und reichlich Olivenöl.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 350
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Auberginen
+  en_name: 'TODO: Auberginen'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Tomaten
+  en_name: 'TODO: Tomaten'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Zwiebeln
+  en_name: 'TODO: Zwiebeln'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 6
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Glatte Petersilie
+  en_name: 'TODO: Glatte Petersilie'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Gehackte Tomaten
+  en_name: 'TODO: Gehackte Tomaten'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 6
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Pul Biber (Aleppo-Pfeffer)
+  en_name: 'TODO: Pul Biber (Aleppo-Pfeffer)'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Zucker
+  en_name: 'TODO: Zucker'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Getrockneter Thymian
+  en_name: 'TODO: Getrockneter Thymian'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Zimt, gemahlen
+  en_name: 'TODO: Zimt, gemahlen'
+  qty: 0.25
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Auberginen halbieren. Fruchtfleisch mit einem Löffel aushöhlen, dabei 1 cm Rand lassen. Hälften salzen und 20 Minuten stehen lassen. Abspülen und trocken tupfen.
+- |-
+  Auberginen-Fruchtfleisch grob hacken. Zwiebeln in feine Ringe schneiden, Knoblauch pressen. 4 EL Olivenöl in einer Pfanne bei mittlerer Hitze erhitzen, Zwiebeln 15 Minuten langsam golden karamellisieren.
+- |-
+  Hähnchenbrust in kleine Würfel schneiden. Zum Zwiebeln geben, 5 Minuten anbraten. Knoblauch, Auberginen-Fruchtfleisch, Pul Biber, Zimt und Thymian einrühren.
+- |-
+  Gewürfelte Tomaten und Gehackte Tomaten hinzufügen. Zucker einrühren. 15 Minuten kochen, bis eine dicke Füllung entsteht. Petersilie einrühren, abschmecken.
+- |-
+  Ofen auf 180 °C vorheizen. Auberginenhälften in einer Auflaufform mit restlichem Olivenöl bepinseln. Füllung in die Hälften löffeln. 150 ml Wasser in die Form geben.
+- |-
+  45 Minuten backen, bis die Auberginen vollständig weich sind. Heiß oder auf Zimmertemperatur abgekühlt servieren.
+en_steps:
+- |-
+  TODO: Auberginen halbieren. Fruchtfleisch mit einem Löffel aushöhlen, dabei 1 cm Rand lassen. Hälften salzen und 20 Minuten stehen lassen. Abspülen und trocken tupfen.
+- |-
+  TODO: Auberginen-Fruchtfleisch grob hacken. Zwiebeln in feine Ringe schneiden, Knoblauch pressen. 4 EL Olivenöl in einer Pfanne bei mittlerer Hitze erhitzen, Zwiebeln 15 Minuten langsam golden karamellisieren.
+- |-
+  TODO: Hähnchenbrust in kleine Würfel schneiden. Zum Zwiebeln geben, 5 Minuten anbraten. Knoblauch, Auberginen-Fruchtfleisch, Pul Biber, Zimt und Thymian einrühren.
+- |-
+  TODO: Gewürfelte Tomaten und Gehackte Tomaten hinzufügen. Zucker einrühren. 15 Minuten kochen, bis eine dicke Füllung entsteht. Petersilie einrühren, abschmecken.
+- |-
+  TODO: Ofen auf 180 °C vorheizen. Auberginenhälften in einer Auflaufform mit restlichem Olivenöl bepinseln. Füllung in die Hälften löffeln. 150 ml Wasser in die Form geben.
+- |-
+  TODO: 45 Minuten backen, bis die Auberginen vollständig weich sind. Heiß oder auf Zimmertemperatur abgekühlt servieren.

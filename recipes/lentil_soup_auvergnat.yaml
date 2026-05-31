@@ -1,0 +1,119 @@
+id: lentil_soup_auvergnat
+pool: lunch
+healthy: true
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Linsensuppe Auvergnat mit Speck und Senf
+  summary: |-
+    Deftige Auvergnater Linsensuppe mit Lardons, Gemüse, Lorbeer und einem kräftigen Schuss Dijon-Senf.
+en:
+  title: 'TODO: Linsensuppe Auvergnat mit Speck und Senf'
+  summary: |-
+    TODO: Deftige Auvergnater Linsensuppe mit Lardons, Gemüse, Lorbeer und einem kräftigen Schuss Dijon-Senf.
+ingredients:
+- de_name: Grüne Linsen (Puy-Linsen)
+  en_name: 'TODO: Grüne Linsen (Puy-Linsen)'
+  qty: 200
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Speckwürfel (Lardons)
+  en_name: 'TODO: Speckwürfel (Lardons)'
+  qty: 120
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Karotte
+  en_name: 'TODO: Karotte'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Staudensellerie
+  en_name: 'TODO: Staudensellerie'
+  qty: 2
+  unit: Stange
+  category: Gemüse und Salat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 2
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Hühner- oder Gemüsebrühe
+  en_name: 'TODO: Hühner- oder Gemüsebrühe'
+  qty: 900
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Dijon-Senf
+  en_name: 'TODO: Dijon-Senf'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Weißweinessig
+  en_name: 'TODO: Weißweinessig'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Butter
+  en_name: 'TODO: Butter'
+  qty: 20
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Frische Petersilie
+  en_name: 'TODO: Frische Petersilie'
+  qty: 0.5
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Lorbeerblätter
+  en_name: 'TODO: Lorbeerblätter'
+  qty: 2
+  unit: Stk
+  category: Gewürze
+- de_name: Getrockneter Thymian
+  en_name: 'TODO: Getrockneter Thymian'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Karotten, Sellerie und Zwiebel in feine Würfel schneiden. Knoblauch hacken.
+- |-
+  Butter in einem großen Topf schmelzen. Speckwürfel bei mittlerer bis hoher Hitze 4 Minuten knusprig auslassen.
+- |-
+  Zwiebel, Karotte und Sellerie dazugeben, 6 Minuten bei mittlerer Hitze anschwitzen.
+- Knoblauch, Thymian und Lorbeer einrühren, 1 Minute weiterbraten.
+- |-
+  Linsen abspülen und in den Topf geben. Mit Brühe aufgießen. Aufkochen und bei niedriger bis mittlerer Hitze 30–35 Minuten köcheln lassen, bis die Linsen weich, aber noch ganz sind.
+- Lorbeerblätter entfernen. Dijon-Senf und Weißweinessig einrühren.
+- |-
+  Ca. ein Drittel der Suppe mit dem Stabmixer pürieren, um die Suppe sämig zu machen. Wieder in den Topf einrühren.
+- |-
+  Mit Salz und reichlich schwarzem Pfeffer abschmecken. Mit gehackter Petersilie bestreuen, mit kräftigem Brot servieren.
+en_steps:
+- |-
+  TODO: Karotten, Sellerie und Zwiebel in feine Würfel schneiden. Knoblauch hacken.
+- |-
+  TODO: Butter in einem großen Topf schmelzen. Speckwürfel bei mittlerer bis hoher Hitze 4 Minuten knusprig auslassen.
+- |-
+  TODO: Zwiebel, Karotte und Sellerie dazugeben, 6 Minuten bei mittlerer Hitze anschwitzen.
+- 'TODO: Knoblauch, Thymian und Lorbeer einrühren, 1 Minute weiterbraten.'
+- |-
+  TODO: Linsen abspülen und in den Topf geben. Mit Brühe aufgießen. Aufkochen und bei niedriger bis mittlerer Hitze 30–35 Minuten köcheln lassen, bis die Linsen weich, aber noch ganz sind.
+- 'TODO: Lorbeerblätter entfernen. Dijon-Senf und Weißweinessig einrühren.'
+- |-
+  TODO: Ca. ein Drittel der Suppe mit dem Stabmixer pürieren, um die Suppe sämig zu machen. Wieder in den Topf einrühren.
+- |-
+  TODO: Mit Salz und reichlich schwarzem Pfeffer abschmecken. Mit gehackter Petersilie bestreuen, mit kräftigem Brot servieren.

@@ -1,0 +1,133 @@
+id: enchiladas_rojas_chicken
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 3
+de:
+  title: Enchiladas Rojas mit Hähnchen
+  summary: |-
+    Maistortillas gefüllt mit würzigem Chipotle-Hähnchen, überbacken mit einer tiefen Ancho-Chili-Tomatensauce und Käse.
+en:
+  title: 'TODO: Enchiladas Rojas mit Hähnchen'
+  summary: |-
+    TODO: Maistortillas gefüllt mit würzigem Chipotle-Hähnchen, überbacken mit einer tiefen Ancho-Chili-Tomatensauce und Käse.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 900
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Mozzarella oder Cheddar, gerieben
+  en_name: 'TODO: Mozzarella oder Cheddar, gerieben'
+  qty: 200
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Sauerrahm
+  en_name: 'TODO: Sauerrahm'
+  qty: 100
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Maistortillas (15 cm)
+  en_name: 'TODO: Maistortillas (15 cm)'
+  qty: 12
+  unit: Stk
+  category: Kohlenhydrate und Sattmacher
+- de_name: Gehackte Tomaten
+  en_name: 'TODO: Gehackte Tomaten'
+  qty: 2
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 200
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Tomatenmark
+  en_name: 'TODO: Tomatenmark'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Koriander, frisch
+  en_name: 'TODO: Koriander, frisch'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Ancho-Chilipulver
+  en_name: 'TODO: Ancho-Chilipulver'
+  qty: 3
+  unit: TL
+  category: Gewürze
+- de_name: Chipotle-Chilipulver
+  en_name: 'TODO: Chipotle-Chilipulver'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Oregano
+  en_name: 'TODO: Oregano'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Zimt, gemahlen
+  en_name: 'TODO: Zimt, gemahlen'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Hähnchenbrust in Salzwasser oder Brühe 20 Minuten gar köcheln, dann abkühlen lassen und mit zwei Gabeln in grobe Fasern zupfen.
+- |-
+  Zwiebeln und Knoblauch fein würfeln. Öl in einem Topf erhitzen, Zwiebeln 5 Minuten goldbraun anbraten, Knoblauch 1 Minute mitrösten.
+- |-
+  Ancho-Chilipulver, Chipotle-Chilipulver, Kreuzkümmel, Oregano und Zimt einrühren und 30 Sekunden trocken rösten.
+- |-
+  Tomatenmark, gehackte Tomaten und Hühnerbrühe zugeben, aufkochen und 15 Minuten bei mittlerer Hitze einköcheln lassen. Mit Stabmixer glatt pürieren.
+- |-
+  Etwa ein Drittel der Sauce mit dem gezupften Hähnchen mischen. Mit Salz und Chipotle abschmecken.
+- |-
+  Ofen auf 200 °C Ober-/Unterhitze vorheizen. Eine Backform mit etwas Sauce ausstreichen.
+- |-
+  Tortillas kurz in einer trockenen Pfanne erwärmen damit sie biegsam werden. Je 2 EL Hähnchenfüllung einwickeln und die Enchiladas dicht nebeneinander in die Form legen.
+- |-
+  Restliche Sauce gleichmäßig über die Enchiladas gießen, geriebenen Käse darüberstreuen.
+- |-
+  20 Minuten backen, bis der Käse blubbert und leicht braun ist. Mit Sauerrahm und frischem Koriander servieren.
+en_steps:
+- |-
+  TODO: Hähnchenbrust in Salzwasser oder Brühe 20 Minuten gar köcheln, dann abkühlen lassen und mit zwei Gabeln in grobe Fasern zupfen.
+- |-
+  TODO: Zwiebeln und Knoblauch fein würfeln. Öl in einem Topf erhitzen, Zwiebeln 5 Minuten goldbraun anbraten, Knoblauch 1 Minute mitrösten.
+- |-
+  TODO: Ancho-Chilipulver, Chipotle-Chilipulver, Kreuzkümmel, Oregano und Zimt einrühren und 30 Sekunden trocken rösten.
+- |-
+  TODO: Tomatenmark, gehackte Tomaten und Hühnerbrühe zugeben, aufkochen und 15 Minuten bei mittlerer Hitze einköcheln lassen. Mit Stabmixer glatt pürieren.
+- |-
+  TODO: Etwa ein Drittel der Sauce mit dem gezupften Hähnchen mischen. Mit Salz und Chipotle abschmecken.
+- |-
+  TODO: Ofen auf 200 °C Ober-/Unterhitze vorheizen. Eine Backform mit etwas Sauce ausstreichen.
+- |-
+  TODO: Tortillas kurz in einer trockenen Pfanne erwärmen damit sie biegsam werden. Je 2 EL Hähnchenfüllung einwickeln und die Enchiladas dicht nebeneinander in die Form legen.
+- |-
+  TODO: Restliche Sauce gleichmäßig über die Enchiladas gießen, geriebenen Käse darüberstreuen.
+- |-
+  TODO: 20 Minuten backen, bis der Käse blubbert und leicht braun ist. Mit Sauerrahm und frischem Koriander servieren.

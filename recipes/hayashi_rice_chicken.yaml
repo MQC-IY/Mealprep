@@ -1,0 +1,128 @@
+id: hayashi_rice_chicken
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Japanischer Hayashi Rice (Hähnchen in Demi-Glace)
+  summary: |-
+    Hähnchen und Pilze in einer tiefen, weinreichen Demi-Glace-Soße nach japanischer Art auf Reis – das westlich-japanische Comfort-Food.
+en:
+  title: 'TODO: Japanischer Hayashi Rice (Hähnchen in Demi-Glace)'
+  summary: |-
+    TODO: Hähnchen und Pilze in einer tiefen, weinreichen Demi-Glace-Soße nach japanischer Art auf Reis – das westlich-japanische Comfort-Food.
+ingredients:
+- de_name: Hähnchenschenkel (ausgelöst)
+  en_name: 'TODO: Hähnchenschenkel (ausgelöst)'
+  qty: 800
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Zwiebeln
+  en_name: 'TODO: Zwiebeln'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Champignons
+  en_name: 'TODO: Champignons'
+  qty: 300
+  unit: g
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 3
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Jasminreis
+  en_name: 'TODO: Jasminreis'
+  qty: 400
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Rotwein
+  en_name: 'TODO: Rotwein'
+  qty: 150
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 400
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Tomatenmark
+  en_name: 'TODO: Tomatenmark'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Hayashi-Roux oder Demi-Glace-Pulver
+  en_name: 'TODO: Hayashi-Roux oder Demi-Glace-Pulver'
+  qty: 80
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Sojasoße
+  en_name: 'TODO: Sojasoße'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Worcestersoße
+  en_name: 'TODO: Worcestersoße'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Butter
+  en_name: 'TODO: Butter'
+  qty: 30
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Pflanzenöl
+  en_name: 'TODO: Pflanzenöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Zucker
+  en_name: 'TODO: Zucker'
+  qty: 1
+  unit: TL
+  category: Konserven und Vorrat
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Thymian (getrocknet)
+  en_name: 'TODO: Thymian (getrocknet)'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Paprikapulver (edelsüß)
+  en_name: 'TODO: Paprikapulver (edelsüß)'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Hähnchen in mundgerechte Stücke schneiden, salzen, pfeffern. Zwiebeln in halbe Ringe, Champignons in Scheiben, Knoblauch fein hacken.
+- |-
+  Butter und Öl in einem Schmortopf erhitzen. Hähnchen von allen Seiten scharf anbraten (5 Minuten), herausnehmen.
+- |-
+  Zwiebeln im Bratfett 8 Minuten bei mittlerer Hitze karamellisieren lassen. Knoblauch und Tomatenmark dazugeben, 2 Minuten mitbraten.
+- |-
+  Rotwein angießen und stark einkochen lassen (3 Minuten). Brühe, Sojasoße, Worcestersoße, Zucker und Thymian einrühren. Aufkochen.
+- |-
+  Hähnchen zurückgeben, Champignons dazugeben. Abdecken und 25 Minuten bei niedriger Hitze schmoren.
+- |-
+  Hayashi-Roux oder Demi-Glace-Pulver einrühren und die Soße unter Rühren 5 Minuten eindicken lassen.
+- Reis garen und auf Tellern anrichten. Hayashi-Hähnchen daneben schöpfen.
+en_steps:
+- |-
+  TODO: Hähnchen in mundgerechte Stücke schneiden, salzen, pfeffern. Zwiebeln in halbe Ringe, Champignons in Scheiben, Knoblauch fein hacken.
+- |-
+  TODO: Butter und Öl in einem Schmortopf erhitzen. Hähnchen von allen Seiten scharf anbraten (5 Minuten), herausnehmen.
+- |-
+  TODO: Zwiebeln im Bratfett 8 Minuten bei mittlerer Hitze karamellisieren lassen. Knoblauch und Tomatenmark dazugeben, 2 Minuten mitbraten.
+- |-
+  TODO: Rotwein angießen und stark einkochen lassen (3 Minuten). Brühe, Sojasoße, Worcestersoße, Zucker und Thymian einrühren. Aufkochen.
+- |-
+  TODO: Hähnchen zurückgeben, Champignons dazugeben. Abdecken und 25 Minuten bei niedriger Hitze schmoren.
+- |-
+  TODO: Hayashi-Roux oder Demi-Glace-Pulver einrühren und die Soße unter Rühren 5 Minuten eindicken lassen.
+- 'TODO: Reis garen und auf Tellern anrichten. Hayashi-Hähnchen daneben schöpfen.'

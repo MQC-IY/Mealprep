@@ -1,0 +1,125 @@
+id: mapo_tofu_pork
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Mapo Tofu mit Hackfleisch
+  summary: |-
+    Feuriger Sichuan-Klassiker mit seidigem Tofu in einer tiefroten, betäubend-scharfen Chili-Bohnen-Sauce mit Schweinehackfleisch.
+en:
+  title: 'TODO: Mapo Tofu mit Hackfleisch'
+  summary: |-
+    TODO: Feuriger Sichuan-Klassiker mit seidigem Tofu in einer tiefroten, betäubend-scharfen Chili-Bohnen-Sauce mit Schweinehackfleisch.
+ingredients:
+- de_name: Schweinehackfleisch
+  en_name: 'TODO: Schweinehackfleisch'
+  qty: 200
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Seidentofu
+  en_name: 'TODO: Seidentofu'
+  qty: 400
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Jasminreis
+  en_name: 'TODO: Jasminreis'
+  qty: 200
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Ingwer, frisch
+  en_name: 'TODO: Ingwer, frisch'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Doubanjian (Sichuan-Chilibohnenpaste)
+  en_name: 'TODO: Doubanjian (Sichuan-Chilibohnenpaste)'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sojasauce
+  en_name: 'TODO: Sojasauce'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Dunkle Sojasauce
+  en_name: 'TODO: Dunkle Sojasauce'
+  qty: 1
+  unit: TL
+  category: Konserven und Vorrat
+- de_name: Shaoxing-Reiswein
+  en_name: 'TODO: Shaoxing-Reiswein'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Hühner- oder Gemüsefond
+  en_name: 'TODO: Hühner- oder Gemüsefond'
+  qty: 250
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Speisestärke
+  en_name: 'TODO: Speisestärke'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Erdnussöl
+  en_name: 'TODO: Erdnussöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sesamöl
+  en_name: 'TODO: Sesamöl'
+  qty: 1
+  unit: TL
+  category: Konserven und Vorrat
+- de_name: Szechuanpfeffer, gemahlen
+  en_name: 'TODO: Szechuanpfeffer, gemahlen'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+- de_name: Getrocknete Chiliflocken
+  en_name: 'TODO: Getrocknete Chiliflocken'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- Jasminreis waschen und kochen.
+- |-
+  Seidentofu in 2-cm-Würfel schneiden. In leicht gesalzenem heißem Wasser 5 Minuten ziehen lassen, vorsichtig abgießen.
+- Knoblauch und Ingwer fein hacken. Frühlingszwiebeln in Ringe schneiden.
+- |-
+  Öl im Wok erhitzen. Doubanjian 1–2 Minuten bei mittlerer Hitze anbraten, bis das Öl rot wird.
+- |-
+  Hackfleisch zugeben und krümelig anbraten. Knoblauch und Ingwer zugeben (1 Min.).
+- Shaoxing-Wein, Sojasauce und Fond angießen. Aufkochen.
+- |-
+  Tofuwürfel vorsichtig zugeben. 4–5 Minuten sanft köcheln – nicht rühren, nur den Wok leicht schütteln.
+- Stärke in 2 EL kaltem Wasser auflösen und einrühren bis die Sauce bindet.
+- |-
+  Szechuanpfeffer, Chiliflocken und Sesamöl unterrühren. Mit Frühlingszwiebeln bestreuen und mit Reis servieren.
+en_steps:
+- 'TODO: Jasminreis waschen und kochen.'
+- |-
+  TODO: Seidentofu in 2-cm-Würfel schneiden. In leicht gesalzenem heißem Wasser 5 Minuten ziehen lassen, vorsichtig abgießen.
+- 'TODO: Knoblauch und Ingwer fein hacken. Frühlingszwiebeln in Ringe schneiden.'
+- |-
+  TODO: Öl im Wok erhitzen. Doubanjian 1–2 Minuten bei mittlerer Hitze anbraten, bis das Öl rot wird.
+- |-
+  TODO: Hackfleisch zugeben und krümelig anbraten. Knoblauch und Ingwer zugeben (1 Min.).
+- 'TODO: Shaoxing-Wein, Sojasauce und Fond angießen. Aufkochen.'
+- |-
+  TODO: Tofuwürfel vorsichtig zugeben. 4–5 Minuten sanft köcheln – nicht rühren, nur den Wok leicht schütteln.
+- 'TODO: Stärke in 2 EL kaltem Wasser auflösen und einrühren bis die Sauce bindet.'
+- |-
+  TODO: Szechuanpfeffer, Chiliflocken und Sesamöl unterrühren. Mit Frühlingszwiebeln bestreuen und mit Reis servieren.

@@ -1,0 +1,123 @@
+id: ghanaian_peanut_chicken_stew
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 3
+de:
+  title: Ghanaischer Hähnchen-Erdnuss-Eintopf
+  summary: |-
+    Cremiger westafrikanischer Eintopf mit Hähnchen, Erdnussbutter, Tomaten, Ingwer und Scotch-Bonnet-Chili – serviert mit Reis.
+en:
+  title: 'TODO: Ghanaischer Hähnchen-Erdnuss-Eintopf'
+  summary: |-
+    TODO: Cremiger westafrikanischer Eintopf mit Hähnchen, Erdnussbutter, Tomaten, Ingwer und Scotch-Bonnet-Chili – serviert mit Reis.
+ingredients:
+- de_name: Hähnchenschenkel oder -brust
+  en_name: 'TODO: Hähnchenschenkel oder -brust'
+  qty: 1000
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Erdnussbutter (ungesüßt)
+  en_name: 'TODO: Erdnussbutter (ungesüßt)'
+  qty: 200
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Gehackte Tomaten
+  en_name: 'TODO: Gehackte Tomaten'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 600
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Palmöl oder Rapsöl
+  en_name: 'TODO: Palmöl oder Rapsöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Tomatenmark
+  en_name: 'TODO: Tomatenmark'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Langkornreis
+  en_name: 'TODO: Langkornreis'
+  qty: 300
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 5
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Ingwer, frisch
+  en_name: 'TODO: Ingwer, frisch'
+  qty: 40
+  unit: g
+  category: Gemüse und Salat
+- de_name: Scotch-Bonnet-Chili oder Habanero
+  en_name: 'TODO: Scotch-Bonnet-Chili oder Habanero'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Blattspinat oder Süßkartoffelblätter
+  en_name: 'TODO: Blattspinat oder Süßkartoffelblätter'
+  qty: 200
+  unit: g
+  category: Gemüse und Salat
+- de_name: Paprika edelsüß
+  en_name: 'TODO: Paprika edelsüß'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Koriander, gemahlen
+  en_name: 'TODO: Koriander, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Hähnchen mit Paprika edelsüß, Salz und Chiliflocken würzen. In Öl bei hoher Hitze rundherum goldbraun anbraten, herausnehmen.
+- |-
+  Zwiebeln fein würfeln. Knoblauch, Ingwer und Scotch-Bonnet fein hacken oder reiben. Im Bratfett 5 Minuten weich garen.
+- |-
+  Tomatenmark einrühren und 2 Minuten dunkel rösten. Gehackte Tomaten zugeben, 5 Minuten einköcheln.
+- |-
+  Erdnussbutter und Hühnerbrühe einrühren, glatt rühren. Kreuzkümmel und gemahlenen Koriander einrühren.
+- |-
+  Hähnchen zurücklegen, aufkochen, Hitze reduzieren. Zugedeckt 30 Minuten bei niedriger Hitze schmoren, gelegentlich rühren.
+- |-
+  Spinat in den letzten 5 Minuten unterrühren, bis er zusammenfällt. Mit Salz und Chili abschmecken.
+- Reis kochen und separat servieren.
+en_steps:
+- |-
+  TODO: Hähnchen mit Paprika edelsüß, Salz und Chiliflocken würzen. In Öl bei hoher Hitze rundherum goldbraun anbraten, herausnehmen.
+- |-
+  TODO: Zwiebeln fein würfeln. Knoblauch, Ingwer und Scotch-Bonnet fein hacken oder reiben. Im Bratfett 5 Minuten weich garen.
+- |-
+  TODO: Tomatenmark einrühren und 2 Minuten dunkel rösten. Gehackte Tomaten zugeben, 5 Minuten einköcheln.
+- |-
+  TODO: Erdnussbutter und Hühnerbrühe einrühren, glatt rühren. Kreuzkümmel und gemahlenen Koriander einrühren.
+- |-
+  TODO: Hähnchen zurücklegen, aufkochen, Hitze reduzieren. Zugedeckt 30 Minuten bei niedriger Hitze schmoren, gelegentlich rühren.
+- |-
+  TODO: Spinat in den letzten 5 Minuten unterrühren, bis er zusammenfällt. Mit Salz und Chili abschmecken.
+- 'TODO: Reis kochen und separat servieren.'

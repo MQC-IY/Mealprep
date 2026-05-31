@@ -1,0 +1,134 @@
+id: bun_bo_nam_bo
+pool: lunch
+healthy: true
+quick: false
+next_day: false
+meals: 2
+de:
+  title: Bún Bò Nam Bộ – Vietnamesischer Nudelsalat mit Rindfleisch
+  summary: |-
+    Erfrischender südvietnamesischer Nudelsalat mit marinierten Rindfleischstreifen, Kräutern, Erdnüssen und würzigem Nuoc-Cham-Dressing.
+en:
+  title: 'TODO: Bún Bò Nam Bộ – Vietnamesischer Nudelsalat mit Rindfleisch'
+  summary: |-
+    TODO: Erfrischender südvietnamesischer Nudelsalat mit marinierten Rindfleischstreifen, Kräutern, Erdnüssen und würzigem Nuoc-Cham-Dressing.
+ingredients:
+- de_name: Rinderfilet oder Rinderhüfte
+  en_name: 'TODO: Rinderfilet oder Rinderhüfte'
+  qty: 300
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Reisnudeln (Bún, dünn)
+  en_name: 'TODO: Reisnudeln (Bún, dünn)'
+  qty: 200
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Zitronengras
+  en_name: 'TODO: Zitronengras'
+  qty: 2
+  unit: Stange
+  category: Gemüse und Salat
+- de_name: Schalotten
+  en_name: 'TODO: Schalotten'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Sojasprossen
+  en_name: 'TODO: Sojasprossen'
+  qty: 80
+  unit: g
+  category: Gemüse und Salat
+- de_name: Gurke
+  en_name: 'TODO: Gurke'
+  qty: 0.5
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Möhren
+  en_name: 'TODO: Möhren'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Frische Minze
+  en_name: 'TODO: Frische Minze'
+  qty: 0.5
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Frischer Koriander
+  en_name: 'TODO: Frischer Koriander'
+  qty: 0.5
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Frische rote Chili
+  en_name: 'TODO: Frische rote Chili'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Fischsauce
+  en_name: 'TODO: Fischsauce'
+  qty: 4
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Reisessig
+  en_name: 'TODO: Reisessig'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Erdnussöl
+  en_name: 'TODO: Erdnussöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Zucker
+  en_name: 'TODO: Zucker'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Geröstete Erdnüsse, gehackt
+  en_name: 'TODO: Geröstete Erdnüsse, gehackt'
+  qty: 50
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Limetten
+  en_name: 'TODO: Limetten'
+  qty: 2
+  unit: Stk
+  category: Obst
+- de_name: Schwarzer Pfeffer, gemahlen
+  en_name: 'TODO: Schwarzer Pfeffer, gemahlen'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Rinderfleisch in dünne Scheiben gegen die Faser schneiden. Zitronengras fein hacken. Knoblauch und Schalotten fein hacken.
+- |-
+  Fleisch mit Zitronengras, der Hälfte des Knoblauchs, Fischsauce (1 EL), Zucker (1 TL) und Pfeffer 20 Minuten marinieren.
+- |-
+  Nuoc Cham: Restliche Fischsauce, Limettensaft, Reisessig, restlichen Zucker, restlichen Knoblauch und Chili verrühren, bis Zucker aufgelöst ist.
+- Reisnudeln nach Packungsanweisung garen, abgießen und kalt abschrecken.
+- Gurke in feine Stifte schneiden. Möhren mit dem Sparschäler in Streifen ziehen.
+- |-
+  Öl im Wok bei höchster Hitze erhitzen. Marinierten Rindfleischstreifen portionsweise scharf 2–3 Minuten braten.
+- |-
+  Nudeln in Schalen verteilen. Sojasprossen, Gurke, Möhren, Kräuter und Rindfleisch darauf anrichten.
+- Nuoc Cham darübergießen und mit gehackten Erdnüssen bestreuen.
+en_steps:
+- |-
+  TODO: Rinderfleisch in dünne Scheiben gegen die Faser schneiden. Zitronengras fein hacken. Knoblauch und Schalotten fein hacken.
+- |-
+  TODO: Fleisch mit Zitronengras, der Hälfte des Knoblauchs, Fischsauce (1 EL), Zucker (1 TL) und Pfeffer 20 Minuten marinieren.
+- |-
+  TODO: Nuoc Cham: Restliche Fischsauce, Limettensaft, Reisessig, restlichen Zucker, restlichen Knoblauch und Chili verrühren, bis Zucker aufgelöst ist.
+- 'TODO: Reisnudeln nach Packungsanweisung garen, abgießen und kalt abschrecken.'
+- |-
+  TODO: Gurke in feine Stifte schneiden. Möhren mit dem Sparschäler in Streifen ziehen.
+- |-
+  TODO: Öl im Wok bei höchster Hitze erhitzen. Marinierten Rindfleischstreifen portionsweise scharf 2–3 Minuten braten.
+- |-
+  TODO: Nudeln in Schalen verteilen. Sojasprossen, Gurke, Möhren, Kräuter und Rindfleisch darauf anrichten.
+- 'TODO: Nuoc Cham darübergießen und mit gehackten Erdnüssen bestreuen.'

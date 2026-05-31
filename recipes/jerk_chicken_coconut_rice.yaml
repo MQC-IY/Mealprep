@@ -1,0 +1,136 @@
+id: jerk_chicken_coconut_rice
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Hähnchen-Jerk mit Kokos-Reis und Mango-Salsa
+  summary: |-
+    Karibischer Klassiker: feuriges Jerk-Hähnchen mit Scotch-Bonnet-Hitze, Allspice und Thymian, auf cremigem Kokos-Reis mit frischer Mango-Salsa.
+en:
+  title: 'TODO: Hähnchen-Jerk mit Kokos-Reis und Mango-Salsa'
+  summary: |-
+    TODO: Karibischer Klassiker: feuriges Jerk-Hähnchen mit Scotch-Bonnet-Hitze, Allspice und Thymian, auf cremigem Kokos-Reis mit frischer Mango-Salsa.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 800
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Kokosmilch
+  en_name: 'TODO: Kokosmilch'
+  qty: 400
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Sojasauce
+  en_name: 'TODO: Sojasauce'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Rapsöl
+  en_name: 'TODO: Rapsöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Langkornreis
+  en_name: 'TODO: Langkornreis'
+  qty: 300
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Mango
+  en_name: 'TODO: Mango'
+  qty: 1
+  unit: Stk
+  category: Obst
+- de_name: Limette
+  en_name: 'TODO: Limette'
+  qty: 3
+  unit: Stk
+  category: Obst
+- de_name: Rote Zwiebel
+  en_name: 'TODO: Rote Zwiebel'
+  qty: 0.5
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Koriander, frisch
+  en_name: 'TODO: Koriander, frisch'
+  qty: 0.5
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Ingwer, frisch
+  en_name: 'TODO: Ingwer, frisch'
+  qty: 20
+  unit: g
+  category: Gemüse und Salat
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 4
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Rote Chilischote
+  en_name: 'TODO: Rote Chilischote'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Piment, gemahlen
+  en_name: 'TODO: Piment, gemahlen'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Thymian, getrocknet
+  en_name: 'TODO: Thymian, getrocknet'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+- de_name: Zimt, gemahlen
+  en_name: 'TODO: Zimt, gemahlen'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Muskatnuss
+  en_name: 'TODO: Muskatnuss'
+  qty: 0.25
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+- de_name: Paprika edelsüß
+  en_name: 'TODO: Paprika edelsüß'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Jerk-Marinade: Knoblauch, Ingwer, Frühlingszwiebeln, Chili, Sojasauce, Rapsöl, Piment, Thymian, Zimt, Muskatnuss, Paprika, Chiliflocken und Limettensaft im Mixer zu einer Paste verarbeiten.
+- |-
+  Hähnchen einschneiden und großzügig mit Jerk-Marinade einreiben. Mind. 30 Minuten, besser über Nacht marinieren.
+- |-
+  Kokos-Reis: Reis mit Kokosmilch und gleicher Menge Wasser aufkochen, Hitze reduzieren, 15 Minuten garen. Salzen.
+- |-
+  Mango-Salsa: Mango fein würfeln. Mit Roten Zwiebelringen, Koriander, Limettensaft und einer Prise Chili mischen.
+- |-
+  Hähnchen in einer heißen Grillpfanne oder im Ofen bei 220 °C (Grillstufe) 12–15 Minuten garen, bis es schöne Röst-Stellen hat.
+- |-
+  Kokos-Reis in Bowls geben. Hähnchen in Scheiben schneiden und anrichten. Mango-Salsa großzügig darüber geben.
+en_steps:
+- |-
+  TODO: Jerk-Marinade: Knoblauch, Ingwer, Frühlingszwiebeln, Chili, Sojasauce, Rapsöl, Piment, Thymian, Zimt, Muskatnuss, Paprika, Chiliflocken und Limettensaft im Mixer zu einer Paste verarbeiten.
+- |-
+  TODO: Hähnchen einschneiden und großzügig mit Jerk-Marinade einreiben. Mind. 30 Minuten, besser über Nacht marinieren.
+- |-
+  TODO: Kokos-Reis: Reis mit Kokosmilch und gleicher Menge Wasser aufkochen, Hitze reduzieren, 15 Minuten garen. Salzen.
+- |-
+  TODO: Mango-Salsa: Mango fein würfeln. Mit Roten Zwiebelringen, Koriander, Limettensaft und einer Prise Chili mischen.
+- |-
+  TODO: Hähnchen in einer heißen Grillpfanne oder im Ofen bei 220 °C (Grillstufe) 12–15 Minuten garen, bis es schöne Röst-Stellen hat.
+- |-
+  TODO: Kokos-Reis in Bowls geben. Hähnchen in Scheiben schneiden und anrichten. Mango-Salsa großzügig darüber geben.

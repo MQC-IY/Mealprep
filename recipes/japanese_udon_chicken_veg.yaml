@@ -1,0 +1,111 @@
+id: japanese_udon_chicken_veg
+pool: lunch
+healthy: true
+quick: true
+next_day: false
+quick_minutes: 25
+meals: 3
+de:
+  title: Udon-Pfanne mit Hähnchen und Gemüse
+  summary: Udon-Nudeln mit Hähnchen, Brokkoli, Möhren und einer runden Soja-Ingwer-Sauce.
+en:
+  title: 'TODO: Udon-Pfanne mit Hähnchen und Gemüse'
+  summary: |-
+    TODO: Udon-Nudeln mit Hähnchen, Brokkoli, Möhren und einer runden Soja-Ingwer-Sauce.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 750
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Udon-Nudeln
+  en_name: 'TODO: Udon-Nudeln'
+  qty: 600
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Brokkoli
+  en_name: 'TODO: Brokkoli'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Möhren
+  en_name: 'TODO: Möhren'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Paprika
+  en_name: 'TODO: Paprika'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 1
+  unit: Zehe
+  category: Gemüse und Salat
+- de_name: Ingwer
+  en_name: 'TODO: Ingwer'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Sojasauce
+  en_name: 'TODO: Sojasauce'
+  qty: 4
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Mirin
+  en_name: 'TODO: Mirin'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sake oder trockener Weißwein
+  en_name: 'TODO: Sake oder trockener Weißwein'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Austernsauce
+  en_name: 'TODO: Austernsauce'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sesamöl
+  en_name: 'TODO: Sesamöl'
+  qty: 2
+  unit: TL
+  category: Konserven und Vorrat
+- de_name: Rapsöl
+  en_name: 'TODO: Rapsöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Sesam
+  en_name: 'TODO: Sesam'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- Udon-Nudeln nach Packungsangabe garen.
+- |-
+  Hähnchen in Streifen schneiden. Knoblauch und Ingwer fein hacken, Frühlingszwiebeln in Ringe schneiden.
+- |-
+  Brokkoli, Möhren und Paprika bissfest garen, dann Hähnchen in Rapsöl anbraten und Knoblauch sowie Ingwer kurz mitziehen lassen.
+- |-
+  Udon und Gemüse zufügen und mit Sojasauce, Sesamöl und etwas Reisessig schwenken.
+en_steps:
+- 'TODO: Udon-Nudeln nach Packungsangabe garen.'
+- |-
+  TODO: Hähnchen in Streifen schneiden. Knoblauch und Ingwer fein hacken, Frühlingszwiebeln in Ringe schneiden.
+- |-
+  TODO: Brokkoli, Möhren und Paprika bissfest garen, dann Hähnchen in Rapsöl anbraten und Knoblauch sowie Ingwer kurz mitziehen lassen.
+- |-
+  TODO: Udon und Gemüse zufügen und mit Sojasauce, Sesamöl und etwas Reisessig schwenken.

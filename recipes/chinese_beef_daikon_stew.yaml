@@ -1,0 +1,128 @@
+id: chinese_beef_daikon_stew
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Chinesischer Rindfleischeintopf mit Daikon
+  summary: |-
+    Langsam geschmortes Rindfleisch mit Daikon-Rettich, Sternanis und Shaoxing-Wein – ein tief würziger, wärmender chinesischer Eintopf.
+en:
+  title: 'TODO: Chinesischer Rindfleischeintopf mit Daikon'
+  summary: |-
+    TODO: Langsam geschmortes Rindfleisch mit Daikon-Rettich, Sternanis und Shaoxing-Wein – ein tief würziger, wärmender chinesischer Eintopf.
+ingredients:
+- de_name: Rinderwade oder Rinderbrust
+  en_name: 'TODO: Rinderwade oder Rinderbrust'
+  qty: 600
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Jasminreis
+  en_name: 'TODO: Jasminreis'
+  qty: 200
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Daikon-Rettich
+  en_name: 'TODO: Daikon-Rettich'
+  qty: 400
+  unit: g
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 5
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Ingwer, frisch
+  en_name: 'TODO: Ingwer, frisch'
+  qty: 5
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Sojasauce
+  en_name: 'TODO: Sojasauce'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Dunkle Sojasauce
+  en_name: 'TODO: Dunkle Sojasauce'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Shaoxing-Reiswein
+  en_name: 'TODO: Shaoxing-Reiswein'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Rindfleisch- oder Hühnerbrühe
+  en_name: 'TODO: Rindfleisch- oder Hühnerbrühe'
+  qty: 500
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Erdnussöl
+  en_name: 'TODO: Erdnussöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Zucker (braun)
+  en_name: 'TODO: Zucker (braun)'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sternanis
+  en_name: 'TODO: Sternanis'
+  qty: 3
+  unit: Stk
+  category: Gewürze
+- de_name: Zimtstange
+  en_name: 'TODO: Zimtstange'
+  qty: 1
+  unit: Stk
+  category: Gewürze
+- de_name: Szechuanpfeffer, ganz
+  en_name: 'TODO: Szechuanpfeffer, ganz'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Getrocknete Chiliflocken
+  en_name: 'TODO: Getrocknete Chiliflocken'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- Jasminreis waschen.
+- |-
+  Rindfleisch in 4-cm-Stücke schneiden. In kochendem Wasser 5 Minuten blanchieren, abgießen und abspülen.
+- |-
+  Daikon schälen und in 3-cm-Stücke schneiden. Ingwer in Scheiben, Knoblauch andrücken.
+- Öl im Schmortopf erhitzen. Rindfleisch 4–5 Minuten von allen Seiten bräunen.
+- |-
+  Knoblauch, Ingwer, Sternanis, Zimtstange und Szechuanpfeffer zugeben und 1 Minute mitrösten.
+- |-
+  Shaoxing-Wein angießen und kurz aufkochen. Sojasauce, dunkle Sojasauce, braunen Zucker und Brühe zugeben.
+- Aufkochen, dann 60 Minuten bei kleiner Hitze zugedeckt schmoren.
+- |-
+  Daikon zugeben und weitere 30 Minuten köcheln, bis er weich und durchdrungen ist.
+- |-
+  Chiliflocken einrühren und kräftig abschmecken. Mit Jasminreis und Frühlingszwiebeln servieren.
+en_steps:
+- 'TODO: Jasminreis waschen.'
+- |-
+  TODO: Rindfleisch in 4-cm-Stücke schneiden. In kochendem Wasser 5 Minuten blanchieren, abgießen und abspülen.
+- |-
+  TODO: Daikon schälen und in 3-cm-Stücke schneiden. Ingwer in Scheiben, Knoblauch andrücken.
+- |-
+  TODO: Öl im Schmortopf erhitzen. Rindfleisch 4–5 Minuten von allen Seiten bräunen.
+- |-
+  TODO: Knoblauch, Ingwer, Sternanis, Zimtstange und Szechuanpfeffer zugeben und 1 Minute mitrösten.
+- |-
+  TODO: Shaoxing-Wein angießen und kurz aufkochen. Sojasauce, dunkle Sojasauce, braunen Zucker und Brühe zugeben.
+- 'TODO: Aufkochen, dann 60 Minuten bei kleiner Hitze zugedeckt schmoren.'
+- |-
+  TODO: Daikon zugeben und weitere 30 Minuten köcheln, bis er weich und durchdrungen ist.
+- |-
+  TODO: Chiliflocken einrühren und kräftig abschmecken. Mit Jasminreis und Frühlingszwiebeln servieren.

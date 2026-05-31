@@ -1,0 +1,122 @@
+id: kimchi_fried_rice_chicken
+pool: lunch
+healthy: false
+quick: true
+next_day: false
+quick_minutes: 25
+meals: 2
+de:
+  title: Kimchi-Fried-Rice mit Hähnchen
+  summary: |-
+    Würziger gebratener Reis mit fermentiertem Kimchi, Hähnchen und Gochujang – knackig, säuerlich, tief umami und unverwechselbar koreanisch.
+en:
+  title: 'TODO: Kimchi-Fried-Rice mit Hähnchen'
+  summary: |-
+    TODO: Würziger gebratener Reis mit fermentiertem Kimchi, Hähnchen und Gochujang – knackig, säuerlich, tief umami und unverwechselbar koreanisch.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 500
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Eier
+  en_name: 'TODO: Eier'
+  qty: 4
+  unit: Stk
+  category: Protein und Milchprodukte
+- de_name: Kimchi (fermentiert, gut abgetropft)
+  en_name: 'TODO: Kimchi (fermentiert, gut abgetropft)'
+  qty: 300
+  unit: g
+  category: Gemüse und Salat
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Zwiebeln
+  en_name: 'TODO: Zwiebeln'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Gekochter Reis (Vortag)
+  en_name: 'TODO: Gekochter Reis (Vortag)'
+  qty: 800
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Gochujang
+  en_name: 'TODO: Gochujang'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sojasoße
+  en_name: 'TODO: Sojasoße'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sesamöl
+  en_name: 'TODO: Sesamöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Pflanzenöl
+  en_name: 'TODO: Pflanzenöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Kimchi-Flüssigkeit (aus dem Glas)
+  en_name: 'TODO: Kimchi-Flüssigkeit (aus dem Glas)'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Butter
+  en_name: 'TODO: Butter'
+  qty: 20
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Sesamkörner (weiß)
+  en_name: 'TODO: Sesamkörner (weiß)'
+  qty: 2
+  unit: EL
+  category: Gewürze
+- de_name: Gochugaru
+  en_name: 'TODO: Gochugaru'
+  qty: 1
+  unit: EL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Hähnchen in kleine Würfel (1 cm) schneiden, mit Sojasoße und Pfeffer würzen. Kimchi grob hacken.
+- Knoblauch fein hacken, Zwiebel fein würfeln.
+- |-
+  Butter und Pflanzenöl in einem Wok bei hoher Hitze erhitzen. Hähnchen 3–4 Minuten scharf anbraten. Herausnehmen.
+- |-
+  Zwiebel und Knoblauch im Bratfett 2 Minuten anschwitzen. Kimchi dazugeben und 3 Minuten anbraten, bis es karamellisiert.
+- Gochujang und Kimchi-Flüssigkeit einrühren, 1 Minute braten.
+- |-
+  Kalten Reis dazugeben und bei maximaler Hitze 3–4 Minuten braten. Gochugaru und Sesamöl einrühren. Hähnchen zurückgeben.
+- |-
+  Eier als Spiegeleier braten oder separat. Auf dem Kimchi-Reis anrichten, mit Frühlingszwiebeln und Sesamkörnern bestreuen.
+en_steps:
+- |-
+  TODO: Hähnchen in kleine Würfel (1 cm) schneiden, mit Sojasoße und Pfeffer würzen. Kimchi grob hacken.
+- 'TODO: Knoblauch fein hacken, Zwiebel fein würfeln.'
+- |-
+  TODO: Butter und Pflanzenöl in einem Wok bei hoher Hitze erhitzen. Hähnchen 3–4 Minuten scharf anbraten. Herausnehmen.
+- |-
+  TODO: Zwiebel und Knoblauch im Bratfett 2 Minuten anschwitzen. Kimchi dazugeben und 3 Minuten anbraten, bis es karamellisiert.
+- 'TODO: Gochujang und Kimchi-Flüssigkeit einrühren, 1 Minute braten.'
+- |-
+  TODO: Kalten Reis dazugeben und bei maximaler Hitze 3–4 Minuten braten. Gochugaru und Sesamöl einrühren. Hähnchen zurückgeben.
+- |-
+  TODO: Eier als Spiegeleier braten oder separat. Auf dem Kimchi-Reis anrichten, mit Frühlingszwiebeln und Sesamkörnern bestreuen.

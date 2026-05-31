@@ -1,0 +1,97 @@
+id: ethiopian_misir_wot
+pool: lunch
+healthy: true
+quick: true
+next_day: true
+quick_minutes: 30
+meals: 2
+de:
+  title: Äthiopische Rote Linsen – Misir Wot
+  summary: |-
+    Tiefwürzig-cremiges äthiopisches Linsengericht mit Berbere, Niter Kibbeh, karamellisierten Zwiebeln und schwarzem Kardamom – klassisch zu Injera.
+en:
+  title: 'TODO: Äthiopische Rote Linsen – Misir Wot'
+  summary: |-
+    TODO: Tiefwürzig-cremiges äthiopisches Linsengericht mit Berbere, Niter Kibbeh, karamellisierten Zwiebeln und schwarzem Kardamom – klassisch zu Injera.
+ingredients:
+- de_name: Rote Linsen
+  en_name: 'TODO: Rote Linsen'
+  qty: 350
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Niter Kibbeh oder geklärte Butter
+  en_name: 'TODO: Niter Kibbeh oder geklärte Butter'
+  qty: 50
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Rote Zwiebel
+  en_name: 'TODO: Rote Zwiebel'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 5
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Ingwer, frisch
+  en_name: 'TODO: Ingwer, frisch'
+  qty: 30
+  unit: g
+  category: Gemüse und Salat
+- de_name: Gemüsebrühe oder Wasser
+  en_name: 'TODO: Gemüsebrühe oder Wasser'
+  qty: 700
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Tomatenmark
+  en_name: 'TODO: Tomatenmark'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Berbere-Gewürzmischung
+  en_name: 'TODO: Berbere-Gewürzmischung'
+  qty: 4
+  unit: EL
+  category: Gewürze
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Koriander, gemahlen
+  en_name: 'TODO: Koriander, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Kurkuma
+  en_name: 'TODO: Kurkuma'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Rote Linsen in kaltem Wasser abspülen und abtropfen lassen.
+- |-
+  Niter Kibbeh in einem Topf bei mittlerer Hitze schmelzen. Fein gewürfelte Zwiebeln zugeben und 15–20 Minuten karamellisieren, bis sie dunkelbraun sind.
+- Geriebenen Knoblauch und Ingwer zugeben, 2 Minuten mitrösten.
+- |-
+  Berbere-Gewürzmischung, Kreuzkümmel, gemahlenen Koriander und Kurkuma einrühren. 2 Minuten unter Rühren trocken rösten bis es stark aromatisch duftet.
+- |-
+  Tomatenmark einrühren, 1 Minute mitrösten. Linsen zugeben, mit Brühe oder Wasser auffüllen.
+- |-
+  Aufkochen, Hitze reduzieren und 20–25 Minuten köcheln lassen, bis die Linsen vollständig weich sind und eine dicke Paste bilden.
+- |-
+  Mit Salz abschmecken. Mit Injera oder Fladenbrot und eingelegtem Gemüse servieren.
+en_steps:
+- 'TODO: Rote Linsen in kaltem Wasser abspülen und abtropfen lassen.'
+- |-
+  TODO: Niter Kibbeh in einem Topf bei mittlerer Hitze schmelzen. Fein gewürfelte Zwiebeln zugeben und 15–20 Minuten karamellisieren, bis sie dunkelbraun sind.
+- 'TODO: Geriebenen Knoblauch und Ingwer zugeben, 2 Minuten mitrösten.'
+- |-
+  TODO: Berbere-Gewürzmischung, Kreuzkümmel, gemahlenen Koriander und Kurkuma einrühren. 2 Minuten unter Rühren trocken rösten bis es stark aromatisch duftet.
+- |-
+  TODO: Tomatenmark einrühren, 1 Minute mitrösten. Linsen zugeben, mit Brühe oder Wasser auffüllen.
+- |-
+  TODO: Aufkochen, Hitze reduzieren und 20–25 Minuten köcheln lassen, bis die Linsen vollständig weich sind und eine dicke Paste bilden.
+- |-
+  TODO: Mit Salz abschmecken. Mit Injera oder Fladenbrot und eingelegtem Gemüse servieren.

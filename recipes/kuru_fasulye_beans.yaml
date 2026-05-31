@@ -1,0 +1,106 @@
+id: kuru_fasulye_beans
+pool: lunch
+healthy: true
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Türkischer Kuru Fasulye – Weißbohneneintopf
+  summary: |-
+    Herzhafter türkischer Nationaleintopf aus Cannellini-Bohnen, die stundenlang in einer würzigen Tomatenbasis mit Lammfleisch geschmort werden.
+en:
+  title: 'TODO: Türkischer Kuru Fasulye – Weißbohneneintopf'
+  summary: |-
+    TODO: Herzhafter türkischer Nationaleintopf aus Cannellini-Bohnen, die stundenlang in einer würzigen Tomatenbasis mit Lammfleisch geschmort werden.
+ingredients:
+- de_name: Lammfleisch (Schulter, gewürfelt)
+  en_name: 'TODO: Lammfleisch (Schulter, gewürfelt)'
+  qty: 350
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Cannellini-Bohnen (Dose)
+  en_name: 'TODO: Cannellini-Bohnen (Dose)'
+  qty: 2
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Tomatenmark
+  en_name: 'TODO: Tomatenmark'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Gehackte Tomaten
+  en_name: 'TODO: Gehackte Tomaten'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Lammfond
+  en_name: 'TODO: Lammfond'
+  qty: 400
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Zwiebeln
+  en_name: 'TODO: Zwiebeln'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Grüne Paprikaschote
+  en_name: 'TODO: Grüne Paprikaschote'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Pul Biber (Aleppo-Pfeffer)
+  en_name: 'TODO: Pul Biber (Aleppo-Pfeffer)'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Paprikapulver, süß
+  en_name: 'TODO: Paprikapulver, süß'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+- de_name: Lorbeerblätter
+  en_name: 'TODO: Lorbeerblätter'
+  qty: 2
+  unit: Stk
+  category: Gewürze
+de_steps:
+- |-
+  Zwiebeln würfeln, Paprika in Streifen schneiden, Knoblauch pressen. Olivenöl in einem schweren Topf erhitzen und Lammfleisch portionsweise scharf anbraten, bis es von allen Seiten braun ist. Herausnehmen.
+- |-
+  Zwiebeln und Paprika im gleichen Topf 6 Minuten weich dünsten. Knoblauch, Tomatenmark, Pul Biber und Paprikapulver hinzufügen und 2 Minuten mitrösten.
+- |-
+  Gehackte Tomaten und Lammfond einrühren. Angebratenes Fleisch zurück in den Topf geben. Lorbeerblätter einlegen, salzen und pfeffern.
+- |-
+  Abgetropfte Cannellini-Bohnen hinzufügen. Alles zum Kochen bringen, dann Hitze reduzieren und den Eintopf zugedeckt 45 Minuten sanft köcheln lassen, bis das Fleisch zart ist.
+- Lorbeerblätter entfernen. Abschmecken und mit frischem Brot oder Reis servieren.
+en_steps:
+- |-
+  TODO: Zwiebeln würfeln, Paprika in Streifen schneiden, Knoblauch pressen. Olivenöl in einem schweren Topf erhitzen und Lammfleisch portionsweise scharf anbraten, bis es von allen Seiten braun ist. Herausnehmen.
+- |-
+  TODO: Zwiebeln und Paprika im gleichen Topf 6 Minuten weich dünsten. Knoblauch, Tomatenmark, Pul Biber und Paprikapulver hinzufügen und 2 Minuten mitrösten.
+- |-
+  TODO: Gehackte Tomaten und Lammfond einrühren. Angebratenes Fleisch zurück in den Topf geben. Lorbeerblätter einlegen, salzen und pfeffern.
+- |-
+  TODO: Abgetropfte Cannellini-Bohnen hinzufügen. Alles zum Kochen bringen, dann Hitze reduzieren und den Eintopf zugedeckt 45 Minuten sanft köcheln lassen, bis das Fleisch zart ist.
+- |-
+  TODO: Lorbeerblätter entfernen. Abschmecken und mit frischem Brot oder Reis servieren.

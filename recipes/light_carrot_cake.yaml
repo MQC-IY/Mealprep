@@ -1,0 +1,74 @@
+id: light_carrot_cake
+pool: dessert
+de:
+  title: Leichter Karottenkuchen mit Joghurt
+  summary: |-
+    Milder Karottenkuchen mit wenig Süße, Nüssen und einem einfachen Joghurt-Topping.
+en:
+  title: 'TODO: Leichter Karottenkuchen mit Joghurt'
+  summary: |-
+    TODO: Milder Karottenkuchen mit wenig Süße, Nüssen und einem einfachen Joghurt-Topping.
+ingredients:
+- de_name: Möhren
+  en_name: 'TODO: Möhren'
+  qty: 4
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Dinkelmehl
+  en_name: 'TODO: Dinkelmehl'
+  qty: 180
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Gemahlene Mandeln
+  en_name: 'TODO: Gemahlene Mandeln'
+  qty: 80
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Eier
+  en_name: 'TODO: Eier'
+  qty: 3
+  unit: Stk
+  category: Protein und Milchprodukte
+- de_name: Naturjoghurt
+  en_name: 'TODO: Naturjoghurt'
+  qty: 250
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Rapsöl
+  en_name: 'TODO: Rapsöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Honig
+  en_name: 'TODO: Honig'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Backpulver
+  en_name: 'TODO: Backpulver'
+  qty: 1
+  unit: Packung
+  category: Konserven und Vorrat
+- de_name: Zimt
+  en_name: 'TODO: Zimt'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Möhren fein reiben.
+- Eier, Rapsöl, Honig und 100 g Joghurt verrühren.
+- Dinkelmehl, Mandeln, Backpulver, Zimt und Möhren unterheben.
+- Bei 180 Grad etwa 35 Minuten backen.
+- Restlichen Joghurt als leichtes Topping dazugeben, nicht als schwere Creme.
+en_steps:
+- 'TODO: Möhren fein reiben.'
+- 'TODO: Eier, Rapsöl, Honig und 100 g Joghurt verrühren.'
+- 'TODO: Dinkelmehl, Mandeln, Backpulver, Zimt und Möhren unterheben.'
+- 'TODO: Bei 180 Grad etwa 35 Minuten backen.'
+- |-
+  TODO: Restlichen Joghurt als leichtes Topping dazugeben, nicht als schwere Creme.

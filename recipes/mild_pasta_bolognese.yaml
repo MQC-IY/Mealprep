@@ -1,0 +1,73 @@
+id: mild_pasta_bolognese
+pool: lunch
+healthy: false
+quick: true
+next_day: true
+quick_minutes: 30
+meals: 3
+de:
+  title: Linsen-Bolognese mit Vollkornnudeln
+  summary: Tomatige Linsen-Bolognese mit Möhren und Vollkornnudeln.
+en:
+  title: 'TODO: Linsen-Bolognese mit Vollkornnudeln'
+  summary: 'TODO: Tomatige Linsen-Bolognese mit Möhren und Vollkornnudeln.'
+ingredients:
+- de_name: Vollkornnudeln
+  en_name: 'TODO: Vollkornnudeln'
+  qty: 350
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Rote Linsen
+  en_name: 'TODO: Rote Linsen'
+  qty: 220
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Passierte Tomaten
+  en_name: 'TODO: Passierte Tomaten'
+  qty: 1
+  unit: Glas
+  category: Konserven und Vorrat
+- de_name: Gehackte Tomaten
+  en_name: 'TODO: Gehackte Tomaten'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Möhren
+  en_name: 'TODO: Möhren'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Zucchini
+  en_name: 'TODO: Zucchini'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Oregano
+  en_name: 'TODO: Oregano'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Nudeln kochen.
+- Zwiebel, Möhren und Zucchini fein schneiden und in Olivenöl anschwitzen.
+- Linsen, gehackte Tomaten und passierte Tomaten zugeben und weich köcheln lassen.
+en_steps:
+- 'TODO: Nudeln kochen.'
+- 'TODO: Zwiebel, Möhren und Zucchini fein schneiden und in Olivenöl anschwitzen.'
+- |-
+  TODO: Linsen, gehackte Tomaten und passierte Tomaten zugeben und weich köcheln lassen.

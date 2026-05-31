@@ -1,0 +1,121 @@
+id: thai_green_curry_tofu
+pool: lunch
+healthy: true
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Grünes Thai-Curry mit Tofu und Zucchini
+  summary: |-
+    Aromatisches grünes Thai-Curry mit festem Tofu, Zucchini, Aubergine und Kokosmilch – intensiv gewürzt mit grüner Currypaste, Kaffir-Limettenblättern und Thai-Basilikum.
+en:
+  title: 'TODO: Grünes Thai-Curry mit Tofu und Zucchini'
+  summary: |-
+    TODO: Aromatisches grünes Thai-Curry mit festem Tofu, Zucchini, Aubergine und Kokosmilch – intensiv gewürzt mit grüner Currypaste, Kaffir-Limettenblättern und Thai-Basilikum.
+ingredients:
+- de_name: Fester Tofu
+  en_name: 'TODO: Fester Tofu'
+  qty: 500
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Kokosmilch
+  en_name: 'TODO: Kokosmilch'
+  qty: 2
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Grüne Currypaste
+  en_name: 'TODO: Grüne Currypaste'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sojasauce
+  en_name: 'TODO: Sojasauce'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Rapsöl
+  en_name: 'TODO: Rapsöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Jasminreis
+  en_name: 'TODO: Jasminreis'
+  qty: 300
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Zucchini
+  en_name: 'TODO: Zucchini'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Aubergine
+  en_name: 'TODO: Aubergine'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Paprika
+  en_name: 'TODO: Paprika'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Thai-Basilikum oder Basilikum
+  en_name: 'TODO: Thai-Basilikum oder Basilikum'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 3
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Ingwer, frisch
+  en_name: 'TODO: Ingwer, frisch'
+  qty: 20
+  unit: g
+  category: Gemüse und Salat
+- de_name: Kaffir-Limettenblätter
+  en_name: 'TODO: Kaffir-Limettenblätter'
+  qty: 4
+  unit: Stk
+  category: Gewürze
+- de_name: Limette
+  en_name: 'TODO: Limette'
+  qty: 2
+  unit: Stk
+  category: Obst
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Tofu in Würfel schneiden und auf Küchenpapier gut abtrocknen. In heißem Öl von allen Seiten goldbraun und knusprig braten. Herausnehmen.
+- |-
+  Im gleichen Wok oder Topf grüne Currypaste, Knoblauch und Ingwer 2 Minuten in etwas Öl rösten.
+- |-
+  Kokosmilch zugießen, Kaffir-Limettenblätter und Sojasauce zugeben. Aufkochen lassen.
+- |-
+  Aubergine, Zucchini und Paprika in Stücke schneiden, ins Curry geben. 12–15 Minuten köcheln lassen.
+- |-
+  Tofu zurückgeben und 5 Minuten mitgaren. Mit Limettensaft und Chiliflocken abschmecken.
+- |-
+  Reis kochen. Curry mit Thai-Basilikum und Frühlingszwiebeln bestreuen. Mit Reis servieren.
+en_steps:
+- |-
+  TODO: Tofu in Würfel schneiden und auf Küchenpapier gut abtrocknen. In heißem Öl von allen Seiten goldbraun und knusprig braten. Herausnehmen.
+- |-
+  TODO: Im gleichen Wok oder Topf grüne Currypaste, Knoblauch und Ingwer 2 Minuten in etwas Öl rösten.
+- |-
+  TODO: Kokosmilch zugießen, Kaffir-Limettenblätter und Sojasauce zugeben. Aufkochen lassen.
+- |-
+  TODO: Aubergine, Zucchini und Paprika in Stücke schneiden, ins Curry geben. 12–15 Minuten köcheln lassen.
+- |-
+  TODO: Tofu zurückgeben und 5 Minuten mitgaren. Mit Limettensaft und Chiliflocken abschmecken.
+- |-
+  TODO: Reis kochen. Curry mit Thai-Basilikum und Frühlingszwiebeln bestreuen. Mit Reis servieren.

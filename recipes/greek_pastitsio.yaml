@@ -1,0 +1,135 @@
+id: greek_pastitsio
+pool: lunch
+healthy: false
+quick: false
+next_day: false
+meals: 2
+de:
+  title: Griechisches Pastitsio – Nudelauflauf mit Hackfleisch
+  summary: |-
+    Schichtauflauf aus Röhrennudeln, gewürzter Rinderhack-Zimtsauce und goldener Béchamel – Griechenlands Antwort auf die Lasagne.
+en:
+  title: 'TODO: Griechisches Pastitsio – Nudelauflauf mit Hackfleisch'
+  summary: |-
+    TODO: Schichtauflauf aus Röhrennudeln, gewürzter Rinderhack-Zimtsauce und goldener Béchamel – Griechenlands Antwort auf die Lasagne.
+ingredients:
+- de_name: Rinderhackfleisch
+  en_name: 'TODO: Rinderhackfleisch'
+  qty: 400
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Eier
+  en_name: 'TODO: Eier'
+  qty: 2
+  unit: Stk
+  category: Protein und Milchprodukte
+- de_name: Geriebener Parmesan oder Kefalotyri
+  en_name: 'TODO: Geriebener Parmesan oder Kefalotyri'
+  qty: 60
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Butter
+  en_name: 'TODO: Butter'
+  qty: 60
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Vollmilch
+  en_name: 'TODO: Vollmilch'
+  qty: 500
+  unit: ml
+  category: Protein und Milchprodukte
+- de_name: Pastitsio-Nudeln oder Penne
+  en_name: 'TODO: Pastitsio-Nudeln oder Penne'
+  qty: 300
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Weizenmehl (Typ 405)
+  en_name: 'TODO: Weizenmehl (Typ 405)'
+  qty: 3
+  unit: EL
+  category: Kohlenhydrate und Sattmacher
+- de_name: Gehackte Tomaten
+  en_name: 'TODO: Gehackte Tomaten'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Tomatenmark
+  en_name: 'TODO: Tomatenmark'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Trockener Rotwein
+  en_name: 'TODO: Trockener Rotwein'
+  qty: 100
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Zwiebeln
+  en_name: 'TODO: Zwiebeln'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 3
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Zimt, gemahlen
+  en_name: 'TODO: Zimt, gemahlen'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+- de_name: Piment, gemahlen
+  en_name: 'TODO: Piment, gemahlen'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Getrockneter Oregano
+  en_name: 'TODO: Getrockneter Oregano'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Muskatnuss, gemahlen
+  en_name: 'TODO: Muskatnuss, gemahlen'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- Nudeln al dente kochen, abgießen, mit etwas Öl vermengen und beiseitestellen.
+- |-
+  Olivenöl erhitzen, Zwiebeln würfeln und 5 Minuten dünsten. Hackfleisch hinzufügen, krümelig anbraten. Knoblauch, Zimt und Piment einrühren. Mit Rotwein ablöschen und einkochen.
+- |-
+  Tomatenmark und Gehackte Tomaten hinzufügen. Oregano, Salz und Pfeffer einrühren. 20 Minuten einkochen, bis eine dicke Sauce entsteht.
+- |-
+  Für die Béchamel: Butter schmelzen, Mehl einrühren, 2 Minuten helle Mehlschwitze rühren. Heiße Milch nach und nach einrühren, 8 Minuten glatt kochen. Muskatnuss, Salz, Pfeffer und Hälfte des Parmesans einrühren. Vom Herd nehmen, leicht abkühlen, Eier einrühren.
+- |-
+  Ofen auf 180 °C vorheizen. Auflaufform fetten. Hälfte der Nudeln einlegen, gesamte Fleischsauce darüber verteilen, restliche Nudeln obenauf. Béchamel gleichmäßig darüber gießen. Restlichen Parmesan darüberstreuen.
+- |-
+  45 Minuten backen, bis die Oberfläche goldbraun ist. 15 Minuten ruhen lassen, dann in Stücke schneiden.
+en_steps:
+- |-
+  TODO: Nudeln al dente kochen, abgießen, mit etwas Öl vermengen und beiseitestellen.
+- |-
+  TODO: Olivenöl erhitzen, Zwiebeln würfeln und 5 Minuten dünsten. Hackfleisch hinzufügen, krümelig anbraten. Knoblauch, Zimt und Piment einrühren. Mit Rotwein ablöschen und einkochen.
+- |-
+  TODO: Tomatenmark und Gehackte Tomaten hinzufügen. Oregano, Salz und Pfeffer einrühren. 20 Minuten einkochen, bis eine dicke Sauce entsteht.
+- |-
+  TODO: Für die Béchamel: Butter schmelzen, Mehl einrühren, 2 Minuten helle Mehlschwitze rühren. Heiße Milch nach und nach einrühren, 8 Minuten glatt kochen. Muskatnuss, Salz, Pfeffer und Hälfte des Parmesans einrühren. Vom Herd nehmen, leicht abkühlen, Eier einrühren.
+- |-
+  TODO: Ofen auf 180 °C vorheizen. Auflaufform fetten. Hälfte der Nudeln einlegen, gesamte Fleischsauce darüber verteilen, restliche Nudeln obenauf. Béchamel gleichmäßig darüber gießen. Restlichen Parmesan darüberstreuen.
+- |-
+  TODO: 45 Minuten backen, bis die Oberfläche goldbraun ist. 15 Minuten ruhen lassen, dann in Stücke schneiden.

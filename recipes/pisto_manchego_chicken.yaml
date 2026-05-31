@@ -1,0 +1,122 @@
+id: pisto_manchego_chicken
+pool: lunch
+healthy: true
+quick: true
+next_day: false
+quick_minutes: 30
+meals: 2
+de:
+  title: Pisto Manchego mit Ei und Hähnchen
+  summary: |-
+    Spanisches Schmorgericht nach Art der La Mancha: Hähnchen mit Zucchini, Paprika, Tomaten und Pimentón – mit pochierten Eiern direkt in der Sauce.
+en:
+  title: 'TODO: Pisto Manchego mit Ei und Hähnchen'
+  summary: |-
+    TODO: Spanisches Schmorgericht nach Art der La Mancha: Hähnchen mit Zucchini, Paprika, Tomaten und Pimentón – mit pochierten Eiern direkt in der Sauce.
+ingredients:
+- de_name: Hähnchenbrustfilet
+  en_name: 'TODO: Hähnchenbrustfilet'
+  qty: 400
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Eier
+  en_name: 'TODO: Eier'
+  qty: 4
+  unit: Stk
+  category: Protein und Milchprodukte
+- de_name: Zucchini
+  en_name: 'TODO: Zucchini'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Rote Paprika
+  en_name: 'TODO: Rote Paprika'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Grüne Paprika
+  en_name: 'TODO: Grüne Paprika'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Geschälte Tomaten aus der Dose
+  en_name: 'TODO: Geschälte Tomaten aus der Dose'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 3
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Pimentón ahumado
+  en_name: 'TODO: Pimentón ahumado'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+- de_name: Kreuzkümmel gemahlen
+  en_name: 'TODO: Kreuzkümmel gemahlen'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Cayennepfeffer
+  en_name: 'TODO: Cayennepfeffer'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Frische Petersilie
+  en_name: 'TODO: Frische Petersilie'
+  qty: 0.5
+  unit: Bund
+  category: Gemüse und Salat
+de_steps:
+- |-
+  Hähnchenbrustfilet in mundgerechte Würfel schneiden. Mit Salz, Pfeffer und Pimentón würzen.
+- |-
+  2 EL Olivenöl in einer großen, tiefen Pfanne erhitzen. Hähnchen bei starker Hitze 5–6 Minuten anbraten. Herausnehmen.
+- |-
+  Restliches Olivenöl in die Pfanne geben. Zwiebel und Knoblauch fein gewürfelt, 5 Minuten anschwitzen. Paprikastreifen dazugeben, weitere 6 Minuten mitschmoren.
+- |-
+  Zucchini in Halbmonde schneiden und einrühren. Kreuzkümmel, Cayenne und restlichen Pimentón dazugeben, 1 Minute rösten.
+- |-
+  Tomaten zerdrückt dazugeben. Bei mittlerer Hitze 15 Minuten köcheln, bis das Gemüse weich und die Sauce eingedickt ist.
+- Hähnchen zurücklegen und einrühren. Mit Salz abschmecken.
+- |-
+  Mit einem Löffel vier Mulden in die Sauce drücken. Ein Ei pro Mulde hineinschlagen. Deckel auflegen und 4–6 Minuten garen, bis das Eiweiß fest, das Eigelb aber noch weich ist.
+- Mit gehackter Petersilie bestreuen und direkt in der Pfanne mit Brot servieren.
+en_steps:
+- |-
+  TODO: Hähnchenbrustfilet in mundgerechte Würfel schneiden. Mit Salz, Pfeffer und Pimentón würzen.
+- |-
+  TODO: 2 EL Olivenöl in einer großen, tiefen Pfanne erhitzen. Hähnchen bei starker Hitze 5–6 Minuten anbraten. Herausnehmen.
+- |-
+  TODO: Restliches Olivenöl in die Pfanne geben. Zwiebel und Knoblauch fein gewürfelt, 5 Minuten anschwitzen. Paprikastreifen dazugeben, weitere 6 Minuten mitschmoren.
+- |-
+  TODO: Zucchini in Halbmonde schneiden und einrühren. Kreuzkümmel, Cayenne und restlichen Pimentón dazugeben, 1 Minute rösten.
+- |-
+  TODO: Tomaten zerdrückt dazugeben. Bei mittlerer Hitze 15 Minuten köcheln, bis das Gemüse weich und die Sauce eingedickt ist.
+- 'TODO: Hähnchen zurücklegen und einrühren. Mit Salz abschmecken.'
+- |-
+  TODO: Mit einem Löffel vier Mulden in die Sauce drücken. Ein Ei pro Mulde hineinschlagen. Deckel auflegen und 4–6 Minuten garen, bis das Eiweiß fest, das Eigelb aber noch weich ist.
+- |-
+  TODO: Mit gehackter Petersilie bestreuen und direkt in der Pfanne mit Brot servieren.

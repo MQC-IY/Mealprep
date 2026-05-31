@@ -1,0 +1,105 @@
+id: yogurt_chicken_couscous
+pool: lunch
+healthy: true
+quick: true
+next_day: false
+quick_minutes: 25
+meals: 3
+de:
+  title: Shawarma-Hähnchen mit Couscous und Gurken-Joghurt
+  summary: |-
+    Hähnchen mit Shawarma-Gewürzmischung (Kreuzkümmel, Koriander, Kurkuma, Zimt) auf Couscous mit frischer Gurke und Knoblauchjoghurt.
+en:
+  title: 'TODO: Shawarma-Hähnchen mit Couscous und Gurken-Joghurt'
+  summary: |-
+    TODO: Hähnchen mit Shawarma-Gewürzmischung (Kreuzkümmel, Koriander, Kurkuma, Zimt) auf Couscous mit frischer Gurke und Knoblauchjoghurt.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 750
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Couscous
+  en_name: 'TODO: Couscous'
+  qty: 280
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Naturjoghurt
+  en_name: 'TODO: Naturjoghurt'
+  qty: 250
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Gurke
+  en_name: 'TODO: Gurke'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Möhren
+  en_name: 'TODO: Möhren'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Zitrone oder Limette
+  en_name: 'TODO: Zitrone oder Limette'
+  qty: 1
+  unit: Stk
+  category: Obst
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 3
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Kreuzkümmel
+  en_name: 'TODO: Kreuzkümmel'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+- de_name: Koriander, gemahlen
+  en_name: 'TODO: Koriander, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Kurkuma
+  en_name: 'TODO: Kurkuma'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Zimt
+  en_name: 'TODO: Zimt'
+  qty: 0.25
+  unit: TL
+  category: Gewürze
+- de_name: Paprika edelsüß
+  en_name: 'TODO: Paprika edelsüß'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Minze, getrocknet
+  en_name: 'TODO: Minze, getrocknet'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- Couscous mit heißem Wasser und etwas Salz quellen lassen.
+- |-
+  Hähnchen in Streifen schneiden und mit Kreuzkümmel, Koriander, Kurkuma, Zimt, Paprika edelsüß, Chiliflocken, Salz und Olivenöl marinieren.
+- |-
+  Hähnchen bei hoher Hitze in einer Pfanne scharf anbraten, bis es braune Stellen hat.
+- Gurke und Möhren klein schneiden, Joghurt mit etwas Zitrone verrühren.
+en_steps:
+- 'TODO: Couscous mit heißem Wasser und etwas Salz quellen lassen.'
+- |-
+  TODO: Hähnchen in Streifen schneiden und mit Kreuzkümmel, Koriander, Kurkuma, Zimt, Paprika edelsüß, Chiliflocken, Salz und Olivenöl marinieren.
+- |-
+  TODO: Hähnchen bei hoher Hitze in einer Pfanne scharf anbraten, bis es braune Stellen hat.
+- 'TODO: Gurke und Möhren klein schneiden, Joghurt mit etwas Zitrone verrühren.'

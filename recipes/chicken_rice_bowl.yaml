@@ -1,0 +1,85 @@
+id: chicken_rice_bowl
+pool: lunch
+healthy: true
+quick: false
+next_day: false
+meals: 3
+de:
+  title: Hähnchen-Reis-Gemüse-Bowl
+  summary: |-
+    Milde Bowl mit Brokkoli, Paprika und Möhren, ideal für Meal Prep und Familienmittag.
+en:
+  title: 'TODO: Hähnchen-Reis-Gemüse-Bowl'
+  summary: |-
+    TODO: Milde Bowl mit Brokkoli, Paprika und Möhren, ideal für Meal Prep und Familienmittag.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 900
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Basmatireis
+  en_name: 'TODO: Basmatireis'
+  qty: 350
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Brokkoli
+  en_name: 'TODO: Brokkoli'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Paprika
+  en_name: 'TODO: Paprika'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Möhren
+  en_name: 'TODO: Möhren'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Paprika edelsüß
+  en_name: 'TODO: Paprika edelsüß'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Kreuzkümmel
+  en_name: 'TODO: Kreuzkümmel'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 2
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Zitrone oder Limette
+  en_name: 'TODO: Zitrone oder Limette'
+  qty: 1
+  unit: Stk
+  category: Obst
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Reis nach Packungsangabe garen.
+- |-
+  Brokkoli in Röschen teilen, Paprika in Streifen und Möhren in Scheiben schneiden.
+- Gemüse mit etwas Olivenöl mischen und weich garen, im Ofen oder in der Pfanne.
+- |-
+  Hähnchen mit Paprika, etwas Kreuzkümmel, Knoblauch und Zitronensaft würzen und durchgaren.
+en_steps:
+- 'TODO: Reis nach Packungsangabe garen.'
+- |-
+  TODO: Brokkoli in Röschen teilen, Paprika in Streifen und Möhren in Scheiben schneiden.
+- |-
+  TODO: Gemüse mit etwas Olivenöl mischen und weich garen, im Ofen oder in der Pfanne.
+- |-
+  TODO: Hähnchen mit Paprika, etwas Kreuzkümmel, Knoblauch und Zitronensaft würzen und durchgaren.

@@ -1,0 +1,110 @@
+id: black_sesame_chicken_soba
+pool: lunch
+healthy: false
+quick: false
+next_day: false
+meals: 2
+de:
+  title: Hähnchen in schwarzer Sesamsauce mit Soba
+  summary: |-
+    Elegantes japanisch inspiriertes Gericht: Hähnchen in nussiger schwarzer Sesam-Tare-Sauce auf Soba-Nudeln mit Edamame, eingelegtem Ingwer und Frühlingszwiebeln.
+en:
+  title: 'TODO: Hähnchen in schwarzer Sesamsauce mit Soba'
+  summary: |-
+    TODO: Elegantes japanisch inspiriertes Gericht: Hähnchen in nussiger schwarzer Sesam-Tare-Sauce auf Soba-Nudeln mit Edamame, eingelegtem Ingwer und Frühlingszwiebeln.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 700
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Soba-Nudeln
+  en_name: 'TODO: Soba-Nudeln'
+  qty: 300
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Edamame, tiefgekühlt
+  en_name: 'TODO: Edamame, tiefgekühlt'
+  qty: 200
+  unit: g
+  category: Gemüse und Salat
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 4
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Ingwer, frisch
+  en_name: 'TODO: Ingwer, frisch'
+  qty: 20
+  unit: g
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 2
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Schwarze Sesamkörner
+  en_name: 'TODO: Schwarze Sesamkörner'
+  qty: 60
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Sojasauce
+  en_name: 'TODO: Sojasauce'
+  qty: 4
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Mirin
+  en_name: 'TODO: Mirin'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sesamöl
+  en_name: 'TODO: Sesamöl'
+  qty: 2
+  unit: TL
+  category: Konserven und Vorrat
+- de_name: Rapsöl
+  en_name: 'TODO: Rapsöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Eingelegter Ingwer (Gari)
+  en_name: 'TODO: Eingelegter Ingwer (Gari)'
+  qty: 40
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Limette
+  en_name: 'TODO: Limette'
+  qty: 1
+  unit: Stk
+  category: Obst
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Schwarze Sesamkörner in einer trockenen Pfanne 2 Minuten rösten bis sie duften. Mit dem Mörser oder Mixer zu einer Paste mahlen.
+- |-
+  Sesampaste mit Sojasauce, Mirin und Sesamöl zu einer glatten schwarzen Sauce verrühren.
+- |-
+  Soba nach Packungsanweisung kochen, unter kaltem Wasser abschrecken und abtropfen lassen.
+- |-
+  Edamame garen. Hähnchen in dünne Scheiben schneiden. In heißem Rapsöl mit Knoblauch und Ingwer scharf anbraten.
+- Hähnchen mit der Hälfte der schwarzen Sesamsauce glasieren und durchschwenken.
+- |-
+  Soba in Bowls geben, mit restlicher Sauce mischen. Hähnchen, Edamame und eingelegten Ingwer anrichten. Frühlingszwiebeln und Chiliflocken darüber. Limettensaft beträufeln.
+en_steps:
+- |-
+  TODO: Schwarze Sesamkörner in einer trockenen Pfanne 2 Minuten rösten bis sie duften. Mit dem Mörser oder Mixer zu einer Paste mahlen.
+- |-
+  TODO: Sesampaste mit Sojasauce, Mirin und Sesamöl zu einer glatten schwarzen Sauce verrühren.
+- |-
+  TODO: Soba nach Packungsanweisung kochen, unter kaltem Wasser abschrecken und abtropfen lassen.
+- |-
+  TODO: Edamame garen. Hähnchen in dünne Scheiben schneiden. In heißem Rapsöl mit Knoblauch und Ingwer scharf anbraten.
+- |-
+  TODO: Hähnchen mit der Hälfte der schwarzen Sesamsauce glasieren und durchschwenken.
+- |-
+  TODO: Soba in Bowls geben, mit restlicher Sauce mischen. Hähnchen, Edamame und eingelegten Ingwer anrichten. Frühlingszwiebeln und Chiliflocken darüber. Limettensaft beträufeln.

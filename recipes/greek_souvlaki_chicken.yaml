@@ -1,0 +1,118 @@
+id: greek_souvlaki_chicken
+pool: lunch
+healthy: false
+quick: true
+next_day: false
+quick_minutes: 30
+meals: 2
+de:
+  title: Griechisches Hähnchen-Souvlaki mit Pitabrot
+  summary: |-
+    Zitronig-oregano-mariniertes Hähnchen auf dem Spieß, serviert im aufgewärmten Pitabrot mit Tzatziki, Tomaten und roten Zwiebeln.
+en:
+  title: 'TODO: Griechisches Hähnchen-Souvlaki mit Pitabrot'
+  summary: |-
+    TODO: Zitronig-oregano-mariniertes Hähnchen auf dem Spieß, serviert im aufgewärmten Pitabrot mit Tzatziki, Tomaten und roten Zwiebeln.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 500
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Griechischer Joghurt (10 %)
+  en_name: 'TODO: Griechischer Joghurt (10 %)'
+  qty: 200
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Gurke
+  en_name: 'TODO: Gurke'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Tomaten
+  en_name: 'TODO: Tomaten'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Rote Zwiebel
+  en_name: 'TODO: Rote Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Frische Minze
+  en_name: 'TODO: Frische Minze'
+  qty: 0.5
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Pitabrot
+  en_name: 'TODO: Pitabrot'
+  qty: 4
+  unit: Stk
+  category: Kohlenhydrate und Sattmacher
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 4
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Zitronensaft
+  en_name: 'TODO: Zitronensaft'
+  qty: 4
+  unit: EL
+  category: Obst
+- de_name: Zitronenschale
+  en_name: 'TODO: Zitronenschale'
+  qty: 1
+  unit: Stk
+  category: Obst
+- de_name: Getrockneter Oregano
+  en_name: 'TODO: Getrockneter Oregano'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Paprikapulver, geräuchert
+  en_name: 'TODO: Paprikapulver, geräuchert'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Hähnchenbrust in 3 cm Würfel schneiden. Marinade aus Olivenöl, Zitronensaft, Zitronenschale, Oregano, Paprikapulver, Chiliflocken, 2 Knoblauchzehen (gepresst), Salz und Pfeffer anrühren. Hähnchenwürfel mindestens 30 Minuten darin marinieren.
+- |-
+  Für das Tzatziki: Gurke grob reiben, fest ausdrücken. Mit Joghurt, 2 gepressten Knoblauchzehen, gehackter Minze, Salz und 1 EL Olivenöl vermengen. Kalt stellen.
+- |-
+  Hähnchen auf Holzspieße (zuvor eingeweicht) oder Metallspieße stecken. Auf einer heißen Grillpfanne oder unter dem Ofengrill 10–12 Minuten wenden, bis sie goldbraun und gar sind.
+- |-
+  Pitabrot kurz in einer trockenen Pfanne aufwärmen. Tomaten in Scheiben schneiden, rote Zwiebel in feine Ringe schneiden.
+- |-
+  Pitabrot mit Tzatziki bestreichen, Hähnchen vom Spieß schieben, Tomaten und Zwiebeln darauflegen und einrollen.
+en_steps:
+- |-
+  TODO: Hähnchenbrust in 3 cm Würfel schneiden. Marinade aus Olivenöl, Zitronensaft, Zitronenschale, Oregano, Paprikapulver, Chiliflocken, 2 Knoblauchzehen (gepresst), Salz und Pfeffer anrühren. Hähnchenwürfel mindestens 30 Minuten darin marinieren.
+- |-
+  TODO: Für das Tzatziki: Gurke grob reiben, fest ausdrücken. Mit Joghurt, 2 gepressten Knoblauchzehen, gehackter Minze, Salz und 1 EL Olivenöl vermengen. Kalt stellen.
+- |-
+  TODO: Hähnchen auf Holzspieße (zuvor eingeweicht) oder Metallspieße stecken. Auf einer heißen Grillpfanne oder unter dem Ofengrill 10–12 Minuten wenden, bis sie goldbraun und gar sind.
+- |-
+  TODO: Pitabrot kurz in einer trockenen Pfanne aufwärmen. Tomaten in Scheiben schneiden, rote Zwiebel in feine Ringe schneiden.
+- |-
+  TODO: Pitabrot mit Tzatziki bestreichen, Hähnchen vom Spieß schieben, Tomaten und Zwiebeln darauflegen und einrollen.

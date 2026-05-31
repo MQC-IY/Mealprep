@@ -1,0 +1,69 @@
+id: carrot_broccoli_orzo_turkey
+pool: lunch
+healthy: true
+quick: true
+next_day: false
+quick_minutes: 25
+meals: 3
+de:
+  title: Puten-Orzo-Pfanne mit Möhren und Brokkoli
+  summary: |-
+    Milde Orzo-Pfanne mit Putenhack, Brokkoli und Möhren für den schnellen Familienmittag.
+en:
+  title: 'TODO: Puten-Orzo-Pfanne mit Möhren und Brokkoli'
+  summary: |-
+    TODO: Milde Orzo-Pfanne mit Putenhack, Brokkoli und Möhren für den schnellen Familienmittag.
+ingredients:
+- de_name: Putenhack
+  en_name: 'TODO: Putenhack'
+  qty: 650
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Orzo oder Kritharaki
+  en_name: 'TODO: Orzo oder Kritharaki'
+  qty: 300
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Brokkoli
+  en_name: 'TODO: Brokkoli'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Möhren
+  en_name: 'TODO: Möhren'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Frischkäse natur
+  en_name: 'TODO: Frischkäse natur'
+  qty: 100
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Paprika edelsüß
+  en_name: 'TODO: Paprika edelsüß'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Orzo weich garen.
+- Putenhack mit Zwiebel scharf anbraten.
+- Möhren und Brokkoli klein schneiden und weich garen.
+en_steps:
+- 'TODO: Orzo weich garen.'
+- 'TODO: Putenhack mit Zwiebel scharf anbraten.'
+- 'TODO: Möhren und Brokkoli klein schneiden und weich garen.'

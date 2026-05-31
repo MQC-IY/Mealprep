@@ -1,0 +1,120 @@
+id: mild_taco_rice_turkey
+pool: lunch
+healthy: true
+quick: true
+next_day: false
+quick_minutes: 25
+meals: 3
+de:
+  title: Taco-Reis-Pfanne mit Pute
+  summary: |-
+    Mexikanisch gewürzte Reispfanne mit Putenhack, Kidneybohnen und Mais – mit Kreuzkümmel, Chili, geräuchertem Paprika und einem Spritzer Limette.
+en:
+  title: 'TODO: Taco-Reis-Pfanne mit Pute'
+  summary: |-
+    TODO: Mexikanisch gewürzte Reispfanne mit Putenhack, Kidneybohnen und Mais – mit Kreuzkümmel, Chili, geräuchertem Paprika und einem Spritzer Limette.
+ingredients:
+- de_name: Putenhack
+  en_name: 'TODO: Putenhack'
+  qty: 650
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Reis
+  en_name: 'TODO: Reis'
+  qty: 300
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Kidneybohnen
+  en_name: 'TODO: Kidneybohnen'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Mais
+  en_name: 'TODO: Mais'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Passierte Tomaten
+  en_name: 'TODO: Passierte Tomaten'
+  qty: 1
+  unit: Glas
+  category: Konserven und Vorrat
+- de_name: Tomatenmark
+  en_name: 'TODO: Tomatenmark'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 3
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Limette
+  en_name: 'TODO: Limette'
+  qty: 1
+  unit: Stk
+  category: Obst
+- de_name: Rapsöl
+  en_name: 'TODO: Rapsöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Paprika geräuchert
+  en_name: 'TODO: Paprika geräuchert'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+- de_name: Paprika edelsüß
+  en_name: 'TODO: Paprika edelsüß'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Koriander, gemahlen
+  en_name: 'TODO: Koriander, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Oregano, getrocknet
+  en_name: 'TODO: Oregano, getrocknet'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- Reis garen.
+- |-
+  Zwiebel und Knoblauch fein würfeln. In Rapsöl bei hoher Hitze anbraten, bis die Zwiebel goldbraun ist.
+- |-
+  Putenhack zugeben und kräftig anbraten, bis es braune Röstaromen entwickelt und nicht mehr roh aussieht.
+- |-
+  Tomatenmark einrühren und 2 Minuten mitrösten. Kreuzkümmel, geräucherten Paprika, Paprika edelsüß, Chiliflocken, Koriander und Oregano einrühren und 1 Minute rösten.
+- |-
+  Passierte Tomaten, Kidneybohnen und Mais zugeben. 10 bis 15 Minuten bei mittlerer Hitze einköcheln lassen.
+- |-
+  Reis unterheben. Mit Limettensaft, Salz und Pfeffer abschmecken. Nach Belieben mit Sauerrahm, Käse oder Avocado servieren.
+en_steps:
+- 'TODO: Reis garen.'
+- |-
+  TODO: Zwiebel und Knoblauch fein würfeln. In Rapsöl bei hoher Hitze anbraten, bis die Zwiebel goldbraun ist.
+- |-
+  TODO: Putenhack zugeben und kräftig anbraten, bis es braune Röstaromen entwickelt und nicht mehr roh aussieht.
+- |-
+  TODO: Tomatenmark einrühren und 2 Minuten mitrösten. Kreuzkümmel, geräucherten Paprika, Paprika edelsüß, Chiliflocken, Koriander und Oregano einrühren und 1 Minute rösten.
+- |-
+  TODO: Passierte Tomaten, Kidneybohnen und Mais zugeben. 10 bis 15 Minuten bei mittlerer Hitze einköcheln lassen.
+- |-
+  TODO: Reis unterheben. Mit Limettensaft, Salz und Pfeffer abschmecken. Nach Belieben mit Sauerrahm, Käse oder Avocado servieren.

@@ -1,0 +1,114 @@
+id: greek_fassolada
+pool: lunch
+healthy: true
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Griechischer Fassolada – Weißbohneneintopf
+  summary: |-
+    Griechenlands Nationalsuppe: Cannellini-Bohnen in reichhaltigem Olivenöl mit Sellerie, Karotten und Oregano – einfach, sättigend und voller Charakter.
+en:
+  title: 'TODO: Griechischer Fassolada – Weißbohneneintopf'
+  summary: |-
+    TODO: Griechenlands Nationalsuppe: Cannellini-Bohnen in reichhaltigem Olivenöl mit Sellerie, Karotten und Oregano – einfach, sättigend und voller Charakter.
+ingredients:
+- de_name: Cannellini-Bohnen (Dose)
+  en_name: 'TODO: Cannellini-Bohnen (Dose)'
+  qty: 2
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Gehackte Tomaten
+  en_name: 'TODO: Gehackte Tomaten'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Tomatenmark
+  en_name: 'TODO: Tomatenmark'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 6
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Gemüsebrühe
+  en_name: 'TODO: Gemüsebrühe'
+  qty: 600
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Zwiebeln
+  en_name: 'TODO: Zwiebeln'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Selleriestangen
+  en_name: 'TODO: Selleriestangen'
+  qty: 3
+  unit: Stange
+  category: Gemüse und Salat
+- de_name: Karotten
+  en_name: 'TODO: Karotten'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Glatte Petersilie
+  en_name: 'TODO: Glatte Petersilie'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Zitronensaft
+  en_name: 'TODO: Zitronensaft'
+  qty: 2
+  unit: EL
+  category: Obst
+- de_name: Getrockneter Oregano
+  en_name: 'TODO: Getrockneter Oregano'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Zwiebeln würfeln, Karotten in Scheiben schneiden, Sellerie schräg schneiden. 4 EL Olivenöl in einem großen Topf erhitzen und Zwiebeln 5 Minuten weich dünsten.
+- |-
+  Karotten, Sellerie und Knoblauch hinzufügen. Weitere 5 Minuten unter Rühren anschwitzen. Tomatenmark und Chiliflocken einrühren und 2 Minuten mitrösten.
+- |-
+  Gehackte Tomaten, Gemüsebrühe und abgetropfte Bohnen hinzufügen. Oregano, Salz und Pfeffer einrühren.
+- |-
+  Zum Kochen bringen, dann Hitze reduzieren und zugedeckt 30 Minuten köcheln lassen, bis Karotten und Sellerie weich sind.
+- |-
+  Restliches Olivenöl (2 EL) und Zitronensaft einrühren. Großzügig Petersilie einrühren. Abschmecken.
+- Mit crustigem Brot und Kalamata-Oliven servieren.
+en_steps:
+- |-
+  TODO: Zwiebeln würfeln, Karotten in Scheiben schneiden, Sellerie schräg schneiden. 4 EL Olivenöl in einem großen Topf erhitzen und Zwiebeln 5 Minuten weich dünsten.
+- |-
+  TODO: Karotten, Sellerie und Knoblauch hinzufügen. Weitere 5 Minuten unter Rühren anschwitzen. Tomatenmark und Chiliflocken einrühren und 2 Minuten mitrösten.
+- |-
+  TODO: Gehackte Tomaten, Gemüsebrühe und abgetropfte Bohnen hinzufügen. Oregano, Salz und Pfeffer einrühren.
+- |-
+  TODO: Zum Kochen bringen, dann Hitze reduzieren und zugedeckt 30 Minuten köcheln lassen, bis Karotten und Sellerie weich sind.
+- |-
+  TODO: Restliches Olivenöl (2 EL) und Zitronensaft einrühren. Großzügig Petersilie einrühren. Abschmecken.
+- 'TODO: Mit crustigem Brot und Kalamata-Oliven servieren.'

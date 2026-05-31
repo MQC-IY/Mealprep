@@ -1,0 +1,104 @@
+id: chicken_tinga_chipotle
+pool: lunch
+healthy: false
+quick: true
+next_day: true
+quick_minutes: 30
+meals: 3
+de:
+  title: Hähnchen-Tinga – Chipotle-Hähnchen für Tacos
+  summary: |-
+    Saftiges, zerrupftes Hähnchen in rauchig-scharfer Chipotle-Tomatensauce – klassische mexikanische Taco-Füllung.
+en:
+  title: 'TODO: Hähnchen-Tinga – Chipotle-Hähnchen für Tacos'
+  summary: |-
+    TODO: Saftiges, zerrupftes Hähnchen in rauchig-scharfer Chipotle-Tomatensauce – klassische mexikanische Taco-Füllung.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 900
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Chipotle-Chilis in Adobo-Sauce
+  en_name: 'TODO: Chipotle-Chilis in Adobo-Sauce'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Gehackte Tomaten
+  en_name: 'TODO: Gehackte Tomaten'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 200
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Koriander, frisch
+  en_name: 'TODO: Koriander, frisch'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Limette
+  en_name: 'TODO: Limette'
+  qty: 2
+  unit: Stk
+  category: Obst
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Oregano
+  en_name: 'TODO: Oregano'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Paprika edelsüß
+  en_name: 'TODO: Paprika edelsüß'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Hähnchenbrust in Salzwasser 20 Minuten gar köcheln, herausnehmen, abkühlen lassen und mit zwei Gabeln grob zupfen.
+- |-
+  Zwiebeln in halbe Ringe schneiden, Knoblauch fein hacken. Öl in einer großen Pfanne bei mittlerer-hoher Hitze erhitzen.
+- |-
+  Zwiebeln 6–8 Minuten anbraten bis sie weich und leicht karamellisiert sind. Knoblauch 1 Minute mitrösten.
+- Kreuzkümmel, Oregano und Paprika edelsüß einrühren und 30 Sekunden rösten.
+- |-
+  Chipotle-Chilis mit etwas Adobo-Sauce, gehackte Tomaten und Hühnerbrühe zugeben. Aufkochen, dann 10 Minuten bei mittlerer Hitze einköcheln lassen.
+- |-
+  Sauce mit einem Stabmixer oder Kartoffelstampfer grob zerkleinern. Gezupftes Hähnchen unterrühren.
+- |-
+  Weitere 5–8 Minuten köcheln bis die Sauce am Hähnchen haftet. Mit Limettensaft, Salz und ggf. mehr Chipotle abschmecken. Mit frischem Koriander garniert auf Tacos oder Tostadas servieren.
+en_steps:
+- |-
+  TODO: Hähnchenbrust in Salzwasser 20 Minuten gar köcheln, herausnehmen, abkühlen lassen und mit zwei Gabeln grob zupfen.
+- |-
+  TODO: Zwiebeln in halbe Ringe schneiden, Knoblauch fein hacken. Öl in einer großen Pfanne bei mittlerer-hoher Hitze erhitzen.
+- |-
+  TODO: Zwiebeln 6–8 Minuten anbraten bis sie weich und leicht karamellisiert sind. Knoblauch 1 Minute mitrösten.
+- 'TODO: Kreuzkümmel, Oregano und Paprika edelsüß einrühren und 30 Sekunden rösten.'
+- |-
+  TODO: Chipotle-Chilis mit etwas Adobo-Sauce, gehackte Tomaten und Hühnerbrühe zugeben. Aufkochen, dann 10 Minuten bei mittlerer Hitze einköcheln lassen.
+- |-
+  TODO: Sauce mit einem Stabmixer oder Kartoffelstampfer grob zerkleinern. Gezupftes Hähnchen unterrühren.
+- |-
+  TODO: Weitere 5–8 Minuten köcheln bis die Sauce am Hähnchen haftet. Mit Limettensaft, Salz und ggf. mehr Chipotle abschmecken. Mit frischem Koriander garniert auf Tacos oder Tostadas servieren.

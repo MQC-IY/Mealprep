@@ -1,0 +1,121 @@
+id: zaatar_chicken_rice
+pool: lunch
+healthy: false
+quick: false
+next_day: false
+meals: 2
+de:
+  title: Libanesisches Za'atar-Hähnchen mit Fladenbrot-Reis
+  summary: |-
+    Saftige Hähnchenstücke mit Za'atar-Olivenöl-Kruste, serviert auf gewürztem Reis mit gerösteten Pinienkernen und Rosinen.
+en:
+  title: 'TODO: Libanesisches Za''atar-Hähnchen mit Fladenbrot-Reis'
+  summary: |-
+    TODO: Saftige Hähnchenstücke mit Za'atar-Olivenöl-Kruste, serviert auf gewürztem Reis mit gerösteten Pinienkernen und Rosinen.
+ingredients:
+- de_name: Hähnchenschenkel
+  en_name: 'TODO: Hähnchenschenkel'
+  qty: 4
+  unit: Stk
+  category: Protein und Milchprodukte
+- de_name: Zwiebeln
+  en_name: 'TODO: Zwiebeln'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Frische Petersilie
+  en_name: 'TODO: Frische Petersilie'
+  qty: 0.5
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Zitrone
+  en_name: 'TODO: Zitrone'
+  qty: 2
+  unit: Stk
+  category: Obst
+- de_name: Langkornreis
+  en_name: 'TODO: Langkornreis'
+  qty: 300
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Pinienkerne
+  en_name: 'TODO: Pinienkerne'
+  qty: 50
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Rosinen
+  en_name: 'TODO: Rosinen'
+  qty: 50
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 5
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 500
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Za'atar-Gewürzmischung
+  en_name: 'TODO: Za''atar-Gewürzmischung'
+  qty: 3
+  unit: EL
+  category: Gewürze
+- de_name: Sumach
+  en_name: 'TODO: Sumach'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Allgewürz (Piment)
+  en_name: 'TODO: Allgewürz (Piment)'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Zimtpulver
+  en_name: 'TODO: Zimtpulver'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Za'atar mit 3 EL Olivenöl, Zitronensaft und -schale, gemahlenem Knoblauch, Salz und Pfeffer zu einer Paste vermengen. Hähnchenschenkel damit einreiben, 1 Stunde marinieren.
+- |-
+  Backofen auf 200°C vorheizen. Hähnchen auf einem Blech 35–40 Minuten rösten, bis die Haut knusprig und goldbraun ist.
+- |-
+  Pinienkerne in trockenem Öl goldbraun rösten. Beiseitestellen. Rosinen in warmem Wasser 10 Minuten einweichen.
+- |-
+  Zwiebeln fein würfeln. 2 EL Olivenöl erhitzen, Zwiebeln 8 Minuten goldbraun anbraten. Allgewürz, Zimt und Sumach einrühren.
+- |-
+  Reis hinzufügen, 2 Minuten glasig braten. Hühnerbrühe angießen, aufkochen, Deckel auflegen, 18 Minuten bei niedriger Hitze garen.
+- |-
+  Reis mit einer Gabel auflockern. Rosinen und die Hälfte der Pinienkerne unterheben. Hähnchen auf dem Reis anrichten, mit restlichen Pinienkernen und Petersilie garnieren. Sumach darüberstreuen.
+en_steps:
+- |-
+  TODO: Za'atar mit 3 EL Olivenöl, Zitronensaft und -schale, gemahlenem Knoblauch, Salz und Pfeffer zu einer Paste vermengen. Hähnchenschenkel damit einreiben, 1 Stunde marinieren.
+- |-
+  TODO: Backofen auf 200°C vorheizen. Hähnchen auf einem Blech 35–40 Minuten rösten, bis die Haut knusprig und goldbraun ist.
+- |-
+  TODO: Pinienkerne in trockenem Öl goldbraun rösten. Beiseitestellen. Rosinen in warmem Wasser 10 Minuten einweichen.
+- |-
+  TODO: Zwiebeln fein würfeln. 2 EL Olivenöl erhitzen, Zwiebeln 8 Minuten goldbraun anbraten. Allgewürz, Zimt und Sumach einrühren.
+- |-
+  TODO: Reis hinzufügen, 2 Minuten glasig braten. Hühnerbrühe angießen, aufkochen, Deckel auflegen, 18 Minuten bei niedriger Hitze garen.
+- |-
+  TODO: Reis mit einer Gabel auflockern. Rosinen und die Hälfte der Pinienkerne unterheben. Hähnchen auf dem Reis anrichten, mit restlichen Pinienkernen und Petersilie garnieren. Sumach darüberstreuen.

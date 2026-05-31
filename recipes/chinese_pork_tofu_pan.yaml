@@ -1,0 +1,131 @@
+id: chinese_pork_tofu_pan
+pool: lunch
+healthy: false
+quick: true
+next_day: false
+quick_minutes: 25
+meals: 2
+de:
+  title: Schweinefleisch-Tofu-Pfanne mit Austernsauce
+  summary: |-
+    Kräftiges Wokgericht mit angebratenem festem Tofu, Schweinefleischstreifen, Frühlingszwiebeln und reichhaltiger Austernsauce-Glasur.
+en:
+  title: 'TODO: Schweinefleisch-Tofu-Pfanne mit Austernsauce'
+  summary: |-
+    TODO: Kräftiges Wokgericht mit angebratenem festem Tofu, Schweinefleischstreifen, Frühlingszwiebeln und reichhaltiger Austernsauce-Glasur.
+ingredients:
+- de_name: Schweinehals oder Schweinefilet
+  en_name: 'TODO: Schweinehals oder Schweinefilet'
+  qty: 300
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Fester Tofu (Naturtofu)
+  en_name: 'TODO: Fester Tofu (Naturtofu)'
+  qty: 300
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Jasminreis
+  en_name: 'TODO: Jasminreis'
+  qty: 200
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Ingwer, frisch
+  en_name: 'TODO: Ingwer, frisch'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 4
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Paprika (rot)
+  en_name: 'TODO: Paprika (rot)'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Austernsauce
+  en_name: 'TODO: Austernsauce'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sojasauce
+  en_name: 'TODO: Sojasauce'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Dunkle Sojasauce
+  en_name: 'TODO: Dunkle Sojasauce'
+  qty: 1
+  unit: TL
+  category: Konserven und Vorrat
+- de_name: Shaoxing-Reiswein
+  en_name: 'TODO: Shaoxing-Reiswein'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 100
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Speisestärke
+  en_name: 'TODO: Speisestärke'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Erdnussöl
+  en_name: 'TODO: Erdnussöl'
+  qty: 4
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sesamöl
+  en_name: 'TODO: Sesamöl'
+  qty: 1
+  unit: TL
+  category: Konserven und Vorrat
+- de_name: Weißer Pfeffer, gemahlen
+  en_name: 'TODO: Weißer Pfeffer, gemahlen'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Getrocknete Chiliflocken
+  en_name: 'TODO: Getrocknete Chiliflocken'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- Jasminreis waschen und kochen.
+- Tofu in 1-cm-Scheiben schneiden, mit Küchenpapier trocken tupfen.
+- |-
+  Schweinefleisch in dünne Streifen schneiden. Mit 1 EL Sojasauce, 1 EL Shaoxing-Wein, Stärke (1 EL) und Pfeffer 15 Minuten marinieren.
+- |-
+  2 EL Öl in einer Pfanne oder Wok erhitzen. Tofu-Scheiben von beiden Seiten je 3 Minuten goldbraun braten. Herausnehmen.
+- |-
+  Restliches Öl erhitzen. Schweinefleisch 3–4 Minuten scharf anbraten. Knoblauch und Ingwer zugeben.
+- Paprika zugeben und 2 Minuten mitbraten.
+- |-
+  Austernsauce, restliche Sojasauce, dunkle Sojasauce, restlichen Shaoxing-Wein, Brühe und restliche Stärke (in Wasser) zugeben.
+- Gebratenen Tofu zurückgeben, vorsichtig unterheben. 2 Minuten köcheln.
+- |-
+  Sesamöl und Frühlingszwiebeln zugeben. Mit Chiliflocken bestreuen und mit Reis servieren.
+en_steps:
+- 'TODO: Jasminreis waschen und kochen.'
+- 'TODO: Tofu in 1-cm-Scheiben schneiden, mit Küchenpapier trocken tupfen.'
+- |-
+  TODO: Schweinefleisch in dünne Streifen schneiden. Mit 1 EL Sojasauce, 1 EL Shaoxing-Wein, Stärke (1 EL) und Pfeffer 15 Minuten marinieren.
+- |-
+  TODO: 2 EL Öl in einer Pfanne oder Wok erhitzen. Tofu-Scheiben von beiden Seiten je 3 Minuten goldbraun braten. Herausnehmen.
+- |-
+  TODO: Restliches Öl erhitzen. Schweinefleisch 3–4 Minuten scharf anbraten. Knoblauch und Ingwer zugeben.
+- 'TODO: Paprika zugeben und 2 Minuten mitbraten.'
+- |-
+  TODO: Austernsauce, restliche Sojasauce, dunkle Sojasauce, restlichen Shaoxing-Wein, Brühe und restliche Stärke (in Wasser) zugeben.
+- 'TODO: Gebratenen Tofu zurückgeben, vorsichtig unterheben. 2 Minuten köcheln.'
+- |-
+  TODO: Sesamöl und Frühlingszwiebeln zugeben. Mit Chiliflocken bestreuen und mit Reis servieren.

@@ -1,0 +1,128 @@
+id: soto_ayam_indonesia
+pool: lunch
+healthy: true
+quick: false
+next_day: false
+meals: 2
+de:
+  title: Indonesisches Soto Ayam – Hühner-Kurkuma-Suppe
+  summary: |-
+    Goldgelbe indonesische Hühnersuppe mit Kurkuma, Zitronengras, Galgant, Glasnudeln, hartgekochtem Ei und knusprigem Frittiertem.
+en:
+  title: 'TODO: Indonesisches Soto Ayam – Hühner-Kurkuma-Suppe'
+  summary: |-
+    TODO: Goldgelbe indonesische Hühnersuppe mit Kurkuma, Zitronengras, Galgant, Glasnudeln, hartgekochtem Ei und knusprigem Frittiertem.
+ingredients:
+- de_name: Hähnchenstücke mit Knochen
+  en_name: 'TODO: Hähnchenstücke mit Knochen'
+  qty: 900
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Eier
+  en_name: 'TODO: Eier'
+  qty: 4
+  unit: Stk
+  category: Protein und Milchprodukte
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 1500
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Rapsöl
+  en_name: 'TODO: Rapsöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Fischsauce
+  en_name: 'TODO: Fischsauce'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Glasnudeln oder Reisvermicelli
+  en_name: 'TODO: Glasnudeln oder Reisvermicelli'
+  qty: 150
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 6
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Ingwer, frisch
+  en_name: 'TODO: Ingwer, frisch'
+  qty: 30
+  unit: g
+  category: Gemüse und Salat
+- de_name: Zitronengrasstangen
+  en_name: 'TODO: Zitronengrasstangen'
+  qty: 3
+  unit: Stange
+  category: Gemüse und Salat
+- de_name: Galgant (frisch oder getrocknet)
+  en_name: 'TODO: Galgant (frisch oder getrocknet)'
+  qty: 15
+  unit: g
+  category: Gemüse und Salat
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 4
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Limette
+  en_name: 'TODO: Limette'
+  qty: 2
+  unit: Stk
+  category: Obst
+- de_name: Kurkuma
+  en_name: 'TODO: Kurkuma'
+  qty: 3
+  unit: TL
+  category: Gewürze
+- de_name: Koriander, gemahlen
+  en_name: 'TODO: Koriander, gemahlen'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Weißer Pfeffer, gemahlen
+  en_name: 'TODO: Weißer Pfeffer, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Zwiebeln, Knoblauch und Ingwer fein hacken. Öl in einem großen Topf erhitzen, Zwiebeln 4 Minuten anbraten.
+- |-
+  Knoblauch, Ingwer, Kurkuma, gemahlenen Koriander und weißen Pfeffer zugeben, 2 Minuten rösten.
+- Hähnchenstücke zugeben und von allen Seiten 3–4 Minuten anbraten.
+- |-
+  Hühnerbrühe angießen. Angequetschte Zitronengrasstangen, Galgant und Fischsauce zugeben. Aufkochen, dann 30 Minuten bei mittlerer Hitze köcheln.
+- |-
+  Hähnchen herausnehmen, abkühlen lassen und in Fasern zupfen. Brühe durch ein Sieb gießen und bei Bedarf abschmecken.
+- |-
+  Eier hartkochen und halbieren. Glasnudeln in heißem Wasser 3–4 Minuten einweichen.
+- |-
+  In Schüsseln: Glasnudeln, gezupftes Hähnchen und Brühe anrichten. Mit halbierten Eiern, Frühlingszwiebelringen, Limettenspalten und Chiliflocken garnieren.
+en_steps:
+- |-
+  TODO: Zwiebeln, Knoblauch und Ingwer fein hacken. Öl in einem großen Topf erhitzen, Zwiebeln 4 Minuten anbraten.
+- |-
+  TODO: Knoblauch, Ingwer, Kurkuma, gemahlenen Koriander und weißen Pfeffer zugeben, 2 Minuten rösten.
+- 'TODO: Hähnchenstücke zugeben und von allen Seiten 3–4 Minuten anbraten.'
+- |-
+  TODO: Hühnerbrühe angießen. Angequetschte Zitronengrasstangen, Galgant und Fischsauce zugeben. Aufkochen, dann 30 Minuten bei mittlerer Hitze köcheln.
+- |-
+  TODO: Hähnchen herausnehmen, abkühlen lassen und in Fasern zupfen. Brühe durch ein Sieb gießen und bei Bedarf abschmecken.
+- |-
+  TODO: Eier hartkochen und halbieren. Glasnudeln in heißem Wasser 3–4 Minuten einweichen.
+- |-
+  TODO: In Schüsseln: Glasnudeln, gezupftes Hähnchen und Brühe anrichten. Mit halbierten Eiern, Frühlingszwiebelringen, Limettenspalten und Chiliflocken garnieren.

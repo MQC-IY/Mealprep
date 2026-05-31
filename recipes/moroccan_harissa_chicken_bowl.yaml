@@ -1,0 +1,119 @@
+id: moroccan_harissa_chicken_bowl
+pool: lunch
+healthy: true
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Marokkanische Hähnchen-Bowl mit Harissa-Karotten
+  summary: |-
+    Ofengeröstete Harissa-Karotten, zartes Hähnchen mit Ras el Hanout, Couscous mit Rosinen und gerösteten Mandeln – intensive nordafrikanische Aromen.
+en:
+  title: 'TODO: Marokkanische Hähnchen-Bowl mit Harissa-Karotten'
+  summary: |-
+    TODO: Ofengeröstete Harissa-Karotten, zartes Hähnchen mit Ras el Hanout, Couscous mit Rosinen und gerösteten Mandeln – intensive nordafrikanische Aromen.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 750
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Couscous
+  en_name: 'TODO: Couscous'
+  qty: 300
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Möhren
+  en_name: 'TODO: Möhren'
+  qty: 500
+  unit: g
+  category: Gemüse und Salat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 3
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Koriander, frisch
+  en_name: 'TODO: Koriander, frisch'
+  qty: 0.5
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Harissa-Paste
+  en_name: 'TODO: Harissa-Paste'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 4
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 350
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Gehobelte Mandeln
+  en_name: 'TODO: Gehobelte Mandeln'
+  qty: 50
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Rosinen
+  en_name: 'TODO: Rosinen'
+  qty: 40
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Zitrone
+  en_name: 'TODO: Zitrone'
+  qty: 1
+  unit: Stk
+  category: Obst
+- de_name: Ras el Hanout
+  en_name: 'TODO: Ras el Hanout'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Zimt, gemahlen
+  en_name: 'TODO: Zimt, gemahlen'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Möhren schälen und in Stifte schneiden. Mit Harissa-Paste, 2 EL Olivenöl, Salz und einer Prise Kreuzkümmel mischen. Im Ofen bei 200 °C 25 Minuten rösten.
+- |-
+  Hähnchen mit Ras el Hanout, Zimt, Chiliflocken, Knoblauch und 2 EL Olivenöl marinieren.
+- |-
+  Couscous: Brühe aufkochen, Couscous einrühren, Topf vom Herd nehmen, 5 Minuten quellen lassen. Mit Gabel auflockern, Rosinen und Zitronensaft untermengen.
+- Mandeln in einer trockenen Pfanne goldbraun rösten.
+- |-
+  Hähnchen in einer heißen Pfanne scharf anbraten und durchgaren, ca. 6–7 Minuten je Seite.
+- |-
+  Couscous in Bowls geben. Hähnchen und Harissa-Karotten anrichten. Mit gerösteten Mandeln und frischem Koriander bestreuen.
+en_steps:
+- |-
+  TODO: Möhren schälen und in Stifte schneiden. Mit Harissa-Paste, 2 EL Olivenöl, Salz und einer Prise Kreuzkümmel mischen. Im Ofen bei 200 °C 25 Minuten rösten.
+- |-
+  TODO: Hähnchen mit Ras el Hanout, Zimt, Chiliflocken, Knoblauch und 2 EL Olivenöl marinieren.
+- |-
+  TODO: Couscous: Brühe aufkochen, Couscous einrühren, Topf vom Herd nehmen, 5 Minuten quellen lassen. Mit Gabel auflockern, Rosinen und Zitronensaft untermengen.
+- 'TODO: Mandeln in einer trockenen Pfanne goldbraun rösten.'
+- |-
+  TODO: Hähnchen in einer heißen Pfanne scharf anbraten und durchgaren, ca. 6–7 Minuten je Seite.
+- |-
+  TODO: Couscous in Bowls geben. Hähnchen und Harissa-Karotten anrichten. Mit gerösteten Mandeln und frischem Koriander bestreuen.

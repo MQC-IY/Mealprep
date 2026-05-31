@@ -1,0 +1,52 @@
+id: quick_broccoli_couscous
+pool: lunch
+healthy: true
+quick: true
+next_day: false
+quick_minutes: 20
+meals: 3
+de:
+  title: Schneller Couscous mit Brokkoli
+  summary: Sehr schnelles Couscousgericht mit Brokkoli, Bohnen und Joghurt.
+en:
+  title: 'TODO: Schneller Couscous mit Brokkoli'
+  summary: 'TODO: Sehr schnelles Couscousgericht mit Brokkoli, Bohnen und Joghurt.'
+ingredients:
+- de_name: Couscous
+  en_name: 'TODO: Couscous'
+  qty: 280
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Brokkoli
+  en_name: 'TODO: Brokkoli'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Weiße Bohnen
+  en_name: 'TODO: Weiße Bohnen'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Naturjoghurt
+  en_name: 'TODO: Naturjoghurt'
+  qty: 150
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Couscous quellen lassen.
+- Brokkoli weich garen und Bohnen kurz erwärmen.
+- Mit Joghurt mischen.
+en_steps:
+- 'TODO: Couscous quellen lassen.'
+- 'TODO: Brokkoli weich garen und Bohnen kurz erwärmen.'
+- 'TODO: Mit Joghurt mischen.'

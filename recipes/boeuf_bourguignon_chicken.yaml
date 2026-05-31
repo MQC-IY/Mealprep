@@ -1,0 +1,132 @@
+id: boeuf_bourguignon_chicken
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Bœuf Bourguignon-inspirierter Hähncheneintopf
+  summary: |-
+    Der Geist des Bourguignon in einem schnelleren Hähnchenschmortopf: Rotwein, Champignons, Karotten, Perlzwiebeln und frischer Thymian.
+en:
+  title: 'TODO: Bœuf Bourguignon-inspirierter Hähncheneintopf'
+  summary: |-
+    TODO: Der Geist des Bourguignon in einem schnelleren Hähnchenschmortopf: Rotwein, Champignons, Karotten, Perlzwiebeln und frischer Thymian.
+ingredients:
+- de_name: Hähnchenschenkel mit Knochen
+  en_name: 'TODO: Hähnchenschenkel mit Knochen'
+  qty: 900
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Burgunder Rotwein
+  en_name: 'TODO: Burgunder Rotwein'
+  qty: 350
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 300
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Champignons
+  en_name: 'TODO: Champignons'
+  qty: 300
+  unit: g
+  category: Gemüse und Salat
+- de_name: Karotte
+  en_name: 'TODO: Karotte'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Perlzwiebeln
+  en_name: 'TODO: Perlzwiebeln'
+  qty: 150
+  unit: g
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 3
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Speckwürfel
+  en_name: 'TODO: Speckwürfel'
+  qty: 80
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Tomatenmark
+  en_name: 'TODO: Tomatenmark'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Butter
+  en_name: 'TODO: Butter'
+  qty: 30
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Mehl
+  en_name: 'TODO: Mehl'
+  qty: 1
+  unit: EL
+  category: Kohlenhydrate und Sattmacher
+- de_name: Frischer Thymian
+  en_name: 'TODO: Frischer Thymian'
+  qty: 4
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Frischer Rosmarin
+  en_name: 'TODO: Frischer Rosmarin'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Lorbeerblätter
+  en_name: 'TODO: Lorbeerblätter'
+  qty: 2
+  unit: Stk
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- Hähnchenschenkel salzen und pfeffern, mit Mehl bestäuben.
+- |-
+  Öl und die Hälfte der Butter in einem Schmortopf erhitzen. Hähnchen von beiden Seiten 5 Minuten stark anbraten. Herausnehmen.
+- |-
+  Speck im gleichen Topf 3 Minuten auslassen. Perlzwiebeln dazugeben, 5 Minuten braten. Karotten in Scheiben und Knoblauch (gehackt) einrühren.
+- |-
+  Tomatenmark einrühren, kurz rösten. Mit Rotwein ablöschen, kräftig aufkochen und 5 Minuten stark einkochen.
+- |-
+  Brühe, Thymian, Rosmarin und Lorbeer dazugeben. Hähnchen zurücklegen. Zugedeckt bei niedriger Hitze 45 Minuten schmoren.
+- |-
+  Champignons in der restlichen Butter bei starker Hitze 5 Minuten goldbraun anbraten. Beiseitestellen.
+- |-
+  Hähnchen herausnehmen. Kräuterzweige und Lorbeer entfernen. Sauce ggf. offen einkochen, bis sie sämig ist.
+- |-
+  Champignons einrühren, Hähnchen zurücklegen. Mit Kartoffelpüree oder Eiernudeln servieren.
+en_steps:
+- 'TODO: Hähnchenschenkel salzen und pfeffern, mit Mehl bestäuben.'
+- |-
+  TODO: Öl und die Hälfte der Butter in einem Schmortopf erhitzen. Hähnchen von beiden Seiten 5 Minuten stark anbraten. Herausnehmen.
+- |-
+  TODO: Speck im gleichen Topf 3 Minuten auslassen. Perlzwiebeln dazugeben, 5 Minuten braten. Karotten in Scheiben und Knoblauch (gehackt) einrühren.
+- |-
+  TODO: Tomatenmark einrühren, kurz rösten. Mit Rotwein ablöschen, kräftig aufkochen und 5 Minuten stark einkochen.
+- |-
+  TODO: Brühe, Thymian, Rosmarin und Lorbeer dazugeben. Hähnchen zurücklegen. Zugedeckt bei niedriger Hitze 45 Minuten schmoren.
+- |-
+  TODO: Champignons in der restlichen Butter bei starker Hitze 5 Minuten goldbraun anbraten. Beiseitestellen.
+- |-
+  TODO: Hähnchen herausnehmen. Kräuterzweige und Lorbeer entfernen. Sauce ggf. offen einkochen, bis sie sämig ist.
+- |-
+  TODO: Champignons einrühren, Hähnchen zurücklegen. Mit Kartoffelpüree oder Eiernudeln servieren.

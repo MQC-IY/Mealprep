@@ -1,0 +1,62 @@
+id: potato_bean_tomato_stew
+pool: lunch
+healthy: true
+quick: true
+next_day: true
+quick_minutes: 30
+meals: 3
+de:
+  title: Kartoffel-Bohnen-Tomatentopf
+  summary: Milder Eintopf mit Kartoffeln, weißen Bohnen, Möhren und Tomaten.
+en:
+  title: 'TODO: Kartoffel-Bohnen-Tomatentopf'
+  summary: 'TODO: Milder Eintopf mit Kartoffeln, weißen Bohnen, Möhren und Tomaten.'
+ingredients:
+- de_name: Kartoffeln
+  en_name: 'TODO: Kartoffeln'
+  qty: 900
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Weiße Bohnen
+  en_name: 'TODO: Weiße Bohnen'
+  qty: 2
+  unit: Dosen
+  category: Konserven und Vorrat
+- de_name: Möhren
+  en_name: 'TODO: Möhren'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Passierte Tomaten
+  en_name: 'TODO: Passierte Tomaten'
+  qty: 1
+  unit: Glas
+  category: Konserven und Vorrat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Oregano
+  en_name: 'TODO: Oregano'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Zwiebel und Möhren in Olivenöl anschwitzen.
+- Kartoffeln würfeln und mit Bohnen und Tomaten zugeben.
+- Mit Wasser weich köcheln lassen.
+en_steps:
+- 'TODO: Zwiebel und Möhren in Olivenöl anschwitzen.'
+- 'TODO: Kartoffeln würfeln und mit Bohnen und Tomaten zugeben.'
+- 'TODO: Mit Wasser weich köcheln lassen.'

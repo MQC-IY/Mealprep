@@ -1,0 +1,85 @@
+id: quick_coconut_lentil_soup
+pool: lunch
+healthy: true
+quick: true
+next_day: true
+quick_minutes: 22
+meals: 2
+de:
+  title: Schnelle Kokos-Linsen-Suppe
+  summary: |-
+    Cremige rote Linsensuppe mit Kokosmilch, frischem Ingwer und Kurkuma in 22 Minuten.
+en:
+  title: 'TODO: Schnelle Kokos-Linsen-Suppe'
+  summary: |-
+    TODO: Cremige rote Linsensuppe mit Kokosmilch, frischem Ingwer und Kurkuma in 22 Minuten.
+ingredients:
+- de_name: Rote Linsen
+  en_name: 'TODO: Rote Linsen'
+  qty: 250
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Kokosmilch
+  en_name: 'TODO: Kokosmilch'
+  qty: 400
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Gemüsebrühe
+  en_name: 'TODO: Gemüsebrühe'
+  qty: 600
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Kokosnussöl
+  en_name: 'TODO: Kokosnussöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 3
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Ingwer, frisch
+  en_name: 'TODO: Ingwer, frisch'
+  qty: 30
+  unit: g
+  category: Gemüse und Salat
+- de_name: Kurkuma, gemahlen
+  en_name: 'TODO: Kurkuma, gemahlen'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Zwiebel fein würfeln, Knoblauch und Ingwer reiben. Im Kokosnussöl bei mittlerer Hitze 3 Minuten dünsten.
+- Kurkuma, Kreuzkümmel und Chiliflocken einrühren und 30 Sekunden rösten.
+- Linsen, Kokosmilch und Brühe hinzufügen, umrühren und aufkochen.
+- |-
+  Auf mittlere Hitze reduzieren und 15 Minuten köcheln lassen, bis die Linsen zerfallen und die Suppe cremig ist. Mit Salz abschmecken.
+en_steps:
+- |-
+  TODO: Zwiebel fein würfeln, Knoblauch und Ingwer reiben. Im Kokosnussöl bei mittlerer Hitze 3 Minuten dünsten.
+- 'TODO: Kurkuma, Kreuzkümmel und Chiliflocken einrühren und 30 Sekunden rösten.'
+- 'TODO: Linsen, Kokosmilch und Brühe hinzufügen, umrühren und aufkochen.'
+- |-
+  TODO: Auf mittlere Hitze reduzieren und 15 Minuten köcheln lassen, bis die Linsen zerfallen und die Suppe cremig ist. Mit Salz abschmecken.

@@ -1,0 +1,112 @@
+id: canh_chua_fish_soup
+pool: lunch
+healthy: true
+quick: false
+next_day: false
+meals: 2
+de:
+  title: Canh Chua – Vietnamesische Sauere Fischsuppe
+  summary: |-
+    Leichte, fruchtig-saure vietnamesische Suppe mit weißem Fisch, Tomaten, Ananas, Tamarinde und frischen Kräutern.
+en:
+  title: 'TODO: Canh Chua – Vietnamesische Sauere Fischsuppe'
+  summary: |-
+    TODO: Leichte, fruchtig-saure vietnamesische Suppe mit weißem Fisch, Tomaten, Ananas, Tamarinde und frischen Kräutern.
+ingredients:
+- de_name: Weißfischfilet (z. B. Wels, Tilapia oder Pangasius)
+  en_name: 'TODO: Weißfischfilet (z. B. Wels, Tilapia oder Pangasius)'
+  qty: 400
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Tomate
+  en_name: 'TODO: Tomate'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Sojasprossen
+  en_name: 'TODO: Sojasprossen'
+  qty: 80
+  unit: g
+  category: Gemüse und Salat
+- de_name: Okra
+  en_name: 'TODO: Okra'
+  qty: 100
+  unit: g
+  category: Gemüse und Salat
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Frischer Koriander
+  en_name: 'TODO: Frischer Koriander'
+  qty: 0.5
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Frische rote Chili
+  en_name: 'TODO: Frische rote Chili'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 2
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Ananas (frisch oder Dose)
+  en_name: 'TODO: Ananas (frisch oder Dose)'
+  qty: 150
+  unit: g
+  category: Obst
+- de_name: Tamarindenpaste
+  en_name: 'TODO: Tamarindenpaste'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Fischsauce
+  en_name: 'TODO: Fischsauce'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Zucker
+  en_name: 'TODO: Zucker'
+  qty: 1
+  unit: TL
+  category: Konserven und Vorrat
+- de_name: Erdnussöl
+  en_name: 'TODO: Erdnussöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Wasser oder heller Geflügelfond
+  en_name: 'TODO: Wasser oder heller Geflügelfond'
+  qty: 800
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Schwarzer Pfeffer, gemahlen
+  en_name: 'TODO: Schwarzer Pfeffer, gemahlen'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Fischfilet in 5-cm-Stücke schneiden, mit Pfeffer und 1 TL Fischsauce würzen. Tomaten in Spalten, Ananas in Stücke, Okra schräg in Scheiben schneiden.
+- Öl im Topf erhitzen. Knoblauch 30 Sekunden anbraten.
+- Wasser oder Fond angießen und aufkochen. Tamarindenpaste einrühren.
+- Tomatenspalten und Ananasstücke zugeben. 5 Minuten köcheln.
+- |-
+  Mit Fischsauce und Zucker abschmecken – die Suppe soll deutlich sauer, salzig und leicht süß sein.
+- Fischstücke und Okra zugeben und 5–6 Minuten sanft gar ziehen lassen.
+- Sojasprossen und Frühlingszwiebeln einrühren. 1 Minute ziehen lassen.
+- Mit Koriander und frischer Chili garnieren. Heiß servieren.
+en_steps:
+- |-
+  TODO: Fischfilet in 5-cm-Stücke schneiden, mit Pfeffer und 1 TL Fischsauce würzen. Tomaten in Spalten, Ananas in Stücke, Okra schräg in Scheiben schneiden.
+- 'TODO: Öl im Topf erhitzen. Knoblauch 30 Sekunden anbraten.'
+- 'TODO: Wasser oder Fond angießen und aufkochen. Tamarindenpaste einrühren.'
+- 'TODO: Tomatenspalten und Ananasstücke zugeben. 5 Minuten köcheln.'
+- |-
+  TODO: Mit Fischsauce und Zucker abschmecken – die Suppe soll deutlich sauer, salzig und leicht süß sein.
+- 'TODO: Fischstücke und Okra zugeben und 5–6 Minuten sanft gar ziehen lassen.'
+- 'TODO: Sojasprossen und Frühlingszwiebeln einrühren. 1 Minute ziehen lassen.'
+- 'TODO: Mit Koriander und frischer Chili garnieren. Heiß servieren.'

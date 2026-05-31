@@ -1,0 +1,123 @@
+id: teriyaki_chicken_rice
+pool: lunch
+healthy: false
+quick: true
+next_day: false
+quick_minutes: 30
+meals: 2
+de:
+  title: Teriyaki-Hähnchen mit Reis und Brokkoli
+  summary: |-
+    Saftige Hähnchenschenkel in hausgemachter Teriyaki-Glasur, serviert mit Jasminreis und knackigem Brokkoli.
+en:
+  title: 'TODO: Teriyaki-Hähnchen mit Reis und Brokkoli'
+  summary: |-
+    TODO: Saftige Hähnchenschenkel in hausgemachter Teriyaki-Glasur, serviert mit Jasminreis und knackigem Brokkoli.
+ingredients:
+- de_name: Hähnchenschenkel (ausgelöst, mit Haut)
+  en_name: 'TODO: Hähnchenschenkel (ausgelöst, mit Haut)'
+  qty: 900
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Brokkoli
+  en_name: 'TODO: Brokkoli'
+  qty: 500
+  unit: g
+  category: Gemüse und Salat
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 3
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Ingwer (frisch)
+  en_name: 'TODO: Ingwer (frisch)'
+  qty: 20
+  unit: g
+  category: Gemüse und Salat
+- de_name: Jasminreis
+  en_name: 'TODO: Jasminreis'
+  qty: 400
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Sojasoße
+  en_name: 'TODO: Sojasoße'
+  qty: 80
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Mirin
+  en_name: 'TODO: Mirin'
+  qty: 60
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Sake
+  en_name: 'TODO: Sake'
+  qty: 40
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Sesamöl
+  en_name: 'TODO: Sesamöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Pflanzenöl
+  en_name: 'TODO: Pflanzenöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Zucker
+  en_name: 'TODO: Zucker'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Speisestärke
+  en_name: 'TODO: Speisestärke'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sesamkörner (weiß)
+  en_name: 'TODO: Sesamkörner (weiß)'
+  qty: 2
+  unit: EL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer (gemahlen)
+  en_name: 'TODO: Schwarzer Pfeffer (gemahlen)'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Reis waschen und mit 700 ml Wasser aufkochen, dann bei niedrigster Stufe 15 Minuten garen und 10 Minuten quellen lassen.
+- |-
+  Knoblauch und Ingwer fein reiben. Sojasoße, Mirin, Sake, Zucker, Knoblauch und Ingwer verrühren. 2 EL der Marinade abnehmen und mit der Speisestärke verrühren.
+- |-
+  Hähnchenschenkel in der Marinade 20 Minuten einlegen. Fleisch aus der Marinade nehmen und trocken tupfen.
+- |-
+  Pflanzenöl in einer großen Pfanne bei mittlerer bis hoher Hitze erhitzen. Hähnchen mit Haut nach unten 5–6 Minuten goldbraun anbraten, wenden und weitere 5 Minuten garen.
+- |-
+  Restliche Marinade in die Pfanne gießen und mit der Stärkelösung einrühren. Hähnchen 3–4 Minuten glasieren, bis die Soße dickflüssig glänzt.
+- |-
+  Brokkoli in Röschen zerteilen und 3 Minuten in kochendem Salzwasser blanchieren, dann kalt abschrecken.
+- Brokkoli mit Sesamöl und schwarzem Pfeffer schwenken.
+- |-
+  Hähnchen in Scheiben schneiden. Mit Reis und Brokkoli anrichten, mit Sesamkörnern und geschnittenen Frühlingszwiebeln garnieren.
+en_steps:
+- |-
+  TODO: Reis waschen und mit 700 ml Wasser aufkochen, dann bei niedrigster Stufe 15 Minuten garen und 10 Minuten quellen lassen.
+- |-
+  TODO: Knoblauch und Ingwer fein reiben. Sojasoße, Mirin, Sake, Zucker, Knoblauch und Ingwer verrühren. 2 EL der Marinade abnehmen und mit der Speisestärke verrühren.
+- |-
+  TODO: Hähnchenschenkel in der Marinade 20 Minuten einlegen. Fleisch aus der Marinade nehmen und trocken tupfen.
+- |-
+  TODO: Pflanzenöl in einer großen Pfanne bei mittlerer bis hoher Hitze erhitzen. Hähnchen mit Haut nach unten 5–6 Minuten goldbraun anbraten, wenden und weitere 5 Minuten garen.
+- |-
+  TODO: Restliche Marinade in die Pfanne gießen und mit der Stärkelösung einrühren. Hähnchen 3–4 Minuten glasieren, bis die Soße dickflüssig glänzt.
+- |-
+  TODO: Brokkoli in Röschen zerteilen und 3 Minuten in kochendem Salzwasser blanchieren, dann kalt abschrecken.
+- 'TODO: Brokkoli mit Sesamöl und schwarzem Pfeffer schwenken.'
+- |-
+  TODO: Hähnchen in Scheiben schneiden. Mit Reis und Brokkoli anrichten, mit Sesamkörnern und geschnittenen Frühlingszwiebeln garnieren.

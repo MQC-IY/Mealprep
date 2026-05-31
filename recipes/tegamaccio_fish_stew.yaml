@@ -1,0 +1,121 @@
+id: tegamaccio_fish_stew
+pool: lunch
+healthy: true
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Tegamaccio – Umbrischer Fischeintopf
+  summary: |-
+    Traditioneller umbrischer Fischeintopf aus dem Trasimenischen See mit mehreren Fischarten, Weißwein, Tomaten, Salbei und Knoblauch.
+en:
+  title: 'TODO: Tegamaccio – Umbrischer Fischeintopf'
+  summary: |-
+    TODO: Traditioneller umbrischer Fischeintopf aus dem Trasimenischen See mit mehreren Fischarten, Weißwein, Tomaten, Salbei und Knoblauch.
+ingredients:
+- de_name: Kabeljaufilet
+  en_name: 'TODO: Kabeljaufilet'
+  qty: 300
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Lachsfilet
+  en_name: 'TODO: Lachsfilet'
+  qty: 200
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Tintenfischringe (TK)
+  en_name: 'TODO: Tintenfischringe (TK)'
+  qty: 150
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Geschälte Tomaten aus der Dose
+  en_name: 'TODO: Geschälte Tomaten aus der Dose'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Trockener Weißwein
+  en_name: 'TODO: Trockener Weißwein'
+  qty: 150
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Fischbrühe oder Gemüsebrühe
+  en_name: 'TODO: Fischbrühe oder Gemüsebrühe'
+  qty: 300
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Frischer Salbei
+  en_name: 'TODO: Frischer Salbei'
+  qty: 6
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Frische Petersilie
+  en_name: 'TODO: Frische Petersilie'
+  qty: 0.5
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 4
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Peperoncino gemahlen
+  en_name: 'TODO: Peperoncino gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Geröstetes Brot zum Servieren
+  en_name: 'TODO: Geröstetes Brot zum Servieren'
+  qty: 4
+  unit: Stk
+  category: Kohlenhydrate und Sattmacher
+de_steps:
+- |-
+  Fischfilets in ca. 4 cm große Stücke schneiden. Tintenfischringe auftauen, trocken tupfen. Zwiebel fein würfeln, Knoblauch in Scheiben schneiden.
+- |-
+  Olivenöl in einem schweren Topf bei mittlerer Hitze erwärmen. Salbeiblätter einlegen und 1 Minute knusprig frittieren. Salbei herausnehmen und beiseitestellen.
+- |-
+  Zwiebel im Salbeiöl 5 Minuten anschwitzen. Knoblauch und Peperoncino dazugeben, 1 Minute weiterbraten.
+- |-
+  Tintenfischringe einlegen und 3–4 Minuten mitbraten. Mit Weißwein ablöschen, 2 Minuten stark einkochen.
+- Tomaten (zerdrückt) und Brühe dazugeben. 15 Minuten bei mittlerer Hitze köcheln.
+- |-
+  Fischstücke vorsichtig einlegen. Zugedeckt bei niedriger Hitze 8–10 Minuten sanft garen.
+- |-
+  Mit Salz und Pfeffer abschmecken. Mit gehackter Petersilie und dem frittiertem Salbei bestreuen.
+- In tiefen Tellern über geröstetem Brot anrichten.
+en_steps:
+- |-
+  TODO: Fischfilets in ca. 4 cm große Stücke schneiden. Tintenfischringe auftauen, trocken tupfen. Zwiebel fein würfeln, Knoblauch in Scheiben schneiden.
+- |-
+  TODO: Olivenöl in einem schweren Topf bei mittlerer Hitze erwärmen. Salbeiblätter einlegen und 1 Minute knusprig frittieren. Salbei herausnehmen und beiseitestellen.
+- |-
+  TODO: Zwiebel im Salbeiöl 5 Minuten anschwitzen. Knoblauch und Peperoncino dazugeben, 1 Minute weiterbraten.
+- |-
+  TODO: Tintenfischringe einlegen und 3–4 Minuten mitbraten. Mit Weißwein ablöschen, 2 Minuten stark einkochen.
+- |-
+  TODO: Tomaten (zerdrückt) und Brühe dazugeben. 15 Minuten bei mittlerer Hitze köcheln.
+- |-
+  TODO: Fischstücke vorsichtig einlegen. Zugedeckt bei niedriger Hitze 8–10 Minuten sanft garen.
+- |-
+  TODO: Mit Salz und Pfeffer abschmecken. Mit gehackter Petersilie und dem frittiertem Salbei bestreuen.
+- 'TODO: In tiefen Tellern über geröstetem Brot anrichten.'

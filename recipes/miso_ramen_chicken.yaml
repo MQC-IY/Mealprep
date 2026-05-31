@@ -1,0 +1,138 @@
+id: miso_ramen_chicken
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Miso-Ramen mit Hähnchen und Gemüse
+  summary: |-
+    Reichhaltiger Miso-Ramen-Brühentopf mit zartem Hähnchen, Ramen-Nudeln, weichem Ei und frischem Gemüse.
+en:
+  title: 'TODO: Miso-Ramen mit Hähnchen und Gemüse'
+  summary: |-
+    TODO: Reichhaltiger Miso-Ramen-Brühentopf mit zartem Hähnchen, Ramen-Nudeln, weichem Ei und frischem Gemüse.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 600
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Eier
+  en_name: 'TODO: Eier'
+  qty: 4
+  unit: Stk
+  category: Protein und Milchprodukte
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Ingwer (frisch)
+  en_name: 'TODO: Ingwer (frisch)'
+  qty: 30
+  unit: g
+  category: Gemüse und Salat
+- de_name: Shiitake-Pilze (frisch oder getrocknet)
+  en_name: 'TODO: Shiitake-Pilze (frisch oder getrocknet)'
+  qty: 150
+  unit: g
+  category: Gemüse und Salat
+- de_name: Pak Choi
+  en_name: 'TODO: Pak Choi'
+  qty: 300
+  unit: g
+  category: Gemüse und Salat
+- de_name: Maiskolben (Baby)
+  en_name: 'TODO: Maiskolben (Baby)'
+  qty: 150
+  unit: g
+  category: Gemüse und Salat
+- de_name: Ramen-Nudeln (getrocknet)
+  en_name: 'TODO: Ramen-Nudeln (getrocknet)'
+  qty: 360
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Shiro-Miso (helle Misopaste)
+  en_name: 'TODO: Shiro-Miso (helle Misopaste)'
+  qty: 5
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Aka-Miso (dunkle Misopaste)
+  en_name: 'TODO: Aka-Miso (dunkle Misopaste)'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 1.5
+  unit: Liter
+  category: Konserven und Vorrat
+- de_name: Sojasoße
+  en_name: 'TODO: Sojasoße'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sesamöl
+  en_name: 'TODO: Sesamöl'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sake
+  en_name: 'TODO: Sake'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Pflanzenöl
+  en_name: 'TODO: Pflanzenöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Sesamkörner
+  en_name: 'TODO: Sesamkörner'
+  qty: 1
+  unit: EL
+  category: Gewürze
+- de_name: Togarashi (japanisches Chilipulver)
+  en_name: 'TODO: Togarashi (japanisches Chilipulver)'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Eier in kochendes Wasser legen, genau 7 Minuten garen, kalt abschrecken und pellen. In 50 ml Sojasoße + 50 ml Wasser + 1 EL Sake mindestens 30 Minuten einlegen.
+- |-
+  Knoblauch und Ingwer fein hacken. In einem großen Topf Pflanzenöl erhitzen, Knoblauch und Ingwer 2 Minuten anbraten.
+- |-
+  Sake und Hühnerbrühe angießen, aufkochen. Hähnchenbrust einlegen und bei mittlerer Hitze 15 Minuten pochieren. Hähnchen herausnehmen und mit zwei Gabeln zerzupfen.
+- |-
+  Miso-Pasten in einer kleinen Schüssel mit etwas heißer Brühe glatt rühren, dann in den Topf geben. Sojasoße und Sesamöl einrühren. Nicht mehr kochen lassen.
+- |-
+  Shiitake-Pilze und Babymais in die Brühe geben und 5 Minuten ziehen lassen. Pak Choi-Hälften 2 Minuten mitgaren.
+- Ramen-Nudeln nach Packungsanweisung in separatem Wasser garen, abgießen.
+- |-
+  Nudeln in tiefe Schalen verteilen, heiße Miso-Brühe darübergießen. Mit Hähnchen, Pak Choi, Pilzen, halbiertem Marinierten Ei und Frühlingszwiebeln anrichten. Mit Togarashi und Sesamkörnern bestreuen.
+en_steps:
+- |-
+  TODO: Eier in kochendes Wasser legen, genau 7 Minuten garen, kalt abschrecken und pellen. In 50 ml Sojasoße + 50 ml Wasser + 1 EL Sake mindestens 30 Minuten einlegen.
+- |-
+  TODO: Knoblauch und Ingwer fein hacken. In einem großen Topf Pflanzenöl erhitzen, Knoblauch und Ingwer 2 Minuten anbraten.
+- |-
+  TODO: Sake und Hühnerbrühe angießen, aufkochen. Hähnchenbrust einlegen und bei mittlerer Hitze 15 Minuten pochieren. Hähnchen herausnehmen und mit zwei Gabeln zerzupfen.
+- |-
+  TODO: Miso-Pasten in einer kleinen Schüssel mit etwas heißer Brühe glatt rühren, dann in den Topf geben. Sojasoße und Sesamöl einrühren. Nicht mehr kochen lassen.
+- |-
+  TODO: Shiitake-Pilze und Babymais in die Brühe geben und 5 Minuten ziehen lassen. Pak Choi-Hälften 2 Minuten mitgaren.
+- 'TODO: Ramen-Nudeln nach Packungsanweisung in separatem Wasser garen, abgießen.'
+- |-
+  TODO: Nudeln in tiefe Schalen verteilen, heiße Miso-Brühe darübergießen. Mit Hähnchen, Pak Choi, Pilzen, halbiertem Marinierten Ei und Frühlingszwiebeln anrichten. Mit Togarashi und Sesamkörnern bestreuen.

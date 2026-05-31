@@ -1,0 +1,124 @@
+id: chicken_kofta_tabbouleh
+pool: lunch
+healthy: true
+quick: false
+next_day: false
+meals: 2
+de:
+  title: Hähnchen-Kofta mit Granatapfel-Tabbouleh
+  summary: |-
+    Würzige Hähnchenhack-Kofta mit Petersilie, Minze und Allspice, auf leuchtendem Bulgur-Tabbouleh mit Granatapfelkernen und Tahini-Zitronen-Dressing.
+en:
+  title: 'TODO: Hähnchen-Kofta mit Granatapfel-Tabbouleh'
+  summary: |-
+    TODO: Würzige Hähnchenhack-Kofta mit Petersilie, Minze und Allspice, auf leuchtendem Bulgur-Tabbouleh mit Granatapfelkernen und Tahini-Zitronen-Dressing.
+ingredients:
+- de_name: Hähnchenhack
+  en_name: 'TODO: Hähnchenhack'
+  qty: 750
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Bulgur, fein
+  en_name: 'TODO: Bulgur, fein'
+  qty: 250
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Petersilie, frisch
+  en_name: 'TODO: Petersilie, frisch'
+  qty: 2
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Minze, frisch
+  en_name: 'TODO: Minze, frisch'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Tomate
+  en_name: 'TODO: Tomate'
+  qty: 4
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Frühlingszwiebeln
+  en_name: 'TODO: Frühlingszwiebeln'
+  qty: 5
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 3
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Granatapfelkerne
+  en_name: 'TODO: Granatapfelkerne'
+  qty: 100
+  unit: g
+  category: Obst
+- de_name: Tahini
+  en_name: 'TODO: Tahini'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 4
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Zitrone
+  en_name: 'TODO: Zitrone'
+  qty: 3
+  unit: Stk
+  category: Obst
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Koriander, gemahlen
+  en_name: 'TODO: Koriander, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Piment, gemahlen
+  en_name: 'TODO: Piment, gemahlen'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Zimt, gemahlen
+  en_name: 'TODO: Zimt, gemahlen'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Sumach
+  en_name: 'TODO: Sumach'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Bulgur mit kochendem Salzwasser (gleiches Volumen) übergießen, 15 Minuten quellen lassen, abkühlen.
+- |-
+  Petersilie und Minze sehr fein hacken. Tomaten und Frühlingszwiebeln klein würfeln. Alles mit Bulgur mischen.
+- |-
+  Tabbouleh mit Olivenöl, Zitronensaft, Sumach und Salz abschmecken. Granatapfelkerne unterheben.
+- |-
+  Hähnchenhack mit Kreuzkümmel, Koriander, Piment, Zimt, Chiliflocken, Knoblauch, frischer Petersilie und Minze verkneten. Auf Spieße formen oder flache Bällchen formen.
+- Kofta in einer heißen Grillpfanne 4–5 Minuten je Seite garen.
+- |-
+  Tahini-Dressing: Tahini mit Zitronensaft, etwas Wasser und Salz cremig rühren. Kofta auf Tabbouleh anrichten, Tahini darüber.
+en_steps:
+- |-
+  TODO: Bulgur mit kochendem Salzwasser (gleiches Volumen) übergießen, 15 Minuten quellen lassen, abkühlen.
+- |-
+  TODO: Petersilie und Minze sehr fein hacken. Tomaten und Frühlingszwiebeln klein würfeln. Alles mit Bulgur mischen.
+- |-
+  TODO: Tabbouleh mit Olivenöl, Zitronensaft, Sumach und Salz abschmecken. Granatapfelkerne unterheben.
+- |-
+  TODO: Hähnchenhack mit Kreuzkümmel, Koriander, Piment, Zimt, Chiliflocken, Knoblauch, frischer Petersilie und Minze verkneten. Auf Spieße formen oder flache Bällchen formen.
+- 'TODO: Kofta in einer heißen Grillpfanne 4–5 Minuten je Seite garen.'
+- |-
+  TODO: Tahini-Dressing: Tahini mit Zitronensaft, etwas Wasser und Salz cremig rühren. Kofta auf Tabbouleh anrichten, Tahini darüber.

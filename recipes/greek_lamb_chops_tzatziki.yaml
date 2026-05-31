@@ -1,0 +1,111 @@
+id: greek_lamb_chops_tzatziki
+pool: lunch
+healthy: false
+quick: false
+next_day: false
+meals: 2
+de:
+  title: Griechische Lammkoteletts mit Tzatziki und Pita
+  summary: |-
+    In Olivenöl, Knoblauch und Oregano marinierte Lammkoteletts, scharf gegrillt und mit cremigem Kräutertzatziki und warmem Fladenbrot serviert.
+en:
+  title: 'TODO: Griechische Lammkoteletts mit Tzatziki und Pita'
+  summary: |-
+    TODO: In Olivenöl, Knoblauch und Oregano marinierte Lammkoteletts, scharf gegrillt und mit cremigem Kräutertzatziki und warmem Fladenbrot serviert.
+ingredients:
+- de_name: Lammkoteletts
+  en_name: 'TODO: Lammkoteletts'
+  qty: 1200
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Griechischer Vollmilchjoghurt
+  en_name: 'TODO: Griechischer Vollmilchjoghurt'
+  qty: 500
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Salatgurke
+  en_name: 'TODO: Salatgurke'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Pita-Fladenbrot
+  en_name: 'TODO: Pita-Fladenbrot'
+  qty: 8
+  unit: Stk
+  category: Kohlenhydrate und Sattmacher
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 8
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 6
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Getrockneter Oregano
+  en_name: 'TODO: Getrockneter Oregano'
+  qty: 2
+  unit: EL
+  category: Gewürze
+- de_name: Frischer Rosmarin
+  en_name: 'TODO: Frischer Rosmarin'
+  qty: 4
+  unit: Stk
+  category: Gewürze
+- de_name: Frische Minze
+  en_name: 'TODO: Frische Minze'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Zitronen
+  en_name: 'TODO: Zitronen'
+  qty: 2
+  unit: Stk
+  category: Obst
+- de_name: Weißweinessig
+  en_name: 'TODO: Weißweinessig'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Paprikapulver
+  en_name: 'TODO: Paprikapulver'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Marinade anrühren: 5 EL Olivenöl, Saft einer Zitrone, 4 zerdrückte Knoblauchzehen, Oregano, fein gehackter Rosmarin, Paprika, Salz und Pfeffer verrühren. Lammkoteletts in einer flachen Form damit einreiben und mindestens 30 Minuten (oder bis zu 4 Stunden) marinieren.
+- |-
+  Für das Tzatziki die Gurke fein reiben, mit 1 TL Salz vermengen und 10 Minuten ziehen lassen. Gurke in einem Tuch kräftig ausdrücken. Joghurt, ausgepresste Gurke, 2 zerdrückte Knoblauchzehen, fein gehackte Minze, 2 EL Olivenöl, Weißweinessig sowie Saft der zweiten Zitrone verrühren. Mit Salz abschmecken und kalt stellen.
+- |-
+  Grillpfanne oder Außengrill auf höchste Stufe erhitzen, bis sie sehr heiß ist (Grillpfanne leicht einölen). Lammkoteletts aus der Marinade nehmen, überschüssige Marinade abtupfen.
+- |-
+  Koteletts 2–3 Minuten pro Seite grillen für medium-rare (Kerntemperatur ca. 60 °C). Für die typischen Grillstreifen Koteletts nach 1,5 Minuten um 90 Grad drehen. Vom Grill nehmen und 3 Minuten ruhen lassen.
+- |-
+  Pita-Brote in einer trockenen Pfanne oder direkt auf dem Grill je 1 Minute pro Seite erwärmen, bis sie leicht angebräunt sind.
+- |-
+  Lammkoteletts und warme Pitas auf einer großen Platte anrichten. Tzatziki in einer Schale danebensetzen, mit gehackter Minze und einem Spritzer Olivenöl beträufeln. Mit Zitronenspalten garnieren und sofort servieren.
+en_steps:
+- |-
+  TODO: Marinade anrühren: 5 EL Olivenöl, Saft einer Zitrone, 4 zerdrückte Knoblauchzehen, Oregano, fein gehackter Rosmarin, Paprika, Salz und Pfeffer verrühren. Lammkoteletts in einer flachen Form damit einreiben und mindestens 30 Minuten (oder bis zu 4 Stunden) marinieren.
+- |-
+  TODO: Für das Tzatziki die Gurke fein reiben, mit 1 TL Salz vermengen und 10 Minuten ziehen lassen. Gurke in einem Tuch kräftig ausdrücken. Joghurt, ausgepresste Gurke, 2 zerdrückte Knoblauchzehen, fein gehackte Minze, 2 EL Olivenöl, Weißweinessig sowie Saft der zweiten Zitrone verrühren. Mit Salz abschmecken und kalt stellen.
+- |-
+  TODO: Grillpfanne oder Außengrill auf höchste Stufe erhitzen, bis sie sehr heiß ist (Grillpfanne leicht einölen). Lammkoteletts aus der Marinade nehmen, überschüssige Marinade abtupfen.
+- |-
+  TODO: Koteletts 2–3 Minuten pro Seite grillen für medium-rare (Kerntemperatur ca. 60 °C). Für die typischen Grillstreifen Koteletts nach 1,5 Minuten um 90 Grad drehen. Vom Grill nehmen und 3 Minuten ruhen lassen.
+- |-
+  TODO: Pita-Brote in einer trockenen Pfanne oder direkt auf dem Grill je 1 Minute pro Seite erwärmen, bis sie leicht angebräunt sind.
+- |-
+  TODO: Lammkoteletts und warme Pitas auf einer großen Platte anrichten. Tzatziki in einer Schale danebensetzen, mit gehackter Minze und einem Spritzer Olivenöl beträufeln. Mit Zitronenspalten garnieren und sofort servieren.

@@ -1,0 +1,123 @@
+id: chicken_mole_rojo
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 3
+de:
+  title: Mexikanischer Hähnchen-Mole Rojo
+  summary: |-
+    Tiefgründige mexikanische Mole-Sauce aus Ancho-Chilis, dunkler Schokolade, Sesam, Gewürzen und Tomaten – über zartem, geschmortem Hähnchen.
+en:
+  title: 'TODO: Mexikanischer Hähnchen-Mole Rojo'
+  summary: |-
+    TODO: Tiefgründige mexikanische Mole-Sauce aus Ancho-Chilis, dunkler Schokolade, Sesam, Gewürzen und Tomaten – über zartem, geschmortem Hähnchen.
+ingredients:
+- de_name: Hähnchenschenkel mit Knochen
+  en_name: 'TODO: Hähnchenschenkel mit Knochen'
+  qty: 1200
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Zartbitterschokolade (70 %)
+  en_name: 'TODO: Zartbitterschokolade (70 %)'
+  qty: 40
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Gehackte Tomaten
+  en_name: 'TODO: Gehackte Tomaten'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 400
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Rapsöl
+  en_name: 'TODO: Rapsöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Basmatireis
+  en_name: 'TODO: Basmatireis'
+  qty: 300
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Zwiebel
+  en_name: 'TODO: Zwiebel'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauch
+  en_name: 'TODO: Knoblauch'
+  qty: 5
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Koriander, frisch
+  en_name: 'TODO: Koriander, frisch'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Sesam
+  en_name: 'TODO: Sesam'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Ancho-Chilipulver
+  en_name: 'TODO: Ancho-Chilipulver'
+  qty: 4
+  unit: TL
+  category: Gewürze
+- de_name: Chipotle-Chilipulver
+  en_name: 'TODO: Chipotle-Chilipulver'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Zimt, gemahlen
+  en_name: 'TODO: Zimt, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Koriander, gemahlen
+  en_name: 'TODO: Koriander, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Nelken, gemahlen
+  en_name: 'TODO: Nelken, gemahlen'
+  qty: 0.25
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Hähnchenstücke salzen. Öl in einem Schmortopf bei hoher Hitze erhitzen. Hähnchen rundherum goldbraun anbraten, herausnehmen.
+- |-
+  Zwiebeln fein würfeln, in demselben Topf 5 Minuten anschwitzen. Knoblauch zugeben, 1 Minute mitrösten.
+- |-
+  Sesam in einer trockenen Pfanne kurz goldbraun rösten. Ancho-Chilipulver, Chipotle-Chilipulver, Kreuzkümmel, Zimt, gemahlenen Koriander und Nelken zum Topf geben und 1 Minute trocken rösten.
+- |-
+  Gehackte Tomaten, Hühnerbrühe, gerösteten Sesam und die zerbrochene Schokolade zugeben. Aufkochen und unter Rühren die Schokolade vollständig schmelzen lassen.
+- Sauce mit Stabmixer glatt pürieren. Mit Salz abschmecken.
+- |-
+  Hähnchenstücke zurück in die Sauce legen, Deckel drauf und bei niedriger Hitze 35–40 Minuten schmoren, bis das Hähnchen sehr zart ist.
+- |-
+  Reis kochen. Mole mit Reis servieren, mit frischem Koriander und geröstetem Sesam garnieren.
+en_steps:
+- |-
+  TODO: Hähnchenstücke salzen. Öl in einem Schmortopf bei hoher Hitze erhitzen. Hähnchen rundherum goldbraun anbraten, herausnehmen.
+- |-
+  TODO: Zwiebeln fein würfeln, in demselben Topf 5 Minuten anschwitzen. Knoblauch zugeben, 1 Minute mitrösten.
+- |-
+  TODO: Sesam in einer trockenen Pfanne kurz goldbraun rösten. Ancho-Chilipulver, Chipotle-Chilipulver, Kreuzkümmel, Zimt, gemahlenen Koriander und Nelken zum Topf geben und 1 Minute trocken rösten.
+- |-
+  TODO: Gehackte Tomaten, Hühnerbrühe, gerösteten Sesam und die zerbrochene Schokolade zugeben. Aufkochen und unter Rühren die Schokolade vollständig schmelzen lassen.
+- 'TODO: Sauce mit Stabmixer glatt pürieren. Mit Salz abschmecken.'
+- |-
+  TODO: Hähnchenstücke zurück in die Sauce legen, Deckel drauf und bei niedriger Hitze 35–40 Minuten schmoren, bis das Hähnchen sehr zart ist.
+- |-
+  TODO: Reis kochen. Mole mit Reis servieren, mit frischem Koriander und geröstetem Sesam garnieren.

@@ -1,0 +1,126 @@
+id: kafta_tomato_potato
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Libanesischer Kafta-Topf mit Tomaten und Kartoffeln
+  summary: |-
+    Würzige Hackfleisch-Rollen mit Kartoffeln und Tomaten in einer aromatischen Sauce geschmort – ein gemütlicher levantinischer Auflauf.
+en:
+  title: 'TODO: Libanesischer Kafta-Topf mit Tomaten und Kartoffeln'
+  summary: |-
+    TODO: Würzige Hackfleisch-Rollen mit Kartoffeln und Tomaten in einer aromatischen Sauce geschmort – ein gemütlicher levantinischer Auflauf.
+ingredients:
+- de_name: Rinderhackfleisch
+  en_name: 'TODO: Rinderhackfleisch'
+  qty: 500
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Kartoffeln, festkochend
+  en_name: 'TODO: Kartoffeln, festkochend'
+  qty: 500
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Zwiebeln
+  en_name: 'TODO: Zwiebeln'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Tomate
+  en_name: 'TODO: Tomate'
+  qty: 4
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 3
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Frische Petersilie
+  en_name: 'TODO: Frische Petersilie'
+  qty: 1
+  unit: Bund
+  category: Gemüse und Salat
+- de_name: Grüne Paprika
+  en_name: 'TODO: Grüne Paprika'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Gehackte Tomaten
+  en_name: 'TODO: Gehackte Tomaten'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Tomatenmark
+  en_name: 'TODO: Tomatenmark'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Hühnerbrühe
+  en_name: 'TODO: Hühnerbrühe'
+  qty: 200
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Allgewürz (Piment)
+  en_name: 'TODO: Allgewürz (Piment)'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Zimtpulver
+  en_name: 'TODO: Zimtpulver'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chilipulver
+  en_name: 'TODO: Chilipulver'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Hackfleisch mit fein gewürfelter halber Zwiebel, gehackter Petersilie, Allgewürz, Zimt, Kreuzkümmel, Chili, Salz und Pfeffer vermengen. Zu etwa 8 cm langen Rollen formen.
+- |-
+  Kartoffeln schälen und in dicke Scheiben schneiden. In Olivenöl bei hoher Hitze von beiden Seiten anbraten, bis goldbraun. Beiseitestellen.
+- |-
+  Kafta-Rollen in derselben Pfanne von allen Seiten anbraten (3–4 Minuten). Beiseitestellen.
+- |-
+  Restliche Zwiebel und Paprika würfeln, im Bratfett 5 Minuten weich dünsten. Knoblauch einrühren. Tomatenmark kurz rösten.
+- |-
+  Gehackte Tomaten und Hühnerbrühe hinzufügen. Frische Tomaten in Scheiben schneiden. Alle Zutaten in einen Auflauf schichten: Kartoffeln, Kafta, Tomatenscheiben, Sauce.
+- |-
+  Backofen auf 180°C vorheizen. Auflauf 35–40 Minuten backen, bis die Sauce eingedickt und alles durchgegart ist. Mit Petersilie bestreuen und mit Brot oder Reis servieren.
+en_steps:
+- |-
+  TODO: Hackfleisch mit fein gewürfelter halber Zwiebel, gehackter Petersilie, Allgewürz, Zimt, Kreuzkümmel, Chili, Salz und Pfeffer vermengen. Zu etwa 8 cm langen Rollen formen.
+- |-
+  TODO: Kartoffeln schälen und in dicke Scheiben schneiden. In Olivenöl bei hoher Hitze von beiden Seiten anbraten, bis goldbraun. Beiseitestellen.
+- |-
+  TODO: Kafta-Rollen in derselben Pfanne von allen Seiten anbraten (3–4 Minuten). Beiseitestellen.
+- |-
+  TODO: Restliche Zwiebel und Paprika würfeln, im Bratfett 5 Minuten weich dünsten. Knoblauch einrühren. Tomatenmark kurz rösten.
+- |-
+  TODO: Gehackte Tomaten und Hühnerbrühe hinzufügen. Frische Tomaten in Scheiben schneiden. Alle Zutaten in einen Auflauf schichten: Kartoffeln, Kafta, Tomatenscheiben, Sauce.
+- |-
+  TODO: Backofen auf 180°C vorheizen. Auflauf 35–40 Minuten backen, bis die Sauce eingedickt und alles durchgegart ist. Mit Petersilie bestreuen und mit Brot oder Reis servieren.

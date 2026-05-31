@@ -1,0 +1,116 @@
+id: patlican_musakka
+pool: lunch
+healthy: false
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Patlıcan Musakka – Türkische Auberginen-Moussaka
+  summary: |-
+    Saftige Auberginenschichten mit würzigem Rinderhackfleisch und Tomatensauce, überbacken – der türkische Klassiker ohne Béchamel.
+en:
+  title: 'TODO: Patlıcan Musakka – Türkische Auberginen-Moussaka'
+  summary: |-
+    TODO: Saftige Auberginenschichten mit würzigem Rinderhackfleisch und Tomatensauce, überbacken – der türkische Klassiker ohne Béchamel.
+ingredients:
+- de_name: Rinderhackfleisch
+  en_name: 'TODO: Rinderhackfleisch'
+  qty: 400
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Auberginen
+  en_name: 'TODO: Auberginen'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Tomaten
+  en_name: 'TODO: Tomaten'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Grüne Paprikaschote
+  en_name: 'TODO: Grüne Paprikaschote'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Zwiebeln
+  en_name: 'TODO: Zwiebeln'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Gehackte Tomaten
+  en_name: 'TODO: Gehackte Tomaten'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Tomatenmark
+  en_name: 'TODO: Tomatenmark'
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 5
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Pul Biber (Aleppo-Pfeffer)
+  en_name: 'TODO: Pul Biber (Aleppo-Pfeffer)'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Paprikapulver, süß
+  en_name: 'TODO: Paprikapulver, süß'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Schwarzer Pfeffer
+  en_name: 'TODO: Schwarzer Pfeffer'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Getrockneter Oregano
+  en_name: 'TODO: Getrockneter Oregano'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Zimt, gemahlen
+  en_name: 'TODO: Zimt, gemahlen'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Auberginen längs in 1 cm dicke Scheiben schneiden. Mit Salz bestreuen und 20 Minuten Wasser ziehen lassen. Abspülen und trocken tupfen.
+- |-
+  Auberginenscheiben auf beiden Seiten mit Olivenöl (3 EL) bepinseln und in einer Grillpfanne oder im Ofen bei 220 °C auf einem Blech 15 Minuten grillen, bis sie goldbraun sind.
+- |-
+  Restliches Olivenöl erhitzen. Zwiebeln würfeln und 5 Minuten glasig dünsten. Rinderhack hinzufügen und krümelig braun anbraten. Knoblauch, Paprikapulver, Pul Biber, Pfeffer, Zimt einarbeiten.
+- |-
+  Tomatenmark unterrühren, 1 Minute rösten. Gehackte Tomaten und 50 ml Wasser hinzufügen. Mit Salz abschmecken, 10 Minuten einkochen lassen.
+- |-
+  Ofen auf 200 °C vorheizen. Eine Auflaufform fetten. Schichten aufbauen: Auberginenscheiben, dann Fleischsauce, nochmals Auberginen. Obenauf Tomatenscheiben und Paprikastreifen legen. Oregano darüber streuen.
+- |-
+  Auflauf 30 Minuten backen, bis die Oberfläche leicht gebräunt ist. 10 Minuten ruhen lassen, dann servieren.
+en_steps:
+- |-
+  TODO: Auberginen längs in 1 cm dicke Scheiben schneiden. Mit Salz bestreuen und 20 Minuten Wasser ziehen lassen. Abspülen und trocken tupfen.
+- |-
+  TODO: Auberginenscheiben auf beiden Seiten mit Olivenöl (3 EL) bepinseln und in einer Grillpfanne oder im Ofen bei 220 °C auf einem Blech 15 Minuten grillen, bis sie goldbraun sind.
+- |-
+  TODO: Restliches Olivenöl erhitzen. Zwiebeln würfeln und 5 Minuten glasig dünsten. Rinderhack hinzufügen und krümelig braun anbraten. Knoblauch, Paprikapulver, Pul Biber, Pfeffer, Zimt einarbeiten.
+- |-
+  TODO: Tomatenmark unterrühren, 1 Minute rösten. Gehackte Tomaten und 50 ml Wasser hinzufügen. Mit Salz abschmecken, 10 Minuten einkochen lassen.
+- |-
+  TODO: Ofen auf 200 °C vorheizen. Eine Auflaufform fetten. Schichten aufbauen: Auberginenscheiben, dann Fleischsauce, nochmals Auberginen. Obenauf Tomatenscheiben und Paprikastreifen legen. Oregano darüber streuen.
+- |-
+  TODO: Auflauf 30 Minuten backen, bis die Oberfläche leicht gebräunt ist. 10 Minuten ruhen lassen, dann servieren.

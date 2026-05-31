@@ -1,0 +1,57 @@
+id: chicken_carrot_quinoa_bowl
+pool: lunch
+healthy: true
+quick: true
+next_day: false
+quick_minutes: 30
+meals: 3
+de:
+  title: Hähnchen-Quinoa-Bowl mit Möhren
+  summary: Leichte Bowl mit Hähnchen, Quinoa, Möhren und Gurke.
+en:
+  title: 'TODO: Hähnchen-Quinoa-Bowl mit Möhren'
+  summary: 'TODO: Leichte Bowl mit Hähnchen, Quinoa, Möhren und Gurke.'
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 750
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Quinoa
+  en_name: 'TODO: Quinoa'
+  qty: 280
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Möhren
+  en_name: 'TODO: Möhren'
+  qty: 3
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Gurke
+  en_name: 'TODO: Gurke'
+  qty: 1
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Naturjoghurt
+  en_name: 'TODO: Naturjoghurt'
+  qty: 120
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Chiliflocken
+  en_name: 'TODO: Chiliflocken'
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+de_steps:
+- Quinoa garen.
+- Hähnchen scharf anbraten und Möhren weich dünsten.
+- Gurke klein schneiden und etwas Joghurt verrühren.
+en_steps:
+- 'TODO: Quinoa garen.'
+- 'TODO: Hähnchen scharf anbraten und Möhren weich dünsten.'
+- 'TODO: Gurke klein schneiden und etwas Joghurt verrühren.'

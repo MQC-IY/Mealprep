@@ -1,0 +1,128 @@
+id: palak_chicken
+pool: lunch
+healthy: true
+quick: false
+next_day: true
+meals: 2
+de:
+  title: Palak Hähnchen – Hähnchen in Spinat-Curry
+  summary: |-
+    Saftiges Hähnchen geschmort in einer samtigen Spinat-Curry-Sauce mit frischen Gewürzen und cremigem Joghurt.
+en:
+  title: 'TODO: Palak Hähnchen – Hähnchen in Spinat-Curry'
+  summary: |-
+    TODO: Saftiges Hähnchen geschmort in einer samtigen Spinat-Curry-Sauce mit frischen Gewürzen und cremigem Joghurt.
+ingredients:
+- de_name: Hähnchenbrust
+  en_name: 'TODO: Hähnchenbrust'
+  qty: 600
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Vollfett-Joghurt
+  en_name: 'TODO: Vollfett-Joghurt'
+  qty: 120
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Blattspinat, frisch
+  en_name: 'TODO: Blattspinat, frisch'
+  qty: 400
+  unit: g
+  category: Gemüse und Salat
+- de_name: Zwiebeln
+  en_name: 'TODO: Zwiebeln'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 4
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Ingwer, frisch
+  en_name: 'TODO: Ingwer, frisch'
+  qty: 3
+  unit: cm
+  category: Gemüse und Salat
+- de_name: Grüne Chilischote
+  en_name: 'TODO: Grüne Chilischote'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Tomate
+  en_name: 'TODO: Tomate'
+  qty: 2
+  unit: Stk
+  category: Gemüse und Salat
+- de_name: Basmatireis
+  en_name: 'TODO: Basmatireis'
+  qty: 300
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Pflanzenöl
+  en_name: 'TODO: Pflanzenöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Garam Masala
+  en_name: 'TODO: Garam Masala'
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Kreuzkümmel, gemahlen
+  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Kurkuma
+  en_name: 'TODO: Kurkuma'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Koriander, gemahlen
+  en_name: 'TODO: Koriander, gemahlen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Chilipulver
+  en_name: 'TODO: Chilipulver'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Kreuzkümmelsamen
+  en_name: 'TODO: Kreuzkümmelsamen'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: 'TODO: Salz'
+  qty: 1
+  unit: TL
+  category: Gewürze
+de_steps:
+- |-
+  Hähnchen in Würfel schneiden, mit Joghurt, Kurkuma, Chilipulver und Salz marinieren. 30 Minuten ruhen lassen.
+- |-
+  Spinat kurz in kochendem Salzwasser blanchieren, abschrecken und mit grüner Chilischote im Mixer zu einem glatten Püree verarbeiten.
+- |-
+  Öl in einem Topf erhitzen, Kreuzkümmelsamen hineingeben und 30 Sekunden knistern lassen. Fein gewürfelte Zwiebeln goldbraun anbraten (ca. 8 Minuten).
+- |-
+  Knoblauch und Ingwer (fein gerieben) hinzufügen, 2 Minuten mitbraten. Gewürfelte Tomaten und alle gemahlenen Gewürze einrühren. 5 Minuten köcheln, bis die Tomaten zerfallen.
+- |-
+  Mariniertes Hähnchen dazugeben und bei mittlerer Hitze 8–10 Minuten anbraten, bis es fast gar ist.
+- |-
+  Spinat-Püree unterrühren, 150 ml Wasser hinzufügen. Alles zusammen 10 Minuten köcheln lassen. Mit Garam Masala und Salz abschmecken.
+- Basmatireis garen und gemeinsam mit dem Palak Hähnchen servieren.
+en_steps:
+- |-
+  TODO: Hähnchen in Würfel schneiden, mit Joghurt, Kurkuma, Chilipulver und Salz marinieren. 30 Minuten ruhen lassen.
+- |-
+  TODO: Spinat kurz in kochendem Salzwasser blanchieren, abschrecken und mit grüner Chilischote im Mixer zu einem glatten Püree verarbeiten.
+- |-
+  TODO: Öl in einem Topf erhitzen, Kreuzkümmelsamen hineingeben und 30 Sekunden knistern lassen. Fein gewürfelte Zwiebeln goldbraun anbraten (ca. 8 Minuten).
+- |-
+  TODO: Knoblauch und Ingwer (fein gerieben) hinzufügen, 2 Minuten mitbraten. Gewürfelte Tomaten und alle gemahlenen Gewürze einrühren. 5 Minuten köcheln, bis die Tomaten zerfallen.
+- |-
+  TODO: Mariniertes Hähnchen dazugeben und bei mittlerer Hitze 8–10 Minuten anbraten, bis es fast gar ist.
+- |-
+  TODO: Spinat-Püree unterrühren, 150 ml Wasser hinzufügen. Alles zusammen 10 Minuten köcheln lassen. Mit Garam Masala und Salz abschmecken.
+- 'TODO: Basmatireis garen und gemeinsam mit dem Palak Hähnchen servieren.'

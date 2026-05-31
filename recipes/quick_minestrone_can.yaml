@@ -1,0 +1,83 @@
+id: quick_minestrone_can
+pool: lunch
+healthy: true
+quick: true
+next_day: true
+quick_minutes: 20
+meals: 2
+de:
+  title: Schnelle Minestrone aus der Dose
+  summary: Kräftige Minestrone aus Dosengemüse, Bohnen und Nudeln in 20 Minuten.
+en:
+  title: 'TODO: Schnelle Minestrone aus der Dose'
+  summary: 'TODO: Kräftige Minestrone aus Dosengemüse, Bohnen und Nudeln in 20 Minuten.'
+ingredients:
+- de_name: Borlotti- oder Cannellinibohnen, abgetropft
+  en_name: 'TODO: Borlotti- oder Cannellinibohnen, abgetropft'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: Gehackte Tomaten
+  en_name: 'TODO: Gehackte Tomaten'
+  qty: 1
+  unit: Dose
+  category: Konserven und Vorrat
+- de_name: TK-Suppengemüse
+  en_name: 'TODO: TK-Suppengemüse'
+  qty: 400
+  unit: g
+  category: Gemüse und Salat
+- de_name: Gemüsebrühe
+  en_name: 'TODO: Gemüsebrühe'
+  qty: 1
+  unit: Liter
+  category: Konserven und Vorrat
+- de_name: Olivenöl
+  en_name: 'TODO: Olivenöl'
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Kleine Nudeln (z.B. Ditalini)
+  en_name: 'TODO: Kleine Nudeln (z.B. Ditalini)'
+  qty: 150
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Knoblauchzehen
+  en_name: 'TODO: Knoblauchzehen'
+  qty: 3
+  unit: Zehen
+  category: Gemüse und Salat
+- de_name: Parmesan-Rinde (optional)
+  en_name: 'TODO: Parmesan-Rinde (optional)'
+  qty: 1
+  unit: Stk
+  category: Protein und Milchprodukte
+- de_name: Oregano, getrocknet
+  en_name: 'TODO: Oregano, getrocknet'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Basilikum, getrocknet
+  en_name: 'TODO: Basilikum, getrocknet'
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Salz und Pfeffer
+  en_name: 'TODO: Salz und Pfeffer'
+  qty: 1
+  unit: Stk
+  category: Gewürze
+de_steps:
+- Knoblauch hacken und in Olivenöl 1 Minute anschwitzen.
+- |-
+  TK-Gemüse direkt einrühren, Oregano und Basilikum hinzufügen, 2 Minuten mitbraten.
+- Tomaten, Bohnen, Brühe und Parmesan-Rinde einrühren. Aufkochen.
+- |-
+  Nudeln hinzufügen und laut Packungsanweisung al dente kochen (ca. 8 Minuten). Parmesin-Rinde entfernen, mit Salz und Pfeffer abschmecken.
+en_steps:
+- 'TODO: Knoblauch hacken und in Olivenöl 1 Minute anschwitzen.'
+- |-
+  TODO: TK-Gemüse direkt einrühren, Oregano und Basilikum hinzufügen, 2 Minuten mitbraten.
+- 'TODO: Tomaten, Bohnen, Brühe und Parmesan-Rinde einrühren. Aufkochen.'
+- |-
+  TODO: Nudeln hinzufügen und laut Packungsanweisung al dente kochen (ca. 8 Minuten). Parmesin-Rinde entfernen, mit Salz und Pfeffer abschmecken.
