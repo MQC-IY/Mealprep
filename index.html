@@ -375,8 +375,8 @@ tailwind.config = {
 
           <div class="mx-auto max-w-5xl px-4 lg:px-8 pt-stack-lg">
 
-            <!-- Mode toggle -->
-            <div class="flex bg-surface-container rounded-xl p-1 gap-1 mb-stack-lg shadow-sm max-w-xs">
+            <!-- Mode toggle: left-aligned, fixed width -->
+            <div class="flex bg-surface-container rounded-xl p-1 gap-1 mb-stack-lg shadow-sm w-64">
               <button id="shop-tab-standard" onclick="switchShoppingMode('standard')"
                 class="flex-1 text-center py-2 rounded-lg font-label-md text-label-md transition-all">
                 Wochenplan
@@ -389,22 +389,15 @@ tailwind.config = {
 
             <!-- Progress (standard mode) -->
             <div id="shopping-progress-wrap" class="mb-stack-lg shrink-0">
-              <div class="flex justify-between items-end mb-stack-sm">
-                <div>
-                  <h2 class="font-display text-headline-md text-on-surface">Dein Einkauf</h2>
-                  <button id="einkauf-dessert-chip"
-                    class="hidden mt-1.5 font-label-sm text-label-sm text-on-surface-variant hover:text-primary transition-colors cursor-pointer"></button>
-                </div>
-                </div>
-                <div class="flex items-center gap-3">
-                  <span id="shopping-progress-label" class="font-label-md text-label-md text-on-surface-variant"></span>
-                  <button onclick="copyShoppingList()" aria-label="Einkaufsliste kopieren"
-                    class="w-8 h-8 flex items-center justify-center rounded-full hover:bg-surface-container-high active:scale-95 transition-all text-on-surface-variant"
-                    title="Als Text kopieren">
-                    <span class="material-symbols-outlined text-[20px]">content_copy</span>
-                  </button>
-                </div>
+              <div class="flex items-center justify-between mb-1">
+                <h2 class="font-display text-headline-md text-on-surface">Dein Einkauf</h2>
+                <button onclick="copyShoppingList()" aria-label="Einkaufsliste kopieren"
+                  class="w-8 h-8 flex items-center justify-center rounded-full hover:bg-surface-container-high active:scale-95 transition-all text-on-surface-variant"
+                  title="Als Text kopieren">
+                  <span class="material-symbols-outlined text-[20px]">content_copy</span>
+                </button>
               </div>
+              <span id="shopping-progress-label" class="font-label-md text-label-md text-on-surface-variant block mb-stack-sm"></span>
               <div class="h-1.5 w-full bg-surface-container-highest rounded-full overflow-hidden">
                 <div id="shopping-progress-bar" class="h-full bg-secondary rounded-full transition-all duration-500" style="width:0%"></div>
               </div>
@@ -1211,13 +1204,6 @@ function renderEinkauf() {
   const varData = week.variants[currentVariant];
   updateWeekNavBars();
 
-  // Show dessert name as a small chip below the heading
-  const dessertChip = document.getElementById('einkauf-dessert-chip');
-  if (dessertChip && varData.dessert) {
-    dessertChip.textContent = `🍰 ${varData.dessert.title}`;
-    dessertChip.onclick = () => openById(varData.dessert.id);
-    dessertChip.classList.remove('hidden');
-  }
 
   document.getElementById('shop-tab-standard').className =
     `flex-1 text-center py-2 rounded-lg font-label-md text-label-md transition-all ${
