@@ -390,7 +390,12 @@ tailwind.config = {
             <!-- Progress (standard mode) -->
             <div id="shopping-progress-wrap" class="mb-stack-lg shrink-0">
               <div class="flex justify-between items-end mb-stack-sm">
-                <h2 class="font-display text-headline-md text-on-surface">Dein Einkauf</h2>
+                <div>
+                  <h2 class="font-display text-headline-md text-on-surface">Dein Einkauf</h2>
+                  <button id="einkauf-dessert-chip"
+                    class="hidden mt-1.5 font-label-sm text-label-sm text-on-surface-variant hover:text-primary transition-colors cursor-pointer"></button>
+                </div>
+                </div>
                 <div class="flex items-center gap-3">
                   <span id="shopping-progress-label" class="font-label-md text-label-md text-on-surface-variant"></span>
                   <button onclick="copyShoppingList()" aria-label="Einkaufsliste kopieren"
@@ -739,7 +744,7 @@ function renderWochenplan() {
 }
 
 function renderMobileDayCards(week, varData) {
-  document.getElementById('day-cards').innerHTML = varData.days.map(day => {
+  const dayCards = varData.days.map(day => {
     const dayDate = getDayDate(week.monday, day.day);
     const today   = isToday(dayDate);
     const borderClass = today ? 'border-l-4 border-primary' : 'border border-surface-container-low/50';
@@ -764,28 +769,62 @@ function renderMobileDayCards(week, varData) {
         </div>
       </div>`;
   }).join('');
+
+  // Dessert der Woche — spans full grid width
+  const d = varData.dessert;
+  const dessertImg = recipeImg(d.id, 1200, 400, 80);
+  const { gradient } = recipeStyle(d.id, 7);
+  const dessertBanner = dessertImg
+    ? `<div class="relative h-40 overflow-hidden img-skeleton">
+         <img src="${dessertImg}" class="w-full h-full object-cover opacity-0 transition-opacity duration-300"
+           loading="lazy"
+           onload="this.classList.remove('opacity-0');this.parentElement.classList.remove('img-skeleton')"
+           onerror="this.style.display='none'">
+         <div class="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
+         <div class="absolute bottom-3 left-4 text-white">
+           <p class="font-label-sm text-label-sm opacity-80 uppercase tracking-wider mb-0.5">🍰 Dessert der Woche</p>
+           <p class="font-display text-lg font-bold">${d.title}</p>
+         </div>
+       </div>`
+    : `<div class="h-40 flex flex-col items-center justify-center" style="background:${gradient}">
+         <span class="text-4xl mb-2">🍰</span>
+         <p class="font-label-sm text-label-sm text-on-surface-variant uppercase tracking-wider mb-1">Dessert der Woche</p>
+         <p class="font-display text-lg font-bold text-on-surface">${d.title}</p>
+       </div>`;
+
+  const dessertCard = `
+    <div class="md:col-span-2 xl:col-span-3 bg-surface-container-lowest rounded-2xl shadow-[0px_4px_24px_rgba(28,28,26,0.06)] overflow-hidden cursor-pointer active:scale-[0.99] transition-transform"
+         onclick="openById('${d.id}')">
+      ${dessertBanner}
+      <div class="px-5 py-4 flex items-center justify-between">
+        <p class="font-body-sm text-body-sm text-on-surface-variant line-clamp-1">${d.summary || ''}</p>
+        <span class="material-symbols-outlined text-primary ml-4 shrink-0">arrow_forward</span>
+      </div>
+    </div>`;
+
+  document.getElementById('day-cards').innerHTML = dayCards + dessertCard;
 }
+
+const DESSERT_DAY_INDEX = 7; // sentinel for the dessert entry in the desktop list
 
 function renderDesktopDayList(week, varData) {
   const listEl = document.getElementById('day-list');
   if (!listEl) return;
-  listEl.innerHTML = varData.days.map((day, i) => {
-    const dayDate  = getDayDate(week.monday, day.day);
-    const today    = isToday(dayDate);
-    const active   = i === selectedDayIndex;
+
+  const dayItems = varData.days.map((day, i) => {
+    const dayDate   = getDayDate(week.monday, day.day);
+    const today     = isToday(dayDate);
+    const active    = i === selectedDayIndex;
     const { gradient, emoji } = recipeStyle(day.lunch_id, i);
-    const thumb    = recipeImg(day.lunch_id, 160, 160, 75);
+    const thumb     = recipeImg(day.lunch_id, 160, 160, 75);
     const thumbHtml = thumb
       ? `<img src="${thumb}" class="w-full h-full object-cover" loading="lazy">`
       : `<div class="w-full h-full flex items-center justify-center text-2xl" style="background:${gradient}">${emoji}</div>`;
-
     return `
       <button onclick="selectDay(${i})"
         class="flex items-center gap-3 w-full px-3 py-3 rounded-xl transition-all text-left mb-1
                ${active ? 'bg-primary-fixed shadow-sm' : 'hover:bg-surface-container-low'}">
-        <div class="w-14 h-14 rounded-xl overflow-hidden shrink-0 bg-surface-container-high">
-          ${thumbHtml}
-        </div>
+        <div class="w-14 h-14 rounded-xl overflow-hidden shrink-0 bg-surface-container-high">${thumbHtml}</div>
         <div class="flex-1 min-w-0">
           <div class="flex items-center gap-2 mb-0.5">
             <span class="font-display text-[15px] font-bold ${active ? 'text-on-primary-fixed' : 'text-on-surface'}">${day.day}</span>
@@ -796,11 +835,95 @@ function renderDesktopDayList(week, varData) {
         ${active ? `<span class="material-symbols-outlined text-[18px] text-primary shrink-0">chevron_right</span>` : ''}
       </button>`;
   }).join('');
+
+  // Dessert as 8th entry with a visual separator
+  const d = varData.dessert;
+  const dActive = selectedDayIndex === DESSERT_DAY_INDEX;
+  const { gradient: dGrad } = recipeStyle(d.id, 7);
+  const dThumb = recipeImg(d.id, 160, 160, 75);
+  const dThumbHtml = dThumb
+    ? `<img src="${dThumb}" class="w-full h-full object-cover" loading="lazy">`
+    : `<div class="w-full h-full flex items-center justify-center text-2xl" style="background:${dGrad}">🍰</div>`;
+
+  const dessertItem = `
+    <div class="border-t border-surface-variant/60 mt-2 pt-2">
+      <button onclick="selectDay(${DESSERT_DAY_INDEX})"
+        class="flex items-center gap-3 w-full px-3 py-3 rounded-xl transition-all text-left
+               ${dActive ? 'bg-primary-fixed shadow-sm' : 'hover:bg-surface-container-low'}">
+        <div class="w-14 h-14 rounded-xl overflow-hidden shrink-0 bg-surface-container-high">${dThumbHtml}</div>
+        <div class="flex-1 min-w-0">
+          <div class="flex items-center gap-2 mb-0.5">
+            <span class="font-display text-[15px] font-bold ${dActive ? 'text-on-primary-fixed' : 'text-on-surface'}">Dessert</span>
+            <span class="text-[9px] font-bold px-1.5 py-0.5 rounded-full ${dActive ? 'bg-primary text-on-primary' : 'bg-tertiary-fixed text-on-tertiary-fixed'}">Woche</span>
+          </div>
+          <p class="font-body-sm text-[13px] truncate ${dActive ? 'text-on-primary-fixed/80' : 'text-on-surface-variant'}">${d.title}</p>
+        </div>
+        ${dActive ? `<span class="material-symbols-outlined text-[18px] text-primary shrink-0">chevron_right</span>` : ''}
+      </button>
+    </div>`;
+
+  listEl.innerHTML = dayItems + dessertItem;
 }
 
 function renderDesktopDayDetail(week, varData) {
   const detailEl = document.getElementById('day-detail');
   if (!detailEl) return;
+
+  // Dessert detail pane
+  if (selectedDayIndex === DESSERT_DAY_INDEX) {
+    const d        = varData.dessert;
+    const heroImg  = recipeImg(d.id, 1200, 600, 85);
+    const { gradient } = recipeStyle(d.id, 7);
+    const timeStr  = fmtTime(d.id);
+    const hero = heroImg
+      ? `<div class="relative h-72 xl:h-80 overflow-hidden">
+           <img src="${heroImg}" class="w-full h-full object-cover">
+           <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent"></div>
+           <div class="absolute bottom-0 left-0 right-0 p-6 text-white">
+             <p class="font-label-sm text-label-sm opacity-80 uppercase tracking-wider mb-1">🍰 Dessert der Woche</p>
+             <span class="font-display text-3xl font-bold">${d.title}</span>
+           </div>
+         </div>`
+      : `<div class="h-48 flex flex-col items-center justify-center gap-2 text-6xl" style="background:${gradient}">
+           🍰<p class="font-label-sm text-label-sm text-on-surface-variant mt-2">Dessert der Woche</p>
+         </div>`;
+
+    detailEl.innerHTML = hero + `
+      <div class="px-8 py-6">
+        <div class="flex items-start justify-between gap-4 mb-4">
+          <h2 class="font-display text-2xl font-bold text-on-surface leading-tight">${d.title}</h2>
+          <button onclick="openById('${d.id}')"
+            class="shrink-0 flex items-center gap-1.5 bg-primary text-on-primary font-label-sm text-label-sm px-4 py-2 rounded-full hover:bg-primary-container active:scale-95 transition-all whitespace-nowrap">
+            <span class="material-symbols-outlined text-[16px]">open_in_full</span>Vollbild
+          </button>
+        </div>
+        ${timeStr ? `<div class="flex gap-2 mb-4"><span class="bg-surface-container-high text-on-surface-variant px-3 py-1.5 rounded-full font-label-sm text-label-sm inline-flex items-center gap-1.5"><span class="material-symbols-outlined text-[14px]">schedule</span>${timeStr}</span></div>` : ''}
+        <p class="font-body-sm text-body-sm text-on-surface-variant leading-relaxed mb-6">${d.summary || ''}</p>
+        <div class="grid grid-cols-1 xl:grid-cols-2 gap-8">
+          <div>
+            <h3 class="font-display text-label-md text-on-surface mb-4 uppercase tracking-wider">Zutaten</h3>
+            <ul class="flex flex-col gap-1">
+              ${(d.ingredients || []).map(ing => `
+                <li class="flex justify-between items-baseline gap-4 py-2 border-b border-surface-container-high/60 last:border-0">
+                  <span class="font-body-sm text-body-sm text-on-surface">${ing.name}</span>
+                  <span class="font-label-sm text-label-sm text-on-surface-variant shrink-0">${ing.qty_display ?? ''}</span>
+                </li>`).join('')}
+            </ul>
+          </div>
+          <div>
+            <h3 class="font-display text-label-md text-on-surface mb-4 uppercase tracking-wider">Zubereitung</h3>
+            <ol class="flex flex-col gap-4">
+              ${(d.steps || []).map((step, i) => `
+                <li class="flex gap-3">
+                  <span class="font-display text-label-md text-primary shrink-0 mt-0.5 w-5">${i+1}</span>
+                  <span class="font-body-sm text-body-sm text-on-surface leading-relaxed">${step}</span>
+                </li>`).join('')}
+            </ol>
+          </div>
+        </div>
+      </div>`;
+    return;
+  }
 
   const day       = varData.days[selectedDayIndex];
   if (!day) return;
@@ -1087,6 +1210,14 @@ function renderEinkauf() {
   const week    = weeks[weekIndex];
   const varData = week.variants[currentVariant];
   updateWeekNavBars();
+
+  // Show dessert name as a small chip below the heading
+  const dessertChip = document.getElementById('einkauf-dessert-chip');
+  if (dessertChip && varData.dessert) {
+    dessertChip.textContent = `🍰 ${varData.dessert.title}`;
+    dessertChip.onclick = () => openById(varData.dessert.id);
+    dessertChip.classList.remove('hidden');
+  }
 
   document.getElementById('shop-tab-standard').className =
     `flex-1 text-center py-2 rounded-lg font-label-md text-label-md transition-all ${
