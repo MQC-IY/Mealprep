@@ -42,6 +42,7 @@ TARGET_GLOBAL_LUNCH_POOL = 300
 TARGET_VARIANT_LUNCH_POOL = 100
 TARGET_VARIANT_NEXT_DAY_POOL = 40
 TARGET_VARIANT_SAME_DAY_POOL = 60
+STATE_MEMORY_WEEKS = 8   # how many past weeks to remember (avoids dish repetition)
 
 # ── YAML recipe loader ────────────────────────────────────────────────────────
 
@@ -655,12 +656,22 @@ def build_week(today: date, variant: str = DEFAULT_VARIANT, reserved_lunch_ids: 
     lunches = first[0]
     week = assemble_week(today, variant, variant_state, lunches)
 
+    # Rolling memory: prepend this week's ids, keep last STATE_MEMORY_WEEKS weeks
+    max_ids = STATE_MEMORY_WEEKS * WEEKLY_UNIQUE_LUNCHES
+    new_lunch_ids = [item["id"] for item in lunches]
+    old_lunch_ids = [i for i in variant_state.get("last_lunch_ids", []) if i not in new_lunch_ids]
+    rolling_lunch_ids = (new_lunch_ids + old_lunch_ids)[:max_ids]
+
+    new_dessert_id = week["dessert"]["id"]
+    old_dessert_ids = [i for i in variant_state.get("last_dessert_ids", []) if i != new_dessert_id]
+    rolling_dessert_ids = ([new_dessert_id] + old_dessert_ids)[:STATE_MEMORY_WEEKS]
+
     variants = dict(state.get("variants", {}))
     variants[variant] = {
             "last_generated_week": week_key,
             "generator_version": GENERATOR_VERSION,
-            "last_lunch_ids": [item["id"] for item in lunches],
-            "last_dessert_ids": [week["dessert"]["id"]],
+            "last_lunch_ids": rolling_lunch_ids,
+            "last_dessert_ids": rolling_dessert_ids,
     }
     state["variants"] = variants
     if variant == DEFAULT_VARIANT:
@@ -1459,11 +1470,17 @@ def generate_all_variants(today: date | None = None) -> dict[str, dict[str, Path
             shopping_html,
             newsletter_html,
         )
+        max_ids = STATE_MEMORY_WEEKS * WEEKLY_UNIQUE_LUNCHES
+        prev = variants_state.get(variant, {})
+        new_l = [item["id"] for item in week["lunches"]]
+        old_l = [i for i in prev.get("last_lunch_ids", []) if i not in new_l]
+        new_d = week["dessert"]["id"]
+        old_d = [i for i in prev.get("last_dessert_ids", []) if i != new_d]
         variants_state[variant] = {
             "last_generated_week": week_key,
             "generator_version": GENERATOR_VERSION,
-            "last_lunch_ids": [item["id"] for item in week["lunches"]],
-            "last_dessert_ids": [week["dessert"]["id"]],
+            "last_lunch_ids": (new_l + old_l)[:max_ids],
+            "last_dessert_ids": ([new_d] + old_d)[:STATE_MEMORY_WEEKS],
         }
 
     state["variants"] = variants_state
@@ -1517,13 +1534,19 @@ def export_weeks_json(weeks_ahead: int = 3, out_path: Path | None = None) -> Pat
             raise RuntimeError(f"Keine überschneidungsfreie Lunch-Auswahl für {week_key} gefunden.")
 
         variants_state = dict(state.get("variants", {}))
+        max_ids = STATE_MEMORY_WEEKS * WEEKLY_UNIQUE_LUNCHES
         for variant in PLAN_VARIANTS:
             w = selected_weeks[variant]
+            prev = variants_state.get(variant, {})
+            new_l = [item["id"] for item in w["lunches"]]
+            old_l = [i for i in prev.get("last_lunch_ids", []) if i not in new_l]
+            new_d = w["dessert"]["id"]
+            old_d = [i for i in prev.get("last_dessert_ids", []) if i != new_d]
             variants_state[variant] = {
                 "last_generated_week": week_key,
                 "generator_version": GENERATOR_VERSION,
-                "last_lunch_ids": [item["id"] for item in w["lunches"]],
-                "last_dessert_ids": [w["dessert"]["id"]],
+                "last_lunch_ids": (new_l + old_l)[:max_ids],
+                "last_dessert_ids": ([new_d] + old_d)[:STATE_MEMORY_WEEKS],
             }
 
         if week_offset == 0:

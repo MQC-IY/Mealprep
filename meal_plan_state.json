@@ -1,6 +1,11 @@
 {
   "last_generated_week": "2026-W22",
   "last_lunch_ids": [
+    "dan_dan_noodles",
+    "fesenjaan_chicken",
+    "iskender_kebab_style",
+    "italian_tomato_risotto_chicken",
+    "japanese_chahan_fried_rice",
     "enchiladas_rojas_chicken",
     "ethiopian_doro_wat",
     "hainanese_chicken_rice",
@@ -9,6 +14,7 @@
   ],
   "generator_version": "variants-v6",
   "last_dessert_ids": [
+    "light_banana_bread",
     "berry_oat_pudding_slices"
   ],
   "variants": {
@@ -16,6 +22,11 @@
       "last_generated_week": "2026-W22",
       "generator_version": "variants-v6",
       "last_lunch_ids": [
+        "dan_dan_noodles",
+        "fesenjaan_chicken",
+        "iskender_kebab_style",
+        "italian_tomato_risotto_chicken",
+        "japanese_chahan_fried_rice",
         "enchiladas_rojas_chicken",
         "ethiopian_doro_wat",
         "hainanese_chicken_rice",
@@ -23,6 +34,7 @@
         "imam_bayildi_chicken"
       ],
       "last_dessert_ids": [
+        "light_banana_bread",
         "berry_oat_pudding_slices"
       ]
     },
@@ -30,6 +42,11 @@
       "last_generated_week": "2026-W22",
       "generator_version": "variants-v6",
       "last_lunch_ids": [
+        "lentil_couscous_veg_pan",
+        "mild_bean_rice_skillet",
+        "japanese_udon_chicken_veg",
+        "japchae_glass_noodles",
+        "mild_taco_rice_turkey",
         "lentil_pumpkin_orzo_pot",
         "lentil_soup_auvergnat",
         "korean_buddha_bowl",
@@ -37,6 +54,7 @@
         "mild_lentil_udon_pan"
       ],
       "last_dessert_ids": [
+        "berry_oat_pudding_slices",
         "apple_cinnamon_oat_cake"
       ]
     },
@@ -44,6 +62,11 @@
       "last_generated_week": "2026-W22",
       "generator_version": "variants-v6",
       "last_lunch_ids": [
+        "turkey_cauliflower_bulgur_pot",
+        "turkey_zucchini_rice_bake",
+        "mild_tomato_quinoa_chicken",
+        "pea_carrot_quinoa_pan",
+        "pea_mint_orzo_turkey",
         "turkish_lentil_bulgur_pot",
         "white_bean_carrot_quinoa_stew",
         "pad_krapao_chicken",
@@ -51,6 +74,7 @@
         "pea_broccoli_couscous_turkey"
       ],
       "last_dessert_ids": [
+        "yogurt_lemon_cake",
         "light_carrot_cake"
       ]
     }
