@@ -944,58 +944,81 @@ function mealRowAccent(emoji, label, name, note) {
 }
 
 // ── Rezepte ───────────────────────────────────────────────
+// All unique recipes across all weeks for current variant (populated in renderRezepte)
+let _variantPool = [];
+
+function buildVariantPool() {
+  const seen = new Set();
+  const pool = [];
+  weeks.forEach(week => {
+    const varData = week.variants[currentVariant];
+    if (!varData) return;
+    [...varData.lunches, varData.dessert].forEach(r => {
+      if (r && !seen.has(r.id)) { seen.add(r.id); pool.push(r); recipeRegistry[r.id] = r; }
+    });
+  });
+  return pool;
+}
+
+function recipeCardHTML(recipe, mealLabel, idx) {
+  const { gradient, emoji } = recipeStyle(recipe.id, idx);
+  const cardImg = recipeImg(recipe.id, 800, 400, 80);
+  const banner  = cardImg
+    ? `<div class="relative h-48 overflow-hidden bg-surface-container-high img-skeleton">
+         <img src="${cardImg}" alt="${recipe.title.replace(/"/g,'&quot;')}" loading="lazy"
+           class="w-full h-full object-cover opacity-0 transition-opacity duration-300"
+           onload="this.classList.remove('opacity-0');this.parentElement.classList.remove('img-skeleton')"
+           onerror="this.closest('.relative').innerHTML='<div class=\\'h-48 flex items-center justify-center text-6xl\\' style=\\'background:${gradient}\\'>${emoji}</div>'">
+       </div>`
+    : `<div class="h-48 flex items-center justify-center text-6xl" style="background:${gradient}">${emoji}</div>`;
+  return `
+    <article onclick="openById('${recipe.id}')"
+      class="bg-surface-container-lowest rounded-xl shadow-[0px_4px_24px_rgba(28,28,26,0.06)] overflow-hidden flex flex-col group cursor-pointer active:scale-[0.98] transition-transform duration-300">
+      ${banner}
+      <div class="p-stack-lg flex flex-col gap-stack-sm">
+        <h3 class="font-display text-headline-md text-on-surface group-hover:text-primary transition-colors">${recipe.title}</h3>
+        <p class="font-body-sm text-body-sm text-on-surface-variant line-clamp-2">${recipe.summary || ''}</p>
+        <div class="flex flex-wrap gap-2 mt-stack-sm">
+          <span class="bg-primary-container text-on-primary-container px-3 py-1.5 rounded-full font-label-sm text-label-sm inline-flex items-center gap-1.5">
+            <span class="material-symbols-outlined text-[14px]">restaurant_menu</span>${mealLabel}
+          </span>
+          ${fmtTime(recipe.id) ? `
+          <span class="bg-surface-container-high text-on-surface-variant px-3 py-1.5 rounded-full font-label-sm text-label-sm inline-flex items-center gap-1.5">
+            <span class="material-symbols-outlined text-[14px]">schedule</span>${fmtTime(recipe.id)}
+          </span>` : ''}
+        </div>
+        <div class="mt-stack-md self-end flex items-center gap-1 font-label-md text-label-md text-primary group-hover:translate-x-1 transition-transform">
+          Rezept ansehen <span class="material-symbols-outlined text-[18px]">arrow_forward</span>
+        </div>
+      </div>
+    </article>`;
+}
+
 function renderRezepte() {
   if (!weeks.length) return;
   const week    = weeks[weekIndex];
   const varData = week.variants[currentVariant];
   updateWeekNavBars();
 
-
   lunchCounts = {};
   varData.days.forEach(day => {
     if (day.lunch_id) lunchCounts[day.lunch_id] = (lunchCounts[day.lunch_id] || 0) + 1;
   });
 
-  const allRecipes = [...varData.lunches, varData.dessert];
-  allRecipes.forEach(r => { recipeRegistry[r.id] = r; });
+  // Build cross-week pool for search
+  _variantPool = buildVariantPool();
 
-  document.getElementById('recipe-cards').innerHTML = allRecipes.map((recipe, i) => {
-    const { gradient, emoji } = recipeStyle(recipe.id, i);
-    const isDessert  = i === varData.lunches.length;
-    const dayCount   = lunchCounts[recipe.id] || 1;
-    const mealLabel  = isDessert ? 'Dessert der Woche' : `${dayCount}× diese Woche`;
-    const cardImg    = recipeImg(recipe.id, 800, 400, 80);
-    const bannerHtml = cardImg
-      ? `<div class="relative h-48 overflow-hidden bg-surface-container-high img-skeleton">
-           <img src="${cardImg}" alt="${recipe.title.replace(/"/g,'&quot;')}" loading="lazy"
-             class="w-full h-full object-cover opacity-0 transition-opacity duration-300"
-             onload="this.classList.remove('opacity-0');this.parentElement.classList.remove('img-skeleton')"
-             onerror="this.closest('.relative').innerHTML='<div class=\\'h-48 flex items-center justify-center text-6xl\\' style=\\'background:${gradient}\\'>${emoji}</div>'">
-         </div>`
-      : `<div class="h-48 flex items-center justify-center text-6xl" style="background:${gradient}">${emoji}</div>`;
-
-    return `
-      <article onclick="openById('${recipe.id}')"
-        class="bg-surface-container-lowest rounded-xl shadow-[0px_4px_24px_rgba(28,28,26,0.06)] overflow-hidden flex flex-col group cursor-pointer active:scale-[0.98] transition-transform duration-300">
-        ${bannerHtml}
-        <div class="p-stack-lg flex flex-col gap-stack-sm">
-          <h3 class="font-display text-headline-md text-on-surface group-hover:text-primary transition-colors">${recipe.title}</h3>
-          <p class="font-body-sm text-body-sm text-on-surface-variant line-clamp-2">${recipe.summary || ''}</p>
-          <div class="flex flex-wrap gap-2 mt-stack-sm">
-            <span class="bg-primary-container text-on-primary-container px-3 py-1.5 rounded-full font-label-sm text-label-sm inline-flex items-center gap-1.5">
-              <span class="material-symbols-outlined text-[14px]">restaurant_menu</span>${mealLabel}
-            </span>
-            ${fmtTime(recipe.id) ? `
-            <span class="bg-surface-container-high text-on-surface-variant px-3 py-1.5 rounded-full font-label-sm text-label-sm inline-flex items-center gap-1.5">
-              <span class="material-symbols-outlined text-[14px]">schedule</span>${fmtTime(recipe.id)}
-            </span>` : ''}
-          </div>
-          <div class="mt-stack-md self-end flex items-center gap-1 font-label-md text-label-md text-primary group-hover:translate-x-1 transition-transform">
-            Rezept ansehen <span class="material-symbols-outlined text-[18px]">arrow_forward</span>
-          </div>
-        </div>
-      </article>`;
+  // Render current week's recipes
+  const weekRecipes = [...varData.lunches, varData.dessert];
+  document.getElementById('recipe-cards').innerHTML = weekRecipes.map((recipe, i) => {
+    const isDessert = i === varData.lunches.length;
+    const mealLabel = isDessert ? 'Dessert der Woche' : `${lunchCounts[recipe.id] || 1}× diese Woche`;
+    return recipeCardHTML(recipe, mealLabel, i);
   }).join('');
+
+  // Re-apply active search if any
+  const q = document.getElementById('recipe-search')?.value || '';
+  if (q.trim()) filterRecipes(q);
 }
 
 function copyShoppingList() {
@@ -1021,16 +1044,33 @@ function copyShoppingList() {
 
 function filterRecipes(query) {
   const q = query.trim().toLowerCase();
-  const cards = document.querySelectorAll('#recipe-cards article');
-  let visible = 0;
-  cards.forEach(card => {
-    const title = (card.querySelector('h3')?.textContent || '').toLowerCase();
-    const match = !q || title.includes(q);
-    card.style.display = match ? '' : 'none';
-    if (match) visible++;
-  });
   const noResults = document.getElementById('recipe-no-results');
-  if (noResults) noResults.classList.toggle('hidden', visible > 0 || !q);
+
+  if (!q) {
+    // Empty search → restore current week's recipes
+    renderRezepte();
+    if (noResults) noResults.classList.add('hidden');
+    return;
+  }
+
+  // Search across ALL weeks in the current variant pool
+  const matches = _variantPool.filter(r =>
+    r.title.toLowerCase().includes(q) ||
+    (r.summary || '').toLowerCase().includes(q)
+  );
+
+  document.getElementById('recipe-cards').innerHTML = matches.map((recipe, i) => {
+    // Find which week this recipe appears in and how many times
+    let weekLabel = 'Im Plan';
+    weeks.forEach(week => {
+      const varData = week.variants[currentVariant];
+      const count = varData?.days.filter(d => d.lunch_id === recipe.id).length || 0;
+      if (count > 0) weekLabel = `${formatWeekDates(week)}`;
+    });
+    return recipeCardHTML(recipe, weekLabel, i);
+  }).join('');
+
+  if (noResults) noResults.classList.toggle('hidden', matches.length > 0);
 }
 
 // ── Einkauf ───────────────────────────────────────────────
