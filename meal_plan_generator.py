@@ -46,9 +46,9 @@ STATE_MEMORY_WEEKS = 8   # how many past weeks to remember (avoids dish repetiti
 
 # ── YAML recipe loader ────────────────────────────────────────────────────────
 
-def ing(name: str, qty: float | int | None, unit: str, category: str) -> dict[str, object]:
+def ing(name: str, qty: float | int | None, unit: str, category: str, name_en: str = "") -> dict[str, object]:
     """Build an ingredient entry. Kept as utility for manual recipe work."""
-    return {"name": name, "qty": qty, "unit": unit, "category": category}
+    return {"name": name, "name_en": name_en, "qty": qty, "unit": unit, "category": category}
 
 
 # Populated at startup by load_recipes()
@@ -608,30 +608,31 @@ def assemble_week(
     dessert = rotate_select(DESSERT_POOL, 1, set(variant_state.get("last_dessert_ids", [])), seed + 7)[0]
 
     lunch_plan = [
-        (selected_lunches[0], "heute kochen, morgen mittags nochmal essen"),
-        (selected_lunches[0], "Rest vom Vortag zum Mittag"),
-        (selected_lunches[2], "frisch kochen und mittags aufessen"),
-        (selected_lunches[1], "heute kochen, morgen mittags nochmal essen"),
-        (selected_lunches[1], "Rest vom Vortag zum Mittag"),
-        (selected_lunches[3], "frisch kochen und mittags aufessen"),
-        (selected_lunches[4], "frisch kochen und mittags aufessen"),
+        (selected_lunches[0], "heute kochen, morgen mittags nochmal essen", "cook today, eat leftovers for lunch tomorrow"),
+        (selected_lunches[0], "Rest vom Vortag zum Mittag",                 "yesterday's leftovers for lunch"),
+        (selected_lunches[2], "frisch kochen und mittags aufessen",          "cook fresh and eat at lunch"),
+        (selected_lunches[1], "heute kochen, morgen mittags nochmal essen", "cook today, eat leftovers for lunch tomorrow"),
+        (selected_lunches[1], "Rest vom Vortag zum Mittag",                 "yesterday's leftovers for lunch"),
+        (selected_lunches[3], "frisch kochen und mittags aufessen",          "cook fresh and eat at lunch"),
+        (selected_lunches[4], "frisch kochen und mittags aufessen",          "cook fresh and eat at lunch"),
     ]
 
     _DAYS_DE = ["Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag", "Sonntag"]
     _DAYS_EN = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
 
     days = []
-    for index, (dish, lunch_note) in enumerate(lunch_plan):
+    for index, (dish, lunch_note, lunch_note_en) in enumerate(lunch_plan):
         days.append(
             {
-                "day":          _DAYS_DE[index],
-                "day_en":       _DAYS_EN[index],
-                "breakfast":    BREAKFASTS[index],
-                "breakfast_en": BREAKFASTS_EN[index],
-                "lunch":        dish["title"],
-                "lunch_en":     dish.get("title_en", ""),
-                "lunch_id":     dish["id"],
-                "lunch_note":   lunch_note,
+                "day":           _DAYS_DE[index],
+                "day_en":        _DAYS_EN[index],
+                "breakfast":     BREAKFASTS[index],
+                "breakfast_en":  BREAKFASTS_EN[index],
+                "lunch":         dish["title"],
+                "lunch_en":      dish.get("title_en", ""),
+                "lunch_id":      dish["id"],
+                "lunch_note":    lunch_note,
+                "lunch_note_en": lunch_note_en,
                 "dinner":       "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
                 "snack":        SNACKS[index],
                 "snack_en":     SNACKS_EN[index],
@@ -639,7 +640,7 @@ def assemble_week(
         )
 
     lunch_counts: dict[str, int] = {}
-    for dish, _note in lunch_plan:
+    for dish, _note, _note_en in lunch_plan:
         lunch_counts[str(dish["id"])] = lunch_counts.get(str(dish["id"]), 0) + 1
 
     return {
@@ -712,26 +713,31 @@ def build_week(today: date, variant: str = DEFAULT_VARIANT, reserved_lunch_ids: 
     return week
 
 
-def join_ingredients(items: list[dict[str, object]]) -> dict[str, list[tuple[str, float | int | None, str]]]:
-    grouped: dict[str, dict[tuple[str, str], float | int | None]] = defaultdict(dict)
+def join_ingredients(items: list[dict[str, object]]) -> dict[str, list[tuple[str, str, float | int | None, str]]]:
+    grouped: dict[str, dict[tuple[str, str], tuple[str, float | int | None]]] = defaultdict(dict)
 
     for item in items:
         category = str(item["category"])
         name = str(item["name"])
+        name_en = str(item.get("name_en") or "")
         qty, unit = canonical_qty_unit(item["qty"], str(item["unit"]))
         key = (name, unit)
-        current = grouped[category].get(key)
-        if qty is None or current is None:
-            grouped[category][key] = qty
-        elif isinstance(qty, (int, float)) and isinstance(current, (int, float)):
-            grouped[category][key] = current + qty
+        if key not in grouped[category]:
+            grouped[category][key] = (name_en, qty)
         else:
-            grouped[category][key] = qty
+            existing_name_en, current = grouped[category][key]
+            merged_name_en = existing_name_en or name_en
+            if qty is None or current is None:
+                grouped[category][key] = (merged_name_en, qty)
+            elif isinstance(qty, (int, float)) and isinstance(current, (int, float)):
+                grouped[category][key] = (merged_name_en, current + qty)
+            else:
+                grouped[category][key] = (merged_name_en, qty)
 
-    ordered: dict[str, list[tuple[str, float | int | None, str]]] = {}
+    ordered: dict[str, list[tuple[str, str, float | int | None, str]]] = {}
     for category, values in grouped.items():
         ordered[category] = sorted(
-            [(name, qty, unit) for (name, unit), qty in values.items()],
+            [(name, name_en, qty, unit) for (name, unit), (name_en, qty) in values.items()],
             key=lambda entry: entry[0].lower(),
         )
     return ordered
@@ -788,29 +794,29 @@ def build_shopping_groups(selected_lunches: list[dict[str, object]], lunch_count
     items.extend(dessert["ingredients"])
 
     breakfast_basics = [
-        ing("Haferflocken", 1000, "g", "Kohlenhydrate und Sattmacher"),
-        ing("Skyr oder griechischer Joghurt", 2000, "g", "Protein und Milchprodukte"),
-        ing("Milch oder Haferdrink", 1, "Liter", "Protein und Milchprodukte"),
-        ing("Chiasamen", 1, "Packung", "Konserven und Vorrat"),
-        ing("Bananen", 6, "Stk", "Obst"),
-        ing("Äpfel", 6, "Stk", "Obst"),
-        ing("Birnen", 4, "Stk", "Obst"),
-        ing("Beeren, frisch oder TK", 500, "g", "Obst"),
-        ing("Trauben", 500, "g", "Obst"),
-        ing("Mandeln", 200, "g", "Konserven und Vorrat"),
-        ing("Walnüsse", 200, "g", "Konserven und Vorrat"),
-        ing("Sonnenblumenkerne", 1, "Packung", "Konserven und Vorrat"),
-        ing("Eier", 10, "Stk", "Protein und Milchprodukte"),
-        ing("Vollkornbrot", 1, "Laib", "Kohlenhydrate und Sattmacher"),
-        ing("Hummus", 1, "Packung", "Protein und Milchprodukte"),
-        ing("Magerquark oder Kräuterquark", 500, "g", "Protein und Milchprodukte"),
-        ing("Paprikastreifen", None, "", "Gemüse und Salat"),
-        ing("Honig", 1, "Glas", "Konserven und Vorrat"),
-        ing("Zimt", 1, "Packung", "Gewürze"),
-        ing("Salz", 1, "Packung", "Gewürze"),
-        ing("Pfeffer", 1, "Packung", "Gewürze"),
-        ing("Chili", 1, "Packung", "Gewürze"),
-        ing("Knoblauchpulver", 1, "Packung", "Gewürze"),
+        ing("Haferflocken", 1000, "g", "Kohlenhydrate und Sattmacher", "rolled oats"),
+        ing("Skyr oder griechischer Joghurt", 2000, "g", "Protein und Milchprodukte", "skyr or Greek yogurt"),
+        ing("Milch oder Haferdrink", 1, "Liter", "Protein und Milchprodukte", "milk or oat drink"),
+        ing("Chiasamen", 1, "Packung", "Konserven und Vorrat", "chia seeds"),
+        ing("Bananen", 6, "Stk", "Obst", "bananas"),
+        ing("Äpfel", 6, "Stk", "Obst", "apples"),
+        ing("Birnen", 4, "Stk", "Obst", "pears"),
+        ing("Beeren, frisch oder TK", 500, "g", "Obst", "berries, fresh or frozen"),
+        ing("Trauben", 500, "g", "Obst", "grapes"),
+        ing("Mandeln", 200, "g", "Konserven und Vorrat", "almonds"),
+        ing("Walnüsse", 200, "g", "Konserven und Vorrat", "walnuts"),
+        ing("Sonnenblumenkerne", 1, "Packung", "Konserven und Vorrat", "sunflower seeds"),
+        ing("Eier", 10, "Stk", "Protein und Milchprodukte", "eggs"),
+        ing("Vollkornbrot", 1, "Laib", "Kohlenhydrate und Sattmacher", "wholegrain bread"),
+        ing("Hummus", 1, "Packung", "Protein und Milchprodukte", "hummus"),
+        ing("Magerquark oder Kräuterquark", 500, "g", "Protein und Milchprodukte", "low-fat quark or herb quark"),
+        ing("Paprikastreifen", None, "", "Gemüse und Salat", "bell pepper strips"),
+        ing("Honig", 1, "Glas", "Konserven und Vorrat", "honey"),
+        ing("Zimt", 1, "Packung", "Gewürze", "cinnamon"),
+        ing("Salz", 1, "Packung", "Gewürze", "salt"),
+        ing("Pfeffer", 1, "Packung", "Gewürze", "pepper"),
+        ing("Chili", 1, "Packung", "Gewürze", "chili"),
+        ing("Knoblauchpulver", 1, "Packung", "Gewürze", "garlic powder"),
     ]
     items.extend(breakfast_basics)
     items = normalize_shopping_items(items)
@@ -857,7 +863,7 @@ _SHOPPING_CATEGORY_ORDER = [
 
 
 def _serialize_shopping(
-    grouped: dict[str, list[tuple[str, float | int | None, str]]],
+    grouped: dict[str, list[tuple[str, str, float | int | None, str]]],
 ) -> list[dict[str, object]]:
     result = []
     seen: set[str] = set()
@@ -866,8 +872,8 @@ def _serialize_shopping(
             result.append({
                 "category": category,
                 "items": [
-                    {"name": name, "qty_display": format_shopping_qty(qty, unit)}
-                    for name, qty, unit in grouped[category]
+                    {"name": name, "name_en": name_en, "qty_display": format_shopping_qty(qty, unit)}
+                    for name, name_en, qty, unit in grouped[category]
                 ],
             })
             seen.add(category)
@@ -876,8 +882,8 @@ def _serialize_shopping(
             result.append({
                 "category": category,
                 "items": [
-                    {"name": name, "qty_display": format_shopping_qty(qty, unit)}
-                    for name, qty, unit in entries
+                    {"name": name, "name_en": name_en, "qty_display": format_shopping_qty(qty, unit)}
+                    for name, name_en, qty, unit in entries
                 ],
             })
     return result

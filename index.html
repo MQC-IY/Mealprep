@@ -897,7 +897,7 @@ function renderMobileDayCards(week, varData) {
         <div class="flex flex-col gap-4">
           ${mealRow('🌅', t('breakfast'), dField(day, 'breakfast'))}
           <div class="h-px w-full bg-surface-container-high/50 ml-10"></div>
-          ${mealRowAccent('🍲', t('lunch'), dField(day, 'lunch'), day.lunch_note)}
+          ${mealRowAccent('🍲', t('lunch'), dField(day, 'lunch'), dField(day, 'lunch_note'))}
           <div class="h-px w-full bg-surface-container-high/50 ml-10"></div>
           ${mealRow('🍎', t('snack'), dField(day, 'snack'))}
         </div>
@@ -1100,7 +1100,7 @@ function renderDesktopDayDetail(week, varData) {
     <div class="px-8 py-6 border-b border-surface-variant/60">
       <div class="flex flex-col gap-5">
         ${mealRowLarge('🌅', t('breakfast_long'), dField(day, 'breakfast'))}
-        ${mealRowLarge('🍲', t('lunch_long'), dField(day, 'lunch'), day.lunch_note)}
+        ${mealRowLarge('🍲', t('lunch_long'), dField(day, 'lunch'), dField(day, 'lunch_note'))}
         ${mealRowLarge('🍎', t('snack_long'), dField(day, 'snack'))}
       </div>
     </div>`;
@@ -1285,7 +1285,7 @@ function copyShoppingList() {
   const lines = [`${t('your_shopping')} – ${formatWeekDates(weeks[weekIndex])} (${currentVariant})`, ''];
   varData.shopping.forEach(cat => {
     lines.push(`${CATEGORY_ICONS[cat.category] || ''} ${tCat(cat.category)}`);
-    cat.items.forEach(item => lines.push(`  • ${item.name}  ${item.qty_display}`));
+    cat.items.forEach(item => lines.push(`  • ${iName(item)}  ${item.qty_display}`));
     lines.push('');
   });
   const text = lines.join('\n');
@@ -1385,7 +1385,7 @@ function renderShoppingList(week, varData) {
             ${done ? 'checked' : ''}
             onchange="toggleCheck('${escAttr(key)}', this)"/>
           <label for="${escId(key)}" class="flex-1 flex justify-between items-center cursor-pointer font-body-md text-body-md text-on-surface ${done ? 'item-checked' : ''} transition-all">
-            <span>${item.name}</span>
+            <span>${iName(item)}</span>
             <span class="text-on-surface-variant text-sm shrink-0 ml-2">${item.qty_display}</span>
           </label>
         </li>`;
