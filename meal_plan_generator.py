@@ -83,20 +83,24 @@ def load_recipes() -> None:
 
         recipe_id = str(r["id"])
         recipe: dict[str, object] = {
-            "id":      recipe_id,
-            "title":   r["de"]["title"],
-            "summary": r["de"].get("summary", ""),
-            "meals":   r.get("meals", 2),
+            "id":         recipe_id,
+            "title":      r["de"]["title"],
+            "title_en":   r.get("en", {}).get("title", ""),
+            "summary":    r["de"].get("summary", ""),
+            "summary_en": r.get("en", {}).get("summary", ""),
+            "meals":      r.get("meals", 2),
             "ingredients": [
                 {
                     "name":     item["de_name"],
+                    "name_en":  item.get("en_name", ""),
                     "qty":      item.get("qty"),
                     "unit":     item.get("unit", ""),
                     "category": item.get("category", ""),
                 }
                 for item in r.get("ingredients", [])
             ],
-            "steps": r.get("de_steps", []),
+            "steps":    r.get("de_steps", []),
+            "steps_en": r.get("en_steps", []),
         }
         if r["de"].get("child_note"):
             recipe["child_note"] = r["de"]["child_note"]
@@ -187,6 +191,26 @@ SNACKS = [
     "Eine Banane und Walnüsse",
     "Trauben oder Beeren",
     "Gurkensticks mit Kräuterquark",
+]
+
+BREAKFASTS_EN = [
+    "Overnight oats with rolled oats, skyr, berries and chia seeds",
+    "Overnight oats with banana and cinnamon",
+    "Overnight oats with berries",
+    "Skyr with rolled oats, pear and sunflower seeds",
+    "Overnight oats with apple and cinnamon",
+    "Scrambled eggs with wholegrain bread and tomatoes",
+    "Natural yoghurt with fruit and nut mix",
+]
+
+SNACKS_EN = [
+    "Apple and a handful of almonds",
+    "Carrot sticks with hummus",
+    "Skyr with a bit of fruit",
+    "Bell pepper strips and hummus",
+    "A banana and walnuts",
+    "Grapes or berries",
+    "Cucumber sticks with herb quark",
 ]
 
 
@@ -593,17 +617,24 @@ def assemble_week(
         (selected_lunches[4], "frisch kochen und mittags aufessen"),
     ]
 
+    _DAYS_DE = ["Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag", "Sonntag"]
+    _DAYS_EN = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+
     days = []
     for index, (dish, lunch_note) in enumerate(lunch_plan):
         days.append(
             {
-                "day": ["Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag", "Sonntag"][index],
-                "breakfast": BREAKFASTS[index],
-                "lunch": dish["title"],
-                "lunch_id": dish["id"],
-                "lunch_note": lunch_note,
-                "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
-                "snack": SNACKS[index],
+                "day":          _DAYS_DE[index],
+                "day_en":       _DAYS_EN[index],
+                "breakfast":    BREAKFASTS[index],
+                "breakfast_en": BREAKFASTS_EN[index],
+                "lunch":        dish["title"],
+                "lunch_en":     dish.get("title_en", ""),
+                "lunch_id":     dish["id"],
+                "lunch_note":   lunch_note,
+                "dinner":       "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
+                "snack":        SNACKS[index],
+                "snack_en":     SNACKS_EN[index],
             }
         )
 
@@ -794,20 +825,24 @@ def build_shopping_groups(selected_lunches: list[dict[str, object]], lunch_count
 
 def _serialize_recipe(recipe: dict[str, object]) -> dict[str, object]:
     return {
-        "id": recipe["id"],
-        "title": recipe["title"],
-        "meals": recipe.get("meals"),
-        "summary": recipe.get("summary", ""),
+        "id":         recipe["id"],
+        "title":      recipe["title"],
+        "title_en":   recipe.get("title_en", ""),
+        "meals":      recipe.get("meals"),
+        "summary":    recipe.get("summary", ""),
+        "summary_en": recipe.get("summary_en", ""),
         "child_note": recipe.get("child_note", ""),
         "ingredients": [
             {
-                "name": str(item["name"]),
+                "name":        str(item["name"]),
+                "name_en":     str(item.get("name_en", "")),
                 "qty_display": format_shopping_qty(item["qty"], str(item["unit"])),
-                "category": str(item["category"]) if item.get("category") else None,
+                "category":    str(item["category"]) if item.get("category") else None,
             }
             for item in recipe.get("ingredients", [])
         ],
-        "steps": recipe.get("steps", []),
+        "steps":    recipe.get("steps", []),
+        "steps_en": recipe.get("steps_en", []),
     }
 
 
