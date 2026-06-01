@@ -6,123 +6,121 @@ next_day: false
 meals: 2
 de:
   title: Indonesisches Soto Ayam – Hühner-Kurkuma-Suppe
-  summary: |-
-    Goldgelbe indonesische Hühnersuppe mit Kurkuma, Zitronengras, Galgant, Glasnudeln, hartgekochtem Ei und knusprigem Frittiertem.
+  summary: Goldgelbe indonesische Hühnersuppe mit Kurkuma, Zitronengras, Galgant,
+    Glasnudeln, hartgekochtem Ei und knusprigem Frittiertem.
 en:
-  title: 'TODO: Indonesisches Soto Ayam – Hühner-Kurkuma-Suppe'
-  summary: |-
-    TODO: Goldgelbe indonesische Hühnersuppe mit Kurkuma, Zitronengras, Galgant, Glasnudeln, hartgekochtem Ei und knusprigem Frittiertem.
+  title: Soto Ayam Indonesia – Indonesian Chicken Turmeric Soup
+  summary: Golden Indonesian chicken soup with turmeric, lemongrass, galangal, glass
+    noodles, hard-boiled egg, and crispy fried garnishes.
 ingredients:
 - de_name: Hähnchenstücke mit Knochen
-  en_name: 'TODO: Hähnchenstücke mit Knochen'
+  en_name: bone-in chicken pieces
   qty: 900
   unit: g
   category: Protein und Milchprodukte
 - de_name: Eier
-  en_name: 'TODO: Eier'
+  en_name: eggs
   qty: 4
   unit: Stk
   category: Protein und Milchprodukte
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: chicken broth
   qty: 1500
   unit: ml
   category: Konserven und Vorrat
 - de_name: Rapsöl
-  en_name: 'TODO: Rapsöl'
+  en_name: canola oil
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Fischsauce
-  en_name: 'TODO: Fischsauce'
+  en_name: fish sauce
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Glasnudeln oder Reisvermicelli
-  en_name: 'TODO: Glasnudeln oder Reisvermicelli'
+  en_name: glass noodles or rice vermicelli
   qty: 150
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onions
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 6
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Ingwer, frisch
-  en_name: 'TODO: Ingwer, frisch'
+  en_name: fresh ginger
   qty: 30
   unit: g
   category: Gemüse und Salat
 - de_name: Zitronengrasstangen
-  en_name: 'TODO: Zitronengrasstangen'
+  en_name: lemongrass stalks
   qty: 3
   unit: Stange
   category: Gemüse und Salat
 - de_name: Galgant (frisch oder getrocknet)
-  en_name: 'TODO: Galgant (frisch oder getrocknet)'
+  en_name: galangal (fresh or dried)
   qty: 15
   unit: g
   category: Gemüse und Salat
 - de_name: Frühlingszwiebeln
-  en_name: 'TODO: Frühlingszwiebeln'
+  en_name: spring onions
   qty: 4
   unit: Stk
   category: Gemüse und Salat
 - de_name: Limette
-  en_name: 'TODO: Limette'
+  en_name: lime
   qty: 2
   unit: Stk
   category: Obst
 - de_name: Kurkuma
-  en_name: 'TODO: Kurkuma'
+  en_name: turmeric
   qty: 3
   unit: TL
   category: Gewürze
 - de_name: Koriander, gemahlen
-  en_name: 'TODO: Koriander, gemahlen'
+  en_name: ground coriander
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Weißer Pfeffer, gemahlen
-  en_name: 'TODO: Weißer Pfeffer, gemahlen'
+  en_name: ground white pepper
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Zwiebeln, Knoblauch und Ingwer fein hacken. Öl in einem großen Topf erhitzen, Zwiebeln 4 Minuten anbraten.
-- |-
-  Knoblauch, Ingwer, Kurkuma, gemahlenen Koriander und weißen Pfeffer zugeben, 2 Minuten rösten.
+- Zwiebeln, Knoblauch und Ingwer fein hacken. Öl in einem großen Topf erhitzen, Zwiebeln
+  4 Minuten anbraten.
+- Knoblauch, Ingwer, Kurkuma, gemahlenen Koriander und weißen Pfeffer zugeben, 2 Minuten
+  rösten.
 - Hähnchenstücke zugeben und von allen Seiten 3–4 Minuten anbraten.
-- |-
-  Hühnerbrühe angießen. Angequetschte Zitronengrasstangen, Galgant und Fischsauce zugeben. Aufkochen, dann 30 Minuten bei mittlerer Hitze köcheln.
-- |-
-  Hähnchen herausnehmen, abkühlen lassen und in Fasern zupfen. Brühe durch ein Sieb gießen und bei Bedarf abschmecken.
-- |-
-  Eier hartkochen und halbieren. Glasnudeln in heißem Wasser 3–4 Minuten einweichen.
-- |-
-  In Schüsseln: Glasnudeln, gezupftes Hähnchen und Brühe anrichten. Mit halbierten Eiern, Frühlingszwiebelringen, Limettenspalten und Chiliflocken garnieren.
+- Hühnerbrühe angießen. Angequetschte Zitronengrasstangen, Galgant und Fischsauce
+  zugeben. Aufkochen, dann 30 Minuten bei mittlerer Hitze köcheln.
+- Hähnchen herausnehmen, abkühlen lassen und in Fasern zupfen. Brühe durch ein Sieb
+  gießen und bei Bedarf abschmecken.
+- Eier hartkochen und halbieren. Glasnudeln in heißem Wasser 3–4 Minuten einweichen.
+- 'In Schüsseln: Glasnudeln, gezupftes Hähnchen und Brühe anrichten. Mit halbierten
+  Eiern, Frühlingszwiebelringen, Limettenspalten und Chiliflocken garnieren.'
 en_steps:
-- |-
-  TODO: Zwiebeln, Knoblauch und Ingwer fein hacken. Öl in einem großen Topf erhitzen, Zwiebeln 4 Minuten anbraten.
-- |-
-  TODO: Knoblauch, Ingwer, Kurkuma, gemahlenen Koriander und weißen Pfeffer zugeben, 2 Minuten rösten.
-- 'TODO: Hähnchenstücke zugeben und von allen Seiten 3–4 Minuten anbraten.'
-- |-
-  TODO: Hühnerbrühe angießen. Angequetschte Zitronengrasstangen, Galgant und Fischsauce zugeben. Aufkochen, dann 30 Minuten bei mittlerer Hitze köcheln.
-- |-
-  TODO: Hähnchen herausnehmen, abkühlen lassen und in Fasern zupfen. Brühe durch ein Sieb gießen und bei Bedarf abschmecken.
-- |-
-  TODO: Eier hartkochen und halbieren. Glasnudeln in heißem Wasser 3–4 Minuten einweichen.
-- |-
-  TODO: In Schüsseln: Glasnudeln, gezupftes Hähnchen und Brühe anrichten. Mit halbierten Eiern, Frühlingszwiebelringen, Limettenspalten und Chiliflocken garnieren.
+- Finely chop the onions, garlic, and ginger. Heat the oil in a large pot and sauté
+  the onions for 4 minutes.
+- Add the garlic, ginger, turmeric, ground coriander, and white pepper; toast for
+  2 minutes.
+- Add the chicken pieces and brown on all sides for 3–4 minutes.
+- Pour in the chicken broth. Add the bruised lemongrass stalks, galangal, and fish
+  sauce. Bring to a boil, then simmer over medium heat for 30 minutes.
+- Remove the chicken, let cool, and shred into pieces. Strain the broth through a
+  sieve and season to taste.
+- Hard-boil the eggs and halve them. Soak the glass noodles in hot water for 3–4 minutes.
+- 'Assemble in bowls: glass noodles, shredded chicken, and broth. Garnish with halved
+  eggs, spring onion rings, lime wedges, and chili flakes.'

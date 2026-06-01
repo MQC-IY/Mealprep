@@ -9,47 +9,47 @@ de:
   title: Kichererbsen-Tomaten-Pasta aus der Pfanne
   summary: Milde Pasta mit Kichererbsen, Tomaten und Spinat für einen schnellen Mittag.
 en:
-  title: 'TODO: Kichererbsen-Tomaten-Pasta aus der Pfanne'
-  summary: |-
-    TODO: Milde Pasta mit Kichererbsen, Tomaten und Spinat für einen schnellen Mittag.
+  title: Chickpea Tomato Pasta Skillet
+  summary: A mild and hearty skillet pasta with chickpeas, tomatoes, and wilted spinach
+    — a quick vegetarian lunch.
 ingredients:
 - de_name: Vollkornnudeln
-  en_name: 'TODO: Vollkornnudeln'
+  en_name: whole-wheat pasta
   qty: 320
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Kichererbsen
-  en_name: 'TODO: Kichererbsen'
+  en_name: chickpeas
   qty: 2
   unit: Dosen
   category: Konserven und Vorrat
 - de_name: Passierte Tomaten
-  en_name: 'TODO: Passierte Tomaten'
+  en_name: passata
   qty: 1
   unit: Glas
   category: Konserven und Vorrat
 - de_name: Blattspinat
-  en_name: 'TODO: Blattspinat'
+  en_name: leaf spinach
   qty: 150
   unit: g
   category: Gemüse und Salat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Oregano
-  en_name: 'TODO: Oregano'
+  en_name: oregano
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -58,6 +58,6 @@ de_steps:
 - Zwiebel in Olivenöl anschwitzen, Tomaten und Kichererbsen zugeben.
 - Spinat unterheben.
 en_steps:
-- 'TODO: Nudeln kochen.'
-- 'TODO: Zwiebel in Olivenöl anschwitzen, Tomaten und Kichererbsen zugeben.'
-- 'TODO: Spinat unterheben.'
+- Cook the pasta.
+- Sweat the onion in olive oil, then add the passata and chickpeas.
+- Fold in the spinach.

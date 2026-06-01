@@ -9,42 +9,42 @@ de:
   title: Puten-Pasta mit Erbsen und Spinat
   summary: Schnelles Nudelgericht mit Putenhack, Erbsen, Spinat und milder Sauce.
 en:
-  title: 'TODO: Puten-Pasta mit Erbsen und Spinat'
-  summary: 'TODO: Schnelles Nudelgericht mit Putenhack, Erbsen, Spinat und milder
-    Sauce.'
+  title: Turkey Pasta with Peas and Spinach
+  summary: Quick pasta dish with minced turkey, peas, spinach and a mild cream cheese
+    sauce.
 ingredients:
 - de_name: Vollkornnudeln
-  en_name: 'TODO: Vollkornnudeln'
+  en_name: wholemeal pasta
   qty: 320
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Putenhack
-  en_name: 'TODO: Putenhack'
+  en_name: minced turkey
   qty: 650
   unit: g
   category: Protein und Milchprodukte
 - de_name: Erbsen, TK
-  en_name: 'TODO: Erbsen, TK'
+  en_name: frozen peas
   qty: 220
   unit: g
   category: Gemüse und Salat
 - de_name: Blattspinat
-  en_name: 'TODO: Blattspinat'
+  en_name: leaf spinach
   qty: 150
   unit: g
   category: Gemüse und Salat
 - de_name: Frischkäse natur
-  en_name: 'TODO: Frischkäse natur'
+  en_name: plain cream cheese
   qty: 100
   unit: g
   category: Protein und Milchprodukte
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -53,6 +53,6 @@ de_steps:
 - Putenhack scharf anbraten.
 - Erbsen und Spinat kurz mitgaren, Frischkäse unterrühren.
 en_steps:
-- 'TODO: Nudeln weich kochen.'
-- 'TODO: Putenhack scharf anbraten.'
-- 'TODO: Erbsen und Spinat kurz mitgaren, Frischkäse unterrühren.'
+- Cook the pasta until tender.
+- Sear the minced turkey in a hot pan until browned.
+- Add the peas and spinach and cook briefly, then stir in the cream cheese.

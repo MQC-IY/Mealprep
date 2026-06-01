@@ -8,46 +8,46 @@ de:
   title: Hähnchen-Risotto mit Champignons und Erbsen
   summary: Mildes Risotto mit Hähnchen, Champignons und Erbsen.
 en:
-  title: 'TODO: Hähnchen-Risotto mit Champignons und Erbsen'
-  summary: 'TODO: Mildes Risotto mit Hähnchen, Champignons und Erbsen.'
+  title: Chicken Risotto with Mushrooms and Peas
+  summary: A mild and creamy risotto with chicken, mushrooms, and peas.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: Chicken breast
   qty: 750
   unit: g
   category: Protein und Milchprodukte
 - de_name: Risottoreis
-  en_name: 'TODO: Risottoreis'
+  en_name: Risotto rice
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Champignons
-  en_name: 'TODO: Champignons'
+  en_name: Button mushrooms
   qty: 250
   unit: g
   category: Gemüse und Salat
 - de_name: Erbsen, TK
-  en_name: 'TODO: Erbsen, TK'
+  en_name: Frozen peas
   qty: 200
   unit: g
   category: Gemüse und Salat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: Onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Parmesan
-  en_name: 'TODO: Parmesan'
+  en_name: Parmesan
   qty: 30
   unit: g
   category: Protein und Milchprodukte
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -56,6 +56,6 @@ de_steps:
 - Zwiebel und Champignons anschwitzen, Reis kurz mitgaren.
 - Nach und nach Wasser zugeben, bis der Reis weich ist.
 en_steps:
-- 'TODO: Hähnchen klein schneiden und scharf anbraten.'
-- 'TODO: Zwiebel und Champignons anschwitzen, Reis kurz mitgaren.'
-- 'TODO: Nach und nach Wasser zugeben, bis der Reis weich ist.'
+- Cut the chicken into small pieces and sear over high heat.
+- Sauté the onion and mushrooms, then briefly cook the rice with them.
+- Add water gradually, stirring, until the rice is tender and creamy.

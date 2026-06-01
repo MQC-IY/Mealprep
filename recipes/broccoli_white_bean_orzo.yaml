@@ -9,41 +9,41 @@ de:
   title: Orzo mit Brokkoli und weißen Bohnen
   summary: Schnelle Orzo-Pfanne mit Brokkoli, weißen Bohnen und milder Cremigkeit.
 en:
-  title: 'TODO: Orzo mit Brokkoli und weißen Bohnen'
-  summary: 'TODO: Schnelle Orzo-Pfanne mit Brokkoli, weißen Bohnen und milder Cremigkeit.'
+  title: Orzo with Broccoli and White Beans
+  summary: A quick orzo pan with broccoli, white beans, and a touch of creamy richness.
 ingredients:
 - de_name: Orzo oder Kritharaki
-  en_name: 'TODO: Orzo oder Kritharaki'
+  en_name: orzo (risoni)
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Weiße Bohnen
-  en_name: 'TODO: Weiße Bohnen'
+  en_name: white beans
   qty: 2
   unit: Dosen
   category: Konserven und Vorrat
 - de_name: Brokkoli
-  en_name: 'TODO: Brokkoli'
+  en_name: broccoli
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Frischkäse natur
-  en_name: 'TODO: Frischkäse natur'
+  en_name: cream cheese
   qty: 100
   unit: g
   category: Protein und Milchprodukte
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Basilikum
-  en_name: 'TODO: Basilikum'
+  en_name: basil
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -52,6 +52,6 @@ de_steps:
 - Brokkoli weich garen.
 - Bohnen und Frischkäse kurz erwärmen.
 en_steps:
-- 'TODO: Orzo weich garen.'
-- 'TODO: Brokkoli weich garen.'
-- 'TODO: Bohnen und Frischkäse kurz erwärmen.'
+- Cook the orzo until tender.
+- Cook the broccoli until tender.
+- Briefly warm the white beans and cream cheese together.

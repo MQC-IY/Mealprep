@@ -9,41 +9,41 @@ de:
   title: Udon mit Spinat und weißen Bohnen
   summary: Schnelle milde Udon-Pfanne mit Bohnen, Spinat und Möhren.
 en:
-  title: 'TODO: Udon mit Spinat und weißen Bohnen'
-  summary: 'TODO: Schnelle milde Udon-Pfanne mit Bohnen, Spinat und Möhren.'
+  title: Udon with Spinach and White Beans
+  summary: A quick, mild udon noodle pan with white beans, spinach and carrots.
 ingredients:
 - de_name: Udon-Nudeln
-  en_name: 'TODO: Udon-Nudeln'
+  en_name: udon noodles
   qty: 600
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Weiße Bohnen
-  en_name: 'TODO: Weiße Bohnen'
+  en_name: white beans
   qty: 2
   unit: Dosen
   category: Konserven und Vorrat
 - de_name: Blattspinat
-  en_name: 'TODO: Blattspinat'
+  en_name: baby spinach
   qty: 180
   unit: g
   category: Gemüse und Salat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: carrots
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Sojasauce salzreduziert
-  en_name: 'TODO: Sojasauce salzreduziert'
+  en_name: reduced-salt soy sauce
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Rapsöl
-  en_name: 'TODO: Rapsöl'
+  en_name: rapeseed oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chilli flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -52,6 +52,6 @@ de_steps:
 - Möhren weich garen und Bohnen kurz erwärmen.
 - Spinat unterheben und Udon untermischen.
 en_steps:
-- 'TODO: Udon weich garen.'
-- 'TODO: Möhren weich garen und Bohnen kurz erwärmen.'
-- 'TODO: Spinat unterheben und Udon untermischen.'
+- Cook udon noodles until tender.
+- Cook carrots until soft and briefly warm the beans.
+- Fold in spinach and mix in the udon noodles.

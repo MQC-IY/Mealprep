@@ -8,46 +8,46 @@ de:
   title: Brokkoli-Erbsen-Kartoffel-Auflauf
   summary: Auflauf mit Kartoffeln, Brokkoli, Erbsen und Joghurt-Ei-Guss.
 en:
-  title: 'TODO: Brokkoli-Erbsen-Kartoffel-Auflauf'
-  summary: 'TODO: Auflauf mit Kartoffeln, Brokkoli, Erbsen und Joghurt-Ei-Guss.'
+  title: Broccoli, Pea and Potato Bake
+  summary: Baked dish with potatoes, broccoli, peas, and a yogurt-egg topping.
 ingredients:
 - de_name: Kartoffeln
-  en_name: 'TODO: Kartoffeln'
+  en_name: potatoes
   qty: 900
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Brokkoli
-  en_name: 'TODO: Brokkoli'
+  en_name: broccoli
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Erbsen, TK
-  en_name: 'TODO: Erbsen, TK'
+  en_name: frozen peas
   qty: 200
   unit: g
   category: Gemüse und Salat
 - de_name: Eier
-  en_name: 'TODO: Eier'
+  en_name: eggs
   qty: 3
   unit: Stk
   category: Protein und Milchprodukte
 - de_name: Naturjoghurt
-  en_name: 'TODO: Naturjoghurt'
+  en_name: plain yogurt
   qty: 180
   unit: g
   category: Protein und Milchprodukte
 - de_name: Gouda gerieben
-  en_name: 'TODO: Gouda gerieben'
+  en_name: Gouda, grated
   qty: 70
   unit: g
   category: Protein und Milchprodukte
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -56,6 +56,6 @@ de_steps:
 - Brokkoli und Erbsen kurz vorgaren.
 - Alles in eine Form geben, Eier mit Joghurt verrühren und darübergeben.
 en_steps:
-- 'TODO: Kartoffeln vorgaren und in Scheiben schneiden.'
-- 'TODO: Brokkoli und Erbsen kurz vorgaren.'
-- 'TODO: Alles in eine Form geben, Eier mit Joghurt verrühren und darübergeben.'
+- Parboil potatoes and slice them.
+- Briefly parboil broccoli and peas.
+- Transfer everything to a baking dish; whisk eggs with yogurt and pour over the top.

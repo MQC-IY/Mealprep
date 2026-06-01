@@ -7,105 +7,105 @@ quick_minutes: 25
 meals: 2
 de:
   title: Hähnchen-Scaloppine mit Kapern und Zitrone
-  summary: |-
-    Dünne Hähnchenschnitzel in einer pikanten Zitronen-Kapern-Sauce – das klassische Piccata-Prinzip, schnell und geschmacksintensiv.
+  summary: Dünne Hähnchenschnitzel in einer pikanten Zitronen-Kapern-Sauce – das klassische
+    Piccata-Prinzip, schnell und geschmacksintensiv.
 en:
-  title: 'TODO: Hähnchen-Scaloppine mit Kapern und Zitrone'
-  summary: |-
-    TODO: Dünne Hähnchenschnitzel in einer pikanten Zitronen-Kapern-Sauce – das klassische Piccata-Prinzip, schnell und geschmacksintensiv.
+  title: Chicken Scaloppine with Capers and Lemon
+  summary: Thin chicken cutlets in a punchy lemon-caper sauce — the classic Piccata
+    principle, quick to make and packed with flavour.
 ingredients:
 - de_name: Hähnchenbrustfilet
-  en_name: 'TODO: Hähnchenbrustfilet'
+  en_name: chicken breast fillet
   qty: 500
   unit: g
   category: Protein und Milchprodukte
 - de_name: Kapern abgetropft
-  en_name: 'TODO: Kapern abgetropft'
+  en_name: capers, drained
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Zitrone
-  en_name: 'TODO: Zitrone'
+  en_name: lemon
   qty: 2
   unit: Stk
   category: Obst
 - de_name: Trockener Weißwein
-  en_name: 'TODO: Trockener Weißwein'
+  en_name: dry white wine
   qty: 120
   unit: ml
   category: Konserven und Vorrat
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: chicken stock
   qty: 150
   unit: ml
   category: Konserven und Vorrat
 - de_name: Mehl
-  en_name: 'TODO: Mehl'
+  en_name: flour
   qty: 3
   unit: EL
   category: Kohlenhydrate und Sattmacher
 - de_name: Butter
-  en_name: 'TODO: Butter'
+  en_name: butter
   qty: 40
   unit: g
   category: Protein und Milchprodukte
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 2
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Frische Petersilie
-  en_name: 'TODO: Frische Petersilie'
+  en_name: fresh parsley
   qty: 0.5
   unit: Bund
   category: Gemüse und Salat
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Peperoncino Flocken
-  en_name: 'TODO: Peperoncino Flocken'
+  en_name: peperoncino flakes
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Hähnchenbrustfilets horizontal halbieren und zwischen Frischhaltefolie auf ca. 5 mm Dicke flach klopfen. Mit Salz und Pfeffer würzen.
-- |-
-  Mehl auf einem tiefen Teller ausbreiten. Hähnchenschnitzel beidseitig im Mehl wenden, überschüssiges Mehl abklopfen.
-- |-
-  Olivenöl und die Hälfte der Butter in einer großen Pfanne bei mittlerer bis hoher Hitze erhitzen. Hähnchenschnitzel portionsweise 2–3 Minuten pro Seite goldbraun braten. Herausnehmen und warmhalten.
+- Hähnchenbrustfilets horizontal halbieren und zwischen Frischhaltefolie auf ca. 5
+  mm Dicke flach klopfen. Mit Salz und Pfeffer würzen.
+- Mehl auf einem tiefen Teller ausbreiten. Hähnchenschnitzel beidseitig im Mehl wenden,
+  überschüssiges Mehl abklopfen.
+- Olivenöl und die Hälfte der Butter in einer großen Pfanne bei mittlerer bis hoher
+  Hitze erhitzen. Hähnchenschnitzel portionsweise 2–3 Minuten pro Seite goldbraun
+  braten. Herausnehmen und warmhalten.
 - Knoblauch fein hacken, in der gleichen Pfanne 30 Sekunden anrösten.
-- |-
-  Mit Weißwein ablöschen und kräftig aufkochen. Hühnerbrühe dazugießen und um die Hälfte einkochen lassen.
-- |-
-  Kapern und Zitronensaft einrühren. Restliche Butter einrühren, bis die Sauce glänzt und leicht sämig ist. Peperoncino-Flocken dazugeben.
+- Mit Weißwein ablöschen und kräftig aufkochen. Hühnerbrühe dazugießen und um die
+  Hälfte einkochen lassen.
+- Kapern und Zitronensaft einrühren. Restliche Butter einrühren, bis die Sauce glänzt
+  und leicht sämig ist. Peperoncino-Flocken dazugeben.
 - Hähnchenschnitzel zurück in die Sauce legen und kurz erwärmen.
-- |-
-  Mit gehackter Petersilie und Zitronenscheiben anrichten. Dazu Linguine oder Rucola-Salat reichen.
+- Mit gehackter Petersilie und Zitronenscheiben anrichten. Dazu Linguine oder Rucola-Salat
+  reichen.
 en_steps:
-- |-
-  TODO: Hähnchenbrustfilets horizontal halbieren und zwischen Frischhaltefolie auf ca. 5 mm Dicke flach klopfen. Mit Salz und Pfeffer würzen.
-- |-
-  TODO: Mehl auf einem tiefen Teller ausbreiten. Hähnchenschnitzel beidseitig im Mehl wenden, überschüssiges Mehl abklopfen.
-- |-
-  TODO: Olivenöl und die Hälfte der Butter in einer großen Pfanne bei mittlerer bis hoher Hitze erhitzen. Hähnchenschnitzel portionsweise 2–3 Minuten pro Seite goldbraun braten. Herausnehmen und warmhalten.
-- 'TODO: Knoblauch fein hacken, in der gleichen Pfanne 30 Sekunden anrösten.'
-- |-
-  TODO: Mit Weißwein ablöschen und kräftig aufkochen. Hühnerbrühe dazugießen und um die Hälfte einkochen lassen.
-- |-
-  TODO: Kapern und Zitronensaft einrühren. Restliche Butter einrühren, bis die Sauce glänzt und leicht sämig ist. Peperoncino-Flocken dazugeben.
-- 'TODO: Hähnchenschnitzel zurück in die Sauce legen und kurz erwärmen.'
-- |-
-  TODO: Mit gehackter Petersilie und Zitronenscheiben anrichten. Dazu Linguine oder Rucola-Salat reichen.
+- Halve the chicken breast fillets horizontally and pound between plastic wrap to
+  about 5 mm thick. Season with salt and pepper.
+- Spread the flour on a deep plate. Dredge the cutlets on both sides and tap off any
+  excess.
+- Heat the olive oil and half the butter in a large pan over medium-high heat. Fry
+  the cutlets in batches for 2–3 minutes per side until golden. Remove and keep warm.
+- Finely chop the garlic and sauté in the same pan for 30 seconds.
+- Deglaze with the white wine and bring to a vigorous boil. Pour in the chicken stock
+  and reduce by half.
+- Stir in the capers and lemon juice. Whisk in the remaining butter until the sauce
+  is glossy and slightly thickened. Add the peperoncino flakes.
+- Return the cutlets to the sauce and warm through briefly.
+- Plate with chopped parsley and lemon slices. Serve with linguine or a rocket salad.

@@ -6,121 +6,121 @@ next_day: false
 meals: 2
 de:
   title: Ägyptisches Koshari
-  summary: |-
-    Ägyptens beliebtestes Straßengericht: Linsen, Reis, Nudeln und Kichererbsen mit würziger Tomatensauce und knusprigen Zwiebeln.
+  summary: 'Ägyptens beliebtestes Straßengericht: Linsen, Reis, Nudeln und Kichererbsen
+    mit würziger Tomatensauce und knusprigen Zwiebeln.'
 en:
-  title: 'TODO: Ägyptisches Koshari'
-  summary: |-
-    TODO: Ägyptens beliebtestes Straßengericht: Linsen, Reis, Nudeln und Kichererbsen mit würziger Tomatensauce und knusprigen Zwiebeln.
+  title: Egyptian Koshari
+  summary: 'Egypt''s favourite street food: lentils, rice, pasta, and chickpeas with
+    a spiced tomato sauce and crispy fried onions.'
 ingredients:
 - de_name: Braune Linsen
-  en_name: 'TODO: Braune Linsen'
+  en_name: brown lentils
   qty: 150
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Langkornreis
-  en_name: 'TODO: Langkornreis'
+  en_name: long-grain rice
   qty: 150
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Kurze Makkaroni oder Ellenbogennudeln
-  en_name: 'TODO: Kurze Makkaroni oder Ellenbogennudeln'
+  en_name: short macaroni or elbow pasta
   qty: 150
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Kichererbsen, gekocht
-  en_name: 'TODO: Kichererbsen, gekocht'
+  en_name: cooked chickpeas
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Gehackte Tomaten
-  en_name: 'TODO: Gehackte Tomaten'
+  en_name: chopped tomatoes
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Tomatenmark
-  en_name: 'TODO: Tomatenmark'
+  en_name: tomato paste
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Weißweinessig
-  en_name: 'TODO: Weißweinessig'
+  en_name: white wine vinegar
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 5
   unit: EL
   category: Konserven und Vorrat
 - de_name: Zwiebeln
-  en_name: 'TODO: Zwiebeln'
+  en_name: onions
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 5
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Kreuzkümmel, gemahlen
-  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  en_name: ground cumin
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Koriander, gemahlen
-  en_name: 'TODO: Koriander, gemahlen'
+  en_name: ground coriander
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chilipulver
-  en_name: 'TODO: Chilipulver'
+  en_name: chili powder
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Zimtpulver
-  en_name: 'TODO: Zimtpulver'
+  en_name: ground cinnamon
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Paprikapulver
-  en_name: 'TODO: Paprikapulver'
+  en_name: paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Linsen in Salzwasser 20 Minuten kochen, bis weich. Abgießen. Reis nach Packungsanweisung garen. Nudeln in Salzwasser al dente kochen. Abgießen.
-- |-
-  Zwiebeln in dünne Ringe schneiden. In reichlich Olivenöl bei hoher Hitze 20–25 Minuten frittieren bis tiefbraun und knusprig. Auf Küchenpapier abtropfen.
-- |-
-  Im verbliebenen Öl Knoblauch 1 Minute anbraten. Tomatenmark einrühren, 2 Minuten rösten. Chilipulver, Kreuzkümmel, Koriander, Zimt, Paprika einstreuen.
-- |-
-  Gehackte Tomaten und Essig hinzufügen. 15 Minuten köcheln lassen, bis eine dicke, würzige Sauce entsteht. Mit Salz abschmecken.
-- |-
-  Linsen, Reis und Nudeln vorsichtig in einem Topf vermengen. Kichererbsen einrühren, alles kurz erhitzen.
-- |-
-  Koshari in tiefe Schüsseln portionieren. Großzügig Tomatensauce darüber löffeln und mit den knusprigen Zwiebeln bedecken. Sofort servieren.
+- Linsen in Salzwasser 20 Minuten kochen, bis weich. Abgießen. Reis nach Packungsanweisung
+  garen. Nudeln in Salzwasser al dente kochen. Abgießen.
+- Zwiebeln in dünne Ringe schneiden. In reichlich Olivenöl bei hoher Hitze 20–25 Minuten
+  frittieren bis tiefbraun und knusprig. Auf Küchenpapier abtropfen.
+- Im verbliebenen Öl Knoblauch 1 Minute anbraten. Tomatenmark einrühren, 2 Minuten
+  rösten. Chilipulver, Kreuzkümmel, Koriander, Zimt, Paprika einstreuen.
+- Gehackte Tomaten und Essig hinzufügen. 15 Minuten köcheln lassen, bis eine dicke,
+  würzige Sauce entsteht. Mit Salz abschmecken.
+- Linsen, Reis und Nudeln vorsichtig in einem Topf vermengen. Kichererbsen einrühren,
+  alles kurz erhitzen.
+- Koshari in tiefe Schüsseln portionieren. Großzügig Tomatensauce darüber löffeln
+  und mit den knusprigen Zwiebeln bedecken. Sofort servieren.
 en_steps:
-- |-
-  TODO: Linsen in Salzwasser 20 Minuten kochen, bis weich. Abgießen. Reis nach Packungsanweisung garen. Nudeln in Salzwasser al dente kochen. Abgießen.
-- |-
-  TODO: Zwiebeln in dünne Ringe schneiden. In reichlich Olivenöl bei hoher Hitze 20–25 Minuten frittieren bis tiefbraun und knusprig. Auf Küchenpapier abtropfen.
-- |-
-  TODO: Im verbliebenen Öl Knoblauch 1 Minute anbraten. Tomatenmark einrühren, 2 Minuten rösten. Chilipulver, Kreuzkümmel, Koriander, Zimt, Paprika einstreuen.
-- |-
-  TODO: Gehackte Tomaten und Essig hinzufügen. 15 Minuten köcheln lassen, bis eine dicke, würzige Sauce entsteht. Mit Salz abschmecken.
-- |-
-  TODO: Linsen, Reis und Nudeln vorsichtig in einem Topf vermengen. Kichererbsen einrühren, alles kurz erhitzen.
-- |-
-  TODO: Koshari in tiefe Schüsseln portionieren. Großzügig Tomatensauce darüber löffeln und mit den knusprigen Zwiebeln bedecken. Sofort servieren.
+- Cook lentils in salted water for 20 minutes until soft. Drain. Cook rice according
+  to package instructions. Cook pasta in salted water until al dente. Drain.
+- Slice onions into thin rings. Deep-fry in plenty of olive oil over high heat for
+  20–25 minutes until deep brown and crispy. Drain on paper towels.
+- In the remaining oil, fry garlic for 1 minute. Stir in tomato paste; toast for 2
+  minutes. Add chili powder, cumin, coriander, cinnamon, and paprika.
+- Add chopped tomatoes and vinegar. Simmer for 15 minutes until a thick, spiced sauce
+  forms. Season with salt.
+- Gently combine lentils, rice, and pasta in a pot. Stir in chickpeas; heat everything
+  briefly.
+- Portion Koshari into deep bowls. Spoon tomato sauce generously over the top and
+  cover with the crispy onions. Serve immediately.

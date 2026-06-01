@@ -6,123 +6,123 @@ next_day: false
 meals: 2
 de:
   title: Bibimbap mit Hähnchen und Gemüse
-  summary: |-
-    Koreanische Reisschale mit würzigem mariniertem Hähnchen, buntem sautierten Gemüse, Spiegelei und würziger Gochujang-Paste.
+  summary: Koreanische Reisschale mit würzigem mariniertem Hähnchen, buntem sautierten
+    Gemüse, Spiegelei und würziger Gochujang-Paste.
 en:
-  title: 'TODO: Bibimbap mit Hähnchen und Gemüse'
-  summary: |-
-    TODO: Koreanische Reisschale mit würzigem mariniertem Hähnchen, buntem sautierten Gemüse, Spiegelei und würziger Gochujang-Paste.
+  title: Bibimbap with Chicken and Vegetables
+  summary: Korean rice bowl with spiced marinated chicken, colourful sautéed vegetables,
+    a fried egg with a soft yolk, and fiery gochujang sauce.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 600
   unit: g
   category: Protein und Milchprodukte
 - de_name: Eier
-  en_name: 'TODO: Eier'
+  en_name: eggs
   qty: 4
   unit: Stk
   category: Protein und Milchprodukte
 - de_name: Spinat (frisch)
-  en_name: 'TODO: Spinat (frisch)'
+  en_name: fresh spinach
   qty: 200
   unit: g
   category: Gemüse und Salat
 - de_name: Karotten
-  en_name: 'TODO: Karotten'
+  en_name: carrots
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zucchini
-  en_name: 'TODO: Zucchini'
+  en_name: zucchini
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Sojasprossen (Kongnamul)
-  en_name: 'TODO: Sojasprossen (Kongnamul)'
+  en_name: bean sprouts (kongnamul)
   qty: 150
   unit: g
   category: Gemüse und Salat
 - de_name: Shiitake-Pilze
-  en_name: 'TODO: Shiitake-Pilze'
+  en_name: shiitake mushrooms
   qty: 150
   unit: g
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 5
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Frühlingszwiebeln
-  en_name: 'TODO: Frühlingszwiebeln'
+  en_name: spring onions
   qty: 1
   unit: Bund
   category: Gemüse und Salat
 - de_name: Kurzkörniger Reis (Sushireis)
-  en_name: 'TODO: Kurzkörniger Reis (Sushireis)'
+  en_name: short-grain rice (sushi rice)
   qty: 400
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Gochujang (koreanische Chilipaste)
-  en_name: 'TODO: Gochujang (koreanische Chilipaste)'
+  en_name: gochujang (Korean chili paste)
   qty: 4
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sojasoße
-  en_name: 'TODO: Sojasoße'
+  en_name: soy sauce
   qty: 4
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sesamöl
-  en_name: 'TODO: Sesamöl'
+  en_name: sesame oil
   qty: 4
   unit: EL
   category: Konserven und Vorrat
 - de_name: Reisessig
-  en_name: 'TODO: Reisessig'
+  en_name: rice vinegar
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Zucker
-  en_name: 'TODO: Zucker'
+  en_name: sugar
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Pflanzenöl
-  en_name: 'TODO: Pflanzenöl'
+  en_name: vegetable oil
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sesamkörner (weiß)
-  en_name: 'TODO: Sesamkörner (weiß)'
+  en_name: sesame seeds (white)
   qty: 3
   unit: EL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
 - Reis waschen und garen.
-- |-
-  Hähnchen in dünne Streifen schneiden, mit 2 EL Sojasoße, 1 EL Sesamöl, 2 zerdrückten Knoblauchzehen, Zucker und Pfeffer 20 Minuten marinieren.
+- Hähnchen in dünne Streifen schneiden, mit 2 EL Sojasoße, 1 EL Sesamöl, 2 zerdrückten
+  Knoblauchzehen, Zucker und Pfeffer 20 Minuten marinieren.
 - 'Bibimbap-Soße: Gochujang, Reisessig, 1 EL Sesamöl und 2 EL Wasser glatt rühren.'
-- |-
-  Gemüse einzeln in einer Pfanne kurz sautieren. Alles mit Sojasoße und Sesamkörnern würzen.
+- Gemüse einzeln in einer Pfanne kurz sautieren. Alles mit Sojasoße und Sesamkörnern
+  würzen.
 - Hähnchen in einer Pfanne mit Pflanzenöl scharf 5–6 Minuten braten.
 - Eier als Spiegeleier mit weichem Dotter braten.
-- |-
-  Reis in Schüsseln geben, Hähnchen und alle Gemüsesorten ordentlich darauf anrichten. Spiegelei obenauf setzen.
+- Reis in Schüsseln geben, Hähnchen und alle Gemüsesorten ordentlich darauf anrichten.
+  Spiegelei obenauf setzen.
 en_steps:
-- 'TODO: Reis waschen und garen.'
-- |-
-  TODO: Hähnchen in dünne Streifen schneiden, mit 2 EL Sojasoße, 1 EL Sesamöl, 2 zerdrückten Knoblauchzehen, Zucker und Pfeffer 20 Minuten marinieren.
-- |-
-  TODO: Bibimbap-Soße: Gochujang, Reisessig, 1 EL Sesamöl und 2 EL Wasser glatt rühren.
-- |-
-  TODO: Gemüse einzeln in einer Pfanne kurz sautieren. Alles mit Sojasoße und Sesamkörnern würzen.
-- 'TODO: Hähnchen in einer Pfanne mit Pflanzenöl scharf 5–6 Minuten braten.'
-- 'TODO: Eier als Spiegeleier mit weichem Dotter braten.'
-- |-
-  TODO: Reis in Schüsseln geben, Hähnchen und alle Gemüsesorten ordentlich darauf anrichten. Spiegelei obenauf setzen.
+- Wash and cook the rice.
+- Slice chicken into thin strips; marinate with 2 tbsp soy sauce, 1 tbsp sesame oil,
+  2 crushed garlic cloves, sugar, and pepper for 20 minutes.
+- 'Bibimbap sauce: stir together gochujang, rice vinegar, 1 tbsp sesame oil, and 2
+  tbsp water until smooth.'
+- Sauté each vegetable separately in a pan for a short time. Season everything with
+  soy sauce and sesame seeds.
+- Fry chicken in a pan with vegetable oil for 5–6 minutes over high heat.
+- Fry eggs sunny-side up with a soft yolk.
+- Place rice in bowls, neatly arrange chicken and all the vegetables on top. Set a
+  fried egg on each.

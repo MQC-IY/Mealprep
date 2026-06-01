@@ -9,51 +9,51 @@ de:
   title: Quinoa-Gemüse-Pfanne mit Hähnchen
   summary: Lockere Pfanne mit Quinoa, Hähnchen, Paprika, Möhren und Erbsen.
 en:
-  title: 'TODO: Quinoa-Gemüse-Pfanne mit Hähnchen'
-  summary: 'TODO: Lockere Pfanne mit Quinoa, Hähnchen, Paprika, Möhren und Erbsen.'
+  title: Quinoa and Vegetable Skillet with Chicken
+  summary: A light skillet of quinoa, chicken, bell peppers, carrots, and peas.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 750
   unit: g
   category: Protein und Milchprodukte
 - de_name: Quinoa
-  en_name: 'TODO: Quinoa'
+  en_name: quinoa
   qty: 280
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Paprika
-  en_name: 'TODO: Paprika'
+  en_name: bell pepper
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: carrots
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Erbsen, TK
-  en_name: 'TODO: Erbsen, TK'
+  en_name: frozen peas
   qty: 200
   unit: g
   category: Gemüse und Salat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Paprika edelsüß
-  en_name: 'TODO: Paprika edelsüß'
+  en_name: sweet paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -62,6 +62,6 @@ de_steps:
 - Hähnchen und Zwiebel scharf anbraten.
 - Paprika, Möhren und Erbsen weich garen.
 en_steps:
-- 'TODO: Quinoa nach Packungsangabe garen.'
-- 'TODO: Hähnchen und Zwiebel scharf anbraten.'
-- 'TODO: Paprika, Möhren und Erbsen weich garen.'
+- Cook the quinoa according to package directions.
+- Sear the chicken and onion over high heat.
+- Cook the bell peppers, carrots, and peas until tender.

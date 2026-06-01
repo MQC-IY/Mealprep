@@ -8,57 +8,57 @@ de:
   title: Quinoa-Auflauf mit Hähnchen und Gemüse
   summary: Meal-Prep-tauglicher Auflauf mit Quinoa, Hähnchen, Brokkoli und Paprika.
 en:
-  title: 'TODO: Quinoa-Auflauf mit Hähnchen und Gemüse'
-  summary: 'TODO: Meal-Prep-tauglicher Auflauf mit Quinoa, Hähnchen, Brokkoli und
-    Paprika.'
+  title: Quinoa and Vegetable Bake with Chicken
+  summary: A meal-prep-friendly bake of quinoa, chicken, broccoli, and bell peppers,
+    bound with a yogurt-egg custard.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 750
   unit: g
   category: Protein und Milchprodukte
 - de_name: Quinoa
-  en_name: 'TODO: Quinoa'
+  en_name: quinoa
   qty: 260
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Brokkoli
-  en_name: 'TODO: Brokkoli'
+  en_name: broccoli
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Paprika
-  en_name: 'TODO: Paprika'
+  en_name: bell pepper
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: carrots
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Eier
-  en_name: 'TODO: Eier'
+  en_name: eggs
   qty: 3
   unit: Stk
   category: Protein und Milchprodukte
 - de_name: Naturjoghurt
-  en_name: 'TODO: Naturjoghurt'
+  en_name: plain yogurt
   qty: 180
   unit: g
   category: Protein und Milchprodukte
 - de_name: Gouda gerieben
-  en_name: 'TODO: Gouda gerieben'
+  en_name: grated Gouda
   qty: 70
   unit: g
   category: Protein und Milchprodukte
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -67,6 +67,7 @@ de_steps:
 - Hähnchen und Gemüse klein schneiden und kurz anbraten oder vorgaren.
 - Alles in eine Form geben, Eier mit Joghurt verrühren und darübergeben.
 en_steps:
-- 'TODO: Quinoa vorgaren.'
-- 'TODO: Hähnchen und Gemüse klein schneiden und kurz anbraten oder vorgaren.'
-- 'TODO: Alles in eine Form geben, Eier mit Joghurt verrühren und darübergeben.'
+- Pre-cook the quinoa.
+- Cut the chicken and vegetables into small pieces and briefly sauté or par-cook.
+- Transfer everything to a baking dish, whisk the eggs with the yogurt, and pour over
+  the top.

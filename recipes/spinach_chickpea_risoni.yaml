@@ -7,50 +7,48 @@ quick_minutes: 25
 meals: 3
 de:
   title: Risoni mit Kichererbsen und Spinat
-  summary: |-
-    Schnelle, milde Risoni-Pfanne mit Kichererbsen, Spinat und leichter Tomatensauce.
+  summary: Schnelle, milde Risoni-Pfanne mit Kichererbsen, Spinat und leichter Tomatensauce.
 en:
-  title: 'TODO: Risoni mit Kichererbsen und Spinat'
-  summary: |-
-    TODO: Schnelle, milde Risoni-Pfanne mit Kichererbsen, Spinat und leichter Tomatensauce.
+  title: Risoni with Chickpeas and Spinach
+  summary: A quick, mild orzo pan with chickpeas, spinach and a light tomato sauce.
 ingredients:
 - de_name: Orzo oder Kritharaki
-  en_name: 'TODO: Orzo oder Kritharaki'
+  en_name: orzo (risoni)
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Kichererbsen
-  en_name: 'TODO: Kichererbsen'
+  en_name: chickpeas
   qty: 2
   unit: Dosen
   category: Konserven und Vorrat
 - de_name: Blattspinat
-  en_name: 'TODO: Blattspinat'
+  en_name: baby spinach
   qty: 180
   unit: g
   category: Gemüse und Salat
 - de_name: Passierte Tomaten
-  en_name: 'TODO: Passierte Tomaten'
+  en_name: strained tomatoes (passata)
   qty: 1
   unit: Glas
   category: Konserven und Vorrat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Basilikum
-  en_name: 'TODO: Basilikum'
+  en_name: basil
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chilli flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -59,6 +57,6 @@ de_steps:
 - Zwiebel in Olivenöl anschwitzen, Tomaten und Kichererbsen zugeben.
 - Spinat unterheben, bis er zusammenfällt.
 en_steps:
-- 'TODO: Risoni weich garen.'
-- 'TODO: Zwiebel in Olivenöl anschwitzen, Tomaten und Kichererbsen zugeben.'
-- 'TODO: Spinat unterheben, bis er zusammenfällt.'
+- Cook risoni (orzo) until tender.
+- Sauté onion in olive oil, add tomatoes and chickpeas.
+- Fold in spinach until it wilts down.

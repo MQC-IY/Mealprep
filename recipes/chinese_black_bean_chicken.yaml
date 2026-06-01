@@ -7,123 +7,121 @@ quick_minutes: 25
 meals: 2
 de:
   title: Hähnchen mit Schwarzer-Bohnen-Sauce
-  summary: |-
-    Herzhaftes chinesisches Hähnchen-Wokgericht mit fermentierter Schwarzer-Bohnen-Sauce, Paprika und Ingwer.
+  summary: Herzhaftes chinesisches Hähnchen-Wokgericht mit fermentierter Schwarzer-Bohnen-Sauce,
+    Paprika und Ingwer.
 en:
-  title: 'TODO: Hähnchen mit Schwarzer-Bohnen-Sauce'
-  summary: |-
-    TODO: Herzhaftes chinesisches Hähnchen-Wokgericht mit fermentierter Schwarzer-Bohnen-Sauce, Paprika und Ingwer.
+  title: Chinese Chicken with Black Bean Sauce
+  summary: A hearty Chinese wok dish featuring tender chicken strips in a rich fermented
+    black bean sauce with bell peppers and ginger.
 ingredients:
 - de_name: Hähnchenbrustfilet
-  en_name: 'TODO: Hähnchenbrustfilet'
+  en_name: chicken breast fillet
   qty: 400
   unit: g
   category: Protein und Milchprodukte
 - de_name: Jasminreis
-  en_name: 'TODO: Jasminreis'
+  en_name: jasmine rice
   qty: 200
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Ingwer, frisch
-  en_name: 'TODO: Ingwer, frisch'
+  en_name: fresh ginger
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Paprika (rot und grün)
-  en_name: 'TODO: Paprika (rot und grün)'
+  en_name: bell peppers (red and green)
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Frühlingszwiebeln
-  en_name: 'TODO: Frühlingszwiebeln'
+  en_name: spring onions
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Schwarze-Bohnen-Sauce (Douchi-Paste)
-  en_name: 'TODO: Schwarze-Bohnen-Sauce (Douchi-Paste)'
+  en_name: black bean sauce (douchi paste)
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sojasauce
-  en_name: 'TODO: Sojasauce'
+  en_name: soy sauce
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Austernsauce
-  en_name: 'TODO: Austernsauce'
+  en_name: oyster sauce
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Shaoxing-Reiswein
-  en_name: 'TODO: Shaoxing-Reiswein'
+  en_name: Shaoxing rice wine
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: chicken stock
   qty: 100
   unit: ml
   category: Konserven und Vorrat
 - de_name: Speisestärke
-  en_name: 'TODO: Speisestärke'
+  en_name: cornstarch
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Erdnussöl
-  en_name: 'TODO: Erdnussöl'
+  en_name: peanut oil
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sesamöl
-  en_name: 'TODO: Sesamöl'
+  en_name: sesame oil
   qty: 1
   unit: TL
   category: Konserven und Vorrat
 - de_name: Schwarzer Pfeffer, gemahlen
-  en_name: 'TODO: Schwarzer Pfeffer, gemahlen'
+  en_name: black pepper, ground
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Getrocknete Chiliflocken
-  en_name: 'TODO: Getrocknete Chiliflocken'
+  en_name: dried chili flakes
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
 - Jasminreis waschen und kochen.
-- |-
-  Hähnchen in dünne Streifen schneiden. Mit 1 EL Sojasauce, 1 EL Shaoxing-Wein, Stärke (1 EL) und Pfeffer 15 Minuten marinieren.
+- Hähnchen in dünne Streifen schneiden. Mit 1 EL Sojasauce, 1 EL Shaoxing-Wein, Stärke
+  (1 EL) und Pfeffer 15 Minuten marinieren.
 - Paprika und Zwiebel in Streifen schneiden. Knoblauch und Ingwer fein hacken.
-- |-
-  Sauce: Schwarze-Bohnen-Sauce, restliche Sojasauce, Austernsauce, Brühe, Chiliflocken und restliche Stärke (in Wasser) verrühren.
-- |-
-  Öl im Wok bei starker Hitze erhitzen. Hähnchen 3–4 Minuten scharf braten. Herausnehmen.
+- 'Sauce: Schwarze-Bohnen-Sauce, restliche Sojasauce, Austernsauce, Brühe, Chiliflocken
+  und restliche Stärke (in Wasser) verrühren.'
+- Öl im Wok bei starker Hitze erhitzen. Hähnchen 3–4 Minuten scharf braten. Herausnehmen.
 - Knoblauch und Ingwer 30 Sek. anbraten. Zwiebel und Paprika 2 Minuten mitbraten.
-- |-
-  Restlichen Shaoxing-Wein zugeben. Hähnchen zurückgeben. Sauce angießen und 2 Min. eindicken lassen.
+- Restlichen Shaoxing-Wein zugeben. Hähnchen zurückgeben. Sauce angießen und 2 Min.
+  eindicken lassen.
 - Sesamöl und Frühlingszwiebeln unterheben. Mit Reis servieren.
 en_steps:
-- 'TODO: Jasminreis waschen und kochen.'
-- |-
-  TODO: Hähnchen in dünne Streifen schneiden. Mit 1 EL Sojasauce, 1 EL Shaoxing-Wein, Stärke (1 EL) und Pfeffer 15 Minuten marinieren.
-- |-
-  TODO: Paprika und Zwiebel in Streifen schneiden. Knoblauch und Ingwer fein hacken.
-- |-
-  TODO: Sauce: Schwarze-Bohnen-Sauce, restliche Sojasauce, Austernsauce, Brühe, Chiliflocken und restliche Stärke (in Wasser) verrühren.
-- |-
-  TODO: Öl im Wok bei starker Hitze erhitzen. Hähnchen 3–4 Minuten scharf braten. Herausnehmen.
-- |-
-  TODO: Knoblauch und Ingwer 30 Sek. anbraten. Zwiebel und Paprika 2 Minuten mitbraten.
-- |-
-  TODO: Restlichen Shaoxing-Wein zugeben. Hähnchen zurückgeben. Sauce angießen und 2 Min. eindicken lassen.
-- 'TODO: Sesamöl und Frühlingszwiebeln unterheben. Mit Reis servieren.'
+- Rinse and cook the jasmine rice.
+- Cut the chicken into thin strips. Marinate with 1 tbsp soy sauce, 1 tbsp Shaoxing
+  wine, 1 tbsp cornstarch, and pepper for 15 minutes.
+- Cut the bell peppers and onion into strips. Finely chop the garlic and ginger.
+- 'Sauce: stir together the black bean sauce, remaining soy sauce, oyster sauce, stock,
+  chili flakes, and remaining cornstarch dissolved in water.'
+- Heat the oil in a wok over high heat. Stir-fry the chicken for 3–4 minutes. Remove
+  and set aside.
+- Stir-fry the garlic and ginger for 30 seconds. Add the onion and bell peppers and
+  cook for 2 minutes.
+- Pour in the remaining Shaoxing wine. Return the chicken. Add the sauce and let it
+  thicken for 2 minutes.
+- Fold in the sesame oil and spring onions. Serve with rice.

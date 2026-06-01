@@ -6,126 +6,127 @@ next_day: true
 meals: 2
 de:
   title: Marokkanisches Hähnchen-Tagine mit Oliven und Salzzitronen
-  summary: |-
-    Schmortopf mit zartem Hähnchen, grünen Oliven und Salzzitronen in einer tief gewürzten Ras-el-Hanout-Sauce – marokkanische Küche in ihrer schönsten Form.
+  summary: Schmortopf mit zartem Hähnchen, grünen Oliven und Salzzitronen in einer
+    tief gewürzten Ras-el-Hanout-Sauce – marokkanische Küche in ihrer schönsten Form.
 en:
-  title: 'TODO: Marokkanisches Hähnchen-Tagine mit Oliven und Salzzitronen'
-  summary: |-
-    TODO: Schmortopf mit zartem Hähnchen, grünen Oliven und Salzzitronen in einer tief gewürzten Ras-el-Hanout-Sauce – marokkanische Küche in ihrer schönsten Form.
+  title: Moroccan Chicken Tagine with Olives and Preserved Lemon
+  summary: A slow-braised pot of tender chicken, green olives, and preserved lemon
+    in a deeply spiced ras el hanout sauce — Moroccan cuisine at its finest.
 ingredients:
 - de_name: Hähnchenschenkel
-  en_name: 'TODO: Hähnchenschenkel'
+  en_name: Chicken legs
   qty: 4
   unit: Stk
   category: Protein und Milchprodukte
 - de_name: Zwiebeln
-  en_name: 'TODO: Zwiebeln'
+  en_name: Onions
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: Garlic cloves
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Frische Korianderblätter
-  en_name: 'TODO: Frische Korianderblätter'
+  en_name: Fresh coriander leaves
   qty: 0.5
   unit: Bund
   category: Gemüse und Salat
 - de_name: Frische Petersilie
-  en_name: 'TODO: Frische Petersilie'
+  en_name: Fresh parsley
   qty: 0.5
   unit: Bund
   category: Gemüse und Salat
 - de_name: Grüne Oliven, entsteint
-  en_name: 'TODO: Grüne Oliven, entsteint'
+  en_name: Green olives, pitted
   qty: 100
   unit: g
   category: Konserven und Vorrat
 - de_name: Salzzitrone
-  en_name: 'TODO: Salzzitrone'
+  en_name: Preserved lemon
   qty: 1
   unit: Stk
   category: Konserven und Vorrat
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: Chicken broth
   qty: 300
   unit: ml
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 4
   unit: EL
   category: Konserven und Vorrat
 - de_name: Couscous
-  en_name: 'TODO: Couscous'
+  en_name: Couscous
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Ras el Hanout
-  en_name: 'TODO: Ras el Hanout'
+  en_name: Ras el hanout
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Kurkuma
-  en_name: 'TODO: Kurkuma'
+  en_name: Turmeric
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Ingwer, gemahlen
-  en_name: 'TODO: Ingwer, gemahlen'
+  en_name: Ground ginger
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Kreuzkümmel, gemahlen
-  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  en_name: Ground cumin
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Paprikapulver
-  en_name: 'TODO: Paprikapulver'
+  en_name: Paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Zimtpulver
-  en_name: 'TODO: Zimtpulver'
+  en_name: Ground cinnamon
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: Black pepper
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: Salt
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Hähnchenschenkel trocken tupfen. Mit Ras el Hanout, Kurkuma, gemahlenem Ingwer, Kreuzkümmel und Olivenöl einreiben. 1 Stunde marinieren.
-- |-
-  Olivenöl in einem Schmortopf oder Tajine erhitzen. Hähnchenstücke von allen Seiten goldbraun anbraten (ca. 4 Minuten pro Seite). Herausnehmen.
-- |-
-  Halbierte Zwiebeln in dünne Scheiben schneiden und im Bratfett 10 Minuten weich dünsten. Knoblauch fein hacken und 2 Minuten mitbraten.
-- |-
-  Zimtpulver, Paprika und Pfeffer einrühren. Hühnerbrühe angießen, aufkochen. Hähnchen zurück in den Topf legen.
-- |-
-  Salzzitrone in Viertel schneiden, das Fruchtfleisch entfernen und nur die Schale verwenden. Mit Oliven zum Hähnchen geben. Deckel auflegen und 45 Minuten bei niedriger Hitze schmoren.
-- |-
-  Couscous nach Packungsanweisung zubereiten (mit heißer Hühnerbrühe aufgießen). Tagine mit Koriander und Petersilie bestreuen und mit Couscous servieren.
+- Hähnchenschenkel trocken tupfen. Mit Ras el Hanout, Kurkuma, gemahlenem Ingwer,
+  Kreuzkümmel und Olivenöl einreiben. 1 Stunde marinieren.
+- Olivenöl in einem Schmortopf oder Tajine erhitzen. Hähnchenstücke von allen Seiten
+  goldbraun anbraten (ca. 4 Minuten pro Seite). Herausnehmen.
+- Halbierte Zwiebeln in dünne Scheiben schneiden und im Bratfett 10 Minuten weich
+  dünsten. Knoblauch fein hacken und 2 Minuten mitbraten.
+- Zimtpulver, Paprika und Pfeffer einrühren. Hühnerbrühe angießen, aufkochen. Hähnchen
+  zurück in den Topf legen.
+- Salzzitrone in Viertel schneiden, das Fruchtfleisch entfernen und nur die Schale
+  verwenden. Mit Oliven zum Hähnchen geben. Deckel auflegen und 45 Minuten bei niedriger
+  Hitze schmoren.
+- Couscous nach Packungsanweisung zubereiten (mit heißer Hühnerbrühe aufgießen). Tagine
+  mit Koriander und Petersilie bestreuen und mit Couscous servieren.
 en_steps:
-- |-
-  TODO: Hähnchenschenkel trocken tupfen. Mit Ras el Hanout, Kurkuma, gemahlenem Ingwer, Kreuzkümmel und Olivenöl einreiben. 1 Stunde marinieren.
-- |-
-  TODO: Olivenöl in einem Schmortopf oder Tajine erhitzen. Hähnchenstücke von allen Seiten goldbraun anbraten (ca. 4 Minuten pro Seite). Herausnehmen.
-- |-
-  TODO: Halbierte Zwiebeln in dünne Scheiben schneiden und im Bratfett 10 Minuten weich dünsten. Knoblauch fein hacken und 2 Minuten mitbraten.
-- |-
-  TODO: Zimtpulver, Paprika und Pfeffer einrühren. Hühnerbrühe angießen, aufkochen. Hähnchen zurück in den Topf legen.
-- |-
-  TODO: Salzzitrone in Viertel schneiden, das Fruchtfleisch entfernen und nur die Schale verwenden. Mit Oliven zum Hähnchen geben. Deckel auflegen und 45 Minuten bei niedriger Hitze schmoren.
-- |-
-  TODO: Couscous nach Packungsanweisung zubereiten (mit heißer Hühnerbrühe aufgießen). Tagine mit Koriander und Petersilie bestreuen und mit Couscous servieren.
+- Pat the chicken legs dry. Rub with ras el hanout, turmeric, ground ginger, cumin,
+  and olive oil. Marinate for 1 hour.
+- Heat olive oil in a casserole or tagine. Sear the chicken pieces until golden on
+  all sides (about 4 minutes per side). Remove.
+- Slice the halved onions thinly and sweat in the cooking fat for 10 minutes. Add
+  the garlic and cook for 2 minutes more.
+- Stir in the ground cinnamon, paprika, and pepper. Pour in the chicken broth and
+  bring to a boil. Return the chicken to the pot.
+- Quarter the preserved lemon, scoop out and discard the flesh, and use only the rind.
+  Add to the pot along with the olives. Cover and braise over low heat for 45 minutes.
+- Prepare the couscous according to the packet instructions (pour over hot chicken
+  broth). Scatter coriander and parsley over the tagine and serve with the couscous.

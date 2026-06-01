@@ -7,126 +7,125 @@ quick_minutes: 28
 meals: 2
 de:
   title: Israelisches Shakshuka-Hähnchen mit Feta
-  summary: |-
-    Klassische Shakshuka erweitert mit würzigem Hähnchen und zerbröseltem Feta – herzhaft, bunt und vollgepackt mit Aromen.
+  summary: Klassische Shakshuka erweitert mit würzigem Hähnchen und zerbröseltem Feta
+    – herzhaft, bunt und vollgepackt mit Aromen.
 en:
-  title: 'TODO: Israelisches Shakshuka-Hähnchen mit Feta'
-  summary: |-
-    TODO: Klassische Shakshuka erweitert mit würzigem Hähnchen und zerbröseltem Feta – herzhaft, bunt und vollgepackt mit Aromen.
+  title: Israeli Shakshuka Chicken with Feta
+  summary: Classic Shakshuka elevated with spiced chicken and crumbled feta — bold,
+    colourful, and packed with flavour.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 400
   unit: g
   category: Protein und Milchprodukte
 - de_name: Eier
-  en_name: 'TODO: Eier'
+  en_name: eggs
   qty: 4
   unit: Stk
   category: Protein und Milchprodukte
 - de_name: Feta-Käse
-  en_name: 'TODO: Feta-Käse'
+  en_name: feta cheese
   qty: 120
   unit: g
   category: Protein und Milchprodukte
 - de_name: Zwiebeln
-  en_name: 'TODO: Zwiebeln'
+  en_name: onions
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Paprika, rot
-  en_name: 'TODO: Paprika, rot'
+  en_name: red bell pepper
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Frische Petersilie
-  en_name: 'TODO: Frische Petersilie'
+  en_name: fresh parsley
   qty: 0.5
   unit: Bund
   category: Gemüse und Salat
 - de_name: Frische Minzblätter
-  en_name: 'TODO: Frische Minzblätter'
+  en_name: fresh mint leaves
   qty: 0.25
   unit: Bund
   category: Gemüse und Salat
 - de_name: Gehackte Tomaten
-  en_name: 'TODO: Gehackte Tomaten'
+  en_name: canned chopped tomatoes
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Tomatenmark
-  en_name: 'TODO: Tomatenmark'
+  en_name: tomato paste
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Pita-Brot
-  en_name: 'TODO: Pita-Brot'
+  en_name: pita bread
   qty: 4
   unit: Stk
   category: Kohlenhydrate und Sattmacher
 - de_name: Kreuzkümmel, gemahlen
-  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  en_name: ground cumin
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Koriander, gemahlen
-  en_name: 'TODO: Koriander, gemahlen'
+  en_name: ground coriander
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Paprikapulver, geräuchert
-  en_name: 'TODO: Paprikapulver, geräuchert'
+  en_name: smoked paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chilipulver
-  en_name: 'TODO: Chilipulver'
+  en_name: chili powder
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Hähnchen in kleine Würfel schneiden, mit Salz, Pfeffer und Kreuzkümmel würzen. In Olivenöl scharf anbraten (5 Minuten), herausnehmen.
-- |-
-  In derselben Pfanne Zwiebeln und Paprika 8 Minuten weich dünsten. Knoblauch einrühren, 2 Minuten mitbraten.
-- |-
-  Tomatenmark einrühren und kurz rösten. Koriander, geräuchertes Paprika, restlichen Kreuzkümmel und Chili hinzufügen.
-- |-
-  Gehackte Tomaten und angebratenes Hähnchen in die Pfanne geben. 10 Minuten köcheln lassen. Mit Salz abschmecken.
-- |-
-  Vier Vertiefungen in die Sauce drücken, je ein Ei hineingleiten lassen. Feta über die gesamte Oberfläche bröckeln. Pfanne abdecken, 5–7 Minuten bei mittlerer Hitze garen.
-- |-
-  Mit Petersilie und Minze bestreuen. Direkt aus der Pfanne mit warmem Pita-Brot servieren.
+- Hähnchen in kleine Würfel schneiden, mit Salz, Pfeffer und Kreuzkümmel würzen. In
+  Olivenöl scharf anbraten (5 Minuten), herausnehmen.
+- In derselben Pfanne Zwiebeln und Paprika 8 Minuten weich dünsten. Knoblauch einrühren,
+  2 Minuten mitbraten.
+- Tomatenmark einrühren und kurz rösten. Koriander, geräuchertes Paprika, restlichen
+  Kreuzkümmel und Chili hinzufügen.
+- Gehackte Tomaten und angebratenes Hähnchen in die Pfanne geben. 10 Minuten köcheln
+  lassen. Mit Salz abschmecken.
+- Vier Vertiefungen in die Sauce drücken, je ein Ei hineingleiten lassen. Feta über
+  die gesamte Oberfläche bröckeln. Pfanne abdecken, 5–7 Minuten bei mittlerer Hitze
+  garen.
+- Mit Petersilie und Minze bestreuen. Direkt aus der Pfanne mit warmem Pita-Brot servieren.
 en_steps:
-- |-
-  TODO: Hähnchen in kleine Würfel schneiden, mit Salz, Pfeffer und Kreuzkümmel würzen. In Olivenöl scharf anbraten (5 Minuten), herausnehmen.
-- |-
-  TODO: In derselben Pfanne Zwiebeln und Paprika 8 Minuten weich dünsten. Knoblauch einrühren, 2 Minuten mitbraten.
-- |-
-  TODO: Tomatenmark einrühren und kurz rösten. Koriander, geräuchertes Paprika, restlichen Kreuzkümmel und Chili hinzufügen.
-- |-
-  TODO: Gehackte Tomaten und angebratenes Hähnchen in die Pfanne geben. 10 Minuten köcheln lassen. Mit Salz abschmecken.
-- |-
-  TODO: Vier Vertiefungen in die Sauce drücken, je ein Ei hineingleiten lassen. Feta über die gesamte Oberfläche bröckeln. Pfanne abdecken, 5–7 Minuten bei mittlerer Hitze garen.
-- |-
-  TODO: Mit Petersilie und Minze bestreuen. Direkt aus der Pfanne mit warmem Pita-Brot servieren.
+- Cut the chicken into small cubes, season with salt, pepper, and cumin. Sear in olive
+  oil for 5 minutes, then remove.
+- In the same pan, soften the onions and bell peppers for 8 minutes. Stir in the garlic
+  and cook for 2 minutes.
+- Stir in the tomato paste and briefly fry. Add the coriander, smoked paprika, remaining
+  cumin, and chili.
+- Add the canned tomatoes and the seared chicken to the pan. Simmer for 10 minutes.
+  Season with salt.
+- Press four wells into the sauce and slide one egg into each. Crumble the feta over
+  the whole surface. Cover the pan and cook over medium heat for 5–7 minutes.
+- Scatter with parsley and mint. Serve straight from the pan with warm pita bread.

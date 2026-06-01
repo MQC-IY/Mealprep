@@ -9,36 +9,36 @@ de:
   title: Schnelle Puten-Reis-Pfanne mit Mais
   summary: Schnelle Pfanne mit Putenhack, Reis, Mais und Möhren.
 en:
-  title: 'TODO: Schnelle Puten-Reis-Pfanne mit Mais'
-  summary: 'TODO: Schnelle Pfanne mit Putenhack, Reis, Mais und Möhren.'
+  title: Quick Turkey Rice Skillet with Corn
+  summary: A quick skillet of ground turkey, rice, corn, and carrots.
 ingredients:
 - de_name: Putenhack
-  en_name: 'TODO: Putenhack'
+  en_name: ground turkey
   qty: 650
   unit: g
   category: Protein und Milchprodukte
 - de_name: Reis
-  en_name: 'TODO: Reis'
+  en_name: rice
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Mais
-  en_name: 'TODO: Mais'
+  en_name: canned corn
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: carrots
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Rapsöl
-  en_name: 'TODO: Rapsöl'
+  en_name: canola oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -47,6 +47,6 @@ de_steps:
 - Putenhack scharf anbraten.
 - Möhren weich garen und Mais zugeben.
 en_steps:
-- 'TODO: Reis garen.'
-- 'TODO: Putenhack scharf anbraten.'
-- 'TODO: Möhren weich garen und Mais zugeben.'
+- Cook the rice.
+- Sear the ground turkey over high heat.
+- Cook the carrots until tender and add the corn.

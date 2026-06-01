@@ -6,106 +6,124 @@ next_day: false
 meals: 2
 de:
   title: Schweineschnitzel Wiener Art mit Gurkensalat
-  summary: |-
-    Hauchdünne, goldbraune panierte Schweineschnitzel nach Wiener Art, schwimmend in Butterschmalz gebraten, mit cremigem Gurkensalat in saurer Sahne – klassisch und unwiderstehlich.
+  summary: Hauchdünne, goldbraune panierte Schweineschnitzel nach Wiener Art, schwimmend
+    in Butterschmalz gebraten, mit cremigem Gurkensalat in saurer Sahne – klassisch
+    und unwiderstehlich.
 en:
-  title: 'TODO: Schweineschnitzel Wiener Art mit Gurkensalat'
-  summary: |-
-    TODO: Hauchdünne, goldbraune panierte Schweineschnitzel nach Wiener Art, schwimmend in Butterschmalz gebraten, mit cremigem Gurkensalat in saurer Sahne – klassisch und unwiderstehlich.
+  title: Wiener Schnitzel (Pork) with Cucumber Salad
+  summary: Paper-thin golden-fried Wiener Schnitzel from pork, cooked swimming in
+    clarified butter, paired with a creamy sour cream cucumber salad — classic and
+    irresistible.
 ingredients:
 - de_name: Schweineoberschale oder Schweinelachse
-  en_name: 'TODO: Schweineoberschale oder Schweinelachse'
+  en_name: Pork top round or pork loin
   qty: 800
   unit: g
   category: Protein und Milchprodukte
 - de_name: Eier
-  en_name: 'TODO: Eier'
+  en_name: Eggs
   qty: 4
   unit: Stk
   category: Protein und Milchprodukte
 - de_name: Semmelbrösel
-  en_name: 'TODO: Semmelbrösel'
+  en_name: Breadcrumbs
   qty: 200
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Mehl
-  en_name: 'TODO: Mehl'
+  en_name: Flour
   qty: 100
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Butterschmalz
-  en_name: 'TODO: Butterschmalz'
+  en_name: Clarified butter (ghee)
   qty: 300
   unit: g
   category: Protein und Milchprodukte
 - de_name: Salatgurken
-  en_name: 'TODO: Salatgurken'
+  en_name: Cucumbers
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Saure Sahne
-  en_name: 'TODO: Saure Sahne'
+  en_name: Sour cream
   qty: 200
   unit: g
   category: Protein und Milchprodukte
 - de_name: Weißweinessig
-  en_name: 'TODO: Weißweinessig'
+  en_name: White wine vinegar
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Zucker
-  en_name: 'TODO: Zucker'
+  en_name: Sugar
   qty: 1
   unit: TL
   category: Konserven und Vorrat
 - de_name: Dill
-  en_name: 'TODO: Dill'
+  en_name: Dill
   qty: 1
   unit: Bund
   category: Gemüse und Salat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: Onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zitronen
-  en_name: 'TODO: Zitronen'
+  en_name: Lemons
   qty: 2
   unit: Stk
   category: Obst
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: Salt
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Weißer Pfeffer
-  en_name: 'TODO: Weißer Pfeffer'
+  en_name: White pepper
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Gurkensalat vorbereiten: Gurken hauchdünn hobeln oder aufschneiden. Mit 1 TL Salz mischen und 15 Minuten ziehen lassen, dann fest ausdrücken. Zwiebel in feine Ringe schneiden. Saure Sahne, Essig, Zucker, Dill (fein gehackt), weißer Pfeffer und etwas Salz verrühren. Gurken und Zwiebeln einmengen, kalt stellen.
-- |-
-  Schweinefleisch quer zur Faser in ca. 1 cm dicke Scheiben schneiden (insgesamt 8 Schnitzel). Jedes Schnitzel zwischen Frischhaltefolie legen und mit dem Plattierer auf 3–4 mm klopfen. Ringsum die Sehnen einschneiden, damit sich die Schnitzel nicht wölben.
-- |-
-  Drei flache Teller bereitstellen: Teller 1 mit Mehl, Teller 2 mit verquirlten Eiern (mit Salz und Pfeffer), Teller 3 mit Semmelbröseln. Jedes Schnitzel zuerst im Mehl wenden, dann durch das Ei ziehen, dann locker in den Semmelbröseln wälzen – NICHT andrücken, damit die Panade beim Braten souffliert.
-- |-
-  Butterschmalz in einer großen, tiefen Pfanne auf ca. 170 °C erhitzen (Schnitzel soll schwimmend braten). Das Fett ist heiß genug, wenn ein Brotkrümel sofort aufsteigt und goldbraun wird.
-- |-
-  Schnitzel einzeln (oder höchstens zwei gleichzeitig) einlegen. Pfanne während des Bratens leicht schwenken, damit das heiße Fett über die Schnitzel schwappt. Pro Seite 2–3 Minuten braten, bis die Panade tiefsatt goldgelb ist.
-- |-
-  Schnitzel auf Küchenpapier kurz abtropfen lassen. NIEMALS stapeln. Sofort mit einer Zitronenspalte und dem Gurkensalat servieren – eine Minute Warten lässt die knusprige Panade erweichen.
+- 'Gurkensalat vorbereiten: Gurken hauchdünn hobeln oder aufschneiden. Mit 1 TL Salz
+  mischen und 15 Minuten ziehen lassen, dann fest ausdrücken. Zwiebel in feine Ringe
+  schneiden. Saure Sahne, Essig, Zucker, Dill (fein gehackt), weißer Pfeffer und etwas
+  Salz verrühren. Gurken und Zwiebeln einmengen, kalt stellen.'
+- Schweinefleisch quer zur Faser in ca. 1 cm dicke Scheiben schneiden (insgesamt 8
+  Schnitzel). Jedes Schnitzel zwischen Frischhaltefolie legen und mit dem Plattierer
+  auf 3–4 mm klopfen. Ringsum die Sehnen einschneiden, damit sich die Schnitzel nicht
+  wölben.
+- 'Drei flache Teller bereitstellen: Teller 1 mit Mehl, Teller 2 mit verquirlten Eiern
+  (mit Salz und Pfeffer), Teller 3 mit Semmelbröseln. Jedes Schnitzel zuerst im Mehl
+  wenden, dann durch das Ei ziehen, dann locker in den Semmelbröseln wälzen – NICHT
+  andrücken, damit die Panade beim Braten souffliert.'
+- Butterschmalz in einer großen, tiefen Pfanne auf ca. 170 °C erhitzen (Schnitzel
+  soll schwimmend braten). Das Fett ist heiß genug, wenn ein Brotkrümel sofort aufsteigt
+  und goldbraun wird.
+- Schnitzel einzeln (oder höchstens zwei gleichzeitig) einlegen. Pfanne während des
+  Bratens leicht schwenken, damit das heiße Fett über die Schnitzel schwappt. Pro
+  Seite 2–3 Minuten braten, bis die Panade tiefsatt goldgelb ist.
+- Schnitzel auf Küchenpapier kurz abtropfen lassen. NIEMALS stapeln. Sofort mit einer
+  Zitronenspalte und dem Gurkensalat servieren – eine Minute Warten lässt die knusprige
+  Panade erweichen.
 en_steps:
-- |-
-  TODO: Gurkensalat vorbereiten: Gurken hauchdünn hobeln oder aufschneiden. Mit 1 TL Salz mischen und 15 Minuten ziehen lassen, dann fest ausdrücken. Zwiebel in feine Ringe schneiden. Saure Sahne, Essig, Zucker, Dill (fein gehackt), weißer Pfeffer und etwas Salz verrühren. Gurken und Zwiebeln einmengen, kalt stellen.
-- |-
-  TODO: Schweinefleisch quer zur Faser in ca. 1 cm dicke Scheiben schneiden (insgesamt 8 Schnitzel). Jedes Schnitzel zwischen Frischhaltefolie legen und mit dem Plattierer auf 3–4 mm klopfen. Ringsum die Sehnen einschneiden, damit sich die Schnitzel nicht wölben.
-- |-
-  TODO: Drei flache Teller bereitstellen: Teller 1 mit Mehl, Teller 2 mit verquirlten Eiern (mit Salz und Pfeffer), Teller 3 mit Semmelbröseln. Jedes Schnitzel zuerst im Mehl wenden, dann durch das Ei ziehen, dann locker in den Semmelbröseln wälzen – NICHT andrücken, damit die Panade beim Braten souffliert.
-- |-
-  TODO: Butterschmalz in einer großen, tiefen Pfanne auf ca. 170 °C erhitzen (Schnitzel soll schwimmend braten). Das Fett ist heiß genug, wenn ein Brotkrümel sofort aufsteigt und goldbraun wird.
-- |-
-  TODO: Schnitzel einzeln (oder höchstens zwei gleichzeitig) einlegen. Pfanne während des Bratens leicht schwenken, damit das heiße Fett über die Schnitzel schwappt. Pro Seite 2–3 Minuten braten, bis die Panade tiefsatt goldgelb ist.
-- |-
-  TODO: Schnitzel auf Küchenpapier kurz abtropfen lassen. NIEMALS stapeln. Sofort mit einer Zitronenspalte und dem Gurkensalat servieren – eine Minute Warten lässt die knusprige Panade erweichen.
+- 'Prepare the cucumber salad: slice the cucumbers paper-thin. Toss with 1 tsp salt
+  and leave for 15 minutes, then squeeze out firmly. Slice the onion into thin rings.
+  Stir together the sour cream, vinegar, sugar, finely chopped dill, white pepper,
+  and a little salt. Mix in the cucumbers and onion rings, then refrigerate.'
+- Cut the pork across the grain into slices about 1 cm thick (8 cutlets total). Place
+  each cutlet between sheets of cling film and pound to 3–4 mm with a meat mallet.
+  Score around the edges to prevent curling.
+- 'Set up three shallow dishes: dish 1 with flour, dish 2 with beaten eggs (seasoned
+  with salt and pepper), dish 3 with breadcrumbs. Dredge each cutlet first in flour,
+  then pull through the egg, then roll loosely in breadcrumbs — do NOT press down,
+  so the coating soufflés while frying.'
+- Heat the clarified butter in a large, deep pan to about 170 °C (the schnitzel should
+  swim in the fat). The fat is hot enough when a breadcrumb dropped in rises immediately
+  and turns golden.
+- Fry the cutlets one at a time (or at most two). Gently swirl the pan so the hot
+  fat laps over the cutlets. Fry 2–3 minutes per side until the coating is a deep,
+  rich golden yellow.
+- Drain briefly on kitchen paper. NEVER stack. Serve immediately with a lemon wedge
+  and the cucumber salad — even a minute's wait will soften the crispy coating.

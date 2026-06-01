@@ -6,110 +6,110 @@ next_day: true
 meals: 2
 de:
   title: Hähnchen-Massaman-Curry mit Erdnüssen
-  summary: |-
-    Reichhaltiges thailändisch-persisches Massaman-Curry mit Hähnchen, Kartoffeln, gerösteten Erdnüssen und Kokos – warm gewürzt mit Kardamom, Sternanis und Zimt.
+  summary: Reichhaltiges thailändisch-persisches Massaman-Curry mit Hähnchen, Kartoffeln,
+    gerösteten Erdnüssen und Kokos – warm gewürzt mit Kardamom, Sternanis und Zimt.
 en:
-  title: 'TODO: Hähnchen-Massaman-Curry mit Erdnüssen'
-  summary: |-
-    TODO: Reichhaltiges thailändisch-persisches Massaman-Curry mit Hähnchen, Kartoffeln, gerösteten Erdnüssen und Kokos – warm gewürzt mit Kardamom, Sternanis und Zimt.
+  title: Chicken Massaman Curry with Peanuts
+  summary: A rich Thai-Persian Massaman curry with chicken, potatoes, roasted peanuts,
+    and coconut milk — warmly spiced with cardamom, star anise, and cinnamon.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: Chicken breast
   qty: 750
   unit: g
   category: Protein und Milchprodukte
 - de_name: Kokosmilch
-  en_name: 'TODO: Kokosmilch'
+  en_name: Coconut milk
   qty: 2
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Massaman-Currypaste
-  en_name: 'TODO: Massaman-Currypaste'
+  en_name: Massaman curry paste
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: Chicken broth
   qty: 300
   unit: ml
   category: Konserven und Vorrat
 - de_name: Fischsauce
-  en_name: 'TODO: Fischsauce'
+  en_name: Fish sauce
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Rapsöl
-  en_name: 'TODO: Rapsöl'
+  en_name: Rapeseed oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Jasminreis
-  en_name: 'TODO: Jasminreis'
+  en_name: Jasmine rice
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Kartoffeln
-  en_name: 'TODO: Kartoffeln'
+  en_name: Potatoes
   qty: 400
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Erdnüsse, geröstet
-  en_name: 'TODO: Erdnüsse, geröstet'
+  en_name: Roasted peanuts
   qty: 80
   unit: g
   category: Konserven und Vorrat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: Onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: Garlic
   qty: 3
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Limette
-  en_name: 'TODO: Limette'
+  en_name: Lime
   qty: 2
   unit: Stk
   category: Obst
 - de_name: Kardamom, gemahlen
-  en_name: 'TODO: Kardamom, gemahlen'
+  en_name: Ground cardamom
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Zimt, gemahlen
-  en_name: 'TODO: Zimt, gemahlen'
+  en_name: Ground cinnamon
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Lorbeerblätter
-  en_name: 'TODO: Lorbeerblätter'
+  en_name: Bay leaves
   qty: 2
   unit: Stk
   category: Gewürze
 de_steps:
 - Hähnchen in große Würfel schneiden. Kartoffeln schälen und würfeln.
-- |-
-  Öl im Topf erhitzen. Massaman-Currypaste 2 Minuten kräftig anrösten. Knoblauch und Zwiebel zugeben.
+- Öl im Topf erhitzen. Massaman-Currypaste 2 Minuten kräftig anrösten. Knoblauch und
+  Zwiebel zugeben.
 - Hähnchen zugeben und von außen anbraten. Kokosmilch und Brühe zugießen.
-- |-
-  Kartoffeln, Fischsauce, Kardamom, Zimt, Lorbeerblätter und Chiliflocken zugeben. Alles 25 Minuten bei mittlerer Hitze köcheln lassen bis Kartoffeln weich sind.
+- Kartoffeln, Fischsauce, Kardamom, Zimt, Lorbeerblätter und Chiliflocken zugeben.
+  Alles 25 Minuten bei mittlerer Hitze köcheln lassen bis Kartoffeln weich sind.
 - Erdnüsse grob hacken. Reis kochen.
-- |-
-  Mit Limettensaft abschmecken. Lorbeerblätter entfernen. Mit Erdnüssen und Limettenschnitzen servieren.
+- Mit Limettensaft abschmecken. Lorbeerblätter entfernen. Mit Erdnüssen und Limettenschnitzen
+  servieren.
 en_steps:
-- 'TODO: Hähnchen in große Würfel schneiden. Kartoffeln schälen und würfeln.'
-- |-
-  TODO: Öl im Topf erhitzen. Massaman-Currypaste 2 Minuten kräftig anrösten. Knoblauch und Zwiebel zugeben.
-- 'TODO: Hähnchen zugeben und von außen anbraten. Kokosmilch und Brühe zugießen.'
-- |-
-  TODO: Kartoffeln, Fischsauce, Kardamom, Zimt, Lorbeerblätter und Chiliflocken zugeben. Alles 25 Minuten bei mittlerer Hitze köcheln lassen bis Kartoffeln weich sind.
-- 'TODO: Erdnüsse grob hacken. Reis kochen.'
-- |-
-  TODO: Mit Limettensaft abschmecken. Lorbeerblätter entfernen. Mit Erdnüssen und Limettenschnitzen servieren.
+- Cut the chicken into large cubes. Peel and dice the potatoes.
+- Heat the oil in a pot. Toast the Massaman curry paste for 2 minutes, then add the
+  garlic and onion.
+- Add the chicken and sear on the outside. Pour in the coconut milk and broth.
+- Add the potatoes, fish sauce, cardamom, cinnamon, bay leaves, and chili flakes.
+  Simmer over medium heat for 25 minutes until the potatoes are tender.
+- Roughly chop the peanuts. Cook the rice.
+- Adjust seasoning with lime juice. Remove the bay leaves. Serve with peanuts and
+  lime wedges.

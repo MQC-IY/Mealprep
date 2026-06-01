@@ -6,119 +6,116 @@ next_day: false
 meals: 2
 de:
   title: Spanische Hähnchen-Paella-Pfanne
-  summary: |-
-    Klassische Paella Valenciana mit Hähnchen, Safran, Pimentón, Paprika und Bomba-Reis – die goldene Socarrat-Kruste ist das Herzstück.
+  summary: Klassische Paella Valenciana mit Hähnchen, Safran, Pimentón, Paprika und
+    Bomba-Reis – die goldene Socarrat-Kruste ist das Herzstück.
 en:
-  title: 'TODO: Spanische Hähnchen-Paella-Pfanne'
-  summary: |-
-    TODO: Klassische Paella Valenciana mit Hähnchen, Safran, Pimentón, Paprika und Bomba-Reis – die goldene Socarrat-Kruste ist das Herzstück.
+  title: Spanish Chicken Paella
+  summary: Classic Paella Valenciana with chicken, saffron, Pimentón, bell pepper
+    and Bomba rice – the golden socarrat crust on the bottom is the crowning glory.
 ingredients:
 - de_name: Hähnchenstücke mit Knochen
-  en_name: 'TODO: Hähnchenstücke mit Knochen'
+  en_name: bone-in chicken pieces
   qty: 700
   unit: g
   category: Protein und Milchprodukte
 - de_name: Bomba-Reis oder Rundkornreis
-  en_name: 'TODO: Bomba-Reis oder Rundkornreis'
+  en_name: Bomba rice or short-grain rice
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Hühnerbrühe heiß
-  en_name: 'TODO: Hühnerbrühe heiß'
+  en_name: hot chicken stock
   qty: 750
   unit: ml
   category: Konserven und Vorrat
 - de_name: Rote Paprika
-  en_name: 'TODO: Rote Paprika'
+  en_name: red bell pepper
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Tomate frisch reif
-  en_name: 'TODO: Tomate frisch reif'
+  en_name: ripe fresh tomatoes
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Tiefgefrorene Erbsen
-  en_name: 'TODO: Tiefgefrorene Erbsen'
+  en_name: frozen peas
   qty: 100
   unit: g
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 4
   unit: EL
   category: Konserven und Vorrat
 - de_name: Safranfäden
-  en_name: 'TODO: Safranfäden'
+  en_name: saffron threads
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Pimentón ahumado
-  en_name: 'TODO: Pimentón ahumado'
+  en_name: smoked Pimentón
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Zitrone zum Servieren
-  en_name: 'TODO: Zitrone zum Servieren'
+  en_name: lemon for serving
   qty: 1
   unit: Stk
   category: Obst
 - de_name: Frische Petersilie
-  en_name: 'TODO: Frische Petersilie'
+  en_name: fresh parsley
   qty: 0.5
   unit: Bund
   category: Gemüse und Salat
 de_steps:
-- |-
-  Safranfäden in 3 EL heißem Wasser einweichen. Hähnchenstücke kräftig mit Salz, Pfeffer und 1 TL Pimentón würzen.
-- |-
-  Olivenöl in einer großen Paella-Pfanne oder breiten Pfanne bei starker Hitze erhitzen. Hähnchenstücke rundherum 6–8 Minuten kräftig anbraten. Herausnehmen.
-- |-
-  Paprika in Streifen, Zwiebel und Knoblauch fein würfeln. Im Bratfett bei mittlerer Hitze 5 Minuten anschwitzen.
-- |-
-  Tomaten reiben oder fein würfeln und dazugeben. Restlichen Pimentón und Safranwasser einrühren. Den Sofrito 5–7 Minuten bei niedriger Hitze einköcheln.
-- |-
-  Reis einrühren und 1–2 Minuten im Sofrito rösten. Heiße Brühe angießen und gut umrühren.
-- |-
-  Hähnchenstücke zurücklegen. Aufkochen, dann Hitze auf niedrig reduzieren. Ab jetzt NICHT mehr rühren. 15–18 Minuten köcheln.
-- |-
-  Erbsen einstreuen. Hitze für die letzten 2 Minuten kurz hochdrehen, um die Socarrat-Kruste am Boden zu bilden.
-- |-
-  Mit einem Tuch abgedeckt 5 Minuten ruhen lassen. Mit Zitronenspalten und Petersilie servieren.
+- Safranfäden in 3 EL heißem Wasser einweichen. Hähnchenstücke kräftig mit Salz, Pfeffer
+  und 1 TL Pimentón würzen.
+- Olivenöl in einer großen Paella-Pfanne oder breiten Pfanne bei starker Hitze erhitzen.
+  Hähnchenstücke rundherum 6–8 Minuten kräftig anbraten. Herausnehmen.
+- Paprika in Streifen, Zwiebel und Knoblauch fein würfeln. Im Bratfett bei mittlerer
+  Hitze 5 Minuten anschwitzen.
+- Tomaten reiben oder fein würfeln und dazugeben. Restlichen Pimentón und Safranwasser
+  einrühren. Den Sofrito 5–7 Minuten bei niedriger Hitze einköcheln.
+- Reis einrühren und 1–2 Minuten im Sofrito rösten. Heiße Brühe angießen und gut umrühren.
+- Hähnchenstücke zurücklegen. Aufkochen, dann Hitze auf niedrig reduzieren. Ab jetzt
+  NICHT mehr rühren. 15–18 Minuten köcheln.
+- Erbsen einstreuen. Hitze für die letzten 2 Minuten kurz hochdrehen, um die Socarrat-Kruste
+  am Boden zu bilden.
+- Mit einem Tuch abgedeckt 5 Minuten ruhen lassen. Mit Zitronenspalten und Petersilie
+  servieren.
 en_steps:
-- |-
-  TODO: Safranfäden in 3 EL heißem Wasser einweichen. Hähnchenstücke kräftig mit Salz, Pfeffer und 1 TL Pimentón würzen.
-- |-
-  TODO: Olivenöl in einer großen Paella-Pfanne oder breiten Pfanne bei starker Hitze erhitzen. Hähnchenstücke rundherum 6–8 Minuten kräftig anbraten. Herausnehmen.
-- |-
-  TODO: Paprika in Streifen, Zwiebel und Knoblauch fein würfeln. Im Bratfett bei mittlerer Hitze 5 Minuten anschwitzen.
-- |-
-  TODO: Tomaten reiben oder fein würfeln und dazugeben. Restlichen Pimentón und Safranwasser einrühren. Den Sofrito 5–7 Minuten bei niedriger Hitze einköcheln.
-- |-
-  TODO: Reis einrühren und 1–2 Minuten im Sofrito rösten. Heiße Brühe angießen und gut umrühren.
-- |-
-  TODO: Hähnchenstücke zurücklegen. Aufkochen, dann Hitze auf niedrig reduzieren. Ab jetzt NICHT mehr rühren. 15–18 Minuten köcheln.
-- |-
-  TODO: Erbsen einstreuen. Hitze für die letzten 2 Minuten kurz hochdrehen, um die Socarrat-Kruste am Boden zu bilden.
-- |-
-  TODO: Mit einem Tuch abgedeckt 5 Minuten ruhen lassen. Mit Zitronenspalten und Petersilie servieren.
+- Soak saffron threads in 3 tbsp hot water. Season chicken pieces generously with
+  salt, pepper and 1 tsp Pimentón.
+- Heat olive oil in a large paella pan or wide skillet over high heat. Sear chicken
+  pieces on all sides for 6–8 minutes. Remove.
+- Cut bell pepper into strips; finely dice onion and garlic. Sauté in the drippings
+  over medium heat for 5 minutes.
+- Grate or finely dice tomatoes and add. Stir in remaining Pimentón and saffron water.
+  Simmer the sofrito over low heat for 5–7 minutes.
+- Add rice and toast in the sofrito for 1–2 minutes. Pour in hot stock and stir well.
+- Return chicken pieces. Bring to a boil, then reduce heat to low. Do NOT stir from
+  this point on. Simmer for 15–18 minutes.
+- Scatter peas on top. Briefly raise heat for the last 2 minutes to form the socarrat
+  crust on the bottom.
+- Cover with a cloth and rest for 5 minutes. Serve with lemon wedges and parsley.

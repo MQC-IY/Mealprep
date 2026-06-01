@@ -7,70 +7,68 @@ quick_minutes: 25
 meals: 3
 de:
   title: Kichererbsen-Couscous-Topf mit Gemüse
-  summary: |-
-    Milder Topf mit Kichererbsen, Couscous, Zucchini und Tomate für zwei Mittagstage plus eine Portion.
+  summary: Milder Topf mit Kichererbsen, Couscous, Zucchini und Tomate für zwei Mittagstage
+    plus eine Portion.
 en:
-  title: 'TODO: Kichererbsen-Couscous-Topf mit Gemüse'
-  summary: |-
-    TODO: Milder Topf mit Kichererbsen, Couscous, Zucchini und Tomate für zwei Mittagstage plus eine Portion.
+  title: Chickpea Couscous Pot with Vegetables
+  summary: A mild and filling one-pot with chickpeas, couscous, zucchini, and tomato
+    — enough for two lunch days plus a spare portion.
 ingredients:
 - de_name: Kichererbsen
-  en_name: 'TODO: Kichererbsen'
+  en_name: chickpeas
   qty: 2
   unit: Dosen
   category: Konserven und Vorrat
 - de_name: Couscous
-  en_name: 'TODO: Couscous'
+  en_name: couscous
   qty: 220
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Passierte Tomaten
-  en_name: 'TODO: Passierte Tomaten'
+  en_name: passata
   qty: 1
   unit: Glas
   category: Konserven und Vorrat
 - de_name: Zucchini
-  en_name: 'TODO: Zucchini'
+  en_name: zucchini
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: carrots
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Paprika
-  en_name: 'TODO: Paprika'
+  en_name: bell pepper
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Paprika edelsüß
-  en_name: 'TODO: Paprika edelsüß'
+  en_name: sweet paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Zwiebel, Möhren, Paprika und Zucchini klein schneiden und in Olivenöl anschwitzen.
+- Zwiebel, Möhren, Paprika und Zucchini klein schneiden und in Olivenöl anschwitzen.
 - Kichererbsen und passierte Tomaten zugeben und kurz köcheln lassen.
 - Couscous mit wenig Wasser unterrühren und weich quellen lassen.
 en_steps:
-- |-
-  TODO: Zwiebel, Möhren, Paprika und Zucchini klein schneiden und in Olivenöl anschwitzen.
-- 'TODO: Kichererbsen und passierte Tomaten zugeben und kurz köcheln lassen.'
-- 'TODO: Couscous mit wenig Wasser unterrühren und weich quellen lassen.'
+- Dice the onion, carrots, bell pepper, and zucchini and sweat in olive oil.
+- Add the chickpeas and passata and simmer briefly.
+- Stir in the couscous with a little water and let it swell until tender.

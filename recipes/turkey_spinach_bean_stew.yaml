@@ -8,51 +8,51 @@ de:
   title: Puten-Spinat-Bohnen-Topf
   summary: Tomatiger Eintopf mit Putenhack, weißen Bohnen, Spinat und Möhren.
 en:
-  title: 'TODO: Puten-Spinat-Bohnen-Topf'
-  summary: 'TODO: Tomatiger Eintopf mit Putenhack, weißen Bohnen, Spinat und Möhren.'
+  title: Turkey Spinach Bean Stew
+  summary: A tomatoey stew of ground turkey, white beans, spinach, and carrots.
 ingredients:
 - de_name: Putenhack
-  en_name: 'TODO: Putenhack'
+  en_name: ground turkey
   qty: 650
   unit: g
   category: Protein und Milchprodukte
 - de_name: Weiße Bohnen
-  en_name: 'TODO: Weiße Bohnen'
+  en_name: white beans
   qty: 2
   unit: Dosen
   category: Konserven und Vorrat
 - de_name: Blattspinat
-  en_name: 'TODO: Blattspinat'
+  en_name: leaf spinach
   qty: 180
   unit: g
   category: Gemüse und Salat
 - de_name: Passierte Tomaten
-  en_name: 'TODO: Passierte Tomaten'
+  en_name: strained tomatoes (passata)
   qty: 1
   unit: Glas
   category: Konserven und Vorrat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: carrots
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Oregano
-  en_name: 'TODO: Oregano'
+  en_name: oregano
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -61,6 +61,6 @@ de_steps:
 - Möhren, Tomaten und Bohnen zugeben und weich köcheln.
 - Spinat zum Schluss unterheben.
 en_steps:
-- 'TODO: Putenhack mit Zwiebel scharf anbraten.'
-- 'TODO: Möhren, Tomaten und Bohnen zugeben und weich köcheln.'
-- 'TODO: Spinat zum Schluss unterheben.'
+- Brown the ground turkey with the onion over high heat.
+- Add the carrots, tomatoes, and beans and simmer until tender.
+- Fold in the spinach at the end.

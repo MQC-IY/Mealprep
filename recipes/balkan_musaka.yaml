@@ -6,112 +6,113 @@ next_day: true
 meals: 3
 de:
   title: Balkan-Musaka mit Kartoffeln und Rinderhack
-  summary: |-
-    Klassische Balkan-Musaka: geschichtete Kartoffeln mit kräftig gewürztem Rinderhack, Tomate und einem üppigen Sauerrahm-Ei-Guss.
+  summary: 'Klassische Balkan-Musaka: geschichtete Kartoffeln mit kräftig gewürztem
+    Rinderhack, Tomate und einem üppigen Sauerrahm-Ei-Guss.'
 en:
-  title: 'TODO: Balkan-Musaka mit Kartoffeln und Rinderhack'
-  summary: |-
-    TODO: Klassische Balkan-Musaka: geschichtete Kartoffeln mit kräftig gewürztem Rinderhack, Tomate und einem üppigen Sauerrahm-Ei-Guss.
+  title: Balkan Musaka with Potatoes and Ground Beef
+  summary: 'Classic Balkan musaka: layered potatoes with boldly seasoned ground beef
+    and tomato, topped with a generous sour cream and egg custard.'
 ingredients:
 - de_name: Kartoffeln
-  en_name: 'TODO: Kartoffeln'
+  en_name: potatoes
   qty: 1200
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Rinderhack
-  en_name: 'TODO: Rinderhack'
+  en_name: ground beef
   qty: 650
   unit: g
   category: Protein und Milchprodukte
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 3
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Passierte Tomaten
-  en_name: 'TODO: Passierte Tomaten'
+  en_name: passata (sieved tomatoes)
   qty: 1
   unit: Glas
   category: Konserven und Vorrat
 - de_name: Tomatenmark
-  en_name: 'TODO: Tomatenmark'
+  en_name: tomato paste
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Eier
-  en_name: 'TODO: Eier'
+  en_name: eggs
   qty: 4
   unit: Stk
   category: Protein und Milchprodukte
 - de_name: Sauerrahm oder Schmand
-  en_name: 'TODO: Sauerrahm oder Schmand'
+  en_name: sour cream
   qty: 250
   unit: g
   category: Protein und Milchprodukte
 - de_name: Naturjoghurt
-  en_name: 'TODO: Naturjoghurt'
+  en_name: plain yogurt
   qty: 150
   unit: g
   category: Protein und Milchprodukte
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Paprika edelsüß
-  en_name: 'TODO: Paprika edelsüß'
+  en_name: sweet paprika
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Paprika scharf
-  en_name: 'TODO: Paprika scharf'
+  en_name: hot paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Kreuzkümmel
-  en_name: 'TODO: Kreuzkümmel'
+  en_name: cumin
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Piment, gemahlen
-  en_name: 'TODO: Piment, gemahlen'
+  en_name: allspice, ground
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Oregano
-  en_name: 'TODO: Oregano'
+  en_name: oregano
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
 - Backofen auf 200 °C (Ober-/Unterhitze) vorheizen.
-- |-
-  Kartoffeln schälen und in etwa 4 mm dicke Scheiben schneiden. In Salzwasser 8 bis 10 Minuten halbweich garen, abgießen.
-- |-
-  Zwiebeln und Knoblauch fein würfeln. In Olivenöl bei hoher Hitze anschwitzen. Rinderhack zugeben und kräftig anbraten, bis es Farbe bekommt.
-- |-
-  Tomatenmark einrühren und 2 Minuten rösten. Mit passierten Tomaten ablöschen. Paprika edelsüß, Paprika scharf, Kreuzkümmel, Piment, Oregano, Salz und Pfeffer einrühren. 10 Minuten einköcheln lassen.
+- Kartoffeln schälen und in etwa 4 mm dicke Scheiben schneiden. In Salzwasser 8 bis
+  10 Minuten halbweich garen, abgießen.
+- Zwiebeln und Knoblauch fein würfeln. In Olivenöl bei hoher Hitze anschwitzen. Rinderhack
+  zugeben und kräftig anbraten, bis es Farbe bekommt.
+- Tomatenmark einrühren und 2 Minuten rösten. Mit passierten Tomaten ablöschen. Paprika
+  edelsüß, Paprika scharf, Kreuzkümmel, Piment, Oregano, Salz und Pfeffer einrühren.
+  10 Minuten einköcheln lassen.
 - Sauerrahm, Joghurt und Eier gründlich verquirlen, mit Salz und Pfeffer würzen.
-- |-
-  Eine Auflaufform fetten. Schichten: Kartoffeln – Fleischsauce – Kartoffeln – Fleischsauce – Kartoffeln. Den Sauerrahm-Ei-Guss gleichmäßig darübergießen.
-- |-
-  Im vorgeheizten Ofen 35 bis 40 Minuten goldbraun backen, bis der Guss gestockt und die Oberfläche gebräunt ist. 10 Minuten ruhen lassen, dann portionieren.
+- 'Eine Auflaufform fetten. Schichten: Kartoffeln – Fleischsauce – Kartoffeln – Fleischsauce
+  – Kartoffeln. Den Sauerrahm-Ei-Guss gleichmäßig darübergießen.'
+- Im vorgeheizten Ofen 35 bis 40 Minuten goldbraun backen, bis der Guss gestockt und
+  die Oberfläche gebräunt ist. 10 Minuten ruhen lassen, dann portionieren.
 en_steps:
-- 'TODO: Backofen auf 200 °C (Ober-/Unterhitze) vorheizen.'
-- |-
-  TODO: Kartoffeln schälen und in etwa 4 mm dicke Scheiben schneiden. In Salzwasser 8 bis 10 Minuten halbweich garen, abgießen.
-- |-
-  TODO: Zwiebeln und Knoblauch fein würfeln. In Olivenöl bei hoher Hitze anschwitzen. Rinderhack zugeben und kräftig anbraten, bis es Farbe bekommt.
-- |-
-  TODO: Tomatenmark einrühren und 2 Minuten rösten. Mit passierten Tomaten ablöschen. Paprika edelsüß, Paprika scharf, Kreuzkümmel, Piment, Oregano, Salz und Pfeffer einrühren. 10 Minuten einköcheln lassen.
-- |-
-  TODO: Sauerrahm, Joghurt und Eier gründlich verquirlen, mit Salz und Pfeffer würzen.
-- |-
-  TODO: Eine Auflaufform fetten. Schichten: Kartoffeln – Fleischsauce – Kartoffeln – Fleischsauce – Kartoffeln. Den Sauerrahm-Ei-Guss gleichmäßig darübergießen.
-- |-
-  TODO: Im vorgeheizten Ofen 35 bis 40 Minuten goldbraun backen, bis der Guss gestockt und die Oberfläche gebräunt ist. 10 Minuten ruhen lassen, dann portionieren.
+- Preheat oven to 200 °C (400 °F) top/bottom heat.
+- Peel potatoes and slice about 4 mm thick. Parboil in salted water for 8–10 minutes
+  until just tender; drain.
+- Finely dice onions and garlic. Sweat in olive oil over high heat. Add ground beef
+  and fry until browned.
+- Stir in tomato paste and toast for 2 minutes. Deglaze with passata. Stir in sweet
+  paprika, hot paprika, cumin, allspice, oregano, salt, and pepper. Simmer for 10
+  minutes.
+- Thoroughly whisk sour cream, yogurt, and eggs; season with salt and pepper.
+- 'Grease a baking dish. Layer: potatoes – meat sauce – potatoes – meat sauce – potatoes.
+  Pour the sour cream and egg topping evenly over the top.'
+- Bake in the preheated oven for 35–40 minutes until golden and the topping has set.
+  Leave to rest for 10 minutes before portioning.

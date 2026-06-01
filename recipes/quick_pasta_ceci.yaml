@@ -7,78 +7,76 @@ quick_minutes: 25
 meals: 2
 de:
   title: Schneller Pasta e Ceci
-  summary: |-
-    Römischer Klassiker: Kichererbsen und kleine Nudeln in kräftiger Rosmarin-Tomaten-Brühe.
+  summary: 'Römischer Klassiker: Kichererbsen und kleine Nudeln in kräftiger Rosmarin-Tomaten-Brühe.'
 en:
-  title: 'TODO: Schneller Pasta e Ceci'
-  summary: |-
-    TODO: Römischer Klassiker: Kichererbsen und kleine Nudeln in kräftiger Rosmarin-Tomaten-Brühe.
+  title: Quick Pasta e Ceci
+  summary: 'A Roman classic: chickpeas and small pasta in a hearty rosemary-tomato
+    broth — comforting and ready fast.'
 ingredients:
 - de_name: Kichererbsen, abgetropft
-  en_name: 'TODO: Kichererbsen, abgetropft'
+  en_name: Chickpeas, drained
   qty: 2
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Gehackte Tomaten
-  en_name: 'TODO: Gehackte Tomaten'
+  en_name: Chopped tomatoes
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Gemüsebrühe
-  en_name: 'TODO: Gemüsebrühe'
+  en_name: Vegetable broth
   qty: 700
   unit: ml
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 4
   unit: EL
   category: Konserven und Vorrat
 - de_name: Ditalini oder Hörnchennudeln
-  en_name: 'TODO: Ditalini oder Hörnchennudeln'
+  en_name: Ditalini or elbow pasta
   qty: 200
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: Garlic cloves
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Pecorino, gerieben
-  en_name: 'TODO: Pecorino, gerieben'
+  en_name: Pecorino, grated
   qty: 60
   unit: g
   category: Protein und Milchprodukte
 - de_name: Rosmarin, getrocknet
-  en_name: 'TODO: Rosmarin, getrocknet'
+  en_name: Dried rosemary
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Salz und Pfeffer
-  en_name: 'TODO: Salz und Pfeffer'
+  en_name: Salt and pepper
   qty: 1
   unit: Stk
   category: Gewürze
 de_steps:
-- |-
-  Knoblauch fein hacken und in Olivenöl bei mittlerer Hitze mit Rosmarin und Chiliflocken 2 Minuten anschwitzen.
-- |-
-  Die Hälfte der Kichererbsen mit einer Gabel oder einem Kartoffelstampfer grob zerdrücken. Alle Kichererbsen, Tomaten und Brühe in den Topf geben.
-- |-
-  Aufkochen, Nudeln hineingeben und laut Packungsanweisung al dente kochen (ca. 8–10 Minuten), dabei gelegentlich rühren.
-- |-
-  Mit Salz und Pfeffer abschmecken, mit Pecorino und einem Schuss Olivenöl servieren.
+- Knoblauch fein hacken und in Olivenöl bei mittlerer Hitze mit Rosmarin und Chiliflocken
+  2 Minuten anschwitzen.
+- Die Hälfte der Kichererbsen mit einer Gabel oder einem Kartoffelstampfer grob zerdrücken.
+  Alle Kichererbsen, Tomaten und Brühe in den Topf geben.
+- Aufkochen, Nudeln hineingeben und laut Packungsanweisung al dente kochen (ca. 8–10
+  Minuten), dabei gelegentlich rühren.
+- Mit Salz und Pfeffer abschmecken, mit Pecorino und einem Schuss Olivenöl servieren.
 en_steps:
-- |-
-  TODO: Knoblauch fein hacken und in Olivenöl bei mittlerer Hitze mit Rosmarin und Chiliflocken 2 Minuten anschwitzen.
-- |-
-  TODO: Die Hälfte der Kichererbsen mit einer Gabel oder einem Kartoffelstampfer grob zerdrücken. Alle Kichererbsen, Tomaten und Brühe in den Topf geben.
-- |-
-  TODO: Aufkochen, Nudeln hineingeben und laut Packungsanweisung al dente kochen (ca. 8–10 Minuten), dabei gelegentlich rühren.
-- |-
-  TODO: Mit Salz und Pfeffer abschmecken, mit Pecorino und einem Schuss Olivenöl servieren.
+- Finely chop the garlic and sauté in olive oil over medium heat with the rosemary
+  and chili flakes for 2 minutes.
+- Roughly mash half of the chickpeas with a fork or potato masher. Add all the chickpeas,
+  tomatoes, and broth to the pot.
+- Bring to a boil, add the pasta, and cook al dente according to package instructions
+  (about 8–10 minutes), stirring occasionally.
+- Season with salt and pepper and serve with grated Pecorino and a drizzle of olive
+  oil.

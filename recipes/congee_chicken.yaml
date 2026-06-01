@@ -6,92 +6,92 @@ next_day: true
 meals: 2
 de:
   title: Chinesische Reissuppe (Congee) mit Hähnchen
-  summary: |-
-    Cremiger, seidiger chinesischer Reisbrei mit zart zerfallendem Hähnchen, Ingwer und würzigen Toppings.
+  summary: Cremiger, seidiger chinesischer Reisbrei mit zart zerfallendem Hähnchen,
+    Ingwer und würzigen Toppings.
 en:
-  title: 'TODO: Chinesische Reissuppe (Congee) mit Hähnchen'
-  summary: |-
-    TODO: Cremiger, seidiger chinesischer Reisbrei mit zart zerfallendem Hähnchen, Ingwer und würzigen Toppings.
+  title: Chicken Congee
+  summary: Creamy, silky Chinese rice porridge with meltingly tender shredded chicken,
+    ginger, and savoury toppings.
 ingredients:
 - de_name: Hähnchenbrustfilet oder -schenkel
-  en_name: 'TODO: Hähnchenbrustfilet oder -schenkel'
+  en_name: chicken breast fillet or thighs
   qty: 300
   unit: g
   category: Protein und Milchprodukte
 - de_name: Rundkornreis oder Jasminreis
-  en_name: 'TODO: Rundkornreis oder Jasminreis'
+  en_name: short-grain rice or jasmine rice
   qty: 150
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: chicken stock
   qty: 1.2
   unit: Liter
   category: Konserven und Vorrat
 - de_name: Sojasauce
-  en_name: 'TODO: Sojasauce'
+  en_name: soy sauce
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sesamöl
-  en_name: 'TODO: Sesamöl'
+  en_name: sesame oil
   qty: 2
   unit: TL
   category: Konserven und Vorrat
 - de_name: Ingwer, frisch
-  en_name: 'TODO: Ingwer, frisch'
+  en_name: fresh ginger
   qty: 5
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 2
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Frühlingszwiebeln
-  en_name: 'TODO: Frühlingszwiebeln'
+  en_name: spring onions
   qty: 4
   unit: Stk
   category: Gemüse und Salat
 - de_name: Frischer Koriander
-  en_name: 'TODO: Frischer Koriander'
+  en_name: fresh coriander
   qty: 0.5
   unit: Bund
   category: Gemüse und Salat
 - de_name: Frische rote Chili
-  en_name: 'TODO: Frische rote Chili'
+  en_name: fresh red chilli
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Weißer Pfeffer, gemahlen
-  en_name: 'TODO: Weißer Pfeffer, gemahlen'
+  en_name: white pepper, ground
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
 - Reis waschen. Ingwer in Scheiben, Knoblauch andrücken.
 - Reis, Hühnerbrühe, Ingwer und Knoblauch in einem großen Topf aufkochen.
-- |-
-  Hähnchenstücke in die Brühe geben. Bei kleiner Hitze 35–40 Minuten köcheln, dabei gelegentlich rühren, bis der Reis cremig und zerfallen ist.
+- Hähnchenstücke in die Brühe geben. Bei kleiner Hitze 35–40 Minuten köcheln, dabei
+  gelegentlich rühren, bis der Reis cremig und zerfallen ist.
 - Hähnchen herausnehmen. Mit zwei Gabeln in feine Fäden zerzupfen.
-- |-
-  Congee mit Sojasauce, Salz und weißem Pfeffer kräftig abschmecken – er soll sehr würzig sein.
+- Congee mit Sojasauce, Salz und weißem Pfeffer kräftig abschmecken – er soll sehr
+  würzig sein.
 - Hähnchen zurückgeben und weitere 5 Minuten erwärmen.
-- |-
-  In tiefe Schalen schöpfen. Mit Frühlingszwiebeln, Koriander, Chiliringen und Sesamöl garnieren.
+- In tiefe Schalen schöpfen. Mit Frühlingszwiebeln, Koriander, Chiliringen und Sesamöl
+  garnieren.
 en_steps:
-- 'TODO: Reis waschen. Ingwer in Scheiben, Knoblauch andrücken.'
-- 'TODO: Reis, Hühnerbrühe, Ingwer und Knoblauch in einem großen Topf aufkochen.'
-- |-
-  TODO: Hähnchenstücke in die Brühe geben. Bei kleiner Hitze 35–40 Minuten köcheln, dabei gelegentlich rühren, bis der Reis cremig und zerfallen ist.
-- 'TODO: Hähnchen herausnehmen. Mit zwei Gabeln in feine Fäden zerzupfen.'
-- |-
-  TODO: Congee mit Sojasauce, Salz und weißem Pfeffer kräftig abschmecken – er soll sehr würzig sein.
-- 'TODO: Hähnchen zurückgeben und weitere 5 Minuten erwärmen.'
-- |-
-  TODO: In tiefe Schalen schöpfen. Mit Frühlingszwiebeln, Koriander, Chiliringen und Sesamöl garnieren.
+- Rinse the rice. Slice the ginger; lightly crush the garlic.
+- Bring the rice, chicken stock, ginger, and garlic to a boil in a large pot.
+- Add the chicken pieces. Simmer over low heat for 35–40 minutes, stirring occasionally,
+  until the rice is creamy and broken down.
+- Remove the chicken. Shred it into fine strands with two forks.
+- Season the congee generously with soy sauce, salt, and white pepper — it should
+  be very well seasoned.
+- Return the chicken and heat for a further 5 minutes.
+- Ladle into deep bowls. Garnish with spring onions, coriander, chilli rings, and
+  sesame oil.

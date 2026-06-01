@@ -8,46 +8,47 @@ de:
   title: Puten-Orzo-Auflauf mit Joghurt
   summary: Auflauf mit Putenhack, Orzo, Zucchini und leichtem Joghurt-Ei-Guss.
 en:
-  title: 'TODO: Puten-Orzo-Auflauf mit Joghurt'
-  summary: 'TODO: Auflauf mit Putenhack, Orzo, Zucchini und leichtem Joghurt-Ei-Guss.'
+  title: Turkey Orzo Bake with Yogurt
+  summary: A comforting bake with ground turkey, orzo, zucchini, and a light yogurt-egg
+    topping.
 ingredients:
 - de_name: Putenhack
-  en_name: 'TODO: Putenhack'
+  en_name: Ground turkey
   qty: 650
   unit: g
   category: Protein und Milchprodukte
 - de_name: Orzo oder Kritharaki
-  en_name: 'TODO: Orzo oder Kritharaki'
+  en_name: Orzo or kritharaki
   qty: 250
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Zucchini
-  en_name: 'TODO: Zucchini'
+  en_name: Zucchini
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: Carrots
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Naturjoghurt
-  en_name: 'TODO: Naturjoghurt'
+  en_name: Plain yogurt
   qty: 200
   unit: g
   category: Protein und Milchprodukte
 - de_name: Eier
-  en_name: 'TODO: Eier'
+  en_name: Eggs
   qty: 3
   unit: Stk
   category: Protein und Milchprodukte
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -56,6 +57,7 @@ de_steps:
 - Putenhack scharf anbraten, Gemüse klein schneiden und kurz vorgaren.
 - Alles in eine Form geben, Joghurt mit Eiern verrühren und darübergeben.
 en_steps:
-- 'TODO: Orzo vorgaren.'
-- 'TODO: Putenhack scharf anbraten, Gemüse klein schneiden und kurz vorgaren.'
-- 'TODO: Alles in eine Form geben, Joghurt mit Eiern verrühren und darübergeben.'
+- Par-cook the orzo.
+- Brown the ground turkey in a hot pan. Finely chop the vegetables and par-cook briefly.
+- Transfer everything to a baking dish. Whisk the yogurt with the eggs and pour over
+  the top. Bake until set.

@@ -7,116 +7,116 @@ quick_minutes: 30
 meals: 3
 de:
   title: Süßkartoffel-Linsen-Curry
-  summary: |-
-    Kräftig gewürztes Curry mit Süßkartoffeln, roten Linsen und Kokosmilch – Kreuzkümmel, Koriander, Kurkuma und Chili geben dem Gericht echtes Aroma.
+  summary: Kräftig gewürztes Curry mit Süßkartoffeln, roten Linsen und Kokosmilch
+    – Kreuzkümmel, Koriander, Kurkuma und Chili geben dem Gericht echtes Aroma.
 en:
-  title: 'TODO: Süßkartoffel-Linsen-Curry'
-  summary: |-
-    TODO: Kräftig gewürztes Curry mit Süßkartoffeln, roten Linsen und Kokosmilch – Kreuzkümmel, Koriander, Kurkuma und Chili geben dem Gericht echtes Aroma.
+  title: Sweet Potato and Lentil Curry
+  summary: A boldly spiced curry with sweet potatoes, red lentils and coconut milk
+    – cumin, coriander, turmeric and chilli give this dish real depth of flavour.
 ingredients:
 - de_name: Rote Linsen
-  en_name: 'TODO: Rote Linsen'
+  en_name: red lentils
   qty: 250
   unit: g
   category: Konserven und Vorrat
 - de_name: Süßkartoffeln
-  en_name: 'TODO: Süßkartoffeln'
+  en_name: sweet potatoes
   qty: 800
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Kokosmilch
-  en_name: 'TODO: Kokosmilch'
+  en_name: coconut milk
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Gehackte Tomaten
-  en_name: 'TODO: Gehackte Tomaten'
+  en_name: chopped tomatoes
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Blattspinat
-  en_name: 'TODO: Blattspinat'
+  en_name: baby spinach
   qty: 180
   unit: g
   category: Gemüse und Salat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 3
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Ingwer, frisch
-  en_name: 'TODO: Ingwer, frisch'
+  en_name: fresh ginger
   qty: 25
   unit: g
   category: Gemüse und Salat
 - de_name: Tomatenmark
-  en_name: 'TODO: Tomatenmark'
+  en_name: tomato paste
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Rapsöl oder Kokosöl
-  en_name: 'TODO: Rapsöl oder Kokosöl'
+  en_name: rapeseed oil or coconut oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Limette
-  en_name: 'TODO: Limette'
+  en_name: lime
   qty: 1
   unit: Stk
   category: Obst
 - de_name: Kurkuma
-  en_name: 'TODO: Kurkuma'
+  en_name: turmeric
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Kreuzkümmel, gemahlen
-  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  en_name: cumin, ground
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Koriander, gemahlen
-  en_name: 'TODO: Koriander, gemahlen'
+  en_name: coriander, ground
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Garam Masala
-  en_name: 'TODO: Garam Masala'
+  en_name: garam masala
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chilli flakes
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Zwiebel fein würfeln, Knoblauch und Ingwer reiben oder hacken. Süßkartoffeln in 2 cm große Würfel schneiden.
-- |-
-  Öl in einem großen Topf bei hoher Hitze erhitzen. Zwiebel 5 Minuten kräftig anbraten, bis goldbraun.
-- |-
-  Knoblauch, Ingwer und Tomatenmark zugeben und 1 bis 2 Minuten rösten. Kurkuma, Kreuzkümmel, Koriander, Garam Masala und Chiliflocken einrühren und 1 Minute trocken rösten.
-- |-
-  Gehackte Tomaten, Süßkartoffeln und Kokosmilch zugeben. 200 ml Wasser dazugeben und alles gut verrühren.
-- |-
-  Linsen einrühren und bei mittlerer Hitze 20 bis 25 Minuten köcheln lassen, bis Süßkartoffeln und Linsen weich sind.
-- |-
-  Spinat unterheben. Mit Limettensaft, Salz und ggf. mehr Chiliflocken abschmecken. Mit Naan, Fladenbrot oder Basmatireis servieren.
+- Zwiebel fein würfeln, Knoblauch und Ingwer reiben oder hacken. Süßkartoffeln in
+  2 cm große Würfel schneiden.
+- Öl in einem großen Topf bei hoher Hitze erhitzen. Zwiebel 5 Minuten kräftig anbraten,
+  bis goldbraun.
+- Knoblauch, Ingwer und Tomatenmark zugeben und 1 bis 2 Minuten rösten. Kurkuma, Kreuzkümmel,
+  Koriander, Garam Masala und Chiliflocken einrühren und 1 Minute trocken rösten.
+- Gehackte Tomaten, Süßkartoffeln und Kokosmilch zugeben. 200 ml Wasser dazugeben
+  und alles gut verrühren.
+- Linsen einrühren und bei mittlerer Hitze 20 bis 25 Minuten köcheln lassen, bis Süßkartoffeln
+  und Linsen weich sind.
+- Spinat unterheben. Mit Limettensaft, Salz und ggf. mehr Chiliflocken abschmecken.
+  Mit Naan, Fladenbrot oder Basmatireis servieren.
 en_steps:
-- |-
-  TODO: Zwiebel fein würfeln, Knoblauch und Ingwer reiben oder hacken. Süßkartoffeln in 2 cm große Würfel schneiden.
-- |-
-  TODO: Öl in einem großen Topf bei hoher Hitze erhitzen. Zwiebel 5 Minuten kräftig anbraten, bis goldbraun.
-- |-
-  TODO: Knoblauch, Ingwer und Tomatenmark zugeben und 1 bis 2 Minuten rösten. Kurkuma, Kreuzkümmel, Koriander, Garam Masala und Chiliflocken einrühren und 1 Minute trocken rösten.
-- |-
-  TODO: Gehackte Tomaten, Süßkartoffeln und Kokosmilch zugeben. 200 ml Wasser dazugeben und alles gut verrühren.
-- |-
-  TODO: Linsen einrühren und bei mittlerer Hitze 20 bis 25 Minuten köcheln lassen, bis Süßkartoffeln und Linsen weich sind.
-- |-
-  TODO: Spinat unterheben. Mit Limettensaft, Salz und ggf. mehr Chiliflocken abschmecken. Mit Naan, Fladenbrot oder Basmatireis servieren.
+- Finely dice onion; grate or mince garlic and ginger. Cut sweet potatoes into 2 cm
+  cubes.
+- Heat oil in a large pot over high heat. Fry onion vigorously for 5 minutes until
+  golden brown.
+- Add garlic, ginger and tomato paste; fry for 1–2 minutes. Stir in turmeric, cumin,
+  coriander, garam masala and chilli flakes; dry-toast for 1 minute.
+- Add chopped tomatoes, sweet potatoes and coconut milk. Pour in 200 ml water and
+  stir well.
+- Stir in lentils and simmer over medium heat for 20–25 minutes until sweet potatoes
+  and lentils are soft.
+- Fold in spinach. Season with lime juice, salt and extra chilli flakes if desired.
+  Serve with naan, flatbread or basmati rice.

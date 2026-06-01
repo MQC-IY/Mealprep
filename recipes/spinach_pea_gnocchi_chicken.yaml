@@ -9,51 +9,51 @@ de:
   title: Gnocchi-Pfanne mit Hähnchen, Erbsen und Spinat
   summary: Sehr schnelle Pfanne mit Gnocchi, Hähnchen, Erbsen und Frischkäse-Sauce.
 en:
-  title: 'TODO: Gnocchi-Pfanne mit Hähnchen, Erbsen und Spinat'
-  summary: 'TODO: Sehr schnelle Pfanne mit Gnocchi, Hähnchen, Erbsen und Frischkäse-Sauce.'
+  title: Gnocchi Pan with Chicken, Peas and Spinach
+  summary: A very quick skillet with gnocchi, chicken, peas and a cream cheese sauce.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 700
   unit: g
   category: Protein und Milchprodukte
 - de_name: Gnocchi
-  en_name: 'TODO: Gnocchi'
+  en_name: gnocchi
   qty: 800
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Erbsen, TK
-  en_name: 'TODO: Erbsen, TK'
+  en_name: frozen peas
   qty: 220
   unit: g
   category: Gemüse und Salat
 - de_name: Blattspinat
-  en_name: 'TODO: Blattspinat'
+  en_name: baby spinach
   qty: 150
   unit: g
   category: Gemüse und Salat
 - de_name: Frischkäse natur
-  en_name: 'TODO: Frischkäse natur'
+  en_name: cream cheese, plain
   qty: 120
   unit: g
   category: Protein und Milchprodukte
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Basilikum
-  en_name: 'TODO: Basilikum'
+  en_name: basil
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chilli flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -62,6 +62,6 @@ de_steps:
 - Gnocchi in der Pfanne oder separat weich garen.
 - Erbsen, Spinat und Frischkäse unterrühren.
 en_steps:
-- 'TODO: Hähnchen mit Zwiebel scharf anbraten.'
-- 'TODO: Gnocchi in der Pfanne oder separat weich garen.'
-- 'TODO: Erbsen, Spinat und Frischkäse unterrühren.'
+- Sear chicken with onion in a hot pan.
+- Cook gnocchi in the pan or separately until tender.
+- Stir in peas, spinach and cream cheese until combined.

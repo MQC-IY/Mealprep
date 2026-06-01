@@ -6,131 +6,127 @@ next_day: true
 meals: 2
 de:
   title: Südostasiatischer Hähnchen-Erdnuss-Eintopf
-  summary: |-
-    Cremiger Erdnuss-Kokos-Eintopf mit Hähnchen, Paprika und Süßkartoffel – inspiriert von indonesisch-malaiischer Küche mit Galgant, Zitronengras und Chili.
+  summary: Cremiger Erdnuss-Kokos-Eintopf mit Hähnchen, Paprika und Süßkartoffel –
+    inspiriert von indonesisch-malaiischer Küche mit Galgant, Zitronengras und Chili.
 en:
-  title: 'TODO: Südostasiatischer Hähnchen-Erdnuss-Eintopf'
-  summary: |-
-    TODO: Cremiger Erdnuss-Kokos-Eintopf mit Hähnchen, Paprika und Süßkartoffel – inspiriert von indonesisch-malaiischer Küche mit Galgant, Zitronengras und Chili.
+  title: Southeast Asian Peanut Chicken Stew
+  summary: A creamy peanut-coconut stew with chicken, bell pepper and sweet potato
+    – inspired by Indonesian-Malay cuisine with galangal, lemongrass and chilli.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 700
   unit: g
   category: Protein und Milchprodukte
 - de_name: Kokosmilch
-  en_name: 'TODO: Kokosmilch'
+  en_name: coconut milk
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Erdnussmus
-  en_name: 'TODO: Erdnussmus'
+  en_name: peanut butter
   qty: 4
   unit: EL
   category: Konserven und Vorrat
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: chicken stock
   qty: 400
   unit: ml
   category: Konserven und Vorrat
 - de_name: Sojasauce
-  en_name: 'TODO: Sojasauce'
+  en_name: soy sauce
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Rapsöl
-  en_name: 'TODO: Rapsöl'
+  en_name: rapeseed oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Jasminreis
-  en_name: 'TODO: Jasminreis'
+  en_name: jasmine rice
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Süßkartoffel
-  en_name: 'TODO: Süßkartoffel'
+  en_name: sweet potato
   qty: 400
   unit: g
   category: Gemüse und Salat
 - de_name: Paprika
-  en_name: 'TODO: Paprika'
+  en_name: bell pepper
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Frühlingszwiebeln
-  en_name: 'TODO: Frühlingszwiebeln'
+  en_name: spring onions
   qty: 4
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 3
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Ingwer, frisch
-  en_name: 'TODO: Ingwer, frisch'
+  en_name: fresh ginger
   qty: 25
   unit: g
   category: Gemüse und Salat
 - de_name: Zitronengras
-  en_name: 'TODO: Zitronengras'
+  en_name: lemongrass
   qty: 1
   unit: Stange
   category: Gemüse und Salat
 - de_name: Rote Chilischote
-  en_name: 'TODO: Rote Chilischote'
+  en_name: red chilli
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Limette
-  en_name: 'TODO: Limette'
+  en_name: lime
   qty: 2
   unit: Stk
   category: Obst
 - de_name: Kurkuma
-  en_name: 'TODO: Kurkuma'
+  en_name: turmeric
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Koriander, gemahlen
-  en_name: 'TODO: Koriander, gemahlen'
+  en_name: coriander, ground
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chilli flakes
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Galgant oder Ingwerpulver
-  en_name: 'TODO: Galgant oder Ingwerpulver'
+  en_name: galangal or ground ginger
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Hähnchen in Würfel schneiden. Süßkartoffel schälen und würfeln. Zitronengras anquetschen.
-- |-
-  Öl erhitzen. Knoblauch, Ingwer und frischen Chili 2 Minuten anbraten. Zitronengras zugeben.
-- |-
-  Hähnchen anbraten bis außen weiß. Kurkuma, Koriander, Galgant und Chiliflocken einrühren und 1 Minute rösten.
-- |-
-  Brühe, Kokosmilch, Erdnussmus und Sojasauce zugießen. Süßkartoffel und Paprika hinzufügen.
-- |-
-  Auf mittlerer Hitze 20–25 Minuten köcheln lassen, bis Süßkartoffel weich und Sauce eingedickt ist.
-- |-
-  Reis kochen. Mit Limettensaft abschmecken. Mit Frühlingszwiebeln und frischem Chili garnieren.
+- Hähnchen in Würfel schneiden. Süßkartoffel schälen und würfeln. Zitronengras anquetschen.
+- Öl erhitzen. Knoblauch, Ingwer und frischen Chili 2 Minuten anbraten. Zitronengras
+  zugeben.
+- Hähnchen anbraten bis außen weiß. Kurkuma, Koriander, Galgant und Chiliflocken einrühren
+  und 1 Minute rösten.
+- Brühe, Kokosmilch, Erdnussmus und Sojasauce zugießen. Süßkartoffel und Paprika hinzufügen.
+- Auf mittlerer Hitze 20–25 Minuten köcheln lassen, bis Süßkartoffel weich und Sauce
+  eingedickt ist.
+- Reis kochen. Mit Limettensaft abschmecken. Mit Frühlingszwiebeln und frischem Chili
+  garnieren.
 en_steps:
-- |-
-  TODO: Hähnchen in Würfel schneiden. Süßkartoffel schälen und würfeln. Zitronengras anquetschen.
-- |-
-  TODO: Öl erhitzen. Knoblauch, Ingwer und frischen Chili 2 Minuten anbraten. Zitronengras zugeben.
-- |-
-  TODO: Hähnchen anbraten bis außen weiß. Kurkuma, Koriander, Galgant und Chiliflocken einrühren und 1 Minute rösten.
-- |-
-  TODO: Brühe, Kokosmilch, Erdnussmus und Sojasauce zugießen. Süßkartoffel und Paprika hinzufügen.
-- |-
-  TODO: Auf mittlerer Hitze 20–25 Minuten köcheln lassen, bis Süßkartoffel weich und Sauce eingedickt ist.
-- |-
-  TODO: Reis kochen. Mit Limettensaft abschmecken. Mit Frühlingszwiebeln und frischem Chili garnieren.
+- Cut chicken into cubes. Peel and dice sweet potato. Bruise the lemongrass stalk.
+- Heat oil. Fry garlic, ginger and fresh chilli for 2 minutes. Add lemongrass.
+- Fry chicken until white on the outside. Stir in turmeric, coriander, galangal and
+  chilli flakes; toast for 1 minute.
+- Pour in stock, coconut milk, peanut butter and soy sauce. Add sweet potato and bell
+  pepper.
+- Simmer over medium heat for 20–25 minutes until the sweet potato is tender and the
+  sauce has thickened.
+- Cook rice. Adjust seasoning with lime juice. Garnish with spring onions and fresh
+  chilli.

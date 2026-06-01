@@ -8,41 +8,42 @@ de:
   title: Ofen-Hähnchen mit Kartoffeln und Brokkoli
   summary: Einfaches Ofengericht mit Kartoffeln, Brokkoli und Hähnchenstücken.
 en:
-  title: 'TODO: Ofen-Hähnchen mit Kartoffeln und Brokkoli'
-  summary: 'TODO: Einfaches Ofengericht mit Kartoffeln, Brokkoli und Hähnchenstücken.'
+  title: Oven Chicken with Potatoes and Broccoli
+  summary: A simple and satisfying traybake with seasoned chicken, crispy potato wedges,
+    broccoli, and bell pepper — minimal washing up.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 900
   unit: g
   category: Protein und Milchprodukte
 - de_name: Kartoffeln
-  en_name: 'TODO: Kartoffeln'
+  en_name: potatoes
   qty: 1200
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Brokkoli
-  en_name: 'TODO: Brokkoli'
+  en_name: broccoli
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Paprika
-  en_name: 'TODO: Paprika'
+  en_name: bell pepper
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Paprika edelsüß
-  en_name: 'TODO: Paprika edelsüß'
+  en_name: sweet paprika
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -51,6 +52,6 @@ de_steps:
 - Brokkoli und Paprika schneiden, alles mit etwas Öl mischen.
 - Hähnchen kräftig würzen und mit dem Gemüse im Ofen garen.
 en_steps:
-- 'TODO: Kartoffeln in Spalten schneiden und vorgaren oder vorbacken.'
-- 'TODO: Brokkoli und Paprika schneiden, alles mit etwas Öl mischen.'
-- 'TODO: Hähnchen kräftig würzen und mit dem Gemüse im Ofen garen.'
+- Cut the potatoes into wedges and parboil or par-bake.
+- Cut the broccoli and bell pepper, then toss everything with a little oil.
+- Season the chicken generously and roast together with the vegetables in the oven.

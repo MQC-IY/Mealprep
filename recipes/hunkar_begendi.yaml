@@ -6,121 +6,126 @@ next_day: false
 meals: 2
 de:
   title: Türkisches Hünkar Beğendi – Hähnchen auf Auberginen-Püree
-  summary: |-
-    Das osmanische 'Sultansgericht': geschmortes Hähnchen in kräftiger Tomatensauce auf samtigem, geräuchertem Auberginen-Käse-Püree.
+  summary: 'Das osmanische ''Sultansgericht'': geschmortes Hähnchen in kräftiger Tomatensauce
+    auf samtigem, geräuchertem Auberginen-Käse-Püree.'
 en:
-  title: 'TODO: Türkisches Hünkar Beğendi – Hähnchen auf Auberginen-Püree'
-  summary: |-
-    TODO: Das osmanische 'Sultansgericht': geschmortes Hähnchen in kräftiger Tomatensauce auf samtigem, geräuchertem Auberginen-Käse-Püree.
+  title: Hünkar Beğendi – Chicken on Smoked Aubergine Purée
+  summary: 'The Ottoman ''Sultan''s Delight'': braised chicken in a robust tomato
+    sauce on a velvety smoked aubergine and cheese purée.'
 ingredients:
 - de_name: Hähnchenschenkel (ohne Knochen)
-  en_name: 'TODO: Hähnchenschenkel (ohne Knochen)'
+  en_name: Boneless chicken thighs
   qty: 500
   unit: g
   category: Protein und Milchprodukte
 - de_name: Butter
-  en_name: 'TODO: Butter'
+  en_name: Butter
   qty: 60
   unit: g
   category: Protein und Milchprodukte
 - de_name: Geriebener Kaşar-Käse oder Gruyère
-  en_name: 'TODO: Geriebener Kaşar-Käse oder Gruyère'
+  en_name: Grated kaşar cheese or Gruyère
   qty: 80
   unit: g
   category: Protein und Milchprodukte
 - de_name: Vollmilch
-  en_name: 'TODO: Vollmilch'
+  en_name: Whole milk
   qty: 200
   unit: ml
   category: Protein und Milchprodukte
 - de_name: Auberginen
-  en_name: 'TODO: Auberginen'
+  en_name: Aubergines
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zwiebeln
-  en_name: 'TODO: Zwiebeln'
+  en_name: Onions
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: Garlic cloves
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Tomaten
-  en_name: 'TODO: Tomaten'
+  en_name: Tomatoes
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Grüne Paprikaschote
-  en_name: 'TODO: Grüne Paprikaschote'
+  en_name: Green bell pepper
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Gehackte Tomaten
-  en_name: 'TODO: Gehackte Tomaten'
+  en_name: Chopped tomatoes (canned)
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Weizenmehl (Typ 405)
-  en_name: 'TODO: Weizenmehl (Typ 405)'
+  en_name: Plain flour
   qty: 2
   unit: EL
   category: Kohlenhydrate und Sattmacher
 - de_name: Pul Biber (Aleppo-Pfeffer)
-  en_name: 'TODO: Pul Biber (Aleppo-Pfeffer)'
+  en_name: Pul biber (Aleppo pepper)
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Paprikapulver, geräuchert
-  en_name: 'TODO: Paprikapulver, geräuchert'
+  en_name: Smoked paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: Salt
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: Black pepper
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Lorbeerblätter
-  en_name: 'TODO: Lorbeerblätter'
+  en_name: Bay leaves
   qty: 2
   unit: Stk
   category: Gewürze
 de_steps:
-- |-
-  Auberginen direkt auf der Gasflamme oder unter dem Ofengrill bei maximaler Hitze rundum schwarz verbrennen lassen – das dauert 15–20 Minuten. In einem Sieb abkühlen, Schale abziehen, Fruchtfleisch fein hacken und abtropfen lassen.
-- |-
-  Hähnchen in große Würfel schneiden. Olivenöl in einem Topf erhitzen, Hähnchen scharf anbraten. Zwiebeln und Paprika würfeln, hinzufügen und 5 Minuten mitdünsten.
-- |-
-  Knoblauch pressen, mit Pul Biber und Paprikapulver einrühren. Gehackte Tomaten und frische Tomaten-Würfel dazugeben. Lorbeerblätter einlegen, Salz und Pfeffer hinzufügen. 25 Minuten zugedeckt schmoren.
-- |-
-  Für das Püree: 40 g Butter in einem Topf schmelzen, Mehl einrühren und 2 Minuten helles Mehlschwitze rühren. Milch nach und nach einrühren, 5 Minuten zu einer dicken Sauce kochen.
-- |-
-  Auberginenfleisch unterheben, restliche Butter und geriebenen Käse einschmelzen. Mit Salz, Pfeffer und einem Hauch Pul Biber abschmecken.
-- |-
-  Auberginen-Püree auf Teller streichen, Hähnchensauce in der Mitte anrichten. Sofort servieren.
+- Auberginen direkt auf der Gasflamme oder unter dem Ofengrill bei maximaler Hitze
+  rundum schwarz verbrennen lassen – das dauert 15–20 Minuten. In einem Sieb abkühlen,
+  Schale abziehen, Fruchtfleisch fein hacken und abtropfen lassen.
+- Hähnchen in große Würfel schneiden. Olivenöl in einem Topf erhitzen, Hähnchen scharf
+  anbraten. Zwiebeln und Paprika würfeln, hinzufügen und 5 Minuten mitdünsten.
+- Knoblauch pressen, mit Pul Biber und Paprikapulver einrühren. Gehackte Tomaten und
+  frische Tomaten-Würfel dazugeben. Lorbeerblätter einlegen, Salz und Pfeffer hinzufügen.
+  25 Minuten zugedeckt schmoren.
+- 'Für das Püree: 40 g Butter in einem Topf schmelzen, Mehl einrühren und 2 Minuten
+  helles Mehlschwitze rühren. Milch nach und nach einrühren, 5 Minuten zu einer dicken
+  Sauce kochen.'
+- Auberginenfleisch unterheben, restliche Butter und geriebenen Käse einschmelzen.
+  Mit Salz, Pfeffer und einem Hauch Pul Biber abschmecken.
+- Auberginen-Püree auf Teller streichen, Hähnchensauce in der Mitte anrichten. Sofort
+  servieren.
 en_steps:
-- |-
-  TODO: Auberginen direkt auf der Gasflamme oder unter dem Ofengrill bei maximaler Hitze rundum schwarz verbrennen lassen – das dauert 15–20 Minuten. In einem Sieb abkühlen, Schale abziehen, Fruchtfleisch fein hacken und abtropfen lassen.
-- |-
-  TODO: Hähnchen in große Würfel schneiden. Olivenöl in einem Topf erhitzen, Hähnchen scharf anbraten. Zwiebeln und Paprika würfeln, hinzufügen und 5 Minuten mitdünsten.
-- |-
-  TODO: Knoblauch pressen, mit Pul Biber und Paprikapulver einrühren. Gehackte Tomaten und frische Tomaten-Würfel dazugeben. Lorbeerblätter einlegen, Salz und Pfeffer hinzufügen. 25 Minuten zugedeckt schmoren.
-- |-
-  TODO: Für das Püree: 40 g Butter in einem Topf schmelzen, Mehl einrühren und 2 Minuten helles Mehlschwitze rühren. Milch nach und nach einrühren, 5 Minuten zu einer dicken Sauce kochen.
-- |-
-  TODO: Auberginenfleisch unterheben, restliche Butter und geriebenen Käse einschmelzen. Mit Salz, Pfeffer und einem Hauch Pul Biber abschmecken.
-- |-
-  TODO: Auberginen-Püree auf Teller streichen, Hähnchensauce in der Mitte anrichten. Sofort servieren.
+- Char the aubergines directly over a gas flame or under the oven grill at maximum
+  heat, turning all over until completely blackened — this takes 15–20 minutes. Cool
+  in a colander, peel off the skin, finely chop the flesh, and let drain.
+- Cut the chicken into large chunks. Heat the olive oil in a pot and sear the chicken.
+  Dice the onions and pepper, add, and sweat for 5 minutes.
+- Press the garlic and stir in with the pul biber and smoked paprika. Add the canned
+  chopped tomatoes and fresh diced tomatoes. Add the bay leaves, salt, and pepper.
+  Braise covered for 25 minutes.
+- 'For the purée: melt 40 g butter in a pot, stir in the flour, and cook a pale roux
+  for 2 minutes. Gradually whisk in the milk and cook to a thick sauce over 5 minutes.'
+- Fold in the aubergine flesh, melt in the remaining butter and grated cheese. Season
+  with salt, pepper, and a touch of pul biber.
+- Spread the aubergine purée on plates and spoon the chicken sauce into the centre.
+  Serve immediately.

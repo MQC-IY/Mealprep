@@ -6,119 +6,113 @@ next_day: true
 meals: 2
 de:
   title: Französisches Cassoulet-Eintopf
-  summary: |-
-    Üppiger südfranzösischer Cassoulet mit weißen Bohnen, Entenschenkel, Toulouse-Salsiccia und kräftiger Fleischbrühe – langsam geschmort mit goldbrauner Kruste.
+  summary: Üppiger südfranzösischer Cassoulet mit weißen Bohnen, Entenschenkel, Toulouse-Salsiccia
+    und kräftiger Fleischbrühe – langsam geschmort mit goldbrauner Kruste.
 en:
-  title: 'TODO: Französisches Cassoulet-Eintopf'
-  summary: |-
-    TODO: Üppiger südfranzösischer Cassoulet mit weißen Bohnen, Entenschenkel, Toulouse-Salsiccia und kräftiger Fleischbrühe – langsam geschmort mit goldbrauner Kruste.
+  title: French Cassoulet
+  summary: A hearty southern French Cassoulet with white beans, duck legs, Toulouse
+    sausage, and rich stock – slow-braised with a golden breadcrumb crust.
 ingredients:
 - de_name: Entenschenkel oder Hähnchenschenkel
-  en_name: 'TODO: Entenschenkel oder Hähnchenschenkel'
+  en_name: duck legs or chicken legs
   qty: 600
   unit: g
   category: Protein und Milchprodukte
 - de_name: Toulouse-Salsiccia oder grobe Bratwurst
-  en_name: 'TODO: Toulouse-Salsiccia oder grobe Bratwurst'
+  en_name: Toulouse sausage or coarse pork sausage
   qty: 300
   unit: g
   category: Protein und Milchprodukte
 - de_name: Weiße Riesenbohnen aus der Dose (Tarbais oder Cannellini)
-  en_name: 'TODO: Weiße Riesenbohnen aus der Dose (Tarbais oder Cannellini)'
+  en_name: canned large white beans (Tarbais or cannellini)
   qty: 2
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Hühner- oder Gemüsebrühe
-  en_name: 'TODO: Hühner- oder Gemüsebrühe'
+  en_name: chicken or vegetable stock
   qty: 400
   unit: ml
   category: Konserven und Vorrat
 - de_name: Geschälte Tomaten aus der Dose
-  en_name: 'TODO: Geschälte Tomaten aus der Dose'
+  en_name: canned peeled tomatoes
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 5
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Karotte
-  en_name: 'TODO: Karotte'
+  en_name: carrot
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Tomatenmark
-  en_name: 'TODO: Tomatenmark'
+  en_name: tomato paste
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Semmelbrösel
-  en_name: 'TODO: Semmelbrösel'
+  en_name: breadcrumbs
   qty: 60
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Herbes de Provence
-  en_name: 'TODO: Herbes de Provence'
+  en_name: herbes de Provence
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Lorbeerblätter
-  en_name: 'TODO: Lorbeerblätter'
+  en_name: bay leaves
   qty: 2
   unit: Stk
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Ofen auf 160 °C vorheizen. Entenschenkel/Hähnchenschenkel mit Salz und Pfeffer würzen.
-- |-
-  Olivenöl im Schmortopf (ofenfest) erhitzen. Geflügelschenkel rundherum 5–6 Minuten kräftig anbraten. Herausnehmen.
-- |-
-  Salsiccia in Stücke schneiden, im gleichen Topf 3 Minuten anbraten. Herausnehmen.
-- |-
-  Zwiebel, Karotte würfeln, Knoblauch hacken. Im Bratfett 6 Minuten anschwitzen. Tomatenmark einrühren, 2 Minuten rösten.
-- |-
-  Dosentomaten zerdrückt, Brühe, Herbes de Provence und Lorbeer dazugeben. Aufkochen.
-- |-
-  Bohnen (abgetropft) einrühren. Geflügelschenkel und Salsiccia-Stücke in den Topf legen.
-- |-
-  Semmelbrösel gleichmäßig über den gesamten Topf streuen. Mit dem Deckel abdecken und im vorgeheizten Ofen 90 Minuten garen.
-- |-
-  Deckel abnehmen, Ofen auf 200 °C hochdrehen. 20–25 Minuten weiterbacken, bis die Semmelbrösekruste goldbraun und knusprig ist. Lorbeer entfernen.
+- Ofen auf 160 °C vorheizen. Entenschenkel/Hähnchenschenkel mit Salz und Pfeffer würzen.
+- Olivenöl im Schmortopf (ofenfest) erhitzen. Geflügelschenkel rundherum 5–6 Minuten
+  kräftig anbraten. Herausnehmen.
+- Salsiccia in Stücke schneiden, im gleichen Topf 3 Minuten anbraten. Herausnehmen.
+- Zwiebel, Karotte würfeln, Knoblauch hacken. Im Bratfett 6 Minuten anschwitzen. Tomatenmark
+  einrühren, 2 Minuten rösten.
+- Dosentomaten zerdrückt, Brühe, Herbes de Provence und Lorbeer dazugeben. Aufkochen.
+- Bohnen (abgetropft) einrühren. Geflügelschenkel und Salsiccia-Stücke in den Topf
+  legen.
+- Semmelbrösel gleichmäßig über den gesamten Topf streuen. Mit dem Deckel abdecken
+  und im vorgeheizten Ofen 90 Minuten garen.
+- Deckel abnehmen, Ofen auf 200 °C hochdrehen. 20–25 Minuten weiterbacken, bis die
+  Semmelbrösekruste goldbraun und knusprig ist. Lorbeer entfernen.
 en_steps:
-- |-
-  TODO: Ofen auf 160 °C vorheizen. Entenschenkel/Hähnchenschenkel mit Salz und Pfeffer würzen.
-- |-
-  TODO: Olivenöl im Schmortopf (ofenfest) erhitzen. Geflügelschenkel rundherum 5–6 Minuten kräftig anbraten. Herausnehmen.
-- |-
-  TODO: Salsiccia in Stücke schneiden, im gleichen Topf 3 Minuten anbraten. Herausnehmen.
-- |-
-  TODO: Zwiebel, Karotte würfeln, Knoblauch hacken. Im Bratfett 6 Minuten anschwitzen. Tomatenmark einrühren, 2 Minuten rösten.
-- |-
-  TODO: Dosentomaten zerdrückt, Brühe, Herbes de Provence und Lorbeer dazugeben. Aufkochen.
-- |-
-  TODO: Bohnen (abgetropft) einrühren. Geflügelschenkel und Salsiccia-Stücke in den Topf legen.
-- |-
-  TODO: Semmelbrösel gleichmäßig über den gesamten Topf streuen. Mit dem Deckel abdecken und im vorgeheizten Ofen 90 Minuten garen.
-- |-
-  TODO: Deckel abnehmen, Ofen auf 200 °C hochdrehen. 20–25 Minuten weiterbacken, bis die Semmelbrösekruste goldbraun und knusprig ist. Lorbeer entfernen.
+- Preheat the oven to 160 °C. Season the duck/chicken legs with salt and pepper.
+- Heat olive oil in an ovenproof casserole. Brown the poultry legs all over for 5–6
+  minutes. Remove.
+- Cut the sausage into pieces and brown in the same pot for 3 minutes. Remove.
+- Dice the onion and carrot, chop the garlic. Sauté in the cooking fat for 6 minutes.
+  Stir in the tomato paste and toast for 2 minutes.
+- Add the crushed canned tomatoes, stock, herbes de Provence, and bay leaves. Bring
+  to a boil.
+- Stir in the drained beans. Nestle the poultry legs and sausage pieces into the pot.
+- Scatter the breadcrumbs evenly over the top. Cover with the lid and braise in the
+  preheated oven for 90 minutes.
+- Remove the lid, increase the oven to 200 °C, and bake for a further 20–25 minutes
+  until the breadcrumb crust is golden and crispy. Remove the bay leaves.

@@ -2,60 +2,60 @@ id: apple_cinnamon_oat_cake
 pool: dessert
 de:
   title: Apfel-Zimt-Haferkuchen
-  summary: |-
-    Saftiger Blechkuchen mit Apfel, Haferflocken und Skyr, süß genug für den kleinen Nachtisch, aber nicht schwer.
+  summary: Saftiger Blechkuchen mit Apfel, Haferflocken und Skyr, süß genug für den
+    kleinen Nachtisch, aber nicht schwer.
 en:
-  title: 'TODO: Apfel-Zimt-Haferkuchen'
-  summary: |-
-    TODO: Saftiger Blechkuchen mit Apfel, Haferflocken und Skyr, süß genug für den kleinen Nachtisch, aber nicht schwer.
+  title: Apple Cinnamon Oat Cake
+  summary: A moist sheet cake with apple, oats, and skyr — sweet enough for a little
+    dessert, but light on the stomach.
 ingredients:
 - de_name: Äpfel
-  en_name: 'TODO: Äpfel'
+  en_name: apples
   qty: 3
   unit: Stk
   category: Obst
 - de_name: Haferflocken
-  en_name: 'TODO: Haferflocken'
+  en_name: rolled oats
   qty: 180
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Dinkelmehl
-  en_name: 'TODO: Dinkelmehl'
+  en_name: spelt flour
   qty: 120
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Skyr oder griechischer Joghurt
-  en_name: 'TODO: Skyr oder griechischer Joghurt'
+  en_name: skyr or Greek yogurt
   qty: 200
   unit: g
   category: Protein und Milchprodukte
 - de_name: Eier
-  en_name: 'TODO: Eier'
+  en_name: eggs
   qty: 2
   unit: Stk
   category: Protein und Milchprodukte
 - de_name: Rapsöl
-  en_name: 'TODO: Rapsöl'
+  en_name: rapeseed oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Honig
-  en_name: 'TODO: Honig'
+  en_name: honey
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Backpulver
-  en_name: 'TODO: Backpulver'
+  en_name: baking powder
   qty: 1
   unit: Packung
   category: Konserven und Vorrat
 - de_name: Zimt
-  en_name: 'TODO: Zimt'
+  en_name: cinnamon
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -63,11 +63,11 @@ de_steps:
 - Äpfel fein würfeln oder grob reiben.
 - Eier, Skyr, Rapsöl und Honig verrühren.
 - Haferflocken, Dinkelmehl, Backpulver und Zimt unterheben.
-- |-
-  Äpfel einrühren, in eine kleine Form geben und bei 180 Grad etwa 30 bis 35 Minuten backen.
+- Äpfel einrühren, in eine kleine Form geben und bei 180 Grad etwa 30 bis 35 Minuten
+  backen.
 en_steps:
-- 'TODO: Äpfel fein würfeln oder grob reiben.'
-- 'TODO: Eier, Skyr, Rapsöl und Honig verrühren.'
-- 'TODO: Haferflocken, Dinkelmehl, Backpulver und Zimt unterheben.'
-- |-
-  TODO: Äpfel einrühren, in eine kleine Form geben und bei 180 Grad etwa 30 bis 35 Minuten backen.
+- Finely dice or coarsely grate the apples.
+- Mix together eggs, skyr, rapeseed oil, and honey.
+- Fold in rolled oats, spelt flour, baking powder, and cinnamon.
+- Stir in the apples, pour into a small baking tin, and bake at 180 °C (350 °F) for
+  about 30–35 minutes.

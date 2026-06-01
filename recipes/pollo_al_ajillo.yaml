@@ -7,95 +7,94 @@ quick_minutes: 25
 meals: 2
 de:
   title: Pollo al Ajillo – Hähnchen in Knoblauch-Weißwein-Sauce
-  summary: |-
-    Kastilianisches Knoblauch-Hähnchen in einer duftenden Sauce aus reichlich Knoblauch, trockenem Sherry, Pimentón ahumado und Olivenöl.
+  summary: Kastilianisches Knoblauch-Hähnchen in einer duftenden Sauce aus reichlich
+    Knoblauch, trockenem Sherry, Pimentón ahumado und Olivenöl.
 en:
-  title: 'TODO: Pollo al Ajillo – Hähnchen in Knoblauch-Weißwein-Sauce'
-  summary: |-
-    TODO: Kastilianisches Knoblauch-Hähnchen in einer duftenden Sauce aus reichlich Knoblauch, trockenem Sherry, Pimentón ahumado und Olivenöl.
+  title: Pollo al Ajillo – Chicken in Garlic and White Wine Sauce
+  summary: Castilian garlic chicken in a fragrant sauce of abundant garlic, dry sherry,
+    smoked pimentón and olive oil.
 ingredients:
 - de_name: Hähnchenstücke mit Knochen (Oberschenkel und Drumsticks)
-  en_name: 'TODO: Hähnchenstücke mit Knochen (Oberschenkel und Drumsticks)'
+  en_name: bone-in chicken pieces (thighs and drumsticks)
   qty: 900
   unit: g
   category: Protein und Milchprodukte
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 10
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Trockener Sherry (Fino) oder Weißwein
-  en_name: 'TODO: Trockener Sherry (Fino) oder Weißwein'
+  en_name: dry sherry (fino) or white wine
   qty: 150
   unit: ml
   category: Konserven und Vorrat
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: chicken stock
   qty: 200
   unit: ml
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 5
   unit: EL
   category: Konserven und Vorrat
 - de_name: Frische Petersilie
-  en_name: 'TODO: Frische Petersilie'
+  en_name: fresh parsley
   qty: 1
   unit: Bund
   category: Gemüse und Salat
 - de_name: Pimentón ahumado (geräuchertes Paprikapulver)
-  en_name: 'TODO: Pimentón ahumado (geräuchertes Paprikapulver)'
+  en_name: smoked pimentón (pimentón ahumado)
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Lorbeerblätter
-  en_name: 'TODO: Lorbeerblätter'
+  en_name: bay leaves
   qty: 3
   unit: Stk
   category: Gewürze
 - de_name: Cayennepfeffer
-  en_name: 'TODO: Cayennepfeffer'
+  en_name: cayenne pepper
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Hähnchenstücke trocken tupfen, kräftig mit Salz, Pfeffer und 1 TL Pimentón würzen.
-- |-
-  Olivenöl in einer großen, tiefen Pfanne bei hoher Hitze erhitzen. Hähnchenstücke portionsweise rundherum 5–6 Minuten goldbraun und knusprig anbraten. Herausnehmen.
-- |-
-  Knoblauchzehen (6 davon ganz gelassen, 4 fein gehackt) im selben Öl bei mittlerer Hitze 2–3 Minuten goldgelb anbraten.
-- |-
-  Lorbeerblätter und restlichen Pimentón sowie Cayennepfeffer einrühren. Mit Sherry ablöschen, kräftig aufkochen und 2 Minuten einkochen.
-- |-
-  Brühe dazugießen. Hähnchenstücke zurücklegen, Deckel auflegen und bei niedriger bis mittlerer Hitze 35 Minuten schmoren.
-- |-
-  Deckel abnehmen, weitere 10 Minuten offen köcheln, bis die Sauce konzentriert und leicht sämig ist. Lorbeer entfernen.
+- Hähnchenstücke trocken tupfen, kräftig mit Salz, Pfeffer und 1 TL Pimentón würzen.
+- Olivenöl in einer großen, tiefen Pfanne bei hoher Hitze erhitzen. Hähnchenstücke
+  portionsweise rundherum 5–6 Minuten goldbraun und knusprig anbraten. Herausnehmen.
+- Knoblauchzehen (6 davon ganz gelassen, 4 fein gehackt) im selben Öl bei mittlerer
+  Hitze 2–3 Minuten goldgelb anbraten.
+- Lorbeerblätter und restlichen Pimentón sowie Cayennepfeffer einrühren. Mit Sherry
+  ablöschen, kräftig aufkochen und 2 Minuten einkochen.
+- Brühe dazugießen. Hähnchenstücke zurücklegen, Deckel auflegen und bei niedriger
+  bis mittlerer Hitze 35 Minuten schmoren.
+- Deckel abnehmen, weitere 10 Minuten offen köcheln, bis die Sauce konzentriert und
+  leicht sämig ist. Lorbeer entfernen.
 - Mit reichlich gehackter Petersilie bestreuen.
 - Dazu frisches Weißbrot reichen, um die Sauce aufzutunken.
 en_steps:
-- |-
-  TODO: Hähnchenstücke trocken tupfen, kräftig mit Salz, Pfeffer und 1 TL Pimentón würzen.
-- |-
-  TODO: Olivenöl in einer großen, tiefen Pfanne bei hoher Hitze erhitzen. Hähnchenstücke portionsweise rundherum 5–6 Minuten goldbraun und knusprig anbraten. Herausnehmen.
-- |-
-  TODO: Knoblauchzehen (6 davon ganz gelassen, 4 fein gehackt) im selben Öl bei mittlerer Hitze 2–3 Minuten goldgelb anbraten.
-- |-
-  TODO: Lorbeerblätter und restlichen Pimentón sowie Cayennepfeffer einrühren. Mit Sherry ablöschen, kräftig aufkochen und 2 Minuten einkochen.
-- |-
-  TODO: Brühe dazugießen. Hähnchenstücke zurücklegen, Deckel auflegen und bei niedriger bis mittlerer Hitze 35 Minuten schmoren.
-- |-
-  TODO: Deckel abnehmen, weitere 10 Minuten offen köcheln, bis die Sauce konzentriert und leicht sämig ist. Lorbeer entfernen.
-- 'TODO: Mit reichlich gehackter Petersilie bestreuen.'
-- 'TODO: Dazu frisches Weißbrot reichen, um die Sauce aufzutunken.'
+- Pat the chicken pieces dry and season generously with salt, pepper and 1 tsp pimentón.
+- Heat the olive oil in a large, deep frying pan over high heat. Brown the chicken
+  pieces in batches on all sides for 5–6 minutes until golden and crispy. Remove and
+  set aside.
+- In the same oil, fry the garlic cloves (6 left whole, 4 finely chopped) over medium
+  heat for 2–3 minutes until golden.
+- Stir in the bay leaves, remaining pimentón and cayenne pepper. Deglaze with the
+  sherry, bring to a vigorous boil and reduce for 2 minutes.
+- Add the stock. Return the chicken pieces, cover and braise over low to medium heat
+  for 35 minutes.
+- Remove the lid and simmer uncovered for a further 10 minutes until the sauce is
+  concentrated and slightly syrupy. Remove the bay leaves.
+- Scatter generously with chopped fresh parsley.
+- Serve with crusty white bread to soak up the sauce.

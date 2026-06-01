@@ -2,50 +2,50 @@ id: yogurt_lemon_cake
 pool: dessert
 de:
   title: Joghurt-Zitronenkuchen in leichter Version
-  summary: |-
-    Frischer, heller Kuchen mit Joghurt, Zitrone und wenig Honig statt dickem Zuckerguss.
+  summary: Frischer, heller Kuchen mit Joghurt, Zitrone und wenig Honig statt dickem
+    Zuckerguss.
 en:
-  title: 'TODO: Joghurt-Zitronenkuchen in leichter Version'
-  summary: |-
-    TODO: Frischer, heller Kuchen mit Joghurt, Zitrone und wenig Honig statt dickem Zuckerguss.
+  title: Light Yogurt Lemon Cake
+  summary: A fresh, airy cake made with yogurt, lemon, and a touch of honey instead
+    of thick icing.
 ingredients:
 - de_name: Dinkelmehl
-  en_name: 'TODO: Dinkelmehl'
+  en_name: Spelt flour
   qty: 200
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Naturjoghurt
-  en_name: 'TODO: Naturjoghurt'
+  en_name: Plain yogurt
   qty: 250
   unit: g
   category: Protein und Milchprodukte
 - de_name: Eier
-  en_name: 'TODO: Eier'
+  en_name: Eggs
   qty: 2
   unit: Stk
   category: Protein und Milchprodukte
 - de_name: Zitrone
-  en_name: 'TODO: Zitrone'
+  en_name: Lemon
   qty: 1
   unit: Stk
   category: Obst
 - de_name: Rapsöl
-  en_name: 'TODO: Rapsöl'
+  en_name: Rapeseed oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Honig
-  en_name: 'TODO: Honig'
+  en_name: Honey
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Backpulver
-  en_name: 'TODO: Backpulver'
+  en_name: Baking powder
   qty: 1
   unit: Packung
   category: Konserven und Vorrat
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -55,8 +55,8 @@ de_steps:
 - In eine kleine Form geben und bei 180 Grad etwa 30 bis 35 Minuten backen.
 - Ohne Zuckerguss servieren oder mit einem Löffel Joghurt ergänzen.
 en_steps:
-- |-
-  TODO: Joghurt, Eier, Rapsöl, Honig, Zitronensaft und etwas Zitronenabrieb verrühren.
-- 'TODO: Dinkelmehl und Backpulver unterheben.'
-- 'TODO: In eine kleine Form geben und bei 180 Grad etwa 30 bis 35 Minuten backen.'
-- 'TODO: Ohne Zuckerguss servieren oder mit einem Löffel Joghurt ergänzen.'
+- Whisk together the yogurt, eggs, rapeseed oil, honey, lemon juice, and a little
+  lemon zest.
+- Fold in the spelt flour and baking powder.
+- Pour into a small tin and bake at 180 °C for about 30–35 minutes.
+- Serve without icing, or with a spoonful of yogurt on the side.

@@ -10,83 +10,80 @@ de:
   summary: Cremiges Thai-Hähnchencarry mit Paprika und Kokosmilch — in 28 Minuten
     gar.
 en:
-  title: 'TODO: Schneller Hähnchen-Curry-Topf'
-  summary: |-
-    TODO: Cremiges Thai-Hähnchencarry mit Paprika und Kokosmilch — in 28 Minuten gar.
+  title: Quick Chicken Curry Pot
+  summary: Creamy Thai chicken curry with bell pepper and coconut milk — ready in
+    28 minutes.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: Chicken breast
   qty: 600
   unit: g
   category: Protein und Milchprodukte
 - de_name: Kokosmilch
-  en_name: 'TODO: Kokosmilch'
+  en_name: Coconut milk
   qty: 400
   unit: ml
   category: Konserven und Vorrat
 - de_name: Grüne Thai-Currypaste
-  en_name: 'TODO: Grüne Thai-Currypaste'
+  en_name: Green Thai curry paste
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Fischsauce
-  en_name: 'TODO: Fischsauce'
+  en_name: Fish sauce
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Kokosnussöl
-  en_name: 'TODO: Kokosnussöl'
+  en_name: Coconut oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: Chicken broth
   qty: 200
   unit: ml
   category: Konserven und Vorrat
 - de_name: Paprikaschote, rot
-  en_name: 'TODO: Paprikaschote, rot'
+  en_name: Red bell pepper
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: Garlic cloves
   qty: 3
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Ingwer, frisch
-  en_name: 'TODO: Ingwer, frisch'
+  en_name: Fresh ginger
   qty: 20
   unit: g
   category: Gemüse und Salat
 - de_name: Zucker
-  en_name: 'TODO: Zucker'
+  en_name: Sugar
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: Black pepper
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Hähnchen in Streifen schneiden. Paprika in Streifen, Knoblauch und Ingwer fein hacken.
-- |-
-  Kokosnussöl in einem Wok oder Topf bei hoher Hitze erhitzen. Hähnchen portionsweise 4 Minuten anbraten. Herausnehmen.
+- Hähnchen in Streifen schneiden. Paprika in Streifen, Knoblauch und Ingwer fein hacken.
+- Kokosnussöl in einem Wok oder Topf bei hoher Hitze erhitzen. Hähnchen portionsweise
+  4 Minuten anbraten. Herausnehmen.
 - Currypaste, Knoblauch und Ingwer im gleichen Topf 1–2 Minuten kräftig rösten.
-- |-
-  Kokosmilch, Brühe, Fischsauce und Zucker einrühren. Paprika und Hähnchen hinzufügen.
-- |-
-  15 Minuten bei mittlerer Hitze köcheln lassen, bis Paprika gar und die Sauce sämig ist. Mit Pfeffer abschmecken.
+- Kokosmilch, Brühe, Fischsauce und Zucker einrühren. Paprika und Hähnchen hinzufügen.
+- 15 Minuten bei mittlerer Hitze köcheln lassen, bis Paprika gar und die Sauce sämig
+  ist. Mit Pfeffer abschmecken.
 en_steps:
-- |-
-  TODO: Hähnchen in Streifen schneiden. Paprika in Streifen, Knoblauch und Ingwer fein hacken.
-- |-
-  TODO: Kokosnussöl in einem Wok oder Topf bei hoher Hitze erhitzen. Hähnchen portionsweise 4 Minuten anbraten. Herausnehmen.
-- |-
-  TODO: Currypaste, Knoblauch und Ingwer im gleichen Topf 1–2 Minuten kräftig rösten.
-- |-
-  TODO: Kokosmilch, Brühe, Fischsauce und Zucker einrühren. Paprika und Hähnchen hinzufügen.
-- |-
-  TODO: 15 Minuten bei mittlerer Hitze köcheln lassen, bis Paprika gar und die Sauce sämig ist. Mit Pfeffer abschmecken.
+- Slice the chicken into strips. Cut the bell pepper into strips and finely chop the
+  garlic and ginger.
+- Heat the coconut oil in a wok or pot over high heat. Brown the chicken in batches
+  for 4 minutes. Remove and set aside.
+- Fry the curry paste, garlic, and ginger in the same pot for 1–2 minutes until fragrant.
+- Stir in the coconut milk, broth, fish sauce, and sugar. Add the bell pepper and
+  chicken.
+- Simmer over medium heat for 15 minutes until the pepper is tender and the sauce
+  has thickened. Season with pepper.

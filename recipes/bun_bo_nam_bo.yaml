@@ -6,129 +6,130 @@ next_day: false
 meals: 2
 de:
   title: Bún Bò Nam Bộ – Vietnamesischer Nudelsalat mit Rindfleisch
-  summary: |-
-    Erfrischender südvietnamesischer Nudelsalat mit marinierten Rindfleischstreifen, Kräutern, Erdnüssen und würzigem Nuoc-Cham-Dressing.
+  summary: Erfrischender südvietnamesischer Nudelsalat mit marinierten Rindfleischstreifen,
+    Kräutern, Erdnüssen und würzigem Nuoc-Cham-Dressing.
 en:
-  title: 'TODO: Bún Bò Nam Bộ – Vietnamesischer Nudelsalat mit Rindfleisch'
-  summary: |-
-    TODO: Erfrischender südvietnamesischer Nudelsalat mit marinierten Rindfleischstreifen, Kräutern, Erdnüssen und würzigem Nuoc-Cham-Dressing.
+  title: Bún Bò Nam Bộ – Vietnamese Beef Noodle Salad
+  summary: A refreshing southern Vietnamese noodle salad with marinated beef strips,
+    fresh herbs, peanuts, and a tangy nuoc cham dressing.
 ingredients:
 - de_name: Rinderfilet oder Rinderhüfte
-  en_name: 'TODO: Rinderfilet oder Rinderhüfte'
+  en_name: beef fillet or rump
   qty: 300
   unit: g
   category: Protein und Milchprodukte
 - de_name: Reisnudeln (Bún, dünn)
-  en_name: 'TODO: Reisnudeln (Bún, dünn)'
+  en_name: rice vermicelli (bún, thin)
   qty: 200
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Zitronengras
-  en_name: 'TODO: Zitronengras'
+  en_name: lemongrass
   qty: 2
   unit: Stange
   category: Gemüse und Salat
 - de_name: Schalotten
-  en_name: 'TODO: Schalotten'
+  en_name: shallots
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Sojasprossen
-  en_name: 'TODO: Sojasprossen'
+  en_name: bean sprouts
   qty: 80
   unit: g
   category: Gemüse und Salat
 - de_name: Gurke
-  en_name: 'TODO: Gurke'
+  en_name: cucumber
   qty: 0.5
   unit: Stk
   category: Gemüse und Salat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: carrots
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Frische Minze
-  en_name: 'TODO: Frische Minze'
+  en_name: fresh mint
   qty: 0.5
   unit: Bund
   category: Gemüse und Salat
 - de_name: Frischer Koriander
-  en_name: 'TODO: Frischer Koriander'
+  en_name: fresh cilantro
   qty: 0.5
   unit: Bund
   category: Gemüse und Salat
 - de_name: Frische rote Chili
-  en_name: 'TODO: Frische rote Chili'
+  en_name: fresh red chili
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Fischsauce
-  en_name: 'TODO: Fischsauce'
+  en_name: fish sauce
   qty: 4
   unit: EL
   category: Konserven und Vorrat
 - de_name: Reisessig
-  en_name: 'TODO: Reisessig'
+  en_name: rice vinegar
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Erdnussöl
-  en_name: 'TODO: Erdnussöl'
+  en_name: peanut oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Zucker
-  en_name: 'TODO: Zucker'
+  en_name: sugar
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Geröstete Erdnüsse, gehackt
-  en_name: 'TODO: Geröstete Erdnüsse, gehackt'
+  en_name: roasted peanuts, chopped
   qty: 50
   unit: g
   category: Konserven und Vorrat
 - de_name: Limetten
-  en_name: 'TODO: Limetten'
+  en_name: limes
   qty: 2
   unit: Stk
   category: Obst
 - de_name: Schwarzer Pfeffer, gemahlen
-  en_name: 'TODO: Schwarzer Pfeffer, gemahlen'
+  en_name: ground black pepper
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Rinderfleisch in dünne Scheiben gegen die Faser schneiden. Zitronengras fein hacken. Knoblauch und Schalotten fein hacken.
-- |-
-  Fleisch mit Zitronengras, der Hälfte des Knoblauchs, Fischsauce (1 EL), Zucker (1 TL) und Pfeffer 20 Minuten marinieren.
-- |-
-  Nuoc Cham: Restliche Fischsauce, Limettensaft, Reisessig, restlichen Zucker, restlichen Knoblauch und Chili verrühren, bis Zucker aufgelöst ist.
+- Rinderfleisch in dünne Scheiben gegen die Faser schneiden. Zitronengras fein hacken.
+  Knoblauch und Schalotten fein hacken.
+- Fleisch mit Zitronengras, der Hälfte des Knoblauchs, Fischsauce (1 EL), Zucker (1
+  TL) und Pfeffer 20 Minuten marinieren.
+- 'Nuoc Cham: Restliche Fischsauce, Limettensaft, Reisessig, restlichen Zucker, restlichen
+  Knoblauch und Chili verrühren, bis Zucker aufgelöst ist.'
 - Reisnudeln nach Packungsanweisung garen, abgießen und kalt abschrecken.
 - Gurke in feine Stifte schneiden. Möhren mit dem Sparschäler in Streifen ziehen.
-- |-
-  Öl im Wok bei höchster Hitze erhitzen. Marinierten Rindfleischstreifen portionsweise scharf 2–3 Minuten braten.
-- |-
-  Nudeln in Schalen verteilen. Sojasprossen, Gurke, Möhren, Kräuter und Rindfleisch darauf anrichten.
+- Öl im Wok bei höchster Hitze erhitzen. Marinierten Rindfleischstreifen portionsweise
+  scharf 2–3 Minuten braten.
+- Nudeln in Schalen verteilen. Sojasprossen, Gurke, Möhren, Kräuter und Rindfleisch
+  darauf anrichten.
 - Nuoc Cham darübergießen und mit gehackten Erdnüssen bestreuen.
 en_steps:
-- |-
-  TODO: Rinderfleisch in dünne Scheiben gegen die Faser schneiden. Zitronengras fein hacken. Knoblauch und Schalotten fein hacken.
-- |-
-  TODO: Fleisch mit Zitronengras, der Hälfte des Knoblauchs, Fischsauce (1 EL), Zucker (1 TL) und Pfeffer 20 Minuten marinieren.
-- |-
-  TODO: Nuoc Cham: Restliche Fischsauce, Limettensaft, Reisessig, restlichen Zucker, restlichen Knoblauch und Chili verrühren, bis Zucker aufgelöst ist.
-- 'TODO: Reisnudeln nach Packungsanweisung garen, abgießen und kalt abschrecken.'
-- |-
-  TODO: Gurke in feine Stifte schneiden. Möhren mit dem Sparschäler in Streifen ziehen.
-- |-
-  TODO: Öl im Wok bei höchster Hitze erhitzen. Marinierten Rindfleischstreifen portionsweise scharf 2–3 Minuten braten.
-- |-
-  TODO: Nudeln in Schalen verteilen. Sojasprossen, Gurke, Möhren, Kräuter und Rindfleisch darauf anrichten.
-- 'TODO: Nuoc Cham darübergießen und mit gehackten Erdnüssen bestreuen.'
+- Cut the beef into thin slices against the grain. Finely chop the lemongrass. Finely
+  chop the garlic and shallots.
+- Marinate the beef with the lemongrass, half the garlic, 1 tbsp fish sauce, 1 tsp
+  sugar, and pepper for 20 minutes.
+- 'Nuoc Cham: stir together the remaining fish sauce, lime juice, rice vinegar, remaining
+  sugar, remaining garlic, and chili until the sugar dissolves.'
+- Cook the rice vermicelli according to the packet instructions, drain, and rinse
+  under cold water.
+- Cut the cucumber into fine matchsticks. Use a vegetable peeler to pull the carrots
+  into strips.
+- Heat the oil in a wok over the highest heat. Sear the marinated beef strips in batches
+  for 2–3 minutes.
+- Divide the noodles into bowls. Arrange the bean sprouts, cucumber, carrots, herbs,
+  and beef on top.
+- Pour over the nuoc cham and scatter with chopped peanuts.

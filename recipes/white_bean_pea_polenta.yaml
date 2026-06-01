@@ -10,42 +10,42 @@ de:
   summary: Sehr schnelles, mildes Gericht mit cremiger Polenta, weißen Bohnen und
     Erbsen.
 en:
-  title: 'TODO: Polenta mit Bohnen und Erbsen'
-  summary: |-
-    TODO: Sehr schnelles, mildes Gericht mit cremiger Polenta, weißen Bohnen und Erbsen.
+  title: Polenta with White Beans and Peas
+  summary: A very quick, mild dish of creamy polenta served with white beans and peas
+    in tomato sauce.
 ingredients:
 - de_name: Polenta
-  en_name: 'TODO: Polenta'
+  en_name: Polenta
   qty: 250
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Weiße Bohnen
-  en_name: 'TODO: Weiße Bohnen'
+  en_name: White beans
   qty: 2
   unit: Dosen
   category: Konserven und Vorrat
 - de_name: Erbsen, TK
-  en_name: 'TODO: Erbsen, TK'
+  en_name: Peas, frozen
   qty: 220
   unit: g
   category: Gemüse und Salat
 - de_name: Passierte Tomaten
-  en_name: 'TODO: Passierte Tomaten'
+  en_name: Passata (tomato purée)
   qty: 1
   unit: Glas
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Basilikum
-  en_name: 'TODO: Basilikum'
+  en_name: Basil
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -54,6 +54,7 @@ de_steps:
 - Bohnen und Erbsen in Tomatensauce kurz erwärmen.
 - Erwachsenenportion danach mit der Polenta servieren und abschmecken.
 en_steps:
-- 'TODO: Polenta weich rühren.'
-- 'TODO: Bohnen und Erbsen in Tomatensauce kurz erwärmen.'
-- 'TODO: Erwachsenenportion danach mit der Polenta servieren und abschmecken.'
+- Cook the polenta until creamy.
+- Warm the beans and peas briefly in the tomato sauce.
+- Serve the bean and pea mixture alongside the polenta and season to taste for the
+  adult portion.

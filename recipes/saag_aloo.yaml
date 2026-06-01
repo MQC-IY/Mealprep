@@ -6,124 +6,123 @@ next_day: false
 meals: 2
 de:
   title: Saag Aloo – Spinat-Kartoffel-Curry
-  summary: |-
-    Würzige Kartoffeln und frischer Spinat in einer aromatischen Gewürzpaste – ein klassisches veganes nordindisches Curry.
+  summary: Würzige Kartoffeln und frischer Spinat in einer aromatischen Gewürzpaste
+    – ein klassisches veganes nordindisches Curry.
 en:
-  title: 'TODO: Saag Aloo – Spinat-Kartoffel-Curry'
-  summary: |-
-    TODO: Würzige Kartoffeln und frischer Spinat in einer aromatischen Gewürzpaste – ein klassisches veganes nordindisches Curry.
+  title: Saag Aloo – Spinach and Potato Curry
+  summary: Spiced potatoes and fresh spinach in an aromatic spice paste — a classic
+    vegan North Indian curry.
 ingredients:
 - de_name: Kartoffeln, festkochend
-  en_name: 'TODO: Kartoffeln, festkochend'
+  en_name: waxy potatoes
   qty: 600
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Blattspinat, frisch
-  en_name: 'TODO: Blattspinat, frisch'
+  en_name: fresh leaf spinach
   qty: 400
   unit: g
   category: Gemüse und Salat
 - de_name: Zwiebeln
-  en_name: 'TODO: Zwiebeln'
+  en_name: onions
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Ingwer, frisch
-  en_name: 'TODO: Ingwer, frisch'
+  en_name: fresh ginger
   qty: 3
   unit: cm
   category: Gemüse und Salat
 - de_name: Tomate
-  en_name: 'TODO: Tomate'
+  en_name: tomatoes
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Grüne Chilischote
-  en_name: 'TODO: Grüne Chilischote'
+  en_name: green chili peppers
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Pflanzenöl
-  en_name: 'TODO: Pflanzenöl'
+  en_name: vegetable oil
   qty: 4
   unit: EL
   category: Konserven und Vorrat
 - de_name: Kreuzkümmel, gemahlen
-  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  en_name: ground cumin
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Kreuzkümmelsamen
-  en_name: 'TODO: Kreuzkümmelsamen'
+  en_name: cumin seeds
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Koriander, gemahlen
-  en_name: 'TODO: Koriander, gemahlen'
+  en_name: ground coriander
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Kurkuma
-  en_name: 'TODO: Kurkuma'
+  en_name: turmeric
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chilipulver
-  en_name: 'TODO: Chilipulver'
+  en_name: chili powder
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Garam Masala
-  en_name: 'TODO: Garam Masala'
+  en_name: garam masala
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Senfkörner
-  en_name: 'TODO: Senfkörner'
+  en_name: mustard seeds
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Asafoetida (Hing)
-  en_name: 'TODO: Asafoetida (Hing)'
+  en_name: asafoetida (hing)
   qty: 0.25
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Kartoffeln schälen, in gleichmäßige Würfel schneiden und in Salzwasser 8 Minuten vorkochen. Abgießen und beiseitestellen.
-- |-
-  Spinat waschen und in kochendem Wasser 2 Minuten blanchieren, abgießen, abkühlen lassen und grob hacken.
-- |-
-  Öl in einer großen Pfanne erhitzen. Senfkörner und Kreuzkümmelsamen hineingeben, bis sie knistern und springen. Asafoetida kurz mitrösten.
-- |-
-  Gewürfelte Zwiebeln dazugeben und 8 Minuten goldbraun anbraten. Geriebenen Knoblauch und Ingwer einrühren, 2 Minuten braten. Chilischoten fein hacken und dazugeben.
-- |-
-  Gehackte Tomaten, Kurkuma, Kreuzkümmel, Koriander und Chilipulver einrühren. 5 Minuten köcheln, bis die Tomaten weich sind.
-- |-
-  Vorgekochte Kartoffeln in die Pfanne geben, gut vermengen. 5 Minuten braten, bis die Kartoffeln leicht anbräunen. Spinat unterrühren und 3 Minuten mitgaren.
+- Kartoffeln schälen, in gleichmäßige Würfel schneiden und in Salzwasser 8 Minuten
+  vorkochen. Abgießen und beiseitestellen.
+- Spinat waschen und in kochendem Wasser 2 Minuten blanchieren, abgießen, abkühlen
+  lassen und grob hacken.
+- Öl in einer großen Pfanne erhitzen. Senfkörner und Kreuzkümmelsamen hineingeben,
+  bis sie knistern und springen. Asafoetida kurz mitrösten.
+- Gewürfelte Zwiebeln dazugeben und 8 Minuten goldbraun anbraten. Geriebenen Knoblauch
+  und Ingwer einrühren, 2 Minuten braten. Chilischoten fein hacken und dazugeben.
+- Gehackte Tomaten, Kurkuma, Kreuzkümmel, Koriander und Chilipulver einrühren. 5 Minuten
+  köcheln, bis die Tomaten weich sind.
+- Vorgekochte Kartoffeln in die Pfanne geben, gut vermengen. 5 Minuten braten, bis
+  die Kartoffeln leicht anbräunen. Spinat unterrühren und 3 Minuten mitgaren.
 - Mit Garam Masala und Salz abschmecken. Mit Naan oder Basmatireis servieren.
 en_steps:
-- |-
-  TODO: Kartoffeln schälen, in gleichmäßige Würfel schneiden und in Salzwasser 8 Minuten vorkochen. Abgießen und beiseitestellen.
-- |-
-  TODO: Spinat waschen und in kochendem Wasser 2 Minuten blanchieren, abgießen, abkühlen lassen und grob hacken.
-- |-
-  TODO: Öl in einer großen Pfanne erhitzen. Senfkörner und Kreuzkümmelsamen hineingeben, bis sie knistern und springen. Asafoetida kurz mitrösten.
-- |-
-  TODO: Gewürfelte Zwiebeln dazugeben und 8 Minuten goldbraun anbraten. Geriebenen Knoblauch und Ingwer einrühren, 2 Minuten braten. Chilischoten fein hacken und dazugeben.
-- |-
-  TODO: Gehackte Tomaten, Kurkuma, Kreuzkümmel, Koriander und Chilipulver einrühren. 5 Minuten köcheln, bis die Tomaten weich sind.
-- |-
-  TODO: Vorgekochte Kartoffeln in die Pfanne geben, gut vermengen. 5 Minuten braten, bis die Kartoffeln leicht anbräunen. Spinat unterrühren und 3 Minuten mitgaren.
-- |-
-  TODO: Mit Garam Masala und Salz abschmecken. Mit Naan oder Basmatireis servieren.
+- Peel the potatoes, cut into even cubes, and par-boil in salted water for 8 minutes.
+  Drain and set aside.
+- Wash the spinach and blanch in boiling water for 2 minutes, drain, let cool, and
+  roughly chop.
+- Heat the oil in a large pan. Add the mustard seeds and cumin seeds and cook until
+  they begin to pop and splutter. Briefly toast the asafoetida.
+- Add the diced onions and fry for 8 minutes until golden brown. Stir in the grated
+  garlic and ginger and cook for 2 minutes. Finely chop the chili peppers and add.
+- Stir in the chopped tomatoes, turmeric, cumin, coriander, and chili powder. Simmer
+  for 5 minutes until the tomatoes are soft.
+- Add the par-cooked potatoes to the pan and mix well. Fry for 5 minutes until the
+  potatoes are lightly browned. Stir in the spinach and cook for a further 3 minutes.
+- Season with garam masala and salt. Serve with naan or basmati rice.

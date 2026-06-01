@@ -6,121 +6,121 @@ next_day: false
 meals: 2
 de:
   title: Türkisches Hähnchen-Adana mit Bulgur-Salat
-  summary: |-
-    Feurige türkische Adana-Köfte-Spieße aus Hähnchenhack mit Pul Biber und Kreuzkümmel, dazu frischer Bulgur-Salat mit Petersilie und Granatapfelsirup.
+  summary: Feurige türkische Adana-Köfte-Spieße aus Hähnchenhack mit Pul Biber und
+    Kreuzkümmel, dazu frischer Bulgur-Salat mit Petersilie und Granatapfelsirup.
 en:
-  title: 'TODO: Türkisches Hähnchen-Adana mit Bulgur-Salat'
-  summary: |-
-    TODO: Feurige türkische Adana-Köfte-Spieße aus Hähnchenhack mit Pul Biber und Kreuzkümmel, dazu frischer Bulgur-Salat mit Petersilie und Granatapfelsirup.
+  title: Turkish Chicken Adana with Bulgur Salad
+  summary: Fiery Turkish Adana kofta skewers made from ground chicken with pul biber
+    and cumin, served alongside a fresh bulgur salad with parsley and pomegranate
+    molasses.
 ingredients:
 - de_name: Hähnchenhack
-  en_name: 'TODO: Hähnchenhack'
+  en_name: ground chicken
   qty: 800
   unit: g
   category: Protein und Milchprodukte
 - de_name: Naturjoghurt
-  en_name: 'TODO: Naturjoghurt'
+  en_name: plain yogurt
   qty: 200
   unit: g
   category: Protein und Milchprodukte
 - de_name: Bulgur, grob
-  en_name: 'TODO: Bulgur, grob'
+  en_name: coarse bulgur
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Tomate
-  en_name: 'TODO: Tomate'
+  en_name: tomato
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Petersilie, frisch
-  en_name: 'TODO: Petersilie, frisch'
+  en_name: fresh parsley
   qty: 1
   unit: Bund
   category: Gemüse und Salat
 - de_name: Frühlingszwiebeln
-  en_name: 'TODO: Frühlingszwiebeln'
+  en_name: spring onions
   qty: 4
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 3
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Granatapfelsirup (Nar Ekşisi)
-  en_name: 'TODO: Granatapfelsirup (Nar Ekşisi)'
+  en_name: pomegranate molasses (Nar Ekşisi)
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: chicken stock
   qty: 350
   unit: ml
   category: Konserven und Vorrat
 - de_name: Zitrone
-  en_name: 'TODO: Zitrone'
+  en_name: lemon
   qty: 1
   unit: Stk
   category: Obst
 - de_name: Pul Biber (Aleppo-Pfeffer)
-  en_name: 'TODO: Pul Biber (Aleppo-Pfeffer)'
+  en_name: pul biber (Aleppo pepper)
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Kreuzkümmel, gemahlen
-  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  en_name: cumin, ground
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Paprika edelsüß
-  en_name: 'TODO: Paprika edelsüß'
+  en_name: sweet paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Sumach
-  en_name: 'TODO: Sumach'
+  en_name: sumac
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Zimt, gemahlen
-  en_name: 'TODO: Zimt, gemahlen'
+  en_name: cinnamon, ground
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Bulgur: Brühe aufkochen, Bulgur einrühren, Herd abschalten, 15 Minuten quellen lassen.
-- |-
-  Zwiebel sehr fein reiben oder im Mixer zerkleinern. Hähnchenhack mit Pul Biber, Kreuzkümmel, Paprika, Zimt, Knoblauch und geriebener Zwiebel verkneten. Kräftig salzen. Auf flache Spieße formen.
-- |-
-  Spieße in einer sehr heißen Grillpfanne von jeder Seite 4–5 Minuten scharf anbraten.
-- |-
-  Bulgur mit einer Gabel auflockern. Tomaten würfeln, Frühlingszwiebeln schneiden, Petersilie hacken. Alles mit Bulgur mischen.
-- |-
-  Bulgur-Salat mit Granatapfelsirup, Zitronensaft, Olivenöl, Sumach und Salz abschmecken.
-- |-
-  Joghurt mit etwas Pul Biber und Olivenöl auf den Boden der Bowl geben, Bulgur-Salat daneben, Adana-Spieße obenauf.
+- 'Bulgur: Brühe aufkochen, Bulgur einrühren, Herd abschalten, 15 Minuten quellen
+  lassen.'
+- Zwiebel sehr fein reiben oder im Mixer zerkleinern. Hähnchenhack mit Pul Biber,
+  Kreuzkümmel, Paprika, Zimt, Knoblauch und geriebener Zwiebel verkneten. Kräftig
+  salzen. Auf flache Spieße formen.
+- Spieße in einer sehr heißen Grillpfanne von jeder Seite 4–5 Minuten scharf anbraten.
+- Bulgur mit einer Gabel auflockern. Tomaten würfeln, Frühlingszwiebeln schneiden,
+  Petersilie hacken. Alles mit Bulgur mischen.
+- Bulgur-Salat mit Granatapfelsirup, Zitronensaft, Olivenöl, Sumach und Salz abschmecken.
+- Joghurt mit etwas Pul Biber und Olivenöl auf den Boden der Bowl geben, Bulgur-Salat
+  daneben, Adana-Spieße obenauf.
 en_steps:
-- |-
-  TODO: Bulgur: Brühe aufkochen, Bulgur einrühren, Herd abschalten, 15 Minuten quellen lassen.
-- |-
-  TODO: Zwiebel sehr fein reiben oder im Mixer zerkleinern. Hähnchenhack mit Pul Biber, Kreuzkümmel, Paprika, Zimt, Knoblauch und geriebener Zwiebel verkneten. Kräftig salzen. Auf flache Spieße formen.
-- |-
-  TODO: Spieße in einer sehr heißen Grillpfanne von jeder Seite 4–5 Minuten scharf anbraten.
-- |-
-  TODO: Bulgur mit einer Gabel auflockern. Tomaten würfeln, Frühlingszwiebeln schneiden, Petersilie hacken. Alles mit Bulgur mischen.
-- |-
-  TODO: Bulgur-Salat mit Granatapfelsirup, Zitronensaft, Olivenöl, Sumach und Salz abschmecken.
-- |-
-  TODO: Joghurt mit etwas Pul Biber und Olivenöl auf den Boden der Bowl geben, Bulgur-Salat daneben, Adana-Spieße obenauf.
+- 'Bulgur: bring stock to the boil, stir in bulgur, turn off the heat, and let it
+  swell for 15 minutes.'
+- Grate or blend the onion very finely. Knead ground chicken with pul biber, cumin,
+  sweet paprika, cinnamon, garlic, and grated onion. Season generously with salt.
+  Shape onto flat skewers.
+- Sear the skewers in a very hot grill pan for 4–5 minutes per side.
+- Fluff bulgur with a fork. Dice tomatoes, slice spring onions, chop parsley. Toss
+  everything with the bulgur.
+- Season bulgur salad with pomegranate molasses, lemon juice, olive oil, sumac, and
+  salt.
+- Spoon yogurt mixed with a little pul biber and olive oil into the base of the bowl,
+  add bulgur salad alongside, and place the Adana skewers on top.

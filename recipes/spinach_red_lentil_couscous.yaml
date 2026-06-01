@@ -9,41 +9,41 @@ de:
   title: Couscous mit roten Linsen und Spinat
   summary: Schnelles Couscousgericht mit roten Linsen, Spinat und milder Tomatennote.
 en:
-  title: 'TODO: Couscous mit roten Linsen und Spinat'
-  summary: 'TODO: Schnelles Couscousgericht mit roten Linsen, Spinat und milder Tomatennote.'
+  title: Couscous with Red Lentils and Spinach
+  summary: A quick couscous dish with red lentils, spinach and a mild tomato note.
 ingredients:
 - de_name: Couscous
-  en_name: 'TODO: Couscous'
+  en_name: couscous
   qty: 280
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Rote Linsen
-  en_name: 'TODO: Rote Linsen'
+  en_name: red lentils
   qty: 180
   unit: g
   category: Konserven und Vorrat
 - de_name: Blattspinat
-  en_name: 'TODO: Blattspinat'
+  en_name: baby spinach
   qty: 150
   unit: g
   category: Gemüse und Salat
 - de_name: Passierte Tomaten
-  en_name: 'TODO: Passierte Tomaten'
+  en_name: strained tomatoes (passata)
   qty: 1
   unit: Glas
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Paprika edelsüß
-  en_name: 'TODO: Paprika edelsüß'
+  en_name: sweet paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chilli flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -52,6 +52,6 @@ de_steps:
 - Tomaten kurz mit den Linsen köcheln, Spinat unterheben.
 - Couscous untermischen.
 en_steps:
-- 'TODO: Linsen weich kochen und Couscous quellen lassen.'
-- 'TODO: Tomaten kurz mit den Linsen köcheln, Spinat unterheben.'
-- 'TODO: Couscous untermischen.'
+- Cook lentils until soft and soak couscous in hot water.
+- Briefly simmer tomatoes with the lentils and fold in spinach.
+- Stir in couscous and combine.

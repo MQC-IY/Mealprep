@@ -7,55 +7,54 @@ quick_minutes: 25
 meals: 3
 de:
   title: Bohnen-Reis-Pfanne mit Mais
-  summary: |-
-    Schnelle Pfanne mit Reis, weißen Bohnen, Mais und Paprika in leichter Tomatenbasis.
+  summary: Schnelle Pfanne mit Reis, weißen Bohnen, Mais und Paprika in leichter Tomatenbasis.
 en:
-  title: 'TODO: Bohnen-Reis-Pfanne mit Mais'
-  summary: |-
-    TODO: Schnelle Pfanne mit Reis, weißen Bohnen, Mais und Paprika in leichter Tomatenbasis.
+  title: Bean and Rice Skillet with Corn
+  summary: A quick skillet of rice, white beans, corn, and bell pepper in a light
+    tomato base.
 ingredients:
 - de_name: Reis
-  en_name: 'TODO: Reis'
+  en_name: Rice
   qty: 280
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Weiße Bohnen
-  en_name: 'TODO: Weiße Bohnen'
+  en_name: White beans
   qty: 2
   unit: Dosen
   category: Konserven und Vorrat
 - de_name: Mais
-  en_name: 'TODO: Mais'
+  en_name: Corn
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Passierte Tomaten
-  en_name: 'TODO: Passierte Tomaten'
+  en_name: Strained tomatoes (passata)
   qty: 1
   unit: Glas
   category: Konserven und Vorrat
 - de_name: Paprika
-  en_name: 'TODO: Paprika'
+  en_name: Bell pepper
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: Onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Paprika edelsüß
-  en_name: 'TODO: Paprika edelsüß'
+  en_name: Sweet paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -64,6 +63,6 @@ de_steps:
 - Zwiebel und Paprika in Olivenöl anschwitzen.
 - Bohnen, Mais und Tomaten zugeben und kurz köcheln.
 en_steps:
-- 'TODO: Reis garen.'
-- 'TODO: Zwiebel und Paprika in Olivenöl anschwitzen.'
-- 'TODO: Bohnen, Mais und Tomaten zugeben und kurz köcheln.'
+- Cook the rice.
+- Sauté the onion and bell pepper in olive oil until soft.
+- Add the beans, corn, and tomatoes; simmer briefly.

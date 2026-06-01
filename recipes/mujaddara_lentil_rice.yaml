@@ -6,105 +6,108 @@ next_day: true
 meals: 2
 de:
   title: Levantinisches Mujaddara – Linsen-Reis mit karamellisierten Zwiebeln
-  summary: |-
-    Uraltes levantinisches Gericht aus Linsen, Reis und tief karamellisierten Zwiebeln – schlicht in den Zutaten, komplex im Geschmack.
+  summary: Uraltes levantinisches Gericht aus Linsen, Reis und tief karamellisierten
+    Zwiebeln – schlicht in den Zutaten, komplex im Geschmack.
 en:
-  title: 'TODO: Levantinisches Mujaddara – Linsen-Reis mit karamellisierten Zwiebeln'
-  summary: |-
-    TODO: Uraltes levantinisches Gericht aus Linsen, Reis und tief karamellisierten Zwiebeln – schlicht in den Zutaten, komplex im Geschmack.
+  title: Levantine Mujaddara – Lentils and Rice with Caramelised Onions
+  summary: An ancient Levantine dish of lentils, rice, and deeply caramelised onions
+    — simple ingredients, complex flavour.
 ingredients:
 - de_name: Braune Linsen
-  en_name: 'TODO: Braune Linsen'
+  en_name: Brown lentils
   qty: 200
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Langkornreis
-  en_name: 'TODO: Langkornreis'
+  en_name: Long-grain rice
   qty: 200
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Zwiebeln
-  en_name: 'TODO: Zwiebeln'
+  en_name: Onions
   qty: 4
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: Garlic cloves
   qty: 3
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Frische Petersilie
-  en_name: 'TODO: Frische Petersilie'
+  en_name: Fresh parsley
   qty: 0.5
   unit: Bund
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 5
   unit: EL
   category: Konserven und Vorrat
 - de_name: Gemüsebrühe
-  en_name: 'TODO: Gemüsebrühe'
+  en_name: Vegetable broth
   qty: 600
   unit: ml
   category: Konserven und Vorrat
 - de_name: Zitrone
-  en_name: 'TODO: Zitrone'
+  en_name: Lemon
   qty: 1
   unit: Stk
   category: Obst
 - de_name: Kreuzkümmel, gemahlen
-  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  en_name: Ground cumin
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Koriander, gemahlen
-  en_name: 'TODO: Koriander, gemahlen'
+  en_name: Ground coriander
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Zimtpulver
-  en_name: 'TODO: Zimtpulver'
+  en_name: Ground cinnamon
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Allgewürz (Piment)
-  en_name: 'TODO: Allgewürz (Piment)'
+  en_name: Allspice
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: Black pepper
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: Salt
   qty: 1.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Linsen waschen und in Gemüsebrühe 15 Minuten vorkochen – noch leicht bissfest lassen. Abgießen, Kochflüssigkeit aufbewahren.
-- |-
-  Zwiebeln in dünne Halbringe schneiden. Olivenöl in einer großen Pfanne bei mittlerer bis hoher Hitze erhitzen. Zwiebeln 25–30 Minuten unter gelegentlichem Rühren karamellisieren, bis sie tief braun und süßlich sind. Zwei Drittel herausnehmen.
-- |-
-  Mit den verbleibenden Zwiebeln Knoblauch, Kreuzkümmel, Koriander, Zimt und Piment 1 Minute anrösten.
-- |-
-  Reis hinzufügen und 2 Minuten unter Rühren glasig braten. Vorgekochte Linsen und 500 ml der aufbewahrten Brühe dazugeben. Aufkochen, dann bei niedrigster Hitze 18 Minuten garen.
+- Linsen waschen und in Gemüsebrühe 15 Minuten vorkochen – noch leicht bissfest lassen.
+  Abgießen, Kochflüssigkeit aufbewahren.
+- Zwiebeln in dünne Halbringe schneiden. Olivenöl in einer großen Pfanne bei mittlerer
+  bis hoher Hitze erhitzen. Zwiebeln 25–30 Minuten unter gelegentlichem Rühren karamellisieren,
+  bis sie tief braun und süßlich sind. Zwei Drittel herausnehmen.
+- Mit den verbleibenden Zwiebeln Knoblauch, Kreuzkümmel, Koriander, Zimt und Piment
+  1 Minute anrösten.
+- Reis hinzufügen und 2 Minuten unter Rühren glasig braten. Vorgekochte Linsen und
+  500 ml der aufbewahrten Brühe dazugeben. Aufkochen, dann bei niedrigster Hitze 18
+  Minuten garen.
 - Topf vom Herd nehmen, 5 Minuten ruhen lassen. Mit Salz und Pfeffer abschmecken.
-- |-
-  Mit den karamellisierten Zwiebeln bedecken. Mit Petersilie und einem Spritzer Zitronensaft bestreuen. Mit Joghurt servieren.
+- Mit den karamellisierten Zwiebeln bedecken. Mit Petersilie und einem Spritzer Zitronensaft
+  bestreuen. Mit Joghurt servieren.
 en_steps:
-- |-
-  TODO: Linsen waschen und in Gemüsebrühe 15 Minuten vorkochen – noch leicht bissfest lassen. Abgießen, Kochflüssigkeit aufbewahren.
-- |-
-  TODO: Zwiebeln in dünne Halbringe schneiden. Olivenöl in einer großen Pfanne bei mittlerer bis hoher Hitze erhitzen. Zwiebeln 25–30 Minuten unter gelegentlichem Rühren karamellisieren, bis sie tief braun und süßlich sind. Zwei Drittel herausnehmen.
-- |-
-  TODO: Mit den verbleibenden Zwiebeln Knoblauch, Kreuzkümmel, Koriander, Zimt und Piment 1 Minute anrösten.
-- |-
-  TODO: Reis hinzufügen und 2 Minuten unter Rühren glasig braten. Vorgekochte Linsen und 500 ml der aufbewahrten Brühe dazugeben. Aufkochen, dann bei niedrigster Hitze 18 Minuten garen.
-- |-
-  TODO: Topf vom Herd nehmen, 5 Minuten ruhen lassen. Mit Salz und Pfeffer abschmecken.
-- |-
-  TODO: Mit den karamellisierten Zwiebeln bedecken. Mit Petersilie und einem Spritzer Zitronensaft bestreuen. Mit Joghurt servieren.
+- Rinse the lentils and par-cook in vegetable broth for 15 minutes — leave slightly
+  al dente. Drain and reserve the cooking liquid.
+- Slice the onions into thin half-rings. Heat olive oil in a large pan over medium-high
+  heat. Caramelise the onions for 25–30 minutes, stirring occasionally, until deeply
+  brown and sweet. Remove two-thirds.
+- In the remaining onions, toast the garlic, cumin, coriander, cinnamon, and allspice
+  for 1 minute.
+- Add the rice and stir for 2 minutes until translucent. Add the par-cooked lentils
+  and 500 ml of the reserved broth. Bring to a boil, then cook over the lowest heat
+  for 18 minutes.
+- Remove from the heat and let rest for 5 minutes. Season with salt and pepper.
+- Top with the caramelised onions. Scatter over the parsley and a squeeze of lemon
+  juice. Serve with yogurt.

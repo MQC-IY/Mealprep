@@ -9,87 +9,87 @@ de:
   summary: Feuriger koreanischer Eintopf mit weichem Seidentofu, Hähnchen, Meeresfrüchten
     und viel Gochugaru in würziger Anchovy-Brühe.
 en:
-  title: 'TODO: Sundubu Jjigae – Scharfer Tofu-Eintopf'
-  summary: 'TODO: Feuriger koreanischer Eintopf mit weichem Seidentofu, Hähnchen,
-    Meeresfrüchten und viel Gochugaru in würziger Anchovy-Brühe.'
+  title: Sundubu Jjigae – Spicy Soft Tofu Stew
+  summary: A fiery Korean stew with silken tofu, chicken, prawns and plenty of gochugaru
+    in a savory anchovy broth.
 ingredients:
 - de_name: Seidentofu (weich)
-  en_name: 'TODO: Seidentofu (weich)'
+  en_name: silken tofu (soft)
   qty: 600
   unit: g
   category: Protein und Milchprodukte
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 400
   unit: g
   category: Protein und Milchprodukte
 - de_name: Garnelen (roh, geschält)
-  en_name: 'TODO: Garnelen (roh, geschält)'
+  en_name: raw prawns, peeled
   qty: 200
   unit: g
   category: Protein und Milchprodukte
 - de_name: Eier
-  en_name: 'TODO: Eier'
+  en_name: eggs
   qty: 4
   unit: Stk
   category: Protein und Milchprodukte
 - de_name: Frühlingszwiebeln
-  en_name: 'TODO: Frühlingszwiebeln'
+  en_name: spring onions
   qty: 1
   unit: Bund
   category: Gemüse und Salat
 - de_name: Zwiebeln
-  en_name: 'TODO: Zwiebeln'
+  en_name: onions
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 5
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Rote Chili (frisch)
-  en_name: 'TODO: Rote Chili (frisch)'
+  en_name: fresh red chilli
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Kurzkörniger Reis
-  en_name: 'TODO: Kurzkörniger Reis'
+  en_name: short-grain rice
   qty: 400
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Anchovy-Brühe (Myeolchi-Yuksu) oder Hühnerbrühe
-  en_name: 'TODO: Anchovy-Brühe (Myeolchi-Yuksu) oder Hühnerbrühe'
+  en_name: anchovy stock (myeolchi-yuksu) or chicken stock
   qty: 1
   unit: Liter
   category: Konserven und Vorrat
 - de_name: Gochujang
-  en_name: 'TODO: Gochujang'
+  en_name: gochujang
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sojasoße
-  en_name: 'TODO: Sojasoße'
+  en_name: soy sauce
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sesamöl
-  en_name: 'TODO: Sesamöl'
+  en_name: sesame oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Pflanzenöl
-  en_name: 'TODO: Pflanzenöl'
+  en_name: vegetable oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Gochugaru
-  en_name: 'TODO: Gochugaru'
+  en_name: gochugaru (Korean chilli flakes)
   qty: 4
   unit: EL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -105,14 +105,12 @@ de_steps:
 - Jeweils ein rohes Ei direkt aufschlagen, kurz stocken lassen. Mit Frühlingszwiebeln
   garnieren und sofort mit Reis servieren.
 en_steps:
-- 'TODO: Reis garen.'
-- 'TODO: Hähnchen in dünne Streifen schneiden. Knoblauch fein hacken. Zwiebel in grobe
-  Stücke. Chili in Ringe.'
-- 'TODO: In einem Topf Pflanzenöl und Sesamöl erhitzen. Knoblauch und Gochugaru 1
-  Minute anbraten.'
-- 'TODO: Hähnchen dazugeben und 3 Minuten anbraten. Gochujang einrühren und 1 Minute
-  mitbraten.'
-- 'TODO: Brühe, Zwiebeln und Sojasoße angießen. Aufkochen und 8 Minuten köcheln.'
-- 'TODO: Seidentofu in den Topf löffeln. Garnelen und Chili dazugeben. 5 Minuten köcheln.'
-- 'TODO: Jeweils ein rohes Ei direkt aufschlagen, kurz stocken lassen. Mit Frühlingszwiebeln
-  garnieren und sofort mit Reis servieren.'
+- Cook the rice.
+- Cut chicken into thin strips. Finely mince garlic. Cut onion into large chunks.
+  Slice chilli into rings.
+- Heat vegetable oil and sesame oil in a pot. Fry garlic and gochugaru for 1 minute.
+- Add chicken and fry for 3 minutes. Stir in gochujang and cook for a further 1 minute.
+- Pour in stock, onions and soy sauce. Bring to a boil and simmer for 8 minutes.
+- Spoon silken tofu into the pot. Add prawns and chilli. Simmer for 5 minutes.
+- Crack a raw egg directly into the stew, let it set briefly. Garnish with spring
+  onions and serve immediately with rice.

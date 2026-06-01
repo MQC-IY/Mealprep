@@ -6,108 +6,108 @@ next_day: false
 meals: 2
 de:
   title: Peruanischer Lomo Saltado – Wok-Rindfleisch mit Kartoffeln
-  summary: |-
-    Peruanisches Wok-Gericht mit Rinderstreifen, Paprika, Tomaten, Sojasauce, Ají-Amarillo-Chili und knusprigen Pommes frites.
+  summary: Peruanisches Wok-Gericht mit Rinderstreifen, Paprika, Tomaten, Sojasauce,
+    Ají-Amarillo-Chili und knusprigen Pommes frites.
 en:
-  title: 'TODO: Peruanischer Lomo Saltado – Wok-Rindfleisch mit Kartoffeln'
-  summary: |-
-    TODO: Peruanisches Wok-Gericht mit Rinderstreifen, Paprika, Tomaten, Sojasauce, Ají-Amarillo-Chili und knusprigen Pommes frites.
+  title: Peruvian Lomo Saltado – Wok Beef with Potatoes
+  summary: A classic Peruvian stir-fry of beef strips, peppers, tomatoes, soy sauce,
+    ají amarillo chili, and crispy French fries.
 ingredients:
 - de_name: Rinderfilet oder Rumpsteak
-  en_name: 'TODO: Rinderfilet oder Rumpsteak'
+  en_name: Beef tenderloin or sirloin steak
   qty: 700
   unit: g
   category: Protein und Milchprodukte
 - de_name: Kartoffeln (festkochend)
-  en_name: 'TODO: Kartoffeln (festkochend)'
+  en_name: Waxy potatoes
   qty: 800
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Langkornreis
-  en_name: 'TODO: Langkornreis'
+  en_name: Long-grain rice
   qty: 200
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Sojasauce
-  en_name: 'TODO: Sojasauce'
+  en_name: Soy sauce
   qty: 4
   unit: EL
   category: Konserven und Vorrat
 - de_name: Rapsöl oder Pflanzenöl
-  en_name: 'TODO: Rapsöl oder Pflanzenöl'
+  en_name: Rapeseed or vegetable oil
   qty: 4
   unit: EL
   category: Konserven und Vorrat
 - de_name: Rote Zwiebel
-  en_name: 'TODO: Rote Zwiebel'
+  en_name: Red onion
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Tomate
-  en_name: 'TODO: Tomate'
+  en_name: Tomato
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Paprika, gelb
-  en_name: 'TODO: Paprika, gelb'
+  en_name: Yellow bell pepper
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: Garlic
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Koriander, frisch
-  en_name: 'TODO: Koriander, frisch'
+  en_name: Fresh coriander
   qty: 1
   unit: Bund
   category: Gemüse und Salat
 - de_name: Limette
-  en_name: 'TODO: Limette'
+  en_name: Lime
   qty: 1
   unit: Stk
   category: Obst
 - de_name: Kreuzkümmel, gemahlen
-  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  en_name: Ground cumin
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Ají-Amarillo-Paste oder Cayennepfeffer
-  en_name: 'TODO: Ají-Amarillo-Paste oder Cayennepfeffer'
+  en_name: Ají amarillo paste or cayenne pepper
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: Black pepper
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Kartoffeln schälen, in dicke Sticks schneiden und in reichlich heißem Öl goldbraun und knusprig frittieren oder im Ofen bei 220 °C 30 Minuten backen. Mit Salz bestreuen.
+- Kartoffeln schälen, in dicke Sticks schneiden und in reichlich heißem Öl goldbraun
+  und knusprig frittieren oder im Ofen bei 220 °C 30 Minuten backen. Mit Salz bestreuen.
 - Reis nach Packungsangabe kochen.
-- |-
-  Rindfleisch quer zur Faser in 1 cm dicke Streifen schneiden. Mit Sojasauce, Kreuzkümmel, schwarzem Pfeffer und Ají-Amarillo-Paste marinieren.
-- |-
-  Wok oder große Pfanne bei höchster Hitze mit 2 EL Öl erhitzen bis er raucht. Rindfleisch portionsweise in 2 Minuten scharf anbraten und herausnehmen.
-- |-
-  Restliches Öl in den Wok, Knoblauch 30 Sekunden anrösten. Rote Zwiebelstreifen und Paprikastreifen 2 Minuten unter ständigem Rühren stark anbraten.
-- |-
-  Tomatenstücke und Rindfleisch zurück in den Wok, restliche Sojasauce zugeben und bei hoher Hitze 1–2 Minuten unter Rühren fertig garen.
-- |-
-  Kartoffelsticks unterheben. Mit Limettensaft, Salz und Ají-Amarillo abschmecken. Mit Reis und frischem Koriander servieren.
+- Rindfleisch quer zur Faser in 1 cm dicke Streifen schneiden. Mit Sojasauce, Kreuzkümmel,
+  schwarzem Pfeffer und Ají-Amarillo-Paste marinieren.
+- Wok oder große Pfanne bei höchster Hitze mit 2 EL Öl erhitzen bis er raucht. Rindfleisch
+  portionsweise in 2 Minuten scharf anbraten und herausnehmen.
+- Restliches Öl in den Wok, Knoblauch 30 Sekunden anrösten. Rote Zwiebelstreifen und
+  Paprikastreifen 2 Minuten unter ständigem Rühren stark anbraten.
+- Tomatenstücke und Rindfleisch zurück in den Wok, restliche Sojasauce zugeben und
+  bei hoher Hitze 1–2 Minuten unter Rühren fertig garen.
+- Kartoffelsticks unterheben. Mit Limettensaft, Salz und Ají-Amarillo abschmecken.
+  Mit Reis und frischem Koriander servieren.
 en_steps:
-- |-
-  TODO: Kartoffeln schälen, in dicke Sticks schneiden und in reichlich heißem Öl goldbraun und knusprig frittieren oder im Ofen bei 220 °C 30 Minuten backen. Mit Salz bestreuen.
-- 'TODO: Reis nach Packungsangabe kochen.'
-- |-
-  TODO: Rindfleisch quer zur Faser in 1 cm dicke Streifen schneiden. Mit Sojasauce, Kreuzkümmel, schwarzem Pfeffer und Ají-Amarillo-Paste marinieren.
-- |-
-  TODO: Wok oder große Pfanne bei höchster Hitze mit 2 EL Öl erhitzen bis er raucht. Rindfleisch portionsweise in 2 Minuten scharf anbraten und herausnehmen.
-- |-
-  TODO: Restliches Öl in den Wok, Knoblauch 30 Sekunden anrösten. Rote Zwiebelstreifen und Paprikastreifen 2 Minuten unter ständigem Rühren stark anbraten.
-- |-
-  TODO: Tomatenstücke und Rindfleisch zurück in den Wok, restliche Sojasauce zugeben und bei hoher Hitze 1–2 Minuten unter Rühren fertig garen.
-- |-
-  TODO: Kartoffelsticks unterheben. Mit Limettensaft, Salz und Ají-Amarillo abschmecken. Mit Reis und frischem Koriander servieren.
+- Peel the potatoes, cut into thick sticks, and fry in plenty of hot oil until golden
+  and crispy, or bake in the oven at 220 °C for 30 minutes. Season with salt.
+- Cook the rice according to packet instructions.
+- Slice the beef against the grain into 1 cm thick strips. Marinate with soy sauce,
+  cumin, black pepper, and ají amarillo paste.
+- Heat a wok or large pan with 2 tbsp oil over the highest heat until smoking. Sear
+  the beef in batches for 2 minutes and set aside.
+- Add the remaining oil to the wok, toast the garlic for 30 seconds. Stir-fry the
+  red onion strips and bell pepper strips for 2 minutes over high heat, stirring constantly.
+- Return the tomato pieces and beef to the wok, add the remaining soy sauce, and stir-fry
+  for 1–2 minutes over high heat.
+- Fold in the potato sticks. Adjust seasoning with lime juice, salt, and ají amarillo.
+  Serve with rice and fresh coriander.

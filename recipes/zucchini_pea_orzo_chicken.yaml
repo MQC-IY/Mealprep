@@ -9,51 +9,51 @@ de:
   title: Hähnchen-Orzo mit Zucchini und Erbsen
   summary: Schnelle Pfanne mit Hähnchen, Orzo, Zucchini und Erbsen.
 en:
-  title: 'TODO: Hähnchen-Orzo mit Zucchini und Erbsen'
-  summary: 'TODO: Schnelle Pfanne mit Hähnchen, Orzo, Zucchini und Erbsen.'
+  title: Chicken Orzo with Zucchini and Peas
+  summary: A quick one-pan dish with chicken, orzo, zucchini, and peas.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: Chicken breast
   qty: 750
   unit: g
   category: Protein und Milchprodukte
 - de_name: Orzo oder Kritharaki
-  en_name: 'TODO: Orzo oder Kritharaki'
+  en_name: Orzo or kritharaki
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Zucchini
-  en_name: 'TODO: Zucchini'
+  en_name: Zucchini
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Erbsen, TK
-  en_name: 'TODO: Erbsen, TK'
+  en_name: Peas, frozen
   qty: 200
   unit: g
   category: Gemüse und Salat
 - de_name: Naturjoghurt
-  en_name: 'TODO: Naturjoghurt'
+  en_name: Plain yogurt
   qty: 120
   unit: g
   category: Protein und Milchprodukte
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: Onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Oregano
-  en_name: 'TODO: Oregano'
+  en_name: Oregano
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -62,6 +62,6 @@ de_steps:
 - Hähnchen mit Zwiebel scharf anbraten.
 - Zucchini und Erbsen weich garen und etwas Joghurt unterrühren.
 en_steps:
-- 'TODO: Orzo weich garen.'
-- 'TODO: Hähnchen mit Zwiebel scharf anbraten.'
-- 'TODO: Zucchini und Erbsen weich garen und etwas Joghurt unterrühren.'
+- Cook the orzo until tender.
+- Sear the chicken with the onion over high heat.
+- Cook the zucchini and peas until tender, then stir in a little yogurt.

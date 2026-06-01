@@ -9,51 +9,51 @@ de:
   title: Hähnchen-Brokkoli-Nudelpfanne
   summary: Schnelle Nudelpfanne mit Hähnchen, Brokkoli, Erbsen und Joghurt-Sauce.
 en:
-  title: 'TODO: Hähnchen-Brokkoli-Nudelpfanne'
-  summary: 'TODO: Schnelle Nudelpfanne mit Hähnchen, Brokkoli, Erbsen und Joghurt-Sauce.'
+  title: Chicken and Broccoli Noodle Pan
+  summary: A quick noodle pan with chicken, broccoli, peas, and a light yogurt sauce.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 750
   unit: g
   category: Protein und Milchprodukte
 - de_name: Vollkornnudeln
-  en_name: 'TODO: Vollkornnudeln'
+  en_name: wholegrain pasta
   qty: 320
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Brokkoli
-  en_name: 'TODO: Brokkoli'
+  en_name: broccoli
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Erbsen, TK
-  en_name: 'TODO: Erbsen, TK'
+  en_name: frozen peas
   qty: 200
   unit: g
   category: Gemüse und Salat
 - de_name: Naturjoghurt
-  en_name: 'TODO: Naturjoghurt'
+  en_name: plain yogurt
   qty: 180
   unit: g
   category: Protein und Milchprodukte
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Rapsöl
-  en_name: 'TODO: Rapsöl'
+  en_name: rapeseed oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Basilikum
-  en_name: 'TODO: Basilikum'
+  en_name: basil
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -62,6 +62,6 @@ de_steps:
 - Hähnchen mit Zwiebel scharf anbraten.
 - Erbsen und etwas Nudelwasser zugeben, Joghurt kurz unterrühren.
 en_steps:
-- 'TODO: Nudeln und Brokkoli weich garen.'
-- 'TODO: Hähnchen mit Zwiebel scharf anbraten.'
-- 'TODO: Erbsen und etwas Nudelwasser zugeben, Joghurt kurz unterrühren.'
+- Cook the pasta and broccoli until tender.
+- Sear the chicken with the onion over high heat.
+- Add the peas and a splash of pasta cooking water, then briefly stir in the yogurt.

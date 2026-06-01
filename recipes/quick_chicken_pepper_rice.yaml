@@ -9,36 +9,36 @@ de:
   title: Schnelle Hähnchen-Reis-Pfanne mit Paprika
   summary: Alltagstaugliche Reispfanne mit Hähnchen, Paprika und Erbsen.
 en:
-  title: 'TODO: Schnelle Hähnchen-Reis-Pfanne mit Paprika'
-  summary: 'TODO: Alltagstaugliche Reispfanne mit Hähnchen, Paprika und Erbsen.'
+  title: Quick Chicken Pepper Rice
+  summary: An everyday rice pan with chicken, bell pepper, and peas — simple and filling.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: Chicken breast
   qty: 750
   unit: g
   category: Protein und Milchprodukte
 - de_name: Reis
-  en_name: 'TODO: Reis'
+  en_name: Rice
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Paprika
-  en_name: 'TODO: Paprika'
+  en_name: Bell pepper
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Erbsen, TK
-  en_name: 'TODO: Erbsen, TK'
+  en_name: Frozen peas
   qty: 200
   unit: g
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -47,6 +47,6 @@ de_steps:
 - Hähnchen scharf anbraten.
 - Paprika und Erbsen weich garen.
 en_steps:
-- 'TODO: Reis garen.'
-- 'TODO: Hähnchen scharf anbraten.'
-- 'TODO: Paprika und Erbsen weich garen.'
+- Cook the rice according to package instructions.
+- Sear the chicken over high heat until cooked through.
+- Cook the bell pepper and peas until tender, then combine everything.

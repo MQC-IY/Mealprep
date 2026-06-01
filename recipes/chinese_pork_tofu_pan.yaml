@@ -7,125 +7,124 @@ quick_minutes: 25
 meals: 2
 de:
   title: Schweinefleisch-Tofu-Pfanne mit Austernsauce
-  summary: |-
-    Kräftiges Wokgericht mit angebratenem festem Tofu, Schweinefleischstreifen, Frühlingszwiebeln und reichhaltiger Austernsauce-Glasur.
+  summary: Kräftiges Wokgericht mit angebratenem festem Tofu, Schweinefleischstreifen,
+    Frühlingszwiebeln und reichhaltiger Austernsauce-Glasur.
 en:
-  title: 'TODO: Schweinefleisch-Tofu-Pfanne mit Austernsauce'
-  summary: |-
-    TODO: Kräftiges Wokgericht mit angebratenem festem Tofu, Schweinefleischstreifen, Frühlingszwiebeln und reichhaltiger Austernsauce-Glasur.
+  title: Pork and Tofu Stir-Fry with Oyster Sauce
+  summary: A bold wok dish with crispy-fried firm tofu, pork strips, spring onions,
+    and a rich oyster sauce glaze.
 ingredients:
 - de_name: Schweinehals oder Schweinefilet
-  en_name: 'TODO: Schweinehals oder Schweinefilet'
+  en_name: pork neck or pork tenderloin
   qty: 300
   unit: g
   category: Protein und Milchprodukte
 - de_name: Fester Tofu (Naturtofu)
-  en_name: 'TODO: Fester Tofu (Naturtofu)'
+  en_name: firm tofu
   qty: 300
   unit: g
   category: Protein und Milchprodukte
 - de_name: Jasminreis
-  en_name: 'TODO: Jasminreis'
+  en_name: jasmine rice
   qty: 200
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Ingwer, frisch
-  en_name: 'TODO: Ingwer, frisch'
+  en_name: fresh ginger
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Frühlingszwiebeln
-  en_name: 'TODO: Frühlingszwiebeln'
+  en_name: spring onions
   qty: 4
   unit: Stk
   category: Gemüse und Salat
 - de_name: Paprika (rot)
-  en_name: 'TODO: Paprika (rot)'
+  en_name: red bell pepper
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Austernsauce
-  en_name: 'TODO: Austernsauce'
+  en_name: oyster sauce
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sojasauce
-  en_name: 'TODO: Sojasauce'
+  en_name: soy sauce
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Dunkle Sojasauce
-  en_name: 'TODO: Dunkle Sojasauce'
+  en_name: dark soy sauce
   qty: 1
   unit: TL
   category: Konserven und Vorrat
 - de_name: Shaoxing-Reiswein
-  en_name: 'TODO: Shaoxing-Reiswein'
+  en_name: Shaoxing rice wine
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: chicken stock
   qty: 100
   unit: ml
   category: Konserven und Vorrat
 - de_name: Speisestärke
-  en_name: 'TODO: Speisestärke'
+  en_name: cornstarch
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Erdnussöl
-  en_name: 'TODO: Erdnussöl'
+  en_name: peanut oil
   qty: 4
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sesamöl
-  en_name: 'TODO: Sesamöl'
+  en_name: sesame oil
   qty: 1
   unit: TL
   category: Konserven und Vorrat
 - de_name: Weißer Pfeffer, gemahlen
-  en_name: 'TODO: Weißer Pfeffer, gemahlen'
+  en_name: white pepper, ground
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Getrocknete Chiliflocken
-  en_name: 'TODO: Getrocknete Chiliflocken'
+  en_name: dried chili flakes
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
 - Jasminreis waschen und kochen.
 - Tofu in 1-cm-Scheiben schneiden, mit Küchenpapier trocken tupfen.
-- |-
-  Schweinefleisch in dünne Streifen schneiden. Mit 1 EL Sojasauce, 1 EL Shaoxing-Wein, Stärke (1 EL) und Pfeffer 15 Minuten marinieren.
-- |-
-  2 EL Öl in einer Pfanne oder Wok erhitzen. Tofu-Scheiben von beiden Seiten je 3 Minuten goldbraun braten. Herausnehmen.
-- |-
-  Restliches Öl erhitzen. Schweinefleisch 3–4 Minuten scharf anbraten. Knoblauch und Ingwer zugeben.
+- Schweinefleisch in dünne Streifen schneiden. Mit 1 EL Sojasauce, 1 EL Shaoxing-Wein,
+  Stärke (1 EL) und Pfeffer 15 Minuten marinieren.
+- 2 EL Öl in einer Pfanne oder Wok erhitzen. Tofu-Scheiben von beiden Seiten je 3
+  Minuten goldbraun braten. Herausnehmen.
+- Restliches Öl erhitzen. Schweinefleisch 3–4 Minuten scharf anbraten. Knoblauch und
+  Ingwer zugeben.
 - Paprika zugeben und 2 Minuten mitbraten.
-- |-
-  Austernsauce, restliche Sojasauce, dunkle Sojasauce, restlichen Shaoxing-Wein, Brühe und restliche Stärke (in Wasser) zugeben.
+- Austernsauce, restliche Sojasauce, dunkle Sojasauce, restlichen Shaoxing-Wein, Brühe
+  und restliche Stärke (in Wasser) zugeben.
 - Gebratenen Tofu zurückgeben, vorsichtig unterheben. 2 Minuten köcheln.
-- |-
-  Sesamöl und Frühlingszwiebeln zugeben. Mit Chiliflocken bestreuen und mit Reis servieren.
+- Sesamöl und Frühlingszwiebeln zugeben. Mit Chiliflocken bestreuen und mit Reis servieren.
 en_steps:
-- 'TODO: Jasminreis waschen und kochen.'
-- 'TODO: Tofu in 1-cm-Scheiben schneiden, mit Küchenpapier trocken tupfen.'
-- |-
-  TODO: Schweinefleisch in dünne Streifen schneiden. Mit 1 EL Sojasauce, 1 EL Shaoxing-Wein, Stärke (1 EL) und Pfeffer 15 Minuten marinieren.
-- |-
-  TODO: 2 EL Öl in einer Pfanne oder Wok erhitzen. Tofu-Scheiben von beiden Seiten je 3 Minuten goldbraun braten. Herausnehmen.
-- |-
-  TODO: Restliches Öl erhitzen. Schweinefleisch 3–4 Minuten scharf anbraten. Knoblauch und Ingwer zugeben.
-- 'TODO: Paprika zugeben und 2 Minuten mitbraten.'
-- |-
-  TODO: Austernsauce, restliche Sojasauce, dunkle Sojasauce, restlichen Shaoxing-Wein, Brühe und restliche Stärke (in Wasser) zugeben.
-- 'TODO: Gebratenen Tofu zurückgeben, vorsichtig unterheben. 2 Minuten köcheln.'
-- |-
-  TODO: Sesamöl und Frühlingszwiebeln zugeben. Mit Chiliflocken bestreuen und mit Reis servieren.
+- Rinse and cook the jasmine rice.
+- Cut the tofu into 1 cm slices and pat dry with paper towels.
+- Cut the pork into thin strips. Marinate with 1 tbsp soy sauce, 1 tbsp Shaoxing wine,
+  1 tbsp cornstarch, and pepper for 15 minutes.
+- Heat 2 tbsp oil in a pan or wok. Fry the tofu slices for 3 minutes per side until
+  golden. Remove and set aside.
+- Heat the remaining oil. Stir-fry the pork for 3–4 minutes over high heat. Add the
+  garlic and ginger.
+- Add the bell pepper and stir-fry for 2 minutes.
+- Add the oyster sauce, remaining soy sauce, dark soy sauce, remaining Shaoxing wine,
+  stock, and remaining cornstarch dissolved in water.
+- Return the fried tofu and gently fold it in. Simmer for 2 minutes.
+- Add the sesame oil and spring onions. Sprinkle with chili flakes and serve with
+  rice.

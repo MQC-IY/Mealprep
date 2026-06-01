@@ -9,79 +9,80 @@ de:
   title: Mediterrane Bulgur-Pfanne mit Hähnchen
   summary: Bulgur mit Hähnchen, Zucchini, Paprika und Tomate, alltagstauglich.
 en:
-  title: 'TODO: Mediterrane Bulgur-Pfanne mit Hähnchen'
-  summary: 'TODO: Bulgur mit Hähnchen, Zucchini, Paprika und Tomate, alltagstauglich.'
+  title: Mediterranean Bulgur Skillet with Chicken
+  summary: Bulgur with chicken, zucchini, bell pepper, and tomato – a reliable everyday
+    meal.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 850
   unit: g
   category: Protein und Milchprodukte
 - de_name: Bulgur
-  en_name: 'TODO: Bulgur'
+  en_name: bulgur
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Paprika
-  en_name: 'TODO: Paprika'
+  en_name: bell peppers
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zucchini
-  en_name: 'TODO: Zucchini'
+  en_name: zucchini
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Tomaten
-  en_name: 'TODO: Tomaten'
+  en_name: tomatoes
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Paprika edelsüß
-  en_name: 'TODO: Paprika edelsüß'
+  en_name: sweet paprika
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Paprika geräuchert
-  en_name: 'TODO: Paprika geräuchert'
+  en_name: smoked paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Oregano
-  en_name: 'TODO: Oregano'
+  en_name: oregano
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Kreuzkümmel
-  en_name: 'TODO: Kreuzkümmel'
+  en_name: cumin
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Zitrone
-  en_name: 'TODO: Zitrone'
+  en_name: lemon
   qty: 1
   unit: Stk
   category: Obst
 de_steps:
 - Bulgur garen.
-- |-
-  Hähnchen in Streifen schneiden und mit Paprika edelsüß, geräuchertem Paprika, Kreuzkümmel und Salz würzen. Bei hoher Hitze in Olivenöl scharf anbraten.
+- Hähnchen in Streifen schneiden und mit Paprika edelsüß, geräuchertem Paprika, Kreuzkümmel
+  und Salz würzen. Bei hoher Hitze in Olivenöl scharf anbraten.
 en_steps:
-- 'TODO: Bulgur garen.'
-- |-
-  TODO: Hähnchen in Streifen schneiden und mit Paprika edelsüß, geräuchertem Paprika, Kreuzkümmel und Salz würzen. Bei hoher Hitze in Olivenöl scharf anbraten.
+- Cook the bulgur.
+- Cut the chicken into strips and season with sweet paprika, smoked paprika, cumin,
+  and salt. Sear over high heat in olive oil.

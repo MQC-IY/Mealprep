@@ -7,55 +7,55 @@ quick_minutes: 25
 meals: 3
 de:
   title: Puten-Orzo-Pfanne mit Möhren und Brokkoli
-  summary: |-
-    Milde Orzo-Pfanne mit Putenhack, Brokkoli und Möhren für den schnellen Familienmittag.
+  summary: Milde Orzo-Pfanne mit Putenhack, Brokkoli und Möhren für den schnellen
+    Familienmittag.
 en:
-  title: 'TODO: Puten-Orzo-Pfanne mit Möhren und Brokkoli'
-  summary: |-
-    TODO: Milde Orzo-Pfanne mit Putenhack, Brokkoli und Möhren für den schnellen Familienmittag.
+  title: Turkey Orzo Pan with Carrots and Broccoli
+  summary: A mild orzo pan with ground turkey, broccoli, and carrots – a quick and
+    easy family lunch.
 ingredients:
 - de_name: Putenhack
-  en_name: 'TODO: Putenhack'
+  en_name: ground turkey
   qty: 650
   unit: g
   category: Protein und Milchprodukte
 - de_name: Orzo oder Kritharaki
-  en_name: 'TODO: Orzo oder Kritharaki'
+  en_name: orzo (risoni)
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Brokkoli
-  en_name: 'TODO: Brokkoli'
+  en_name: broccoli
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: carrots
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Frischkäse natur
-  en_name: 'TODO: Frischkäse natur'
+  en_name: cream cheese
   qty: 100
   unit: g
   category: Protein und Milchprodukte
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Paprika edelsüß
-  en_name: 'TODO: Paprika edelsüß'
+  en_name: sweet paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -64,6 +64,6 @@ de_steps:
 - Putenhack mit Zwiebel scharf anbraten.
 - Möhren und Brokkoli klein schneiden und weich garen.
 en_steps:
-- 'TODO: Orzo weich garen.'
-- 'TODO: Putenhack mit Zwiebel scharf anbraten.'
-- 'TODO: Möhren und Brokkoli klein schneiden und weich garen.'
+- Cook the orzo until tender.
+- Sear the ground turkey with the onion over high heat.
+- Chop the carrots and broccoli into small pieces and cook until tender.

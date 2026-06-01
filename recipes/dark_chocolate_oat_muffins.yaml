@@ -4,86 +4,96 @@ healthy: true
 meals: 8
 de:
   title: Dunkle-Schokoladen-Hafermuffins
-  summary: "Saftige Muffins mit Vollkornhafer, reifer Banane und dunkler Schokolade — natürlich gesüßt, ohne Weißmehl und trotzdem herrlich schokoladig."
+  summary: Saftige Muffins mit Vollkornhafer, reifer Banane und dunkler Schokolade
+    — natürlich gesüßt, ohne Weißmehl und trotzdem herrlich schokoladig.
 en:
-  title: "TODO: Dunkle-Schokoladen-Hafermuffins"
-  summary: "TODO: Saftige Muffins mit Vollkornhafer, reifer Banane und dunkler Schokolade — natürlich gesüßt, ohne Weißmehl und trotzdem herrlich schokoladig."
+  title: Dark Chocolate Oat Muffins
+  summary: Moist muffins made with whole rolled oats, ripe banana, and dark chocolate
+    — naturally sweetened, flour-free, and wonderfully chocolatey.
 ingredients:
-  - de_name: Haferflocken (zart)
-    en_name: "TODO: Haferflocken (zart)"
-    qty: 400
-    unit: g
-    category: Kohlenhydrate und Sattmacher
-  - de_name: reife Bananen
-    en_name: "TODO: reife Bananen"
-    qty: 4
-    unit: Stk
-    category: Obst
-  - de_name: Eier
-    en_name: "TODO: Eier"
-    qty: 4
-    unit: Stk
-    category: Protein und Milchprodukte
-  - de_name: Naturjoghurt
-    en_name: "TODO: Naturjoghurt"
-    qty: 200
-    unit: g
-    category: Protein und Milchprodukte
-  - de_name: Kakaopulver ungesüßt
-    en_name: "TODO: Kakaopulver ungesüßt"
-    qty: 60
-    unit: g
-    category: Konserven und Vorrat
-  - de_name: Backpulver
-    en_name: "TODO: Backpulver"
-    qty: 2
-    unit: TL
-    category: Konserven und Vorrat
-  - de_name: Natron
-    en_name: "TODO: Natron"
-    qty: 1
-    unit: TL
-    category: Konserven und Vorrat
-  - de_name: Agavendicksaft
-    en_name: "TODO: Agavendicksaft"
-    qty: 4
-    unit: EL
-    category: Konserven und Vorrat
-  - de_name: Vanilleextrakt
-    en_name: "TODO: Vanilleextrakt"
-    qty: 2
-    unit: TL
-    category: Gewürze
-  - de_name: Salz
-    en_name: "TODO: Salz"
-    qty: 1
-    unit: Prise
-    category: Gewürze
-  - de_name: "dunkle Schokolade (mind. 70 %) gehackt"
-    en_name: "TODO: dunkle Schokolade (mind. 70 %) gehackt"
-    qty: 100
-    unit: g
-    category: Konserven und Vorrat
-  - de_name: Kokosöl zum Einfetten
-    en_name: "TODO: Kokosöl zum Einfetten"
-    qty: 1
-    unit: EL
-    category: Konserven und Vorrat
+- de_name: Haferflocken (zart)
+  en_name: rolled oats (fine)
+  qty: 400
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: reife Bananen
+  en_name: ripe bananas
+  qty: 4
+  unit: Stk
+  category: Obst
+- de_name: Eier
+  en_name: eggs
+  qty: 4
+  unit: Stk
+  category: Protein und Milchprodukte
+- de_name: Naturjoghurt
+  en_name: plain yogurt
+  qty: 200
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Kakaopulver ungesüßt
+  en_name: unsweetened cocoa powder
+  qty: 60
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Backpulver
+  en_name: baking powder
+  qty: 2
+  unit: TL
+  category: Konserven und Vorrat
+- de_name: Natron
+  en_name: bicarbonate of soda
+  qty: 1
+  unit: TL
+  category: Konserven und Vorrat
+- de_name: Agavendicksaft
+  en_name: agave syrup
+  qty: 4
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Vanilleextrakt
+  en_name: vanilla extract
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: salt
+  qty: 1
+  unit: Prise
+  category: Gewürze
+- de_name: dunkle Schokolade (mind. 70 %) gehackt
+  en_name: dark chocolate (min. 70 %), chopped
+  qty: 100
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Kokosöl zum Einfetten
+  en_name: coconut oil for greasing
+  qty: 1
+  unit: EL
+  category: Konserven und Vorrat
 de_steps:
-  - Ofen auf 180 °C Ober-/Unterhitze vorheizen. Ein Muffinblech (12er) mit Papierförmchen auslegen oder mit Kokosöl einfetten.
-  - Haferflocken im Mixer zu einem feinen Mehl mahlen.
-  - "Bananen in einer großen Schüssel zerdrücken, Eier, Joghurt, Agavendicksaft und Vanilleextrakt einrühren."
-  - "Hafermehl, Kakaopulver, Backpulver, Natron und Salz in die feuchte Masse sieben und alles zügig verrühren."
-  - Gehackte Schokolade unterheben.
-  - Teig gleichmäßig auf die 16 Muffinförmchen verteilen (je ca. ¾ voll).
-  - "Im vorgeheizten Ofen 18–22 Minuten backen, bis ein Zahnstocher sauber herauskommt."
-  - "10 Minuten im Blech abkühlen lassen, dann auf einem Gitter vollständig auskühlen. Luftdicht verpackt 4 Tage haltbar, eingefroren bis zu 3 Monate."
+- Ofen auf 180 °C Ober-/Unterhitze vorheizen. Ein Muffinblech (12er) mit Papierförmchen
+  auslegen oder mit Kokosöl einfetten.
+- Haferflocken im Mixer zu einem feinen Mehl mahlen.
+- Bananen in einer großen Schüssel zerdrücken, Eier, Joghurt, Agavendicksaft und Vanilleextrakt
+  einrühren.
+- Hafermehl, Kakaopulver, Backpulver, Natron und Salz in die feuchte Masse sieben
+  und alles zügig verrühren.
+- Gehackte Schokolade unterheben.
+- Teig gleichmäßig auf die 16 Muffinförmchen verteilen (je ca. ¾ voll).
+- Im vorgeheizten Ofen 18–22 Minuten backen, bis ein Zahnstocher sauber herauskommt.
+- 10 Minuten im Blech abkühlen lassen, dann auf einem Gitter vollständig auskühlen.
+  Luftdicht verpackt 4 Tage haltbar, eingefroren bis zu 3 Monate.
 en_steps:
-  - "TODO: Ofen auf 180 °C Ober-/Unterhitze vorheizen. Ein Muffinblech (12er) mit Papierförmchen auslegen oder mit Kokosöl einfetten."
-  - "TODO: Haferflocken im Mixer zu einem feinen Mehl mahlen."
-  - "TODO: Bananen in einer großen Schüssel zerdrücken, Eier, Joghurt, Agavendicksaft und Vanilleextrakt einrühren."
-  - "TODO: Hafermehl, Kakaopulver, Backpulver, Natron und Salz in die feuchte Masse sieben und alles zügig verrühren."
-  - "TODO: Gehackte Schokolade unterheben."
-  - "TODO: Teig gleichmäßig auf die 16 Muffinförmchen verteilen (je ca. ¾ voll)."
-  - "TODO: Im vorgeheizten Ofen 18–22 Minuten backen, bis ein Zahnstocher sauber herauskommt."
-  - "TODO: 10 Minuten im Blech abkühlen lassen, dann auf einem Gitter vollständig auskühlen. Luftdicht verpackt 4 Tage haltbar, eingefroren bis zu 3 Monate."
+- Preheat the oven to 180 °C (fan 160 °C). Line a 12-hole muffin tin with paper cases
+  or grease with coconut oil.
+- Blitz the rolled oats in a blender to a fine flour.
+- Mash the bananas in a large bowl, then stir in the eggs, yogurt, agave syrup, and
+  vanilla extract.
+- Sift the oat flour, cocoa powder, baking powder, bicarbonate of soda, and salt into
+  the wet mixture and stir quickly to combine.
+- Fold in the chopped chocolate.
+- Divide the batter evenly among 16 muffin cases (each about ¾ full).
+- Bake in the preheated oven for 18–22 minutes until a toothpick comes out clean.
+- Cool in the tin for 10 minutes, then transfer to a wire rack to cool completely.
+  Keeps for 4 days in an airtight container, or up to 3 months frozen.

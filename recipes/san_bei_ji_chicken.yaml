@@ -6,91 +6,91 @@ next_day: true
 meals: 2
 de:
   title: Drei-Tassen-Hähnchen (San Bei Ji)
-  summary: |-
-    Taiwanesischer Klassiker: Hähnchen in gleichen Teilen Sesamöl, Sojasauce und Reiswein geschmort, mit frischem Thai-Basilikum und Ingwer.
+  summary: 'Taiwanesischer Klassiker: Hähnchen in gleichen Teilen Sesamöl, Sojasauce
+    und Reiswein geschmort, mit frischem Thai-Basilikum und Ingwer.'
 en:
-  title: 'TODO: Drei-Tassen-Hähnchen (San Bei Ji)'
-  summary: |-
-    TODO: Taiwanesischer Klassiker: Hähnchen in gleichen Teilen Sesamöl, Sojasauce und Reiswein geschmort, mit frischem Thai-Basilikum und Ingwer.
+  title: San Bei Ji – Three-Cup Chicken
+  summary: 'A Taiwanese classic: chicken braised in equal parts sesame oil, soy sauce,
+    and rice wine, with fresh Thai basil and ginger.'
 ingredients:
 - de_name: Hähnchenstücke (Schenkel und Flügel, mit Knochen)
-  en_name: 'TODO: Hähnchenstücke (Schenkel und Flügel, mit Knochen)'
+  en_name: chicken pieces (thighs and wings, bone-in)
   qty: 700
   unit: g
   category: Protein und Milchprodukte
 - de_name: Jasminreis
-  en_name: 'TODO: Jasminreis'
+  en_name: jasmine rice
   qty: 200
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 8
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Ingwer, frisch
-  en_name: 'TODO: Ingwer, frisch'
+  en_name: fresh ginger
   qty: 6
   unit: Stk
   category: Gemüse und Salat
 - de_name: Frische rote Chili
-  en_name: 'TODO: Frische rote Chili'
+  en_name: fresh red chili
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Thai-Basilikum (frisch)
-  en_name: 'TODO: Thai-Basilikum (frisch)'
+  en_name: fresh Thai basil
   qty: 1
   unit: Bund
   category: Gemüse und Salat
 - de_name: Dunkle Sojasauce
-  en_name: 'TODO: Dunkle Sojasauce'
+  en_name: dark soy sauce
   qty: 60
   unit: ml
   category: Konserven und Vorrat
 - de_name: Shaoxing-Reiswein
-  en_name: 'TODO: Shaoxing-Reiswein'
+  en_name: Shaoxing rice wine
   qty: 60
   unit: ml
   category: Konserven und Vorrat
 - de_name: Sesamöl
-  en_name: 'TODO: Sesamöl'
+  en_name: sesame oil
   qty: 60
   unit: ml
   category: Konserven und Vorrat
 - de_name: Zucker
-  en_name: 'TODO: Zucker'
+  en_name: sugar
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Schwarzer Pfeffer, gemahlen
-  en_name: 'TODO: Schwarzer Pfeffer, gemahlen'
+  en_name: ground black pepper
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
 - Jasminreis waschen und kochen.
 - Hähnchenstücke trocken tupfen. Ingwer in Scheiben, Knoblauch ganz lassen.
-- |-
-  Sesamöl im Wok oder Schmortopf bei mittlerer Hitze erwärmen. Ingwerscheiben und Knoblauch 2 Minuten anbraten.
+- Sesamöl im Wok oder Schmortopf bei mittlerer Hitze erwärmen. Ingwerscheiben und
+  Knoblauch 2 Minuten anbraten.
 - Hähnchenstücke zugeben und von allen Seiten 4–5 Minuten anbraten.
 - Shaoxing-Wein und dunkle Sojasauce zugießen. Zucker einrühren.
-- |-
-  Aufkochen lassen. Hitze reduzieren und 20–25 Minuten zugedeckt schmoren, bis das Hähnchen durchgegart ist.
-- |-
-  Deckel abnehmen, Hitze erhöhen und die Sauce 3–5 Minuten einkochen, bis sie dick und glänzend wird.
-- |-
-  Frische Chili und Thai-Basilikum unterheben. Mit Pfeffer würzen. Sofort mit Reis servieren.
+- Aufkochen lassen. Hitze reduzieren und 20–25 Minuten zugedeckt schmoren, bis das
+  Hähnchen durchgegart ist.
+- Deckel abnehmen, Hitze erhöhen und die Sauce 3–5 Minuten einkochen, bis sie dick
+  und glänzend wird.
+- Frische Chili und Thai-Basilikum unterheben. Mit Pfeffer würzen. Sofort mit Reis
+  servieren.
 en_steps:
-- 'TODO: Jasminreis waschen und kochen.'
-- 'TODO: Hähnchenstücke trocken tupfen. Ingwer in Scheiben, Knoblauch ganz lassen.'
-- |-
-  TODO: Sesamöl im Wok oder Schmortopf bei mittlerer Hitze erwärmen. Ingwerscheiben und Knoblauch 2 Minuten anbraten.
-- 'TODO: Hähnchenstücke zugeben und von allen Seiten 4–5 Minuten anbraten.'
-- 'TODO: Shaoxing-Wein und dunkle Sojasauce zugießen. Zucker einrühren.'
-- |-
-  TODO: Aufkochen lassen. Hitze reduzieren und 20–25 Minuten zugedeckt schmoren, bis das Hähnchen durchgegart ist.
-- |-
-  TODO: Deckel abnehmen, Hitze erhöhen und die Sauce 3–5 Minuten einkochen, bis sie dick und glänzend wird.
-- |-
-  TODO: Frische Chili und Thai-Basilikum unterheben. Mit Pfeffer würzen. Sofort mit Reis servieren.
+- Wash and cook the jasmine rice.
+- Pat the chicken pieces dry. Slice the ginger; leave the garlic cloves whole.
+- Warm the sesame oil in a wok or braising pot over medium heat. Fry the ginger slices
+  and garlic for 2 minutes.
+- Add the chicken pieces and brown on all sides for 4–5 minutes.
+- Pour in the Shaoxing wine and dark soy sauce. Stir in the sugar.
+- Bring to a boil. Reduce the heat and braise covered for 20–25 minutes until the
+  chicken is cooked through.
+- Remove the lid, raise the heat, and reduce the sauce for 3–5 minutes until thick
+  and glossy.
+- Fold in the fresh chili and Thai basil. Season with pepper. Serve immediately with
+  the rice.

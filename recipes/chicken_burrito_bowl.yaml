@@ -7,121 +7,120 @@ quick_minutes: 30
 meals: 3
 de:
   title: Hähnchen-Burrito-Bowl
-  summary: |-
-    Würzige Bowl mit Chili-Kreuzkümmel-Hähnchen, Cilantro-Limetten-Reis, schwarzen Bohnen, Mais, Avocado und Salsa.
+  summary: Würzige Bowl mit Chili-Kreuzkümmel-Hähnchen, Cilantro-Limetten-Reis, schwarzen
+    Bohnen, Mais, Avocado und Salsa.
 en:
-  title: 'TODO: Hähnchen-Burrito-Bowl'
-  summary: |-
-    TODO: Würzige Bowl mit Chili-Kreuzkümmel-Hähnchen, Cilantro-Limetten-Reis, schwarzen Bohnen, Mais, Avocado und Salsa.
+  title: Chicken Burrito Bowl
+  summary: A flavourful bowl with chili-cumin chicken, cilantro-lime rice, black beans,
+    corn, avocado, and salsa.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 900
   unit: g
   category: Protein und Milchprodukte
 - de_name: Sauerrahm
-  en_name: 'TODO: Sauerrahm'
+  en_name: sour cream
   qty: 150
   unit: g
   category: Protein und Milchprodukte
 - de_name: Langkornreis
-  en_name: 'TODO: Langkornreis'
+  en_name: long-grain rice
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Schwarze Bohnen
-  en_name: 'TODO: Schwarze Bohnen'
+  en_name: black beans
   qty: 2
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Mais
-  en_name: 'TODO: Mais'
+  en_name: corn
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Passierte Tomaten
-  en_name: 'TODO: Passierte Tomaten'
+  en_name: strained tomatoes (passata)
   qty: 1
   unit: Glas
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 3
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Koriander, frisch
-  en_name: 'TODO: Koriander, frisch'
+  en_name: fresh cilantro
   qty: 1
   unit: Bund
   category: Gemüse und Salat
 - de_name: Avocado
-  en_name: 'TODO: Avocado'
+  en_name: avocado
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Limette
-  en_name: 'TODO: Limette'
+  en_name: limes
   qty: 2
   unit: Stk
   category: Obst
 - de_name: Kreuzkümmel, gemahlen
-  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  en_name: ground cumin
   qty: 3
   unit: TL
   category: Gewürze
 - de_name: Chipotle-Chilipulver
-  en_name: 'TODO: Chipotle-Chilipulver'
+  en_name: chipotle chili powder
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Paprika edelsüß
-  en_name: 'TODO: Paprika edelsüß'
+  en_name: sweet paprika
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Oregano
-  en_name: 'TODO: Oregano'
+  en_name: oregano
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Reis nach Packungsangabe kochen. Fertig gegarten Reis mit Limettensaft und gehacktem Koriander vermengen – Cilantro-Limetten-Reis.
-- |-
-  Hähnchenbrust in 2 cm große Würfel schneiden. Mit Kreuzkümmel, Chipotle-Chilipulver, Paprika edelsüß, Oregano, Chiliflocken, Salz und 1 EL Öl vermengen.
-- |-
-  Öl in einer großen Pfanne bei hoher Hitze erhitzen. Hähnchen in einer Schicht anbraten, 3–4 Minuten pro Seite goldbraun garen. Herausnehmen.
-- |-
-  Zwiebel und Knoblauch in derselben Pfanne anschwitzen. Schwarze Bohnen und Mais abspülen, zugeben und 3 Minuten erwärmen.
-- |-
-  Passierte Tomaten zugeben, kurz aufkochen. Mit Salz und etwas Chipotle abschmecken.
-- |-
-  Bowls aufbauen: Cilantro-Reis, Bohnen-Mais-Mischung, Hähnchenwürfel, gewürfelte Avocado, Sauerrahm, Salsa und frischer Koriander.
+- Reis nach Packungsangabe kochen. Fertig gegarten Reis mit Limettensaft und gehacktem
+  Koriander vermengen – Cilantro-Limetten-Reis.
+- Hähnchenbrust in 2 cm große Würfel schneiden. Mit Kreuzkümmel, Chipotle-Chilipulver,
+  Paprika edelsüß, Oregano, Chiliflocken, Salz und 1 EL Öl vermengen.
+- Öl in einer großen Pfanne bei hoher Hitze erhitzen. Hähnchen in einer Schicht anbraten,
+  3–4 Minuten pro Seite goldbraun garen. Herausnehmen.
+- Zwiebel und Knoblauch in derselben Pfanne anschwitzen. Schwarze Bohnen und Mais
+  abspülen, zugeben und 3 Minuten erwärmen.
+- Passierte Tomaten zugeben, kurz aufkochen. Mit Salz und etwas Chipotle abschmecken.
+- 'Bowls aufbauen: Cilantro-Reis, Bohnen-Mais-Mischung, Hähnchenwürfel, gewürfelte
+  Avocado, Sauerrahm, Salsa und frischer Koriander.'
 en_steps:
-- |-
-  TODO: Reis nach Packungsangabe kochen. Fertig gegarten Reis mit Limettensaft und gehacktem Koriander vermengen – Cilantro-Limetten-Reis.
-- |-
-  TODO: Hähnchenbrust in 2 cm große Würfel schneiden. Mit Kreuzkümmel, Chipotle-Chilipulver, Paprika edelsüß, Oregano, Chiliflocken, Salz und 1 EL Öl vermengen.
-- |-
-  TODO: Öl in einer großen Pfanne bei hoher Hitze erhitzen. Hähnchen in einer Schicht anbraten, 3–4 Minuten pro Seite goldbraun garen. Herausnehmen.
-- |-
-  TODO: Zwiebel und Knoblauch in derselben Pfanne anschwitzen. Schwarze Bohnen und Mais abspülen, zugeben und 3 Minuten erwärmen.
-- |-
-  TODO: Passierte Tomaten zugeben, kurz aufkochen. Mit Salz und etwas Chipotle abschmecken.
-- |-
-  TODO: Bowls aufbauen: Cilantro-Reis, Bohnen-Mais-Mischung, Hähnchenwürfel, gewürfelte Avocado, Sauerrahm, Salsa und frischer Koriander.
+- Cook the rice according to the packet instructions. Toss the cooked rice with lime
+  juice and chopped cilantro to make cilantro-lime rice.
+- Cut the chicken breast into 2 cm cubes. Toss with cumin, chipotle chili powder,
+  sweet paprika, oregano, chili flakes, salt, and 1 tbsp oil.
+- Heat oil in a large pan over high heat. Sear the chicken in a single layer for 3–4
+  minutes per side until golden. Remove.
+- Sauté the onion and garlic in the same pan. Rinse the black beans and corn, add
+  them, and heat for 3 minutes.
+- Add the strained tomatoes, bring to a brief boil. Season with salt and a little
+  chipotle.
+- 'Build the bowls: cilantro rice, black bean and corn mixture, chicken cubes, diced
+  avocado, sour cream, salsa, and fresh cilantro.'

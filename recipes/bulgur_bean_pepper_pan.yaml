@@ -9,51 +9,51 @@ de:
   title: Bulgur-Bohnen-Pfanne mit Paprika
   summary: Milde Bulgurpfanne mit weißen Bohnen, Paprika und Zucchini.
 en:
-  title: 'TODO: Bulgur-Bohnen-Pfanne mit Paprika'
-  summary: 'TODO: Milde Bulgurpfanne mit weißen Bohnen, Paprika und Zucchini.'
+  title: Bulgur, Bean and Bell Pepper Pan
+  summary: A mild bulgur pan with white beans, bell pepper, and zucchini.
 ingredients:
 - de_name: Bulgur
-  en_name: 'TODO: Bulgur'
+  en_name: bulgur
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Weiße Bohnen
-  en_name: 'TODO: Weiße Bohnen'
+  en_name: white beans
   qty: 2
   unit: Dosen
   category: Konserven und Vorrat
 - de_name: Paprika
-  en_name: 'TODO: Paprika'
+  en_name: bell pepper
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zucchini
-  en_name: 'TODO: Zucchini'
+  en_name: zucchini
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Passierte Tomaten
-  en_name: 'TODO: Passierte Tomaten'
+  en_name: strained tomatoes (passata)
   qty: 1
   unit: Glas
   category: Konserven und Vorrat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Oregano
-  en_name: 'TODO: Oregano'
+  en_name: oregano
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -62,6 +62,6 @@ de_steps:
 - Zwiebel, Paprika und Zucchini in Olivenöl anschwitzen.
 - Bohnen und Tomaten zugeben und kurz köcheln.
 en_steps:
-- 'TODO: Bulgur garen.'
-- 'TODO: Zwiebel, Paprika und Zucchini in Olivenöl anschwitzen.'
-- 'TODO: Bohnen und Tomaten zugeben und kurz köcheln.'
+- Cook the bulgur.
+- Sauté the onion, bell pepper, and zucchini in olive oil until softened.
+- Add the beans and tomatoes and simmer briefly.

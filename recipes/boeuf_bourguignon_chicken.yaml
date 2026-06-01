@@ -6,127 +6,126 @@ next_day: true
 meals: 2
 de:
   title: Bœuf Bourguignon-inspirierter Hähncheneintopf
-  summary: |-
-    Der Geist des Bourguignon in einem schnelleren Hähnchenschmortopf: Rotwein, Champignons, Karotten, Perlzwiebeln und frischer Thymian.
+  summary: 'Der Geist des Bourguignon in einem schnelleren Hähnchenschmortopf: Rotwein,
+    Champignons, Karotten, Perlzwiebeln und frischer Thymian.'
 en:
-  title: 'TODO: Bœuf Bourguignon-inspirierter Hähncheneintopf'
-  summary: |-
-    TODO: Der Geist des Bourguignon in einem schnelleren Hähnchenschmortopf: Rotwein, Champignons, Karotten, Perlzwiebeln und frischer Thymian.
+  title: Boeuf Bourguignon-Inspired Chicken Stew
+  summary: 'The soul of a Bourguignon in a quicker chicken braise: red wine, mushrooms,
+    carrots, pearl onions, and fresh thyme.'
 ingredients:
 - de_name: Hähnchenschenkel mit Knochen
-  en_name: 'TODO: Hähnchenschenkel mit Knochen'
+  en_name: chicken thighs, bone-in
   qty: 900
   unit: g
   category: Protein und Milchprodukte
 - de_name: Burgunder Rotwein
-  en_name: 'TODO: Burgunder Rotwein'
+  en_name: Burgundy red wine
   qty: 350
   unit: ml
   category: Konserven und Vorrat
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: chicken stock
   qty: 300
   unit: ml
   category: Konserven und Vorrat
 - de_name: Champignons
-  en_name: 'TODO: Champignons'
+  en_name: button mushrooms
   qty: 300
   unit: g
   category: Gemüse und Salat
 - de_name: Karotte
-  en_name: 'TODO: Karotte'
+  en_name: carrot
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Perlzwiebeln
-  en_name: 'TODO: Perlzwiebeln'
+  en_name: pearl onions
   qty: 150
   unit: g
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 3
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Speckwürfel
-  en_name: 'TODO: Speckwürfel'
+  en_name: diced bacon
   qty: 80
   unit: g
   category: Protein und Milchprodukte
 - de_name: Tomatenmark
-  en_name: 'TODO: Tomatenmark'
+  en_name: tomato paste
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Butter
-  en_name: 'TODO: Butter'
+  en_name: butter
   qty: 30
   unit: g
   category: Protein und Milchprodukte
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Mehl
-  en_name: 'TODO: Mehl'
+  en_name: flour
   qty: 1
   unit: EL
   category: Kohlenhydrate und Sattmacher
 - de_name: Frischer Thymian
-  en_name: 'TODO: Frischer Thymian'
+  en_name: fresh thyme
   qty: 4
   unit: Stk
   category: Gemüse und Salat
 - de_name: Frischer Rosmarin
-  en_name: 'TODO: Frischer Rosmarin'
+  en_name: fresh rosemary
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Lorbeerblätter
-  en_name: 'TODO: Lorbeerblätter'
+  en_name: bay leaves
   qty: 2
   unit: Stk
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
 - Hähnchenschenkel salzen und pfeffern, mit Mehl bestäuben.
-- |-
-  Öl und die Hälfte der Butter in einem Schmortopf erhitzen. Hähnchen von beiden Seiten 5 Minuten stark anbraten. Herausnehmen.
-- |-
-  Speck im gleichen Topf 3 Minuten auslassen. Perlzwiebeln dazugeben, 5 Minuten braten. Karotten in Scheiben und Knoblauch (gehackt) einrühren.
-- |-
-  Tomatenmark einrühren, kurz rösten. Mit Rotwein ablöschen, kräftig aufkochen und 5 Minuten stark einkochen.
-- |-
-  Brühe, Thymian, Rosmarin und Lorbeer dazugeben. Hähnchen zurücklegen. Zugedeckt bei niedriger Hitze 45 Minuten schmoren.
-- |-
-  Champignons in der restlichen Butter bei starker Hitze 5 Minuten goldbraun anbraten. Beiseitestellen.
-- |-
-  Hähnchen herausnehmen. Kräuterzweige und Lorbeer entfernen. Sauce ggf. offen einkochen, bis sie sämig ist.
-- |-
-  Champignons einrühren, Hähnchen zurücklegen. Mit Kartoffelpüree oder Eiernudeln servieren.
+- Öl und die Hälfte der Butter in einem Schmortopf erhitzen. Hähnchen von beiden Seiten
+  5 Minuten stark anbraten. Herausnehmen.
+- Speck im gleichen Topf 3 Minuten auslassen. Perlzwiebeln dazugeben, 5 Minuten braten.
+  Karotten in Scheiben und Knoblauch (gehackt) einrühren.
+- Tomatenmark einrühren, kurz rösten. Mit Rotwein ablöschen, kräftig aufkochen und
+  5 Minuten stark einkochen.
+- Brühe, Thymian, Rosmarin und Lorbeer dazugeben. Hähnchen zurücklegen. Zugedeckt
+  bei niedriger Hitze 45 Minuten schmoren.
+- Champignons in der restlichen Butter bei starker Hitze 5 Minuten goldbraun anbraten.
+  Beiseitestellen.
+- Hähnchen herausnehmen. Kräuterzweige und Lorbeer entfernen. Sauce ggf. offen einkochen,
+  bis sie sämig ist.
+- Champignons einrühren, Hähnchen zurücklegen. Mit Kartoffelpüree oder Eiernudeln
+  servieren.
 en_steps:
-- 'TODO: Hähnchenschenkel salzen und pfeffern, mit Mehl bestäuben.'
-- |-
-  TODO: Öl und die Hälfte der Butter in einem Schmortopf erhitzen. Hähnchen von beiden Seiten 5 Minuten stark anbraten. Herausnehmen.
-- |-
-  TODO: Speck im gleichen Topf 3 Minuten auslassen. Perlzwiebeln dazugeben, 5 Minuten braten. Karotten in Scheiben und Knoblauch (gehackt) einrühren.
-- |-
-  TODO: Tomatenmark einrühren, kurz rösten. Mit Rotwein ablöschen, kräftig aufkochen und 5 Minuten stark einkochen.
-- |-
-  TODO: Brühe, Thymian, Rosmarin und Lorbeer dazugeben. Hähnchen zurücklegen. Zugedeckt bei niedriger Hitze 45 Minuten schmoren.
-- |-
-  TODO: Champignons in der restlichen Butter bei starker Hitze 5 Minuten goldbraun anbraten. Beiseitestellen.
-- |-
-  TODO: Hähnchen herausnehmen. Kräuterzweige und Lorbeer entfernen. Sauce ggf. offen einkochen, bis sie sämig ist.
-- |-
-  TODO: Champignons einrühren, Hähnchen zurücklegen. Mit Kartoffelpüree oder Eiernudeln servieren.
+- Season chicken thighs with salt and pepper; dust with flour.
+- Heat oil and half the butter in a braising pot. Brown chicken on both sides for
+  5 minutes over high heat. Remove.
+- Render bacon in the same pot for 3 minutes. Add pearl onions and fry for 5 minutes.
+  Stir in sliced carrots and chopped garlic.
+- Stir in tomato paste and toast briefly. Deglaze with red wine, bring to a vigorous
+  boil, and reduce for 5 minutes.
+- Add stock, thyme, rosemary, and bay leaves. Return chicken. Cover and braise on
+  low heat for 45 minutes.
+- In the remaining butter, fry mushrooms over high heat for 5 minutes until golden.
+  Set aside.
+- Remove chicken. Discard herb sprigs and bay leaves. If needed, reduce sauce uncovered
+  until glossy.
+- Stir in mushrooms, return chicken. Serve with mashed potatoes or egg noodles.

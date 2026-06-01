@@ -9,36 +9,36 @@ de:
   title: Schnelles Orzo mit Zucchini und Bohnen
   summary: Schnelle Orzo-Pfanne mit Zucchini, weißen Bohnen und Frischkäse.
 en:
-  title: 'TODO: Schnelles Orzo mit Zucchini und Bohnen'
-  summary: 'TODO: Schnelle Orzo-Pfanne mit Zucchini, weißen Bohnen und Frischkäse.'
+  title: Quick Orzo with Zucchini and White Beans
+  summary: A quick orzo skillet with zucchini, white beans, and cream cheese.
 ingredients:
 - de_name: Orzo oder Kritharaki
-  en_name: 'TODO: Orzo oder Kritharaki'
+  en_name: orzo
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Weiße Bohnen
-  en_name: 'TODO: Weiße Bohnen'
+  en_name: white beans
   qty: 2
   unit: Dosen
   category: Konserven und Vorrat
 - de_name: Zucchini
-  en_name: 'TODO: Zucchini'
+  en_name: zucchini
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Frischkäse natur
-  en_name: 'TODO: Frischkäse natur'
+  en_name: plain cream cheese
   qty: 100
   unit: g
   category: Protein und Milchprodukte
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -47,6 +47,6 @@ de_steps:
 - Zucchini weich garen und Bohnen kurz erwärmen.
 - Frischkäse unterrühren.
 en_steps:
-- 'TODO: Orzo weich kochen.'
-- 'TODO: Zucchini weich garen und Bohnen kurz erwärmen.'
-- 'TODO: Frischkäse unterrühren.'
+- Cook the orzo until tender.
+- Cook the zucchini until soft and briefly warm the beans.
+- Stir in the cream cheese.

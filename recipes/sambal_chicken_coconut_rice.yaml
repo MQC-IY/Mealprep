@@ -6,113 +6,115 @@ next_day: true
 meals: 2
 de:
   title: Sambal-Hähnchen mit Kokos-Reis
-  summary: |-
-    Würziges indonesisches Hähnchen in einer intensiven Sambal-Oelek-Kokosmilch-Sauce, serviert mit duftendem Kokos-Jasminreis.
+  summary: Würziges indonesisches Hähnchen in einer intensiven Sambal-Oelek-Kokosmilch-Sauce,
+    serviert mit duftendem Kokos-Jasminreis.
 en:
-  title: 'TODO: Sambal-Hähnchen mit Kokos-Reis'
-  summary: |-
-    TODO: Würziges indonesisches Hähnchen in einer intensiven Sambal-Oelek-Kokosmilch-Sauce, serviert mit duftendem Kokos-Jasminreis.
+  title: Sambal Chicken with Coconut Rice
+  summary: Spicy Indonesian chicken in an intense sambal oelek–coconut milk sauce,
+    served with fragrant coconut jasmine rice.
 ingredients:
 - de_name: Hähnchenbrust oder -schenkel
-  en_name: 'TODO: Hähnchenbrust oder -schenkel'
+  en_name: chicken breast or thighs
   qty: 800
   unit: g
   category: Protein und Milchprodukte
 - de_name: Kokosmilch
-  en_name: 'TODO: Kokosmilch'
+  en_name: coconut milk
   qty: 2
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Sambal Oelek
-  en_name: 'TODO: Sambal Oelek'
+  en_name: sambal oelek
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Fischsauce
-  en_name: 'TODO: Fischsauce'
+  en_name: fish sauce
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Rapsöl
-  en_name: 'TODO: Rapsöl'
+  en_name: canola oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Jasminreis
-  en_name: 'TODO: Jasminreis'
+  en_name: jasmine rice
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onions
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 5
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Ingwer, frisch
-  en_name: 'TODO: Ingwer, frisch'
+  en_name: fresh ginger
   qty: 30
   unit: g
   category: Gemüse und Salat
 - de_name: Zitronengrasstangen
-  en_name: 'TODO: Zitronengrasstangen'
+  en_name: lemongrass stalks
   qty: 2
   unit: Stange
   category: Gemüse und Salat
 - de_name: Kaffirlimettenblätter
-  en_name: 'TODO: Kaffirlimettenblätter'
+  en_name: kaffir lime leaves
   qty: 4
   unit: Stk
   category: Gemüse und Salat
 - de_name: Limette
-  en_name: 'TODO: Limette'
+  en_name: lime
   qty: 2
   unit: Stk
   category: Obst
 - de_name: Kurkuma
-  en_name: 'TODO: Kurkuma'
+  en_name: turmeric
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Koriander, gemahlen
-  en_name: 'TODO: Koriander, gemahlen'
+  en_name: ground coriander
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Kokos-Reis zubereiten: Jasminreis mit einer Dose Kokosmilch und der gleichen Menge Wasser in einem Topf aufkochen. Hitze auf minimal, Deckel drauf, 15 Minuten köcheln bis der Reis gar ist.
-- |-
-  Zwiebeln, Knoblauch und Ingwer fein hacken. Öl in einer großen Pfanne bei mittlerer-hoher Hitze erhitzen. Zwiebeln 5 Minuten glasig anbraten.
-- |-
-  Knoblauch und Ingwer 1 Minute mitrösten. Sambal Oelek, Kurkuma, gemahlenen Koriander und Chiliflocken zugeben, 2 Minuten unter Rühren rösten.
+- 'Kokos-Reis zubereiten: Jasminreis mit einer Dose Kokosmilch und der gleichen Menge
+  Wasser in einem Topf aufkochen. Hitze auf minimal, Deckel drauf, 15 Minuten köcheln
+  bis der Reis gar ist.'
+- Zwiebeln, Knoblauch und Ingwer fein hacken. Öl in einer großen Pfanne bei mittlerer-hoher
+  Hitze erhitzen. Zwiebeln 5 Minuten glasig anbraten.
+- Knoblauch und Ingwer 1 Minute mitrösten. Sambal Oelek, Kurkuma, gemahlenen Koriander
+  und Chiliflocken zugeben, 2 Minuten unter Rühren rösten.
 - Hähnchenstücke zugeben und von allen Seiten 5 Minuten anbraten.
-- |-
-  Zweite Dose Kokosmilch, Fischsauce, angequetschte Zitronengrasstangen und Kaffirlimettenblätter zugeben. Aufkochen, Hitze reduzieren.
-- |-
-  30 Minuten bei mittlerer-niedriger Hitze köcheln bis das Hähnchen sehr zart und die Sauce eingedickt ist.
-- |-
-  Zitronengras und Limettenblätter entfernen. Mit Limettensaft abschmecken. Mit Kokos-Reis servieren.
+- Zweite Dose Kokosmilch, Fischsauce, angequetschte Zitronengrasstangen und Kaffirlimettenblätter
+  zugeben. Aufkochen, Hitze reduzieren.
+- 30 Minuten bei mittlerer-niedriger Hitze köcheln bis das Hähnchen sehr zart und
+  die Sauce eingedickt ist.
+- Zitronengras und Limettenblätter entfernen. Mit Limettensaft abschmecken. Mit Kokos-Reis
+  servieren.
 en_steps:
-- |-
-  TODO: Kokos-Reis zubereiten: Jasminreis mit einer Dose Kokosmilch und der gleichen Menge Wasser in einem Topf aufkochen. Hitze auf minimal, Deckel drauf, 15 Minuten köcheln bis der Reis gar ist.
-- |-
-  TODO: Zwiebeln, Knoblauch und Ingwer fein hacken. Öl in einer großen Pfanne bei mittlerer-hoher Hitze erhitzen. Zwiebeln 5 Minuten glasig anbraten.
-- |-
-  TODO: Knoblauch und Ingwer 1 Minute mitrösten. Sambal Oelek, Kurkuma, gemahlenen Koriander und Chiliflocken zugeben, 2 Minuten unter Rühren rösten.
-- 'TODO: Hähnchenstücke zugeben und von allen Seiten 5 Minuten anbraten.'
-- |-
-  TODO: Zweite Dose Kokosmilch, Fischsauce, angequetschte Zitronengrasstangen und Kaffirlimettenblätter zugeben. Aufkochen, Hitze reduzieren.
-- |-
-  TODO: 30 Minuten bei mittlerer-niedriger Hitze köcheln bis das Hähnchen sehr zart und die Sauce eingedickt ist.
-- |-
-  TODO: Zitronengras und Limettenblätter entfernen. Mit Limettensaft abschmecken. Mit Kokos-Reis servieren.
+- 'Make the coconut rice: bring the jasmine rice with one can of coconut milk and
+  an equal amount of water to a boil. Reduce to the lowest heat, cover, and simmer
+  for 15 minutes until cooked.'
+- Finely chop the onions, garlic, and ginger. Heat the oil in a large pan over medium-high
+  heat. Sauté the onions for 5 minutes until translucent.
+- Add the garlic and ginger and toast for 1 minute. Add the sambal oelek, turmeric,
+  ground coriander, and chili flakes; stir-fry for 2 minutes.
+- Add the chicken pieces and brown on all sides for 5 minutes.
+- Pour in the second can of coconut milk, fish sauce, bruised lemongrass stalks, and
+  kaffir lime leaves. Bring to a boil, then reduce the heat.
+- Simmer over medium-low heat for 30 minutes until the chicken is very tender and
+  the sauce has thickened.
+- Remove the lemongrass and lime leaves. Season with lime juice. Serve with the coconut
+  rice.

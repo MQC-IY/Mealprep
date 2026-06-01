@@ -4,74 +4,85 @@ healthy: true
 meals: 8
 de:
   title: Kokos-Milchreis mit Ananas
-  summary: "Cremiger Milchreis mit Kokosmilch, abgerundet mit frischer karamellisierter Ananas — ein exotisches Familiendessert, das sich warm oder kalt genießen lässt."
+  summary: Cremiger Milchreis mit Kokosmilch, abgerundet mit frischer karamellisierter
+    Ananas — ein exotisches Familiendessert, das sich warm oder kalt genießen lässt.
 en:
-  title: "TODO: Kokos-Milchreis mit Ananas"
-  summary: "TODO: Cremiger Milchreis mit Kokosmilch, abgerundet mit frischer karamellisierter Ananas — ein exotisches Familiendessert, das sich warm oder kalt genießen lässt."
+  title: Coconut Rice Pudding with Pineapple
+  summary: Creamy rice pudding simmered in coconut milk, topped with fresh caramelised
+    pineapple — an exotic family dessert that can be enjoyed warm or cold.
 ingredients:
-  - de_name: Milchreis (Rundkornreis)
-    en_name: "TODO: Milchreis (Rundkornreis)"
-    qty: 400
-    unit: g
-    category: Kohlenhydrate und Sattmacher
-  - de_name: "Kokosmilch (Vollfett, Dose)"
-    en_name: "TODO: Kokosmilch (Vollfett, Dose)"
-    qty: 800
-    unit: ml
-    category: Konserven und Vorrat
-  - de_name: Hafermilch
-    en_name: "TODO: Hafermilch"
-    qty: 800
-    unit: ml
-    category: Protein und Milchprodukte
-  - de_name: Agavendicksaft
-    en_name: "TODO: Agavendicksaft"
-    qty: 4
-    unit: EL
-    category: Konserven und Vorrat
-  - de_name: Vanilleextrakt
-    en_name: "TODO: Vanilleextrakt"
-    qty: 2
-    unit: TL
-    category: Gewürze
-  - de_name: Salz
-    en_name: "TODO: Salz"
-    qty: 1
-    unit: Prise
-    category: Gewürze
-  - de_name: frische Ananas
-    en_name: "TODO: frische Ananas"
-    qty: 1
-    unit: Stk
-    category: Obst
-  - de_name: Honig
-    en_name: "TODO: Honig"
-    qty: 2
-    unit: EL
-    category: Konserven und Vorrat
-  - de_name: Zimt gemahlen
-    en_name: "TODO: Zimt gemahlen"
-    qty: 1
-    unit: TL
-    category: Gewürze
-  - de_name: Kokosraspeln geröstet
-    en_name: "TODO: Kokosraspeln geröstet"
-    qty: 40
-    unit: g
-    category: Konserven und Vorrat
+- de_name: Milchreis (Rundkornreis)
+  en_name: pudding rice (short-grain rice)
+  qty: 400
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Kokosmilch (Vollfett, Dose)
+  en_name: full-fat coconut milk (tinned)
+  qty: 800
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Hafermilch
+  en_name: oat milk
+  qty: 800
+  unit: ml
+  category: Protein und Milchprodukte
+- de_name: Agavendicksaft
+  en_name: agave syrup
+  qty: 4
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Vanilleextrakt
+  en_name: vanilla extract
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: salt
+  qty: 1
+  unit: Prise
+  category: Gewürze
+- de_name: frische Ananas
+  en_name: fresh pineapple
+  qty: 1
+  unit: Stk
+  category: Obst
+- de_name: Honig
+  en_name: honey
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Zimt gemahlen
+  en_name: cinnamon, ground
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Kokosraspeln geröstet
+  en_name: toasted desiccated coconut
+  qty: 40
+  unit: g
+  category: Konserven und Vorrat
 de_steps:
-  - "Kokosmilch, Hafermilch, Agavendicksaft, Vanilleextrakt und Salz in einem großen Topf aufkochen."
-  - "Milchreis einrühren, Hitze reduzieren und bei niederer Hitze ca. 35–40 Minuten unter häufigem Rühren köcheln lassen, bis der Reis weich und die Masse cremig ist."
-  - "Ananas schälen, den Strunk entfernen und das Fruchtfleisch in 1 cm dicke Scheiben schneiden."
-  - Eine Grillpfanne oder beschichtete Pfanne stark erhitzen. Ananasscheiben mit Honig und Zimt bestreichen und je 2 Minuten pro Seite karamellisieren.
-  - Milchreis auf 8 Schälchen verteilen.
-  - Karamellisierte Ananasscheiben auf dem Milchreis anrichten.
-  - Mit gerösteten Kokosraspeln bestreuen und warm oder kalt servieren. Im Kühlschrank bis zu 3 Tage haltbar.
+- Kokosmilch, Hafermilch, Agavendicksaft, Vanilleextrakt und Salz in einem großen
+  Topf aufkochen.
+- Milchreis einrühren, Hitze reduzieren und bei niederer Hitze ca. 35–40 Minuten unter
+  häufigem Rühren köcheln lassen, bis der Reis weich und die Masse cremig ist.
+- Ananas schälen, den Strunk entfernen und das Fruchtfleisch in 1 cm dicke Scheiben
+  schneiden.
+- Eine Grillpfanne oder beschichtete Pfanne stark erhitzen. Ananasscheiben mit Honig
+  und Zimt bestreichen und je 2 Minuten pro Seite karamellisieren.
+- Milchreis auf 8 Schälchen verteilen.
+- Karamellisierte Ananasscheiben auf dem Milchreis anrichten.
+- Mit gerösteten Kokosraspeln bestreuen und warm oder kalt servieren. Im Kühlschrank
+  bis zu 3 Tage haltbar.
 en_steps:
-  - "TODO: Kokosmilch, Hafermilch, Agavendicksaft, Vanilleextrakt und Salz in einem großen Topf aufkochen."
-  - "TODO: Milchreis einrühren, Hitze reduzieren und bei niederer Hitze ca. 35–40 Minuten unter häufigem Rühren köcheln lassen, bis der Reis weich und die Masse cremig ist."
-  - "TODO: Ananas schälen, den Strunk entfernen und das Fruchtfleisch in 1 cm dicke Scheiben schneiden."
-  - "TODO: Eine Grillpfanne oder beschichtete Pfanne stark erhitzen. Ananasscheiben mit Honig und Zimt bestreichen und je 2 Minuten pro Seite karamellisieren."
-  - "TODO: Milchreis auf 8 Schälchen verteilen."
-  - "TODO: Karamellisierte Ananasscheiben auf dem Milchreis anrichten."
-  - "TODO: Mit gerösteten Kokosraspeln bestreuen und warm oder kalt servieren. Im Kühlschrank bis zu 3 Tage haltbar."
+- Bring the coconut milk, oat milk, agave syrup, vanilla extract, and salt to the
+  boil in a large pot.
+- Stir in the pudding rice, reduce the heat, and simmer over low heat for about 35–40
+  minutes, stirring frequently, until the rice is tender and the mixture is creamy.
+- Peel the pineapple, remove the core, and cut the flesh into 1 cm thick slices.
+- Heat a grill pan or non-stick pan until very hot. Brush the pineapple slices with
+  honey and cinnamon and caramelise for 2 minutes per side.
+- Divide the rice pudding among 8 bowls.
+- Arrange the caramelised pineapple slices on top of the rice pudding.
+- Sprinkle with toasted coconut and serve warm or cold. Keeps in the fridge for up
+  to 3 days.

@@ -6,130 +6,130 @@ next_day: true
 meals: 2
 de:
   title: Malaysisches Laksa mit Hähnchen
-  summary: |-
-    Reichhaltige malaysische Kokos-Curry-Nudelsuppe mit zartem Hähnchen, Reisnudeln, Garnelen-Paste, Zitronengras und Kaffirlimette.
+  summary: Reichhaltige malaysische Kokos-Curry-Nudelsuppe mit zartem Hähnchen, Reisnudeln,
+    Garnelen-Paste, Zitronengras und Kaffirlimette.
 en:
-  title: 'TODO: Malaysisches Laksa mit Hähnchen'
-  summary: |-
-    TODO: Reichhaltige malaysische Kokos-Curry-Nudelsuppe mit zartem Hähnchen, Reisnudeln, Garnelen-Paste, Zitronengras und Kaffirlimette.
+  title: Malaysian Laksa with Chicken
+  summary: A rich Malaysian coconut-curry noodle soup with tender chicken, rice noodles,
+    shrimp paste, lemongrass, and kaffir lime.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: Chicken breast
   qty: 600
   unit: g
   category: Protein und Milchprodukte
 - de_name: Kokosmilch
-  en_name: 'TODO: Kokosmilch'
+  en_name: Coconut milk
   qty: 2
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: Chicken broth
   qty: 500
   unit: ml
   category: Konserven und Vorrat
 - de_name: Fischsauce
-  en_name: 'TODO: Fischsauce'
+  en_name: Fish sauce
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Rapsöl
-  en_name: 'TODO: Rapsöl'
+  en_name: Rapeseed oil
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Reisnudeln (breit)
-  en_name: 'TODO: Reisnudeln (breit)'
+  en_name: Wide rice noodles
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: Onion
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: Garlic
   qty: 5
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Ingwer, frisch
-  en_name: 'TODO: Ingwer, frisch'
+  en_name: Fresh ginger
   qty: 30
   unit: g
   category: Gemüse und Salat
 - de_name: Zitronengrasstangen
-  en_name: 'TODO: Zitronengrasstangen'
+  en_name: Lemongrass stalks
   qty: 3
   unit: Stange
   category: Gemüse und Salat
 - de_name: Rote Chili
-  en_name: 'TODO: Rote Chili'
+  en_name: Red chili
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Kaffirlimettenblätter
-  en_name: 'TODO: Kaffirlimettenblätter'
+  en_name: Kaffir lime leaves
   qty: 4
   unit: Stk
   category: Gemüse und Salat
 - de_name: Sojasprossen
-  en_name: 'TODO: Sojasprossen'
+  en_name: Bean sprouts
   qty: 150
   unit: g
   category: Gemüse und Salat
 - de_name: Limette
-  en_name: 'TODO: Limette'
+  en_name: Lime
   qty: 2
   unit: Stk
   category: Obst
 - de_name: Kurkuma
-  en_name: 'TODO: Kurkuma'
+  en_name: Turmeric
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Koriander, gemahlen
-  en_name: 'TODO: Koriander, gemahlen'
+  en_name: Ground coriander
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chili flakes
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Kreuzkümmel, gemahlen
-  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  en_name: Ground cumin
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Laksa-Paste herstellen: Zwiebeln, Knoblauch, Ingwer, rote Chilis, Zitronengras (weiches inneres) und Kurkuma mit 2 EL Öl im Mixer zu einer feinen Paste pürieren.
-- |-
-  Hähnchenbrust in Salzwasser 20 Minuten gar köcheln, herausnehmen, abkühlen und in Fasern zupfen.
-- |-
-  Reisnudeln nach Packungsangabe in heißem Wasser einweichen bis al dente. Abspülen und abtropfen.
-- |-
-  Öl in einem großen Topf bei mittlerer-hoher Hitze erhitzen. Laksa-Paste 5–7 Minuten unter Rühren anbraten bis sie sehr aromatisch ist.
-- |-
-  Gemahlenen Koriander, Kreuzkümmel und Chiliflocken zugeben, 1 Minute rösten. Angequetschte Zitronengrasstangen und Kaffirlimettenblätter zugeben.
-- |-
-  Kokosmilch und Hühnerbrühe angießen, aufkochen. Fischsauce zugeben und 10 Minuten köcheln.
-- |-
-  Gezupftes Hähnchen in der Brühe erwärmen. In Schüsseln: Reisnudeln, heiße Laksa-Brühe mit Hähnchen, Sojasprossen, Limettenspalten und Chiliflocken anrichten.
+- 'Laksa-Paste herstellen: Zwiebeln, Knoblauch, Ingwer, rote Chilis, Zitronengras
+  (weiches inneres) und Kurkuma mit 2 EL Öl im Mixer zu einer feinen Paste pürieren.'
+- Hähnchenbrust in Salzwasser 20 Minuten gar köcheln, herausnehmen, abkühlen und in
+  Fasern zupfen.
+- Reisnudeln nach Packungsangabe in heißem Wasser einweichen bis al dente. Abspülen
+  und abtropfen.
+- Öl in einem großen Topf bei mittlerer-hoher Hitze erhitzen. Laksa-Paste 5–7 Minuten
+  unter Rühren anbraten bis sie sehr aromatisch ist.
+- Gemahlenen Koriander, Kreuzkümmel und Chiliflocken zugeben, 1 Minute rösten. Angequetschte
+  Zitronengrasstangen und Kaffirlimettenblätter zugeben.
+- Kokosmilch und Hühnerbrühe angießen, aufkochen. Fischsauce zugeben und 10 Minuten
+  köcheln.
+- 'Gezupftes Hähnchen in der Brühe erwärmen. In Schüsseln: Reisnudeln, heiße Laksa-Brühe
+  mit Hähnchen, Sojasprossen, Limettenspalten und Chiliflocken anrichten.'
 en_steps:
-- |-
-  TODO: Laksa-Paste herstellen: Zwiebeln, Knoblauch, Ingwer, rote Chilis, Zitronengras (weiches inneres) und Kurkuma mit 2 EL Öl im Mixer zu einer feinen Paste pürieren.
-- |-
-  TODO: Hähnchenbrust in Salzwasser 20 Minuten gar köcheln, herausnehmen, abkühlen und in Fasern zupfen.
-- |-
-  TODO: Reisnudeln nach Packungsangabe in heißem Wasser einweichen bis al dente. Abspülen und abtropfen.
-- |-
-  TODO: Öl in einem großen Topf bei mittlerer-hoher Hitze erhitzen. Laksa-Paste 5–7 Minuten unter Rühren anbraten bis sie sehr aromatisch ist.
-- |-
-  TODO: Gemahlenen Koriander, Kreuzkümmel und Chiliflocken zugeben, 1 Minute rösten. Angequetschte Zitronengrasstangen und Kaffirlimettenblätter zugeben.
-- |-
-  TODO: Kokosmilch und Hühnerbrühe angießen, aufkochen. Fischsauce zugeben und 10 Minuten köcheln.
-- |-
-  TODO: Gezupftes Hähnchen in der Brühe erwärmen. In Schüsseln: Reisnudeln, heiße Laksa-Brühe mit Hähnchen, Sojasprossen, Limettenspalten und Chiliflocken anrichten.
+- 'Make the laksa paste: blend the onions, garlic, ginger, red chilies, lemongrass
+  (soft inner part), and turmeric with 2 tbsp oil in a blender until smooth.'
+- Simmer the chicken breast in salted water for 20 minutes until cooked through. Remove,
+  let cool, then shred into strands.
+- Soak the rice noodles in hot water according to packet instructions until al dente.
+  Rinse and drain.
+- Heat oil in a large pot over medium-high heat. Stir-fry the laksa paste for 5–7
+  minutes until very fragrant.
+- Add the ground coriander, cumin, and chili flakes; toast for 1 minute. Add the bruised
+  lemongrass stalks and kaffir lime leaves.
+- Pour in the coconut milk and chicken broth; bring to a boil. Add the fish sauce
+  and simmer for 10 minutes.
+- Warm the shredded chicken in the broth. Assemble bowls with rice noodles, hot laksa
+  broth with chicken, bean sprouts, lime wedges, and chili flakes.

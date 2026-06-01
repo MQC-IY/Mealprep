@@ -9,36 +9,37 @@ de:
   title: Schnelle Polenta mit Bohnen und Tomate
   summary: Sehr schnelles mildes Gericht mit Polenta, weißen Bohnen und Tomatensauce.
 en:
-  title: 'TODO: Schnelle Polenta mit Bohnen und Tomate'
-  summary: 'TODO: Sehr schnelles mildes Gericht mit Polenta, weißen Bohnen und Tomatensauce.'
+  title: Quick Polenta with Beans and Tomato
+  summary: A very quick, mild dish of creamy polenta, white beans, and tomato sauce
+    — simple and satisfying.
 ingredients:
 - de_name: Polenta
-  en_name: 'TODO: Polenta'
+  en_name: Polenta
   qty: 250
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Weiße Bohnen
-  en_name: 'TODO: Weiße Bohnen'
+  en_name: White beans
   qty: 2
   unit: Dosen
   category: Konserven und Vorrat
 - de_name: Passierte Tomaten
-  en_name: 'TODO: Passierte Tomaten'
+  en_name: Strained tomatoes (passata)
   qty: 1
   unit: Glas
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Basilikum
-  en_name: 'TODO: Basilikum'
+  en_name: Basil
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -47,6 +48,6 @@ de_steps:
 - Bohnen in Tomatensauce kurz erwärmen.
 - Erwachsenenportion danach mit der Polenta servieren und abschmecken.
 en_steps:
-- 'TODO: Polenta weich rühren.'
-- 'TODO: Bohnen in Tomatensauce kurz erwärmen.'
-- 'TODO: Erwachsenenportion danach mit der Polenta servieren und abschmecken.'
+- Cook the polenta in salted water, stirring until smooth and creamy.
+- Warm the beans in the tomato sauce over medium heat.
+- Serve the bean sauce over the polenta and season to taste.

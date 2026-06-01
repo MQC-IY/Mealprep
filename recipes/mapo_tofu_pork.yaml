@@ -6,120 +6,119 @@ next_day: true
 meals: 2
 de:
   title: Mapo Tofu mit Hackfleisch
-  summary: |-
-    Feuriger Sichuan-Klassiker mit seidigem Tofu in einer tiefroten, betäubend-scharfen Chili-Bohnen-Sauce mit Schweinehackfleisch.
+  summary: Feuriger Sichuan-Klassiker mit seidigem Tofu in einer tiefroten, betäubend-scharfen
+    Chili-Bohnen-Sauce mit Schweinehackfleisch.
 en:
-  title: 'TODO: Mapo Tofu mit Hackfleisch'
-  summary: |-
-    TODO: Feuriger Sichuan-Klassiker mit seidigem Tofu in einer tiefroten, betäubend-scharfen Chili-Bohnen-Sauce mit Schweinehackfleisch.
+  title: Mapo Tofu with Ground Pork
+  summary: A fiery Sichuan classic of silken tofu in a deep-red, numbing-hot chili
+    bean sauce with ground pork.
 ingredients:
 - de_name: Schweinehackfleisch
-  en_name: 'TODO: Schweinehackfleisch'
+  en_name: Ground pork
   qty: 200
   unit: g
   category: Protein und Milchprodukte
 - de_name: Seidentofu
-  en_name: 'TODO: Seidentofu'
+  en_name: Silken tofu
   qty: 400
   unit: g
   category: Protein und Milchprodukte
 - de_name: Jasminreis
-  en_name: 'TODO: Jasminreis'
+  en_name: Jasmine rice
   qty: 200
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: Garlic cloves
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Ingwer, frisch
-  en_name: 'TODO: Ingwer, frisch'
+  en_name: Fresh ginger
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Frühlingszwiebeln
-  en_name: 'TODO: Frühlingszwiebeln'
+  en_name: Spring onions
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Doubanjian (Sichuan-Chilibohnenpaste)
-  en_name: 'TODO: Doubanjian (Sichuan-Chilibohnenpaste)'
+  en_name: Doubanjiang (Sichuan chili bean paste)
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sojasauce
-  en_name: 'TODO: Sojasauce'
+  en_name: Soy sauce
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Dunkle Sojasauce
-  en_name: 'TODO: Dunkle Sojasauce'
+  en_name: Dark soy sauce
   qty: 1
   unit: TL
   category: Konserven und Vorrat
 - de_name: Shaoxing-Reiswein
-  en_name: 'TODO: Shaoxing-Reiswein'
+  en_name: Shaoxing rice wine
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Hühner- oder Gemüsefond
-  en_name: 'TODO: Hühner- oder Gemüsefond'
+  en_name: Chicken or vegetable stock
   qty: 250
   unit: ml
   category: Konserven und Vorrat
 - de_name: Speisestärke
-  en_name: 'TODO: Speisestärke'
+  en_name: Cornstarch
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Erdnussöl
-  en_name: 'TODO: Erdnussöl'
+  en_name: Peanut oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sesamöl
-  en_name: 'TODO: Sesamöl'
+  en_name: Sesame oil
   qty: 1
   unit: TL
   category: Konserven und Vorrat
 - de_name: Szechuanpfeffer, gemahlen
-  en_name: 'TODO: Szechuanpfeffer, gemahlen'
+  en_name: Sichuan pepper, ground
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Getrocknete Chiliflocken
-  en_name: 'TODO: Getrocknete Chiliflocken'
+  en_name: Dried chili flakes
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
 - Jasminreis waschen und kochen.
-- |-
-  Seidentofu in 2-cm-Würfel schneiden. In leicht gesalzenem heißem Wasser 5 Minuten ziehen lassen, vorsichtig abgießen.
+- Seidentofu in 2-cm-Würfel schneiden. In leicht gesalzenem heißem Wasser 5 Minuten
+  ziehen lassen, vorsichtig abgießen.
 - Knoblauch und Ingwer fein hacken. Frühlingszwiebeln in Ringe schneiden.
-- |-
-  Öl im Wok erhitzen. Doubanjian 1–2 Minuten bei mittlerer Hitze anbraten, bis das Öl rot wird.
-- |-
-  Hackfleisch zugeben und krümelig anbraten. Knoblauch und Ingwer zugeben (1 Min.).
+- Öl im Wok erhitzen. Doubanjian 1–2 Minuten bei mittlerer Hitze anbraten, bis das
+  Öl rot wird.
+- Hackfleisch zugeben und krümelig anbraten. Knoblauch und Ingwer zugeben (1 Min.).
 - Shaoxing-Wein, Sojasauce und Fond angießen. Aufkochen.
-- |-
-  Tofuwürfel vorsichtig zugeben. 4–5 Minuten sanft köcheln – nicht rühren, nur den Wok leicht schütteln.
+- Tofuwürfel vorsichtig zugeben. 4–5 Minuten sanft köcheln – nicht rühren, nur den
+  Wok leicht schütteln.
 - Stärke in 2 EL kaltem Wasser auflösen und einrühren bis die Sauce bindet.
-- |-
-  Szechuanpfeffer, Chiliflocken und Sesamöl unterrühren. Mit Frühlingszwiebeln bestreuen und mit Reis servieren.
+- Szechuanpfeffer, Chiliflocken und Sesamöl unterrühren. Mit Frühlingszwiebeln bestreuen
+  und mit Reis servieren.
 en_steps:
-- 'TODO: Jasminreis waschen und kochen.'
-- |-
-  TODO: Seidentofu in 2-cm-Würfel schneiden. In leicht gesalzenem heißem Wasser 5 Minuten ziehen lassen, vorsichtig abgießen.
-- 'TODO: Knoblauch und Ingwer fein hacken. Frühlingszwiebeln in Ringe schneiden.'
-- |-
-  TODO: Öl im Wok erhitzen. Doubanjian 1–2 Minuten bei mittlerer Hitze anbraten, bis das Öl rot wird.
-- |-
-  TODO: Hackfleisch zugeben und krümelig anbraten. Knoblauch und Ingwer zugeben (1 Min.).
-- 'TODO: Shaoxing-Wein, Sojasauce und Fond angießen. Aufkochen.'
-- |-
-  TODO: Tofuwürfel vorsichtig zugeben. 4–5 Minuten sanft köcheln – nicht rühren, nur den Wok leicht schütteln.
-- 'TODO: Stärke in 2 EL kaltem Wasser auflösen und einrühren bis die Sauce bindet.'
-- |-
-  TODO: Szechuanpfeffer, Chiliflocken und Sesamöl unterrühren. Mit Frühlingszwiebeln bestreuen und mit Reis servieren.
+- Wash and cook the jasmine rice.
+- Cut the silken tofu into 2 cm cubes. Gently poach in lightly salted hot water for
+  5 minutes, then carefully drain.
+- Finely mince the garlic and ginger. Slice the spring onions into rings.
+- Heat the oil in a wok. Stir-fry the doubanjiang over medium heat for 1–2 minutes
+  until the oil turns red.
+- Add the ground pork and cook until crumbly. Stir in the garlic and ginger and cook
+  for 1 minute.
+- Pour in the Shaoxing wine, soy sauce, and stock. Bring to a boil.
+- Carefully add the tofu cubes. Simmer gently for 4–5 minutes — do not stir, just
+  gently shake the wok.
+- Dissolve the cornstarch in 2 tbsp cold water and stir in until the sauce thickens.
+- Stir in the Sichuan pepper, chili flakes, and sesame oil. Garnish with spring onions
+  and serve with rice.

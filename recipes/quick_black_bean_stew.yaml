@@ -7,85 +7,84 @@ quick_minutes: 20
 meals: 2
 de:
   title: Schneller Schwarze-Bohnen-Eintopf
-  summary: |-
-    Rauchig-scharfer Schwarzbohnen-Eintopf mit Chipotle, Koriander und Limette — in 20 Minuten.
+  summary: Rauchig-scharfer Schwarzbohnen-Eintopf mit Chipotle, Koriander und Limette
+    — in 20 Minuten.
 en:
-  title: 'TODO: Schneller Schwarze-Bohnen-Eintopf'
-  summary: |-
-    TODO: Rauchig-scharfer Schwarzbohnen-Eintopf mit Chipotle, Koriander und Limette — in 20 Minuten.
+  title: Quick Black Bean Stew
+  summary: Smoky, spicy black bean stew with chipotle, cilantro, and lime — on the
+    table in 20 minutes.
 ingredients:
 - de_name: Schwarze Bohnen, abgetropft
-  en_name: 'TODO: Schwarze Bohnen, abgetropft'
+  en_name: Black beans, drained
   qty: 2
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Gehackte Tomaten
-  en_name: 'TODO: Gehackte Tomaten'
+  en_name: Chopped tomatoes
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Gemüsebrühe
-  en_name: 'TODO: Gemüsebrühe'
+  en_name: Vegetable broth
   qty: 400
   unit: ml
   category: Konserven und Vorrat
 - de_name: Chipotle-Paste
-  en_name: 'TODO: Chipotle-Paste'
+  en_name: Chipotle paste
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Frischer Koriander
-  en_name: 'TODO: Frischer Koriander'
+  en_name: Fresh cilantro
   qty: 1
   unit: Bund
   category: Gemüse und Salat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: Onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: Garlic cloves
   qty: 3
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Limette, Saft
-  en_name: 'TODO: Limette, Saft'
+  en_name: Lime, juice
   qty: 1
   unit: Stk
   category: Obst
 - de_name: Kreuzkümmel, gemahlen
-  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  en_name: Cumin, ground
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Geräuchertes Paprikapulver
-  en_name: 'TODO: Geräuchertes Paprikapulver'
+  en_name: Smoked paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: Salt
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
 - Zwiebel würfeln und Knoblauch hacken. In Olivenöl 3 Minuten anschwitzen.
 - Kreuzkümmel, geräuchertes Paprika und Chipotle-Paste einrühren, 1 Minute rösten.
-- |-
-  Bohnen, Tomaten und Brühe hinzufügen. Aufkochen und 12 Minuten köcheln lassen. Ein Viertel der Bohnen mit einer Gabel zerdrücken, um die Suppe zu binden.
-- |-
-  Vom Herd nehmen, Limettensaft einrühren, mit Salz abschmecken und mit frisch gehacktem Koriander servieren.
+- Bohnen, Tomaten und Brühe hinzufügen. Aufkochen und 12 Minuten köcheln lassen. Ein
+  Viertel der Bohnen mit einer Gabel zerdrücken, um die Suppe zu binden.
+- Vom Herd nehmen, Limettensaft einrühren, mit Salz abschmecken und mit frisch gehacktem
+  Koriander servieren.
 en_steps:
-- 'TODO: Zwiebel würfeln und Knoblauch hacken. In Olivenöl 3 Minuten anschwitzen.'
-- |-
-  TODO: Kreuzkümmel, geräuchertes Paprika und Chipotle-Paste einrühren, 1 Minute rösten.
-- |-
-  TODO: Bohnen, Tomaten und Brühe hinzufügen. Aufkochen und 12 Minuten köcheln lassen. Ein Viertel der Bohnen mit einer Gabel zerdrücken, um die Suppe zu binden.
-- |-
-  TODO: Vom Herd nehmen, Limettensaft einrühren, mit Salz abschmecken und mit frisch gehacktem Koriander servieren.
+- Dice the onion and chop the garlic. Sauté in olive oil for 3 minutes.
+- Stir in the cumin, smoked paprika, and chipotle paste, and toast for 1 minute.
+- Add the beans, tomatoes, and broth. Bring to a boil and simmer for 12 minutes. Mash
+  a quarter of the beans with a fork to thicken the stew.
+- Remove from the heat, stir in the lime juice, season with salt, and serve with freshly
+  chopped cilantro.

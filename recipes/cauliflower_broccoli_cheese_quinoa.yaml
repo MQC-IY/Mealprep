@@ -9,46 +9,47 @@ de:
   title: Quinoa mit Blumenkohl und Brokkoli
   summary: Auflauf mit Quinoa, Blumenkohl, Brokkoli und etwas Käse.
 en:
-  title: 'TODO: Quinoa mit Blumenkohl und Brokkoli'
-  summary: 'TODO: Auflauf mit Quinoa, Blumenkohl, Brokkoli und etwas Käse.'
+  title: Quinoa Bake with Cauliflower and Broccoli
+  summary: A baked dish with quinoa, cauliflower, broccoli, and a touch of melted
+    cheese.
 ingredients:
 - de_name: Quinoa
-  en_name: 'TODO: Quinoa'
+  en_name: quinoa
   qty: 260
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Blumenkohl
-  en_name: 'TODO: Blumenkohl'
+  en_name: cauliflower
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Brokkoli
-  en_name: 'TODO: Brokkoli'
+  en_name: broccoli
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Eier
-  en_name: 'TODO: Eier'
+  en_name: eggs
   qty: 3
   unit: Stk
   category: Protein und Milchprodukte
 - de_name: Naturjoghurt
-  en_name: 'TODO: Naturjoghurt'
+  en_name: plain yogurt
   qty: 180
   unit: g
   category: Protein und Milchprodukte
 - de_name: Gouda gerieben
-  en_name: 'TODO: Gouda gerieben'
+  en_name: grated Gouda
   qty: 70
   unit: g
   category: Protein und Milchprodukte
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -57,6 +58,7 @@ de_steps:
 - Blumenkohl und Brokkoli weich vorgaren.
 - Alles in eine Form geben, Eier mit Joghurt verrühren und darübergeben.
 en_steps:
-- 'TODO: Quinoa vorgaren.'
-- 'TODO: Blumenkohl und Brokkoli weich vorgaren.'
-- 'TODO: Alles in eine Form geben, Eier mit Joghurt verrühren und darübergeben.'
+- Par-cook the quinoa.
+- Par-cook the cauliflower and broccoli until just tender.
+- Place everything in a baking dish, whisk the eggs with the yogurt, and pour over
+  the top.

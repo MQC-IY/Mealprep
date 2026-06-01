@@ -6,113 +6,111 @@ next_day: true
 meals: 2
 de:
   title: Hähnchen-Zosui (Japanischer Reisbrei)
-  summary: |-
-    Sanfter japanischer Reisbrei mit zartem Hähnchen, Ei, Pilzen und Miso in kräftiger Dashi-Brühe.
+  summary: Sanfter japanischer Reisbrei mit zartem Hähnchen, Ei, Pilzen und Miso in
+    kräftiger Dashi-Brühe.
 en:
-  title: 'TODO: Hähnchen-Zosui (Japanischer Reisbrei)'
-  summary: |-
-    TODO: Sanfter japanischer Reisbrei mit zartem Hähnchen, Ei, Pilzen und Miso in kräftiger Dashi-Brühe.
+  title: Chicken Zosui (Japanese Rice Porridge)
+  summary: A gentle Japanese rice porridge with tender chicken, egg, mushrooms, and
+    miso in a rich dashi broth.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: Chicken breast
   qty: 500
   unit: g
   category: Protein und Milchprodukte
 - de_name: Eier
-  en_name: 'TODO: Eier'
+  en_name: Eggs
   qty: 3
   unit: Stk
   category: Protein und Milchprodukte
 - de_name: Shiitake-Pilze (frisch)
-  en_name: 'TODO: Shiitake-Pilze (frisch)'
+  en_name: Fresh shiitake mushrooms
   qty: 150
   unit: g
   category: Gemüse und Salat
 - de_name: Frühlingszwiebeln
-  en_name: 'TODO: Frühlingszwiebeln'
+  en_name: Spring onions
   qty: 1
   unit: Bund
   category: Gemüse und Salat
 - de_name: Ingwer (frisch)
-  en_name: 'TODO: Ingwer (frisch)'
+  en_name: Fresh ginger
   qty: 20
   unit: g
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: Garlic cloves
   qty: 2
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Gekochter Reis (vom Vortag)
-  en_name: 'TODO: Gekochter Reis (vom Vortag)'
+  en_name: Cooked rice (day-old)
   qty: 600
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Dashi-Brühe
-  en_name: 'TODO: Dashi-Brühe'
+  en_name: Dashi broth
   qty: 1.2
   unit: Liter
   category: Konserven und Vorrat
 - de_name: Shiro-Miso
-  en_name: 'TODO: Shiro-Miso'
+  en_name: Shiro miso (white miso)
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sojasoße
-  en_name: 'TODO: Sojasoße'
+  en_name: Soy sauce
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sake
-  en_name: 'TODO: Sake'
+  en_name: Sake
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Mirin
-  en_name: 'TODO: Mirin'
+  en_name: Mirin
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sesamöl
-  en_name: 'TODO: Sesamöl'
+  en_name: Sesame oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Shichimi-Togarashi
-  en_name: 'TODO: Shichimi-Togarashi'
+  en_name: Shichimi togarashi
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Weißer Pfeffer
-  en_name: 'TODO: Weißer Pfeffer'
+  en_name: White pepper
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Hähnchenbrust mit Ingwerscheiben, Knoblauch und Sake in der Dashi-Brühe bei mittlerer Hitze 15 Minuten pochieren. Hähnchen herausnehmen und zerzupfen. Brühe aufbewahren.
-- |-
-  Brühe erneut aufkochen. Shiitake-Pilze in Scheiben dazugeben und 5 Minuten köcheln.
-- |-
-  Gekochten Reis dazugeben und verrühren. 10 Minuten bei niedriger Hitze köcheln, bis der Reis aufweicht.
-- |-
-  Miso-Paste in einer kleinen Schüssel mit etwas heißer Brühe glatt rühren und einrühren. Sojasoße und Mirin hinzufügen. Nicht mehr aufkochen.
+- Hähnchenbrust mit Ingwerscheiben, Knoblauch und Sake in der Dashi-Brühe bei mittlerer
+  Hitze 15 Minuten pochieren. Hähnchen herausnehmen und zerzupfen. Brühe aufbewahren.
+- Brühe erneut aufkochen. Shiitake-Pilze in Scheiben dazugeben und 5 Minuten köcheln.
+- Gekochten Reis dazugeben und verrühren. 10 Minuten bei niedriger Hitze köcheln,
+  bis der Reis aufweicht.
+- Miso-Paste in einer kleinen Schüssel mit etwas heißer Brühe glatt rühren und einrühren.
+  Sojasoße und Mirin hinzufügen. Nicht mehr aufkochen.
 - Zerzupftes Hähnchen zurückgeben.
-- |-
-  Eier verquirlen und in kreisenden Bewegungen in den leicht köchelnden Brei gießen. Sofort vom Herd nehmen und Eier 1 Minute sanft stocken lassen.
-- |-
-  Sesamöl einträufeln. In tiefe Schalen füllen, mit Frühlingszwiebeln und Shichimi-Togarashi bestreuen.
+- Eier verquirlen und in kreisenden Bewegungen in den leicht köchelnden Brei gießen.
+  Sofort vom Herd nehmen und Eier 1 Minute sanft stocken lassen.
+- Sesamöl einträufeln. In tiefe Schalen füllen, mit Frühlingszwiebeln und Shichimi-Togarashi
+  bestreuen.
 en_steps:
-- |-
-  TODO: Hähnchenbrust mit Ingwerscheiben, Knoblauch und Sake in der Dashi-Brühe bei mittlerer Hitze 15 Minuten pochieren. Hähnchen herausnehmen und zerzupfen. Brühe aufbewahren.
-- |-
-  TODO: Brühe erneut aufkochen. Shiitake-Pilze in Scheiben dazugeben und 5 Minuten köcheln.
-- |-
-  TODO: Gekochten Reis dazugeben und verrühren. 10 Minuten bei niedriger Hitze köcheln, bis der Reis aufweicht.
-- |-
-  TODO: Miso-Paste in einer kleinen Schüssel mit etwas heißer Brühe glatt rühren und einrühren. Sojasoße und Mirin hinzufügen. Nicht mehr aufkochen.
-- 'TODO: Zerzupftes Hähnchen zurückgeben.'
-- |-
-  TODO: Eier verquirlen und in kreisenden Bewegungen in den leicht köchelnden Brei gießen. Sofort vom Herd nehmen und Eier 1 Minute sanft stocken lassen.
-- |-
-  TODO: Sesamöl einträufeln. In tiefe Schalen füllen, mit Frühlingszwiebeln und Shichimi-Togarashi bestreuen.
+- Poach the chicken breast with slices of ginger, garlic, and sake in the dashi broth
+  over medium heat for 15 minutes. Remove the chicken and shred it. Reserve the broth.
+- Bring the broth back to a boil. Add the sliced shiitake mushrooms and simmer for
+  5 minutes.
+- Stir in the cooked rice. Simmer over low heat for 10 minutes until the rice softens.
+- Dissolve the miso paste in a small bowl with a little hot broth, then stir into
+  the pot. Add the soy sauce and mirin. Do not boil again.
+- Return the shredded chicken.
+- Beat the eggs and pour them in a thin, circular stream into the gently simmering
+  porridge. Remove from the heat immediately and let the eggs set gently for 1 minute.
+- Drizzle with sesame oil. Ladle into deep bowls and scatter over spring onions and
+  shichimi togarashi.

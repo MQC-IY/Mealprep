@@ -9,46 +9,46 @@ de:
   title: Puten-Orzo-Pfanne mit Champignons
   summary: Schnelle Orzo-Pfanne mit Putenhack, Champignons und Möhren.
 en:
-  title: 'TODO: Puten-Orzo-Pfanne mit Champignons'
-  summary: 'TODO: Schnelle Orzo-Pfanne mit Putenhack, Champignons und Möhren.'
+  title: Turkey Orzo Skillet with Mushrooms
+  summary: A quick orzo skillet with ground turkey, mushrooms, and carrots.
 ingredients:
 - de_name: Putenhack
-  en_name: 'TODO: Putenhack'
+  en_name: ground turkey
   qty: 650
   unit: g
   category: Protein und Milchprodukte
 - de_name: Orzo oder Kritharaki
-  en_name: 'TODO: Orzo oder Kritharaki'
+  en_name: orzo (kritharaki)
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Champignons
-  en_name: 'TODO: Champignons'
+  en_name: mushrooms
   qty: 250
   unit: g
   category: Gemüse und Salat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: carrots
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Frischkäse natur
-  en_name: 'TODO: Frischkäse natur'
+  en_name: plain cream cheese
   qty: 100
   unit: g
   category: Protein und Milchprodukte
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -57,6 +57,6 @@ de_steps:
 - Putenhack mit Zwiebel scharf anbraten.
 - Champignons und Möhren zugeben und weich garen.
 en_steps:
-- 'TODO: Orzo weich garen.'
-- 'TODO: Putenhack mit Zwiebel scharf anbraten.'
-- 'TODO: Champignons und Möhren zugeben und weich garen.'
+- Cook the orzo until tender.
+- Brown the ground turkey with the onion over high heat.
+- Add the mushrooms and carrots and cook until tender.

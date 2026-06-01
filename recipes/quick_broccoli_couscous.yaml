@@ -9,36 +9,37 @@ de:
   title: Schneller Couscous mit Brokkoli
   summary: Sehr schnelles Couscousgericht mit Brokkoli, Bohnen und Joghurt.
 en:
-  title: 'TODO: Schneller Couscous mit Brokkoli'
-  summary: 'TODO: Sehr schnelles Couscousgericht mit Brokkoli, Bohnen und Joghurt.'
+  title: Quick Broccoli Couscous
+  summary: A very quick couscous dish with broccoli, white beans, and yogurt — fresh
+    and satisfying.
 ingredients:
 - de_name: Couscous
-  en_name: 'TODO: Couscous'
+  en_name: Couscous
   qty: 280
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Brokkoli
-  en_name: 'TODO: Brokkoli'
+  en_name: Broccoli
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Weiße Bohnen
-  en_name: 'TODO: Weiße Bohnen'
+  en_name: White beans
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Naturjoghurt
-  en_name: 'TODO: Naturjoghurt'
+  en_name: Plain yogurt
   qty: 150
   unit: g
   category: Protein und Milchprodukte
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -47,6 +48,6 @@ de_steps:
 - Brokkoli weich garen und Bohnen kurz erwärmen.
 - Mit Joghurt mischen.
 en_steps:
-- 'TODO: Couscous quellen lassen.'
-- 'TODO: Brokkoli weich garen und Bohnen kurz erwärmen.'
-- 'TODO: Mit Joghurt mischen.'
+- Steep the couscous in boiling water or broth according to package instructions.
+- Cook the broccoli until tender and briefly warm the beans.
+- Combine everything and mix in the yogurt.

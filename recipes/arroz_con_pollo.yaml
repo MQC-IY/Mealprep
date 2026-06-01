@@ -6,108 +6,107 @@ next_day: true
 meals: 3
 de:
   title: Arroz con Pollo – Hähnchen-Reis-Pfanne
-  summary: |-
-    Klassisches lateinamerikanisches Reisgericht mit Hähnchenstücken, Paprika, Tomaten, Erbsen und aromatischem Safran oder Kurkuma.
+  summary: Klassisches lateinamerikanisches Reisgericht mit Hähnchenstücken, Paprika,
+    Tomaten, Erbsen und aromatischem Safran oder Kurkuma.
 en:
-  title: 'TODO: Arroz con Pollo – Hähnchen-Reis-Pfanne'
-  summary: |-
-    TODO: Klassisches lateinamerikanisches Reisgericht mit Hähnchenstücken, Paprika, Tomaten, Erbsen und aromatischem Safran oder Kurkuma.
+  title: Arroz con Pollo – Chicken and Rice Pan
+  summary: Classic Latin American rice dish with chicken pieces, bell peppers, tomatoes,
+    peas, and fragrant saffron or turmeric.
 ingredients:
 - de_name: Hähnchenschenkel mit Knochen
-  en_name: 'TODO: Hähnchenschenkel mit Knochen'
+  en_name: chicken thighs, bone-in
   qty: 1200
   unit: g
   category: Protein und Milchprodukte
 - de_name: Langkornreis
-  en_name: 'TODO: Langkornreis'
+  en_name: long-grain rice
   qty: 350
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: chicken stock
   qty: 700
   unit: ml
   category: Konserven und Vorrat
 - de_name: Gehackte Tomaten
-  en_name: 'TODO: Gehackte Tomaten'
+  en_name: chopped tomatoes
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Paprika, rot und grün
-  en_name: 'TODO: Paprika, rot und grün'
+  en_name: bell peppers, red and green
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 5
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Tiefgekühlte Erbsen
-  en_name: 'TODO: Tiefgekühlte Erbsen'
+  en_name: frozen peas
   qty: 150
   unit: g
   category: Gemüse und Salat
 - de_name: Kreuzkümmel, gemahlen
-  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  en_name: cumin, ground
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Paprika edelsüß
-  en_name: 'TODO: Paprika edelsüß'
+  en_name: sweet paprika
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Kurkuma
-  en_name: 'TODO: Kurkuma'
+  en_name: turmeric
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Oregano
-  en_name: 'TODO: Oregano'
+  en_name: oregano
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Hähnchenstücke salzen und pfeffern. Öl in einer tiefen Pfanne oder einem weiten Topf bei hoher Hitze erhitzen. Hähnchen portionsweise von allen Seiten 4–5 Minuten goldbraun anbraten, herausnehmen.
-- |-
-  Hitze reduzieren, Zwiebeln und Paprika in derselben Pfanne 5 Minuten weich garen. Knoblauch zugeben und 1 Minute mitrösten.
-- |-
-  Kreuzkümmel, Paprika edelsüß, Kurkuma, Oregano und Chiliflocken einrühren und 30 Sekunden rösten.
+- Hähnchenstücke salzen und pfeffern. Öl in einer tiefen Pfanne oder einem weiten
+  Topf bei hoher Hitze erhitzen. Hähnchen portionsweise von allen Seiten 4–5 Minuten
+  goldbraun anbraten, herausnehmen.
+- Hitze reduzieren, Zwiebeln und Paprika in derselben Pfanne 5 Minuten weich garen.
+  Knoblauch zugeben und 1 Minute mitrösten.
+- Kreuzkümmel, Paprika edelsüß, Kurkuma, Oregano und Chiliflocken einrühren und 30
+  Sekunden rösten.
 - Reis zugeben und 2 Minuten unter Rühren anrösten.
-- |-
-  Gehackte Tomaten und Hühnerbrühe einrühren, aufkochen. Hähnchenstücke oben auf den Reis legen.
-- |-
-  Hitze auf niedrig reduzieren, Deckel drauf und 25–30 Minuten garen bis der Reis die Flüssigkeit aufgesogen hat und das Hähnchen gar ist.
-- |-
-  Erbsen unterrühren und 3 Minuten mitgaren. Mit Salz abschmecken und heiß servieren.
+- Gehackte Tomaten und Hühnerbrühe einrühren, aufkochen. Hähnchenstücke oben auf den
+  Reis legen.
+- Hitze auf niedrig reduzieren, Deckel drauf und 25–30 Minuten garen bis der Reis
+  die Flüssigkeit aufgesogen hat und das Hähnchen gar ist.
+- Erbsen unterrühren und 3 Minuten mitgaren. Mit Salz abschmecken und heiß servieren.
 en_steps:
-- |-
-  TODO: Hähnchenstücke salzen und pfeffern. Öl in einer tiefen Pfanne oder einem weiten Topf bei hoher Hitze erhitzen. Hähnchen portionsweise von allen Seiten 4–5 Minuten goldbraun anbraten, herausnehmen.
-- |-
-  TODO: Hitze reduzieren, Zwiebeln und Paprika in derselben Pfanne 5 Minuten weich garen. Knoblauch zugeben und 1 Minute mitrösten.
-- |-
-  TODO: Kreuzkümmel, Paprika edelsüß, Kurkuma, Oregano und Chiliflocken einrühren und 30 Sekunden rösten.
-- 'TODO: Reis zugeben und 2 Minuten unter Rühren anrösten.'
-- |-
-  TODO: Gehackte Tomaten und Hühnerbrühe einrühren, aufkochen. Hähnchenstücke oben auf den Reis legen.
-- |-
-  TODO: Hitze auf niedrig reduzieren, Deckel drauf und 25–30 Minuten garen bis der Reis die Flüssigkeit aufgesogen hat und das Hähnchen gar ist.
-- |-
-  TODO: Erbsen unterrühren und 3 Minuten mitgaren. Mit Salz abschmecken und heiß servieren.
+- Season chicken pieces with salt and pepper. Heat oil in a deep pan or wide pot over
+  high heat. Brown chicken in batches on all sides for 4–5 minutes; remove.
+- Reduce heat, cook onions and bell peppers in the same pan for 5 minutes until soft.
+  Add garlic and toast for 1 minute.
+- Stir in cumin, sweet paprika, turmeric, oregano, and chili flakes; toast for 30
+  seconds.
+- Add rice and stir-fry for 2 minutes.
+- Stir in chopped tomatoes and chicken stock; bring to the boil. Place chicken pieces
+  on top of the rice.
+- Reduce heat to low, cover, and cook for 25–30 minutes until the rice has absorbed
+  the liquid and the chicken is cooked through.
+- Stir in peas and cook for a further 3 minutes. Season with salt and serve hot.

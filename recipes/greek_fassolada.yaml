@@ -6,109 +6,109 @@ next_day: true
 meals: 2
 de:
   title: Griechischer Fassolada – Weißbohneneintopf
-  summary: |-
-    Griechenlands Nationalsuppe: Cannellini-Bohnen in reichhaltigem Olivenöl mit Sellerie, Karotten und Oregano – einfach, sättigend und voller Charakter.
+  summary: 'Griechenlands Nationalsuppe: Cannellini-Bohnen in reichhaltigem Olivenöl
+    mit Sellerie, Karotten und Oregano – einfach, sättigend und voller Charakter.'
 en:
-  title: 'TODO: Griechischer Fassolada – Weißbohneneintopf'
-  summary: |-
-    TODO: Griechenlands Nationalsuppe: Cannellini-Bohnen in reichhaltigem Olivenöl mit Sellerie, Karotten und Oregano – einfach, sättigend und voller Charakter.
+  title: Fassolada – Greek White Bean Soup
+  summary: 'Greece''s national soup: cannellini beans in generous olive oil with celery,
+    carrots, and oregano — simple, satisfying, and full of character.'
 ingredients:
 - de_name: Cannellini-Bohnen (Dose)
-  en_name: 'TODO: Cannellini-Bohnen (Dose)'
+  en_name: Cannellini beans (canned)
   qty: 2
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Gehackte Tomaten
-  en_name: 'TODO: Gehackte Tomaten'
+  en_name: Chopped tomatoes (canned)
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Tomatenmark
-  en_name: 'TODO: Tomatenmark'
+  en_name: Tomato purée
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 6
   unit: EL
   category: Konserven und Vorrat
 - de_name: Gemüsebrühe
-  en_name: 'TODO: Gemüsebrühe'
+  en_name: Vegetable stock
   qty: 600
   unit: ml
   category: Konserven und Vorrat
 - de_name: Zwiebeln
-  en_name: 'TODO: Zwiebeln'
+  en_name: Onions
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Selleriestangen
-  en_name: 'TODO: Selleriestangen'
+  en_name: Celery stalks
   qty: 3
   unit: Stange
   category: Gemüse und Salat
 - de_name: Karotten
-  en_name: 'TODO: Karotten'
+  en_name: Carrots
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: Garlic cloves
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Glatte Petersilie
-  en_name: 'TODO: Glatte Petersilie'
+  en_name: Flat-leaf parsley
   qty: 1
   unit: Bund
   category: Gemüse und Salat
 - de_name: Zitronensaft
-  en_name: 'TODO: Zitronensaft'
+  en_name: Lemon juice
   qty: 2
   unit: EL
   category: Obst
 - de_name: Getrockneter Oregano
-  en_name: 'TODO: Getrockneter Oregano'
+  en_name: Dried oregano
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chilli flakes
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: Salt
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: Black pepper
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Zwiebeln würfeln, Karotten in Scheiben schneiden, Sellerie schräg schneiden. 4 EL Olivenöl in einem großen Topf erhitzen und Zwiebeln 5 Minuten weich dünsten.
-- |-
-  Karotten, Sellerie und Knoblauch hinzufügen. Weitere 5 Minuten unter Rühren anschwitzen. Tomatenmark und Chiliflocken einrühren und 2 Minuten mitrösten.
-- |-
-  Gehackte Tomaten, Gemüsebrühe und abgetropfte Bohnen hinzufügen. Oregano, Salz und Pfeffer einrühren.
-- |-
-  Zum Kochen bringen, dann Hitze reduzieren und zugedeckt 30 Minuten köcheln lassen, bis Karotten und Sellerie weich sind.
-- |-
-  Restliches Olivenöl (2 EL) und Zitronensaft einrühren. Großzügig Petersilie einrühren. Abschmecken.
+- Zwiebeln würfeln, Karotten in Scheiben schneiden, Sellerie schräg schneiden. 4 EL
+  Olivenöl in einem großen Topf erhitzen und Zwiebeln 5 Minuten weich dünsten.
+- Karotten, Sellerie und Knoblauch hinzufügen. Weitere 5 Minuten unter Rühren anschwitzen.
+  Tomatenmark und Chiliflocken einrühren und 2 Minuten mitrösten.
+- Gehackte Tomaten, Gemüsebrühe und abgetropfte Bohnen hinzufügen. Oregano, Salz und
+  Pfeffer einrühren.
+- Zum Kochen bringen, dann Hitze reduzieren und zugedeckt 30 Minuten köcheln lassen,
+  bis Karotten und Sellerie weich sind.
+- Restliches Olivenöl (2 EL) und Zitronensaft einrühren. Großzügig Petersilie einrühren.
+  Abschmecken.
 - Mit crustigem Brot und Kalamata-Oliven servieren.
 en_steps:
-- |-
-  TODO: Zwiebeln würfeln, Karotten in Scheiben schneiden, Sellerie schräg schneiden. 4 EL Olivenöl in einem großen Topf erhitzen und Zwiebeln 5 Minuten weich dünsten.
-- |-
-  TODO: Karotten, Sellerie und Knoblauch hinzufügen. Weitere 5 Minuten unter Rühren anschwitzen. Tomatenmark und Chiliflocken einrühren und 2 Minuten mitrösten.
-- |-
-  TODO: Gehackte Tomaten, Gemüsebrühe und abgetropfte Bohnen hinzufügen. Oregano, Salz und Pfeffer einrühren.
-- |-
-  TODO: Zum Kochen bringen, dann Hitze reduzieren und zugedeckt 30 Minuten köcheln lassen, bis Karotten und Sellerie weich sind.
-- |-
-  TODO: Restliches Olivenöl (2 EL) und Zitronensaft einrühren. Großzügig Petersilie einrühren. Abschmecken.
-- 'TODO: Mit crustigem Brot und Kalamata-Oliven servieren.'
+- Dice the onions, slice the carrots, and cut the celery on the diagonal. Heat 4 tbsp
+  olive oil in a large pot and sweat the onions for 5 minutes until soft.
+- Add the carrots, celery, and garlic. Stir and sweat for a further 5 minutes. Stir
+  in the tomato purée and chilli flakes and fry for 2 minutes.
+- Add the chopped tomatoes, vegetable stock, and drained beans. Stir in the oregano,
+  salt, and pepper.
+- Bring to a boil, then reduce the heat and simmer covered for 30 minutes until the
+  carrots and celery are tender.
+- Stir in the remaining olive oil (2 tbsp) and the lemon juice. Stir in plenty of
+  parsley. Season to taste.
+- Serve with crusty bread and Kalamata olives.

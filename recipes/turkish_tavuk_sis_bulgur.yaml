@@ -6,130 +6,132 @@ next_day: false
 meals: 2
 de:
   title: Türkisches Tavuk Şiş mit Bulgur und Tzatziki
-  summary: |-
-    Saftige türkische Hähnchen-Spieße in einer Joghurt-Gewürzmarinade, gegrillt und auf fluffigem Bulgur mit hausgemachtem Tzatziki serviert.
+  summary: Saftige türkische Hähnchen-Spieße in einer Joghurt-Gewürzmarinade, gegrillt
+    und auf fluffigem Bulgur mit hausgemachtem Tzatziki serviert.
 en:
-  title: 'TODO: Türkisches Tavuk Şiş mit Bulgur und Tzatziki'
-  summary: |-
-    TODO: Saftige türkische Hähnchen-Spieße in einer Joghurt-Gewürzmarinade, gegrillt und auf fluffigem Bulgur mit hausgemachtem Tzatziki serviert.
+  title: Turkish Tavuk Şiş with Bulgur and Tzatziki
+  summary: Juicy Turkish chicken skewers marinated in a spiced yogurt blend, grilled
+    and served on fluffy bulgur with homemade tzatziki.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 600
   unit: g
   category: Protein und Milchprodukte
 - de_name: Vollfett-Joghurt
-  en_name: 'TODO: Vollfett-Joghurt'
+  en_name: full-fat yogurt
   qty: 150
   unit: g
   category: Protein und Milchprodukte
 - de_name: Gurke
-  en_name: 'TODO: Gurke'
+  en_name: cucumber
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zwiebeln
-  en_name: 'TODO: Zwiebeln'
+  en_name: onions
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Frische Minzblätter
-  en_name: 'TODO: Frische Minzblätter'
+  en_name: fresh mint leaves
   qty: 0.5
   unit: Bund
   category: Gemüse und Salat
 - de_name: Frische Petersilie
-  en_name: 'TODO: Frische Petersilie'
+  en_name: fresh parsley
   qty: 0.5
   unit: Bund
   category: Gemüse und Salat
 - de_name: Tomate
-  en_name: 'TODO: Tomate'
+  en_name: tomato
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zitrone
-  en_name: 'TODO: Zitrone'
+  en_name: lemon
   qty: 1
   unit: Stk
   category: Obst
 - de_name: Grober Bulgur
-  en_name: 'TODO: Grober Bulgur'
+  en_name: coarse bulgur
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Gemüsebrühe
-  en_name: 'TODO: Gemüsebrühe'
+  en_name: vegetable broth
   qty: 400
   unit: ml
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 4
   unit: EL
   category: Konserven und Vorrat
 - de_name: Paprikapulver
-  en_name: 'TODO: Paprikapulver'
+  en_name: paprika
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Kreuzkümmel, gemahlen
-  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  en_name: ground cumin
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Oregano, getrocknet
-  en_name: 'TODO: Oregano, getrocknet'
+  en_name: dried oregano
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chilipulver
-  en_name: 'TODO: Chilipulver'
+  en_name: chili powder
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Sumach
-  en_name: 'TODO: Sumach'
+  en_name: sumac
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Hähnchen in gleichmäßige Würfel schneiden. Marinade herstellen: 100 g Joghurt, 2 EL Olivenöl, Paprika, Kreuzkümmel, Oregano, Chili, Salz, Pfeffer und Zitronensaft vermischen. Hähnchen mindestens 2 Stunden marinieren.
-- |-
-  Für den Tzatziki: Gurke reiben, ausdrücken. Mit 50 g Joghurt, geriebenem Knoblauch, Minze, einem Spritzer Zitronensaft und Salz vermengen. Kühl stellen.
-- |-
-  Bulgur mit Gemüsebrühe aufkochen, Hitze reduzieren, 10 Minuten quellen lassen. Mit Gabel auflockern, Sumach und Petersilie unterrühren.
-- |-
-  Hähnchen auf Spieße stecken. Auf einem heißen Grill oder in einer Grillpfanne 10–12 Minuten grillen, dabei mehrmals wenden, bis leicht angebrannt und durchgegart.
+- 'Hähnchen in gleichmäßige Würfel schneiden. Marinade herstellen: 100 g Joghurt,
+  2 EL Olivenöl, Paprika, Kreuzkümmel, Oregano, Chili, Salz, Pfeffer und Zitronensaft
+  vermischen. Hähnchen mindestens 2 Stunden marinieren.'
+- 'Für den Tzatziki: Gurke reiben, ausdrücken. Mit 50 g Joghurt, geriebenem Knoblauch,
+  Minze, einem Spritzer Zitronensaft und Salz vermengen. Kühl stellen.'
+- Bulgur mit Gemüsebrühe aufkochen, Hitze reduzieren, 10 Minuten quellen lassen. Mit
+  Gabel auflockern, Sumach und Petersilie unterrühren.
+- Hähnchen auf Spieße stecken. Auf einem heißen Grill oder in einer Grillpfanne 10–12
+  Minuten grillen, dabei mehrmals wenden, bis leicht angebrannt und durchgegart.
 - Zwiebeln und Tomaten in Scheiben schneiden, mit Sumach und Olivenöl marinieren.
-- |-
-  Bulgur auf Teller verteilen. Spieße darauflegen. Mit Tomaten-Zwiebel-Salat und Tzatziki servieren.
+- Bulgur auf Teller verteilen. Spieße darauflegen. Mit Tomaten-Zwiebel-Salat und Tzatziki
+  servieren.
 en_steps:
-- |-
-  TODO: Hähnchen in gleichmäßige Würfel schneiden. Marinade herstellen: 100 g Joghurt, 2 EL Olivenöl, Paprika, Kreuzkümmel, Oregano, Chili, Salz, Pfeffer und Zitronensaft vermischen. Hähnchen mindestens 2 Stunden marinieren.
-- |-
-  TODO: Für den Tzatziki: Gurke reiben, ausdrücken. Mit 50 g Joghurt, geriebenem Knoblauch, Minze, einem Spritzer Zitronensaft und Salz vermengen. Kühl stellen.
-- |-
-  TODO: Bulgur mit Gemüsebrühe aufkochen, Hitze reduzieren, 10 Minuten quellen lassen. Mit Gabel auflockern, Sumach und Petersilie unterrühren.
-- |-
-  TODO: Hähnchen auf Spieße stecken. Auf einem heißen Grill oder in einer Grillpfanne 10–12 Minuten grillen, dabei mehrmals wenden, bis leicht angebrannt und durchgegart.
-- |-
-  TODO: Zwiebeln und Tomaten in Scheiben schneiden, mit Sumach und Olivenöl marinieren.
-- |-
-  TODO: Bulgur auf Teller verteilen. Spieße darauflegen. Mit Tomaten-Zwiebel-Salat und Tzatziki servieren.
+- 'Cut the chicken into even cubes. Make the marinade: combine 100 g yogurt, 2 tbsp
+  olive oil, paprika, cumin, oregano, chili, salt, pepper, and lemon juice. Marinate
+  the chicken for at least 2 hours.'
+- 'For the tzatziki: grate the cucumber and squeeze out the moisture. Mix with 50
+  g yogurt, grated garlic, mint, a squeeze of lemon juice, and salt. Refrigerate until
+  needed.'
+- Bring the bulgur to a boil with the vegetable broth, reduce the heat, and let soak
+  for 10 minutes. Fluff with a fork and stir in the sumac and parsley.
+- Thread the chicken onto skewers. Grill on a hot grill or in a grill pan for 10–12
+  minutes, turning several times, until slightly charred and cooked through.
+- Slice the onions and tomatoes, then toss with sumac and olive oil.
+- Plate the bulgur, lay the skewers on top, and serve with the tomato-onion salad
+  and tzatziki.

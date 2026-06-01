@@ -6,111 +6,117 @@ next_day: true
 meals: 2
 de:
   title: Patlıcan Musakka – Türkische Auberginen-Moussaka
-  summary: |-
-    Saftige Auberginenschichten mit würzigem Rinderhackfleisch und Tomatensauce, überbacken – der türkische Klassiker ohne Béchamel.
+  summary: Saftige Auberginenschichten mit würzigem Rinderhackfleisch und Tomatensauce,
+    überbacken – der türkische Klassiker ohne Béchamel.
 en:
-  title: 'TODO: Patlıcan Musakka – Türkische Auberginen-Moussaka'
-  summary: |-
-    TODO: Saftige Auberginenschichten mit würzigem Rinderhackfleisch und Tomatensauce, überbacken – der türkische Klassiker ohne Béchamel.
+  title: Patlıcan Musakka – Turkish Aubergine Moussaka
+  summary: Juicy layers of aubergine with spiced minced beef and tomato sauce, baked
+    together – the Turkish classic without béchamel.
 ingredients:
 - de_name: Rinderhackfleisch
-  en_name: 'TODO: Rinderhackfleisch'
+  en_name: minced beef
   qty: 400
   unit: g
   category: Protein und Milchprodukte
 - de_name: Auberginen
-  en_name: 'TODO: Auberginen'
+  en_name: aubergines
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Tomaten
-  en_name: 'TODO: Tomaten'
+  en_name: tomatoes
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Grüne Paprikaschote
-  en_name: 'TODO: Grüne Paprikaschote'
+  en_name: green bell pepper
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zwiebeln
-  en_name: 'TODO: Zwiebeln'
+  en_name: onions
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Gehackte Tomaten
-  en_name: 'TODO: Gehackte Tomaten'
+  en_name: chopped tomatoes
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Tomatenmark
-  en_name: 'TODO: Tomatenmark'
+  en_name: tomato paste
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 5
   unit: EL
   category: Konserven und Vorrat
 - de_name: Pul Biber (Aleppo-Pfeffer)
-  en_name: 'TODO: Pul Biber (Aleppo-Pfeffer)'
+  en_name: pul biber (Aleppo pepper)
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Paprikapulver, süß
-  en_name: 'TODO: Paprikapulver, süß'
+  en_name: sweet paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Getrockneter Oregano
-  en_name: 'TODO: Getrockneter Oregano'
+  en_name: dried oregano
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Zimt, gemahlen
-  en_name: 'TODO: Zimt, gemahlen'
+  en_name: ground cinnamon
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Auberginen längs in 1 cm dicke Scheiben schneiden. Mit Salz bestreuen und 20 Minuten Wasser ziehen lassen. Abspülen und trocken tupfen.
-- |-
-  Auberginenscheiben auf beiden Seiten mit Olivenöl (3 EL) bepinseln und in einer Grillpfanne oder im Ofen bei 220 °C auf einem Blech 15 Minuten grillen, bis sie goldbraun sind.
-- |-
-  Restliches Olivenöl erhitzen. Zwiebeln würfeln und 5 Minuten glasig dünsten. Rinderhack hinzufügen und krümelig braun anbraten. Knoblauch, Paprikapulver, Pul Biber, Pfeffer, Zimt einarbeiten.
-- |-
-  Tomatenmark unterrühren, 1 Minute rösten. Gehackte Tomaten und 50 ml Wasser hinzufügen. Mit Salz abschmecken, 10 Minuten einkochen lassen.
-- |-
-  Ofen auf 200 °C vorheizen. Eine Auflaufform fetten. Schichten aufbauen: Auberginenscheiben, dann Fleischsauce, nochmals Auberginen. Obenauf Tomatenscheiben und Paprikastreifen legen. Oregano darüber streuen.
-- |-
-  Auflauf 30 Minuten backen, bis die Oberfläche leicht gebräunt ist. 10 Minuten ruhen lassen, dann servieren.
+- Auberginen längs in 1 cm dicke Scheiben schneiden. Mit Salz bestreuen und 20 Minuten
+  Wasser ziehen lassen. Abspülen und trocken tupfen.
+- Auberginenscheiben auf beiden Seiten mit Olivenöl (3 EL) bepinseln und in einer
+  Grillpfanne oder im Ofen bei 220 °C auf einem Blech 15 Minuten grillen, bis sie
+  goldbraun sind.
+- Restliches Olivenöl erhitzen. Zwiebeln würfeln und 5 Minuten glasig dünsten. Rinderhack
+  hinzufügen und krümelig braun anbraten. Knoblauch, Paprikapulver, Pul Biber, Pfeffer,
+  Zimt einarbeiten.
+- Tomatenmark unterrühren, 1 Minute rösten. Gehackte Tomaten und 50 ml Wasser hinzufügen.
+  Mit Salz abschmecken, 10 Minuten einkochen lassen.
+- 'Ofen auf 200 °C vorheizen. Eine Auflaufform fetten. Schichten aufbauen: Auberginenscheiben,
+  dann Fleischsauce, nochmals Auberginen. Obenauf Tomatenscheiben und Paprikastreifen
+  legen. Oregano darüber streuen.'
+- Auflauf 30 Minuten backen, bis die Oberfläche leicht gebräunt ist. 10 Minuten ruhen
+  lassen, dann servieren.
 en_steps:
-- |-
-  TODO: Auberginen längs in 1 cm dicke Scheiben schneiden. Mit Salz bestreuen und 20 Minuten Wasser ziehen lassen. Abspülen und trocken tupfen.
-- |-
-  TODO: Auberginenscheiben auf beiden Seiten mit Olivenöl (3 EL) bepinseln und in einer Grillpfanne oder im Ofen bei 220 °C auf einem Blech 15 Minuten grillen, bis sie goldbraun sind.
-- |-
-  TODO: Restliches Olivenöl erhitzen. Zwiebeln würfeln und 5 Minuten glasig dünsten. Rinderhack hinzufügen und krümelig braun anbraten. Knoblauch, Paprikapulver, Pul Biber, Pfeffer, Zimt einarbeiten.
-- |-
-  TODO: Tomatenmark unterrühren, 1 Minute rösten. Gehackte Tomaten und 50 ml Wasser hinzufügen. Mit Salz abschmecken, 10 Minuten einkochen lassen.
-- |-
-  TODO: Ofen auf 200 °C vorheizen. Eine Auflaufform fetten. Schichten aufbauen: Auberginenscheiben, dann Fleischsauce, nochmals Auberginen. Obenauf Tomatenscheiben und Paprikastreifen legen. Oregano darüber streuen.
-- |-
-  TODO: Auflauf 30 Minuten backen, bis die Oberfläche leicht gebräunt ist. 10 Minuten ruhen lassen, dann servieren.
+- Cut the aubergines lengthways into 1 cm thick slices. Sprinkle with salt and leave
+  for 20 minutes to draw out moisture. Rinse and pat dry.
+- Brush the aubergine slices on both sides with olive oil (3 tbsp) and grill in a
+  grill pan or in the oven at 220 °C on a baking sheet for 15 minutes until golden
+  brown.
+- Heat the remaining olive oil. Dice the onions and sweat for 5 minutes until translucent.
+  Add the minced beef and fry until crumbly and browned. Work in the garlic, sweet
+  paprika, pul biber, black pepper and cinnamon.
+- Stir in the tomato paste and toast for 1 minute. Add the chopped tomatoes and 50
+  ml water. Season with salt and cook down for 10 minutes.
+- 'Preheat the oven to 200 °C. Grease a baking dish. Build up the layers: aubergine
+  slices, then meat sauce, then aubergine again. Top with tomato slices and pepper
+  strips. Sprinkle with oregano.'
+- Bake the moussaka for 30 minutes until the surface is lightly browned. Leave to
+  rest for 10 minutes before serving.

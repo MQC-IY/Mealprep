@@ -6,133 +6,132 @@ next_day: true
 meals: 2
 de:
   title: Thai Green Curry mit Hähnchen und Reis
-  summary: |-
-    Aromatisches grünes Thai-Curry mit saftigem Hähnchen, Kokosmilch, Kaffirlimettenblättern und Jasminreis.
+  summary: Aromatisches grünes Thai-Curry mit saftigem Hähnchen, Kokosmilch, Kaffirlimettenblättern
+    und Jasminreis.
 en:
-  title: 'TODO: Thai Green Curry mit Hähnchen und Reis'
-  summary: |-
-    TODO: Aromatisches grünes Thai-Curry mit saftigem Hähnchen, Kokosmilch, Kaffirlimettenblättern und Jasminreis.
+  title: Thai Green Curry with Chicken and Rice
+  summary: Aromatic Thai Green Curry with succulent chicken, coconut milk, kaffir
+    lime leaves and jasmine rice.
 ingredients:
 - de_name: Hähnchenbrustfilet
-  en_name: 'TODO: Hähnchenbrustfilet'
+  en_name: chicken breast fillet
   qty: 400
   unit: g
   category: Protein und Milchprodukte
 - de_name: Kokosmilch
-  en_name: 'TODO: Kokosmilch'
+  en_name: coconut milk
   qty: 400
   unit: ml
   category: Konserven und Vorrat
 - de_name: Grüne Currypaste
-  en_name: 'TODO: Grüne Currypaste'
+  en_name: green curry paste
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Fischsauce
-  en_name: 'TODO: Fischsauce'
+  en_name: fish sauce
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Geflügelfond
-  en_name: 'TODO: Geflügelfond'
+  en_name: chicken stock
   qty: 100
   unit: ml
   category: Konserven und Vorrat
 - de_name: Kokoscreme
-  en_name: 'TODO: Kokoscreme'
+  en_name: coconut cream
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Jasminreis
-  en_name: 'TODO: Jasminreis'
+  en_name: jasmine rice
   qty: 200
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Zucchini
-  en_name: 'TODO: Zucchini'
+  en_name: zucchini
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Paprika (grün)
-  en_name: 'TODO: Paprika (grün)'
+  en_name: green bell pepper
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Kaffirlimettenblätter
-  en_name: 'TODO: Kaffirlimettenblätter'
+  en_name: kaffir lime leaves
   qty: 4
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zitronengras
-  en_name: 'TODO: Zitronengras'
+  en_name: lemongrass
   qty: 1
   unit: Stange
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 2
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Thai-Basilikum (frisch)
-  en_name: 'TODO: Thai-Basilikum (frisch)'
+  en_name: fresh Thai basil
   qty: 1
   unit: Bund
   category: Gemüse und Salat
 - de_name: Frische rote Chili
-  en_name: 'TODO: Frische rote Chili'
+  en_name: fresh red chilli
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Palmzucker
-  en_name: 'TODO: Palmzucker'
+  en_name: palm sugar
   qty: 1
   unit: TL
   category: Konserven und Vorrat
 - de_name: Erdnussöl
-  en_name: 'TODO: Erdnussöl'
+  en_name: peanut oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Limette
-  en_name: 'TODO: Limette'
+  en_name: lime
   qty: 1
   unit: Stk
   category: Obst
 - de_name: Gemahlener Koriander
-  en_name: 'TODO: Gemahlener Koriander'
+  en_name: ground coriander
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Jasminreis waschen und im Verhältnis 1:1,5 mit Wasser aufkochen, bei niedriger Hitze 12 Minuten garkochen, beiseite stellen.
-- |-
-  Hähnchenbrustfilet in mundgerechte Stücke schneiden. Zucchini und Paprika in grobe Stücke schneiden. Zitronengras anquetschen.
-- |-
-  Erdnussöl im Wok oder Topf bei mittlerer Hitze erhitzen. Grüne Currypaste 1–2 Minuten unter Rühren anrösten, bis es duftet.
+- Jasminreis waschen und im Verhältnis 1:1,5 mit Wasser aufkochen, bei niedriger Hitze
+  12 Minuten garkochen, beiseite stellen.
+- Hähnchenbrustfilet in mundgerechte Stücke schneiden. Zucchini und Paprika in grobe
+  Stücke schneiden. Zitronengras anquetschen.
+- Erdnussöl im Wok oder Topf bei mittlerer Hitze erhitzen. Grüne Currypaste 1–2 Minuten
+  unter Rühren anrösten, bis es duftet.
 - Kokoscreme hinzufügen und mit der Paste verrühren.
 - Hähnchenstücke zugeben und 3–4 Minuten anbraten, bis sie leicht Farbe nehmen.
-- |-
-  Restliche Kokosmilch, Geflügelfond, Kaffirlimettenblätter, Zitronengras und Fischsauce hinzufügen. Aufkochen lassen.
-- |-
-  Zucchini und Paprika zugeben. 8–10 Minuten bei mittlerer Hitze köcheln, bis das Gemüse gar ist.
-- |-
-  Mit Palmzucker, Fischsauce und Limettensaft abschmecken. Zitronengras entfernen. Thai-Basilikum unterheben.
+- Restliche Kokosmilch, Geflügelfond, Kaffirlimettenblätter, Zitronengras und Fischsauce
+  hinzufügen. Aufkochen lassen.
+- Zucchini und Paprika zugeben. 8–10 Minuten bei mittlerer Hitze köcheln, bis das
+  Gemüse gar ist.
+- Mit Palmzucker, Fischsauce und Limettensaft abschmecken. Zitronengras entfernen.
+  Thai-Basilikum unterheben.
 - Mit Jasminreis anrichten und mit geschnittener Chili garnieren.
 en_steps:
-- |-
-  TODO: Jasminreis waschen und im Verhältnis 1:1,5 mit Wasser aufkochen, bei niedriger Hitze 12 Minuten garkochen, beiseite stellen.
-- |-
-  TODO: Hähnchenbrustfilet in mundgerechte Stücke schneiden. Zucchini und Paprika in grobe Stücke schneiden. Zitronengras anquetschen.
-- |-
-  TODO: Erdnussöl im Wok oder Topf bei mittlerer Hitze erhitzen. Grüne Currypaste 1–2 Minuten unter Rühren anrösten, bis es duftet.
-- 'TODO: Kokoscreme hinzufügen und mit der Paste verrühren.'
-- |-
-  TODO: Hähnchenstücke zugeben und 3–4 Minuten anbraten, bis sie leicht Farbe nehmen.
-- |-
-  TODO: Restliche Kokosmilch, Geflügelfond, Kaffirlimettenblätter, Zitronengras und Fischsauce hinzufügen. Aufkochen lassen.
-- |-
-  TODO: Zucchini und Paprika zugeben. 8–10 Minuten bei mittlerer Hitze köcheln, bis das Gemüse gar ist.
-- |-
-  TODO: Mit Palmzucker, Fischsauce und Limettensaft abschmecken. Zitronengras entfernen. Thai-Basilikum unterheben.
-- 'TODO: Mit Jasminreis anrichten und mit geschnittener Chili garnieren.'
+- Wash jasmine rice and bring to a boil with 1.5 times the amount of water; cook on
+  low heat for 12 minutes, then set aside.
+- Cut chicken breast into bite-sized pieces. Cut zucchini and bell pepper into large
+  chunks. Bruise lemongrass.
+- Heat peanut oil in a wok or pot over medium heat. Stir-fry green curry paste for
+  1–2 minutes until fragrant.
+- Add coconut cream and stir into the paste.
+- Add chicken pieces and fry for 3–4 minutes until they take on a little colour.
+- Add remaining coconut milk, chicken stock, kaffir lime leaves, lemongrass and fish
+  sauce. Bring to a boil.
+- Add zucchini and bell pepper. Simmer over medium heat for 8–10 minutes until the
+  vegetables are cooked.
+- Season with palm sugar, fish sauce and lime juice. Remove lemongrass. Fold in Thai
+  basil.
+- Plate with jasmine rice and garnish with sliced chilli.

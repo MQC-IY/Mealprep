@@ -9,46 +9,47 @@ de:
   title: Hähnchen-Reis-Pfanne mit Blumenkohl
   summary: Milde Pfanne mit Hähnchen, Reis, Blumenkohl und Erbsen.
 en:
-  title: 'TODO: Hähnchen-Reis-Pfanne mit Blumenkohl'
-  summary: 'TODO: Milde Pfanne mit Hähnchen, Reis, Blumenkohl und Erbsen.'
+  title: Chicken Rice Pan with Cauliflower
+  summary: A mild and wholesome pan with chicken, fluffy rice, cauliflower, peas,
+    and carrots — a simple weeknight favourite.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 750
   unit: g
   category: Protein und Milchprodukte
 - de_name: Reis
-  en_name: 'TODO: Reis'
+  en_name: rice
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Blumenkohl
-  en_name: 'TODO: Blumenkohl'
+  en_name: cauliflower
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Erbsen, TK
-  en_name: 'TODO: Erbsen, TK'
+  en_name: frozen peas
   qty: 200
   unit: g
   category: Gemüse und Salat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: carrots
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Rapsöl
-  en_name: 'TODO: Rapsöl'
+  en_name: rapeseed oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Paprika edelsüß
-  en_name: 'TODO: Paprika edelsüß'
+  en_name: sweet paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -57,6 +58,6 @@ de_steps:
 - Hähnchen scharf anbraten.
 - Blumenkohl, Möhren und Erbsen weich garen.
 en_steps:
-- 'TODO: Reis garen.'
-- 'TODO: Hähnchen scharf anbraten.'
-- 'TODO: Blumenkohl, Möhren und Erbsen weich garen.'
+- Cook the rice.
+- Sear the chicken over high heat.
+- Cook the cauliflower, carrots, and peas until tender.

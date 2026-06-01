@@ -8,46 +8,46 @@ de:
   title: Puten-Quinoa-Auflauf mit Tomate
   summary: Auflauf mit Putenhack, Quinoa, Tomate und Zucchini.
 en:
-  title: 'TODO: Puten-Quinoa-Auflauf mit Tomate'
-  summary: 'TODO: Auflauf mit Putenhack, Quinoa, Tomate und Zucchini.'
+  title: Turkey Quinoa Bake with Tomato
+  summary: A baked casserole of ground turkey, quinoa, tomato, and zucchini.
 ingredients:
 - de_name: Putenhack
-  en_name: 'TODO: Putenhack'
+  en_name: ground turkey
   qty: 650
   unit: g
   category: Protein und Milchprodukte
 - de_name: Quinoa
-  en_name: 'TODO: Quinoa'
+  en_name: quinoa
   qty: 250
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Passierte Tomaten
-  en_name: 'TODO: Passierte Tomaten'
+  en_name: strained tomatoes (passata)
   qty: 1
   unit: Glas
   category: Konserven und Vorrat
 - de_name: Zucchini
-  en_name: 'TODO: Zucchini'
+  en_name: zucchini
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Eier
-  en_name: 'TODO: Eier'
+  en_name: eggs
   qty: 3
   unit: Stk
   category: Protein und Milchprodukte
 - de_name: Naturjoghurt
-  en_name: 'TODO: Naturjoghurt'
+  en_name: plain yogurt
   qty: 180
   unit: g
   category: Protein und Milchprodukte
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -56,6 +56,7 @@ de_steps:
 - Putenhack scharf anbraten, Zucchini klein schneiden.
 - Alles in eine Form geben, Joghurt mit Eiern verrühren und darübergeben.
 en_steps:
-- 'TODO: Quinoa vorgaren.'
-- 'TODO: Putenhack scharf anbraten, Zucchini klein schneiden.'
-- 'TODO: Alles in eine Form geben, Joghurt mit Eiern verrühren und darübergeben.'
+- Par-cook the quinoa.
+- Brown the ground turkey over high heat and chop the zucchini into small pieces.
+- Transfer everything to a baking dish, whisk together the yogurt and eggs, and pour
+  over the top.

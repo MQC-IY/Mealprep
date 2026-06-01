@@ -9,41 +9,41 @@ de:
   title: Kichererbsen-Gnocchi in Tomatensauce
   summary: Sehr schnelle Gnocchi mit Kichererbsen und milder Tomaten-Basilikum-Sauce.
 en:
-  title: 'TODO: Kichererbsen-Gnocchi in Tomatensauce'
-  summary: 'TODO: Sehr schnelle Gnocchi mit Kichererbsen und milder Tomaten-Basilikum-Sauce.'
+  title: Chickpea Gnocchi in Tomato Sauce
+  summary: Super-quick gnocchi with chickpeas in a mild tomato and basil sauce.
 ingredients:
 - de_name: Gnocchi
-  en_name: 'TODO: Gnocchi'
+  en_name: Gnocchi
   qty: 800
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Kichererbsen
-  en_name: 'TODO: Kichererbsen'
+  en_name: Chickpeas
   qty: 2
   unit: Dosen
   category: Konserven und Vorrat
 - de_name: Passierte Tomaten
-  en_name: 'TODO: Passierte Tomaten'
+  en_name: Strained tomatoes (passata)
   qty: 1
   unit: Glas
   category: Konserven und Vorrat
 - de_name: Blattspinat
-  en_name: 'TODO: Blattspinat'
+  en_name: Baby spinach
   qty: 120
   unit: g
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Basilikum
-  en_name: 'TODO: Basilikum'
+  en_name: Basil
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -52,6 +52,6 @@ de_steps:
 - Tomaten und Kichererbsen kurz köcheln lassen.
 - Spinat unterheben und Gnocchi untermischen.
 en_steps:
-- 'TODO: Gnocchi weich garen.'
-- 'TODO: Tomaten und Kichererbsen kurz köcheln lassen.'
-- 'TODO: Spinat unterheben und Gnocchi untermischen.'
+- Cook the gnocchi until tender.
+- Simmer the tomatoes and chickpeas briefly.
+- Fold in the spinach and stir in the gnocchi.

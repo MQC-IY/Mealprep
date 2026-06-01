@@ -9,41 +9,41 @@ de:
   title: Puten-Couscous mit Brokkoli und Erbsen
   summary: Schnelles Couscousgericht mit Putenhack, Brokkoli und Erbsen.
 en:
-  title: 'TODO: Puten-Couscous mit Brokkoli und Erbsen'
-  summary: 'TODO: Schnelles Couscousgericht mit Putenhack, Brokkoli und Erbsen.'
+  title: Turkey Couscous with Broccoli and Peas
+  summary: Quick couscous dish with minced turkey, broccoli and peas.
 ingredients:
 - de_name: Putenhack
-  en_name: 'TODO: Putenhack'
+  en_name: minced turkey
   qty: 650
   unit: g
   category: Protein und Milchprodukte
 - de_name: Couscous
-  en_name: 'TODO: Couscous'
+  en_name: couscous
   qty: 280
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Brokkoli
-  en_name: 'TODO: Brokkoli'
+  en_name: broccoli
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Erbsen, TK
-  en_name: 'TODO: Erbsen, TK'
+  en_name: frozen peas
   qty: 220
   unit: g
   category: Gemüse und Salat
 - de_name: Naturjoghurt
-  en_name: 'TODO: Naturjoghurt'
+  en_name: plain yogurt
   qty: 100
   unit: g
   category: Protein und Milchprodukte
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -52,6 +52,6 @@ de_steps:
 - Putenhack scharf anbraten.
 - Brokkoli und Erbsen weich garen.
 en_steps:
-- 'TODO: Couscous quellen lassen.'
-- 'TODO: Putenhack scharf anbraten.'
-- 'TODO: Brokkoli und Erbsen weich garen.'
+- Soak the couscous in hot stock or water according to the packet instructions.
+- Sear the minced turkey in a hot pan until browned.
+- Cook the broccoli and peas until tender, then combine with the turkey and couscous.

@@ -6,110 +6,125 @@ next_day: false
 meals: 2
 de:
   title: Knusprige Ente mit Kirschen-Rotweinsauce und Kartoffelpüree
-  summary: |-
-    Kross gebratene Entenbrust mit einer tiefen Rotweinsauce aus Sauerkirschen, dazu samtiges Kartoffelpüree – ein Festessen, das direkt nach dem Ruhen serviert werden muss.
+  summary: Kross gebratene Entenbrust mit einer tiefen Rotweinsauce aus Sauerkirschen,
+    dazu samtiges Kartoffelpüree – ein Festessen, das direkt nach dem Ruhen serviert
+    werden muss.
 en:
-  title: 'TODO: Knusprige Ente mit Kirschen-Rotweinsauce und Kartoffelpüree'
-  summary: |-
-    TODO: Kross gebratene Entenbrust mit einer tiefen Rotweinsauce aus Sauerkirschen, dazu samtiges Kartoffelpüree – ein Festessen, das direkt nach dem Ruhen serviert werden muss.
+  title: Crispy Duck Breast with Cherry-Red Wine Sauce and Mashed Potato
+  summary: Beautifully crisp-skinned duck breast with a deep red wine and sour cherry
+    sauce, served with velvety mashed potato — a special occasion dish that must be
+    served straight after resting.
 ingredients:
 - de_name: Entenbrustfilets
-  en_name: 'TODO: Entenbrustfilets'
+  en_name: duck breast fillets
   qty: 1000
   unit: g
   category: Protein und Milchprodukte
 - de_name: Mehligkochende Kartoffeln
-  en_name: 'TODO: Mehligkochende Kartoffeln'
+  en_name: floury potatoes
   qty: 1200
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Sauerkirschen aus der Dose
-  en_name: 'TODO: Sauerkirschen aus der Dose'
+  en_name: sour cherries (tinned)
   qty: 2
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Rotwein (Spätburgunder)
-  en_name: 'TODO: Rotwein (Spätburgunder)'
+  en_name: red wine (Pinot Noir)
   qty: 250
   unit: ml
   category: Konserven und Vorrat
 - de_name: Hühner- oder Entenfond
-  en_name: 'TODO: Hühner- oder Entenfond'
+  en_name: chicken or duck stock
   qty: 300
   unit: ml
   category: Konserven und Vorrat
 - de_name: Butter
-  en_name: 'TODO: Butter'
+  en_name: butter
   qty: 100
   unit: g
   category: Protein und Milchprodukte
 - de_name: Vollmilch
-  en_name: 'TODO: Vollmilch'
+  en_name: whole milk
   qty: 150
   unit: ml
   category: Protein und Milchprodukte
 - de_name: Schalotten
-  en_name: 'TODO: Schalotten'
+  en_name: shallots
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Thymian
-  en_name: 'TODO: Thymian'
+  en_name: thyme
   qty: 4
   unit: Stk
   category: Gewürze
 - de_name: Lorbeerblatt
-  en_name: 'TODO: Lorbeerblatt'
+  en_name: bay leaves
   qty: 2
   unit: Stk
   category: Gewürze
 - de_name: Zucker
-  en_name: 'TODO: Zucker'
+  en_name: sugar
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Muskatnuss
-  en_name: 'TODO: Muskatnuss'
+  en_name: nutmeg
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Entenbrustfilets aus dem Kühlschrank nehmen und 30 Minuten auf Raumtemperatur bringen. Die Haut mit einem scharfen Messer rautenförmig einritzen (nicht durch das Fleisch schneiden). Beidseitig großzügig salzen und pfeffern.
-- |-
-  Entenbrüste mit der Hautseite nach unten in eine kalte, trockene Pfanne legen und bei mittlerer Hitze aufstellen. Langsam (ca. 12–14 Minuten) das Fett ausbraten, bis die Haut tiefgoldbraun und knusprig ist. Überschüssiges Fett zwischendurch abschöpfen und aufbewahren.
-- |-
-  Entenbrüste wenden und auf der Fleischseite 3–4 Minuten fertig braten (Kerntemperatur 58–62 °C für medium). Aus der Pfanne nehmen und 8 Minuten abgedeckt ruhen lassen.
-- |-
-  Kartoffeln schälen, würfeln und in gesalzenem Wasser weich kochen (ca. 20 Minuten). Abgießen, ausdämpfen lassen, durch eine Kartoffelpresse drücken. Heiße Milch und Butter einarbeiten, mit Salz, Pfeffer und Muskatnuss abschmecken.
-- |-
-  Bratenfett aus der Pfanne abgießen (1 EL zurücklassen). Schalotten fein würfeln und 2 Minuten anschwitzen. Zucker zugeben und leicht karamellisieren. Mit Rotwein ablöschen und auf die Hälfte einkochen.
-- |-
-  Fond, Kirschen mit Kirschsaft, Thymian und Lorbeer zugeben. Bei mittlerer Hitze 10–12 Minuten köcheln, bis die Sauce sämig wird. Thymian und Lorbeer entfernen, mit Salz und Pfeffer abschmecken.
-- |-
-  Entenbrüste schräg in Scheiben schneiden. Kartoffelpüree auf vorgewärmten Tellern anrichten, Entenscheiben darauflegen, Kirschen-Rotweinsauce großzügig angießen und sofort servieren.
+- Entenbrustfilets aus dem Kühlschrank nehmen und 30 Minuten auf Raumtemperatur bringen.
+  Die Haut mit einem scharfen Messer rautenförmig einritzen (nicht durch das Fleisch
+  schneiden). Beidseitig großzügig salzen und pfeffern.
+- Entenbrüste mit der Hautseite nach unten in eine kalte, trockene Pfanne legen und
+  bei mittlerer Hitze aufstellen. Langsam (ca. 12–14 Minuten) das Fett ausbraten,
+  bis die Haut tiefgoldbraun und knusprig ist. Überschüssiges Fett zwischendurch abschöpfen
+  und aufbewahren.
+- Entenbrüste wenden und auf der Fleischseite 3–4 Minuten fertig braten (Kerntemperatur
+  58–62 °C für medium). Aus der Pfanne nehmen und 8 Minuten abgedeckt ruhen lassen.
+- Kartoffeln schälen, würfeln und in gesalzenem Wasser weich kochen (ca. 20 Minuten).
+  Abgießen, ausdämpfen lassen, durch eine Kartoffelpresse drücken. Heiße Milch und
+  Butter einarbeiten, mit Salz, Pfeffer und Muskatnuss abschmecken.
+- Bratenfett aus der Pfanne abgießen (1 EL zurücklassen). Schalotten fein würfeln
+  und 2 Minuten anschwitzen. Zucker zugeben und leicht karamellisieren. Mit Rotwein
+  ablöschen und auf die Hälfte einkochen.
+- Fond, Kirschen mit Kirschsaft, Thymian und Lorbeer zugeben. Bei mittlerer Hitze
+  10–12 Minuten köcheln, bis die Sauce sämig wird. Thymian und Lorbeer entfernen,
+  mit Salz und Pfeffer abschmecken.
+- Entenbrüste schräg in Scheiben schneiden. Kartoffelpüree auf vorgewärmten Tellern
+  anrichten, Entenscheiben darauflegen, Kirschen-Rotweinsauce großzügig angießen und
+  sofort servieren.
 en_steps:
-- |-
-  TODO: Entenbrustfilets aus dem Kühlschrank nehmen und 30 Minuten auf Raumtemperatur bringen. Die Haut mit einem scharfen Messer rautenförmig einritzen (nicht durch das Fleisch schneiden). Beidseitig großzügig salzen und pfeffern.
-- |-
-  TODO: Entenbrüste mit der Hautseite nach unten in eine kalte, trockene Pfanne legen und bei mittlerer Hitze aufstellen. Langsam (ca. 12–14 Minuten) das Fett ausbraten, bis die Haut tiefgoldbraun und knusprig ist. Überschüssiges Fett zwischendurch abschöpfen und aufbewahren.
-- |-
-  TODO: Entenbrüste wenden und auf der Fleischseite 3–4 Minuten fertig braten (Kerntemperatur 58–62 °C für medium). Aus der Pfanne nehmen und 8 Minuten abgedeckt ruhen lassen.
-- |-
-  TODO: Kartoffeln schälen, würfeln und in gesalzenem Wasser weich kochen (ca. 20 Minuten). Abgießen, ausdämpfen lassen, durch eine Kartoffelpresse drücken. Heiße Milch und Butter einarbeiten, mit Salz, Pfeffer und Muskatnuss abschmecken.
-- |-
-  TODO: Bratenfett aus der Pfanne abgießen (1 EL zurücklassen). Schalotten fein würfeln und 2 Minuten anschwitzen. Zucker zugeben und leicht karamellisieren. Mit Rotwein ablöschen und auf die Hälfte einkochen.
-- |-
-  TODO: Fond, Kirschen mit Kirschsaft, Thymian und Lorbeer zugeben. Bei mittlerer Hitze 10–12 Minuten köcheln, bis die Sauce sämig wird. Thymian und Lorbeer entfernen, mit Salz und Pfeffer abschmecken.
-- |-
-  TODO: Entenbrüste schräg in Scheiben schneiden. Kartoffelpüree auf vorgewärmten Tellern anrichten, Entenscheiben darauflegen, Kirschen-Rotweinsauce großzügig angießen und sofort servieren.
+- Take the duck breasts out of the fridge and bring to room temperature for 30 minutes.
+  Score the skin in a crosshatch pattern with a sharp knife (do not cut through to
+  the flesh). Season generously on both sides with salt and pepper.
+- Place the duck breasts skin-side down in a cold, dry pan and set over medium heat.
+  Slowly render the fat for about 12–14 minutes until the skin is deep golden and
+  crispy, skimming off excess fat as you go.
+- Turn the duck breasts and cook the flesh side for 3–4 minutes (internal temperature
+  58–62 °C for medium). Remove from the pan and rest covered for 8 minutes.
+- Peel and cube the potatoes; boil in salted water until tender (about 20 minutes).
+  Drain and steam dry, then press through a potato ricer. Work in hot milk and butter;
+  season with salt, pepper, and nutmeg.
+- Pour off the fat from the pan (leaving 1 tbsp). Finely dice the shallots and sweat
+  for 2 minutes. Add the sugar and lightly caramelise. Deglaze with the red wine and
+  reduce by half.
+- Add the stock, cherries with their juice, thyme, and bay leaves. Simmer over medium
+  heat for 10–12 minutes until the sauce is syrupy. Remove the thyme and bay leaves;
+  season with salt and pepper.
+- Slice the duck breasts diagonally. Plate the mashed potato on warmed plates, lay
+  the duck slices on top, pour the cherry-red wine sauce generously over, and serve
+  immediately.

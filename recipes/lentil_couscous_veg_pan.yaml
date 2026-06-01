@@ -9,41 +9,41 @@ de:
   title: Linsen-Couscous-Pfanne mit Gemüse
   summary: Schnelles Couscousgericht mit roten Linsen, Zucchini und Paprika.
 en:
-  title: 'TODO: Linsen-Couscous-Pfanne mit Gemüse'
-  summary: 'TODO: Schnelles Couscousgericht mit roten Linsen, Zucchini und Paprika.'
+  title: Lentil Couscous Pan with Vegetables
+  summary: Quick couscous dish with red lentils, zucchini, and bell pepper.
 ingredients:
 - de_name: Couscous
-  en_name: 'TODO: Couscous'
+  en_name: couscous
   qty: 280
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Rote Linsen
-  en_name: 'TODO: Rote Linsen'
+  en_name: red lentils
   qty: 180
   unit: g
   category: Konserven und Vorrat
 - de_name: Zucchini
-  en_name: 'TODO: Zucchini'
+  en_name: zucchini
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Paprika
-  en_name: 'TODO: Paprika'
+  en_name: bell pepper
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Passierte Tomaten
-  en_name: 'TODO: Passierte Tomaten'
+  en_name: tomato passata
   qty: 1
   unit: Glas
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -52,6 +52,6 @@ de_steps:
 - Zucchini und Paprika weich garen.
 - Tomaten zugeben und alles mischen.
 en_steps:
-- 'TODO: Linsen weich kochen und Couscous quellen lassen.'
-- 'TODO: Zucchini und Paprika weich garen.'
-- 'TODO: Tomaten zugeben und alles mischen.'
+- Cook lentils until tender and steep couscous.
+- Cook zucchini and bell pepper until soft.
+- Add tomatoes and mix everything together.

@@ -6,124 +6,127 @@ next_day: true
 meals: 2
 de:
   title: Koreanischer Dak-Galbi-Auflauf mit Käse
-  summary: |-
-    Scharfe Hähnchen-Dak-Galbi-Pfanne mit Süßkartoffeln und Tokkteig, überbacken mit zerlaufenem Mozzarella – beliebte Fusion-Variante.
+  summary: Scharfe Hähnchen-Dak-Galbi-Pfanne mit Süßkartoffeln und Tokkteig, überbacken
+    mit zerlaufenem Mozzarella – beliebte Fusion-Variante.
 en:
-  title: 'TODO: Koreanischer Dak-Galbi-Auflauf mit Käse'
-  summary: |-
-    TODO: Scharfe Hähnchen-Dak-Galbi-Pfanne mit Süßkartoffeln und Tokkteig, überbacken mit zerlaufenem Mozzarella – beliebte Fusion-Variante.
+  title: Korean Dak Galbi Cheese Bake
+  summary: Spicy Dak Galbi chicken pan with sweet potato and tteok rice cakes, baked
+    under a blanket of melted mozzarella — a popular Korean fusion favourite.
 ingredients:
 - de_name: Hähnchenschenkel (ausgelöst, ohne Haut)
-  en_name: 'TODO: Hähnchenschenkel (ausgelöst, ohne Haut)'
+  en_name: boneless skinless chicken thighs
   qty: 800
   unit: g
   category: Protein und Milchprodukte
 - de_name: Mozzarella (gerieben)
-  en_name: 'TODO: Mozzarella (gerieben)'
+  en_name: mozzarella, grated
   qty: 200
   unit: g
   category: Protein und Milchprodukte
 - de_name: Süßkartoffeln
-  en_name: 'TODO: Süßkartoffeln'
+  en_name: sweet potatoes
   qty: 350
   unit: g
   category: Gemüse und Salat
 - de_name: Weißkohl
-  en_name: 'TODO: Weißkohl'
+  en_name: white cabbage
   qty: 250
   unit: g
   category: Gemüse und Salat
 - de_name: Frühlingszwiebeln
-  en_name: 'TODO: Frühlingszwiebeln'
+  en_name: spring onions
   qty: 2
   unit: Bund
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 6
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Ingwer (frisch)
-  en_name: 'TODO: Ingwer (frisch)'
+  en_name: fresh ginger
   qty: 20
   unit: g
   category: Gemüse und Salat
 - de_name: Tteok (Reiskuchenröllchen)
-  en_name: 'TODO: Tteok (Reiskuchenröllchen)'
+  en_name: tteok (rice cake cylinders)
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Kurzkörniger Reis
-  en_name: 'TODO: Kurzkörniger Reis'
+  en_name: short-grain rice
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Gochujang
-  en_name: 'TODO: Gochujang'
+  en_name: gochujang
   qty: 5
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sojasoße
-  en_name: 'TODO: Sojasoße'
+  en_name: soy sauce
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sesamöl
-  en_name: 'TODO: Sesamöl'
+  en_name: sesame oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Pflanzenöl
-  en_name: 'TODO: Pflanzenöl'
+  en_name: vegetable oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Zucker
-  en_name: 'TODO: Zucker'
+  en_name: sugar
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Kokosmilch oder Sahne
-  en_name: 'TODO: Kokosmilch oder Sahne'
+  en_name: coconut milk or cream
   qty: 100
   unit: ml
   category: Konserven und Vorrat
 - de_name: Gochugaru
-  en_name: 'TODO: Gochugaru'
+  en_name: gochugaru (Korean chili flakes)
   qty: 2
   unit: EL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Sesamkörner
-  en_name: 'TODO: Sesamkörner'
+  en_name: sesame seeds
   qty: 2
   unit: EL
   category: Gewürze
 de_steps:
-- |-
-  Hähnchen in mundgerechte Stücke schneiden. Marinade: Gochujang, Sojasoße, Gochugaru, Zucker, Sesamöl, Knoblauch (gerieben), Ingwer (gerieben) und Pfeffer. Hähnchen 30 Minuten marinieren.
+- 'Hähnchen in mundgerechte Stücke schneiden. Marinade: Gochujang, Sojasoße, Gochugaru,
+  Zucker, Sesamöl, Knoblauch (gerieben), Ingwer (gerieben) und Pfeffer. Hähnchen 30
+  Minuten marinieren.'
 - Tteok 10 Minuten in warmem Wasser einweichen, abgießen.
 - Süßkartoffeln in 1 cm dicke Scheiben, Weißkohl in Stücke schneiden.
 - Reis garen.
-- |-
-  Backofen auf 220 °C Oberhitze/Grill vorheizen. In einer ofenfesten Pfanne Pflanzenöl erhitzen. Hähnchen mit Marinade scharf 5 Minuten anbraten.
-- |-
-  Süßkartoffeln, Tteok und Weißkohl untermischen. Kokosmilch angießen. 15 Minuten bei 200 °C backen.
-- |-
-  Pfanne herausnehmen, geriebenen Mozzarella großzügig darüberstreuen. Auf Grill stellen und 3–4 Minuten gratinieren. Mit Frühlingszwiebeln und Sesamkörnern bestreuen.
+- Backofen auf 220 °C Oberhitze/Grill vorheizen. In einer ofenfesten Pfanne Pflanzenöl
+  erhitzen. Hähnchen mit Marinade scharf 5 Minuten anbraten.
+- Süßkartoffeln, Tteok und Weißkohl untermischen. Kokosmilch angießen. 15 Minuten
+  bei 200 °C backen.
+- Pfanne herausnehmen, geriebenen Mozzarella großzügig darüberstreuen. Auf Grill stellen
+  und 3–4 Minuten gratinieren. Mit Frühlingszwiebeln und Sesamkörnern bestreuen.
 en_steps:
-- |-
-  TODO: Hähnchen in mundgerechte Stücke schneiden. Marinade: Gochujang, Sojasoße, Gochugaru, Zucker, Sesamöl, Knoblauch (gerieben), Ingwer (gerieben) und Pfeffer. Hähnchen 30 Minuten marinieren.
-- 'TODO: Tteok 10 Minuten in warmem Wasser einweichen, abgießen.'
-- 'TODO: Süßkartoffeln in 1 cm dicke Scheiben, Weißkohl in Stücke schneiden.'
-- 'TODO: Reis garen.'
-- |-
-  TODO: Backofen auf 220 °C Oberhitze/Grill vorheizen. In einer ofenfesten Pfanne Pflanzenöl erhitzen. Hähnchen mit Marinade scharf 5 Minuten anbraten.
-- |-
-  TODO: Süßkartoffeln, Tteok und Weißkohl untermischen. Kokosmilch angießen. 15 Minuten bei 200 °C backen.
-- |-
-  TODO: Pfanne herausnehmen, geriebenen Mozzarella großzügig darüberstreuen. Auf Grill stellen und 3–4 Minuten gratinieren. Mit Frühlingszwiebeln und Sesamkörnern bestreuen.
+- 'Cut the chicken into bite-sized pieces. Marinade: combine gochujang, soy sauce,
+  gochugaru, sugar, sesame oil, grated garlic, grated ginger, and pepper. Marinate
+  the chicken for 30 minutes.'
+- Soak the tteok in warm water for 10 minutes, then drain.
+- Cut the sweet potatoes into 1 cm thick slices; cut the cabbage into chunks.
+- Cook the rice.
+- Preheat the oven to 220 °C grill/broil. Heat the vegetable oil in an oven-safe pan.
+  Sear the chicken with the marinade for 5 minutes over high heat.
+- Mix in the sweet potatoes, tteok, and cabbage. Pour in the coconut milk. Bake at
+  200 °C for 15 minutes.
+- Remove the pan from the oven, sprinkle the grated mozzarella generously on top.
+  Place under the grill for 3–4 minutes until gratinéed. Scatter with spring onions
+  and sesame seeds.

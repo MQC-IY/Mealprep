@@ -7,107 +7,105 @@ quick_minutes: 25
 meals: 2
 de:
   title: Hähnchen-Teriyaki mit Glasnudeln
-  summary: |-
-    Schnelles Wok-Gericht mit glasiertem Hähnchen, Glasnudeln, Zuckerschoten, Möhren und selbst gemachter Teriyaki-Sauce – asiatischer Wochentag-Klassiker.
+  summary: Schnelles Wok-Gericht mit glasiertem Hähnchen, Glasnudeln, Zuckerschoten,
+    Möhren und selbst gemachter Teriyaki-Sauce – asiatischer Wochentag-Klassiker.
 en:
-  title: 'TODO: Hähnchen-Teriyaki mit Glasnudeln'
-  summary: |-
-    TODO: Schnelles Wok-Gericht mit glasiertem Hähnchen, Glasnudeln, Zuckerschoten, Möhren und selbst gemachter Teriyaki-Sauce – asiatischer Wochentag-Klassiker.
+  title: Chicken Teriyaki with Glass Noodles
+  summary: A quick wok dish with glazed chicken, glass noodles, sugar snap peas, carrots
+    and homemade Teriyaki sauce – a weeknight Asian classic.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 700
   unit: g
   category: Protein und Milchprodukte
 - de_name: Glasnudeln
-  en_name: 'TODO: Glasnudeln'
+  en_name: glass noodles
   qty: 200
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Zuckerschoten
-  en_name: 'TODO: Zuckerschoten'
+  en_name: sugar snap peas
   qty: 200
   unit: g
   category: Gemüse und Salat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: carrots
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Paprika
-  en_name: 'TODO: Paprika'
+  en_name: bell pepper
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Frühlingszwiebeln
-  en_name: 'TODO: Frühlingszwiebeln'
+  en_name: spring onions
   qty: 4
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 3
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Ingwer, frisch
-  en_name: 'TODO: Ingwer, frisch'
+  en_name: fresh ginger
   qty: 15
   unit: g
   category: Gemüse und Salat
 - de_name: Sojasauce
-  en_name: 'TODO: Sojasauce'
+  en_name: soy sauce
   qty: 4
   unit: EL
   category: Konserven und Vorrat
 - de_name: Honig
-  en_name: 'TODO: Honig'
+  en_name: honey
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sesamöl
-  en_name: 'TODO: Sesamöl'
+  en_name: sesame oil
   qty: 1
   unit: TL
   category: Konserven und Vorrat
 - de_name: Rapsöl
-  en_name: 'TODO: Rapsöl'
+  en_name: rapeseed oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Reisessig
-  en_name: 'TODO: Reisessig'
+  en_name: rice vinegar
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sesam
-  en_name: 'TODO: Sesam'
+  en_name: sesame seeds
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chilli flakes
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
 - Glasnudeln nach Packungsanweisung in heißem Wasser einweichen, abgießen.
 - 'Teriyaki-Sauce: Sojasauce, Honig, Reisessig und Sesamöl verrühren.'
-- |-
-  Hähnchen in Scheiben schneiden. In heißem Rapsöl im Wok scharf anbraten, herausnehmen.
-- |-
-  Möhren in Julienne, Paprika in Streifen schneiden. Im heißen Wok mit Knoblauch und Ingwer 3–4 Minuten anbraten.
-- |-
-  Zuckerschoten zugeben, 2 Minuten mitbraten. Hähnchen und Glasnudeln zurück in den Wok geben.
-- |-
-  Teriyaki-Sauce zugießen, alles 2 Minuten gut durchschwenken bis alles glasiert ist. Mit Chiliflocken, Sesam und Frühlingszwiebeln bestreuen.
+- Hähnchen in Scheiben schneiden. In heißem Rapsöl im Wok scharf anbraten, herausnehmen.
+- Möhren in Julienne, Paprika in Streifen schneiden. Im heißen Wok mit Knoblauch und
+  Ingwer 3–4 Minuten anbraten.
+- Zuckerschoten zugeben, 2 Minuten mitbraten. Hähnchen und Glasnudeln zurück in den
+  Wok geben.
+- Teriyaki-Sauce zugießen, alles 2 Minuten gut durchschwenken bis alles glasiert ist.
+  Mit Chiliflocken, Sesam und Frühlingszwiebeln bestreuen.
 en_steps:
-- 'TODO: Glasnudeln nach Packungsanweisung in heißem Wasser einweichen, abgießen.'
-- 'TODO: Teriyaki-Sauce: Sojasauce, Honig, Reisessig und Sesamöl verrühren.'
-- |-
-  TODO: Hähnchen in Scheiben schneiden. In heißem Rapsöl im Wok scharf anbraten, herausnehmen.
-- |-
-  TODO: Möhren in Julienne, Paprika in Streifen schneiden. Im heißen Wok mit Knoblauch und Ingwer 3–4 Minuten anbraten.
-- |-
-  TODO: Zuckerschoten zugeben, 2 Minuten mitbraten. Hähnchen und Glasnudeln zurück in den Wok geben.
-- |-
-  TODO: Teriyaki-Sauce zugießen, alles 2 Minuten gut durchschwenken bis alles glasiert ist. Mit Chiliflocken, Sesam und Frühlingszwiebeln bestreuen.
+- Soak glass noodles in hot water according to package instructions; drain.
+- 'Teriyaki sauce: whisk together soy sauce, honey, rice vinegar and sesame oil.'
+- Slice chicken. Sear in hot rapeseed oil in the wok; remove.
+- Cut carrots into julienne strips, bell pepper into strips. Stir-fry in the hot wok
+  with garlic and ginger for 3–4 minutes.
+- Add sugar snap peas and fry for 2 minutes. Return chicken and glass noodles to the
+  wok.
+- Pour in Teriyaki sauce and toss everything together for 2 minutes until fully glazed.
+  Sprinkle with chilli flakes, sesame seeds and spring onions.

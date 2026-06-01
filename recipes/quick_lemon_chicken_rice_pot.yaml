@@ -7,82 +7,80 @@ quick_minutes: 30
 meals: 2
 de:
   title: Schneller Hähnchen-Zitrone-Reis-Topf
-  summary: |-
-    Hähnchen und Reis in einer zitronig-knoblauchigen Hühnerbrühe — vollständige Mahlzeit aus einem Topf.
+  summary: Hähnchen und Reis in einer zitronig-knoblauchigen Hühnerbrühe — vollständige
+    Mahlzeit aus einem Topf.
 en:
-  title: 'TODO: Schneller Hähnchen-Zitrone-Reis-Topf'
-  summary: |-
-    TODO: Hähnchen und Reis in einer zitronig-knoblauchigen Hühnerbrühe — vollständige Mahlzeit aus einem Topf.
+  title: Quick Lemon Chicken Rice Pot
+  summary: Chicken and rice simmered in a lemony, garlicky chicken broth — a complete
+    one-pot meal.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: Chicken breast
   qty: 500
   unit: g
   category: Protein und Milchprodukte
 - de_name: Langkornreis
-  en_name: 'TODO: Langkornreis'
+  en_name: Long-grain rice
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: Chicken broth
   qty: 700
   unit: ml
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Zitrone, Saft und Schale
-  en_name: 'TODO: Zitrone, Saft und Schale'
+  en_name: Lemon, juice and zest
   qty: 1
   unit: Stk
   category: Obst
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: Garlic cloves
   qty: 5
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: Onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Oregano, getrocknet
-  en_name: 'TODO: Oregano, getrocknet'
+  en_name: Dried oregano
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Thymian, getrocknet
-  en_name: 'TODO: Thymian, getrocknet'
+  en_name: Dried thyme
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Salz und Pfeffer
-  en_name: 'TODO: Salz und Pfeffer'
+  en_name: Salt and pepper
   qty: 1
   unit: Stk
   category: Gewürze
 de_steps:
-- |-
-  Hähnchen in Würfel schneiden, mit Salz, Pfeffer und Oregano würzen. In Olivenöl bei hoher Hitze 4 Minuten goldbraun anbraten. Herausnehmen.
-- |-
-  Zwiebel würfeln und Knoblauch in Scheiben schneiden. Im gleichen Topf 2 Minuten anschwitzen.
-- |-
-  Reis einrühren und 1 Minute glasig rühren. Thymian, Zitronensaft und -schale hinzufügen.
-- |-
-  Brühe angießen und aufkochen. Hitze auf niedrig reduzieren, Deckel aufsetzen und 15 Minuten köcheln lassen.
-- |-
-  Hähnchen zurück auf den Reis legen, weitere 3 Minuten mit Deckel ziehen lassen. Abschmecken.
+- Hähnchen in Würfel schneiden, mit Salz, Pfeffer und Oregano würzen. In Olivenöl
+  bei hoher Hitze 4 Minuten goldbraun anbraten. Herausnehmen.
+- Zwiebel würfeln und Knoblauch in Scheiben schneiden. Im gleichen Topf 2 Minuten
+  anschwitzen.
+- Reis einrühren und 1 Minute glasig rühren. Thymian, Zitronensaft und -schale hinzufügen.
+- Brühe angießen und aufkochen. Hitze auf niedrig reduzieren, Deckel aufsetzen und
+  15 Minuten köcheln lassen.
+- Hähnchen zurück auf den Reis legen, weitere 3 Minuten mit Deckel ziehen lassen.
+  Abschmecken.
 en_steps:
-- |-
-  TODO: Hähnchen in Würfel schneiden, mit Salz, Pfeffer und Oregano würzen. In Olivenöl bei hoher Hitze 4 Minuten goldbraun anbraten. Herausnehmen.
-- |-
-  TODO: Zwiebel würfeln und Knoblauch in Scheiben schneiden. Im gleichen Topf 2 Minuten anschwitzen.
-- |-
-  TODO: Reis einrühren und 1 Minute glasig rühren. Thymian, Zitronensaft und -schale hinzufügen.
-- |-
-  TODO: Brühe angießen und aufkochen. Hitze auf niedrig reduzieren, Deckel aufsetzen und 15 Minuten köcheln lassen.
-- |-
-  TODO: Hähnchen zurück auf den Reis legen, weitere 3 Minuten mit Deckel ziehen lassen. Abschmecken.
+- Cut the chicken into cubes and season with salt, pepper, and oregano. Sear in olive
+  oil over high heat for 4 minutes until golden. Remove and set aside.
+- Dice the onion and slice the garlic. Sauté in the same pot for 2 minutes.
+- Stir in the rice and cook for 1 minute until translucent. Add the thyme, lemon juice,
+  and zest.
+- Pour in the broth and bring to a boil. Reduce to low heat, cover, and simmer for
+  15 minutes.
+- Place the chicken back on top of the rice, cover, and rest for 3 minutes. Season
+  to taste.

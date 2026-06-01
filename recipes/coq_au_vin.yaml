@@ -6,124 +6,124 @@ next_day: true
 meals: 2
 de:
   title: Coq au Vin – Hähnchen in Rotwein
-  summary: |-
-    Klassischer burgundischer Schmortopf: Hähnchen in kräftigem Rotwein mit Champignons, Speckwürfeln, Perlzwiebeln und Bouquet garni.
+  summary: 'Klassischer burgundischer Schmortopf: Hähnchen in kräftigem Rotwein mit
+    Champignons, Speckwürfeln, Perlzwiebeln und Bouquet garni.'
 en:
-  title: 'TODO: Coq au Vin – Hähnchen in Rotwein'
-  summary: |-
-    TODO: Klassischer burgundischer Schmortopf: Hähnchen in kräftigem Rotwein mit Champignons, Speckwürfeln, Perlzwiebeln und Bouquet garni.
+  title: Coq au Vin
+  summary: 'Classic Burgundian braise: chicken slow-cooked in robust red wine with
+    mushrooms, lardons, pearl onions, and a bouquet garni.'
 ingredients:
 - de_name: Hähnchenstücke mit Knochen (Schenkel, Flügel)
-  en_name: 'TODO: Hähnchenstücke mit Knochen (Schenkel, Flügel)'
+  en_name: bone-in chicken pieces (legs, wings)
   qty: 900
   unit: g
   category: Protein und Milchprodukte
 - de_name: Burgunder Rotwein
-  en_name: 'TODO: Burgunder Rotwein'
+  en_name: Burgundy red wine
   qty: 400
   unit: ml
   category: Konserven und Vorrat
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: chicken stock
   qty: 300
   unit: ml
   category: Konserven und Vorrat
 - de_name: Champignons
-  en_name: 'TODO: Champignons'
+  en_name: button mushrooms
   qty: 250
   unit: g
   category: Gemüse und Salat
 - de_name: Speckwürfel (Lardons)
-  en_name: 'TODO: Speckwürfel (Lardons)'
+  en_name: lardons
   qty: 100
   unit: g
   category: Protein und Milchprodukte
 - de_name: Perlzwiebeln oder Schalotten
-  en_name: 'TODO: Perlzwiebeln oder Schalotten'
+  en_name: pearl onions or shallots
   qty: 150
   unit: g
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 3
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Tomatenmark
-  en_name: 'TODO: Tomatenmark'
+  en_name: tomato paste
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Butter
-  en_name: 'TODO: Butter'
+  en_name: butter
   qty: 40
   unit: g
   category: Protein und Milchprodukte
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Mehl
-  en_name: 'TODO: Mehl'
+  en_name: flour
   qty: 2
   unit: EL
   category: Kohlenhydrate und Sattmacher
 - de_name: Frischer Thymian
-  en_name: 'TODO: Frischer Thymian'
+  en_name: fresh thyme
   qty: 4
   unit: Stk
   category: Gemüse und Salat
 - de_name: Lorbeerblätter
-  en_name: 'TODO: Lorbeerblätter'
+  en_name: bay leaves
   qty: 2
   unit: Stk
   category: Gewürze
 - de_name: Frische Petersilie
-  en_name: 'TODO: Frische Petersilie'
+  en_name: fresh parsley
   qty: 0.5
   unit: Bund
   category: Gemüse und Salat
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Hähnchenstücke trocken tupfen und kräftig mit Salz und Pfeffer würzen. Leicht mit Mehl bestäuben.
-- |-
-  Öl und die Hälfte der Butter in einem schweren Schmortopf erhitzen. Hähnchenstücke portionsweise 4–5 Minuten pro Seite kräftig anbraten. Herausnehmen.
-- |-
-  Speckwürfel im gleichen Topf 3–4 Minuten auslassen. Perlzwiebeln dazugeben und 5 Minuten goldbraun braten. Knoblauch einrühren, 1 Minute weiterbraten.
-- |-
-  Tomatenmark einrühren und kurz rösten. Mit Rotwein ablöschen, kräftig aufkochen und 5 Minuten einkochen lassen.
-- |-
-  Brühe, Thymian und Lorbeer dazugeben. Hähnchen zurücklegen. Zugedeckt bei niedriger Hitze 45 Minuten schmoren.
-- |-
-  Champignons in der restlichen Butter bei hoher Hitze 4–5 Minuten kräftig anbraten, bis sie goldbraun sind. Beiseitestellen.
-- |-
-  Hähnchen herausnehmen, Sauce ggf. 5–10 Minuten offen einkochen. Champignons einrühren, Hähnchen zurücklegen.
-- |-
-  Mit gehackter Petersilie und frischen Thymianblättern bestreuen. Mit Kartoffelpüree oder Eiernudeln servieren.
+- Hähnchenstücke trocken tupfen und kräftig mit Salz und Pfeffer würzen. Leicht mit
+  Mehl bestäuben.
+- Öl und die Hälfte der Butter in einem schweren Schmortopf erhitzen. Hähnchenstücke
+  portionsweise 4–5 Minuten pro Seite kräftig anbraten. Herausnehmen.
+- Speckwürfel im gleichen Topf 3–4 Minuten auslassen. Perlzwiebeln dazugeben und 5
+  Minuten goldbraun braten. Knoblauch einrühren, 1 Minute weiterbraten.
+- Tomatenmark einrühren und kurz rösten. Mit Rotwein ablöschen, kräftig aufkochen
+  und 5 Minuten einkochen lassen.
+- Brühe, Thymian und Lorbeer dazugeben. Hähnchen zurücklegen. Zugedeckt bei niedriger
+  Hitze 45 Minuten schmoren.
+- Champignons in der restlichen Butter bei hoher Hitze 4–5 Minuten kräftig anbraten,
+  bis sie goldbraun sind. Beiseitestellen.
+- Hähnchen herausnehmen, Sauce ggf. 5–10 Minuten offen einkochen. Champignons einrühren,
+  Hähnchen zurücklegen.
+- Mit gehackter Petersilie und frischen Thymianblättern bestreuen. Mit Kartoffelpüree
+  oder Eiernudeln servieren.
 en_steps:
-- |-
-  TODO: Hähnchenstücke trocken tupfen und kräftig mit Salz und Pfeffer würzen. Leicht mit Mehl bestäuben.
-- |-
-  TODO: Öl und die Hälfte der Butter in einem schweren Schmortopf erhitzen. Hähnchenstücke portionsweise 4–5 Minuten pro Seite kräftig anbraten. Herausnehmen.
-- |-
-  TODO: Speckwürfel im gleichen Topf 3–4 Minuten auslassen. Perlzwiebeln dazugeben und 5 Minuten goldbraun braten. Knoblauch einrühren, 1 Minute weiterbraten.
-- |-
-  TODO: Tomatenmark einrühren und kurz rösten. Mit Rotwein ablöschen, kräftig aufkochen und 5 Minuten einkochen lassen.
-- |-
-  TODO: Brühe, Thymian und Lorbeer dazugeben. Hähnchen zurücklegen. Zugedeckt bei niedriger Hitze 45 Minuten schmoren.
-- |-
-  TODO: Champignons in der restlichen Butter bei hoher Hitze 4–5 Minuten kräftig anbraten, bis sie goldbraun sind. Beiseitestellen.
-- |-
-  TODO: Hähnchen herausnehmen, Sauce ggf. 5–10 Minuten offen einkochen. Champignons einrühren, Hähnchen zurücklegen.
-- |-
-  TODO: Mit gehackter Petersilie und frischen Thymianblättern bestreuen. Mit Kartoffelpüree oder Eiernudeln servieren.
+- Pat the chicken pieces dry and season generously with salt and pepper. Dust lightly
+  with flour.
+- Heat the oil and half the butter in a heavy casserole dish. Brown the chicken pieces
+  in batches for 4–5 minutes per side. Remove and set aside.
+- Fry the lardons in the same pot for 3–4 minutes. Add the pearl onions and cook for
+  5 minutes until golden. Stir in the garlic and cook for 1 minute.
+- Stir in the tomato paste and cook briefly. Deglaze with the red wine, bring to a
+  vigorous boil, and reduce for 5 minutes.
+- Add the stock, thyme, and bay leaves. Return the chicken. Cover and braise over
+  low heat for 45 minutes.
+- Sauté the mushrooms in the remaining butter over high heat for 4–5 minutes until
+  golden. Set aside.
+- Remove the chicken. If needed, reduce the sauce uncovered for 5–10 minutes. Stir
+  in the mushrooms and return the chicken.
+- Sprinkle with chopped parsley and fresh thyme leaves. Serve with mashed potato or
+  egg noodles.

@@ -6,112 +6,108 @@ next_day: true
 meals: 3
 de:
   title: Südafrikanisches Bobotie
-  summary: |-
-    Südafrikanisches Nationalgericht: gewürztes Hackfleisch mit Aprikosen, Mandeln und Curry, überbacken mit würziger Eiersahne-Kruste.
+  summary: 'Südafrikanisches Nationalgericht: gewürztes Hackfleisch mit Aprikosen,
+    Mandeln und Curry, überbacken mit würziger Eiersahne-Kruste.'
 en:
-  title: 'TODO: Südafrikanisches Bobotie'
-  summary: |-
-    TODO: Südafrikanisches Nationalgericht: gewürztes Hackfleisch mit Aprikosen, Mandeln und Curry, überbacken mit würziger Eiersahne-Kruste.
+  title: South African Bobotie
+  summary: 'South Africa''s national dish: spiced ground meat with apricots, almonds
+    and curry, baked under a savory egg custard crust.'
 ingredients:
 - de_name: Rinderhack oder gemischtes Hack
-  en_name: 'TODO: Rinderhack oder gemischtes Hack'
+  en_name: beef mince or mixed mince
   qty: 900
   unit: g
   category: Protein und Milchprodukte
 - de_name: Eier
-  en_name: 'TODO: Eier'
+  en_name: eggs
   qty: 4
   unit: Stk
   category: Protein und Milchprodukte
 - de_name: Vollmilch
-  en_name: 'TODO: Vollmilch'
+  en_name: whole milk
   qty: 300
   unit: ml
   category: Protein und Milchprodukte
 - de_name: Langkornreis oder Kurkuma-Reis
-  en_name: 'TODO: Langkornreis oder Kurkuma-Reis'
+  en_name: long-grain rice or turmeric rice
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Getrocknete Aprikosen
-  en_name: 'TODO: Getrocknete Aprikosen'
+  en_name: dried apricots
   qty: 100
   unit: g
   category: Obst
 - de_name: Gehobelte Mandeln
-  en_name: 'TODO: Gehobelte Mandeln'
+  en_name: flaked almonds
   qty: 60
   unit: g
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 3
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Lorbeerblätter
-  en_name: 'TODO: Lorbeerblätter'
+  en_name: bay leaves
   qty: 3
   unit: Stk
   category: Gewürze
 - de_name: Currypulver
-  en_name: 'TODO: Currypulver'
+  en_name: curry powder
   qty: 3
   unit: TL
   category: Gewürze
 - de_name: Kurkuma
-  en_name: 'TODO: Kurkuma'
+  en_name: turmeric
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Kreuzkümmel, gemahlen
-  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  en_name: cumin, ground
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Zimt, gemahlen
-  en_name: 'TODO: Zimt, gemahlen'
+  en_name: cinnamon, ground
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chilli flakes
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
 - Ofen auf 180 °C Ober-/Unterhitze vorheizen.
-- |-
-  Zwiebeln fein würfeln, Knoblauch hacken. In Öl 5 Minuten anschwitzen. Currypulver, Kurkuma, Kreuzkümmel, Zimt und Chiliflocken zugeben, 1 Minute rösten.
-- |-
-  Hackfleisch zugeben und 8 Minuten anbraten bis es krümelig braun ist. Mit Salz abschmecken.
-- |-
-  Aprikosen in kleine Stücke schneiden, mit gehobelten Mandeln unter das Hack heben. In eine Auflaufform füllen und glatt streichen. Lorbeerblätter obenauf legen.
+- Zwiebeln fein würfeln, Knoblauch hacken. In Öl 5 Minuten anschwitzen. Currypulver,
+  Kurkuma, Kreuzkümmel, Zimt und Chiliflocken zugeben, 1 Minute rösten.
+- Hackfleisch zugeben und 8 Minuten anbraten bis es krümelig braun ist. Mit Salz abschmecken.
+- Aprikosen in kleine Stücke schneiden, mit gehobelten Mandeln unter das Hack heben.
+  In eine Auflaufform füllen und glatt streichen. Lorbeerblätter obenauf legen.
 - Eier mit Milch verquirlen, salzen. Gleichmäßig über die Hackfleischmasse gießen.
-- |-
-  Im vorgeheizten Ofen 35–40 Minuten backen bis die Eiersahne gestockt und leicht goldgelb ist.
-- |-
-  Reis kochen, mit Kurkuma gelb färben. Bobotie mit Reis, Chutney und Sauerrahm servieren.
+- Im vorgeheizten Ofen 35–40 Minuten backen bis die Eiersahne gestockt und leicht
+  goldgelb ist.
+- Reis kochen, mit Kurkuma gelb färben. Bobotie mit Reis, Chutney und Sauerrahm servieren.
 en_steps:
-- 'TODO: Ofen auf 180 °C Ober-/Unterhitze vorheizen.'
-- |-
-  TODO: Zwiebeln fein würfeln, Knoblauch hacken. In Öl 5 Minuten anschwitzen. Currypulver, Kurkuma, Kreuzkümmel, Zimt und Chiliflocken zugeben, 1 Minute rösten.
-- |-
-  TODO: Hackfleisch zugeben und 8 Minuten anbraten bis es krümelig braun ist. Mit Salz abschmecken.
-- |-
-  TODO: Aprikosen in kleine Stücke schneiden, mit gehobelten Mandeln unter das Hack heben. In eine Auflaufform füllen und glatt streichen. Lorbeerblätter obenauf legen.
-- |-
-  TODO: Eier mit Milch verquirlen, salzen. Gleichmäßig über die Hackfleischmasse gießen.
-- |-
-  TODO: Im vorgeheizten Ofen 35–40 Minuten backen bis die Eiersahne gestockt und leicht goldgelb ist.
-- |-
-  TODO: Reis kochen, mit Kurkuma gelb färben. Bobotie mit Reis, Chutney und Sauerrahm servieren.
+- Preheat oven to 180 °C (top/bottom heat).
+- Finely dice onions, mince garlic. Sauté in oil for 5 minutes. Add curry powder,
+  turmeric, cumin, cinnamon and chilli flakes; toast for 1 minute.
+- Add minced meat and fry for 8 minutes until crumbly and browned. Season with salt.
+- Chop dried apricots into small pieces and fold in together with the flaked almonds.
+  Transfer to a baking dish, smooth the surface and lay bay leaves on top.
+- Whisk eggs with milk and season with salt. Pour evenly over the meat mixture.
+- Bake in the preheated oven for 35–40 minutes until the egg custard is set and lightly
+  golden.
+- Cook rice and tint yellow with turmeric. Serve Bobotie with rice, chutney and sour
+  cream.

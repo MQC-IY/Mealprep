@@ -6,124 +6,122 @@ next_day: true
 meals: 2
 de:
   title: Hähnchen-Ossobuco – Geschmortes Hähnchen
-  summary: |-
-    Hähnchenkeulen nach Ossobuco-Art geschmort mit Weißwein, Tomaten, Karotte und Sellerie – abgerundet mit frischer Gremolata.
+  summary: Hähnchenkeulen nach Ossobuco-Art geschmort mit Weißwein, Tomaten, Karotte
+    und Sellerie – abgerundet mit frischer Gremolata.
 en:
-  title: 'TODO: Hähnchen-Ossobuco – Geschmortes Hähnchen'
-  summary: |-
-    TODO: Hähnchenkeulen nach Ossobuco-Art geschmort mit Weißwein, Tomaten, Karotte und Sellerie – abgerundet mit frischer Gremolata.
+  title: Chicken Ossobuco – Braised Chicken
+  summary: Chicken legs braised Ossobuco-style with white wine, tomatoes, carrot,
+    and celery — finished with bright, fresh gremolata.
 ingredients:
 - de_name: Hähnchenkeulen
-  en_name: 'TODO: Hähnchenkeulen'
+  en_name: chicken legs
   qty: 800
   unit: g
   category: Protein und Milchprodukte
 - de_name: Trockener Weißwein
-  en_name: 'TODO: Trockener Weißwein'
+  en_name: dry white wine
   qty: 200
   unit: ml
   category: Konserven und Vorrat
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: chicken stock
   qty: 250
   unit: ml
   category: Konserven und Vorrat
 - de_name: Geschälte Tomaten aus der Dose
-  en_name: 'TODO: Geschälte Tomaten aus der Dose'
+  en_name: canned peeled tomatoes
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Karotte
-  en_name: 'TODO: Karotte'
+  en_name: carrot
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Staudensellerie
-  en_name: 'TODO: Staudensellerie'
+  en_name: celery stalks
   qty: 2
   unit: Stange
   category: Gemüse und Salat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 3
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Frische Petersilie
-  en_name: 'TODO: Frische Petersilie'
+  en_name: fresh parsley
   qty: 1
   unit: Bund
   category: Gemüse und Salat
 - de_name: Zitrone (Schale und Saft)
-  en_name: 'TODO: Zitrone (Schale und Saft)'
+  en_name: lemon (zest and juice)
   qty: 1
   unit: Stk
   category: Obst
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Mehl
-  en_name: 'TODO: Mehl'
+  en_name: flour
   qty: 2
   unit: EL
   category: Kohlenhydrate und Sattmacher
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Getrockneter Thymian
-  en_name: 'TODO: Getrockneter Thymian'
+  en_name: dried thyme
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Lorbeerblätter
-  en_name: 'TODO: Lorbeerblätter'
+  en_name: bay leaves
   qty: 2
   unit: Stk
   category: Gewürze
 de_steps:
-- |-
-  Hähnchenkeulen mit Salz, Pfeffer und Thymian würzen, beidseitig leicht in Mehl wenden.
-- |-
-  Olivenöl im Schmortopf bei hoher Hitze erhitzen. Hähnchen von beiden Seiten 4–5 Minuten scharf anbraten. Herausnehmen.
-- |-
-  Zwiebel, Karotten und Sellerie fein würfeln. Im Bratfett bei mittlerer Hitze 6–7 Minuten anschwitzen. Knoblauch dazugeben, 1 Minute weiterbraten.
-- |-
-  Mit Weißwein ablöschen, kräftig aufkochen und 3 Minuten einkochen. Tomaten (zerdrückt), Brühe und Lorbeerblätter einrühren.
-- |-
-  Hähnchenkeulen zurücklegen. Bei geschlossenem Deckel bei niedriger Hitze 45 Minuten schmoren.
-- |-
-  Deckel abnehmen, weitere 15 Minuten offen köcheln, bis die Sauce sämig wird. Lorbeer entfernen.
-- |-
-  Für die Gremolata: Petersilie fein hacken, Zitronenschale fein abreiben und mit gepresstem Knoblauch (1 Zehe, roh) vermischen.
-- |-
-  Hähnchen auf dem Schmortopfinhalt anrichten, Gremolata großzügig darüberstreuen. Mit Risotto oder Polenta servieren.
+- Hähnchenkeulen mit Salz, Pfeffer und Thymian würzen, beidseitig leicht in Mehl wenden.
+- Olivenöl im Schmortopf bei hoher Hitze erhitzen. Hähnchen von beiden Seiten 4–5
+  Minuten scharf anbraten. Herausnehmen.
+- Zwiebel, Karotten und Sellerie fein würfeln. Im Bratfett bei mittlerer Hitze 6–7
+  Minuten anschwitzen. Knoblauch dazugeben, 1 Minute weiterbraten.
+- Mit Weißwein ablöschen, kräftig aufkochen und 3 Minuten einkochen. Tomaten (zerdrückt),
+  Brühe und Lorbeerblätter einrühren.
+- Hähnchenkeulen zurücklegen. Bei geschlossenem Deckel bei niedriger Hitze 45 Minuten
+  schmoren.
+- Deckel abnehmen, weitere 15 Minuten offen köcheln, bis die Sauce sämig wird. Lorbeer
+  entfernen.
+- 'Für die Gremolata: Petersilie fein hacken, Zitronenschale fein abreiben und mit
+  gepresstem Knoblauch (1 Zehe, roh) vermischen.'
+- Hähnchen auf dem Schmortopfinhalt anrichten, Gremolata großzügig darüberstreuen.
+  Mit Risotto oder Polenta servieren.
 en_steps:
-- |-
-  TODO: Hähnchenkeulen mit Salz, Pfeffer und Thymian würzen, beidseitig leicht in Mehl wenden.
-- |-
-  TODO: Olivenöl im Schmortopf bei hoher Hitze erhitzen. Hähnchen von beiden Seiten 4–5 Minuten scharf anbraten. Herausnehmen.
-- |-
-  TODO: Zwiebel, Karotten und Sellerie fein würfeln. Im Bratfett bei mittlerer Hitze 6–7 Minuten anschwitzen. Knoblauch dazugeben, 1 Minute weiterbraten.
-- |-
-  TODO: Mit Weißwein ablöschen, kräftig aufkochen und 3 Minuten einkochen. Tomaten (zerdrückt), Brühe und Lorbeerblätter einrühren.
-- |-
-  TODO: Hähnchenkeulen zurücklegen. Bei geschlossenem Deckel bei niedriger Hitze 45 Minuten schmoren.
-- |-
-  TODO: Deckel abnehmen, weitere 15 Minuten offen köcheln, bis die Sauce sämig wird. Lorbeer entfernen.
-- |-
-  TODO: Für die Gremolata: Petersilie fein hacken, Zitronenschale fein abreiben und mit gepresstem Knoblauch (1 Zehe, roh) vermischen.
-- |-
-  TODO: Hähnchen auf dem Schmortopfinhalt anrichten, Gremolata großzügig darüberstreuen. Mit Risotto oder Polenta servieren.
+- Season the chicken legs with salt, pepper, and thyme; lightly dredge both sides
+  in flour.
+- Heat the olive oil in a braising pot over high heat. Sear the chicken on both sides
+  for 4–5 minutes. Remove.
+- Finely dice the onion, carrots, and celery. Sweat in the pan drippings over medium
+  heat for 6–7 minutes. Add the garlic and cook for 1 more minute.
+- Deglaze with the white wine, bring to a vigorous boil and reduce for 3 minutes.
+  Stir in the crushed tomatoes, stock, and bay leaves.
+- Return the chicken legs to the pot. Braise, covered, over low heat for 45 minutes.
+- Remove the lid and simmer uncovered for a further 15 minutes until the sauce thickens.
+  Discard the bay leaves.
+- 'For the gremolata: finely chop the parsley, finely zest the lemon, and mix with
+  1 clove of raw pressed garlic.'
+- Plate the chicken over the braising juices and scatter the gremolata generously
+  on top. Serve with risotto or polenta.

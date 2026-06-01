@@ -7,117 +7,118 @@ quick_minutes: 30
 meals: 2
 de:
   title: Teriyaki-Hähnchen mit Reis und Brokkoli
-  summary: |-
-    Saftige Hähnchenschenkel in hausgemachter Teriyaki-Glasur, serviert mit Jasminreis und knackigem Brokkoli.
+  summary: Saftige Hähnchenschenkel in hausgemachter Teriyaki-Glasur, serviert mit
+    Jasminreis und knackigem Brokkoli.
 en:
-  title: 'TODO: Teriyaki-Hähnchen mit Reis und Brokkoli'
-  summary: |-
-    TODO: Saftige Hähnchenschenkel in hausgemachter Teriyaki-Glasur, serviert mit Jasminreis und knackigem Brokkoli.
+  title: Teriyaki Chicken with Rice and Broccoli
+  summary: Juicy chicken thighs in a homemade Teriyaki glaze, served with jasmine
+    rice and crisp broccoli.
 ingredients:
 - de_name: Hähnchenschenkel (ausgelöst, mit Haut)
-  en_name: 'TODO: Hähnchenschenkel (ausgelöst, mit Haut)'
+  en_name: chicken thighs, boneless with skin
   qty: 900
   unit: g
   category: Protein und Milchprodukte
 - de_name: Brokkoli
-  en_name: 'TODO: Brokkoli'
+  en_name: broccoli
   qty: 500
   unit: g
   category: Gemüse und Salat
 - de_name: Frühlingszwiebeln
-  en_name: 'TODO: Frühlingszwiebeln'
+  en_name: spring onions
   qty: 1
   unit: Bund
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 3
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Ingwer (frisch)
-  en_name: 'TODO: Ingwer (frisch)'
+  en_name: fresh ginger
   qty: 20
   unit: g
   category: Gemüse und Salat
 - de_name: Jasminreis
-  en_name: 'TODO: Jasminreis'
+  en_name: jasmine rice
   qty: 400
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Sojasoße
-  en_name: 'TODO: Sojasoße'
+  en_name: soy sauce
   qty: 80
   unit: ml
   category: Konserven und Vorrat
 - de_name: Mirin
-  en_name: 'TODO: Mirin'
+  en_name: mirin
   qty: 60
   unit: ml
   category: Konserven und Vorrat
 - de_name: Sake
-  en_name: 'TODO: Sake'
+  en_name: sake
   qty: 40
   unit: ml
   category: Konserven und Vorrat
 - de_name: Sesamöl
-  en_name: 'TODO: Sesamöl'
+  en_name: sesame oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Pflanzenöl
-  en_name: 'TODO: Pflanzenöl'
+  en_name: vegetable oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Zucker
-  en_name: 'TODO: Zucker'
+  en_name: sugar
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Speisestärke
-  en_name: 'TODO: Speisestärke'
+  en_name: cornstarch
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sesamkörner (weiß)
-  en_name: 'TODO: Sesamkörner (weiß)'
+  en_name: sesame seeds (white)
   qty: 2
   unit: EL
   category: Gewürze
 - de_name: Schwarzer Pfeffer (gemahlen)
-  en_name: 'TODO: Schwarzer Pfeffer (gemahlen)'
+  en_name: black pepper, ground
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Reis waschen und mit 700 ml Wasser aufkochen, dann bei niedrigster Stufe 15 Minuten garen und 10 Minuten quellen lassen.
-- |-
-  Knoblauch und Ingwer fein reiben. Sojasoße, Mirin, Sake, Zucker, Knoblauch und Ingwer verrühren. 2 EL der Marinade abnehmen und mit der Speisestärke verrühren.
-- |-
-  Hähnchenschenkel in der Marinade 20 Minuten einlegen. Fleisch aus der Marinade nehmen und trocken tupfen.
-- |-
-  Pflanzenöl in einer großen Pfanne bei mittlerer bis hoher Hitze erhitzen. Hähnchen mit Haut nach unten 5–6 Minuten goldbraun anbraten, wenden und weitere 5 Minuten garen.
-- |-
-  Restliche Marinade in die Pfanne gießen und mit der Stärkelösung einrühren. Hähnchen 3–4 Minuten glasieren, bis die Soße dickflüssig glänzt.
-- |-
-  Brokkoli in Röschen zerteilen und 3 Minuten in kochendem Salzwasser blanchieren, dann kalt abschrecken.
+- Reis waschen und mit 700 ml Wasser aufkochen, dann bei niedrigster Stufe 15 Minuten
+  garen und 10 Minuten quellen lassen.
+- Knoblauch und Ingwer fein reiben. Sojasoße, Mirin, Sake, Zucker, Knoblauch und Ingwer
+  verrühren. 2 EL der Marinade abnehmen und mit der Speisestärke verrühren.
+- Hähnchenschenkel in der Marinade 20 Minuten einlegen. Fleisch aus der Marinade nehmen
+  und trocken tupfen.
+- Pflanzenöl in einer großen Pfanne bei mittlerer bis hoher Hitze erhitzen. Hähnchen
+  mit Haut nach unten 5–6 Minuten goldbraun anbraten, wenden und weitere 5 Minuten
+  garen.
+- Restliche Marinade in die Pfanne gießen und mit der Stärkelösung einrühren. Hähnchen
+  3–4 Minuten glasieren, bis die Soße dickflüssig glänzt.
+- Brokkoli in Röschen zerteilen und 3 Minuten in kochendem Salzwasser blanchieren,
+  dann kalt abschrecken.
 - Brokkoli mit Sesamöl und schwarzem Pfeffer schwenken.
-- |-
-  Hähnchen in Scheiben schneiden. Mit Reis und Brokkoli anrichten, mit Sesamkörnern und geschnittenen Frühlingszwiebeln garnieren.
+- Hähnchen in Scheiben schneiden. Mit Reis und Brokkoli anrichten, mit Sesamkörnern
+  und geschnittenen Frühlingszwiebeln garnieren.
 en_steps:
-- |-
-  TODO: Reis waschen und mit 700 ml Wasser aufkochen, dann bei niedrigster Stufe 15 Minuten garen und 10 Minuten quellen lassen.
-- |-
-  TODO: Knoblauch und Ingwer fein reiben. Sojasoße, Mirin, Sake, Zucker, Knoblauch und Ingwer verrühren. 2 EL der Marinade abnehmen und mit der Speisestärke verrühren.
-- |-
-  TODO: Hähnchenschenkel in der Marinade 20 Minuten einlegen. Fleisch aus der Marinade nehmen und trocken tupfen.
-- |-
-  TODO: Pflanzenöl in einer großen Pfanne bei mittlerer bis hoher Hitze erhitzen. Hähnchen mit Haut nach unten 5–6 Minuten goldbraun anbraten, wenden und weitere 5 Minuten garen.
-- |-
-  TODO: Restliche Marinade in die Pfanne gießen und mit der Stärkelösung einrühren. Hähnchen 3–4 Minuten glasieren, bis die Soße dickflüssig glänzt.
-- |-
-  TODO: Brokkoli in Röschen zerteilen und 3 Minuten in kochendem Salzwasser blanchieren, dann kalt abschrecken.
-- 'TODO: Brokkoli mit Sesamöl und schwarzem Pfeffer schwenken.'
-- |-
-  TODO: Hähnchen in Scheiben schneiden. Mit Reis und Brokkoli anrichten, mit Sesamkörnern und geschnittenen Frühlingszwiebeln garnieren.
+- Wash rice and bring to a boil with 700 ml water, then cook on the lowest setting
+  for 15 minutes and let steam for 10 minutes.
+- Finely grate garlic and ginger. Stir together soy sauce, mirin, sake, sugar, garlic
+  and ginger. Reserve 2 tbsp of the marinade and mix with the cornstarch.
+- Marinate chicken thighs in the marinade for 20 minutes. Remove the chicken and pat
+  dry.
+- Heat vegetable oil in a large pan over medium-high heat. Fry chicken skin-side down
+  for 5–6 minutes until golden, flip and cook for a further 5 minutes.
+- Pour the remaining marinade into the pan and stir in the cornstarch slurry. Glaze
+  chicken for 3–4 minutes until the sauce is thick and glossy.
+- Divide broccoli into florets and blanch in boiling salted water for 3 minutes, then
+  rinse in cold water.
+- Toss broccoli with sesame oil and black pepper.
+- Slice chicken. Plate up with rice and broccoli; garnish with sesame seeds and sliced
+  spring onions.

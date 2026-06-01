@@ -7,116 +7,117 @@ quick_minutes: 30
 meals: 2
 de:
   title: Tunesisches Shakshuka mit Hähnchen
-  summary: |-
-    Würzige, Harissa-befeuerte Tomatensauce mit saftigem Hähnchen und pochierten Eiern – Nordafrika trifft mediterrane Intensität.
+  summary: Würzige, Harissa-befeuerte Tomatensauce mit saftigem Hähnchen und pochierten
+    Eiern – Nordafrika trifft mediterrane Intensität.
 en:
-  title: 'TODO: Tunesisches Shakshuka mit Hähnchen'
-  summary: |-
-    TODO: Würzige, Harissa-befeuerte Tomatensauce mit saftigem Hähnchen und pochierten Eiern – Nordafrika trifft mediterrane Intensität.
+  title: Tunisian Shakshuka with Chicken
+  summary: A spiced harissa-fired tomato sauce with tender chicken and poached eggs
+    – North Africa meets Mediterranean intensity.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 400
   unit: g
   category: Protein und Milchprodukte
 - de_name: Eier
-  en_name: 'TODO: Eier'
+  en_name: eggs
   qty: 4
   unit: Stk
   category: Protein und Milchprodukte
 - de_name: Zwiebeln
-  en_name: 'TODO: Zwiebeln'
+  en_name: onions
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Paprika, rot
-  en_name: 'TODO: Paprika, rot'
+  en_name: red bell pepper
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Frische Korianderblätter
-  en_name: 'TODO: Frische Korianderblätter'
+  en_name: fresh cilantro leaves
   qty: 0.5
   unit: Bund
   category: Gemüse und Salat
 - de_name: Gehackte Tomaten
-  en_name: 'TODO: Gehackte Tomaten'
+  en_name: canned chopped tomatoes
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Harissa-Paste
-  en_name: 'TODO: Harissa-Paste'
+  en_name: harissa paste
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sauerteigbrot oder Pita
-  en_name: 'TODO: Sauerteigbrot oder Pita'
+  en_name: sourdough bread or pita
   qty: 4
   unit: Stk
   category: Kohlenhydrate und Sattmacher
 - de_name: Kreuzkümmel, gemahlen
-  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  en_name: ground cumin
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Koriander, gemahlen
-  en_name: 'TODO: Koriander, gemahlen'
+  en_name: ground coriander
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Paprikapulver, geräuchert
-  en_name: 'TODO: Paprikapulver, geräuchert'
+  en_name: smoked paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chilipulver
-  en_name: 'TODO: Chilipulver'
+  en_name: chili powder
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Hähnchen in kleine Stücke schneiden. Mit Salz, Pfeffer und der Hälfte des Kreuzkümmels würzen.
-- |-
-  Olivenöl in einer großen, tiefen Pfanne erhitzen. Hähnchen 5–6 Minuten anbraten, bis goldbraun. Herausnehmen.
-- |-
-  Fein gewürfelte Zwiebeln und Paprika im selben Öl 8 Minuten weich dünsten. Knoblauch einrühren und 2 Minuten mitbraten.
-- |-
-  Harissa-Paste einrühren und 1 Minute rösten. Kreuzkümmel, Koriander, geräuchertes Paprika und Chili hinzufügen.
-- |-
-  Gehackte Tomaten hinzufügen, Hähnchen zurück in die Pfanne geben. 10 Minuten köcheln lassen, bis die Sauce eindickt.
-- |-
-  Vier Mulden in die Sauce drücken. Je ein Ei hineingleiten lassen. Pfanne abdecken und 5–7 Minuten pochieren, bis das Eiweiß gestockt, das Eigelb noch weich ist. Mit Koriander und Brot servieren.
+- Hähnchen in kleine Stücke schneiden. Mit Salz, Pfeffer und der Hälfte des Kreuzkümmels
+  würzen.
+- Olivenöl in einer großen, tiefen Pfanne erhitzen. Hähnchen 5–6 Minuten anbraten,
+  bis goldbraun. Herausnehmen.
+- Fein gewürfelte Zwiebeln und Paprika im selben Öl 8 Minuten weich dünsten. Knoblauch
+  einrühren und 2 Minuten mitbraten.
+- Harissa-Paste einrühren und 1 Minute rösten. Kreuzkümmel, Koriander, geräuchertes
+  Paprika und Chili hinzufügen.
+- Gehackte Tomaten hinzufügen, Hähnchen zurück in die Pfanne geben. 10 Minuten köcheln
+  lassen, bis die Sauce eindickt.
+- Vier Mulden in die Sauce drücken. Je ein Ei hineingleiten lassen. Pfanne abdecken
+  und 5–7 Minuten pochieren, bis das Eiweiß gestockt, das Eigelb noch weich ist. Mit
+  Koriander und Brot servieren.
 en_steps:
-- |-
-  TODO: Hähnchen in kleine Stücke schneiden. Mit Salz, Pfeffer und der Hälfte des Kreuzkümmels würzen.
-- |-
-  TODO: Olivenöl in einer großen, tiefen Pfanne erhitzen. Hähnchen 5–6 Minuten anbraten, bis goldbraun. Herausnehmen.
-- |-
-  TODO: Fein gewürfelte Zwiebeln und Paprika im selben Öl 8 Minuten weich dünsten. Knoblauch einrühren und 2 Minuten mitbraten.
-- |-
-  TODO: Harissa-Paste einrühren und 1 Minute rösten. Kreuzkümmel, Koriander, geräuchertes Paprika und Chili hinzufügen.
-- |-
-  TODO: Gehackte Tomaten hinzufügen, Hähnchen zurück in die Pfanne geben. 10 Minuten köcheln lassen, bis die Sauce eindickt.
-- |-
-  TODO: Vier Mulden in die Sauce drücken. Je ein Ei hineingleiten lassen. Pfanne abdecken und 5–7 Minuten pochieren, bis das Eiweiß gestockt, das Eigelb noch weich ist. Mit Koriander und Brot servieren.
+- Cut the chicken into small pieces. Season with salt, pepper, and half the cumin.
+- Heat the olive oil in a large, deep skillet. Sear the chicken for 5–6 minutes until
+  golden brown. Remove and set aside.
+- Sauté the finely diced onions and bell pepper in the same oil for 8 minutes until
+  soft. Stir in the garlic and cook for 2 minutes.
+- Stir in the harissa paste and toast for 1 minute. Add the cumin, coriander, smoked
+  paprika, and chili.
+- Add the chopped tomatoes and return the chicken to the pan. Simmer for 10 minutes
+  until the sauce thickens.
+- Press four wells into the sauce. Slide one egg into each well. Cover the pan and
+  poach for 5–7 minutes until the whites are set but the yolks are still soft. Serve
+  with cilantro and bread.

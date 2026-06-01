@@ -9,46 +9,46 @@ de:
   title: Brokkoli-Linsen-Orzo-Auflauf
   summary: Auflauf mit roten Linsen, Orzo und Brokkoli.
 en:
-  title: 'TODO: Brokkoli-Linsen-Orzo-Auflauf'
-  summary: 'TODO: Auflauf mit roten Linsen, Orzo und Brokkoli.'
+  title: Broccoli, Lentil and Orzo Bake
+  summary: Baked dish with red lentils, orzo pasta, and broccoli.
 ingredients:
 - de_name: Rote Linsen
-  en_name: 'TODO: Rote Linsen'
+  en_name: red lentils
   qty: 200
   unit: g
   category: Konserven und Vorrat
 - de_name: Orzo oder Kritharaki
-  en_name: 'TODO: Orzo oder Kritharaki'
+  en_name: orzo (kritharaki)
   qty: 220
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Brokkoli
-  en_name: 'TODO: Brokkoli'
+  en_name: broccoli
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Eier
-  en_name: 'TODO: Eier'
+  en_name: eggs
   qty: 3
   unit: Stk
   category: Protein und Milchprodukte
 - de_name: Naturjoghurt
-  en_name: 'TODO: Naturjoghurt'
+  en_name: plain yogurt
   qty: 180
   unit: g
   category: Protein und Milchprodukte
 - de_name: Gouda gerieben
-  en_name: 'TODO: Gouda gerieben'
+  en_name: Gouda, grated
   qty: 70
   unit: g
   category: Protein und Milchprodukte
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -57,6 +57,6 @@ de_steps:
 - Brokkoli klein schneiden und weich vorgaren.
 - Alles in eine Form geben, Eier mit Joghurt verrühren und darübergeben.
 en_steps:
-- 'TODO: Linsen und Orzo getrennt vorgaren.'
-- 'TODO: Brokkoli klein schneiden und weich vorgaren.'
-- 'TODO: Alles in eine Form geben, Eier mit Joghurt verrühren und darübergeben.'
+- Parboil lentils and orzo separately.
+- Cut broccoli into small florets and parboil until just tender.
+- Transfer everything to a baking dish; whisk eggs with yogurt and pour over the top.

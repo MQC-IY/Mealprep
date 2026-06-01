@@ -9,47 +9,46 @@ de:
   title: Brokkoli-Pasta mit weißen Bohnen
   summary: Milde Pasta mit Brokkoli, weißen Bohnen und cremiger Zitronen-Joghurt-Note.
 en:
-  title: 'TODO: Brokkoli-Pasta mit weißen Bohnen'
-  summary: |-
-    TODO: Milde Pasta mit Brokkoli, weißen Bohnen und cremiger Zitronen-Joghurt-Note.
+  title: Broccoli Pasta with White Beans
+  summary: A mild pasta with broccoli, white beans, and a creamy lemon-yogurt finish.
 ingredients:
 - de_name: Vollkornnudeln
-  en_name: 'TODO: Vollkornnudeln'
+  en_name: Whole-wheat pasta
   qty: 320
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Weiße Bohnen
-  en_name: 'TODO: Weiße Bohnen'
+  en_name: White beans
   qty: 2
   unit: Dosen
   category: Konserven und Vorrat
 - de_name: Brokkoli
-  en_name: 'TODO: Brokkoli'
+  en_name: Broccoli
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Naturjoghurt
-  en_name: 'TODO: Naturjoghurt'
+  en_name: Plain yogurt
   qty: 150
   unit: g
   category: Protein und Milchprodukte
 - de_name: Zitrone oder Limette
-  en_name: 'TODO: Zitrone oder Limette'
+  en_name: Lemon or lime
   qty: 1
   unit: Stk
   category: Obst
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Basilikum
-  en_name: 'TODO: Basilikum'
+  en_name: Basil
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -58,6 +57,6 @@ de_steps:
 - Bohnen kurz erwärmen und mit etwas Joghurt verrühren.
 - Erwachsenenportion danach mit etwas Zitrone und Basilikum abschmecken.
 en_steps:
-- 'TODO: Nudeln und Brokkoli weich garen.'
-- 'TODO: Bohnen kurz erwärmen und mit etwas Joghurt verrühren.'
-- 'TODO: Erwachsenenportion danach mit etwas Zitrone und Basilikum abschmecken.'
+- Cook the pasta and broccoli until tender.
+- Warm the beans briefly and stir in a little yogurt.
+- Season the adult portion with a squeeze of lemon and a pinch of basil.

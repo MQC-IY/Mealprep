@@ -9,51 +9,51 @@ de:
   title: Nudeltopf mit Bohnen und Gemüse
   summary: Schneller, milder Topf mit kleinen Nudeln, Bohnen, Möhren und Zucchini.
 en:
-  title: 'TODO: Nudeltopf mit Bohnen und Gemüse'
-  summary: 'TODO: Schneller, milder Topf mit kleinen Nudeln, Bohnen, Möhren und Zucchini.'
+  title: Bean and Vegetable Noodle Pot
+  summary: Quick, mild pot with small pasta, beans, carrots, and zucchini.
 ingredients:
 - de_name: Kleine Suppennudeln
-  en_name: 'TODO: Kleine Suppennudeln'
+  en_name: small soup pasta
   qty: 220
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Weiße Bohnen
-  en_name: 'TODO: Weiße Bohnen'
+  en_name: white beans
   qty: 2
   unit: Dosen
   category: Konserven und Vorrat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: carrots
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zucchini
-  en_name: 'TODO: Zucchini'
+  en_name: zucchini
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Passierte Tomaten
-  en_name: 'TODO: Passierte Tomaten'
+  en_name: passata (sieved tomatoes)
   qty: 1
   unit: Glas
   category: Konserven und Vorrat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Basilikum
-  en_name: 'TODO: Basilikum'
+  en_name: basil
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -62,6 +62,6 @@ de_steps:
 - Tomaten, Bohnen und Wasser zugeben und weich köcheln.
 - Nudeln zum Schluss mitgaren.
 en_steps:
-- 'TODO: Zwiebel, Möhren und Zucchini in Olivenöl anschwitzen.'
-- 'TODO: Tomaten, Bohnen und Wasser zugeben und weich köcheln.'
-- 'TODO: Nudeln zum Schluss mitgaren.'
+- Sweat onion, carrots, and zucchini in olive oil.
+- Add tomatoes, beans, and water; simmer until tender.
+- Add pasta for the last few minutes of cooking.

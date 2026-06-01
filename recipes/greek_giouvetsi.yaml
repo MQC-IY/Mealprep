@@ -6,111 +6,113 @@ next_day: true
 meals: 2
 de:
   title: Griechisches Giouvetsi – Hähnchen-Orzo-Auflauf
-  summary: |-
-    Hähnchen und Orzo-Nudeln schmoren gemeinsam in einer Tomatensauce mit Zimt und Lorbeer im Ofen – ein kerniger griechischer Sonntagsauflauf.
+  summary: Hähnchen und Orzo-Nudeln schmoren gemeinsam in einer Tomatensauce mit Zimt
+    und Lorbeer im Ofen – ein kerniger griechischer Sonntagsauflauf.
 en:
-  title: 'TODO: Griechisches Giouvetsi – Hähnchen-Orzo-Auflauf'
-  summary: |-
-    TODO: Hähnchen und Orzo-Nudeln schmoren gemeinsam in einer Tomatensauce mit Zimt und Lorbeer im Ofen – ein kerniger griechischer Sonntagsauflauf.
+  title: Giouvetsi – Greek Chicken & Orzo Bake
+  summary: Chicken and orzo pasta braised together in a cinnamon-and-bay tomato sauce
+    in the oven — a hearty Greek Sunday casserole.
 ingredients:
 - de_name: Hähnchenstücke (Schenkel und Keulen)
-  en_name: 'TODO: Hähnchenstücke (Schenkel und Keulen)'
+  en_name: Chicken pieces (thighs and drumsticks)
   qty: 700
   unit: g
   category: Protein und Milchprodukte
 - de_name: Orzo-Nudeln (Kritharaki)
-  en_name: 'TODO: Orzo-Nudeln (Kritharaki)'
+  en_name: Orzo pasta (kritharaki)
   qty: 250
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Feta-Käse
-  en_name: 'TODO: Feta-Käse'
+  en_name: Feta cheese
   qty: 80
   unit: g
   category: Protein und Milchprodukte
 - de_name: Gehackte Tomaten
-  en_name: 'TODO: Gehackte Tomaten'
+  en_name: Chopped tomatoes (canned)
   qty: 2
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Tomatenmark
-  en_name: 'TODO: Tomatenmark'
+  en_name: Tomato purée
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: Chicken stock
   qty: 400
   unit: ml
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 4
   unit: EL
   category: Konserven und Vorrat
 - de_name: Zwiebeln
-  en_name: 'TODO: Zwiebeln'
+  en_name: Onions
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: Garlic cloves
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Getrockneter Oregano
-  en_name: 'TODO: Getrockneter Oregano'
+  en_name: Dried oregano
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Zimt, gemahlen
-  en_name: 'TODO: Zimt, gemahlen'
+  en_name: Ground cinnamon
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Lorbeerblätter
-  en_name: 'TODO: Lorbeerblätter'
+  en_name: Bay leaves
   qty: 2
   unit: Stk
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: Salt
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: Black pepper
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Piment, gemahlen
-  en_name: 'TODO: Piment, gemahlen'
+  en_name: Ground allspice
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Ofen auf 200 °C vorheizen. Hähnchenstücke mit Salz, Pfeffer, Oregano und Zimt würzen. Olivenöl in einem Bräter erhitzen und Hähnchen von allen Seiten scharf anbraten. Herausnehmen.
-- |-
-  Zwiebeln würfeln und Knoblauch pressen. Im gleichen Bräter bei mittlerer Hitze 5 Minuten anschwitzen. Tomatenmark, Zimt und Piment einrühren, 1 Minute rösten.
-- |-
-  Gehackte Tomaten, Hühnerbrühe und Lorbeerblätter hinzufügen. Kurz aufkochen, Hähnchen zurücklegen.
-- |-
-  Orzo-Nudeln in den Bräter streuen und alles gut verrühren, damit die Nudeln in der Sauce liegen. Bräter mit Alufolie fest abdecken.
-- |-
-  Im Ofen 30 Minuten backen. Folie entfernen, weitere 15 Minuten backen, bis die Oberfläche leicht gebräunt ist und die Orzo-Nudeln die Flüssigkeit aufgesogen haben.
-- |-
-  Feta in Brocken darüber krümeln und nochmals 5 Minuten im Ofen gratinieren. Heiß servieren.
+- Ofen auf 200 °C vorheizen. Hähnchenstücke mit Salz, Pfeffer, Oregano und Zimt würzen.
+  Olivenöl in einem Bräter erhitzen und Hähnchen von allen Seiten scharf anbraten.
+  Herausnehmen.
+- Zwiebeln würfeln und Knoblauch pressen. Im gleichen Bräter bei mittlerer Hitze 5
+  Minuten anschwitzen. Tomatenmark, Zimt und Piment einrühren, 1 Minute rösten.
+- Gehackte Tomaten, Hühnerbrühe und Lorbeerblätter hinzufügen. Kurz aufkochen, Hähnchen
+  zurücklegen.
+- Orzo-Nudeln in den Bräter streuen und alles gut verrühren, damit die Nudeln in der
+  Sauce liegen. Bräter mit Alufolie fest abdecken.
+- Im Ofen 30 Minuten backen. Folie entfernen, weitere 15 Minuten backen, bis die Oberfläche
+  leicht gebräunt ist und die Orzo-Nudeln die Flüssigkeit aufgesogen haben.
+- Feta in Brocken darüber krümeln und nochmals 5 Minuten im Ofen gratinieren. Heiß
+  servieren.
 en_steps:
-- |-
-  TODO: Ofen auf 200 °C vorheizen. Hähnchenstücke mit Salz, Pfeffer, Oregano und Zimt würzen. Olivenöl in einem Bräter erhitzen und Hähnchen von allen Seiten scharf anbraten. Herausnehmen.
-- |-
-  TODO: Zwiebeln würfeln und Knoblauch pressen. Im gleichen Bräter bei mittlerer Hitze 5 Minuten anschwitzen. Tomatenmark, Zimt und Piment einrühren, 1 Minute rösten.
-- |-
-  TODO: Gehackte Tomaten, Hühnerbrühe und Lorbeerblätter hinzufügen. Kurz aufkochen, Hähnchen zurücklegen.
-- |-
-  TODO: Orzo-Nudeln in den Bräter streuen und alles gut verrühren, damit die Nudeln in der Sauce liegen. Bräter mit Alufolie fest abdecken.
-- |-
-  TODO: Im Ofen 30 Minuten backen. Folie entfernen, weitere 15 Minuten backen, bis die Oberfläche leicht gebräunt ist und die Orzo-Nudeln die Flüssigkeit aufgesogen haben.
-- |-
-  TODO: Feta in Brocken darüber krümeln und nochmals 5 Minuten im Ofen gratinieren. Heiß servieren.
+- Preheat the oven to 200 °C. Season the chicken pieces with salt, pepper, oregano,
+  and cinnamon. Heat olive oil in a roasting dish and brown the chicken on all sides.
+  Remove.
+- Dice the onions and crush the garlic. Sweat in the same dish over medium heat for
+  5 minutes. Stir in the tomato purée, cinnamon, and allspice and fry for 1 minute.
+- Add the chopped tomatoes, chicken stock, and bay leaves. Bring briefly to a boil
+  and return the chicken.
+- Scatter the orzo into the dish and stir well so the pasta is submerged in the sauce.
+  Cover the dish tightly with aluminium foil.
+- Bake for 30 minutes. Remove the foil and bake for a further 15 minutes until the
+  surface is lightly browned and the orzo has absorbed the liquid.
+- Crumble the feta over the top and return to the oven for 5 minutes to gratinate.
+  Serve hot.

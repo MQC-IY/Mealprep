@@ -9,41 +9,42 @@ de:
   title: Hähnchen-Quinoa-Bowl mit Möhren
   summary: Leichte Bowl mit Hähnchen, Quinoa, Möhren und Gurke.
 en:
-  title: 'TODO: Hähnchen-Quinoa-Bowl mit Möhren'
-  summary: 'TODO: Leichte Bowl mit Hähnchen, Quinoa, Möhren und Gurke.'
+  title: Chicken Quinoa Bowl with Carrots
+  summary: A light and satisfying bowl with seared chicken, fluffy quinoa, tender
+    carrots, and cool cucumber topped with a creamy yogurt dressing.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 750
   unit: g
   category: Protein und Milchprodukte
 - de_name: Quinoa
-  en_name: 'TODO: Quinoa'
+  en_name: quinoa
   qty: 280
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: carrots
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Gurke
-  en_name: 'TODO: Gurke'
+  en_name: cucumber
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Naturjoghurt
-  en_name: 'TODO: Naturjoghurt'
+  en_name: plain yogurt
   qty: 120
   unit: g
   category: Protein und Milchprodukte
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -52,6 +53,6 @@ de_steps:
 - Hähnchen scharf anbraten und Möhren weich dünsten.
 - Gurke klein schneiden und etwas Joghurt verrühren.
 en_steps:
-- 'TODO: Quinoa garen.'
-- 'TODO: Hähnchen scharf anbraten und Möhren weich dünsten.'
-- 'TODO: Gurke klein schneiden und etwas Joghurt verrühren.'
+- Cook the quinoa.
+- Sear the chicken over high heat and sauté the carrots until tender.
+- Dice the cucumber and stir in a spoonful of yogurt.

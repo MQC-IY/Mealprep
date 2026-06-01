@@ -6,101 +6,102 @@ next_day: true
 meals: 2
 de:
   title: Türkischer Kuru Fasulye – Weißbohneneintopf
-  summary: |-
-    Herzhafter türkischer Nationaleintopf aus Cannellini-Bohnen, die stundenlang in einer würzigen Tomatenbasis mit Lammfleisch geschmort werden.
+  summary: Herzhafter türkischer Nationaleintopf aus Cannellini-Bohnen, die stundenlang
+    in einer würzigen Tomatenbasis mit Lammfleisch geschmort werden.
 en:
-  title: 'TODO: Türkischer Kuru Fasulye – Weißbohneneintopf'
-  summary: |-
-    TODO: Herzhafter türkischer Nationaleintopf aus Cannellini-Bohnen, die stundenlang in einer würzigen Tomatenbasis mit Lammfleisch geschmort werden.
+  title: Turkish Kuru Fasulye – White Bean Stew
+  summary: Hearty Turkish national stew of cannellini beans braised in a spiced tomato
+    base with lamb.
 ingredients:
 - de_name: Lammfleisch (Schulter, gewürfelt)
-  en_name: 'TODO: Lammfleisch (Schulter, gewürfelt)'
+  en_name: lamb shoulder, diced
   qty: 350
   unit: g
   category: Protein und Milchprodukte
 - de_name: Cannellini-Bohnen (Dose)
-  en_name: 'TODO: Cannellini-Bohnen (Dose)'
+  en_name: cannellini beans (canned)
   qty: 2
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Tomatenmark
-  en_name: 'TODO: Tomatenmark'
+  en_name: tomato paste
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Gehackte Tomaten
-  en_name: 'TODO: Gehackte Tomaten'
+  en_name: chopped tomatoes
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Lammfond
-  en_name: 'TODO: Lammfond'
+  en_name: lamb stock
   qty: 400
   unit: ml
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Zwiebeln
-  en_name: 'TODO: Zwiebeln'
+  en_name: onions
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Grüne Paprikaschote
-  en_name: 'TODO: Grüne Paprikaschote'
+  en_name: green bell pepper
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Pul Biber (Aleppo-Pfeffer)
-  en_name: 'TODO: Pul Biber (Aleppo-Pfeffer)'
+  en_name: pul biber (Aleppo pepper)
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Paprikapulver, süß
-  en_name: 'TODO: Paprikapulver, süß'
+  en_name: sweet paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Lorbeerblätter
-  en_name: 'TODO: Lorbeerblätter'
+  en_name: bay leaves
   qty: 2
   unit: Stk
   category: Gewürze
 de_steps:
-- |-
-  Zwiebeln würfeln, Paprika in Streifen schneiden, Knoblauch pressen. Olivenöl in einem schweren Topf erhitzen und Lammfleisch portionsweise scharf anbraten, bis es von allen Seiten braun ist. Herausnehmen.
-- |-
-  Zwiebeln und Paprika im gleichen Topf 6 Minuten weich dünsten. Knoblauch, Tomatenmark, Pul Biber und Paprikapulver hinzufügen und 2 Minuten mitrösten.
-- |-
-  Gehackte Tomaten und Lammfond einrühren. Angebratenes Fleisch zurück in den Topf geben. Lorbeerblätter einlegen, salzen und pfeffern.
-- |-
-  Abgetropfte Cannellini-Bohnen hinzufügen. Alles zum Kochen bringen, dann Hitze reduzieren und den Eintopf zugedeckt 45 Minuten sanft köcheln lassen, bis das Fleisch zart ist.
+- Zwiebeln würfeln, Paprika in Streifen schneiden, Knoblauch pressen. Olivenöl in
+  einem schweren Topf erhitzen und Lammfleisch portionsweise scharf anbraten, bis
+  es von allen Seiten braun ist. Herausnehmen.
+- Zwiebeln und Paprika im gleichen Topf 6 Minuten weich dünsten. Knoblauch, Tomatenmark,
+  Pul Biber und Paprikapulver hinzufügen und 2 Minuten mitrösten.
+- Gehackte Tomaten und Lammfond einrühren. Angebratenes Fleisch zurück in den Topf
+  geben. Lorbeerblätter einlegen, salzen und pfeffern.
+- Abgetropfte Cannellini-Bohnen hinzufügen. Alles zum Kochen bringen, dann Hitze reduzieren
+  und den Eintopf zugedeckt 45 Minuten sanft köcheln lassen, bis das Fleisch zart
+  ist.
 - Lorbeerblätter entfernen. Abschmecken und mit frischem Brot oder Reis servieren.
 en_steps:
-- |-
-  TODO: Zwiebeln würfeln, Paprika in Streifen schneiden, Knoblauch pressen. Olivenöl in einem schweren Topf erhitzen und Lammfleisch portionsweise scharf anbraten, bis es von allen Seiten braun ist. Herausnehmen.
-- |-
-  TODO: Zwiebeln und Paprika im gleichen Topf 6 Minuten weich dünsten. Knoblauch, Tomatenmark, Pul Biber und Paprikapulver hinzufügen und 2 Minuten mitrösten.
-- |-
-  TODO: Gehackte Tomaten und Lammfond einrühren. Angebratenes Fleisch zurück in den Topf geben. Lorbeerblätter einlegen, salzen und pfeffern.
-- |-
-  TODO: Abgetropfte Cannellini-Bohnen hinzufügen. Alles zum Kochen bringen, dann Hitze reduzieren und den Eintopf zugedeckt 45 Minuten sanft köcheln lassen, bis das Fleisch zart ist.
-- |-
-  TODO: Lorbeerblätter entfernen. Abschmecken und mit frischem Brot oder Reis servieren.
+- Dice onions; cut bell pepper into strips; press garlic. Heat olive oil in a heavy
+  pot and brown lamb in batches until seared on all sides. Remove.
+- Sweat onions and bell pepper in the same pot for 6 minutes. Add garlic, tomato paste,
+  pul biber, and paprika; toast for 2 minutes.
+- Stir in chopped tomatoes and lamb stock. Return browned meat to the pot. Add bay
+  leaves, season with salt and pepper.
+- Add drained cannellini beans. Bring everything to a boil, then reduce heat and simmer
+  covered for 45 minutes until the meat is tender.
+- Remove bay leaves. Adjust seasoning and serve with fresh bread or rice.

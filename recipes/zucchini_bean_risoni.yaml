@@ -9,41 +9,41 @@ de:
   title: Risoni mit Zucchini und Bohnen
   summary: Schnelle, milde Risoni-Pfanne mit Zucchini, weißen Bohnen und Tomate.
 en:
-  title: 'TODO: Risoni mit Zucchini und Bohnen'
-  summary: 'TODO: Schnelle, milde Risoni-Pfanne mit Zucchini, weißen Bohnen und Tomate.'
+  title: Risoni with Zucchini and White Beans
+  summary: A quick, mild risoni pan with zucchini, white beans, and tomato sauce.
 ingredients:
 - de_name: Orzo oder Kritharaki
-  en_name: 'TODO: Orzo oder Kritharaki'
+  en_name: Orzo or kritharaki
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Weiße Bohnen
-  en_name: 'TODO: Weiße Bohnen'
+  en_name: White beans
   qty: 2
   unit: Dosen
   category: Konserven und Vorrat
 - de_name: Zucchini
-  en_name: 'TODO: Zucchini'
+  en_name: Zucchini
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Passierte Tomaten
-  en_name: 'TODO: Passierte Tomaten'
+  en_name: Passata (tomato purée)
   qty: 1
   unit: Glas
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Basilikum
-  en_name: 'TODO: Basilikum'
+  en_name: Basil
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -52,6 +52,6 @@ de_steps:
 - Zucchini in Olivenöl anschwitzen.
 - Bohnen und Tomaten zugeben und kurz köcheln.
 en_steps:
-- 'TODO: Risoni weich garen.'
-- 'TODO: Zucchini in Olivenöl anschwitzen.'
-- 'TODO: Bohnen und Tomaten zugeben und kurz köcheln.'
+- Cook the risoni until tender.
+- Sauté the zucchini in olive oil.
+- Add the beans and tomatoes and simmer briefly.

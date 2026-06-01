@@ -6,113 +6,111 @@ next_day: true
 meals: 3
 de:
   title: Indonesisches Rendang-Hähnchen
-  summary: |-
-    Langsam geschmortes Hähnchen in einer aromatischen Paste aus Zitronengras, Galgant, Kokosmilch, Kurkuma und Chili – eines der aromatischsten Gerichte Südostasiens.
+  summary: Langsam geschmortes Hähnchen in einer aromatischen Paste aus Zitronengras,
+    Galgant, Kokosmilch, Kurkuma und Chili – eines der aromatischsten Gerichte Südostasiens.
 en:
-  title: 'TODO: Indonesisches Rendang-Hähnchen'
-  summary: |-
-    TODO: Langsam geschmortes Hähnchen in einer aromatischen Paste aus Zitronengras, Galgant, Kokosmilch, Kurkuma und Chili – eines der aromatischsten Gerichte Südostasiens.
+  title: Indonesian Rendang Chicken
+  summary: Slowly braised chicken in an aromatic paste of lemongrass, galangal, coconut
+    milk, turmeric, and chili – one of the most flavourful dishes in Southeast Asia.
 ingredients:
 - de_name: Hähnchenschenkel mit Knochen
-  en_name: 'TODO: Hähnchenschenkel mit Knochen'
+  en_name: bone-in chicken thighs
   qty: 1200
   unit: g
   category: Protein und Milchprodukte
 - de_name: Kokosmilch
-  en_name: 'TODO: Kokosmilch'
+  en_name: coconut milk
   qty: 2
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Rapsöl
-  en_name: 'TODO: Rapsöl'
+  en_name: rapeseed oil
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Jasminreis
-  en_name: 'TODO: Jasminreis'
+  en_name: jasmine rice
   qty: 350
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 6
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Ingwer, frisch
-  en_name: 'TODO: Ingwer, frisch'
+  en_name: fresh ginger
   qty: 40
   unit: g
   category: Gemüse und Salat
 - de_name: Zitronengrasstangen
-  en_name: 'TODO: Zitronengrasstangen'
+  en_name: lemongrass stalks
   qty: 3
   unit: Stange
   category: Gemüse und Salat
 - de_name: Rote Chili
-  en_name: 'TODO: Rote Chili'
+  en_name: red chili
   qty: 4
   unit: Stk
   category: Gemüse und Salat
 - de_name: Galgant (frisch oder getrocknet)
-  en_name: 'TODO: Galgant (frisch oder getrocknet)'
+  en_name: galangal (fresh or dried)
   qty: 20
   unit: g
   category: Gemüse und Salat
 - de_name: Kurkuma, frisch oder gemahlen
-  en_name: 'TODO: Kurkuma, frisch oder gemahlen'
+  en_name: turmeric, fresh or ground
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Koriander, gemahlen
-  en_name: 'TODO: Koriander, gemahlen'
+  en_name: ground coriander
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Kreuzkümmel, gemahlen
-  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  en_name: ground cumin
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Zimt, gemahlen
-  en_name: 'TODO: Zimt, gemahlen'
+  en_name: ground cinnamon
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 1.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Rendang-Paste herstellen: Zwiebeln, Knoblauch, Ingwer, Galgant, rote Chilis und Kurkuma im Mixer zu einer feinen Paste pürieren.
+- 'Rendang-Paste herstellen: Zwiebeln, Knoblauch, Ingwer, Galgant, rote Chilis und
+  Kurkuma im Mixer zu einer feinen Paste pürieren.'
 - Zitronengrasstangen mit dem Messerrücken anquetschen.
-- |-
-  Öl in einem schweren Topf bei mittlerer Hitze erhitzen. Rendang-Paste 5–7 Minuten anbraten, unter ständigem Rühren, bis sie sehr duftend und etwas dunkler ist.
-- |-
-  Gemahlenen Koriander, Kreuzkümmel, Zimt und Chiliflocken zugeben, 1 Minute mitrösten.
-- |-
-  Hähnchenstücke zugeben und rundherum mit der Paste überziehen. Angedrückte Zitronengrasstangen zugeben.
-- |-
-  Kokosmilch angießen, aufkochen. Hitze stark reduzieren, Deckel halb drauf und 45–60 Minuten köcheln lassen, gelegentlich rühren.
-- |-
-  In den letzten 15 Minuten Deckel ganz abnehmen und bei mittlerer Hitze einköcheln, bis die Sauce eindickt und das Hähnchen karamellisiert. Mit Jasminreis servieren.
+- Öl in einem schweren Topf bei mittlerer Hitze erhitzen. Rendang-Paste 5–7 Minuten
+  anbraten, unter ständigem Rühren, bis sie sehr duftend und etwas dunkler ist.
+- Gemahlenen Koriander, Kreuzkümmel, Zimt und Chiliflocken zugeben, 1 Minute mitrösten.
+- Hähnchenstücke zugeben und rundherum mit der Paste überziehen. Angedrückte Zitronengrasstangen
+  zugeben.
+- Kokosmilch angießen, aufkochen. Hitze stark reduzieren, Deckel halb drauf und 45–60
+  Minuten köcheln lassen, gelegentlich rühren.
+- In den letzten 15 Minuten Deckel ganz abnehmen und bei mittlerer Hitze einköcheln,
+  bis die Sauce eindickt und das Hähnchen karamellisiert. Mit Jasminreis servieren.
 en_steps:
-- |-
-  TODO: Rendang-Paste herstellen: Zwiebeln, Knoblauch, Ingwer, Galgant, rote Chilis und Kurkuma im Mixer zu einer feinen Paste pürieren.
-- 'TODO: Zitronengrasstangen mit dem Messerrücken anquetschen.'
-- |-
-  TODO: Öl in einem schweren Topf bei mittlerer Hitze erhitzen. Rendang-Paste 5–7 Minuten anbraten, unter ständigem Rühren, bis sie sehr duftend und etwas dunkler ist.
-- |-
-  TODO: Gemahlenen Koriander, Kreuzkümmel, Zimt und Chiliflocken zugeben, 1 Minute mitrösten.
-- |-
-  TODO: Hähnchenstücke zugeben und rundherum mit der Paste überziehen. Angedrückte Zitronengrasstangen zugeben.
-- |-
-  TODO: Kokosmilch angießen, aufkochen. Hitze stark reduzieren, Deckel halb drauf und 45–60 Minuten köcheln lassen, gelegentlich rühren.
-- |-
-  TODO: In den letzten 15 Minuten Deckel ganz abnehmen und bei mittlerer Hitze einköcheln, bis die Sauce eindickt und das Hähnchen karamellisiert. Mit Jasminreis servieren.
+- 'Make the rendang paste: blend onions, garlic, ginger, galangal, red chilies, and
+  turmeric in a blender to a smooth paste.'
+- Bruise the lemongrass stalks with the back of a knife.
+- Heat oil in a heavy pot over medium heat. Fry the rendang paste for 5–7 minutes,
+  stirring constantly, until very fragrant and slightly darker.
+- Add ground coriander, cumin, cinnamon, and chili flakes; toast for 1 minute.
+- Add chicken pieces and coat all over with the paste. Add the bruised lemongrass
+  stalks.
+- Pour in the coconut milk and bring to a boil. Reduce heat significantly, place lid
+  half on and simmer for 45–60 minutes, stirring occasionally.
+- In the last 15 minutes remove the lid completely and cook over medium heat until
+  the sauce thickens and the chicken caramelises. Serve with jasmine rice.

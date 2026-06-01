@@ -6,123 +6,122 @@ next_day: true
 meals: 2
 de:
   title: Hähnchen-Pho mit Reisnudeln
-  summary: |-
-    Duftende vietnamesische Hühnersuppe mit klarer Gewürzbrühe, zarten Reisnudeln und frischen Kräutern.
+  summary: Duftende vietnamesische Hühnersuppe mit klarer Gewürzbrühe, zarten Reisnudeln
+    und frischen Kräutern.
 en:
-  title: 'TODO: Hähnchen-Pho mit Reisnudeln'
-  summary: |-
-    TODO: Duftende vietnamesische Hühnersuppe mit klarer Gewürzbrühe, zarten Reisnudeln und frischen Kräutern.
+  title: Pho Ga – Chicken Pho with Rice Noodles
+  summary: Fragrant Vietnamese chicken soup with a clear, aromatic spice broth, tender
+    rice noodles and fresh herbs.
 ingredients:
 - de_name: Hähnchenschenkel (mit Knochen)
-  en_name: 'TODO: Hähnchenschenkel (mit Knochen)'
+  en_name: bone-in chicken thighs
   qty: 600
   unit: g
   category: Protein und Milchprodukte
 - de_name: Reisnudeln (Pho-Nudeln, flach)
-  en_name: 'TODO: Reisnudeln (Pho-Nudeln, flach)'
+  en_name: rice noodles (flat pho noodles)
   qty: 200
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Ingwer, frisch
-  en_name: 'TODO: Ingwer, frisch'
+  en_name: fresh ginger
   qty: 5
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Frühlingszwiebeln
-  en_name: 'TODO: Frühlingszwiebeln'
+  en_name: spring onions
   qty: 4
   unit: Stk
   category: Gemüse und Salat
 - de_name: Sojasprossen
-  en_name: 'TODO: Sojasprossen'
+  en_name: bean sprouts
   qty: 80
   unit: g
   category: Gemüse und Salat
 - de_name: Frischer Koriander
-  en_name: 'TODO: Frischer Koriander'
+  en_name: fresh coriander
   qty: 1
   unit: Bund
   category: Gemüse und Salat
 - de_name: Frische rote Chili
-  en_name: 'TODO: Frische rote Chili'
+  en_name: fresh red chili
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Fischsauce
-  en_name: 'TODO: Fischsauce'
+  en_name: fish sauce
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Wasser
-  en_name: 'TODO: Wasser'
+  en_name: water
   qty: 1.5
   unit: Liter
   category: Konserven und Vorrat
 - de_name: Limetten
-  en_name: 'TODO: Limetten'
+  en_name: limes
   qty: 2
   unit: Stk
   category: Obst
 - de_name: Sternanis
-  en_name: 'TODO: Sternanis'
+  en_name: star anise
   qty: 3
   unit: Stk
   category: Gewürze
 - de_name: Zimtstange
-  en_name: 'TODO: Zimtstange'
+  en_name: cinnamon stick
   qty: 1
   unit: Stk
   category: Gewürze
 - de_name: Gewürznelken
-  en_name: 'TODO: Gewürznelken'
+  en_name: cloves
   qty: 3
   unit: Stk
   category: Gewürze
 - de_name: Koriandersamen
-  en_name: 'TODO: Koriandersamen'
+  en_name: coriander seeds
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Zwiebeln und Ingwer über einer offenen Flamme oder unter dem Backofengrill 5–7 Minuten anrösten, bis sie leicht verkohlt sind. Oberfläche abkratzen.
-- |-
-  Hähnchenschenkel in kaltem Wasser kurz aufkochen, abgießen und abspülen (Blanchierschritt für klare Brühe).
-- |-
-  Sternanis, Zimtstange, Nelken und Koriandersamen in einer trockenen Pfanne 2 Minuten anrösten.
-- |-
-  Hähnchen, Zwiebeln, Ingwer, Gewürze und 1,5 Liter frisches Wasser in einem großen Topf aufkochen. Schaum abschöpfen.
-- |-
-  Bei kleiner Hitze 45–60 Minuten ziehen lassen. Hähnchen herausnehmen, Fleisch vom Knochen lösen und in Stücke zupfen.
+- Zwiebeln und Ingwer über einer offenen Flamme oder unter dem Backofengrill 5–7 Minuten
+  anrösten, bis sie leicht verkohlt sind. Oberfläche abkratzen.
+- Hähnchenschenkel in kaltem Wasser kurz aufkochen, abgießen und abspülen (Blanchierschritt
+  für klare Brühe).
+- Sternanis, Zimtstange, Nelken und Koriandersamen in einer trockenen Pfanne 2 Minuten
+  anrösten.
+- Hähnchen, Zwiebeln, Ingwer, Gewürze und 1,5 Liter frisches Wasser in einem großen
+  Topf aufkochen. Schaum abschöpfen.
+- Bei kleiner Hitze 45–60 Minuten ziehen lassen. Hähnchen herausnehmen, Fleisch vom
+  Knochen lösen und in Stücke zupfen.
 - Brühe durch ein Sieb gießen, mit Fischsauce und Salz kräftig abschmecken.
 - Reisnudeln nach Packungsanweisung garen.
 - Nudeln in tiefe Schalen verteilen, Hähnchen darüber geben, heiße Brühe angießen.
-- |-
-  Mit Sojasprossen, Frühlingszwiebeln, Koriander, frischer Chili und Limettenspalten servieren.
+- Mit Sojasprossen, Frühlingszwiebeln, Koriander, frischer Chili und Limettenspalten
+  servieren.
 en_steps:
-- |-
-  TODO: Zwiebeln und Ingwer über einer offenen Flamme oder unter dem Backofengrill 5–7 Minuten anrösten, bis sie leicht verkohlt sind. Oberfläche abkratzen.
-- |-
-  TODO: Hähnchenschenkel in kaltem Wasser kurz aufkochen, abgießen und abspülen (Blanchierschritt für klare Brühe).
-- |-
-  TODO: Sternanis, Zimtstange, Nelken und Koriandersamen in einer trockenen Pfanne 2 Minuten anrösten.
-- |-
-  TODO: Hähnchen, Zwiebeln, Ingwer, Gewürze und 1,5 Liter frisches Wasser in einem großen Topf aufkochen. Schaum abschöpfen.
-- |-
-  TODO: Bei kleiner Hitze 45–60 Minuten ziehen lassen. Hähnchen herausnehmen, Fleisch vom Knochen lösen und in Stücke zupfen.
-- 'TODO: Brühe durch ein Sieb gießen, mit Fischsauce und Salz kräftig abschmecken.'
-- 'TODO: Reisnudeln nach Packungsanweisung garen.'
-- |-
-  TODO: Nudeln in tiefe Schalen verteilen, Hähnchen darüber geben, heiße Brühe angießen.
-- |-
-  TODO: Mit Sojasprossen, Frühlingszwiebeln, Koriander, frischer Chili und Limettenspalten servieren.
+- Char the onions and ginger over an open flame or under the oven grill for 5–7 minutes
+  until lightly blackened. Scrape off the outer layer.
+- Briefly blanch the chicken thighs in cold water, drain and rinse (blanching step
+  for a clear broth).
+- Toast the star anise, cinnamon stick, cloves and coriander seeds in a dry pan for
+  2 minutes.
+- Combine the chicken, onions, ginger, spices and 1.5 litres of fresh water in a large
+  pot and bring to a boil. Skim off any foam.
+- Simmer over low heat for 45–60 minutes. Remove the chicken, pull the meat off the
+  bone and shred into pieces.
+- Strain the broth through a fine sieve and season well with fish sauce and salt.
+- Cook the rice noodles according to the packet instructions.
+- Divide the noodles among deep bowls, top with chicken and ladle over the hot broth.
+- Serve with bean sprouts, spring onions, fresh coriander, sliced red chili and lime
+  wedges.

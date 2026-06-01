@@ -7,116 +7,116 @@ quick_minutes: 30
 meals: 2
 de:
   title: Pisto Manchego mit Ei und Hähnchen
-  summary: |-
-    Spanisches Schmorgericht nach Art der La Mancha: Hähnchen mit Zucchini, Paprika, Tomaten und Pimentón – mit pochierten Eiern direkt in der Sauce.
+  summary: 'Spanisches Schmorgericht nach Art der La Mancha: Hähnchen mit Zucchini,
+    Paprika, Tomaten und Pimentón – mit pochierten Eiern direkt in der Sauce.'
 en:
-  title: 'TODO: Pisto Manchego mit Ei und Hähnchen'
-  summary: |-
-    TODO: Spanisches Schmorgericht nach Art der La Mancha: Hähnchen mit Zucchini, Paprika, Tomaten und Pimentón – mit pochierten Eiern direkt in der Sauce.
+  title: Pisto Manchego with Egg and Chicken
+  summary: 'Spanish braised dish from La Mancha: chicken with zucchini, peppers, tomatoes
+    and pimentón – with eggs poached right in the sauce.'
 ingredients:
 - de_name: Hähnchenbrustfilet
-  en_name: 'TODO: Hähnchenbrustfilet'
+  en_name: chicken breast fillet
   qty: 400
   unit: g
   category: Protein und Milchprodukte
 - de_name: Eier
-  en_name: 'TODO: Eier'
+  en_name: eggs
   qty: 4
   unit: Stk
   category: Protein und Milchprodukte
 - de_name: Zucchini
-  en_name: 'TODO: Zucchini'
+  en_name: zucchini
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Rote Paprika
-  en_name: 'TODO: Rote Paprika'
+  en_name: red bell pepper
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Grüne Paprika
-  en_name: 'TODO: Grüne Paprika'
+  en_name: green bell pepper
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Geschälte Tomaten aus der Dose
-  en_name: 'TODO: Geschälte Tomaten aus der Dose'
+  en_name: canned peeled tomatoes
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 3
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Pimentón ahumado
-  en_name: 'TODO: Pimentón ahumado'
+  en_name: smoked pimentón (pimentón ahumado)
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Kreuzkümmel gemahlen
-  en_name: 'TODO: Kreuzkümmel gemahlen'
+  en_name: ground cumin
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Cayennepfeffer
-  en_name: 'TODO: Cayennepfeffer'
+  en_name: cayenne pepper
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Frische Petersilie
-  en_name: 'TODO: Frische Petersilie'
+  en_name: fresh parsley
   qty: 0.5
   unit: Bund
   category: Gemüse und Salat
 de_steps:
-- |-
-  Hähnchenbrustfilet in mundgerechte Würfel schneiden. Mit Salz, Pfeffer und Pimentón würzen.
-- |-
-  2 EL Olivenöl in einer großen, tiefen Pfanne erhitzen. Hähnchen bei starker Hitze 5–6 Minuten anbraten. Herausnehmen.
-- |-
-  Restliches Olivenöl in die Pfanne geben. Zwiebel und Knoblauch fein gewürfelt, 5 Minuten anschwitzen. Paprikastreifen dazugeben, weitere 6 Minuten mitschmoren.
-- |-
-  Zucchini in Halbmonde schneiden und einrühren. Kreuzkümmel, Cayenne und restlichen Pimentón dazugeben, 1 Minute rösten.
-- |-
-  Tomaten zerdrückt dazugeben. Bei mittlerer Hitze 15 Minuten köcheln, bis das Gemüse weich und die Sauce eingedickt ist.
+- Hähnchenbrustfilet in mundgerechte Würfel schneiden. Mit Salz, Pfeffer und Pimentón
+  würzen.
+- 2 EL Olivenöl in einer großen, tiefen Pfanne erhitzen. Hähnchen bei starker Hitze
+  5–6 Minuten anbraten. Herausnehmen.
+- Restliches Olivenöl in die Pfanne geben. Zwiebel und Knoblauch fein gewürfelt, 5
+  Minuten anschwitzen. Paprikastreifen dazugeben, weitere 6 Minuten mitschmoren.
+- Zucchini in Halbmonde schneiden und einrühren. Kreuzkümmel, Cayenne und restlichen
+  Pimentón dazugeben, 1 Minute rösten.
+- Tomaten zerdrückt dazugeben. Bei mittlerer Hitze 15 Minuten köcheln, bis das Gemüse
+  weich und die Sauce eingedickt ist.
 - Hähnchen zurücklegen und einrühren. Mit Salz abschmecken.
-- |-
-  Mit einem Löffel vier Mulden in die Sauce drücken. Ein Ei pro Mulde hineinschlagen. Deckel auflegen und 4–6 Minuten garen, bis das Eiweiß fest, das Eigelb aber noch weich ist.
+- Mit einem Löffel vier Mulden in die Sauce drücken. Ein Ei pro Mulde hineinschlagen.
+  Deckel auflegen und 4–6 Minuten garen, bis das Eiweiß fest, das Eigelb aber noch
+  weich ist.
 - Mit gehackter Petersilie bestreuen und direkt in der Pfanne mit Brot servieren.
 en_steps:
-- |-
-  TODO: Hähnchenbrustfilet in mundgerechte Würfel schneiden. Mit Salz, Pfeffer und Pimentón würzen.
-- |-
-  TODO: 2 EL Olivenöl in einer großen, tiefen Pfanne erhitzen. Hähnchen bei starker Hitze 5–6 Minuten anbraten. Herausnehmen.
-- |-
-  TODO: Restliches Olivenöl in die Pfanne geben. Zwiebel und Knoblauch fein gewürfelt, 5 Minuten anschwitzen. Paprikastreifen dazugeben, weitere 6 Minuten mitschmoren.
-- |-
-  TODO: Zucchini in Halbmonde schneiden und einrühren. Kreuzkümmel, Cayenne und restlichen Pimentón dazugeben, 1 Minute rösten.
-- |-
-  TODO: Tomaten zerdrückt dazugeben. Bei mittlerer Hitze 15 Minuten köcheln, bis das Gemüse weich und die Sauce eingedickt ist.
-- 'TODO: Hähnchen zurücklegen und einrühren. Mit Salz abschmecken.'
-- |-
-  TODO: Mit einem Löffel vier Mulden in die Sauce drücken. Ein Ei pro Mulde hineinschlagen. Deckel auflegen und 4–6 Minuten garen, bis das Eiweiß fest, das Eigelb aber noch weich ist.
-- |-
-  TODO: Mit gehackter Petersilie bestreuen und direkt in der Pfanne mit Brot servieren.
+- Cut the chicken breast fillet into bite-sized cubes. Season with salt, pepper and
+  pimentón.
+- Heat 2 tbsp olive oil in a large, deep frying pan over high heat. Fry the chicken
+  for 5–6 minutes. Remove and set aside.
+- Add the remaining olive oil to the pan. Finely dice the onion and garlic and sweat
+  for 5 minutes. Add the pepper strips and braise for a further 6 minutes.
+- Cut the zucchini into half-moons and stir in. Add the cumin, cayenne and remaining
+  pimentón and toast for 1 minute.
+- Add the crushed tomatoes. Simmer over medium heat for 15 minutes until the vegetables
+  are soft and the sauce has thickened.
+- Return the chicken and stir in. Season with salt.
+- Press four wells into the sauce with a spoon. Crack one egg into each well. Cover
+  and cook for 4–6 minutes until the whites are set but the yolks are still runny.
+- Scatter with chopped parsley and serve straight from the pan with bread.

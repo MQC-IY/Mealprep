@@ -6,129 +6,126 @@ next_day: true
 meals: 2
 de:
   title: Thai Red Curry mit Hähnchen
-  summary: |-
-    Feuriges rotes Thai-Curry mit Hähnchen, cremiger Kokosmilch, Aubergine und Thai-Basilikum.
+  summary: Feuriges rotes Thai-Curry mit Hähnchen, cremiger Kokosmilch, Aubergine
+    und Thai-Basilikum.
 en:
-  title: 'TODO: Thai Red Curry mit Hähnchen'
-  summary: |-
-    TODO: Feuriges rotes Thai-Curry mit Hähnchen, cremiger Kokosmilch, Aubergine und Thai-Basilikum.
+  title: Thai Red Curry with Chicken
+  summary: A fiery Thai Red Curry with chicken, creamy coconut milk, eggplant and
+    Thai basil.
 ingredients:
 - de_name: Hähnchenbrustfilet
-  en_name: 'TODO: Hähnchenbrustfilet'
+  en_name: chicken breast fillet
   qty: 400
   unit: g
   category: Protein und Milchprodukte
 - de_name: Kokosmilch
-  en_name: 'TODO: Kokosmilch'
+  en_name: coconut milk
   qty: 400
   unit: ml
   category: Konserven und Vorrat
 - de_name: Rote Currypaste
-  en_name: 'TODO: Rote Currypaste'
+  en_name: red curry paste
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Fischsauce
-  en_name: 'TODO: Fischsauce'
+  en_name: fish sauce
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Geflügelfond
-  en_name: 'TODO: Geflügelfond'
+  en_name: chicken stock
   qty: 100
   unit: ml
   category: Konserven und Vorrat
 - de_name: Jasminreis
-  en_name: 'TODO: Jasminreis'
+  en_name: jasmine rice
   qty: 200
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Aubergine (Thai-Aubergine oder gewöhnliche)
-  en_name: 'TODO: Aubergine (Thai-Aubergine oder gewöhnliche)'
+  en_name: eggplant (Thai eggplant or regular)
   qty: 200
   unit: g
   category: Gemüse und Salat
 - de_name: Paprika (rot)
-  en_name: 'TODO: Paprika (rot)'
+  en_name: red bell pepper
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Kaffirlimettenblätter
-  en_name: 'TODO: Kaffirlimettenblätter'
+  en_name: kaffir lime leaves
   qty: 4
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zitronengras
-  en_name: 'TODO: Zitronengras'
+  en_name: lemongrass
   qty: 1
   unit: Stange
   category: Gemüse und Salat
 - de_name: Galangal (Galgant), frisch oder TK
-  en_name: 'TODO: Galangal (Galgant), frisch oder TK'
+  en_name: galangal, fresh or frozen
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Thai-Basilikum (frisch)
-  en_name: 'TODO: Thai-Basilikum (frisch)'
+  en_name: fresh Thai basil
   qty: 1
   unit: Bund
   category: Gemüse und Salat
 - de_name: Frische rote Chili
-  en_name: 'TODO: Frische rote Chili'
+  en_name: fresh red chilli
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Palmzucker
-  en_name: 'TODO: Palmzucker'
+  en_name: palm sugar
   qty: 1
   unit: TL
   category: Konserven und Vorrat
 - de_name: Erdnussöl
-  en_name: 'TODO: Erdnussöl'
+  en_name: peanut oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Limette
-  en_name: 'TODO: Limette'
+  en_name: lime
   qty: 1
   unit: Stk
   category: Obst
 - de_name: Getrocknete Chiliflocken
-  en_name: 'TODO: Getrocknete Chiliflocken'
+  en_name: dried chilli flakes
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Jasminreis waschen und mit der 1,5-fachen Menge Wasser zum Kochen bringen. 12 Minuten bei kleiner Hitze garziehen lassen.
-- |-
-  Hähnchen in mundgerechte Würfel schneiden. Aubergine würfeln und 10 Minuten in Salzwasser einweichen, abgießen. Paprika in Streifen schneiden.
-- |-
-  Zitronengras anquetschen. Galgant in Scheiben schneiden. Chilischoten halbieren und entkernen.
+- Jasminreis waschen und mit der 1,5-fachen Menge Wasser zum Kochen bringen. 12 Minuten
+  bei kleiner Hitze garziehen lassen.
+- Hähnchen in mundgerechte Würfel schneiden. Aubergine würfeln und 10 Minuten in Salzwasser
+  einweichen, abgießen. Paprika in Streifen schneiden.
+- Zitronengras anquetschen. Galgant in Scheiben schneiden. Chilischoten halbieren
+  und entkernen.
 - Öl im Wok erhitzen. Rote Currypaste 1–2 Minuten scharf anrösten.
-- |-
-  4 EL dicke Kokosmilch zugeben und einrühren. Hähnchen zugeben und rundherum anbraten (3–4 Min.).
-- |-
-  Restliche Kokosmilch, Fond, Kaffirlimettenblätter, Zitronengras und Galgant zugeben. Aufkochen lassen.
+- 4 EL dicke Kokosmilch zugeben und einrühren. Hähnchen zugeben und rundherum anbraten
+  (3–4 Min.).
+- Restliche Kokosmilch, Fond, Kaffirlimettenblätter, Zitronengras und Galgant zugeben.
+  Aufkochen lassen.
 - Aubergine und Paprika zufügen. Bei mittlerer Hitze 10 Minuten köcheln.
-- |-
-  Mit Fischsauce, Palmzucker und Limettensaft abschmecken. Zitronengras und Galgant entfernen.
-- |-
-  Thai-Basilikum einrühren. Mit Reis anrichten und mit frischer Chili und Chiliflocken bestreuen.
+- Mit Fischsauce, Palmzucker und Limettensaft abschmecken. Zitronengras und Galgant
+  entfernen.
+- Thai-Basilikum einrühren. Mit Reis anrichten und mit frischer Chili und Chiliflocken
+  bestreuen.
 en_steps:
-- |-
-  TODO: Jasminreis waschen und mit der 1,5-fachen Menge Wasser zum Kochen bringen. 12 Minuten bei kleiner Hitze garziehen lassen.
-- |-
-  TODO: Hähnchen in mundgerechte Würfel schneiden. Aubergine würfeln und 10 Minuten in Salzwasser einweichen, abgießen. Paprika in Streifen schneiden.
-- |-
-  TODO: Zitronengras anquetschen. Galgant in Scheiben schneiden. Chilischoten halbieren und entkernen.
-- 'TODO: Öl im Wok erhitzen. Rote Currypaste 1–2 Minuten scharf anrösten.'
-- |-
-  TODO: 4 EL dicke Kokosmilch zugeben und einrühren. Hähnchen zugeben und rundherum anbraten (3–4 Min.).
-- |-
-  TODO: Restliche Kokosmilch, Fond, Kaffirlimettenblätter, Zitronengras und Galgant zugeben. Aufkochen lassen.
-- 'TODO: Aubergine und Paprika zufügen. Bei mittlerer Hitze 10 Minuten köcheln.'
-- |-
-  TODO: Mit Fischsauce, Palmzucker und Limettensaft abschmecken. Zitronengras und Galgant entfernen.
-- |-
-  TODO: Thai-Basilikum einrühren. Mit Reis anrichten und mit frischer Chili und Chiliflocken bestreuen.
+- Wash jasmine rice and bring to a boil with 1.5 times the amount of water. Cook on
+  low heat for 12 minutes.
+- Cut chicken into bite-sized cubes. Dice eggplant and soak in salted water for 10
+  minutes; drain. Cut bell pepper into strips.
+- Bruise lemongrass. Slice galangal. Halve and deseed chillies.
+- Heat oil in a wok. Stir-fry red curry paste for 1–2 minutes until fragrant.
+- Add 4 tbsp of thick coconut milk and stir in. Add chicken and fry on all sides for
+  3–4 minutes.
+- Pour in remaining coconut milk, stock, kaffir lime leaves, lemongrass and galangal.
+  Bring to a boil.
+- Add eggplant and bell pepper. Simmer over medium heat for 10 minutes.
+- Season with fish sauce, palm sugar and lime juice. Remove lemongrass and galangal.
+- Stir in Thai basil. Plate with rice and sprinkle with fresh chilli and chilli flakes.

@@ -9,46 +9,47 @@ de:
   title: Hähnchen-Bulgur-Pfanne mit Spinat
   summary: Schnelle Bulgurpfanne mit Hähnchen, Spinat und Möhren.
 en:
-  title: 'TODO: Hähnchen-Bulgur-Pfanne mit Spinat'
-  summary: 'TODO: Schnelle Bulgurpfanne mit Hähnchen, Spinat und Möhren.'
+  title: Chicken Bulgur Pan with Spinach
+  summary: A quick bulgur pan with juicy chicken, wilted spinach, and sweet carrots
+    — a healthy, filling weeknight dinner.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 750
   unit: g
   category: Protein und Milchprodukte
 - de_name: Bulgur
-  en_name: 'TODO: Bulgur'
+  en_name: bulgur
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Blattspinat
-  en_name: 'TODO: Blattspinat'
+  en_name: leaf spinach
   qty: 180
   unit: g
   category: Gemüse und Salat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: carrots
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Basilikum
-  en_name: 'TODO: Basilikum'
+  en_name: basil
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -57,6 +58,6 @@ de_steps:
 - Hähnchen mit Zwiebel scharf anbraten.
 - Möhren weich garen und Spinat unterheben.
 en_steps:
-- 'TODO: Bulgur garen.'
-- 'TODO: Hähnchen mit Zwiebel scharf anbraten.'
-- 'TODO: Möhren weich garen und Spinat unterheben.'
+- Cook the bulgur.
+- Sear the chicken with onion over high heat.
+- Cook the carrots until tender and fold in the spinach.

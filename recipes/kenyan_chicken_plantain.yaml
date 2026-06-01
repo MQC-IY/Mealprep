@@ -6,117 +6,116 @@ next_day: true
 meals: 2
 de:
   title: Kenianisches Hähnchen mit Kochbananen und Kokosmilch
-  summary: |-
-    Ostafrikanischer Schmortopf mit Hähnchen, reifen Kochbananen, Kokosmilch, Tomaten und Pilipili-Chili – süßlich, würzig und cremig.
+  summary: Ostafrikanischer Schmortopf mit Hähnchen, reifen Kochbananen, Kokosmilch,
+    Tomaten und Pilipili-Chili – süßlich, würzig und cremig.
 en:
-  title: 'TODO: Kenianisches Hähnchen mit Kochbananen und Kokosmilch'
-  summary: |-
-    TODO: Ostafrikanischer Schmortopf mit Hähnchen, reifen Kochbananen, Kokosmilch, Tomaten und Pilipili-Chili – süßlich, würzig und cremig.
+  title: Kenyan Chicken with Plantain and Coconut Milk
+  summary: East African braised pot with chicken, ripe plantains, coconut milk, tomatoes,
+    and pilipili chili – sweet, spicy, and creamy.
 ingredients:
 - de_name: Hähnchenstücke mit Knochen
-  en_name: 'TODO: Hähnchenstücke mit Knochen'
+  en_name: bone-in chicken pieces
   qty: 1000
   unit: g
   category: Protein und Milchprodukte
 - de_name: Kokosmilch
-  en_name: 'TODO: Kokosmilch'
+  en_name: coconut milk
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Gehackte Tomaten
-  en_name: 'TODO: Gehackte Tomaten'
+  en_name: chopped tomatoes
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: chicken stock
   qty: 200
   unit: ml
   category: Konserven und Vorrat
 - de_name: Rapsöl
-  en_name: 'TODO: Rapsöl'
+  en_name: rapeseed oil
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Kochbananen (reif-gelb)
-  en_name: 'TODO: Kochbananen (reif-gelb)'
+  en_name: plantains (ripe yellow)
   qty: 2
   unit: Stk
   category: Obst
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 5
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Ingwer, frisch
-  en_name: 'TODO: Ingwer, frisch'
+  en_name: fresh ginger
   qty: 30
   unit: g
   category: Gemüse und Salat
 - de_name: Rote Chili
-  en_name: 'TODO: Rote Chili'
+  en_name: red chili
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Koriander, frisch
-  en_name: 'TODO: Koriander, frisch'
+  en_name: fresh coriander
   qty: 1
   unit: Bund
   category: Gemüse und Salat
 - de_name: Kreuzkümmel, gemahlen
-  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  en_name: ground cumin
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Kurkuma
-  en_name: 'TODO: Kurkuma'
+  en_name: turmeric
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Koriander, gemahlen
-  en_name: 'TODO: Koriander, gemahlen'
+  en_name: ground coriander
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Paprika edelsüß
-  en_name: 'TODO: Paprika edelsüß'
+  en_name: sweet paprika
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 1.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Hähnchenstücke salzen, mit Kurkuma und Paprika edelsüß einreiben. In Öl bei hoher Hitze rundherum goldbraun anbraten, herausnehmen.
-- |-
-  Zwiebeln fein würfeln, Knoblauch und Ingwer hacken. Im Bratfett 5 Minuten weich garen.
+- Hähnchenstücke salzen, mit Kurkuma und Paprika edelsüß einreiben. In Öl bei hoher
+  Hitze rundherum goldbraun anbraten, herausnehmen.
+- Zwiebeln fein würfeln, Knoblauch und Ingwer hacken. Im Bratfett 5 Minuten weich
+  garen.
 - Kreuzkümmel, gemahlenen Koriander und Chiliflocken zugeben, 1 Minute rösten.
 - Gehackte Tomaten, Kokosmilch und Hühnerbrühe zugeben, aufkochen.
-- |-
-  Hähnchenstücke zurücklegen, Deckel drauf und 25 Minuten bei mittlerer-niedriger Hitze schmoren.
-- |-
-  Kochbananen schälen und in 2 cm dicke Schräg-Scheiben schneiden. In die Sauce geben und weitere 15 Minuten mitköcheln bis die Bananen weich sind und die Sauce eingedickt hat.
-- |-
-  Mit Salz, Chiliflocken und frischem Koriander abschmecken. Mit Ugali (Maisbrei) oder Reis servieren.
+- Hähnchenstücke zurücklegen, Deckel drauf und 25 Minuten bei mittlerer-niedriger
+  Hitze schmoren.
+- Kochbananen schälen und in 2 cm dicke Schräg-Scheiben schneiden. In die Sauce geben
+  und weitere 15 Minuten mitköcheln bis die Bananen weich sind und die Sauce eingedickt
+  hat.
+- Mit Salz, Chiliflocken und frischem Koriander abschmecken. Mit Ugali (Maisbrei)
+  oder Reis servieren.
 en_steps:
-- |-
-  TODO: Hähnchenstücke salzen, mit Kurkuma und Paprika edelsüß einreiben. In Öl bei hoher Hitze rundherum goldbraun anbraten, herausnehmen.
-- |-
-  TODO: Zwiebeln fein würfeln, Knoblauch und Ingwer hacken. Im Bratfett 5 Minuten weich garen.
-- |-
-  TODO: Kreuzkümmel, gemahlenen Koriander und Chiliflocken zugeben, 1 Minute rösten.
-- 'TODO: Gehackte Tomaten, Kokosmilch und Hühnerbrühe zugeben, aufkochen.'
-- |-
-  TODO: Hähnchenstücke zurücklegen, Deckel drauf und 25 Minuten bei mittlerer-niedriger Hitze schmoren.
-- |-
-  TODO: Kochbananen schälen und in 2 cm dicke Schräg-Scheiben schneiden. In die Sauce geben und weitere 15 Minuten mitköcheln bis die Bananen weich sind und die Sauce eingedickt hat.
-- |-
-  TODO: Mit Salz, Chiliflocken und frischem Koriander abschmecken. Mit Ugali (Maisbrei) oder Reis servieren.
+- Season chicken pieces with salt; rub with turmeric and sweet paprika. Sear in oil
+  over high heat all over until golden brown; remove.
+- Finely dice onions; chop garlic and ginger. Cook in the frying fat for 5 minutes
+  until soft.
+- Add ground cumin, ground coriander, and chili flakes; toast for 1 minute.
+- Add chopped tomatoes, coconut milk, and chicken stock; bring to a boil.
+- Return chicken pieces, put the lid on, and braise over medium-low heat for 25 minutes.
+- Peel plantains and cut into 2 cm diagonal slices. Add to the sauce and simmer for
+  a further 15 minutes until the plantains are soft and the sauce has thickened.
+- Season with salt, chili flakes, and fresh coriander. Serve with ugali (maize porridge)
+  or rice.

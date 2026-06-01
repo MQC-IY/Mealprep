@@ -6,116 +6,130 @@ next_day: false
 meals: 2
 de:
   title: Knusprige Ente à l'Orange mit Rotkohl
-  summary: |-
-    Knusprig gebratene Entenbrust auf aromatischem Orangen-Jus, begleitet von geschmortem Rotkohl mit Gewürzen – Bistro-Klassiker für zu Hause.
+  summary: Knusprig gebratene Entenbrust auf aromatischem Orangen-Jus, begleitet von
+    geschmortem Rotkohl mit Gewürzen – Bistro-Klassiker für zu Hause.
 en:
-  title: 'TODO: Knusprige Ente à l''Orange mit Rotkohl'
-  summary: |-
-    TODO: Knusprig gebratene Entenbrust auf aromatischem Orangen-Jus, begleitet von geschmortem Rotkohl mit Gewürzen – Bistro-Klassiker für zu Hause.
+  title: Crispy Duck à l'Orange with Braised Red Cabbage
+  summary: Crispy-skinned duck breast on a fragrant orange jus, accompanied by spiced
+    braised red cabbage — a bistro classic made at home.
 ingredients:
 - de_name: Entenbrüste (mit Haut)
-  en_name: 'TODO: Entenbrüste (mit Haut)'
+  en_name: duck breasts (skin-on)
   qty: 4
   unit: Stk
   category: Protein und Milchprodukte
 - de_name: Rotkohl (fein geschnitten)
-  en_name: 'TODO: Rotkohl (fein geschnitten)'
+  en_name: red cabbage, finely shredded
   qty: 800
   unit: g
   category: Gemüse und Salat
 - de_name: Rotweinzwiebel
-  en_name: 'TODO: Rotweinzwiebel'
+  en_name: red wine onion
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 3
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Orangen (Saft + Schale)
-  en_name: 'TODO: Orangen (Saft + Schale)'
+  en_name: oranges (juice and zest)
   qty: 3
   unit: Stk
   category: Obst
 - de_name: Rotweinessig
-  en_name: 'TODO: Rotweinessig'
+  en_name: red wine vinegar
   qty: 50
   unit: ml
   category: Konserven und Vorrat
 - de_name: Rotwein
-  en_name: 'TODO: Rotwein'
+  en_name: red wine
   qty: 100
   unit: ml
   category: Konserven und Vorrat
 - de_name: Entenfond oder Kalbsfond
-  en_name: 'TODO: Entenfond oder Kalbsfond'
+  en_name: duck stock or veal stock
   qty: 250
   unit: ml
   category: Konserven und Vorrat
 - de_name: Butter
-  en_name: 'TODO: Butter'
+  en_name: butter
   qty: 40
   unit: g
   category: Protein und Milchprodukte
 - de_name: Brauner Zucker
-  en_name: 'TODO: Brauner Zucker'
+  en_name: brown sugar
   qty: 20
   unit: g
   category: Konserven und Vorrat
 - de_name: Lorbeerblatt
-  en_name: 'TODO: Lorbeerblatt'
+  en_name: bay leaves
   qty: 2
   unit: Stk
   category: Gewürze
 - de_name: Nelken (gemahlen)
-  en_name: 'TODO: Nelken (gemahlen)'
+  en_name: cloves, ground
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Zimt (gemahlen)
-  en_name: 'TODO: Zimt (gemahlen)'
+  en_name: cinnamon, ground
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Wacholderbeeren (gequetscht)
-  en_name: 'TODO: Wacholderbeeren (gequetscht)'
+  en_name: juniper berries, crushed
   qty: 4
   unit: Stk
   category: Gewürze
 - de_name: Meersalz
-  en_name: 'TODO: Meersalz'
+  en_name: sea salt
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Rotkohl: Zwiebeln in Streifen schneiden, in einem Schmortopf mit etwas Butter bei mittlerer Hitze anschwitzen. Rotkohl zufügen, Rotwein, Rotweinessig und braunen Zucker einrühren. Nelken, Zimt, Wacholderbeeren und Lorbeerblätter dazugeben. Mit Salz abschmecken, Deckel auflegen und bei kleiner Hitze 35–40 Min. sanft schmoren, gelegentlich umrühren.
-- |-
-  Entenbrüste: Die Haut rautenförmig einritzen (bis knapp ans Fleisch), nicht ins Fleisch schneiden. Kräftig mit Salz und schwarzem Pfeffer würzen.
-- |-
-  Entenbrüste mit Hautseite nach unten in eine kalte, trockene Pfanne legen. Bei mittlerer Hitze beginnen und langsam hochschalten – das Fett soll sich 8–10 Min. herausbraten, bis die Haut goldbraun und knusprig ist. Wenden, Hitze erhöhen, Fleischseite 3–4 Min. braten für medium. Entenbrüste herausnehmen, auf einem Gitter 8 Min. ruhen lassen.
-- |-
-  Orangensauce: Überschüssiges Entenfett abgießen (aufbewahren!). Knoblauch fein hacken, 30 Sek. in der Pfanne anschwitzen. Orangensaft und -schale (1 Orange) sowie Fond eingießen, kräftig aufkochen. Auf die Hälfte einreduzieren, durch ein Sieb passieren.
-- |-
-  Sauce vom Herd nehmen, kalte Butter einmontieren. Mit Salz, Pfeffer und ggf. einem Spritzer Orangensaft abschmecken. Sauce soll glänzend und leicht sämig sein.
-- |-
-  Entenbrüste schräg in dünne Tranchen aufschneiden. Rotkohl und Entenscheiben auf vorgewärmten Tellern anrichten, Orangensauce um die Ente gießen. Sofort servieren.
+- 'Rotkohl: Zwiebeln in Streifen schneiden, in einem Schmortopf mit etwas Butter bei
+  mittlerer Hitze anschwitzen. Rotkohl zufügen, Rotwein, Rotweinessig und braunen
+  Zucker einrühren. Nelken, Zimt, Wacholderbeeren und Lorbeerblätter dazugeben. Mit
+  Salz abschmecken, Deckel auflegen und bei kleiner Hitze 35–40 Min. sanft schmoren,
+  gelegentlich umrühren.'
+- 'Entenbrüste: Die Haut rautenförmig einritzen (bis knapp ans Fleisch), nicht ins
+  Fleisch schneiden. Kräftig mit Salz und schwarzem Pfeffer würzen.'
+- Entenbrüste mit Hautseite nach unten in eine kalte, trockene Pfanne legen. Bei mittlerer
+  Hitze beginnen und langsam hochschalten – das Fett soll sich 8–10 Min. herausbraten,
+  bis die Haut goldbraun und knusprig ist. Wenden, Hitze erhöhen, Fleischseite 3–4
+  Min. braten für medium. Entenbrüste herausnehmen, auf einem Gitter 8 Min. ruhen
+  lassen.
+- 'Orangensauce: Überschüssiges Entenfett abgießen (aufbewahren!). Knoblauch fein
+  hacken, 30 Sek. in der Pfanne anschwitzen. Orangensaft und -schale (1 Orange) sowie
+  Fond eingießen, kräftig aufkochen. Auf die Hälfte einreduzieren, durch ein Sieb
+  passieren.'
+- Sauce vom Herd nehmen, kalte Butter einmontieren. Mit Salz, Pfeffer und ggf. einem
+  Spritzer Orangensaft abschmecken. Sauce soll glänzend und leicht sämig sein.
+- Entenbrüste schräg in dünne Tranchen aufschneiden. Rotkohl und Entenscheiben auf
+  vorgewärmten Tellern anrichten, Orangensauce um die Ente gießen. Sofort servieren.
 en_steps:
-- |-
-  TODO: Rotkohl: Zwiebeln in Streifen schneiden, in einem Schmortopf mit etwas Butter bei mittlerer Hitze anschwitzen. Rotkohl zufügen, Rotwein, Rotweinessig und braunen Zucker einrühren. Nelken, Zimt, Wacholderbeeren und Lorbeerblätter dazugeben. Mit Salz abschmecken, Deckel auflegen und bei kleiner Hitze 35–40 Min. sanft schmoren, gelegentlich umrühren.
-- |-
-  TODO: Entenbrüste: Die Haut rautenförmig einritzen (bis knapp ans Fleisch), nicht ins Fleisch schneiden. Kräftig mit Salz und schwarzem Pfeffer würzen.
-- |-
-  TODO: Entenbrüste mit Hautseite nach unten in eine kalte, trockene Pfanne legen. Bei mittlerer Hitze beginnen und langsam hochschalten – das Fett soll sich 8–10 Min. herausbraten, bis die Haut goldbraun und knusprig ist. Wenden, Hitze erhöhen, Fleischseite 3–4 Min. braten für medium. Entenbrüste herausnehmen, auf einem Gitter 8 Min. ruhen lassen.
-- |-
-  TODO: Orangensauce: Überschüssiges Entenfett abgießen (aufbewahren!). Knoblauch fein hacken, 30 Sek. in der Pfanne anschwitzen. Orangensaft und -schale (1 Orange) sowie Fond eingießen, kräftig aufkochen. Auf die Hälfte einreduzieren, durch ein Sieb passieren.
-- |-
-  TODO: Sauce vom Herd nehmen, kalte Butter einmontieren. Mit Salz, Pfeffer und ggf. einem Spritzer Orangensaft abschmecken. Sauce soll glänzend und leicht sämig sein.
-- |-
-  TODO: Entenbrüste schräg in dünne Tranchen aufschneiden. Rotkohl und Entenscheiben auf vorgewärmten Tellern anrichten, Orangensauce um die Ente gießen. Sofort servieren.
+- 'Red cabbage: slice the onions into strips and sweat in a casserole with a little
+  butter over medium heat. Add the red cabbage, stir in the red wine, red wine vinegar,
+  and brown sugar. Add the cloves, cinnamon, juniper berries, and bay leaves. Season
+  with salt, cover, and braise over low heat for 35–40 minutes, stirring occasionally.'
+- 'Duck breasts: score the skin in a crosshatch pattern down to (but not through)
+  the flesh. Season generously with salt and black pepper.'
+- Place the duck breasts skin-side down in a cold, dry pan. Start over medium heat
+  and gradually increase — let the fat render for 8–10 minutes until the skin is golden
+  and crispy. Turn, raise the heat, and cook the flesh side for 3–4 minutes for medium.
+  Remove and rest on a rack for 8 minutes.
+- 'Orange sauce: pour off the excess duck fat (save it). Finely chop the garlic and
+  sweat for 30 seconds in the pan. Add the orange juice, zest of 1 orange, and the
+  stock; bring to a vigorous boil. Reduce by half and strain through a sieve.'
+- Remove the sauce from the heat and whisk in cold butter. Season with salt, pepper,
+  and a squeeze of orange juice if needed. The sauce should be glossy and lightly
+  syrupy.
+- Carve the duck breasts diagonally into thin slices. Plate the red cabbage and duck
+  slices on warmed plates, pour the orange sauce around the duck, and serve immediately.

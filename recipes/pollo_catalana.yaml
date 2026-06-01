@@ -6,122 +6,122 @@ next_day: true
 meals: 2
 de:
   title: Pollo a la Catalana – Hähnchen mit Oliven und Mandeln
-  summary: |-
-    Katalanisches Schmorhuhn mit Tomaten, grünen Oliven, gerösteten Mandeln, Sherry und Zitrone – die Picada macht die Sauce einzigartig.
+  summary: Katalanisches Schmorhuhn mit Tomaten, grünen Oliven, gerösteten Mandeln,
+    Sherry und Zitrone – die Picada macht die Sauce einzigartig.
 en:
-  title: 'TODO: Pollo a la Catalana – Hähnchen mit Oliven und Mandeln'
-  summary: |-
-    TODO: Katalanisches Schmorhuhn mit Tomaten, grünen Oliven, gerösteten Mandeln, Sherry und Zitrone – die Picada macht die Sauce einzigartig.
+  title: Pollo a la Catalana – Chicken with Olives and Almonds
+  summary: Catalan braised chicken with tomatoes, green olives, toasted almonds, sherry
+    and lemon – the picada makes the sauce truly special.
 ingredients:
 - de_name: Hähnchenstücke mit Knochen
-  en_name: 'TODO: Hähnchenstücke mit Knochen'
+  en_name: bone-in chicken pieces
   qty: 900
   unit: g
   category: Protein und Milchprodukte
 - de_name: Grüne Oliven entsteint
-  en_name: 'TODO: Grüne Oliven entsteint'
+  en_name: pitted green olives
   qty: 80
   unit: g
   category: Konserven und Vorrat
 - de_name: Blanchierte Mandeln
-  en_name: 'TODO: Blanchierte Mandeln'
+  en_name: blanched almonds
   qty: 60
   unit: g
   category: Konserven und Vorrat
 - de_name: Geschälte Tomaten aus der Dose
-  en_name: 'TODO: Geschälte Tomaten aus der Dose'
+  en_name: canned peeled tomatoes
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Trockener Sherry oder Weißwein
-  en_name: 'TODO: Trockener Sherry oder Weißwein'
+  en_name: dry sherry or white wine
   qty: 150
   unit: ml
   category: Konserven und Vorrat
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: chicken stock
   qty: 200
   unit: ml
   category: Konserven und Vorrat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Zitrone (Schale und Saft)
-  en_name: 'TODO: Zitrone (Schale und Saft)'
+  en_name: lemon (zest and juice)
   qty: 1
   unit: Stk
   category: Obst
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Frische Petersilie
-  en_name: 'TODO: Frische Petersilie'
+  en_name: fresh parsley
   qty: 0.5
   unit: Bund
   category: Gemüse und Salat
 - de_name: Pimentón ahumado
-  en_name: 'TODO: Pimentón ahumado'
+  en_name: smoked pimentón (pimentón ahumado)
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Safranfäden
-  en_name: 'TODO: Safranfäden'
+  en_name: saffron threads
   qty: 0.25
   unit: TL
   category: Gewürze
 - de_name: Zimt gemahlen
-  en_name: 'TODO: Zimt gemahlen'
+  en_name: ground cinnamon
   qty: 0.25
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Safranfäden in 3 EL warmem Wasser einweichen. Hähnchenstücke mit Salz, Pfeffer und Pimentón würzen.
+- Safranfäden in 3 EL warmem Wasser einweichen. Hähnchenstücke mit Salz, Pfeffer und
+  Pimentón würzen.
 - Mandeln in einer trockenen Pfanne goldbraun rösten. Beiseitestellen.
-- |-
-  Olivenöl im Schmortopf erhitzen. Hähnchenstücke von beiden Seiten 5 Minuten kräftig anbraten. Herausnehmen.
-- |-
-  Zwiebel fein würfeln, im Bratfett 6 Minuten anschwitzen. Knoblauch (3 Zehen gehackt) dazugeben, 1 Minute weiterbraten.
-- |-
-  Tomaten zerdrückt, Safranwasser, Zimt und Sherry dazugeben. Aufkochen, 3 Minuten einkochen.
-- |-
-  Brühe und Zitronenschale dazugeben. Hähnchenstücke zurücklegen. Zugedeckt 35 Minuten bei niedriger Hitze schmoren.
-- |-
-  Für die Picada: Geröstete Mandeln, 1 rohe Knoblauchzehe und Petersilie im Mörser oder Mixer zu einer groben Paste verarbeiten. Mit Zitronensaft abschmecken.
-- |-
-  Oliven und Picada in die Sauce einrühren. 10 Minuten offen köcheln. Mit Reis oder Brot servieren.
+- Olivenöl im Schmortopf erhitzen. Hähnchenstücke von beiden Seiten 5 Minuten kräftig
+  anbraten. Herausnehmen.
+- Zwiebel fein würfeln, im Bratfett 6 Minuten anschwitzen. Knoblauch (3 Zehen gehackt)
+  dazugeben, 1 Minute weiterbraten.
+- Tomaten zerdrückt, Safranwasser, Zimt und Sherry dazugeben. Aufkochen, 3 Minuten
+  einkochen.
+- Brühe und Zitronenschale dazugeben. Hähnchenstücke zurücklegen. Zugedeckt 35 Minuten
+  bei niedriger Hitze schmoren.
+- 'Für die Picada: Geröstete Mandeln, 1 rohe Knoblauchzehe und Petersilie im Mörser
+  oder Mixer zu einer groben Paste verarbeiten. Mit Zitronensaft abschmecken.'
+- Oliven und Picada in die Sauce einrühren. 10 Minuten offen köcheln. Mit Reis oder
+  Brot servieren.
 en_steps:
-- |-
-  TODO: Safranfäden in 3 EL warmem Wasser einweichen. Hähnchenstücke mit Salz, Pfeffer und Pimentón würzen.
-- 'TODO: Mandeln in einer trockenen Pfanne goldbraun rösten. Beiseitestellen.'
-- |-
-  TODO: Olivenöl im Schmortopf erhitzen. Hähnchenstücke von beiden Seiten 5 Minuten kräftig anbraten. Herausnehmen.
-- |-
-  TODO: Zwiebel fein würfeln, im Bratfett 6 Minuten anschwitzen. Knoblauch (3 Zehen gehackt) dazugeben, 1 Minute weiterbraten.
-- |-
-  TODO: Tomaten zerdrückt, Safranwasser, Zimt und Sherry dazugeben. Aufkochen, 3 Minuten einkochen.
-- |-
-  TODO: Brühe und Zitronenschale dazugeben. Hähnchenstücke zurücklegen. Zugedeckt 35 Minuten bei niedriger Hitze schmoren.
-- |-
-  TODO: Für die Picada: Geröstete Mandeln, 1 rohe Knoblauchzehe und Petersilie im Mörser oder Mixer zu einer groben Paste verarbeiten. Mit Zitronensaft abschmecken.
-- |-
-  TODO: Oliven und Picada in die Sauce einrühren. 10 Minuten offen köcheln. Mit Reis oder Brot servieren.
+- Soak the saffron threads in 3 tbsp warm water. Season the chicken pieces with salt,
+  pepper and pimentón.
+- Toast the almonds in a dry pan until golden. Set aside.
+- Heat the olive oil in a braising pot. Brown the chicken pieces on both sides for
+  5 minutes. Remove and set aside.
+- Finely dice the onion and sweat in the cooking fat for 6 minutes. Add 3 chopped
+  garlic cloves and cook for 1 more minute.
+- Add the crushed tomatoes, saffron water, cinnamon and sherry. Bring to a boil and
+  reduce for 3 minutes.
+- Add the stock and lemon zest. Return the chicken pieces. Cover and braise over low
+  heat for 35 minutes.
+- 'For the picada: pound the toasted almonds, 1 raw garlic clove and the parsley in
+  a mortar or blender to a rough paste. Season with lemon juice.'
+- Stir the olives and picada into the sauce. Simmer uncovered for 10 minutes. Serve
+  with rice or bread.

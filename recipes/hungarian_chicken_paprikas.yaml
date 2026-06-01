@@ -6,111 +6,114 @@ next_day: true
 meals: 2
 de:
   title: Ungarisches Hähnchen-Paprikás mit Nokedli
-  summary: |-
-    Saftiges Hähnchen in cremiger Sauerrahm-Paprikasauce mit selbst gemachten Nokedli-Knöpfle – Ungarns berühmtestes Schmorgeschirr.
+  summary: Saftiges Hähnchen in cremiger Sauerrahm-Paprikasauce mit selbst gemachten
+    Nokedli-Knöpfle – Ungarns berühmtestes Schmorgeschirr.
 en:
-  title: 'TODO: Ungarisches Hähnchen-Paprikás mit Nokedli'
-  summary: |-
-    TODO: Saftiges Hähnchen in cremiger Sauerrahm-Paprikasauce mit selbst gemachten Nokedli-Knöpfle – Ungarns berühmtestes Schmorgeschirr.
+  title: Hungarian Chicken Paprikás with Nokedli
+  summary: Juicy chicken in a creamy sour cream paprika sauce with home-made nokedli
+    dumplings — Hungary's most celebrated braise.
 ingredients:
 - de_name: Hähnchenschenkel (mit Knochen)
-  en_name: 'TODO: Hähnchenschenkel (mit Knochen)'
+  en_name: Chicken thighs (bone-in)
   qty: 700
   unit: g
   category: Protein und Milchprodukte
 - de_name: Sauerrahm (20 %)
-  en_name: 'TODO: Sauerrahm (20 %)'
+  en_name: Sour cream (20 %)
   qty: 250
   unit: g
   category: Protein und Milchprodukte
 - de_name: Eier
-  en_name: 'TODO: Eier'
+  en_name: Eggs
   qty: 2
   unit: Stk
   category: Protein und Milchprodukte
 - de_name: Weizenmehl (Typ 405)
-  en_name: 'TODO: Weizenmehl (Typ 405)'
+  en_name: Plain flour
   qty: 200
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Schmalz oder Butterschmalz
-  en_name: 'TODO: Schmalz oder Butterschmalz'
+  en_name: Lard or clarified butter
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: Chicken stock
   qty: 300
   unit: ml
   category: Konserven und Vorrat
 - de_name: Zwiebeln
-  en_name: 'TODO: Zwiebeln'
+  en_name: Onions
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Paprikaschoten, rot
-  en_name: 'TODO: Paprikaschoten, rot'
+  en_name: Red bell peppers
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: Garlic cloves
   qty: 3
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Edelsüßes Paprikapulver
-  en_name: 'TODO: Edelsüßes Paprikapulver'
+  en_name: Sweet paprika
   qty: 3
   unit: EL
   category: Gewürze
 - de_name: Rosenpaprika (scharf)
-  en_name: 'TODO: Rosenpaprika (scharf)'
+  en_name: Rose paprika (hot)
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Kümmel (gemahlen)
-  en_name: 'TODO: Kümmel (gemahlen)'
+  en_name: Ground caraway
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: Salt
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: Black pepper
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Lorbeerblätter
-  en_name: 'TODO: Lorbeerblätter'
+  en_name: Bay leaves
   qty: 2
   unit: Stk
   category: Gewürze
 de_steps:
-- |-
-  Hähnchenstücke salzen und pfeffern. Schmalz in einem schweren Topf erhitzen, Hähnchen von allen Seiten goldbraun anbraten. Herausnehmen.
-- |-
-  Zwiebeln fein würfeln und im Bratfett 8 Minuten golden anschwitzen. Topf vom Herd nehmen, edelsüßes Paprikapulver und Rosenpaprika einrühren – wichtig: Paprika nie bei hoher Hitze rösten.
-- |-
-  Hühnerbrühe einrühren, Hähnchen zurücklegen. Knoblauch, Paprikaschoten (gewürfelt), Kümmel und Lorbeer hinzufügen. Zugedeckt bei mittlerer Hitze 40 Minuten schmoren.
-- |-
-  Für die Nokedli: Mehl, Eier, 1 TL Salz und 100–120 ml Wasser zu einem zähen Teig rühren. Gesalzenes Wasser zum Kochen bringen. Teig durch ein Spätzlesieb oder eine Nokedli-Reibe ins Wasser drücken, 2–3 Minuten kochen. Abgießen.
-- |-
-  Hähnchen herausnehmen, Lorbeer entfernen. Sauerrahm mit 2 EL Sauce glatt rühren, dann in die Sauce einrühren. Nicht mehr kochen lassen.
-- |-
-  Hähnchen zurück in die Sauce legen. Mit Nokedli servieren und frischer Petersilie bestreuen.
+- Hähnchenstücke salzen und pfeffern. Schmalz in einem schweren Topf erhitzen, Hähnchen
+  von allen Seiten goldbraun anbraten. Herausnehmen.
+- 'Zwiebeln fein würfeln und im Bratfett 8 Minuten golden anschwitzen. Topf vom Herd
+  nehmen, edelsüßes Paprikapulver und Rosenpaprika einrühren – wichtig: Paprika nie
+  bei hoher Hitze rösten.'
+- Hühnerbrühe einrühren, Hähnchen zurücklegen. Knoblauch, Paprikaschoten (gewürfelt),
+  Kümmel und Lorbeer hinzufügen. Zugedeckt bei mittlerer Hitze 40 Minuten schmoren.
+- 'Für die Nokedli: Mehl, Eier, 1 TL Salz und 100–120 ml Wasser zu einem zähen Teig
+  rühren. Gesalzenes Wasser zum Kochen bringen. Teig durch ein Spätzlesieb oder eine
+  Nokedli-Reibe ins Wasser drücken, 2–3 Minuten kochen. Abgießen.'
+- Hähnchen herausnehmen, Lorbeer entfernen. Sauerrahm mit 2 EL Sauce glatt rühren,
+  dann in die Sauce einrühren. Nicht mehr kochen lassen.
+- Hähnchen zurück in die Sauce legen. Mit Nokedli servieren und frischer Petersilie
+  bestreuen.
 en_steps:
-- |-
-  TODO: Hähnchenstücke salzen und pfeffern. Schmalz in einem schweren Topf erhitzen, Hähnchen von allen Seiten goldbraun anbraten. Herausnehmen.
-- |-
-  TODO: Zwiebeln fein würfeln und im Bratfett 8 Minuten golden anschwitzen. Topf vom Herd nehmen, edelsüßes Paprikapulver und Rosenpaprika einrühren – wichtig: Paprika nie bei hoher Hitze rösten.
-- |-
-  TODO: Hühnerbrühe einrühren, Hähnchen zurücklegen. Knoblauch, Paprikaschoten (gewürfelt), Kümmel und Lorbeer hinzufügen. Zugedeckt bei mittlerer Hitze 40 Minuten schmoren.
-- |-
-  TODO: Für die Nokedli: Mehl, Eier, 1 TL Salz und 100–120 ml Wasser zu einem zähen Teig rühren. Gesalzenes Wasser zum Kochen bringen. Teig durch ein Spätzlesieb oder eine Nokedli-Reibe ins Wasser drücken, 2–3 Minuten kochen. Abgießen.
-- |-
-  TODO: Hähnchen herausnehmen, Lorbeer entfernen. Sauerrahm mit 2 EL Sauce glatt rühren, dann in die Sauce einrühren. Nicht mehr kochen lassen.
-- |-
-  TODO: Hähnchen zurück in die Sauce legen. Mit Nokedli servieren und frischer Petersilie bestreuen.
+- Season the chicken pieces with salt and pepper. Heat lard in a heavy pot and brown
+  the chicken on all sides until golden. Remove.
+- 'Finely dice the onions and sweat golden in the fat for 8 minutes. Remove the pot
+  from the heat; stir in the sweet paprika and rose paprika — important: never fry
+  paprika over high heat.'
+- Stir in the chicken stock and return the chicken. Add the garlic, diced red peppers,
+  caraway, and bay leaves. Cover and braise over medium heat for 40 minutes.
+- 'For the nokedli: mix the flour, eggs, 1 tsp salt, and 100–120 ml water into a thick
+  batter. Bring salted water to a boil. Push the batter through a spätzle sieve or
+  nokedli grater into the water and cook for 2–3 minutes. Drain.'
+- Remove the chicken and discard the bay leaves. Stir the sour cream with 2 tbsp of
+  the sauce until smooth, then stir into the sauce. Do not allow to boil again.
+- Return the chicken to the sauce. Serve with nokedli and a sprinkle of fresh parsley.

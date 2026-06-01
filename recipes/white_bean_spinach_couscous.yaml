@@ -9,46 +9,47 @@ de:
   title: Couscous mit weißen Bohnen und Spinat
   summary: Sehr schnelles Couscousgericht mit Bohnen, Spinat und Zitronenjoghurt.
 en:
-  title: 'TODO: Couscous mit weißen Bohnen und Spinat'
-  summary: 'TODO: Sehr schnelles Couscousgericht mit Bohnen, Spinat und Zitronenjoghurt.'
+  title: Couscous with White Beans and Spinach
+  summary: A very quick couscous dish with white beans, spinach, and a lemony yogurt
+    dressing.
 ingredients:
 - de_name: Couscous
-  en_name: 'TODO: Couscous'
+  en_name: Couscous
   qty: 280
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Weiße Bohnen
-  en_name: 'TODO: Weiße Bohnen'
+  en_name: White beans
   qty: 2
   unit: Dosen
   category: Konserven und Vorrat
 - de_name: Blattspinat
-  en_name: 'TODO: Blattspinat'
+  en_name: Baby spinach
   qty: 180
   unit: g
   category: Gemüse und Salat
 - de_name: Naturjoghurt
-  en_name: 'TODO: Naturjoghurt'
+  en_name: Plain yogurt
   qty: 180
   unit: g
   category: Protein und Milchprodukte
 - de_name: Zitrone oder Limette
-  en_name: 'TODO: Zitrone oder Limette'
+  en_name: Lemon or lime
   qty: 1
   unit: Stk
   category: Obst
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Minze, getrocknet
-  en_name: 'TODO: Minze, getrocknet'
+  en_name: Dried mint
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -57,6 +58,6 @@ de_steps:
 - Bohnen mit Spinat kurz erwärmen, bis der Spinat zusammenfällt.
 - Joghurt mit etwas Zitrone verrühren.
 en_steps:
-- 'TODO: Couscous quellen lassen.'
-- 'TODO: Bohnen mit Spinat kurz erwärmen, bis der Spinat zusammenfällt.'
-- 'TODO: Joghurt mit etwas Zitrone verrühren.'
+- Steep the couscous in boiling water until absorbed.
+- Warm the beans and spinach together until the spinach wilts.
+- Stir the yogurt with a little lemon juice.

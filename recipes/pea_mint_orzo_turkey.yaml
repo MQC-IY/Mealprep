@@ -9,46 +9,46 @@ de:
   title: Puten-Orzo mit Erbsen und Minze
   summary: Schnelle Orzo-Pfanne mit Putenhack, Erbsen und einer milden Joghurt-Note.
 en:
-  title: 'TODO: Puten-Orzo mit Erbsen und Minze'
-  summary: 'TODO: Schnelle Orzo-Pfanne mit Putenhack, Erbsen und einer milden Joghurt-Note.'
+  title: Turkey Orzo with Peas and Mint
+  summary: Quick orzo pan with minced turkey, peas and a gentle hint of yogurt.
 ingredients:
 - de_name: Putenhack
-  en_name: 'TODO: Putenhack'
+  en_name: minced turkey
   qty: 650
   unit: g
   category: Protein und Milchprodukte
 - de_name: Orzo oder Kritharaki
-  en_name: 'TODO: Orzo oder Kritharaki'
+  en_name: orzo or kritharaki
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Erbsen, TK
-  en_name: 'TODO: Erbsen, TK'
+  en_name: frozen peas
   qty: 250
   unit: g
   category: Gemüse und Salat
 - de_name: Naturjoghurt
-  en_name: 'TODO: Naturjoghurt'
+  en_name: plain yogurt
   qty: 120
   unit: g
   category: Protein und Milchprodukte
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Minze, getrocknet
-  en_name: 'TODO: Minze, getrocknet'
+  en_name: dried mint
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -57,6 +57,6 @@ de_steps:
 - Putenhack mit Zwiebel scharf anbraten.
 - Erbsen zugeben und kurz mitgaren, etwas Joghurt unterrühren.
 en_steps:
-- 'TODO: Orzo weich garen.'
-- 'TODO: Putenhack mit Zwiebel scharf anbraten.'
-- 'TODO: Erbsen zugeben und kurz mitgaren, etwas Joghurt unterrühren.'
+- Cook the orzo until tender.
+- Sear the minced turkey with the onion until browned.
+- Add the peas and cook briefly, then stir in a little yogurt.

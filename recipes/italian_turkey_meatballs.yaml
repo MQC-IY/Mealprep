@@ -6,90 +6,89 @@ next_day: true
 meals: 3
 de:
   title: Italienische Putenbällchen in Tomatensauce
-  summary: |-
-    Saftige Polpette aus Putenhack in aromatischer Tomatensauce mit Kräutern, Knoblauch und Vollkornnudeln.
+  summary: Saftige Polpette aus Putenhack in aromatischer Tomatensauce mit Kräutern,
+    Knoblauch und Vollkornnudeln.
 en:
-  title: 'TODO: Italienische Putenbällchen in Tomatensauce'
-  summary: |-
-    TODO: Saftige Polpette aus Putenhack in aromatischer Tomatensauce mit Kräutern, Knoblauch und Vollkornnudeln.
+  title: Italian Turkey Meatballs in Tomato Sauce
+  summary: Juicy turkey polpette in a fragrant tomato sauce with herbs, garlic, and
+    whole-wheat pasta.
 ingredients:
 - de_name: Putenhack
-  en_name: 'TODO: Putenhack'
+  en_name: ground turkey
   qty: 650
   unit: g
   category: Protein und Milchprodukte
 - de_name: Vollkornnudeln
-  en_name: 'TODO: Vollkornnudeln'
+  en_name: whole-wheat pasta
   qty: 350
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Passierte Tomaten
-  en_name: 'TODO: Passierte Tomaten'
+  en_name: tomato passata
   qty: 1
   unit: Glas
   category: Konserven und Vorrat
 - de_name: Gehackte Tomaten
-  en_name: 'TODO: Gehackte Tomaten'
+  en_name: chopped tomatoes
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: carrots
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 2
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Ei
-  en_name: 'TODO: Ei'
+  en_name: egg
   qty: 1
   unit: Stk
   category: Protein und Milchprodukte
 - de_name: Semmelbrösel
-  en_name: 'TODO: Semmelbrösel'
+  en_name: breadcrumbs
   qty: 4
   unit: EL
   category: Kohlenhydrate und Sattmacher
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Oregano
-  en_name: 'TODO: Oregano'
+  en_name: oregano
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Basilikum
-  en_name: 'TODO: Basilikum'
+  en_name: basil
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Putenhack mit Ei, Semmelbröseln, der Hälfte von Oregano und Basilikum sowie etwas fein gehacktem Knoblauch mischen und kleine Bällchen formen.
+- Putenhack mit Ei, Semmelbröseln, der Hälfte von Oregano und Basilikum sowie etwas
+  fein gehacktem Knoblauch mischen und kleine Bällchen formen.
 - Zwiebel, Möhren und restlichen Knoblauch in Olivenöl anschwitzen.
-- |-
-  Passierte und gehackte Tomaten zugeben, restliche Kräuter einrühren und die Sauce einige Minuten köcheln lassen.
+- Passierte und gehackte Tomaten zugeben, restliche Kräuter einrühren und die Sauce
+  einige Minuten köcheln lassen.
 - Bällchen in der Sauce gar ziehen lassen, bis sie saftig und durchgegart sind.
 en_steps:
-- |-
-  TODO: Putenhack mit Ei, Semmelbröseln, der Hälfte von Oregano und Basilikum sowie etwas fein gehacktem Knoblauch mischen und kleine Bällchen formen.
-- 'TODO: Zwiebel, Möhren und restlichen Knoblauch in Olivenöl anschwitzen.'
-- |-
-  TODO: Passierte und gehackte Tomaten zugeben, restliche Kräuter einrühren und die Sauce einige Minuten köcheln lassen.
-- |-
-  TODO: Bällchen in der Sauce gar ziehen lassen, bis sie saftig und durchgegart sind.
+- Mix ground turkey with egg, breadcrumbs, half the oregano and basil, and a little
+  finely chopped garlic; shape into small balls.
+- Sweat onion, carrots, and remaining garlic in olive oil.
+- Add passata and chopped tomatoes, stir in the remaining herbs, and let the sauce
+  simmer for a few minutes.
+- Cook the meatballs in the sauce until they are juicy and cooked through.

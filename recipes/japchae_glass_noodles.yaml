@@ -6,126 +6,123 @@ next_day: false
 meals: 2
 de:
   title: Koreanische Japchae-Glasnudelpfanne mit Hähnchen
-  summary: |-
-    Seidig-geschmeidige Glasnudeln aus Süßkartoffelstärke mit Hähnchen, buntem Gemüse und süß-würziger Sesam-Sojasoße.
+  summary: Seidig-geschmeidige Glasnudeln aus Süßkartoffelstärke mit Hähnchen, buntem
+    Gemüse und süß-würziger Sesam-Sojasoße.
 en:
-  title: 'TODO: Koreanische Japchae-Glasnudelpfanne mit Hähnchen'
-  summary: |-
-    TODO: Seidig-geschmeidige Glasnudeln aus Süßkartoffelstärke mit Hähnchen, buntem Gemüse und süß-würziger Sesam-Sojasoße.
+  title: Korean Japchae Glass Noodle Pan with Chicken
+  summary: Silky sweet-potato glass noodles with chicken, colourful vegetables, and
+    a sweet-savoury sesame-soy sauce.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 500
   unit: g
   category: Protein und Milchprodukte
 - de_name: Eier
-  en_name: 'TODO: Eier'
+  en_name: eggs
   qty: 2
   unit: Stk
   category: Protein und Milchprodukte
 - de_name: Spinat (frisch)
-  en_name: 'TODO: Spinat (frisch)'
+  en_name: fresh spinach
   qty: 200
   unit: g
   category: Gemüse und Salat
 - de_name: Karotten
-  en_name: 'TODO: Karotten'
+  en_name: carrots
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Paprika (rot)
-  en_name: 'TODO: Paprika (rot)'
+  en_name: red bell pepper
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Shiitake-Pilze (frisch)
-  en_name: 'TODO: Shiitake-Pilze (frisch)'
+  en_name: fresh shiitake mushrooms
   qty: 150
   unit: g
   category: Gemüse und Salat
 - de_name: Zwiebeln
-  en_name: 'TODO: Zwiebeln'
+  en_name: onions
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Frühlingszwiebeln
-  en_name: 'TODO: Frühlingszwiebeln'
+  en_name: spring onions
   qty: 1
   unit: Bund
   category: Gemüse und Salat
 - de_name: Dangmyeon (koreanische Glasnudeln)
-  en_name: 'TODO: Dangmyeon (koreanische Glasnudeln)'
+  en_name: dangmyeon (Korean glass noodles)
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Sojasoße
-  en_name: 'TODO: Sojasoße'
+  en_name: soy sauce
   qty: 5
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sesamöl
-  en_name: 'TODO: Sesamöl'
+  en_name: sesame oil
   qty: 4
   unit: EL
   category: Konserven und Vorrat
 - de_name: Pflanzenöl
-  en_name: 'TODO: Pflanzenöl'
+  en_name: vegetable oil
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Zucker
-  en_name: 'TODO: Zucker'
+  en_name: sugar
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Reisessig
-  en_name: 'TODO: Reisessig'
+  en_name: rice vinegar
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sesamkörner (weiß)
-  en_name: 'TODO: Sesamkörner (weiß)'
+  en_name: white sesame seeds
   qty: 3
   unit: EL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Gochugaru
-  en_name: 'TODO: Gochugaru'
+  en_name: gochugaru
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Glasnudeln 20 Minuten in kaltem Wasser einweichen, dann 5 Minuten in kochendem Wasser garen. Abgießen, kalt abspülen und in grobe Stücke schneiden.
+- Glasnudeln 20 Minuten in kaltem Wasser einweichen, dann 5 Minuten in kochendem Wasser
+  garen. Abgießen, kalt abspülen und in grobe Stücke schneiden.
 - 'Hauptsoße: 3 EL Sojasoße, 2 EL Sesamöl, Zucker und Reisessig verrühren.'
-- |-
-  Hähnchen in dünne Streifen schneiden, mit 1 EL Sojasoße und Pfeffer 10 Minuten marinieren.
-- |-
-  Eier zu dünnen Omelett-Scheiben braten und in Streifen schneiden. Beiseite legen.
-- |-
-  Gemüse einzeln in einer Pfanne kurz sautieren. Alles mit Sojasoße und Knoblauch würzen.
+- Hähnchen in dünne Streifen schneiden, mit 1 EL Sojasoße und Pfeffer 10 Minuten marinieren.
+- Eier zu dünnen Omelett-Scheiben braten und in Streifen schneiden. Beiseite legen.
+- Gemüse einzeln in einer Pfanne kurz sautieren. Alles mit Sojasoße und Knoblauch
+  würzen.
 - Hähnchen in der Pfanne mit Öl 5 Minuten braten.
-- |-
-  Alle Zutaten in einer großen Schüssel mit der Hauptsoße, Gochugaru und restlichem Sesamöl vermengen.
+- Alle Zutaten in einer großen Schüssel mit der Hauptsoße, Gochugaru und restlichem
+  Sesamöl vermengen.
 en_steps:
-- |-
-  TODO: Glasnudeln 20 Minuten in kaltem Wasser einweichen, dann 5 Minuten in kochendem Wasser garen. Abgießen, kalt abspülen und in grobe Stücke schneiden.
-- 'TODO: Hauptsoße: 3 EL Sojasoße, 2 EL Sesamöl, Zucker und Reisessig verrühren.'
-- |-
-  TODO: Hähnchen in dünne Streifen schneiden, mit 1 EL Sojasoße und Pfeffer 10 Minuten marinieren.
-- |-
-  TODO: Eier zu dünnen Omelett-Scheiben braten und in Streifen schneiden. Beiseite legen.
-- |-
-  TODO: Gemüse einzeln in einer Pfanne kurz sautieren. Alles mit Sojasoße und Knoblauch würzen.
-- 'TODO: Hähnchen in der Pfanne mit Öl 5 Minuten braten.'
-- |-
-  TODO: Alle Zutaten in einer großen Schüssel mit der Hauptsoße, Gochugaru und restlichem Sesamöl vermengen.
+- Soak glass noodles in cold water for 20 minutes, then cook in boiling water for
+  5 minutes. Drain, rinse cold, and cut into rough pieces.
+- 'Main sauce: whisk together 3 tbsp soy sauce, 2 tbsp sesame oil, sugar, and rice
+  vinegar.'
+- Cut chicken into thin strips; marinate with 1 tbsp soy sauce and pepper for 10 minutes.
+- Cook eggs into thin omelette sheets and cut into strips. Set aside.
+- Sauté each vegetable separately in a pan for a short time. Season everything with
+  soy sauce and garlic.
+- Fry the chicken in the pan with oil for 5 minutes.
+- Combine all ingredients in a large bowl with the main sauce, gochugaru, and remaining
+  sesame oil.

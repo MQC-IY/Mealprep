@@ -6,120 +6,118 @@ next_day: true
 meals: 2
 de:
   title: Spanisches Hähnchen-Chorizo-Eintopf
-  summary: |-
-    Robuster spanischer Eintopf mit Hähnchen, Chorizo, Paprika, Tomaten und Pimentón ahumado – pikant, tiefgründig und perfekt für den nächsten Tag.
+  summary: Robuster spanischer Eintopf mit Hähnchen, Chorizo, Paprika, Tomaten und
+    Pimentón ahumado – pikant, tiefgründig und perfekt für den nächsten Tag.
 en:
-  title: 'TODO: Spanisches Hähnchen-Chorizo-Eintopf'
-  summary: |-
-    TODO: Robuster spanischer Eintopf mit Hähnchen, Chorizo, Paprika, Tomaten und Pimentón ahumado – pikant, tiefgründig und perfekt für den nächsten Tag.
+  title: Spanish Chicken and Chorizo Stew
+  summary: A robust Spanish stew with chicken, chorizo, bell peppers, tomatoes and
+    smoked Pimentón – bold, deep-flavoured and even better the next day.
 ingredients:
 - de_name: Hähnchenschenkel mit Knochen
-  en_name: 'TODO: Hähnchenschenkel mit Knochen'
+  en_name: bone-in chicken thighs
   qty: 800
   unit: g
   category: Protein und Milchprodukte
 - de_name: Chorizo (halbfest)
-  en_name: 'TODO: Chorizo (halbfest)'
+  en_name: chorizo (semi-cured)
   qty: 200
   unit: g
   category: Protein und Milchprodukte
 - de_name: Geschälte Tomaten aus der Dose
-  en_name: 'TODO: Geschälte Tomaten aus der Dose'
+  en_name: canned peeled tomatoes
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: chicken stock
   qty: 300
   unit: ml
   category: Konserven und Vorrat
 - de_name: Rote Paprika
-  en_name: 'TODO: Rote Paprika'
+  en_name: red bell pepper
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Trockener Weißwein oder Sherry
-  en_name: 'TODO: Trockener Weißwein oder Sherry'
+  en_name: dry white wine or sherry
   qty: 100
   unit: ml
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Pimentón ahumado
-  en_name: 'TODO: Pimentón ahumado'
+  en_name: smoked Pimentón
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Kreuzkümmel gemahlen
-  en_name: 'TODO: Kreuzkümmel gemahlen'
+  en_name: cumin, ground
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Cayennepfeffer
-  en_name: 'TODO: Cayennepfeffer'
+  en_name: cayenne pepper
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Lorbeerblätter
-  en_name: 'TODO: Lorbeerblätter'
+  en_name: bay leaves
   qty: 2
   unit: Stk
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Frische Petersilie
-  en_name: 'TODO: Frische Petersilie'
+  en_name: fresh parsley
   qty: 0.5
   unit: Bund
   category: Gemüse und Salat
 de_steps:
 - Hähnchenschenkel würzen. Chorizo in Scheiben schneiden.
-- |-
-  Olivenöl im Schmortopf erhitzen. Hähnchen rundherum 5–6 Minuten stark anbraten. Herausnehmen.
-- |-
-  Chorizo im gleichen Topf bei mittlerer Hitze 3 Minuten anbraten, bis das Fett austritt. Herausnehmen.
-- |-
-  Zwiebel und Knoblauch (beides fein gewürfelt) im Chorizofett 5 Minuten anschwitzen. Paprika in Streifen dazugeben, weitere 5 Minuten mitschmoren.
-- |-
-  Pimentón, Kreuzkümmel, Cayenne und Lorbeer einrühren, 1 Minute rösten. Mit Weißwein/Sherry ablöschen, 2 Minuten einkochen.
+- Olivenöl im Schmortopf erhitzen. Hähnchen rundherum 5–6 Minuten stark anbraten.
+  Herausnehmen.
+- Chorizo im gleichen Topf bei mittlerer Hitze 3 Minuten anbraten, bis das Fett austritt.
+  Herausnehmen.
+- Zwiebel und Knoblauch (beides fein gewürfelt) im Chorizofett 5 Minuten anschwitzen.
+  Paprika in Streifen dazugeben, weitere 5 Minuten mitschmoren.
+- Pimentón, Kreuzkümmel, Cayenne und Lorbeer einrühren, 1 Minute rösten. Mit Weißwein/Sherry
+  ablöschen, 2 Minuten einkochen.
 - Dosentomaten (zerdrückt) und Brühe dazugeben. Hähnchen und Chorizo zurücklegen.
-- |-
-  Zugedeckt bei niedriger Hitze 40 Minuten schmoren. Deckel abnehmen, 10 Minuten offen köcheln.
+- Zugedeckt bei niedriger Hitze 40 Minuten schmoren. Deckel abnehmen, 10 Minuten offen
+  köcheln.
 - Lorbeer entfernen. Mit Petersilie bestreuen und mit Brot oder Reis servieren.
 en_steps:
-- 'TODO: Hähnchenschenkel würzen. Chorizo in Scheiben schneiden.'
-- |-
-  TODO: Olivenöl im Schmortopf erhitzen. Hähnchen rundherum 5–6 Minuten stark anbraten. Herausnehmen.
-- |-
-  TODO: Chorizo im gleichen Topf bei mittlerer Hitze 3 Minuten anbraten, bis das Fett austritt. Herausnehmen.
-- |-
-  TODO: Zwiebel und Knoblauch (beides fein gewürfelt) im Chorizofett 5 Minuten anschwitzen. Paprika in Streifen dazugeben, weitere 5 Minuten mitschmoren.
-- |-
-  TODO: Pimentón, Kreuzkümmel, Cayenne und Lorbeer einrühren, 1 Minute rösten. Mit Weißwein/Sherry ablöschen, 2 Minuten einkochen.
-- |-
-  TODO: Dosentomaten (zerdrückt) und Brühe dazugeben. Hähnchen und Chorizo zurücklegen.
-- |-
-  TODO: Zugedeckt bei niedriger Hitze 40 Minuten schmoren. Deckel abnehmen, 10 Minuten offen köcheln.
-- |-
-  TODO: Lorbeer entfernen. Mit Petersilie bestreuen und mit Brot oder Reis servieren.
+- Season chicken thighs. Slice chorizo.
+- Heat olive oil in a braising pot. Sear chicken on all sides for 5–6 minutes. Remove
+  and set aside.
+- Fry chorizo in the same pot over medium heat for 3 minutes until the fat renders.
+  Remove.
+- Finely dice onion and garlic. Sauté in the chorizo fat for 5 minutes. Add bell pepper
+  strips and cook for a further 5 minutes.
+- Stir in Pimentón, cumin, cayenne and bay leaves; toast for 1 minute. Deglaze with
+  white wine/sherry and reduce for 2 minutes.
+- Add crushed canned tomatoes and stock. Return chicken and chorizo to the pot.
+- Cover and braise over low heat for 40 minutes. Remove lid and simmer uncovered for
+  10 minutes.
+- Remove bay leaves. Sprinkle with parsley and serve with bread or rice.

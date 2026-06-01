@@ -9,41 +9,41 @@ de:
   title: Puten-Couscous mit grünen Bohnen
   summary: Schnelles Couscousgericht mit Putenhack, grünen Bohnen und Möhren.
 en:
-  title: 'TODO: Puten-Couscous mit grünen Bohnen'
-  summary: 'TODO: Schnelles Couscousgericht mit Putenhack, grünen Bohnen und Möhren.'
+  title: Turkey Couscous with Green Beans
+  summary: Quick couscous dish with minced turkey, green beans, and carrots.
 ingredients:
 - de_name: Putenhack
-  en_name: 'TODO: Putenhack'
+  en_name: Minced turkey
   qty: 650
   unit: g
   category: Protein und Milchprodukte
 - de_name: Couscous
-  en_name: 'TODO: Couscous'
+  en_name: Couscous
   qty: 280
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Grüne Bohnen
-  en_name: 'TODO: Grüne Bohnen'
+  en_name: Green beans
   qty: 350
   unit: g
   category: Gemüse und Salat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: Carrots
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: Onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chilli flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -52,6 +52,6 @@ de_steps:
 - Putenhack mit Zwiebel scharf anbraten.
 - Bohnen und Möhren weich garen.
 en_steps:
-- 'TODO: Couscous quellen lassen.'
-- 'TODO: Putenhack mit Zwiebel scharf anbraten.'
-- 'TODO: Bohnen und Möhren weich garen.'
+- Soak the couscous in hot water or stock until absorbed.
+- Brown the minced turkey with the onion over high heat.
+- Cook the green beans and carrots until tender.

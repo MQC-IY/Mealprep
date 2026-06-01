@@ -6,113 +6,111 @@ next_day: true
 meals: 2
 de:
   title: Doenjang Jjigae – Koreanischer Sojabohneneintopf
-  summary: |-
-    Kräftiger fermentierter Sojabohneneintopf mit Tofu, Zucchini, Pilzen und Hähnchen in Anchovy-Dasida-Brühe.
+  summary: Kräftiger fermentierter Sojabohneneintopf mit Tofu, Zucchini, Pilzen und
+    Hähnchen in Anchovy-Dasida-Brühe.
 en:
-  title: 'TODO: Doenjang Jjigae – Koreanischer Sojabohneneintopf'
-  summary: |-
-    TODO: Kräftiger fermentierter Sojabohneneintopf mit Tofu, Zucchini, Pilzen und Hähnchen in Anchovy-Dasida-Brühe.
+  title: Doenjang Jjigae – Korean Fermented Soybean Stew
+  summary: A robust fermented soybean paste stew with tofu, courgette, mushrooms,
+    and chicken in an anchovy-based broth.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 400
   unit: g
   category: Protein und Milchprodukte
 - de_name: Fester Tofu
-  en_name: 'TODO: Fester Tofu'
+  en_name: firm tofu
   qty: 300
   unit: g
   category: Protein und Milchprodukte
 - de_name: Zucchini
-  en_name: 'TODO: Zucchini'
+  en_name: courgette
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Champignons
-  en_name: 'TODO: Champignons'
+  en_name: button mushrooms
   qty: 150
   unit: g
   category: Gemüse und Salat
 - de_name: Zwiebeln
-  en_name: 'TODO: Zwiebeln'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 5
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Frühlingszwiebeln
-  en_name: 'TODO: Frühlingszwiebeln'
+  en_name: spring onions
   qty: 1
   unit: Bund
   category: Gemüse und Salat
 - de_name: Rote Chili (frisch)
-  en_name: 'TODO: Rote Chili (frisch)'
+  en_name: fresh red chilli
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Kurzkörniger Reis (Sushireis)
-  en_name: 'TODO: Kurzkörniger Reis (Sushireis)'
+  en_name: short-grain rice (sushi rice)
   qty: 400
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Doenjang (fermentierte Sojabohnenpaste)
-  en_name: 'TODO: Doenjang (fermentierte Sojabohnenpaste)'
+  en_name: doenjang (fermented soybean paste)
   qty: 5
   unit: EL
   category: Konserven und Vorrat
 - de_name: Gochujang
-  en_name: 'TODO: Gochujang'
+  en_name: gochujang
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Anchovy-Brühe oder Hühnerbrühe
-  en_name: 'TODO: Anchovy-Brühe oder Hühnerbrühe'
+  en_name: anchovy broth or chicken stock
   qty: 1
   unit: Liter
   category: Konserven und Vorrat
 - de_name: Sesamöl
-  en_name: 'TODO: Sesamöl'
+  en_name: sesame oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Pflanzenöl
-  en_name: 'TODO: Pflanzenöl'
+  en_name: vegetable oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Gochugaru
-  en_name: 'TODO: Gochugaru'
+  en_name: gochugaru (Korean chili flakes)
   qty: 1
   unit: EL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
 - Reis garen.
-- |-
-  Hähnchenbrust in kleine Würfel schneiden. Tofu in 2 cm große Würfel. Zucchini in Halbmonde. Zwiebel in grobe Stücke. Knoblauch fein hacken. Chili in dünne Ringe.
+- Hähnchenbrust in kleine Würfel schneiden. Tofu in 2 cm große Würfel. Zucchini in
+  Halbmonde. Zwiebel in grobe Stücke. Knoblauch fein hacken. Chili in dünne Ringe.
 - In einem Topf Pflanzenöl erhitzen, Knoblauch und Hähnchen 3 Minuten anbraten.
-- |-
-  Brühe angießen und aufkochen. Doenjang und Gochujang mit einem Schöpflöffel voll Brühe glatt rühren, dann in den Topf einrühren.
+- Brühe angießen und aufkochen. Doenjang und Gochujang mit einem Schöpflöffel voll
+  Brühe glatt rühren, dann in den Topf einrühren.
 - Zucchini, Champignons und Zwiebeln dazugeben. 10 Minuten köcheln.
 - Tofu einlegen und weitere 5 Minuten köcheln. Gochugaru einrühren.
-- |-
-  Sesamöl einträufeln. Mit Frühlingszwiebeln garnieren. Mit Reis in Schüsseln servieren.
+- Sesamöl einträufeln. Mit Frühlingszwiebeln garnieren. Mit Reis in Schüsseln servieren.
 en_steps:
-- 'TODO: Reis garen.'
-- |-
-  TODO: Hähnchenbrust in kleine Würfel schneiden. Tofu in 2 cm große Würfel. Zucchini in Halbmonde. Zwiebel in grobe Stücke. Knoblauch fein hacken. Chili in dünne Ringe.
-- |-
-  TODO: In einem Topf Pflanzenöl erhitzen, Knoblauch und Hähnchen 3 Minuten anbraten.
-- |-
-  TODO: Brühe angießen und aufkochen. Doenjang und Gochujang mit einem Schöpflöffel voll Brühe glatt rühren, dann in den Topf einrühren.
-- 'TODO: Zucchini, Champignons und Zwiebeln dazugeben. 10 Minuten köcheln.'
-- 'TODO: Tofu einlegen und weitere 5 Minuten köcheln. Gochugaru einrühren.'
-- |-
-  TODO: Sesamöl einträufeln. Mit Frühlingszwiebeln garnieren. Mit Reis in Schüsseln servieren.
+- Cook the rice.
+- Cut the chicken breast into small cubes. Cut the tofu into 2 cm cubes, the courgette
+  into half-moons, and the onion into rough chunks. Finely chop the garlic. Slice
+  the chilli into thin rings.
+- Heat the vegetable oil in a pot, then stir-fry the garlic and chicken for 3 minutes.
+- Pour in the broth and bring to a boil. Whisk the doenjang and gochujang with a ladle
+  of broth until smooth, then stir into the pot.
+- Add the courgette, mushrooms, and onion. Simmer for 10 minutes.
+- Add the tofu and simmer for a further 5 minutes. Stir in the gochugaru.
+- Drizzle with sesame oil. Garnish with spring onions. Serve in bowls with rice.

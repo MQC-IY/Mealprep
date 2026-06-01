@@ -9,41 +9,41 @@ de:
   title: Puten-Orzo mit grünen Bohnen
   summary: Schnelle Orzo-Pfanne mit Putenhack, grünen Bohnen und Möhren.
 en:
-  title: 'TODO: Puten-Orzo mit grünen Bohnen'
-  summary: 'TODO: Schnelle Orzo-Pfanne mit Putenhack, grünen Bohnen und Möhren.'
+  title: Turkey Orzo with Green Beans
+  summary: Quick orzo pan with minced turkey, green beans, and carrots.
 ingredients:
 - de_name: Putenhack
-  en_name: 'TODO: Putenhack'
+  en_name: Minced turkey
   qty: 650
   unit: g
   category: Protein und Milchprodukte
 - de_name: Orzo oder Kritharaki
-  en_name: 'TODO: Orzo oder Kritharaki'
+  en_name: Orzo or kritharaki
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Grüne Bohnen
-  en_name: 'TODO: Grüne Bohnen'
+  en_name: Green beans
   qty: 350
   unit: g
   category: Gemüse und Salat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: Carrots
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Paprika edelsüß
-  en_name: 'TODO: Paprika edelsüß'
+  en_name: Sweet paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chilli flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -52,6 +52,6 @@ de_steps:
 - Putenhack scharf anbraten.
 - Bohnen und Möhren klein schneiden und weich garen.
 en_steps:
-- 'TODO: Orzo weich garen.'
-- 'TODO: Putenhack scharf anbraten.'
-- 'TODO: Bohnen und Möhren klein schneiden und weich garen.'
+- Cook the orzo until tender.
+- Brown the minced turkey over high heat.
+- Finely chop the green beans and carrots and cook until tender.

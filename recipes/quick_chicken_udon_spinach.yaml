@@ -9,36 +9,37 @@ de:
   title: Schnelle Udon-Pfanne mit Hähnchen und Spinat
   summary: Schnelles mildes Nudelgericht mit Hähnchen, Udon und Spinat.
 en:
-  title: 'TODO: Schnelle Udon-Pfanne mit Hähnchen und Spinat'
-  summary: 'TODO: Schnelles mildes Nudelgericht mit Hähnchen, Udon und Spinat.'
+  title: Quick Chicken Udon with Spinach
+  summary: A quick, mild noodle dish with chicken, udon noodles, and spinach — ready
+    in 25 minutes.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: Chicken breast
   qty: 750
   unit: g
   category: Protein und Milchprodukte
 - de_name: Udon-Nudeln
-  en_name: 'TODO: Udon-Nudeln'
+  en_name: Udon noodles
   qty: 600
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Blattspinat
-  en_name: 'TODO: Blattspinat'
+  en_name: Baby spinach
   qty: 180
   unit: g
   category: Gemüse und Salat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: Carrots
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Rapsöl
-  en_name: 'TODO: Rapsöl'
+  en_name: Canola oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -47,6 +48,6 @@ de_steps:
 - Hähnchen scharf anbraten.
 - Möhren weich garen und Spinat unterheben.
 en_steps:
-- 'TODO: Udon weich garen.'
-- 'TODO: Hähnchen scharf anbraten.'
-- 'TODO: Möhren weich garen und Spinat unterheben.'
+- Cook the udon noodles according to package instructions until tender.
+- Sear the chicken over high heat until cooked through.
+- Cook the carrots until tender and fold in the spinach until wilted. Combine everything.

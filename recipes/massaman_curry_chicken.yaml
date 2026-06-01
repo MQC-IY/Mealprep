@@ -6,128 +6,127 @@ next_day: true
 meals: 2
 de:
   title: Massaman Curry mit Hähnchen und Kartoffeln
-  summary: |-
-    Mildes, tiefwürziges Massaman-Curry mit zartem Hähnchen, Kartoffeln, gerösteten Erdnüssen und wärmenden Gewürzen.
+  summary: Mildes, tiefwürziges Massaman-Curry mit zartem Hähnchen, Kartoffeln, gerösteten
+    Erdnüssen und wärmenden Gewürzen.
 en:
-  title: 'TODO: Massaman Curry mit Hähnchen und Kartoffeln'
-  summary: |-
-    TODO: Mildes, tiefwürziges Massaman-Curry mit zartem Hähnchen, Kartoffeln, gerösteten Erdnüssen und wärmenden Gewürzen.
+  title: Massaman Curry with Chicken and Potatoes
+  summary: A mild, deeply flavoured Massaman curry with tender chicken, potatoes,
+    roasted peanuts, and warming whole spices.
 ingredients:
 - de_name: Hähnchenschenkel (ausgelöst)
-  en_name: 'TODO: Hähnchenschenkel (ausgelöst)'
+  en_name: Boneless chicken thighs
   qty: 500
   unit: g
   category: Protein und Milchprodukte
 - de_name: Kokosmilch
-  en_name: 'TODO: Kokosmilch'
+  en_name: Coconut milk
   qty: 400
   unit: ml
   category: Konserven und Vorrat
 - de_name: Massaman-Currypaste
-  en_name: 'TODO: Massaman-Currypaste'
+  en_name: Massaman curry paste
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Geflügelfond
-  en_name: 'TODO: Geflügelfond'
+  en_name: Chicken stock
   qty: 150
   unit: ml
   category: Konserven und Vorrat
 - de_name: Fischsauce
-  en_name: 'TODO: Fischsauce'
+  en_name: Fish sauce
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Tamarindenpaste
-  en_name: 'TODO: Tamarindenpaste'
+  en_name: Tamarind paste
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Palmzucker
-  en_name: 'TODO: Palmzucker'
+  en_name: Palm sugar
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Erdnussöl
-  en_name: 'TODO: Erdnussöl'
+  en_name: Peanut oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Jasminreis
-  en_name: 'TODO: Jasminreis'
+  en_name: Jasmine rice
   qty: 200
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Kartoffeln (festkochend)
-  en_name: 'TODO: Kartoffeln (festkochend)'
+  en_name: Waxy potatoes
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: Onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Kaffirlimettenblätter
-  en_name: 'TODO: Kaffirlimettenblätter'
+  en_name: Kaffir lime leaves
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zitronengras
-  en_name: 'TODO: Zitronengras'
+  en_name: Lemongrass
   qty: 1
   unit: Stange
   category: Gemüse und Salat
 - de_name: Erdnüsse (geröstet)
-  en_name: 'TODO: Erdnüsse (geröstet)'
+  en_name: Roasted peanuts
   qty: 50
   unit: g
   category: Konserven und Vorrat
 - de_name: Limette
-  en_name: 'TODO: Limette'
+  en_name: Lime
   qty: 1
   unit: Stk
   category: Obst
 - de_name: Zimtstange
-  en_name: 'TODO: Zimtstange'
+  en_name: Cinnamon stick
   qty: 1
   unit: Stk
   category: Gewürze
 - de_name: Sternanis
-  en_name: 'TODO: Sternanis'
+  en_name: Star anise
   qty: 2
   unit: Stk
   category: Gewürze
 - de_name: Kardamomkapseln
-  en_name: 'TODO: Kardamomkapseln'
+  en_name: Cardamom pods
   qty: 3
   unit: Stk
   category: Gewürze
 de_steps:
-- |-
-  Jasminreis waschen und kochen. Kartoffeln schälen und in 3-cm-Würfel schneiden. Zwiebel in Spalten schneiden.
+- Jasminreis waschen und kochen. Kartoffeln schälen und in 3-cm-Würfel schneiden.
+  Zwiebel in Spalten schneiden.
 - Hähnchenschenkel in große Stücke teilen. Zitronengras anquetschen.
-- |-
-  Öl im Topf erhitzen. Massaman-Paste mit Zimtstange, Sternanis und Kardamom 2 Minuten bei mittlerer Hitze anrösten.
+- Öl im Topf erhitzen. Massaman-Paste mit Zimtstange, Sternanis und Kardamom 2 Minuten
+  bei mittlerer Hitze anrösten.
 - Hähnchen zugeben und von allen Seiten anbraten (4–5 Min.).
-- |-
-  Kokosmilch, Geflügelfond, Zitronengras und Kaffirlimettenblätter zugießen. Aufkochen.
-- |-
-  Kartoffeln und Zwiebel zugeben. Hitze reduzieren und 25–30 Minuten zugedeckt köcheln, bis Kartoffeln weich sind.
-- |-
-  Mit Fischsauce, Tamarindenpaste, Palmzucker und Limettensaft abschmecken. Ganzgewürze entfernen.
+- Kokosmilch, Geflügelfond, Zitronengras und Kaffirlimettenblätter zugießen. Aufkochen.
+- Kartoffeln und Zwiebel zugeben. Hitze reduzieren und 25–30 Minuten zugedeckt köcheln,
+  bis Kartoffeln weich sind.
+- Mit Fischsauce, Tamarindenpaste, Palmzucker und Limettensaft abschmecken. Ganzgewürze
+  entfernen.
 - Mit Jasminreis anrichten und mit gerösteten Erdnüssen bestreuen.
 en_steps:
-- |-
-  TODO: Jasminreis waschen und kochen. Kartoffeln schälen und in 3-cm-Würfel schneiden. Zwiebel in Spalten schneiden.
-- 'TODO: Hähnchenschenkel in große Stücke teilen. Zitronengras anquetschen.'
-- |-
-  TODO: Öl im Topf erhitzen. Massaman-Paste mit Zimtstange, Sternanis und Kardamom 2 Minuten bei mittlerer Hitze anrösten.
-- 'TODO: Hähnchen zugeben und von allen Seiten anbraten (4–5 Min.).'
-- |-
-  TODO: Kokosmilch, Geflügelfond, Zitronengras und Kaffirlimettenblätter zugießen. Aufkochen.
-- |-
-  TODO: Kartoffeln und Zwiebel zugeben. Hitze reduzieren und 25–30 Minuten zugedeckt köcheln, bis Kartoffeln weich sind.
-- |-
-  TODO: Mit Fischsauce, Tamarindenpaste, Palmzucker und Limettensaft abschmecken. Ganzgewürze entfernen.
-- 'TODO: Mit Jasminreis anrichten und mit gerösteten Erdnüssen bestreuen.'
+- Wash and cook the jasmine rice. Peel the potatoes and cut into 3 cm cubes. Cut the
+  onion into wedges.
+- Cut the chicken thighs into large pieces. Bruise the lemongrass.
+- Heat the oil in a pot. Toast the Massaman paste with the cinnamon stick, star anise,
+  and cardamom over medium heat for 2 minutes.
+- Add the chicken and sear on all sides (4–5 minutes).
+- Pour in the coconut milk, chicken stock, lemongrass, and kaffir lime leaves. Bring
+  to a boil.
+- Add the potatoes and onion. Reduce the heat and simmer covered for 25–30 minutes
+  until the potatoes are tender.
+- Season with fish sauce, tamarind paste, palm sugar, and lime juice. Remove the whole
+  spices.
+- Serve over jasmine rice and scatter with roasted peanuts.

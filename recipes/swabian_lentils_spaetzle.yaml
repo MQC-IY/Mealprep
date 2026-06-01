@@ -6,109 +6,113 @@ next_day: true
 meals: 2
 de:
   title: Schwäbische Linsen mit Spätzle und Speck
-  summary: |-
-    Schwäbisches Leibgericht: braune Belugalinsen in süß-saurer Essigbrühe mit gebratenem Speck und selbst gemachten Spätzle.
+  summary: 'Schwäbisches Leibgericht: braune Belugalinsen in süß-saurer Essigbrühe
+    mit gebratenem Speck und selbst gemachten Spätzle.'
 en:
-  title: 'TODO: Schwäbische Linsen mit Spätzle und Speck'
-  summary: |-
-    TODO: Schwäbisches Leibgericht: braune Belugalinsen in süß-saurer Essigbrühe mit gebratenem Speck und selbst gemachten Spätzle.
+  title: Swabian Lentils with Spätzle and Bacon
+  summary: 'A Swabian soul-food classic: brown beluga lentils in a sweet-sour vinegar
+    broth with crispy fried bacon and homemade Spätzle.'
 ingredients:
 - de_name: Speckwürfel oder Schwarzwälder Speck
-  en_name: 'TODO: Speckwürfel oder Schwarzwälder Speck'
+  en_name: diced bacon or Black Forest bacon
   qty: 150
   unit: g
   category: Protein und Milchprodukte
 - de_name: Eier
-  en_name: 'TODO: Eier'
+  en_name: eggs
   qty: 3
   unit: Stk
   category: Protein und Milchprodukte
 - de_name: Weizenmehl (Typ 405)
-  en_name: 'TODO: Weizenmehl (Typ 405)'
+  en_name: plain flour (type 405)
   qty: 250
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Belugalinsen oder braune Linsen
-  en_name: 'TODO: Belugalinsen oder braune Linsen'
+  en_name: beluga lentils or brown lentils
   qty: 200
   unit: g
   category: Konserven und Vorrat
 - de_name: Gemüsebrühe
-  en_name: 'TODO: Gemüsebrühe'
+  en_name: vegetable stock
   qty: 600
   unit: ml
   category: Konserven und Vorrat
 - de_name: Rotweinessig
-  en_name: 'TODO: Rotweinessig'
+  en_name: red wine vinegar
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Schmalz oder Butter
-  en_name: 'TODO: Schmalz oder Butter'
+  en_name: lard or butter
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Zwiebeln
-  en_name: 'TODO: Zwiebeln'
+  en_name: onions
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Karotten
-  en_name: 'TODO: Karotten'
+  en_name: carrots
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Selleriestangen
-  en_name: 'TODO: Selleriestangen'
+  en_name: celery stalks
   qty: 2
   unit: Stange
   category: Gemüse und Salat
 - de_name: Lorbeerblätter
-  en_name: 'TODO: Lorbeerblätter'
+  en_name: bay leaves
   qty: 2
   unit: Stk
   category: Gewürze
 - de_name: Majoran, getrocknet
-  en_name: 'TODO: Majoran, getrocknet'
+  en_name: marjoram, dried
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Zucker
-  en_name: 'TODO: Zucker'
+  en_name: sugar
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Linsen abspülen. Zwiebeln und Karotten würfeln, Sellerie schräg schneiden. Schmalz in einem Topf erhitzen, Zwiebeln und Karotten 5 Minuten anschwitzen.
-- |-
-  Linsen, Gemüsebrühe, Sellerie, Lorbeer und Majoran einrühren. Zum Kochen bringen, dann Hitze reduzieren und 25 Minuten köcheln, bis Linsen weich, aber noch bissfest sind.
-- |-
-  Für die Spätzle: Mehl, Eier, 1 TL Salz und 80–100 ml Wasser zu einem zähen, blasenwerfenden Teig schlagen. Gesalzenes Wasser zum Kochen bringen. Teig durch ein Spätzlesieb oder -brett ins Wasser streichen. Wenn die Spätzle aufsteigen (ca. 2–3 Min.), abschöpfen und kurz in eiskaltem Wasser abschrecken.
-- |-
-  Speckwürfel in einer Pfanne kross ausbraten. Spätzle hinzufügen und 3 Minuten mitbraten.
-- |-
-  Lorbeer aus den Linsen entfernen. Rotweinessig, Zucker, Salz und Pfeffer einrühren – die Linsen sollen angenehm süß-sauer schmecken. Nochmals abschmecken.
+- Linsen abspülen. Zwiebeln und Karotten würfeln, Sellerie schräg schneiden. Schmalz
+  in einem Topf erhitzen, Zwiebeln und Karotten 5 Minuten anschwitzen.
+- Linsen, Gemüsebrühe, Sellerie, Lorbeer und Majoran einrühren. Zum Kochen bringen,
+  dann Hitze reduzieren und 25 Minuten köcheln, bis Linsen weich, aber noch bissfest
+  sind.
+- 'Für die Spätzle: Mehl, Eier, 1 TL Salz und 80–100 ml Wasser zu einem zähen, blasenwerfenden
+  Teig schlagen. Gesalzenes Wasser zum Kochen bringen. Teig durch ein Spätzlesieb
+  oder -brett ins Wasser streichen. Wenn die Spätzle aufsteigen (ca. 2–3 Min.), abschöpfen
+  und kurz in eiskaltem Wasser abschrecken.'
+- Speckwürfel in einer Pfanne kross ausbraten. Spätzle hinzufügen und 3 Minuten mitbraten.
+- Lorbeer aus den Linsen entfernen. Rotweinessig, Zucker, Salz und Pfeffer einrühren
+  – die Linsen sollen angenehm süß-sauer schmecken. Nochmals abschmecken.
 - Linsen auf Teller verteilen, Speck-Spätzle darauf häufen.
 en_steps:
-- |-
-  TODO: Linsen abspülen. Zwiebeln und Karotten würfeln, Sellerie schräg schneiden. Schmalz in einem Topf erhitzen, Zwiebeln und Karotten 5 Minuten anschwitzen.
-- |-
-  TODO: Linsen, Gemüsebrühe, Sellerie, Lorbeer und Majoran einrühren. Zum Kochen bringen, dann Hitze reduzieren und 25 Minuten köcheln, bis Linsen weich, aber noch bissfest sind.
-- |-
-  TODO: Für die Spätzle: Mehl, Eier, 1 TL Salz und 80–100 ml Wasser zu einem zähen, blasenwerfenden Teig schlagen. Gesalzenes Wasser zum Kochen bringen. Teig durch ein Spätzlesieb oder -brett ins Wasser streichen. Wenn die Spätzle aufsteigen (ca. 2–3 Min.), abschöpfen und kurz in eiskaltem Wasser abschrecken.
-- |-
-  TODO: Speckwürfel in einer Pfanne kross ausbraten. Spätzle hinzufügen und 3 Minuten mitbraten.
-- |-
-  TODO: Lorbeer aus den Linsen entfernen. Rotweinessig, Zucker, Salz und Pfeffer einrühren – die Linsen sollen angenehm süß-sauer schmecken. Nochmals abschmecken.
-- 'TODO: Linsen auf Teller verteilen, Speck-Spätzle darauf häufen.'
+- Rinse lentils. Dice onions and carrots; cut celery on the diagonal. Heat lard or
+  butter in a pot, sauté onions and carrots for 5 minutes.
+- Stir in lentils, vegetable stock, celery, bay leaves and marjoram. Bring to a boil,
+  then reduce heat and simmer for 25 minutes until lentils are tender but still have
+  some bite.
+- 'For the Spätzle: beat flour, eggs, 1 tsp salt and 80–100 ml water into a thick,
+  bubbly batter. Bring salted water to a boil. Press batter through a Spätzle sieve
+  or board into the water. Once the Spätzle float to the surface (approx. 2–3 min.),
+  skim off and briefly rinse in ice-cold water.'
+- Fry bacon cubes in a pan until crispy. Add Spätzle and fry together for 3 minutes.
+- Remove bay leaves from lentils. Stir in red wine vinegar, sugar, salt and pepper
+  – the lentils should taste pleasantly sweet-sour. Adjust seasoning.
+- Spoon lentils onto plates and heap the bacon-Spätzle on top.

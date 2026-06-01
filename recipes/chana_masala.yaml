@@ -6,136 +6,136 @@ next_day: true
 meals: 2
 de:
   title: Chana Masala – Kichererbsen-Curry
-  summary: |-
-    Herzhafte Kichererbsen in einer würzigen Tomatensauce – vegetarischer indischer Klassiker mit intensiver Gewürznote.
+  summary: Herzhafte Kichererbsen in einer würzigen Tomatensauce – vegetarischer indischer
+    Klassiker mit intensiver Gewürznote.
 en:
-  title: 'TODO: Chana Masala – Kichererbsen-Curry'
-  summary: |-
-    TODO: Herzhafte Kichererbsen in einer würzigen Tomatensauce – vegetarischer indischer Klassiker mit intensiver Gewürznote.
+  title: Chana Masala – Chickpea Curry
+  summary: Hearty chickpeas in a spiced tomato sauce – a vegetarian Indian classic
+    with bold flavour.
 ingredients:
 - de_name: Kichererbsen, gekocht
-  en_name: 'TODO: Kichererbsen, gekocht'
+  en_name: canned chickpeas
   qty: 2
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Gehackte Tomaten
-  en_name: 'TODO: Gehackte Tomaten'
+  en_name: chopped tomatoes
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Tomatenmark
-  en_name: 'TODO: Tomatenmark'
+  en_name: tomato paste
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Pflanzenöl
-  en_name: 'TODO: Pflanzenöl'
+  en_name: vegetable oil
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Zwiebeln
-  en_name: 'TODO: Zwiebeln'
+  en_name: onions
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Ingwer, frisch
-  en_name: 'TODO: Ingwer, frisch'
+  en_name: fresh ginger
   qty: 3
   unit: cm
   category: Gemüse und Salat
 - de_name: Grüne Chilischote
-  en_name: 'TODO: Grüne Chilischote'
+  en_name: green chili
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Frische Korianderblätter
-  en_name: 'TODO: Frische Korianderblätter'
+  en_name: fresh cilantro leaves
   qty: 0.5
   unit: Bund
   category: Gemüse und Salat
 - de_name: Basmatireis
-  en_name: 'TODO: Basmatireis'
+  en_name: basmati rice
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Zitrone
-  en_name: 'TODO: Zitrone'
+  en_name: lemon
   qty: 1
   unit: Stk
   category: Obst
 - de_name: Chana Masala Gewürzmischung
-  en_name: 'TODO: Chana Masala Gewürzmischung'
+  en_name: chana masala spice blend
   qty: 2
   unit: EL
   category: Gewürze
 - de_name: Kreuzkümmel, gemahlen
-  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  en_name: ground cumin
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Koriander, gemahlen
-  en_name: 'TODO: Koriander, gemahlen'
+  en_name: ground coriander
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Kurkuma
-  en_name: 'TODO: Kurkuma'
+  en_name: turmeric
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Garam Masala
-  en_name: 'TODO: Garam Masala'
+  en_name: garam masala
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Kashmiri-Chilipulver
-  en_name: 'TODO: Kashmiri-Chilipulver'
+  en_name: Kashmiri chili powder
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Kreuzkümmelsamen
-  en_name: 'TODO: Kreuzkümmelsamen'
+  en_name: cumin seeds
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Amchur (Mangopulver)
-  en_name: 'TODO: Amchur (Mangopulver)'
+  en_name: amchur (dried mango powder)
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Zwiebeln fein würfeln. Knoblauch und Ingwer zu einer Paste reiben. Grüne Chilischoten fein hacken.
-- |-
-  Öl in einem schweren Topf erhitzen. Kreuzkümmelsamen 30 Sekunden anrösten. Zwiebeln dazugeben und 10–12 Minuten dunkelgoldbraun braten.
-- |-
-  Knoblauch-Ingwer-Paste und Chilischoten einrühren, 2 Minuten braten. Alle gemahlenen Gewürze außer Garam Masala hinzufügen und 1 Minute rösten.
-- |-
-  Tomatenmark einrühren, dann gehackte Tomaten dazugeben. 10 Minuten köcheln, bis sich das Öl absetzt.
-- |-
-  Abgetropfte Kichererbsen hinzufügen, 150 ml Wasser einrühren. 15 Minuten köcheln, einige Kichererbsen dabei leicht zerdrücken, um die Sauce zu binden.
-- |-
-  Mit Garam Masala, Amchur, Salz und einem Spritzer Zitronensaft abschmecken. Mit frischem Koriander garnieren und mit Basmatireis servieren.
+- Zwiebeln fein würfeln. Knoblauch und Ingwer zu einer Paste reiben. Grüne Chilischoten
+  fein hacken.
+- Öl in einem schweren Topf erhitzen. Kreuzkümmelsamen 30 Sekunden anrösten. Zwiebeln
+  dazugeben und 10–12 Minuten dunkelgoldbraun braten.
+- Knoblauch-Ingwer-Paste und Chilischoten einrühren, 2 Minuten braten. Alle gemahlenen
+  Gewürze außer Garam Masala hinzufügen und 1 Minute rösten.
+- Tomatenmark einrühren, dann gehackte Tomaten dazugeben. 10 Minuten köcheln, bis
+  sich das Öl absetzt.
+- Abgetropfte Kichererbsen hinzufügen, 150 ml Wasser einrühren. 15 Minuten köcheln,
+  einige Kichererbsen dabei leicht zerdrücken, um die Sauce zu binden.
+- Mit Garam Masala, Amchur, Salz und einem Spritzer Zitronensaft abschmecken. Mit
+  frischem Koriander garnieren und mit Basmatireis servieren.
 en_steps:
-- |-
-  TODO: Zwiebeln fein würfeln. Knoblauch und Ingwer zu einer Paste reiben. Grüne Chilischoten fein hacken.
-- |-
-  TODO: Öl in einem schweren Topf erhitzen. Kreuzkümmelsamen 30 Sekunden anrösten. Zwiebeln dazugeben und 10–12 Minuten dunkelgoldbraun braten.
-- |-
-  TODO: Knoblauch-Ingwer-Paste und Chilischoten einrühren, 2 Minuten braten. Alle gemahlenen Gewürze außer Garam Masala hinzufügen und 1 Minute rösten.
-- |-
-  TODO: Tomatenmark einrühren, dann gehackte Tomaten dazugeben. 10 Minuten köcheln, bis sich das Öl absetzt.
-- |-
-  TODO: Abgetropfte Kichererbsen hinzufügen, 150 ml Wasser einrühren. 15 Minuten köcheln, einige Kichererbsen dabei leicht zerdrücken, um die Sauce zu binden.
-- |-
-  TODO: Mit Garam Masala, Amchur, Salz und einem Spritzer Zitronensaft abschmecken. Mit frischem Koriander garnieren und mit Basmatireis servieren.
+- Finely dice the onions. Grate the garlic and ginger into a paste. Finely chop the
+  green chilies.
+- Heat the oil in a heavy pot. Toast the cumin seeds for 30 seconds. Add the onions
+  and fry for 10–12 minutes until deep golden brown.
+- Stir in the garlic-ginger paste and chilies and cook for 2 minutes. Add all the
+  ground spices except the garam masala and toast for 1 minute.
+- Stir in the tomato paste, then add the chopped tomatoes. Simmer for 10 minutes until
+  the oil separates.
+- Add the drained chickpeas and 150 ml water. Simmer for 15 minutes, lightly crushing
+  some chickpeas to thicken the sauce.
+- Season with garam masala, amchur, salt, and a squeeze of lemon juice. Garnish with
+  fresh cilantro and serve with basmati rice.

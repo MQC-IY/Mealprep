@@ -9,46 +9,46 @@ de:
   title: Paprika-Linsen-Reis-Topf
   summary: Milder Topf mit Reis, roten Linsen und Paprika.
 en:
-  title: 'TODO: Paprika-Linsen-Reis-Topf'
-  summary: 'TODO: Milder Topf mit Reis, roten Linsen und Paprika.'
+  title: Mild Pepper, Lentil, and Rice Pot
+  summary: A mild one-pot of rice, red lentils, and bell pepper.
 ingredients:
 - de_name: Reis
-  en_name: 'TODO: Reis'
+  en_name: Rice
   qty: 220
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Rote Linsen
-  en_name: 'TODO: Rote Linsen'
+  en_name: Red lentils
   qty: 200
   unit: g
   category: Konserven und Vorrat
 - de_name: Paprika
-  en_name: 'TODO: Paprika'
+  en_name: Bell pepper
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Passierte Tomaten
-  en_name: 'TODO: Passierte Tomaten'
+  en_name: Strained tomatoes (passata)
   qty: 1
   unit: Glas
   category: Konserven und Vorrat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: Onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Paprika edelsüß
-  en_name: 'TODO: Paprika edelsüß'
+  en_name: Sweet paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -57,6 +57,6 @@ de_steps:
 - Linsen, Reis und Tomaten zugeben.
 - Mit Wasser weich köcheln lassen.
 en_steps:
-- 'TODO: Zwiebel und Paprika anschwitzen.'
-- 'TODO: Linsen, Reis und Tomaten zugeben.'
-- 'TODO: Mit Wasser weich köcheln lassen.'
+- Sauté the onion and bell pepper until soft.
+- Add the lentils, rice, and tomatoes.
+- Simmer with water until everything is tender.

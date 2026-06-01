@@ -6,125 +6,124 @@ next_day: true
 meals: 2
 de:
   title: Chinesisches Hähnchen mit Glasnudeln
-  summary: |-
-    Zarte Hähnchenstücke mit Glasnudeln, Pilzen und Gemüse in einer würzigen Soja-Ingwer-Sauce – schnell und sättigend.
+  summary: Zarte Hähnchenstücke mit Glasnudeln, Pilzen und Gemüse in einer würzigen
+    Soja-Ingwer-Sauce – schnell und sättigend.
 en:
-  title: 'TODO: Chinesisches Hähnchen mit Glasnudeln'
-  summary: |-
-    TODO: Zarte Hähnchenstücke mit Glasnudeln, Pilzen und Gemüse in einer würzigen Soja-Ingwer-Sauce – schnell und sättigend.
+  title: Chinese Chicken with Glass Noodles
+  summary: Tender chicken strips with glass noodles, mushrooms, and vegetables in
+    a savory soy-ginger sauce – quick, filling, and full of flavour.
 ingredients:
 - de_name: Hähnchenbrustfilet
-  en_name: 'TODO: Hähnchenbrustfilet'
+  en_name: chicken breast fillet
   qty: 350
   unit: g
   category: Protein und Milchprodukte
 - de_name: Glasnudeln (Mungbohnen-Fadennudeln)
-  en_name: 'TODO: Glasnudeln (Mungbohnen-Fadennudeln)'
+  en_name: glass noodles (mung bean vermicelli)
   qty: 150
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Getrocknete Shiitake-Pilze
-  en_name: 'TODO: Getrocknete Shiitake-Pilze'
+  en_name: dried shiitake mushrooms
   qty: 20
   unit: g
   category: Konserven und Vorrat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Ingwer, frisch
-  en_name: 'TODO: Ingwer, frisch'
+  en_name: fresh ginger
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: carrots
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Frühlingszwiebeln
-  en_name: 'TODO: Frühlingszwiebeln'
+  en_name: spring onions
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Frische rote Chili
-  en_name: 'TODO: Frische rote Chili'
+  en_name: fresh red chilli
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Sojasauce
-  en_name: 'TODO: Sojasauce'
+  en_name: soy sauce
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Dunkle Sojasauce
-  en_name: 'TODO: Dunkle Sojasauce'
+  en_name: dark soy sauce
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Austernsauce
-  en_name: 'TODO: Austernsauce'
+  en_name: oyster sauce
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Shaoxing-Reiswein
-  en_name: 'TODO: Shaoxing-Reiswein'
+  en_name: Shaoxing rice wine
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: chicken stock
   qty: 200
   unit: ml
   category: Konserven und Vorrat
 - de_name: Sesamöl
-  en_name: 'TODO: Sesamöl'
+  en_name: sesame oil
   qty: 1
   unit: TL
   category: Konserven und Vorrat
 - de_name: Speisestärke
-  en_name: 'TODO: Speisestärke'
+  en_name: cornstarch
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Erdnussöl
-  en_name: 'TODO: Erdnussöl'
+  en_name: peanut oil
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Weißer Pfeffer, gemahlen
-  en_name: 'TODO: Weißer Pfeffer, gemahlen'
+  en_name: white pepper, ground
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Getrocknete Shiitake-Pilze in 200 ml warmem Wasser 20 Minuten einweichen. Einweichwasser aufbewahren. Pilze in Scheiben schneiden.
+- Getrocknete Shiitake-Pilze in 200 ml warmem Wasser 20 Minuten einweichen. Einweichwasser
+  aufbewahren. Pilze in Scheiben schneiden.
 - Glasnudeln in heißem Wasser 5 Minuten einweichen, abgießen.
-- |-
-  Hähnchen in dünne Streifen schneiden. Mit 1 EL Sojasauce, Stärke und Shaoxing-Wein (1 EL) 15 Minuten marinieren.
+- Hähnchen in dünne Streifen schneiden. Mit 1 EL Sojasauce, Stärke und Shaoxing-Wein
+  (1 EL) 15 Minuten marinieren.
 - Möhren in feine Stifte, Knoblauch und Ingwer fein hacken.
-- |-
-  Öl im Wok erhitzen. Hähnchen 3–4 Minuten scharf braten. Knoblauch und Ingwer zugeben.
+- Öl im Wok erhitzen. Hähnchen 3–4 Minuten scharf braten. Knoblauch und Ingwer zugeben.
 - Pilze und Möhren zugeben, 2 Minuten mitbraten.
-- |-
-  Restlichen Shaoxing-Wein, Sojasauce, dunkle Sojasauce, Austernsauce, Hühnerbrühe und Pilzeinweichwasser (gefiltert) zugeben.
-- |-
-  Glasnudeln einrühren und 3–4 Minuten bei mittlerer Hitze köcheln, bis sie die Sauce aufgesogen haben.
+- Restlichen Shaoxing-Wein, Sojasauce, dunkle Sojasauce, Austernsauce, Hühnerbrühe
+  und Pilzeinweichwasser (gefiltert) zugeben.
+- Glasnudeln einrühren und 3–4 Minuten bei mittlerer Hitze köcheln, bis sie die Sauce
+  aufgesogen haben.
 - Mit Pfeffer abschmecken. Sesamöl, Frühlingszwiebeln und Chili unterheben.
 en_steps:
-- |-
-  TODO: Getrocknete Shiitake-Pilze in 200 ml warmem Wasser 20 Minuten einweichen. Einweichwasser aufbewahren. Pilze in Scheiben schneiden.
-- 'TODO: Glasnudeln in heißem Wasser 5 Minuten einweichen, abgießen.'
-- |-
-  TODO: Hähnchen in dünne Streifen schneiden. Mit 1 EL Sojasauce, Stärke und Shaoxing-Wein (1 EL) 15 Minuten marinieren.
-- 'TODO: Möhren in feine Stifte, Knoblauch und Ingwer fein hacken.'
-- |-
-  TODO: Öl im Wok erhitzen. Hähnchen 3–4 Minuten scharf braten. Knoblauch und Ingwer zugeben.
-- 'TODO: Pilze und Möhren zugeben, 2 Minuten mitbraten.'
-- |-
-  TODO: Restlichen Shaoxing-Wein, Sojasauce, dunkle Sojasauce, Austernsauce, Hühnerbrühe und Pilzeinweichwasser (gefiltert) zugeben.
-- |-
-  TODO: Glasnudeln einrühren und 3–4 Minuten bei mittlerer Hitze köcheln, bis sie die Sauce aufgesogen haben.
-- 'TODO: Mit Pfeffer abschmecken. Sesamöl, Frühlingszwiebeln und Chili unterheben.'
+- Soak the dried shiitake mushrooms in 200 ml warm water for 20 minutes. Reserve the
+  soaking liquid. Slice the mushrooms.
+- Soak the glass noodles in hot water for 5 minutes, then drain.
+- Cut the chicken into thin strips. Marinate with 1 tbsp soy sauce, cornstarch, and
+  1 tbsp Shaoxing wine for 15 minutes.
+- Cut the carrots into fine matchsticks. Finely chop the garlic and ginger.
+- Heat the oil in a wok. Stir-fry the chicken for 3–4 minutes. Add the garlic and
+  ginger.
+- Add the mushrooms and carrots and stir-fry for 2 minutes.
+- Add the remaining Shaoxing wine, soy sauce, dark soy sauce, oyster sauce, chicken
+  stock, and filtered mushroom soaking liquid.
+- Stir in the glass noodles and simmer over medium heat for 3–4 minutes until they
+  have absorbed the sauce.
+- Season with pepper. Fold in the sesame oil, spring onions, and chilli.

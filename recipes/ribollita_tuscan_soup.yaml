@@ -6,120 +6,119 @@ next_day: true
 meals: 2
 de:
   title: Ribollita – Toskanische Brot-Bohnen-Suppe
-  summary: |-
-    Sättigende toskanische Brotsuppe mit weißen Bohnen, Grünkohl, Cannellini und altem Brot – am zweiten Tag noch besser.
+  summary: Sättigende toskanische Brotsuppe mit weißen Bohnen, Grünkohl, Cannellini
+    und altem Brot – am zweiten Tag noch besser.
 en:
-  title: 'TODO: Ribollita – Toskanische Brot-Bohnen-Suppe'
-  summary: |-
-    TODO: Sättigende toskanische Brotsuppe mit weißen Bohnen, Grünkohl, Cannellini und altem Brot – am zweiten Tag noch besser.
+  title: Ribollita – Tuscan Bread and Bean Soup
+  summary: Hearty Tuscan bread soup with white beans, kale (cavolo nero), cannellini
+    beans, and stale bread — even better the next day.
 ingredients:
 - de_name: Cannellini-Bohnen aus der Dose
-  en_name: 'TODO: Cannellini-Bohnen aus der Dose'
+  en_name: canned cannellini beans
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Altbackenes Brot (Ciabatta oder Bauernbrot)
-  en_name: 'TODO: Altbackenes Brot (Ciabatta oder Bauernbrot)'
+  en_name: stale bread (ciabatta or country loaf)
   qty: 150
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Grünkohl (Cavolo Nero)
-  en_name: 'TODO: Grünkohl (Cavolo Nero)'
+  en_name: kale (Cavolo Nero)
   qty: 200
   unit: g
   category: Gemüse und Salat
 - de_name: Karotte
-  en_name: 'TODO: Karotte'
+  en_name: carrot
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Staudensellerie
-  en_name: 'TODO: Staudensellerie'
+  en_name: celery stalks
   qty: 2
   unit: Stange
   category: Gemüse und Salat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 3
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Tomatenmark
-  en_name: 'TODO: Tomatenmark'
+  en_name: tomato paste
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Gemüsebrühe
-  en_name: 'TODO: Gemüsebrühe'
+  en_name: vegetable broth
   qty: 800
   unit: ml
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 4
   unit: EL
   category: Konserven und Vorrat
 - de_name: Frischer Rosmarin
-  en_name: 'TODO: Frischer Rosmarin'
+  en_name: fresh rosemary
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Frischer Thymian
-  en_name: 'TODO: Frischer Thymian'
+  en_name: fresh thyme
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Peperoncino gemahlen
-  en_name: 'TODO: Peperoncino gemahlen'
+  en_name: ground peperoncino
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Parmesan gerieben
-  en_name: 'TODO: Parmesan gerieben'
+  en_name: grated Parmesan
   qty: 30
   unit: g
   category: Protein und Milchprodukte
 de_steps:
-- |-
-  Zwiebel, Karotten und Sellerie fein würfeln. Knoblauch hacken. Grünkohl von den dicken Stielen befreien und in Streifen schneiden.
-- |-
-  Olivenöl in einem großen Topf erhitzen. Zwiebel, Karotte und Sellerie darin 8 Minuten bei mittlerer Hitze anbraten.
+- Zwiebel, Karotten und Sellerie fein würfeln. Knoblauch hacken. Grünkohl von den
+  dicken Stielen befreien und in Streifen schneiden.
+- Olivenöl in einem großen Topf erhitzen. Zwiebel, Karotte und Sellerie darin 8 Minuten
+  bei mittlerer Hitze anbraten.
 - Knoblauch, Peperoncino und Tomatenmark einrühren, 2 Minuten weiterbraten.
-- |-
-  Die Hälfte der Cannellini-Bohnen mit einer Gabel grob zerdrücken und in den Topf geben.
-- |-
-  Restliche ganze Bohnen und Gemüsebrühe dazugeben. Rosmarin und Thymian einlegen. 20 Minuten köcheln lassen.
+- Die Hälfte der Cannellini-Bohnen mit einer Gabel grob zerdrücken und in den Topf
+  geben.
+- Restliche ganze Bohnen und Gemüsebrühe dazugeben. Rosmarin und Thymian einlegen.
+  20 Minuten köcheln lassen.
 - Grünkohl einrühren, weitere 15 Minuten köcheln.
-- |-
-  Kräuterzweige entfernen. Brot in grobe Stücke reißen und direkt in die Suppe geben. Gut umrühren, bis das Brot aufgeweicht und die Suppe dicklich ist.
-- |-
-  Mit Salz und Pfeffer abschmecken. Mit einem großzügigen Schuss gutem Olivenöl und geriebenem Parmesan servieren.
+- Kräuterzweige entfernen. Brot in grobe Stücke reißen und direkt in die Suppe geben.
+  Gut umrühren, bis das Brot aufgeweicht und die Suppe dicklich ist.
+- Mit Salz und Pfeffer abschmecken. Mit einem großzügigen Schuss gutem Olivenöl und
+  geriebenem Parmesan servieren.
 en_steps:
-- |-
-  TODO: Zwiebel, Karotten und Sellerie fein würfeln. Knoblauch hacken. Grünkohl von den dicken Stielen befreien und in Streifen schneiden.
-- |-
-  TODO: Olivenöl in einem großen Topf erhitzen. Zwiebel, Karotte und Sellerie darin 8 Minuten bei mittlerer Hitze anbraten.
-- 'TODO: Knoblauch, Peperoncino und Tomatenmark einrühren, 2 Minuten weiterbraten.'
-- |-
-  TODO: Die Hälfte der Cannellini-Bohnen mit einer Gabel grob zerdrücken und in den Topf geben.
-- |-
-  TODO: Restliche ganze Bohnen und Gemüsebrühe dazugeben. Rosmarin und Thymian einlegen. 20 Minuten köcheln lassen.
-- 'TODO: Grünkohl einrühren, weitere 15 Minuten köcheln.'
-- |-
-  TODO: Kräuterzweige entfernen. Brot in grobe Stücke reißen und direkt in die Suppe geben. Gut umrühren, bis das Brot aufgeweicht und die Suppe dicklich ist.
-- |-
-  TODO: Mit Salz und Pfeffer abschmecken. Mit einem großzügigen Schuss gutem Olivenöl und geriebenem Parmesan servieren.
+- Finely dice the onion, carrots, and celery. Mince the garlic. Strip the kale from
+  the thick stems and slice into ribbons.
+- Heat the olive oil in a large pot. Sauté the onion, carrot, and celery over medium
+  heat for 8 minutes.
+- Stir in the garlic, peperoncino, and tomato paste and cook for 2 minutes.
+- Roughly mash half the cannellini beans with a fork and add to the pot.
+- Add the remaining whole beans and vegetable broth. Add the rosemary and thyme sprigs.
+  Simmer for 20 minutes.
+- Stir in the kale and simmer for a further 15 minutes.
+- Remove the herb sprigs. Tear the bread into rough chunks and add directly to the
+  soup. Stir well until the bread has softened and the soup is thick.
+- Season with salt and pepper. Serve with a generous drizzle of good olive oil and
+  grated Parmesan.
