@@ -222,15 +222,15 @@ tailwind.config = {
   <!-- Loading -->
   <div id="screen-loading" class="flex-1 flex flex-col items-center justify-center gap-4 text-on-surface-variant">
     <span class="material-symbols-outlined text-5xl text-primary spinner">restaurant</span>
-    <p class="font-label-md text-label-md">Wird geladen…</p>
+    <p class="font-label-md text-label-md" data-i18n="loading">Wird geladen…</p>
   </div>
 
   <!-- Error -->
   <div id="screen-error" class="hidden flex-1 flex flex-col items-center justify-center gap-4 px-margin-safe text-center">
     <span class="material-symbols-outlined text-5xl text-error">error</span>
-    <p class="font-headline-md-mobile text-headline-md-mobile text-on-surface">Fehler beim Laden</p>
+    <p class="font-headline-md-mobile text-headline-md-mobile text-on-surface" data-i18n="error_title">Fehler beim Laden</p>
     <p id="error-msg" class="font-body-sm text-body-sm text-on-surface-variant"></p>
-    <button onclick="init()" class="mt-2 bg-primary text-on-primary font-label-md text-label-md px-6 py-3 rounded-full active:scale-95 transition-transform">
+    <button onclick="init()" class="mt-2 bg-primary text-on-primary font-label-md text-label-md px-6 py-3 rounded-full active:scale-95 transition-transform" data-i18n="error_retry">
       Erneut versuchen
     </button>
   </div>
@@ -241,12 +241,15 @@ tailwind.config = {
     <!-- Header -->
     <header class="sticky top-0 z-40 bg-surface shadow-[0px_2px_16px_rgba(28,28,26,0.08)] h-16 w-full shrink-0">
       <div class="max-w-screen-2xl mx-auto h-full flex justify-between items-center px-4 lg:px-8">
-        <button aria-label="Menü" class="w-10 h-10 flex items-center justify-center rounded-full hover:bg-surface-container-low active:scale-95 transition-all text-on-surface-variant">
+        <button data-i18n-aria="menu_aria" aria-label="Menü" class="w-10 h-10 flex items-center justify-center rounded-full hover:bg-surface-container-low active:scale-95 transition-all text-on-surface-variant">
           <span class="material-symbols-outlined">restaurant</span>
         </button>
         <h1 class="font-display text-headline-lg-mobile text-primary tracking-tight">Mahlzeit</h1>
-        <button aria-label="Einstellungen" class="w-10 h-10 flex items-center justify-center rounded-full hover:bg-surface-container-low active:scale-95 transition-all text-on-surface-variant">
-          <span class="material-symbols-outlined">settings</span>
+        <button onclick="toggleLang()" aria-label="Sprache wechseln"
+          class="h-9 px-3 flex items-center gap-1 rounded-full hover:bg-surface-container-low active:scale-95 transition-all font-label-md text-label-md">
+          <span id="lang-de" class="font-bold text-primary">DE</span>
+          <span class="text-on-surface-variant opacity-40">|</span>
+          <span id="lang-en" class="text-on-surface-variant">EN</span>
         </button>
       </div>
     </header>
@@ -259,15 +262,15 @@ tailwind.config = {
         <nav class="flex flex-col gap-1 px-3 mb-6">
           <button onclick="switchView('wochenplan')" id="sidebar-btn-wochenplan" class="sidebar-btn">
             <span id="sidebar-icon-wochenplan" class="material-symbols-outlined text-[22px]">calendar_today</span>
-            Wochenplan
+            <span data-i18n="nav_wochenplan">Wochenplan</span>
           </button>
           <button onclick="switchView('rezepte')" id="sidebar-btn-rezepte" class="sidebar-btn">
             <span id="sidebar-icon-rezepte" class="material-symbols-outlined text-[22px]">menu_book</span>
-            Rezepte
+            <span data-i18n="nav_rezepte">Rezepte</span>
           </button>
           <button onclick="switchView('einkauf')" id="sidebar-btn-einkauf" class="sidebar-btn">
             <span id="sidebar-icon-einkauf" class="material-symbols-outlined text-[22px]">shopping_cart</span>
-            Einkauf
+            <span data-i18n="nav_einkauf">Einkauf</span>
             <span id="sidebar-shopping-badge" class="hidden ml-auto bg-primary text-on-primary text-[10px] font-bold min-w-[20px] h-5 flex items-center justify-center rounded-full px-1"></span>
           </button>
         </nav>
@@ -275,11 +278,11 @@ tailwind.config = {
         <div class="border-t border-surface-variant/60 mx-3 mb-6"></div>
 
         <div class="px-3">
-          <p class="font-label-sm text-label-sm text-on-surface-variant mb-3 px-2 uppercase tracking-wider">Variante</p>
+          <p class="font-label-sm text-label-sm text-on-surface-variant mb-3 px-2 uppercase tracking-wider" data-i18n="variant_label">Variante</p>
           <div class="flex flex-col gap-1">
-            <button id="sidebar-tab-standard" onclick="switchVariant('standard')" class="sidebar-btn">Standard</button>
-            <button id="sidebar-tab-gesund"   onclick="switchVariant('gesund')"   class="sidebar-btn">Gesund</button>
-            <button id="sidebar-tab-schnell"  onclick="switchVariant('schnell')"  class="sidebar-btn">Schnell</button>
+            <button id="sidebar-tab-standard" onclick="switchVariant('standard')" class="sidebar-btn"><span data-i18n="variant_standard">Standard</span></button>
+            <button id="sidebar-tab-gesund"   onclick="switchVariant('gesund')"   class="sidebar-btn"><span data-i18n="variant_gesund">Gesund</span></button>
+            <button id="sidebar-tab-schnell"  onclick="switchVariant('schnell')"  class="sidebar-btn"><span data-i18n="variant_schnell">Schnell</span></button>
           </div>
         </div>
       </aside>
@@ -290,11 +293,11 @@ tailwind.config = {
         <!-- Variant tabs (mobile only) -->
         <div class="lg:hidden mx-margin-safe mt-4 bg-surface-container rounded-full p-1 flex relative shrink-0">
           <button id="tab-standard" onclick="switchVariant('standard')"
-            class="flex-1 py-2.5 font-label-md text-label-md rounded-full transition-all active:scale-[0.98]">Standard</button>
+            class="flex-1 py-2.5 font-label-md text-label-md rounded-full transition-all active:scale-[0.98]"><span data-i18n="variant_standard">Standard</span></button>
           <button id="tab-gesund" onclick="switchVariant('gesund')"
-            class="flex-1 py-2.5 font-label-md text-label-md rounded-full transition-all active:scale-[0.98]">Gesund</button>
+            class="flex-1 py-2.5 font-label-md text-label-md rounded-full transition-all active:scale-[0.98]"><span data-i18n="variant_gesund">Gesund</span></button>
           <button id="tab-schnell" onclick="switchVariant('schnell')"
-            class="flex-1 py-2.5 font-label-md text-label-md rounded-full transition-all active:scale-[0.98]">Schnell</button>
+            class="flex-1 py-2.5 font-label-md text-label-md rounded-full transition-all active:scale-[0.98]"><span data-i18n="variant_schnell">Schnell</span></button>
         </div>
 
         <!-- View: Wochenplan -->
@@ -350,13 +353,13 @@ tailwind.config = {
             <!-- Search bar -->
             <div class="relative">
               <span class="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-on-surface-variant text-[20px]">search</span>
-              <input id="recipe-search" type="search" placeholder="Rezept suchen…"
+              <input id="recipe-search" type="search" placeholder="Rezept suchen…" data-i18n-placeholder="search_placeholder"
                 oninput="filterRecipes(this.value)"
                 class="w-full pl-10 pr-4 py-2.5 rounded-xl bg-surface-container border border-surface-container-high font-body-sm text-body-sm text-on-surface placeholder:text-on-surface-variant focus:outline-none focus:ring-2 focus:ring-primary/40 transition-all"/>
             </div>
           </div>
           <div id="recipe-cards" class="mx-auto max-w-5xl px-4 lg:px-8 grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-6 pb-8"></div>
-          <p id="recipe-no-results" class="hidden mx-auto max-w-5xl px-4 lg:px-8 font-body-sm text-body-sm text-on-surface-variant py-8 text-center">Kein Rezept gefunden.</p>
+          <p id="recipe-no-results" class="hidden mx-auto max-w-5xl px-4 lg:px-8 font-body-sm text-body-sm text-on-surface-variant py-8 text-center" data-i18n="no_results">Kein Rezept gefunden.</p>
         </div>
 
         <!-- View: Einkauf -->
@@ -382,19 +385,19 @@ tailwind.config = {
             <div class="flex bg-surface-container rounded-xl p-1 gap-1 mb-stack-lg shadow-sm w-64">
               <button id="shop-tab-standard" onclick="switchShoppingMode('standard')"
                 class="flex-1 text-center py-2 rounded-lg font-label-md text-label-md transition-all">
-                Wochenplan
+                <span data-i18n="shop_mode_week">Wochenplan</span>
               </button>
               <button id="shop-tab-rezept" onclick="switchShoppingMode('rezept')"
                 class="flex-1 text-center py-2 rounded-lg font-label-md text-label-md transition-all">
-                Nach Rezept
+                <span data-i18n="shop_mode_recipe">Nach Rezept</span>
               </button>
             </div>
 
             <!-- Progress (standard mode) -->
             <div id="shopping-progress-wrap" class="mb-stack-lg shrink-0">
               <div class="flex items-center justify-between mb-1">
-                <h2 class="font-display text-headline-md text-on-surface">Dein Einkauf</h2>
-                <button onclick="copyShoppingList()" aria-label="Einkaufsliste kopieren"
+                <h2 class="font-display text-headline-md text-on-surface" data-i18n="your_shopping">Dein Einkauf</h2>
+                <button onclick="copyShoppingList()" data-i18n-aria="copy_aria" aria-label="Einkaufsliste kopieren"
                   class="w-8 h-8 flex items-center justify-center rounded-full hover:bg-surface-container-high active:scale-95 transition-all text-on-surface-variant"
                   title="Als Text kopieren">
                   <span class="material-symbols-outlined text-[20px]">content_copy</span>
@@ -408,7 +411,7 @@ tailwind.config = {
 
             <!-- Recipe picker (rezept mode) -->
             <div id="recipe-picker-wrap" class="hidden mb-stack-lg">
-              <p class="font-label-sm text-label-sm text-on-surface-variant mb-stack-md">Rezept wählen:</p>
+              <p class="font-label-sm text-label-sm text-on-surface-variant mb-stack-md" data-i18n="choose_recipe">Rezept wählen:</p>
               <div id="recipe-picker" class="flex flex-wrap gap-2"></div>
             </div>
 
@@ -424,12 +427,12 @@ tailwind.config = {
          style="height: calc(64px + env(safe-area-inset-bottom)); padding-bottom: env(safe-area-inset-bottom);">
       <button onclick="switchView('wochenplan')" class="flex flex-col items-center justify-center gap-1 w-20 pt-2 active:scale-95 transition-all">
         <span id="nav-icon-wochenplan" class="material-symbols-outlined">calendar_today</span>
-        <span id="nav-label-wochenplan" class="font-label-sm text-[10px] text-on-surface-variant">Wochenplan</span>
+        <span id="nav-label-wochenplan" class="font-label-sm text-[10px] text-on-surface-variant" data-i18n="nav_wochenplan">Wochenplan</span>
         <div id="nav-dot-wochenplan" class="w-1.5 h-1.5 rounded-full bg-transparent mt-0.5"></div>
       </button>
       <button onclick="switchView('rezepte')" class="flex flex-col items-center justify-center gap-1 w-20 pt-2 active:scale-95 transition-all">
         <span id="nav-icon-rezepte" class="material-symbols-outlined">menu_book</span>
-        <span id="nav-label-rezepte" class="font-label-sm text-[10px] text-on-surface-variant">Rezepte</span>
+        <span id="nav-label-rezepte" class="font-label-sm text-[10px] text-on-surface-variant" data-i18n="nav_rezepte">Rezepte</span>
         <div id="nav-dot-rezepte" class="w-1.5 h-1.5 rounded-full bg-transparent mt-0.5"></div>
       </button>
       <button onclick="switchView('einkauf')" class="flex flex-col items-center justify-center gap-1 w-20 pt-2 active:scale-95 transition-all">
@@ -437,7 +440,7 @@ tailwind.config = {
           <span id="nav-icon-einkauf" class="material-symbols-outlined">shopping_cart</span>
           <span id="shopping-badge" class="hidden absolute -top-1 -right-2 bg-primary text-on-primary text-[9px] font-bold w-4 h-4 flex items-center justify-center rounded-full border border-surface"></span>
         </div>
-        <span id="nav-label-einkauf" class="font-label-sm text-[10px] text-on-surface-variant">Einkauf</span>
+        <span id="nav-label-einkauf" class="font-label-sm text-[10px] text-on-surface-variant" data-i18n="nav_einkauf">Einkauf</span>
         <div id="nav-dot-einkauf" class="w-1.5 h-1.5 rounded-full bg-transparent mt-0.5"></div>
       </button>
     </nav>
@@ -447,7 +450,7 @@ tailwind.config = {
 
 <!-- Bottom sheet -->
 <div id="sheet-backdrop" onclick="closeSheet()"></div>
-<div id="sheet-panel" role="dialog" aria-modal="true" aria-label="Rezeptdetails">
+<div id="sheet-panel" role="dialog" aria-modal="true" data-i18n-aria="sheet_aria" aria-label="Rezeptdetails">
   <!-- Hero image -->
   <div id="sheet-image-wrap" class="shrink-0 relative hidden">
     <img id="sheet-image" src="" alt="" class="w-full h-52 object-cover">
@@ -480,9 +483,9 @@ tailwind.config = {
   <!-- Scrollable body -->
   <div class="flex-1 overflow-y-auto no-scroll px-6 pb-8">
     <p id="sheet-summary" class="font-body-sm text-body-sm text-on-surface-variant mb-stack-lg leading-relaxed"></p>
-    <h3 class="font-display text-label-md text-label-md text-on-surface mb-stack-md uppercase tracking-wider">Zutaten</h3>
+    <h3 class="font-display text-label-md text-label-md text-on-surface mb-stack-md uppercase tracking-wider" data-i18n="ingredients">Zutaten</h3>
     <ul id="sheet-ingredients" class="flex flex-col gap-2 mb-stack-lg"></ul>
-    <h3 class="font-display text-label-md text-label-md text-on-surface mb-stack-md uppercase tracking-wider">Zubereitung</h3>
+    <h3 class="font-display text-label-md text-label-md text-on-surface mb-stack-md uppercase tracking-wider" data-i18n="instructions">Zubereitung</h3>
     <ol id="sheet-steps" class="flex flex-col gap-stack-md"></ol>
   </div>
 </div>
@@ -501,6 +504,60 @@ const CATEGORY_ICONS = {
   'Sonstiges':                    '🛒',
 };
 
+// German key → English display label (key is NEVER translated, only the display)
+const CATEGORY_NAMES_EN = {
+  'Protein und Milchprodukte':    'Protein & Dairy',
+  'Gemüse und Salat':             'Vegetables & Salad',
+  'Kohlenhydrate und Sattmacher': 'Carbs & Filling',
+  'Konserven und Vorrat':         'Canned & Pantry',
+  'Obst':                         'Fruit',
+  'Gewürze':                      'Spices',
+  'Sonstiges':                    'Other',
+};
+
+const UI_STRINGS = {
+  loading:            { de: 'Wird geladen…',          en: 'Loading…' },
+  error_title:        { de: 'Fehler beim Laden',      en: 'Error loading' },
+  error_retry:        { de: 'Erneut versuchen',       en: 'Try again' },
+  nav_wochenplan:     { de: 'Wochenplan',             en: 'Weekly Plan' },
+  nav_rezepte:        { de: 'Rezepte',                en: 'Recipes' },
+  nav_einkauf:        { de: 'Einkauf',                en: 'Shopping' },
+  variant_label:      { de: 'Variante',               en: 'Variant' },
+  variant_standard:   { de: 'Standard',               en: 'Standard' },
+  variant_gesund:     { de: 'Gesund',                 en: 'Healthy' },
+  variant_schnell:    { de: 'Schnell',                en: 'Quick' },
+  this_week:          { de: 'Diese Woche',            en: 'This Week' },
+  prev_week_aria:     { de: 'Vorherige Woche',        en: 'Previous Week' },
+  next_week_aria:     { de: 'Nächste Woche',          en: 'Next Week' },
+  today:              { de: 'Heute',                  en: 'Today' },
+  breakfast:          { de: 'FRÜHSTÜCK',              en: 'BREAKFAST' },
+  lunch:              { de: 'MITTAGESSEN',            en: 'LUNCH' },
+  snack:              { de: 'SNACK',                  en: 'SNACK' },
+  breakfast_long:     { de: 'Frühstück',              en: 'Breakfast' },
+  lunch_long:         { de: 'Mittagessen',            en: 'Lunch' },
+  snack_long:         { de: 'Snack',                  en: 'Snack' },
+  dessert_of_week:    { de: 'Dessert der Woche',      en: 'Dessert of the Week' },
+  dessert:            { de: 'Dessert',                en: 'Dessert' },
+  week_badge:         { de: 'Woche',                  en: 'Week' },
+  times_this_week:    { de: '× diese Woche',          en: '× this week' },
+  fullscreen:         { de: 'Vollbild',               en: 'Full screen' },
+  ingredients:        { de: 'Zutaten',                en: 'Ingredients' },
+  instructions:       { de: 'Zubereitung',            en: 'Instructions' },
+  search_placeholder: { de: 'Rezept suchen…',         en: 'Search recipe…' },
+  no_results:         { de: 'Kein Rezept gefunden.',  en: 'No recipe found.' },
+  view_recipe:        { de: 'Rezept ansehen',         en: 'View recipe' },
+  in_plan:            { de: 'Im Plan',                en: 'In plan' },
+  shop_mode_week:     { de: 'Wochenplan',             en: 'Weekly Plan' },
+  shop_mode_recipe:   { de: 'Nach Rezept',            en: 'By Recipe' },
+  your_shopping:      { de: 'Dein Einkauf',           en: 'Your Shopping' },
+  copy_aria:          { de: 'Einkaufsliste kopieren', en: 'Copy shopping list' },
+  progress_of:        { de: 'von',                    en: 'of' },
+  progress_done:      { de: 'erledigt',               en: 'done' },
+  choose_recipe:      { de: 'Rezept wählen:',         en: 'Choose recipe:' },
+  sheet_aria:         { de: 'Rezeptdetails',          en: 'Recipe details' },
+  menu_aria:          { de: 'Menü',                   en: 'Menu' },
+};
+
 const RECIPE_GRADIENTS = [
   'linear-gradient(135deg,#fde8d8,#f9c4a0)',
   'linear-gradient(135deg,#e8f0fe,#c5d5f9)',
@@ -513,6 +570,7 @@ const RECIPE_GRADIENTS = [
 const RECIPE_EMOJIS = ['🍛','🥘','🥗','🍲','🍝','🥙','🫕','🍜','🥧','🫔'];
 
 // ── State ─────────────────────────────────────────────────
+let lang         = localStorage.getItem('mahlzeit_lang') || 'de';
 let weeks        = [];
 let weekIndex    = 0;
 let currentVariant   = 'standard';
@@ -528,6 +586,84 @@ let selectedDayIndex = null;   // desktop master-detail: which day is shown
 
 const TODAY = new Date();
 TODAY.setHours(0,0,0,0);
+
+// ── i18n helpers ──────────────────────────────────────────
+function t(key) {
+  const entry = UI_STRINGS[key];
+  if (!entry) return key;
+  return lang === 'en' ? entry.en : entry.de;
+}
+
+// Display label for a shopping category — key is always the German string
+function tCat(deKey) {
+  return lang === 'en' ? (CATEGORY_NAMES_EN[deKey] || deKey) : deKey;
+}
+
+// Translated field from a recipe object (title, summary)
+function rField(r, key) {
+  if (lang === 'en') {
+    const v = r[key + '_en'];
+    if (v) return v;
+  }
+  return r[key] || '';
+}
+
+// Steps array from a recipe object
+function rSteps(r) {
+  if (lang === 'en' && r.steps_en?.length) return r.steps_en;
+  return r.steps || [];
+}
+
+// Translated field from a day object (day, breakfast, lunch, snack)
+function dField(day, key) {
+  if (lang === 'en') {
+    const v = day[key + '_en'];
+    if (v) return v;
+  }
+  return day[key] || '';
+}
+
+// Translated ingredient name
+function iName(ing) {
+  if (lang === 'en' && ing.name_en) return ing.name_en;
+  return ing.name;
+}
+
+function toggleLang() {
+  lang = lang === 'de' ? 'en' : 'de';
+  localStorage.setItem('mahlzeit_lang', lang);
+  applyTranslations();
+  render();
+}
+
+function applyTranslations() {
+  document.documentElement.lang = lang;
+
+  // Static text via data-i18n
+  document.querySelectorAll('[data-i18n]').forEach(el => {
+    el.textContent = t(el.dataset.i18n);
+  });
+
+  // Input placeholders
+  document.querySelectorAll('[data-i18n-placeholder]').forEach(el => {
+    el.placeholder = t(el.dataset.i18nPlaceholder);
+  });
+
+  // aria-label attributes
+  document.querySelectorAll('[data-i18n-aria]').forEach(el => {
+    el.setAttribute('aria-label', t(el.dataset.i18nAria));
+  });
+
+  // Week nav buttons (multiple instances in each view)
+  document.querySelectorAll('.week-prev-btn').forEach(el => el.setAttribute('aria-label', t('prev_week_aria')));
+  document.querySelectorAll('.week-next-btn').forEach(el => el.setAttribute('aria-label', t('next_week_aria')));
+
+  // Lang toggle pill
+  const dEl = document.getElementById('lang-de');
+  const eEl = document.getElementById('lang-en');
+  if (dEl) dEl.className = lang === 'de' ? 'font-bold text-primary' : 'text-on-surface-variant';
+  if (eEl) eEl.className = lang === 'en' ? 'font-bold text-primary' : 'text-on-surface-variant';
+}
 
 // ── Helpers ───────────────────────────────────────────────
 function recipeStyle(id, idx) {
@@ -555,10 +691,11 @@ function saveChecked() {
 }
 
 function formatWeekDates(week) {
-  const mon = new Date(week.monday + 'T00:00:00');
-  const sun = new Date(week.sunday + 'T00:00:00');
-  const opts = { day:'numeric', month:'short' };
-  return `${mon.toLocaleDateString('de-DE', opts)} – ${sun.toLocaleDateString('de-DE', opts)}`;
+  const mon    = new Date(week.monday + 'T00:00:00');
+  const sun    = new Date(week.sunday + 'T00:00:00');
+  const locale = lang === 'en' ? 'en-US' : 'de-DE';
+  const opts   = { day:'numeric', month:'short' };
+  return `${mon.toLocaleDateString(locale, opts)} – ${sun.toLocaleDateString(locale, opts)}`;
 }
 
 function isCurrentWeek(week) {
@@ -634,6 +771,7 @@ async function init() {
     weekIndex = idx >= 0 ? idx : 0;
 
     loadChecked();
+    applyTranslations();
     show('screen-main');
     render();
   } catch (e) {
@@ -655,7 +793,7 @@ function updateWeekNavBars() {
   const label     = formatWeekDates(weeks[weekIndex]);
   const atFirst   = weekIndex === 0;
   const atLast    = weekIndex === weeks.length - 1;
-  document.querySelectorAll('.week-nav-badge').forEach(el => el.classList.toggle('hidden', !isCurrent));
+  document.querySelectorAll('.week-nav-badge').forEach(el => { el.classList.toggle('hidden', !isCurrent); el.textContent = t('this_week'); });
   document.querySelectorAll('.week-nav-label').forEach(el => { el.textContent = label; });
   document.querySelectorAll('.week-prev-btn').forEach(el => { el.disabled = atFirst; });
   document.querySelectorAll('.week-next-btn').forEach(el => { el.disabled = atLast; });
@@ -753,15 +891,15 @@ function renderMobileDayCards(week, varData) {
            ${lunchRecipe ? `onclick="openById('${lunchRecipe.id}')"` : ''}>
         ${glowHtml}
         <div class="flex justify-between items-center mb-5">
-          <h3 class="font-display text-headline-md-mobile text-on-surface">${day.day}</h3>
-          ${today ? `<span class="bg-primary text-on-primary font-label-sm text-label-sm px-3 py-1.5 rounded-full shadow-sm">Heute</span>` : ''}
+          <h3 class="font-display text-headline-md-mobile text-on-surface">${dField(day, 'day')}</h3>
+          ${today ? `<span class="bg-primary text-on-primary font-label-sm text-label-sm px-3 py-1.5 rounded-full shadow-sm">${t('today')}</span>` : ''}
         </div>
         <div class="flex flex-col gap-4">
-          ${mealRow('🌅','FRÜHSTÜCK', day.breakfast)}
+          ${mealRow('🌅', t('breakfast'), dField(day, 'breakfast'))}
           <div class="h-px w-full bg-surface-container-high/50 ml-10"></div>
-          ${mealRowAccent('🍲','MITTAGESSEN', day.lunch, day.lunch_note)}
+          ${mealRowAccent('🍲', t('lunch'), dField(day, 'lunch'), day.lunch_note)}
           <div class="h-px w-full bg-surface-container-high/50 ml-10"></div>
-          ${mealRow('🍎','SNACK', day.snack)}
+          ${mealRow('🍎', t('snack'), dField(day, 'snack'))}
         </div>
       </div>`;
   }).join('');
@@ -778,14 +916,14 @@ function renderMobileDayCards(week, varData) {
            onerror="this.style.display='none'">
          <div class="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
          <div class="absolute bottom-3 left-4 text-white">
-           <p class="font-label-sm text-label-sm opacity-80 uppercase tracking-wider mb-0.5">🍰 Dessert der Woche</p>
-           <p class="font-display text-lg font-bold">${d.title}</p>
+           <p class="font-label-sm text-label-sm opacity-80 uppercase tracking-wider mb-0.5">🍰 ${t('dessert_of_week')}</p>
+           <p class="font-display text-lg font-bold">${rField(d, 'title')}</p>
          </div>
        </div>`
     : `<div class="h-40 flex flex-col items-center justify-center" style="background:${gradient}">
          <span class="text-4xl mb-2">🍰</span>
-         <p class="font-label-sm text-label-sm text-on-surface-variant uppercase tracking-wider mb-1">Dessert der Woche</p>
-         <p class="font-display text-lg font-bold text-on-surface">${d.title}</p>
+         <p class="font-label-sm text-label-sm text-on-surface-variant uppercase tracking-wider mb-1">${t('dessert_of_week')}</p>
+         <p class="font-display text-lg font-bold text-on-surface">${rField(d, 'title')}</p>
        </div>`;
 
   const dessertCard = `
@@ -793,7 +931,7 @@ function renderMobileDayCards(week, varData) {
          onclick="openById('${d.id}')">
       ${dessertBanner}
       <div class="px-5 py-4 flex items-center justify-between">
-        <p class="font-body-sm text-body-sm text-on-surface-variant line-clamp-1">${d.summary || ''}</p>
+        <p class="font-body-sm text-body-sm text-on-surface-variant line-clamp-1">${rField(d, 'summary')}</p>
         <span class="material-symbols-outlined text-primary ml-4 shrink-0">arrow_forward</span>
       </div>
     </div>`;
@@ -823,10 +961,10 @@ function renderDesktopDayList(week, varData) {
         <div class="w-14 h-14 rounded-xl overflow-hidden shrink-0 bg-surface-container-high">${thumbHtml}</div>
         <div class="flex-1 min-w-0">
           <div class="flex items-center gap-2 mb-0.5">
-            <span class="font-display text-[15px] font-bold ${active ? 'text-on-primary-fixed' : 'text-on-surface'}">${day.day}</span>
-            ${today ? `<span class="text-[9px] font-bold px-1.5 py-0.5 rounded-full ${active ? 'bg-primary text-on-primary' : 'bg-primary-fixed-dim text-primary'}">Heute</span>` : ''}
+            <span class="font-display text-[15px] font-bold ${active ? 'text-on-primary-fixed' : 'text-on-surface'}">${dField(day, 'day')}</span>
+            ${today ? `<span class="text-[9px] font-bold px-1.5 py-0.5 rounded-full ${active ? 'bg-primary text-on-primary' : 'bg-primary-fixed-dim text-primary'}">${t('today')}</span>` : ''}
           </div>
-          <p class="font-body-sm text-[13px] truncate ${active ? 'text-on-primary-fixed/80' : 'text-on-surface-variant'}">${day.lunch}</p>
+          <p class="font-body-sm text-[13px] truncate ${active ? 'text-on-primary-fixed/80' : 'text-on-surface-variant'}">${dField(day, 'lunch')}</p>
         </div>
         ${active ? `<span class="material-symbols-outlined text-[18px] text-primary shrink-0">chevron_right</span>` : ''}
       </button>`;
@@ -849,10 +987,10 @@ function renderDesktopDayList(week, varData) {
         <div class="w-14 h-14 rounded-xl overflow-hidden shrink-0 bg-surface-container-high">${dThumbHtml}</div>
         <div class="flex-1 min-w-0">
           <div class="flex items-center gap-2 mb-0.5">
-            <span class="font-display text-[15px] font-bold ${dActive ? 'text-on-primary-fixed' : 'text-on-surface'}">Dessert</span>
-            <span class="text-[9px] font-bold px-1.5 py-0.5 rounded-full ${dActive ? 'bg-primary text-on-primary' : 'bg-tertiary-fixed text-on-tertiary-fixed'}">Woche</span>
+            <span class="font-display text-[15px] font-bold ${dActive ? 'text-on-primary-fixed' : 'text-on-surface'}">${t('dessert')}</span>
+            <span class="text-[9px] font-bold px-1.5 py-0.5 rounded-full ${dActive ? 'bg-primary text-on-primary' : 'bg-tertiary-fixed text-on-tertiary-fixed'}">${t('week_badge')}</span>
           </div>
-          <p class="font-body-sm text-[13px] truncate ${dActive ? 'text-on-primary-fixed/80' : 'text-on-surface-variant'}">${d.title}</p>
+          <p class="font-body-sm text-[13px] truncate ${dActive ? 'text-on-primary-fixed/80' : 'text-on-surface-variant'}">${rField(d, 'title')}</p>
         </div>
         ${dActive ? `<span class="material-symbols-outlined text-[18px] text-primary shrink-0">chevron_right</span>` : ''}
       </button>
@@ -876,40 +1014,40 @@ function renderDesktopDayDetail(week, varData) {
            <img src="${heroImg}" class="w-full h-full object-cover">
            <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent"></div>
            <div class="absolute bottom-0 left-0 right-0 p-6 text-white">
-             <p class="font-label-sm text-label-sm opacity-80 uppercase tracking-wider mb-1">🍰 Dessert der Woche</p>
-             <span class="font-display text-3xl font-bold">${d.title}</span>
+             <p class="font-label-sm text-label-sm opacity-80 uppercase tracking-wider mb-1">🍰 ${t('dessert_of_week')}</p>
+             <span class="font-display text-3xl font-bold">${rField(d, 'title')}</span>
            </div>
          </div>`
       : `<div class="h-48 flex flex-col items-center justify-center gap-2 text-6xl" style="background:${gradient}">
-           🍰<p class="font-label-sm text-label-sm text-on-surface-variant mt-2">Dessert der Woche</p>
+           🍰<p class="font-label-sm text-label-sm text-on-surface-variant mt-2">${t('dessert_of_week')}</p>
          </div>`;
 
     detailEl.innerHTML = hero + `
       <div class="px-8 py-6">
         <div class="flex items-start justify-between gap-4 mb-4">
-          <h2 class="font-display text-2xl font-bold text-on-surface leading-tight">${d.title}</h2>
+          <h2 class="font-display text-2xl font-bold text-on-surface leading-tight">${rField(d, 'title')}</h2>
           <button onclick="openById('${d.id}')"
             class="shrink-0 flex items-center gap-1.5 bg-primary text-on-primary font-label-sm text-label-sm px-4 py-2 rounded-full hover:bg-primary-container active:scale-95 transition-all whitespace-nowrap">
-            <span class="material-symbols-outlined text-[16px]">open_in_full</span>Vollbild
+            <span class="material-symbols-outlined text-[16px]">open_in_full</span>${t('fullscreen')}
           </button>
         </div>
         ${timeStr ? `<div class="flex gap-2 mb-4"><span class="bg-surface-container-high text-on-surface-variant px-3 py-1.5 rounded-full font-label-sm text-label-sm inline-flex items-center gap-1.5"><span class="material-symbols-outlined text-[14px]">schedule</span>${timeStr}</span></div>` : ''}
-        <p class="font-body-sm text-body-sm text-on-surface-variant leading-relaxed mb-6">${d.summary || ''}</p>
+        <p class="font-body-sm text-body-sm text-on-surface-variant leading-relaxed mb-6">${rField(d, 'summary')}</p>
         <div class="grid grid-cols-1 xl:grid-cols-2 gap-8">
           <div>
-            <h3 class="font-display text-label-md text-on-surface mb-4 uppercase tracking-wider">Zutaten</h3>
+            <h3 class="font-display text-label-md text-on-surface mb-4 uppercase tracking-wider">${t('ingredients')}</h3>
             <ul class="flex flex-col gap-1">
               ${(d.ingredients || []).map(ing => `
                 <li class="flex justify-between items-baseline gap-4 py-2 border-b border-surface-container-high/60 last:border-0">
-                  <span class="font-body-sm text-body-sm text-on-surface">${ing.name}</span>
+                  <span class="font-body-sm text-body-sm text-on-surface">${iName(ing)}</span>
                   <span class="font-label-sm text-label-sm text-on-surface-variant shrink-0">${ing.qty_display ?? ''}</span>
                 </li>`).join('')}
             </ul>
           </div>
           <div>
-            <h3 class="font-display text-label-md text-on-surface mb-4 uppercase tracking-wider">Zubereitung</h3>
+            <h3 class="font-display text-label-md text-on-surface mb-4 uppercase tracking-wider">${t('instructions')}</h3>
             <ol class="flex flex-col gap-4">
-              ${(d.steps || []).map((step, i) => `
+              ${rSteps(d).map((step, i) => `
                 <li class="flex gap-3">
                   <span class="font-display text-label-md text-primary shrink-0 mt-0.5 w-5">${i+1}</span>
                   <span class="font-body-sm text-body-sm text-on-surface leading-relaxed">${step}</span>
@@ -926,7 +1064,8 @@ function renderDesktopDayDetail(week, varData) {
 
   const dayDate   = getDayDate(week.monday, day.day);
   const today     = isToday(dayDate);
-  const dateStr   = dayDate.toLocaleDateString('de-DE', { day:'numeric', month:'long' });
+  const locale    = lang === 'en' ? 'en-US' : 'de-DE';
+  const dateStr   = dayDate.toLocaleDateString(locale, { day:'numeric', month:'long' });
   const lunchRecipe = varData.lunches.find(l => l.id === day.lunch_id)
                    || (varData.dessert?.id === day.lunch_id ? varData.dessert : null);
   const heroImg   = lunchRecipe ? recipeImg(lunchRecipe.id, 1200, 600, 85) : null;
@@ -940,8 +1079,8 @@ function renderDesktopDayDetail(week, varData) {
          <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent"></div>
          <div class="absolute bottom-0 left-0 right-0 p-6 text-white">
            <div class="flex items-center gap-3 mb-1">
-             <span class="font-display text-3xl font-bold">${day.day}</span>
-             ${today ? `<span class="bg-primary text-on-primary text-xs font-bold px-3 py-1 rounded-full">Heute</span>` : ''}
+             <span class="font-display text-3xl font-bold">${dField(day, 'day')}</span>
+             ${today ? `<span class="bg-primary text-on-primary text-xs font-bold px-3 py-1 rounded-full">${t('today')}</span>` : ''}
            </div>
            <p class="text-white/70 text-sm font-medium">${dateStr}</p>
          </div>
@@ -950,8 +1089,8 @@ function renderDesktopDayDetail(week, varData) {
          ${emoji}
          <div class="absolute bottom-0 left-0 right-0 p-5">
            <div class="flex items-center gap-3">
-             <span class="font-display text-2xl font-bold text-on-surface">${day.day}</span>
-             ${today ? `<span class="bg-primary text-on-primary text-xs font-bold px-3 py-1 rounded-full">Heute</span>` : ''}
+             <span class="font-display text-2xl font-bold text-on-surface">${dField(day, 'day')}</span>
+             ${today ? `<span class="bg-primary text-on-primary text-xs font-bold px-3 py-1 rounded-full">${t('today')}</span>` : ''}
            </div>
            <p class="text-on-surface-variant text-sm">${dateStr}</p>
          </div>
@@ -960,45 +1099,45 @@ function renderDesktopDayDetail(week, varData) {
   const mealsHtml = `
     <div class="px-8 py-6 border-b border-surface-variant/60">
       <div class="flex flex-col gap-5">
-        ${mealRowLarge('🌅', 'Frühstück', day.breakfast)}
-        ${mealRowLarge('🍲', 'Mittagessen', day.lunch, day.lunch_note)}
-        ${mealRowLarge('🍎', 'Snack', day.snack)}
+        ${mealRowLarge('🌅', t('breakfast_long'), dField(day, 'breakfast'))}
+        ${mealRowLarge('🍲', t('lunch_long'), dField(day, 'lunch'), day.lunch_note)}
+        ${mealRowLarge('🍎', t('snack_long'), dField(day, 'snack'))}
       </div>
     </div>`;
 
   const recipeHtml = lunchRecipe ? `
     <div class="px-8 py-6">
       <div class="flex items-start justify-between gap-4 mb-4">
-        <h2 class="font-display text-2xl font-bold text-on-surface leading-tight">${lunchRecipe.title}</h2>
+        <h2 class="font-display text-2xl font-bold text-on-surface leading-tight">${rField(lunchRecipe, 'title')}</h2>
         <button onclick="openById('${lunchRecipe.id}')"
           class="shrink-0 flex items-center gap-1.5 bg-primary text-on-primary font-label-sm text-label-sm px-4 py-2 rounded-full hover:bg-primary-container active:scale-95 transition-all whitespace-nowrap">
           <span class="material-symbols-outlined text-[16px]">open_in_full</span>
-          Vollbild
+          ${t('fullscreen')}
         </button>
       </div>
       <div class="flex flex-wrap gap-2 mb-5">
         ${timeStr ? `<span class="bg-surface-container-high text-on-surface-variant px-3 py-1.5 rounded-full font-label-sm text-label-sm inline-flex items-center gap-1.5"><span class="material-symbols-outlined text-[14px]">schedule</span>${timeStr}</span>` : ''}
         <span class="bg-primary-container text-on-primary-container px-3 py-1.5 rounded-full font-label-sm text-label-sm inline-flex items-center gap-1.5">
-          <span class="material-symbols-outlined text-[14px]">restaurant_menu</span>${dayCount}× diese Woche
+          <span class="material-symbols-outlined text-[14px]">restaurant_menu</span>${dayCount}${t('times_this_week')}
         </span>
       </div>
-      <p class="font-body-sm text-body-sm text-on-surface-variant leading-relaxed mb-6">${lunchRecipe.summary || ''}</p>
+      <p class="font-body-sm text-body-sm text-on-surface-variant leading-relaxed mb-6">${rField(lunchRecipe, 'summary')}</p>
 
       <div class="grid grid-cols-1 xl:grid-cols-2 gap-8">
         <div>
-          <h3 class="font-display text-label-md text-label-md text-on-surface mb-4 uppercase tracking-wider">Zutaten</h3>
+          <h3 class="font-display text-label-md text-label-md text-on-surface mb-4 uppercase tracking-wider">${t('ingredients')}</h3>
           <ul class="flex flex-col gap-1">
             ${(lunchRecipe.ingredients || []).map(ing => `
               <li class="flex justify-between items-baseline gap-4 py-2 border-b border-surface-container-high/60 last:border-0">
-                <span class="font-body-sm text-body-sm text-on-surface">${ing.name}</span>
+                <span class="font-body-sm text-body-sm text-on-surface">${iName(ing)}</span>
                 <span class="font-label-sm text-label-sm text-on-surface-variant shrink-0">${ing.qty_display ?? ''}</span>
               </li>`).join('')}
           </ul>
         </div>
         <div>
-          <h3 class="font-display text-label-md text-label-md text-on-surface mb-4 uppercase tracking-wider">Zubereitung</h3>
+          <h3 class="font-display text-label-md text-label-md text-on-surface mb-4 uppercase tracking-wider">${t('instructions')}</h3>
           <ol class="flex flex-col gap-4">
-            ${(lunchRecipe.steps || []).map((step, i) => `
+            ${rSteps(lunchRecipe).map((step, i) => `
               <li class="flex gap-3">
                 <span class="font-display text-label-md text-primary shrink-0 mt-0.5 w-5">${i+1}</span>
                 <span class="font-body-sm text-body-sm text-on-surface leading-relaxed">${step}</span>
@@ -1095,8 +1234,8 @@ function recipeCardHTML(recipe, mealLabel, idx) {
       class="bg-surface-container-lowest rounded-xl shadow-[0px_4px_24px_rgba(28,28,26,0.06)] overflow-hidden flex flex-col group cursor-pointer active:scale-[0.98] transition-transform duration-300">
       ${banner}
       <div class="p-stack-lg flex flex-col gap-stack-sm">
-        <h3 class="font-display text-headline-md text-on-surface group-hover:text-primary transition-colors">${recipe.title}</h3>
-        <p class="font-body-sm text-body-sm text-on-surface-variant line-clamp-2">${recipe.summary || ''}</p>
+        <h3 class="font-display text-headline-md text-on-surface group-hover:text-primary transition-colors">${rField(recipe, 'title')}</h3>
+        <p class="font-body-sm text-body-sm text-on-surface-variant line-clamp-2">${rField(recipe, 'summary')}</p>
         <div class="flex flex-wrap gap-2 mt-stack-sm">
           <span class="bg-primary-container text-on-primary-container px-3 py-1.5 rounded-full font-label-sm text-label-sm inline-flex items-center gap-1.5">
             <span class="material-symbols-outlined text-[14px]">restaurant_menu</span>${mealLabel}
@@ -1107,7 +1246,7 @@ function recipeCardHTML(recipe, mealLabel, idx) {
           </span>` : ''}
         </div>
         <div class="mt-stack-md self-end flex items-center gap-1 font-label-md text-label-md text-primary group-hover:translate-x-1 transition-transform">
-          Rezept ansehen <span class="material-symbols-outlined text-[18px]">arrow_forward</span>
+          ${t('view_recipe')} <span class="material-symbols-outlined text-[18px]">arrow_forward</span>
         </div>
       </div>
     </article>`;
@@ -1131,7 +1270,7 @@ function renderRezepte() {
   const weekRecipes = [...varData.lunches, varData.dessert];
   document.getElementById('recipe-cards').innerHTML = weekRecipes.map((recipe, i) => {
     const isDessert = i === varData.lunches.length;
-    const mealLabel = isDessert ? 'Dessert der Woche' : `${lunchCounts[recipe.id] || 1}× diese Woche`;
+    const mealLabel = isDessert ? t('dessert_of_week') : `${lunchCounts[recipe.id] || 1}${t('times_this_week')}`;
     return recipeCardHTML(recipe, mealLabel, i);
   }).join('');
 
@@ -1143,9 +1282,9 @@ function renderRezepte() {
 function copyShoppingList() {
   if (!weeks.length) return;
   const varData = weeks[weekIndex].variants[currentVariant];
-  const lines = [`Einkaufsliste – ${formatWeekDates(weeks[weekIndex])} (${currentVariant})`, ''];
+  const lines = [`${t('your_shopping')} – ${formatWeekDates(weeks[weekIndex])} (${currentVariant})`, ''];
   varData.shopping.forEach(cat => {
-    lines.push(`${CATEGORY_ICONS[cat.category] || ''} ${cat.category}`);
+    lines.push(`${CATEGORY_ICONS[cat.category] || ''} ${tCat(cat.category)}`);
     cat.items.forEach(item => lines.push(`  • ${item.name}  ${item.qty_display}`));
     lines.push('');
   });
@@ -1174,13 +1313,13 @@ function filterRecipes(query) {
 
   // Search across ALL weeks in the current variant pool
   const matches = _variantPool.filter(r =>
-    r.title.toLowerCase().includes(q) ||
-    (r.summary || '').toLowerCase().includes(q)
+    rField(r, 'title').toLowerCase().includes(q) ||
+    rField(r, 'summary').toLowerCase().includes(q)
   );
 
   document.getElementById('recipe-cards').innerHTML = matches.map((recipe, i) => {
     // Find which week this recipe appears in and how many times
-    let weekLabel = 'Im Plan';
+    let weekLabel = t('in_plan');
     weeks.forEach(week => {
       const varData = week.variants[currentVariant];
       const count = varData?.days.filter(d => d.lunch_id === recipe.id).length || 0;
@@ -1224,7 +1363,7 @@ function renderEinkauf() {
 
   if (shoppingMode === 'standard') {
     const { total, done } = shoppingStats(week, currentVariant);
-    document.getElementById('shopping-progress-label').textContent = `${done} von ${total} erledigt`;
+    document.getElementById('shopping-progress-label').textContent = `${done} ${t('progress_of')} ${total} ${t('progress_done')}`;
     document.getElementById('shopping-progress-bar').style.width = total ? `${(done/total)*100}%` : '0%';
     renderShoppingList(week, varData);
   } else {
@@ -1254,7 +1393,7 @@ function renderShoppingList(week, varData) {
     return `
       <div class="bg-surface-container-lowest rounded-[20px] shadow-[0px_4px_24px_rgba(28,28,26,0.06)] p-6">
         <h3 class="font-label-md text-label-md text-tertiary mb-stack-md flex items-center gap-2">
-          <span class="text-xl">${catIcon}</span> ${cat.category}
+          <span class="text-xl">${catIcon}</span> ${tCat(cat.category)}
         </h3>
         <ul class="flex flex-col gap-stack-sm">${items}</ul>
       </div>`;
@@ -1270,7 +1409,7 @@ function renderRecipePicker(week, varData) {
         active
           ? 'bg-primary text-on-primary'
           : 'bg-surface-container-high text-on-surface-variant hover:bg-surface-container-highest'
-      }">${r.title}</button>`;
+      }">${rField(r, 'title')}</button>`;
   }).join('');
 }
 
@@ -1315,7 +1454,7 @@ function renderRezeptEinkauf(week, varData) {
             ${done ? 'checked' : ''}
             onchange="toggleCheck('${escAttr(key)}', this)"/>
           <label for="${escId(key)}" class="flex-1 flex justify-between items-center cursor-pointer font-body-md text-body-md text-on-surface ${done ? 'item-checked' : ''} transition-all">
-            <span>${ing.name}</span>
+            <span>${iName(ing)}</span>
             <span class="text-on-surface-variant text-sm shrink-0 ml-2">${ing.qty_display ?? ''}</span>
           </label>
         </li>`;
@@ -1323,7 +1462,7 @@ function renderRezeptEinkauf(week, varData) {
     return `
       <div class="bg-surface-container-lowest rounded-[20px] shadow-[0px_4px_24px_rgba(28,28,26,0.06)] p-6">
         <h3 class="font-label-md text-label-md text-tertiary mb-stack-md flex items-center gap-2">
-          <span class="text-xl">${catIcon}</span> ${cat}
+          <span class="text-xl">${catIcon}</span> ${tCat(cat)}
         </h3>
         <ul class="flex flex-col gap-stack-sm">${items}</ul>
       </div>`;
@@ -1339,7 +1478,7 @@ function toggleCheck(key, el) {
   if (weeks.length) {
     if (shoppingMode === 'standard') {
       const { total, done } = shoppingStats(weeks[weekIndex], currentVariant);
-      document.getElementById('shopping-progress-label').textContent = `${done} von ${total} erledigt`;
+      document.getElementById('shopping-progress-label').textContent = `${done} ${t('progress_of')} ${total} ${t('progress_done')}`;
       document.getElementById('shopping-progress-bar').style.width = total ? `${(done/total)*100}%` : '0%';
     }
     renderBottomNav();
@@ -1359,7 +1498,7 @@ function openSheet(recipe) {
   const entry     = recipeImages[recipe.id];
   if (entry?.raw) {
     imgEl.src             = imgSrc(entry.raw, 1200, 520, 85);
-    imgEl.alt             = recipe.title;
+    imgEl.alt             = rField(recipe, 'title');
     imgCredit.href        = entry.credit_url || '#';
     imgCredit.textContent = `Foto: ${entry.credit} / Unsplash`;
     imgEl.onerror         = () => imgWrap.classList.add('hidden');
@@ -1371,9 +1510,9 @@ function openSheet(recipe) {
   const dayCount = lunchCounts[recipe.id] || 1;
   const timeStr  = fmtTime(recipe.id);
   document.getElementById('sheet-meals').textContent =
-    [timeStr ? `⏱ ${timeStr}` : null, `${dayCount}× diese Woche`].filter(Boolean).join('  ·  ');
-  document.getElementById('sheet-title').textContent   = recipe.title;
-  document.getElementById('sheet-summary').textContent = recipe.summary || '';
+    [timeStr ? `⏱ ${timeStr}` : null, `${dayCount}${t('times_this_week')}`].filter(Boolean).join('  ·  ');
+  document.getElementById('sheet-title').textContent   = rField(recipe, 'title');
+  document.getElementById('sheet-summary').textContent = rField(recipe, 'summary');
 
   const childRow = document.getElementById('sheet-child-row');
   if (recipe.child_note) {
@@ -1386,13 +1525,13 @@ function openSheet(recipe) {
   document.getElementById('sheet-ingredients').innerHTML =
     (recipe.ingredients || []).map(ing =>
       `<li class="flex justify-between items-baseline gap-4 py-2 border-b border-surface-container-high/60 last:border-0">
-        <span class="font-body-sm text-body-sm text-on-surface">${ing.name}</span>
+        <span class="font-body-sm text-body-sm text-on-surface">${iName(ing)}</span>
         <span class="font-label-sm text-label-sm text-on-surface-variant shrink-0">${ing.qty_display ?? ''}</span>
        </li>`
     ).join('');
 
   document.getElementById('sheet-steps').innerHTML =
-    (recipe.steps || []).map((step, i) =>
+    rSteps(recipe).map((step, i) =>
       `<li class="flex gap-3">
         <span class="font-display text-label-md text-primary shrink-0 mt-0.5">${i+1}</span>
         <span class="font-body-sm text-body-sm text-on-surface leading-relaxed">${step}</span>
