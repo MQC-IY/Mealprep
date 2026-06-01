@@ -24,6 +24,9 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Install dependencies
+        run: pip install pyyaml
+
       - name: Generate weeks.json
         run: python3 -B meal_plan_generator.py --json
 
