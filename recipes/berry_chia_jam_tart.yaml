@@ -1,0 +1,97 @@
+id: berry_chia_jam_tart
+pool: dessert
+healthy: true
+meals: 8
+de:
+  title: Beeren-Chia-Tarte mit Dinkelboden
+  summary: Knusprige Dinkelmehl-Tarte mit cremiger Quarkfüllung und fruchtigem Beeren-Chia-Konfitüre-Topping — ohne raffinierten Zucker und perfekt für besondere Anlässe.
+en:
+  title: "TODO: Beeren-Chia-Tarte mit Dinkelboden"
+  summary: "TODO: Knusprige Dinkelmehl-Tarte mit cremiger Quarkfüllung und fruchtigem Beeren-Chia-Konfitüre-Topping — ohne raffinierten Zucker und perfekt für besondere Anlässe."
+ingredients:
+  - de_name: Vollkorndinkelmehl
+    en_name: "TODO: Vollkorndinkelmehl"
+    qty: 300
+    unit: g
+    category: Kohlenhydrate und Sattmacher
+  - de_name: Mandelmehl
+    en_name: "TODO: Mandelmehl"
+    qty: 80
+    unit: g
+    category: Konserven und Vorrat
+  - de_name: "Kokosöl (kalt, fest)"
+    en_name: "TODO: Kokosöl (kalt, fest)"
+    qty: 100
+    unit: g
+    category: Konserven und Vorrat
+  - de_name: Honig
+    en_name: "TODO: Honig"
+    qty: 3
+    unit: EL
+    category: Konserven und Vorrat
+  - de_name: Ei
+    en_name: "TODO: Ei"
+    qty: 1
+    unit: Stk
+    category: Protein und Milchprodukte
+  - de_name: Salz
+    en_name: "TODO: Salz"
+    qty: 1
+    unit: Prise
+    category: Gewürze
+  - de_name: Magerquark
+    en_name: "TODO: Magerquark"
+    qty: 600
+    unit: g
+    category: Protein und Milchprodukte
+  - de_name: Griechischer Joghurt
+    en_name: "TODO: Griechischer Joghurt"
+    qty: 200
+    unit: g
+    category: Protein und Milchprodukte
+  - de_name: Honig
+    en_name: "TODO: Honig"
+    qty: 3
+    unit: EL
+    category: Konserven und Vorrat
+  - de_name: Vanilleextrakt
+    en_name: "TODO: Vanilleextrakt"
+    qty: 2
+    unit: TL
+    category: Gewürze
+  - de_name: "gemischte Beeren (Erdbeeren, Heidelbeeren, Himbeeren)"
+    en_name: "TODO: gemischte Beeren (Erdbeeren, Heidelbeeren, Himbeeren)"
+    qty: 700
+    unit: g
+    category: Obst
+  - de_name: Chiasamen
+    en_name: "TODO: Chiasamen"
+    qty: 4
+    unit: EL
+    category: Konserven und Vorrat
+  - de_name: Agavendicksaft
+    en_name: "TODO: Agavendicksaft"
+    qty: 3
+    unit: EL
+    category: Konserven und Vorrat
+  - de_name: Zitronensaft
+    en_name: "TODO: Zitronensaft"
+    qty: 2
+    unit: EL
+    category: Obst
+de_steps:
+  - "Für den Teig Vollkorndinkelmehl, Mandelmehl und Salz mischen. Festes Kokosöl in Würfeln, Honig und Ei hinzufügen und rasch zu einem glatten Mürbeteig kneten. In Frischhaltefolie wickeln und 30 Minuten kalt stellen."
+  - "Ofen auf 180 °C Ober-/Unterhitze vorheizen. Teig auf einer bemehlten Fläche auf ca. 3 mm ausrollen und in eine Tarteform (28 cm) legen, Rand andrücken. Mit einer Gabel mehrfach einstechen."
+  - "Tarteboden 15–18 Minuten blind backen (mit Backpapier und Hülsenfrüchten beschwert), bis er goldbraun ist. Vollständig auskühlen lassen."
+  - "Für die Chia-Konfitüre Beeren mit Agavendicksaft und Zitronensaft in einem Topf 5 Minuten köcheln, leicht zerdrücken. Chiasamen einrühren und 20 Minuten quellen lassen, bis eine gelartige Konfitüre entstanden ist. Auskühlen lassen."
+  - "Magerquark, Joghurt, Honig und Vanilleextrakt zu einer glatten Creme verrühren und gleichmäßig auf dem abgekühlten Tarteboden verteilen."
+  - Beeren-Chia-Konfitüre auf der Quarkcreme verteilen.
+  - "Tarte mindestens 1 Stunde kalt stellen, dann in 8 Stücke schneiden und servieren. Im Kühlschrank bis zu 2 Tage haltbar."
+en_steps:
+  - "TODO: Für den Teig Vollkorndinkelmehl, Mandelmehl und Salz mischen. Festes Kokosöl in Würfeln, Honig und Ei hinzufügen und rasch zu einem glatten Mürbeteig kneten. In Frischhaltefolie wickeln und 30 Minuten kalt stellen."
+  - "TODO: Ofen auf 180 °C Ober-/Unterhitze vorheizen. Teig auf einer bemehlten Fläche auf ca. 3 mm ausrollen und in eine Tarteform (28 cm) legen, Rand andrücken. Mit einer Gabel mehrfach einstechen."
+  - "TODO: Tarteboden 15–18 Minuten blind backen (mit Backpapier und Hülsenfrüchten beschwert), bis er goldbraun ist. Vollständig auskühlen lassen."
+  - "TODO: Für die Chia-Konfitüre Beeren mit Agavendicksaft und Zitronensaft in einem Topf 5 Minuten köcheln, leicht zerdrücken. Chiasamen einrühren und 20 Minuten quellen lassen, bis eine gelartige Konfitüre entstanden ist. Auskühlen lassen."
+  - "TODO: Magerquark, Joghurt, Honig und Vanilleextrakt zu einer glatten Creme verrühren und gleichmäßig auf dem abgekühlten Tarteboden verteilen."
+  - "TODO: Beeren-Chia-Konfitüre auf der Quarkcreme verteilen."
+  - "TODO: Tarte mindestens 1 Stunde kalt stellen, dann in 8 Stücke schneiden und servieren. Im Kühlschrank bis zu 2 Tage haltbar."

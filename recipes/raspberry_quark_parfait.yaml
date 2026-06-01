@@ -1,0 +1,70 @@
+id: raspberry_quark_parfait
+pool: dessert
+healthy: true
+meals: 8
+de:
+  title: Himbeer-Quark-Parfait
+  summary: "Leichtes Schichtdessert aus cremigem Magerquark, frischen Himbeeren und knusprigem Hafergranola — eiweißreich, natürlich gesüßt und in Minuten zubereitet."
+en:
+  title: "TODO: Himbeer-Quark-Parfait"
+  summary: "TODO: Leichtes Schichtdessert aus cremigem Magerquark, frischen Himbeeren und knusprigem Hafergranola — eiweißreich, natürlich gesüßt und in Minuten zubereitet."
+ingredients:
+  - de_name: Magerquark
+    en_name: "TODO: Magerquark"
+    qty: 1000
+    unit: g
+    category: Protein und Milchprodukte
+  - de_name: "Naturjoghurt (3,5 %)"
+    en_name: "TODO: Naturjoghurt (3,5 %)"
+    qty: 300
+    unit: g
+    category: Protein und Milchprodukte
+  - de_name: Honig
+    en_name: "TODO: Honig"
+    qty: 4
+    unit: EL
+    category: Konserven und Vorrat
+  - de_name: Vanilleextrakt
+    en_name: "TODO: Vanilleextrakt"
+    qty: 2
+    unit: TL
+    category: Gewürze
+  - de_name: frische oder TK-Himbeeren
+    en_name: "TODO: frische oder TK-Himbeeren"
+    qty: 600
+    unit: g
+    category: Obst
+  - de_name: Zitronensaft
+    en_name: "TODO: Zitronensaft"
+    qty: 2
+    unit: EL
+    category: Obst
+  - de_name: Agavendicksaft
+    en_name: "TODO: Agavendicksaft"
+    qty: 2
+    unit: EL
+    category: Konserven und Vorrat
+  - de_name: Hafergranola ungesüßt
+    en_name: "TODO: Hafergranola ungesüßt"
+    qty: 200
+    unit: g
+    category: Kohlenhydrate und Sattmacher
+  - de_name: frische Minze zum Garnieren
+    en_name: "TODO: frische Minze zum Garnieren"
+    qty: 1
+    unit: Stk
+    category: Gewürze
+de_steps:
+  - "Magerquark, Joghurt, Honig und Vanilleextrakt in einer Schüssel cremig verrühren."
+  - "Himbeeren mit Zitronensaft und Agavendicksaft in einer separaten Schüssel leicht zerdrücken, sodass ein dickflüssiges Kompott entsteht. TK-Himbeeren vorher auftauen lassen."
+  - 8 hohe Gläser oder Dessertbecher bereitstellen.
+  - "Zuerst eine Schicht Granola einfüllen, dann Quarkcreme daraufgeben, anschließend eine Schicht Himbeerkompott. Vorgang einmal wiederholen."
+  - Parfaits mit frischer Minze garnieren.
+  - "Sofort servieren oder maximal 2 Stunden im Kühlschrank aufbewahren, damit das Granola knusprig bleibt. Für Meal-Prep Komponenten getrennt lagern."
+en_steps:
+  - "TODO: Magerquark, Joghurt, Honig und Vanilleextrakt in einer Schüssel cremig verrühren."
+  - "TODO: Himbeeren mit Zitronensaft und Agavendicksaft in einer separaten Schüssel leicht zerdrücken, sodass ein dickflüssiges Kompott entsteht. TK-Himbeeren vorher auftauen lassen."
+  - "TODO: 8 hohe Gläser oder Dessertbecher bereitstellen."
+  - "TODO: Zuerst eine Schicht Granola einfüllen, dann Quarkcreme daraufgeben, anschließend eine Schicht Himbeerkompott. Vorgang einmal wiederholen."
+  - "TODO: Parfaits mit frischer Minze garnieren."
+  - "TODO: Sofort servieren oder maximal 2 Stunden im Kühlschrank aufbewahren, damit das Granola knusprig bleibt. Für Meal-Prep Komponenten getrennt lagern."

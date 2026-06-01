@@ -1653,5 +1653,80 @@
     "raw": "https://images.unsplash.com/photo-1581073598026-26753e28b782?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxwYXN0YSUyMGFsbGUlMjB2b25nb2xlfGVufDF8MHx8fDE3ODAyMjA3ODl8MA&ixlib=rb-4.1.0",
     "credit": "Ensora",
     "credit_url": "https://unsplash.com/@ensoraco?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "banana_oat_pancakes": {
+    "raw": "https://images.unsplash.com/photo-1528207776546-365bb710ee93?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxoZWFsdGh5JTIwYmFuYW5hJTIwb2F0JTIwcGFuY2FrZXMlMjBmcmVzaCUyMGJlcnJpZXN8ZW58MXwwfHx8MTc4MDI0NDAzMnww&ixlib=rb-4.1.0",
+    "credit": "nikldn",
+    "credit_url": "https://unsplash.com/@nikldn?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "chia_mango_pudding": {
+    "raw": "https://images.unsplash.com/photo-1562828070-98e5093fa303?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjaGlhJTIwcHVkZGluZyUyMG1hbmdvJTIwY29jb251dCUyMG1pbGslMjBoZWFsdGh5JTIwZGVzc2VydHxlbnwxfDB8fHwxNzgwMjQ0MDM1fDA&ixlib=rb-4.1.0",
+    "credit": "Fujiphilm",
+    "credit_url": "https://unsplash.com/@fujiphilm?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "frozen_berry_yogurt": {
+    "raw": "https://images.unsplash.com/photo-1438907046657-4ae137eb8c5e?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxmcm96ZW4lMjBiZXJyeSUyMHlvZ3VydCUyMGhlYWx0aHklMjBob21lbWFkZSUyMGljZSUyMGNyZWFtfGVufDF8MHx8fDE3ODAyNDQwMzh8MA&ixlib=rb-4.1.0",
+    "credit": "Devin Rajaram",
+    "credit_url": "https://unsplash.com/@designerdev?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "date_nut_energy_balls": {
+    "raw": "https://images.unsplash.com/photo-1596723455658-72ebb0d12edd?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxkYXRlJTIwbnV0JTIwZW5lcmd5JTIwYmFsbHMlMjBoZWFsdGh5JTIwbm8lMjBiYWtlJTIwc25hY2t8ZW58MXwwfHx8MTc4MDI0NDA0MXww&ixlib=rb-4.1.0",
+    "credit": "Abbie Whiddett",
+    "credit_url": "https://unsplash.com/@abbiew?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "dark_chocolate_oat_muffins": {
+    "raw": "https://images.unsplash.com/photo-1612126356371-50b8c411b03d?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxkYXJrJTIwY2hvY29sYXRlJTIwb2F0JTIwbXVmZmlucyUyMGhlYWx0aHklMjB3aG9sZSUyMGdyYWlufGVufDF8MHx8fDE3ODAyNDQwNDV8MA&ixlib=rb-4.1.0",
+    "credit": "Aneta Voborilova",
+    "credit_url": "https://unsplash.com/@anetvob?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "strawberry_rhubarb_crumble": {
+    "raw": "https://images.unsplash.com/photo-1525093505341-06e6006ff576?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxzdHJhd2JlcnJ5JTIwcmh1YmFyYiUyMGNydW1ibGUlMjBvYXQlMjB0b3BwaW5nJTIwaGVhbHRoeSUyMGJha2V8ZW58MXwwfHx8MTc4MDI0NDA0OHww&ixlib=rb-4.1.0",
+    "credit": "Sara Dubler",
+    "credit_url": "https://unsplash.com/@ahungryblonde_?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "coconut_rice_pudding_pineapple": {
+    "raw": "https://images.unsplash.com/photo-1606728099646-68d5a0a4d423?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjb2NvbnV0JTIwcmljZSUyMHB1ZGRpbmclMjBjYXJhbWVsaXplZCUyMHBpbmVhcHBsZSUyMGhlYWx0aHklMjBkZXNzZXJ0fGVufDF8MHx8fDE3ODAyNDQwNTJ8MA&ixlib=rb-4.1.0",
+    "credit": "Claudio Schwarz",
+    "credit_url": "https://unsplash.com/@purzlbaum?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "baked_apple_walnut": {
+    "raw": "https://images.unsplash.com/photo-1676289869007-8ebccd8923a7?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxiYWtlZCUyMGFwcGxlJTIwd2FsbnV0JTIwY2lubmFtb24lMjBzdHVmZmVkJTIwaGVhbHRoeSUyMGRlc3NlcnR8ZW58MXwwfHx8MTc4MDI0NDA1NXww&ixlib=rb-4.1.0",
+    "credit": "Liia",
+    "credit_url": "https://unsplash.com/@liia8?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "chocolate_avocado_mousse": {
+    "raw": "https://images.unsplash.com/photo-1590080875852-ba44f83ff2db?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxjaG9jb2xhdGUlMjBhdm9jYWRvJTIwbW91c3NlJTIwaGVhbHRoeSUyMGRhcmslMjBjaG9jb2xhdGUlMjBkZXNzZXJ0fGVufDF8MHx8fDE3ODAyNDQwNTh8MA&ixlib=rb-4.1.0",
+    "credit": "American Heritage Chocolate",
+    "credit_url": "https://unsplash.com/@americanheritagechocolate?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "raspberry_quark_parfait": {
+    "raw": "https://images.unsplash.com/photo-1673646960378-e8352cbea00b?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxyYXNwYmVycnklMjBxdWFyayUyMHBhcmZhaXQlMjBsYXllcmVkJTIwaGVhbHRoeSUyMGRlc3NlcnQlMjBncmFub2xhfGVufDF8MHx8fDE3ODAyNDQwNjF8MA&ixlib=rb-4.1.0",
+    "credit": "Natalia Gusakova",
+    "credit_url": "https://unsplash.com/@nataliaraylenegusakova?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "lemon_poppy_seed_cake": {
+    "raw": "https://images.unsplash.com/photo-1691242720316-7bea97eb655f?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxsZW1vbiUyMHBvcHB5JTIwc2VlZCUyMGNha2UlMjB3aG9sZSUyMGdyYWluJTIwaGVhbHRoeSUyMG1vaXN0fGVufDF8MHx8fDE3ODAyNDQwNjR8MA&ixlib=rb-4.1.0",
+    "credit": "The Design Lady",
+    "credit_url": "https://unsplash.com/@sarah35?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "mango_frozen_yogurt": {
+    "raw": "https://images.unsplash.com/photo-1635716279493-d1e30afc25a0?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxtYW5nbyUyMGZyb3plbiUyMHlvZ3VydCUyMGhlYWx0aHklMjB0cm9waWNhbCUyMGRlc3NlcnR8ZW58MXwwfHx8MTc4MDI0NDA2OHww&ixlib=rb-4.1.0",
+    "credit": "Desirae Hayes-Vitor",
+    "credit_url": "https://unsplash.com/@desirae_hayesvitor?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "apple_oat_bake": {
+    "raw": "https://images.unsplash.com/photo-1605698802040-b783f33b49a5?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxiYWtlZCUyMG9hdG1lYWwlMjBhcHBsZSUyMGNpbm5hbW9uJTIwZmFtaWx5JTIwaGVhbHRoeSUyMGJyZWFrZmFzdCUyMGRlc3NlcnR8ZW58MXwwfHx8MTc4MDI0NDA3MXww&ixlib=rb-4.1.0",
+    "credit": "Max Nayman",
+    "credit_url": "https://unsplash.com/@maxniceman?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "pumpkin_yogurt_cake": {
+    "raw": "https://images.unsplash.com/photo-1690085617616-bb89c1148397?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxwdW1wa2luJTIweW9ndXJ0JTIwY2FrZSUyMHdhbG51dCUyMGhlYWx0aHklMjBhdXR1bW4lMjBiYWtlfGVufDF8MHx8fDE3ODAyNDQwNzR8MA&ixlib=rb-4.1.0",
+    "credit": "Summerside Creative",
+    "credit_url": "https://unsplash.com/@summersidecreative?utm_source=mahlzeit_app&utm_medium=referral"
+  },
+  "berry_chia_jam_tart": {
+    "raw": "https://images.unsplash.com/photo-1736840334984-bb0c66a9b97c?ixid=M3w5NjUwNzR8MHwxfHNlYXJjaHwxfHxiZXJyeSUyMGNoaWElMjBqYW0lMjB0YXJ0JTIwc3BlbHQlMjBjcnVzdCUyMGhlYWx0aHklMjBkZXNzZXJ0fGVufDF8MHx8fDE3ODAyNDQwNzd8MA&ixlib=rb-4.1.0",
+    "credit": "Andreea M.",
+    "credit_url": "https://unsplash.com/@bluelash?utm_source=mahlzeit_app&utm_medium=referral"
   }
 }

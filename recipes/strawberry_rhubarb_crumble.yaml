@@ -1,0 +1,87 @@
+id: strawberry_rhubarb_crumble
+pool: dessert
+healthy: true
+meals: 8
+de:
+  title: Erdbeer-Rhabarber-Crumble
+  summary: "Fruchtiger Crumble mit saftigem Erdbeer-Rhabarber-Bett und knusprigem Hafer-Nuss-Topping, gesüßt mit Honig — warm oder kalt ein Genuss."
+en:
+  title: "TODO: Erdbeer-Rhabarber-Crumble"
+  summary: "TODO: Fruchtiger Crumble mit saftigem Erdbeer-Rhabarber-Bett und knusprigem Hafer-Nuss-Topping, gesüßt mit Honig — warm oder kalt ein Genuss."
+ingredients:
+  - de_name: Erdbeeren
+    en_name: "TODO: Erdbeeren"
+    qty: 800
+    unit: g
+    category: Obst
+  - de_name: Rhabarber
+    en_name: "TODO: Rhabarber"
+    qty: 600
+    unit: g
+    category: Obst
+  - de_name: Honig
+    en_name: "TODO: Honig"
+    qty: 5
+    unit: EL
+    category: Konserven und Vorrat
+  - de_name: Stärke (Maisstärke)
+    en_name: "TODO: Stärke (Maisstärke)"
+    qty: 2
+    unit: EL
+    category: Konserven und Vorrat
+  - de_name: Vanilleextrakt
+    en_name: "TODO: Vanilleextrakt"
+    qty: 2
+    unit: TL
+    category: Gewürze
+  - de_name: Haferflocken (kernig)
+    en_name: "TODO: Haferflocken (kernig)"
+    qty: 300
+    unit: g
+    category: Kohlenhydrate und Sattmacher
+  - de_name: Walnüsse grob gehackt
+    en_name: "TODO: Walnüsse grob gehackt"
+    qty: 100
+    unit: g
+    category: Konserven und Vorrat
+  - de_name: Mandelmehl
+    en_name: "TODO: Mandelmehl"
+    qty: 80
+    unit: g
+    category: Konserven und Vorrat
+  - de_name: Kokosöl (geschmolzen)
+    en_name: "TODO: Kokosöl (geschmolzen)"
+    qty: 60
+    unit: ml
+    category: Konserven und Vorrat
+  - de_name: Agavendicksaft
+    en_name: "TODO: Agavendicksaft"
+    qty: 3
+    unit: EL
+    category: Konserven und Vorrat
+  - de_name: Zimt gemahlen
+    en_name: "TODO: Zimt gemahlen"
+    qty: 2
+    unit: TL
+    category: Gewürze
+  - de_name: Salz
+    en_name: "TODO: Salz"
+    qty: 1
+    unit: Prise
+    category: Gewürze
+de_steps:
+  - Ofen auf 190 °C Ober-/Unterhitze vorheizen.
+  - "Erdbeeren waschen und halbieren. Rhabarber waschen, schälen und in 2 cm große Stücke schneiden."
+  - "Früchte mit Honig, Maisstärke und Vanilleextrakt vermischen und in eine große Auflaufform (ca. 30×22 cm) geben."
+  - "Für das Topping Haferflocken, gehackte Walnüsse, Mandelmehl, geschmolzenes Kokosöl, Agavendicksaft, Zimt und Salz in einer Schüssel vermengen, bis die Masse leicht klumpt."
+  - Topping gleichmäßig über die Fruchtmasse streuen.
+  - "Im vorgeheizten Ofen 35–40 Minuten backen, bis das Topping goldbraun und die Früchte sprudelnd sind."
+  - "10 Minuten abkühlen lassen, dann warm servieren. Reste im Kühlschrank bis zu 3 Tage haltbar."
+en_steps:
+  - "TODO: Ofen auf 190 °C Ober-/Unterhitze vorheizen."
+  - "TODO: Erdbeeren waschen und halbieren. Rhabarber waschen, schälen und in 2 cm große Stücke schneiden."
+  - "TODO: Früchte mit Honig, Maisstärke und Vanilleextrakt vermischen und in eine große Auflaufform (ca. 30×22 cm) geben."
+  - "TODO: Für das Topping Haferflocken, gehackte Walnüsse, Mandelmehl, geschmolzenes Kokosöl, Agavendicksaft, Zimt und Salz in einer Schüssel vermengen, bis die Masse leicht klumpt."
+  - "TODO: Topping gleichmäßig über die Fruchtmasse streuen."
+  - "TODO: Im vorgeheizten Ofen 35–40 Minuten backen, bis das Topping goldbraun und die Früchte sprudelnd sind."
+  - "TODO: 10 Minuten abkühlen lassen, dann warm servieren. Reste im Kühlschrank bis zu 3 Tage haltbar."

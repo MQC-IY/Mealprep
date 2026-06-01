@@ -1,0 +1,77 @@
+id: date_nut_energy_balls
+pool: dessert
+healthy: true
+meals: 8
+de:
+  title: Dattel-Nuss-Energiekugeln
+  summary: "Kleine, sättigende Energiebällchen aus Datteln, Nüssen und Haferflocken — ohne Backen, ganz ohne Zucker und ideal als süßer Snack für die ganze Familie."
+en:
+  title: "TODO: Dattel-Nuss-Energiekugeln"
+  summary: "TODO: Kleine, sättigende Energiebällchen aus Datteln, Nüssen und Haferflocken — ohne Backen, ganz ohne Zucker und ideal als süßer Snack für die ganze Familie."
+ingredients:
+  - de_name: Medjool-Datteln entsteint
+    en_name: "TODO: Medjool-Datteln entsteint"
+    qty: 400
+    unit: g
+    category: Obst
+  - de_name: Mandeln
+    en_name: "TODO: Mandeln"
+    qty: 200
+    unit: g
+    category: Konserven und Vorrat
+  - de_name: Walnüsse
+    en_name: "TODO: Walnüsse"
+    qty: 150
+    unit: g
+    category: Konserven und Vorrat
+  - de_name: Haferflocken (zart)
+    en_name: "TODO: Haferflocken (zart)"
+    qty: 150
+    unit: g
+    category: Kohlenhydrate und Sattmacher
+  - de_name: Kakaopulver ungesüßt
+    en_name: "TODO: Kakaopulver ungesüßt"
+    qty: 3
+    unit: EL
+    category: Konserven und Vorrat
+  - de_name: Chiasamen
+    en_name: "TODO: Chiasamen"
+    qty: 2
+    unit: EL
+    category: Konserven und Vorrat
+  - de_name: Zimt gemahlen
+    en_name: "TODO: Zimt gemahlen"
+    qty: 1
+    unit: TL
+    category: Gewürze
+  - de_name: Vanilleextrakt
+    en_name: "TODO: Vanilleextrakt"
+    qty: 1
+    unit: TL
+    category: Gewürze
+  - de_name: Salz
+    en_name: "TODO: Salz"
+    qty: 1
+    unit: Prise
+    category: Gewürze
+  - de_name: Kokosraspeln zum Wälzen
+    en_name: "TODO: Kokosraspeln zum Wälzen"
+    qty: 60
+    unit: g
+    category: Konserven und Vorrat
+de_steps:
+  - "Datteln 10 Minuten in warmem Wasser einweichen, dann gut abtropfen lassen."
+  - Mandeln und Walnüsse in einem Mixer grob zerkleinern.
+  - "Datteln, Haferflocken, Kakaopulver, Chiasamen, Zimt, Vanilleextrakt und Salz zu den Nüssen geben und alles zu einer klebrigen, formbaren Masse verarbeiten. Falls die Masse zu trocken ist, 1–2 EL Wasser hinzufügen."
+  - Hände leicht befeuchten und aus der Masse 24–30 Kugeln (je ca. 3 cm Durchmesser) formen.
+  - Kokosraspeln auf einem Teller ausbreiten und die Kugeln darin wälzen.
+  - Kugeln auf einem Tablett verteilen und mindestens 30 Minuten im Kühlschrank fest werden lassen.
+  - In einem luftdichten Behälter im Kühlschrank bis zu 2 Wochen haltbar.
+en_steps:
+  - "TODO: Datteln 10 Minuten in warmem Wasser einweichen, dann gut abtropfen lassen."
+  - "TODO: Mandeln und Walnüsse in einem Mixer grob zerkleinern."
+  - "TODO: Datteln, Haferflocken, Kakaopulver, Chiasamen, Zimt, Vanilleextrakt und Salz zu den Nüssen geben und alles zu einer klebrigen, formbaren Masse verarbeiten. Falls die Masse zu trocken ist, 1–2 EL Wasser hinzufügen."
+  - "TODO: Hände leicht befeuchten und aus der Masse 24–30 Kugeln (je ca. 3 cm Durchmesser) formen."
+  - "TODO: Kokosraspeln auf einem Teller ausbreiten und die Kugeln darin wälzen."
+  - "TODO: Kugeln auf einem Tablett verteilen und mindestens 30 Minuten im Kühlschrank fest werden lassen."
+  - "TODO: In einem luftdichten Behälter im Kühlschrank bis zu 2 Wochen haltbar."

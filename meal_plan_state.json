@@ -1,6 +1,11 @@
 {
   "last_generated_week": "2026-W22",
   "last_lunch_ids": [
+    "german_sauerbraten_chicken",
+    "ghanaian_peanut_chicken_stew",
+    "karaage_chicken_rice",
+    "kimchi_fried_rice_chicken",
+    "koshari_egyptian",
     "dan_dan_noodles",
     "fesenjaan_chicken",
     "iskender_kebab_style",
@@ -14,6 +19,7 @@
   ],
   "generator_version": "variants-v6",
   "last_dessert_ids": [
+    "lemon_poppy_seed_cake",
     "light_banana_bread",
     "berry_oat_pudding_slices"
   ],
@@ -22,6 +28,11 @@
       "last_generated_week": "2026-W22",
       "generator_version": "variants-v6",
       "last_lunch_ids": [
+        "german_sauerbraten_chicken",
+        "ghanaian_peanut_chicken_stew",
+        "karaage_chicken_rice",
+        "kimchi_fried_rice_chicken",
+        "koshari_egyptian",
         "dan_dan_noodles",
         "fesenjaan_chicken",
         "iskender_kebab_style",
@@ -34,6 +45,7 @@
         "imam_bayildi_chicken"
       ],
       "last_dessert_ids": [
+        "lemon_poppy_seed_cake",
         "light_banana_bread",
         "berry_oat_pudding_slices"
       ]
@@ -42,6 +54,11 @@
       "last_generated_week": "2026-W22",
       "generator_version": "variants-v6",
       "last_lunch_ids": [
+        "mild_bulgur_corn_bean_pot",
+        "mild_chickpea_rice_bake",
+        "mild_tomato_chickpea_gnocchi",
+        "mild_tomato_quinoa_chicken",
+        "miso_glazed_chicken_quinoa",
         "lentil_couscous_veg_pan",
         "mild_bean_rice_skillet",
         "japanese_udon_chicken_veg",
@@ -54,6 +71,7 @@
         "mild_lentil_udon_pan"
       ],
       "last_dessert_ids": [
+        "chia_mango_pudding",
         "berry_oat_pudding_slices",
         "apple_cinnamon_oat_cake"
       ]
@@ -62,6 +80,11 @@
       "last_generated_week": "2026-W22",
       "generator_version": "variants-v6",
       "last_lunch_ids": [
+        "white_bean_spinach_couscous",
+        "bean_zucchini_rice_skillet",
+        "pea_spinach_pasta_turkey",
+        "pea_zucchini_orzo_turkey",
+        "pisto_manchego_chicken",
         "turkey_cauliflower_bulgur_pot",
         "turkey_zucchini_rice_bake",
         "mild_tomato_quinoa_chicken",
@@ -74,6 +97,7 @@
         "pea_broccoli_couscous_turkey"
       ],
       "last_dessert_ids": [
+        "pumpkin_yogurt_cake",
         "yogurt_lemon_cake",
         "light_carrot_cake"
       ]
