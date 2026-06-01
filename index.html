@@ -578,6 +578,7 @@ let currentView      = 'wochenplan';
 let checkedItems     = new Set();
 let recipeImages     = {};
 let recipeTimes      = {};
+let recipeCalories   = {};
 let lunchCounts      = {};
 let shoppingMode     = 'standard';
 let selectedRecipeId = null;
@@ -734,6 +735,12 @@ function fmtTime(id) {
   return m ? `${h} Std ${m} Min` : `${h} Std`;
 }
 
+function fmtCalories(id) {
+  const kcal = recipeCalories[id];
+  if (!kcal) return null;
+  return `${kcal} kcal`;
+}
+
 function imgSrc(raw, w, h, q = 80) {
   return `${raw}&w=${w}&h=${h}&fit=crop&q=${q}&auto=format`;
 }
@@ -750,10 +757,11 @@ function escAttr(str) { return str.replace(/'/g,"\\'"); }
 async function init() {
   show('screen-loading');
   try {
-    const [weeksRes, imagesRes, timesRes] = await Promise.allSettled([
+    const [weeksRes, imagesRes, timesRes, calsRes] = await Promise.allSettled([
       fetch('./weeks.json'),
       fetch('./recipe_images.json'),
       fetch('./recipe_times.json'),
+      fetch('./recipe_calories.json'),
     ]);
 
     if (weeksRes.status !== 'fulfilled' || !weeksRes.value.ok)
@@ -766,6 +774,9 @@ async function init() {
 
     if (timesRes.status === 'fulfilled' && timesRes.value.ok)
       recipeTimes = await timesRes.value.json();
+
+    if (calsRes.status === 'fulfilled' && calsRes.value.ok)
+      recipeCalories = await calsRes.value.json();
 
     const idx = weeks.findIndex(w => isCurrentWeek(w));
     weekIndex = idx >= 0 ? idx : 0;
@@ -1009,6 +1020,7 @@ function renderDesktopDayDetail(week, varData) {
     const heroImg  = recipeImg(d.id, 1200, 600, 85);
     const { gradient } = recipeStyle(d.id, 7);
     const timeStr  = fmtTime(d.id);
+    const calStr   = fmtCalories(d.id);
     const hero = heroImg
       ? `<div class="relative h-72 xl:h-80 overflow-hidden">
            <img src="${heroImg}" class="w-full h-full object-cover">
@@ -1031,7 +1043,10 @@ function renderDesktopDayDetail(week, varData) {
             <span class="material-symbols-outlined text-[16px]">open_in_full</span>${t('fullscreen')}
           </button>
         </div>
-        ${timeStr ? `<div class="flex gap-2 mb-4"><span class="bg-surface-container-high text-on-surface-variant px-3 py-1.5 rounded-full font-label-sm text-label-sm inline-flex items-center gap-1.5"><span class="material-symbols-outlined text-[14px]">schedule</span>${timeStr}</span></div>` : ''}
+        ${(timeStr || calStr) ? `<div class="flex flex-wrap gap-2 mb-4">
+          ${timeStr ? `<span class="bg-surface-container-high text-on-surface-variant px-3 py-1.5 rounded-full font-label-sm text-label-sm inline-flex items-center gap-1.5"><span class="material-symbols-outlined text-[14px]">schedule</span>${timeStr}</span>` : ''}
+          ${calStr  ? `<span class="bg-surface-container-high text-on-surface-variant px-3 py-1.5 rounded-full font-label-sm text-label-sm inline-flex items-center gap-1.5"><span class="material-symbols-outlined text-[14px]">local_fire_department</span>${calStr}</span>` : ''}
+        </div>` : ''}
         <p class="font-body-sm text-body-sm text-on-surface-variant leading-relaxed mb-6">${rField(d, 'summary')}</p>
         <div class="grid grid-cols-1 xl:grid-cols-2 gap-8">
           <div>
@@ -1071,6 +1086,7 @@ function renderDesktopDayDetail(week, varData) {
   const heroImg   = lunchRecipe ? recipeImg(lunchRecipe.id, 1200, 600, 85) : null;
   const { gradient, emoji } = recipeStyle(day.lunch_id, selectedDayIndex);
   const timeStr   = lunchRecipe ? fmtTime(lunchRecipe.id) : null;
+  const calStr    = lunchRecipe ? fmtCalories(lunchRecipe.id) : null;
   const dayCount  = lunchRecipe ? (lunchCounts[lunchRecipe.id] || 1) : 1;
 
   const heroHtml = heroImg
@@ -1117,6 +1133,7 @@ function renderDesktopDayDetail(week, varData) {
       </div>
       <div class="flex flex-wrap gap-2 mb-5">
         ${timeStr ? `<span class="bg-surface-container-high text-on-surface-variant px-3 py-1.5 rounded-full font-label-sm text-label-sm inline-flex items-center gap-1.5"><span class="material-symbols-outlined text-[14px]">schedule</span>${timeStr}</span>` : ''}
+        ${calStr  ? `<span class="bg-surface-container-high text-on-surface-variant px-3 py-1.5 rounded-full font-label-sm text-label-sm inline-flex items-center gap-1.5"><span class="material-symbols-outlined text-[14px]">local_fire_department</span>${calStr}</span>` : ''}
         <span class="bg-primary-container text-on-primary-container px-3 py-1.5 rounded-full font-label-sm text-label-sm inline-flex items-center gap-1.5">
           <span class="material-symbols-outlined text-[14px]">restaurant_menu</span>${dayCount}${t('times_this_week')}
         </span>
@@ -1243,6 +1260,10 @@ function recipeCardHTML(recipe, mealLabel, idx) {
           ${fmtTime(recipe.id) ? `
           <span class="bg-surface-container-high text-on-surface-variant px-3 py-1.5 rounded-full font-label-sm text-label-sm inline-flex items-center gap-1.5">
             <span class="material-symbols-outlined text-[14px]">schedule</span>${fmtTime(recipe.id)}
+          </span>` : ''}
+          ${fmtCalories(recipe.id) ? `
+          <span class="bg-surface-container-high text-on-surface-variant px-3 py-1.5 rounded-full font-label-sm text-label-sm inline-flex items-center gap-1.5">
+            <span class="material-symbols-outlined text-[14px]">local_fire_department</span>${fmtCalories(recipe.id)}
           </span>` : ''}
         </div>
         <div class="mt-stack-md self-end flex items-center gap-1 font-label-md text-label-md text-primary group-hover:translate-x-1 transition-transform">
@@ -1509,8 +1530,9 @@ function openSheet(recipe) {
 
   const dayCount = lunchCounts[recipe.id] || 1;
   const timeStr  = fmtTime(recipe.id);
+  const calStr   = fmtCalories(recipe.id);
   document.getElementById('sheet-meals').textContent =
-    [timeStr ? `⏱ ${timeStr}` : null, `${dayCount}${t('times_this_week')}`].filter(Boolean).join('  ·  ');
+    [calStr ? `🔥 ${calStr}` : null, timeStr ? `⏱ ${timeStr}` : null, `${dayCount}${t('times_this_week')}`].filter(Boolean).join('  ·  ');
   document.getElementById('sheet-title').textContent   = rField(recipe, 'title');
   document.getElementById('sheet-summary').textContent = rField(recipe, 'summary');
 
