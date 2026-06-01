@@ -635,81 +635,81 @@
           "dessert": {
             "id": "strawberry_rhubarb_crumble",
             "title": "Erdbeer-Rhabarber-Crumble",
-            "title_en": "TODO: Erdbeer-Rhabarber-Crumble",
+            "title_en": "Strawberry Rhubarb Crumble",
             "meals": 8,
             "summary": "Fruchtiger Crumble mit saftigem Erdbeer-Rhabarber-Bett und knusprigem Hafer-Nuss-Topping, gesüßt mit Honig — warm oder kalt ein Genuss.",
-            "summary_en": "TODO: Fruchtiger Crumble mit saftigem Erdbeer-Rhabarber-Bett und knusprigem Hafer-Nuss-Topping, gesüßt mit Honig — warm oder kalt ein Genuss.",
+            "summary_en": "A fruity crumble with a juicy strawberry-rhubarb base and a crispy oat-nut topping sweetened with honey – delicious warm or cold.",
             "child_note": "",
             "ingredients": [
               {
                 "name": "Erdbeeren",
-                "name_en": "TODO: Erdbeeren",
+                "name_en": "strawberries",
                 "qty_display": "800 g",
                 "category": "Obst"
               },
               {
                 "name": "Rhabarber",
-                "name_en": "TODO: Rhabarber",
+                "name_en": "rhubarb",
                 "qty_display": "600 g",
                 "category": "Obst"
               },
               {
                 "name": "Honig",
-                "name_en": "TODO: Honig",
+                "name_en": "honey",
                 "qty_display": "5 EL",
                 "category": "Konserven und Vorrat"
               },
               {
                 "name": "Stärke (Maisstärke)",
-                "name_en": "TODO: Stärke (Maisstärke)",
+                "name_en": "cornstarch (cornflour)",
                 "qty_display": "2 EL",
                 "category": "Konserven und Vorrat"
               },
               {
                 "name": "Vanilleextrakt",
-                "name_en": "TODO: Vanilleextrakt",
+                "name_en": "vanilla extract",
                 "qty_display": "2 TL",
                 "category": "Gewürze"
               },
               {
                 "name": "Haferflocken (kernig)",
-                "name_en": "TODO: Haferflocken (kernig)",
+                "name_en": "rolled oats (coarse)",
                 "qty_display": "300 g",
                 "category": "Kohlenhydrate und Sattmacher"
               },
               {
                 "name": "Walnüsse grob gehackt",
-                "name_en": "TODO: Walnüsse grob gehackt",
+                "name_en": "walnuts, roughly chopped",
                 "qty_display": "100 g",
                 "category": "Konserven und Vorrat"
               },
               {
                 "name": "Mandelmehl",
-                "name_en": "TODO: Mandelmehl",
+                "name_en": "almond flour",
                 "qty_display": "80 g",
                 "category": "Konserven und Vorrat"
               },
               {
                 "name": "Kokosöl (geschmolzen)",
-                "name_en": "TODO: Kokosöl (geschmolzen)",
+                "name_en": "coconut oil (melted)",
                 "qty_display": "60 ml",
                 "category": "Konserven und Vorrat"
               },
               {
                 "name": "Agavendicksaft",
-                "name_en": "TODO: Agavendicksaft",
+                "name_en": "agave syrup",
                 "qty_display": "3 EL",
                 "category": "Konserven und Vorrat"
               },
               {
                 "name": "Zimt gemahlen",
-                "name_en": "TODO: Zimt gemahlen",
+                "name_en": "cinnamon, ground",
                 "qty_display": "2 TL",
                 "category": "Gewürze"
               },
               {
                 "name": "Salz",
-                "name_en": "TODO: Salz",
+                "name_en": "salt",
                 "qty_display": "1 Prise",
                 "category": "Gewürze"
               }
@@ -724,13 +724,13 @@
               "10 Minuten abkühlen lassen, dann warm servieren. Reste im Kühlschrank bis zu 3 Tage haltbar."
             ],
             "steps_en": [
-              "TODO: Ofen auf 190 °C Ober-/Unterhitze vorheizen.",
-              "TODO: Erdbeeren waschen und halbieren. Rhabarber waschen, schälen und in 2 cm große Stücke schneiden.",
-              "TODO: Früchte mit Honig, Maisstärke und Vanilleextrakt vermischen und in eine große Auflaufform (ca. 30×22 cm) geben.",
-              "TODO: Für das Topping Haferflocken, gehackte Walnüsse, Mandelmehl, geschmolzenes Kokosöl, Agavendicksaft, Zimt und Salz in einer Schüssel vermengen, bis die Masse leicht klumpt.",
-              "TODO: Topping gleichmäßig über die Fruchtmasse streuen.",
-              "TODO: Im vorgeheizten Ofen 35–40 Minuten backen, bis das Topping goldbraun und die Früchte sprudelnd sind.",
-              "TODO: 10 Minuten abkühlen lassen, dann warm servieren. Reste im Kühlschrank bis zu 3 Tage haltbar."
+              "Preheat oven to 190 °C (top/bottom heat).",
+              "Wash and halve strawberries. Wash, peel and cut rhubarb into 2 cm pieces.",
+              "Mix fruit with honey, cornstarch and vanilla extract and transfer to a large baking dish (approx. 30×22 cm).",
+              "For the topping: combine oats, chopped walnuts, almond flour, melted coconut oil, agave syrup, cinnamon and salt in a bowl until the mixture clumps slightly.",
+              "Scatter the topping evenly over the fruit.",
+              "Bake in the preheated oven for 35–40 minutes until the topping is golden brown and the fruit is bubbling.",
+              "Leave to cool for 10 minutes, then serve warm. Leftovers keep in the fridge for up to 3 days."
             ]
           },
           "shopping": [
@@ -2621,63 +2621,63 @@
           "dessert": {
             "id": "berry_oat_pudding_slices",
             "title": "Beeren-Hafer-Schnitten mit leichter Puddingcreme",
-            "title_en": "TODO: Beeren-Hafer-Schnitten mit leichter Puddingcreme",
+            "title_en": "Berry Oat Pudding Slices",
             "meals": 2,
             "summary": "Weiche Hafer-Schnitten mit Beeren und einer einfachen, wenig süßen Vanille-Puddingcreme.",
-            "summary_en": "TODO: Weiche Hafer-Schnitten mit Beeren und einer einfachen, wenig süßen Vanille-Puddingcreme.",
+            "summary_en": "Soft oat slices with berries and a simple, lightly sweetened vanilla pudding cream.",
             "child_note": "",
             "ingredients": [
               {
                 "name": "Beeren, frisch oder TK",
-                "name_en": "TODO: Beeren, frisch oder TK",
+                "name_en": "berries, fresh or frozen",
                 "qty_display": "300 g",
                 "category": "Obst"
               },
               {
                 "name": "Haferflocken",
-                "name_en": "TODO: Haferflocken",
+                "name_en": "rolled oats",
                 "qty_display": "180 g",
                 "category": "Kohlenhydrate und Sattmacher"
               },
               {
                 "name": "Dinkelmehl",
-                "name_en": "TODO: Dinkelmehl",
+                "name_en": "spelt flour",
                 "qty_display": "100 g",
                 "category": "Kohlenhydrate und Sattmacher"
               },
               {
                 "name": "Milch oder Haferdrink",
-                "name_en": "TODO: Milch oder Haferdrink",
+                "name_en": "milk or oat drink",
                 "qty_display": "500 ml",
                 "category": "Protein und Milchprodukte"
               },
               {
                 "name": "Vanille-Puddingpulver",
-                "name_en": "TODO: Vanille-Puddingpulver",
+                "name_en": "vanilla pudding powder",
                 "qty_display": "1 Packung",
                 "category": "Konserven und Vorrat"
               },
               {
                 "name": "Eier",
-                "name_en": "TODO: Eier",
+                "name_en": "eggs",
                 "qty_display": "2 Stk",
                 "category": "Protein und Milchprodukte"
               },
               {
                 "name": "Honig",
-                "name_en": "TODO: Honig",
+                "name_en": "honey",
                 "qty_display": "2 EL",
                 "category": "Konserven und Vorrat"
               },
               {
                 "name": "Backpulver",
-                "name_en": "TODO: Backpulver",
+                "name_en": "baking powder",
                 "qty_display": "1 Packung",
                 "category": "Konserven und Vorrat"
               },
               {
                 "name": "Chiliflocken",
-                "name_en": "TODO: Chiliflocken",
+                "name_en": "chili flakes",
                 "qty_display": "0,5 TL",
                 "category": "Gewürze"
               }
@@ -2689,10 +2689,10 @@
               "Pudding dünn auf den abgekühlten Schnitten verteilen."
             ],
             "steps_en": [
-              "TODO: Haferflocken, Dinkelmehl, Eier, 1 EL Honig und Backpulver zu einem weichen Teig verrühren.",
-              "TODO: Beeren unterheben und bei 180 Grad etwa 25 Minuten backen.",
-              "TODO: Aus Milch, Puddingpulver und 1 EL Honig eine milde Puddingcreme kochen.",
-              "TODO: Pudding dünn auf den abgekühlten Schnitten verteilen."
+              "Mix rolled oats, spelt flour, eggs, 1 tbsp honey, and baking powder into a soft dough.",
+              "Fold in berries and bake at 180 °C (350 °F) for about 25 minutes.",
+              "Cook a light pudding cream from milk, pudding powder, and 1 tbsp honey.",
+              "Spread the pudding thinly over the cooled slices."
             ]
           },
           "shopping": [
@@ -3744,81 +3744,81 @@
           "dessert": {
             "id": "apple_oat_bake",
             "title": "Apfel-Zimt-Ofenporridge für die Familie",
-            "title_en": "TODO: Apfel-Zimt-Ofenporridge für die Familie",
+            "title_en": "Apple Cinnamon Baked Oatmeal for the Family",
             "meals": 8,
             "summary": "Warmer Haferauflauf mit karamellisierten Äpfeln, Walnüssen und Zimt — gebacken und in Portionen aufgeteilt, ideal als gesundes Dessert oder Frühstück für die ganze Woche.",
-            "summary_en": "TODO: Warmer Haferauflauf mit karamellisierten Äpfeln, Walnüssen und Zimt — gebacken und in Portionen aufgeteilt, ideal als gesundes Dessert oder Frühstück für die ganze Woche.",
+            "summary_en": "Warm baked oatmeal with caramelised apples, walnuts, and cinnamon — portioned and ready to go, ideal as a healthy dessert or breakfast for the whole week.",
             "child_note": "",
             "ingredients": [
               {
                 "name": "Haferflocken (kernig)",
-                "name_en": "TODO: Haferflocken (kernig)",
+                "name_en": "rolled oats (old-fashioned)",
                 "qty_display": "500 g",
                 "category": "Kohlenhydrate und Sattmacher"
               },
               {
                 "name": "Äpfel",
-                "name_en": "TODO: Äpfel",
+                "name_en": "apples",
                 "qty_display": "6 Stk",
                 "category": "Obst"
               },
               {
                 "name": "Eier",
-                "name_en": "TODO: Eier",
+                "name_en": "eggs",
                 "qty_display": "4 Stk",
                 "category": "Protein und Milchprodukte"
               },
               {
                 "name": "Hafermilch",
-                "name_en": "TODO: Hafermilch",
+                "name_en": "oat milk",
                 "qty_display": "800 ml",
                 "category": "Protein und Milchprodukte"
               },
               {
                 "name": "Naturjoghurt",
-                "name_en": "TODO: Naturjoghurt",
+                "name_en": "plain yogurt",
                 "qty_display": "300 g",
                 "category": "Protein und Milchprodukte"
               },
               {
                 "name": "Honig",
-                "name_en": "TODO: Honig",
+                "name_en": "honey",
                 "qty_display": "5 EL",
                 "category": "Konserven und Vorrat"
               },
               {
                 "name": "Zimt gemahlen",
-                "name_en": "TODO: Zimt gemahlen",
+                "name_en": "cinnamon, ground",
                 "qty_display": "3 TL",
                 "category": "Gewürze"
               },
               {
                 "name": "Vanilleextrakt",
-                "name_en": "TODO: Vanilleextrakt",
+                "name_en": "vanilla extract",
                 "qty_display": "2 TL",
                 "category": "Gewürze"
               },
               {
                 "name": "Backpulver",
-                "name_en": "TODO: Backpulver",
+                "name_en": "baking powder",
                 "qty_display": "2 TL",
                 "category": "Konserven und Vorrat"
               },
               {
                 "name": "Salz",
-                "name_en": "TODO: Salz",
+                "name_en": "salt",
                 "qty_display": "1 Prise",
                 "category": "Gewürze"
               },
               {
                 "name": "Walnüsse grob gehackt",
-                "name_en": "TODO: Walnüsse grob gehackt",
+                "name_en": "walnuts, roughly chopped",
                 "qty_display": "120 g",
                 "category": "Konserven und Vorrat"
               },
               {
                 "name": "Rosinen",
-                "name_en": "TODO: Rosinen",
+                "name_en": "raisins",
                 "qty_display": "80 g",
                 "category": "Konserven und Vorrat"
               }
@@ -3834,14 +3834,14 @@
               "10 Minuten abkühlen lassen, dann in 8 Portionen schneiden. Warm oder kalt servieren. Im Kühlschrank bis zu 4 Tage haltbar, in der Mikrowelle aufwärmen."
             ],
             "steps_en": [
-              "TODO: Ofen auf 180 °C Ober-/Unterhitze vorheizen. Eine große Auflaufform (ca. 30×22 cm) leicht einfetten.",
-              "TODO: Äpfel schälen, entkernen und in 1 cm große Würfel schneiden.",
-              "TODO: Haferflocken, Backpulver, Zimt und Salz in einer großen Schüssel vermengen.",
-              "TODO: Eier, Hafermilch, Joghurt, Honig und Vanilleextrakt in einer separaten Schüssel verquirlen.",
-              "TODO: Flüssige Mischung zu den Haferflocken geben und gut verrühren. Apfelwürfel, Walnüsse und Rosinen unterheben.",
-              "TODO: Masse in die vorbereitete Form geben und glattstreichen.",
-              "TODO: Im vorgeheizten Ofen 40–45 Minuten backen, bis die Oberfläche goldbraun und die Masse in der Mitte gestockt ist.",
-              "TODO: 10 Minuten abkühlen lassen, dann in 8 Portionen schneiden. Warm oder kalt servieren. Im Kühlschrank bis zu 4 Tage haltbar, in der Mikrowelle aufwärmen."
+              "Preheat oven to 180 °C (350 °F) top/bottom heat. Lightly grease a large baking dish (approx. 30×22 cm).",
+              "Peel, core, and dice apples into 1 cm cubes.",
+              "Combine rolled oats, baking powder, cinnamon, and salt in a large bowl.",
+              "Whisk eggs, oat milk, yogurt, honey, and vanilla extract in a separate bowl.",
+              "Add the wet mixture to the oats and stir well. Fold in apple cubes, walnuts, and raisins.",
+              "Pour the mixture into the prepared dish and smooth the surface.",
+              "Bake in the preheated oven for 40–45 minutes until the surface is golden brown and the centre has set.",
+              "Leave to cool for 10 minutes, then cut into 8 portions. Serve warm or cold. Keeps in the fridge for up to 4 days; reheat in the microwave."
             ]
           },
           "shopping": [
@@ -4883,63 +4883,63 @@
           "dessert": {
             "id": "raspberry_quark_parfait",
             "title": "Himbeer-Quark-Parfait",
-            "title_en": "TODO: Himbeer-Quark-Parfait",
+            "title_en": "Raspberry Quark Parfait",
             "meals": 8,
             "summary": "Leichtes Schichtdessert aus cremigem Magerquark, frischen Himbeeren und knusprigem Hafergranola — eiweißreich, natürlich gesüßt und in Minuten zubereitet.",
-            "summary_en": "TODO: Leichtes Schichtdessert aus cremigem Magerquark, frischen Himbeeren und knusprigem Hafergranola — eiweißreich, natürlich gesüßt und in Minuten zubereitet.",
+            "summary_en": "A light layered dessert of creamy low-fat quark, fresh raspberries, and crunchy oat granola — protein-rich, naturally sweetened, and ready in minutes.",
             "child_note": "",
             "ingredients": [
               {
                 "name": "Magerquark",
-                "name_en": "TODO: Magerquark",
+                "name_en": "low-fat quark",
                 "qty_display": "1000 g",
                 "category": "Protein und Milchprodukte"
               },
               {
                 "name": "Naturjoghurt (3,5 %)",
-                "name_en": "TODO: Naturjoghurt (3,5 %)",
+                "name_en": "plain yogurt (3.5%)",
                 "qty_display": "300 g",
                 "category": "Protein und Milchprodukte"
               },
               {
                 "name": "Honig",
-                "name_en": "TODO: Honig",
+                "name_en": "honey",
                 "qty_display": "4 EL",
                 "category": "Konserven und Vorrat"
               },
               {
                 "name": "Vanilleextrakt",
-                "name_en": "TODO: Vanilleextrakt",
+                "name_en": "vanilla extract",
                 "qty_display": "2 TL",
                 "category": "Gewürze"
               },
               {
                 "name": "frische oder TK-Himbeeren",
-                "name_en": "TODO: frische oder TK-Himbeeren",
+                "name_en": "fresh or frozen raspberries",
                 "qty_display": "600 g",
                 "category": "Obst"
               },
               {
                 "name": "Zitronensaft",
-                "name_en": "TODO: Zitronensaft",
+                "name_en": "lemon juice",
                 "qty_display": "2 EL",
                 "category": "Obst"
               },
               {
                 "name": "Agavendicksaft",
-                "name_en": "TODO: Agavendicksaft",
+                "name_en": "agave syrup",
                 "qty_display": "2 EL",
                 "category": "Konserven und Vorrat"
               },
               {
                 "name": "Hafergranola ungesüßt",
-                "name_en": "TODO: Hafergranola ungesüßt",
+                "name_en": "unsweetened oat granola",
                 "qty_display": "200 g",
                 "category": "Kohlenhydrate und Sattmacher"
               },
               {
                 "name": "frische Minze zum Garnieren",
-                "name_en": "TODO: frische Minze zum Garnieren",
+                "name_en": "fresh mint for garnish",
                 "qty_display": "1 Stk",
                 "category": "Gewürze"
               }
@@ -4953,12 +4953,12 @@
               "Sofort servieren oder maximal 2 Stunden im Kühlschrank aufbewahren, damit das Granola knusprig bleibt. Für Meal-Prep Komponenten getrennt lagern."
             ],
             "steps_en": [
-              "TODO: Magerquark, Joghurt, Honig und Vanilleextrakt in einer Schüssel cremig verrühren.",
-              "TODO: Himbeeren mit Zitronensaft und Agavendicksaft in einer separaten Schüssel leicht zerdrücken, sodass ein dickflüssiges Kompott entsteht. TK-Himbeeren vorher auftauen lassen.",
-              "TODO: 8 hohe Gläser oder Dessertbecher bereitstellen.",
-              "TODO: Zuerst eine Schicht Granola einfüllen, dann Quarkcreme daraufgeben, anschließend eine Schicht Himbeerkompott. Vorgang einmal wiederholen.",
-              "TODO: Parfaits mit frischer Minze garnieren.",
-              "TODO: Sofort servieren oder maximal 2 Stunden im Kühlschrank aufbewahren, damit das Granola knusprig bleibt. Für Meal-Prep Komponenten getrennt lagern."
+              "Stir the quark, yogurt, honey, and vanilla extract together in a bowl until smooth and creamy.",
+              "In a separate bowl, lightly crush the raspberries with the lemon juice and agave syrup to form a thick compote. If using frozen raspberries, thaw them first.",
+              "Set out 8 tall glasses or dessert cups.",
+              "Add a layer of granola first, then spoon in the quark cream, followed by a layer of raspberry compote. Repeat once.",
+              "Garnish the parfaits with fresh mint.",
+              "Serve immediately or refrigerate for up to 2 hours to keep the granola crispy. For meal prep, store the components separately."
             ]
           },
           "shopping": [
@@ -5826,69 +5826,69 @@
           "dessert": {
             "id": "date_nut_energy_balls",
             "title": "Dattel-Nuss-Energiekugeln",
-            "title_en": "TODO: Dattel-Nuss-Energiekugeln",
+            "title_en": "Date and Nut Energy Balls",
             "meals": 8,
             "summary": "Kleine, sättigende Energiebällchen aus Datteln, Nüssen und Haferflocken — ohne Backen, ganz ohne Zucker und ideal als süßer Snack für die ganze Familie.",
-            "summary_en": "TODO: Kleine, sättigende Energiebällchen aus Datteln, Nüssen und Haferflocken — ohne Backen, ganz ohne Zucker und ideal als süßer Snack für die ganze Familie.",
+            "summary_en": "Small, satisfying energy bites made from dates, nuts, and oats — no baking, no added sugar, and perfect as a sweet snack for the whole family.",
             "child_note": "",
             "ingredients": [
               {
                 "name": "Medjool-Datteln entsteint",
-                "name_en": "TODO: Medjool-Datteln entsteint",
+                "name_en": "Medjool dates, pitted",
                 "qty_display": "400 g",
                 "category": "Obst"
               },
               {
                 "name": "Mandeln",
-                "name_en": "TODO: Mandeln",
+                "name_en": "almonds",
                 "qty_display": "200 g",
                 "category": "Konserven und Vorrat"
               },
               {
                 "name": "Walnüsse",
-                "name_en": "TODO: Walnüsse",
+                "name_en": "walnuts",
                 "qty_display": "150 g",
                 "category": "Konserven und Vorrat"
               },
               {
                 "name": "Haferflocken (zart)",
-                "name_en": "TODO: Haferflocken (zart)",
+                "name_en": "rolled oats (fine)",
                 "qty_display": "150 g",
                 "category": "Kohlenhydrate und Sattmacher"
               },
               {
                 "name": "Kakaopulver ungesüßt",
-                "name_en": "TODO: Kakaopulver ungesüßt",
+                "name_en": "unsweetened cocoa powder",
                 "qty_display": "3 EL",
                 "category": "Konserven und Vorrat"
               },
               {
                 "name": "Chiasamen",
-                "name_en": "TODO: Chiasamen",
+                "name_en": "chia seeds",
                 "qty_display": "2 EL",
                 "category": "Konserven und Vorrat"
               },
               {
                 "name": "Zimt gemahlen",
-                "name_en": "TODO: Zimt gemahlen",
+                "name_en": "cinnamon, ground",
                 "qty_display": "1 TL",
                 "category": "Gewürze"
               },
               {
                 "name": "Vanilleextrakt",
-                "name_en": "TODO: Vanilleextrakt",
+                "name_en": "vanilla extract",
                 "qty_display": "1 TL",
                 "category": "Gewürze"
               },
               {
                 "name": "Salz",
-                "name_en": "TODO: Salz",
+                "name_en": "salt",
                 "qty_display": "1 Prise",
                 "category": "Gewürze"
               },
               {
                 "name": "Kokosraspeln zum Wälzen",
-                "name_en": "TODO: Kokosraspeln zum Wälzen",
+                "name_en": "desiccated coconut for rolling",
                 "qty_display": "60 g",
                 "category": "Konserven und Vorrat"
               }
@@ -5903,13 +5903,13 @@
               "In einem luftdichten Behälter im Kühlschrank bis zu 2 Wochen haltbar."
             ],
             "steps_en": [
-              "TODO: Datteln 10 Minuten in warmem Wasser einweichen, dann gut abtropfen lassen.",
-              "TODO: Mandeln und Walnüsse in einem Mixer grob zerkleinern.",
-              "TODO: Datteln, Haferflocken, Kakaopulver, Chiasamen, Zimt, Vanilleextrakt und Salz zu den Nüssen geben und alles zu einer klebrigen, formbaren Masse verarbeiten. Falls die Masse zu trocken ist, 1–2 EL Wasser hinzufügen.",
-              "TODO: Hände leicht befeuchten und aus der Masse 24–30 Kugeln (je ca. 3 cm Durchmesser) formen.",
-              "TODO: Kokosraspeln auf einem Teller ausbreiten und die Kugeln darin wälzen.",
-              "TODO: Kugeln auf einem Tablett verteilen und mindestens 30 Minuten im Kühlschrank fest werden lassen.",
-              "TODO: In einem luftdichten Behälter im Kühlschrank bis zu 2 Wochen haltbar."
+              "Soak the dates in warm water for 10 minutes, then drain well.",
+              "Roughly chop the almonds and walnuts in a food processor.",
+              "Add the dates, oats, cocoa powder, chia seeds, cinnamon, vanilla extract, and salt to the nuts and process into a sticky, shapeable dough. If the mixture is too dry, add 1–2 tbsp water.",
+              "Dampen your hands lightly and roll the mixture into 24–30 balls (about 3 cm in diameter each).",
+              "Spread the desiccated coconut on a plate and roll the balls in it to coat.",
+              "Arrange the balls on a tray and refrigerate for at least 30 minutes to firm up.",
+              "Store in an airtight container in the fridge for up to 2 weeks."
             ]
           },
           "shopping": [
@@ -6921,57 +6921,57 @@
           "dessert": {
             "id": "chia_mango_pudding",
             "title": "Chia-Pudding mit Mango und Kokosmilch",
-            "title_en": "TODO: Chia-Pudding mit Mango und Kokosmilch",
+            "title_en": "Chia Pudding with Mango and Coconut Milk",
             "meals": 8,
             "summary": "Cremiger Chia-Pudding auf Kokosmilchbasis mit süßem Mangopüree — ein erfrischend leichtes Dessert, das sich perfekt einen Tag im Voraus zubereiten lässt.",
-            "summary_en": "TODO: Cremiger Chia-Pudding auf Kokosmilchbasis mit süßem Mangopüree — ein erfrischend leichtes Dessert, das sich perfekt einen Tag im Voraus zubereiten lässt.",
+            "summary_en": "Creamy chia pudding on a coconut milk base with sweet mango purée – a refreshingly light dessert that is perfect to prepare a day ahead.",
             "child_note": "",
             "ingredients": [
               {
                 "name": "Chiasamen",
-                "name_en": "TODO: Chiasamen",
+                "name_en": "chia seeds",
                 "qty_display": "160 g",
                 "category": "Konserven und Vorrat"
               },
               {
                 "name": "Kokosmilch (Vollfett, Dose)",
-                "name_en": "TODO: Kokosmilch (Vollfett, Dose)",
+                "name_en": "full-fat coconut milk (canned)",
                 "qty_display": "800 ml",
                 "category": "Konserven und Vorrat"
               },
               {
                 "name": "Hafermilch oder Mandelmilch",
-                "name_en": "TODO: Hafermilch oder Mandelmilch",
+                "name_en": "oat milk or almond milk",
                 "qty_display": "400 ml",
                 "category": "Protein und Milchprodukte"
               },
               {
                 "name": "Agavendicksaft",
-                "name_en": "TODO: Agavendicksaft",
+                "name_en": "agave syrup",
                 "qty_display": "3 EL",
                 "category": "Konserven und Vorrat"
               },
               {
                 "name": "Vanilleextrakt",
-                "name_en": "TODO: Vanilleextrakt",
+                "name_en": "vanilla extract",
                 "qty_display": "1 TL",
                 "category": "Gewürze"
               },
               {
                 "name": "reife Mangos",
-                "name_en": "TODO: reife Mangos",
+                "name_en": "ripe mangoes",
                 "qty_display": "4 Stk",
                 "category": "Obst"
               },
               {
                 "name": "Limettensaft",
-                "name_en": "TODO: Limettensaft",
+                "name_en": "lime juice",
                 "qty_display": "2 EL",
                 "category": "Obst"
               },
               {
                 "name": "Kokosflocken ungesüßt zum Garnieren",
-                "name_en": "TODO: Kokosflocken ungesüßt zum Garnieren",
+                "name_en": "unsweetened coconut flakes, to garnish",
                 "qty_display": "40 g",
                 "category": "Konserven und Vorrat"
               }
@@ -6986,13 +6986,13 @@
               "Kokosflocken darüber streuen und bis zum Servieren kalt stellen. Hält sich abgedeckt bis zu 4 Tage im Kühlschrank."
             ],
             "steps_en": [
-              "TODO: Kokosmilch, Hafermilch, Agavendicksaft und Vanilleextrakt in einer großen Schüssel verrühren.",
-              "TODO: Chiasamen einrühren und die Mischung 5 Minuten stehen lassen, dann nochmals kräftig rühren, damit sich keine Klumpen bilden.",
-              "TODO: Die Schüssel abdecken und mindestens 4 Stunden oder über Nacht im Kühlschrank quellen lassen.",
-              "TODO: Mangos schälen, das Fruchtfleisch vom Stein schneiden und in einem Mixer zu einem glatten Püree verarbeiten.",
-              "TODO: Limettensaft unter das Mangopüree rühren.",
-              "TODO: Chia-Pudding auf 8 Portionsgläser verteilen und das Mangopüree darauf schichten.",
-              "TODO: Kokosflocken darüber streuen und bis zum Servieren kalt stellen. Hält sich abgedeckt bis zu 4 Tage im Kühlschrank."
+              "Whisk together the coconut milk, oat milk, agave syrup, and vanilla extract in a large bowl.",
+              "Stir in the chia seeds and leave the mixture for 5 minutes, then stir vigorously again to prevent clumping.",
+              "Cover the bowl and refrigerate for at least 4 hours or overnight to set.",
+              "Peel the mangoes, cut the flesh from the stone, and blend to a smooth purée.",
+              "Stir the lime juice into the mango purée.",
+              "Divide the chia pudding among 8 serving glasses and layer the mango purée on top.",
+              "Scatter with coconut flakes and refrigerate until serving. Keeps covered for up to 4 days in the fridge."
             ]
           },
           "shopping": [
@@ -7967,75 +7967,75 @@
           "dessert": {
             "id": "baked_apple_walnut",
             "title": "Gebackene Äpfel mit Walnüssen und Zimt",
-            "title_en": "TODO: Gebackene Äpfel mit Walnüssen und Zimt",
+            "title_en": "Baked Apples with Walnuts and Cinnamon",
             "meals": 8,
             "summary": "Klassische Bratäpfel gefüllt mit Walnüssen, Datteln und Zimt — ein wärmendes, zuckerfreies Herbst- und Winterdessert für die ganze Familie.",
-            "summary_en": "TODO: Klassische Bratäpfel gefüllt mit Walnüssen, Datteln und Zimt — ein wärmendes, zuckerfreies Herbst- und Winterdessert für die ganze Familie.",
+            "summary_en": "Classic baked apples filled with walnuts, dates, and cinnamon — a warming, sugar-free autumn and winter dessert for the whole family.",
             "child_note": "",
             "ingredients": [
               {
                 "name": "große Äpfel (z.B. Boskoop)",
-                "name_en": "TODO: große Äpfel (z.B. Boskoop)",
+                "name_en": "large apples (e.g. Boskoop)",
                 "qty_display": "8 Stk",
                 "category": "Obst"
               },
               {
                 "name": "Walnüsse grob gehackt",
-                "name_en": "TODO: Walnüsse grob gehackt",
+                "name_en": "walnuts, roughly chopped",
                 "qty_display": "160 g",
                 "category": "Konserven und Vorrat"
               },
               {
                 "name": "Medjool-Datteln entsteint fein gehackt",
-                "name_en": "TODO: Medjool-Datteln entsteint fein gehackt",
+                "name_en": "Medjool dates, pitted and finely chopped",
                 "qty_display": "120 g",
                 "category": "Obst"
               },
               {
                 "name": "Haferflocken (zart)",
-                "name_en": "TODO: Haferflocken (zart)",
+                "name_en": "rolled oats (fine)",
                 "qty_display": "80 g",
                 "category": "Kohlenhydrate und Sattmacher"
               },
               {
                 "name": "Zimt gemahlen",
-                "name_en": "TODO: Zimt gemahlen",
+                "name_en": "cinnamon, ground",
                 "qty_display": "2 TL",
                 "category": "Gewürze"
               },
               {
                 "name": "Kardamom gemahlen",
-                "name_en": "TODO: Kardamom gemahlen",
+                "name_en": "cardamom, ground",
                 "qty_display": "0,5 TL",
                 "category": "Gewürze"
               },
               {
                 "name": "Vanilleextrakt",
-                "name_en": "TODO: Vanilleextrakt",
+                "name_en": "vanilla extract",
                 "qty_display": "1 TL",
                 "category": "Gewürze"
               },
               {
                 "name": "Honig",
-                "name_en": "TODO: Honig",
+                "name_en": "honey",
                 "qty_display": "3 EL",
                 "category": "Konserven und Vorrat"
               },
               {
                 "name": "Kokosöl",
-                "name_en": "TODO: Kokosöl",
+                "name_en": "coconut oil",
                 "qty_display": "2 EL",
                 "category": "Konserven und Vorrat"
               },
               {
                 "name": "Apfelsaft naturtrüb",
-                "name_en": "TODO: Apfelsaft naturtrüb",
+                "name_en": "cloudy apple juice",
                 "qty_display": "200 ml",
                 "category": "Obst"
               },
               {
                 "name": "Naturjoghurt zum Servieren",
-                "name_en": "TODO: Naturjoghurt zum Servieren",
+                "name_en": "plain yogurt, for serving",
                 "qty_display": "400 g",
                 "category": "Protein und Milchprodukte"
               }
@@ -8050,13 +8050,13 @@
               "Warm mit einem Löffel Naturjoghurt servieren. Reste im Kühlschrank bis zu 2 Tage haltbar."
             ],
             "steps_en": [
-              "TODO: Ofen auf 180 °C Ober-/Unterhitze vorheizen.",
-              "TODO: Äpfel waschen und mit einem Apfelausstecher oder Teelöffel das Kerngehäuse von oben aushöhlen, dabei ca. 1 cm Boden stehen lassen.",
-              "TODO: Walnüsse, gehackte Datteln, Haferflocken, Zimt, Kardamom, Vanilleextrakt, Honig und Kokosöl in einer Schüssel gut vermengen.",
-              "TODO: Äpfel in eine Auflaufform stellen und die Füllung fest in die Höhlung drücken.",
-              "TODO: Apfelsaft in den Boden der Form gießen.",
-              "TODO: Im vorgeheizten Ofen 30–35 Minuten backen, bis die Äpfel weich sind und die Füllung leicht gebräunt ist.",
-              "TODO: Warm mit einem Löffel Naturjoghurt servieren. Reste im Kühlschrank bis zu 2 Tage haltbar."
+              "Preheat oven to 180 °C (350 °F) top/bottom heat.",
+              "Wash the apples and core them from the top using an apple corer or teaspoon, leaving about 1 cm of base intact.",
+              "Mix together walnuts, chopped dates, oats, cinnamon, cardamom, vanilla extract, honey, and coconut oil in a bowl.",
+              "Place apples in a baking dish and press the filling firmly into the cavity.",
+              "Pour apple juice into the base of the dish.",
+              "Bake in the preheated oven for 30–35 minutes until the apples are tender and the filling is lightly browned.",
+              "Serve warm with a spoonful of plain yogurt. Leftovers keep in the fridge for up to 2 days."
             ]
           },
           "shopping": [
@@ -8977,63 +8977,63 @@
           "dessert": {
             "id": "raspberry_quark_parfait",
             "title": "Himbeer-Quark-Parfait",
-            "title_en": "TODO: Himbeer-Quark-Parfait",
+            "title_en": "Raspberry Quark Parfait",
             "meals": 8,
             "summary": "Leichtes Schichtdessert aus cremigem Magerquark, frischen Himbeeren und knusprigem Hafergranola — eiweißreich, natürlich gesüßt und in Minuten zubereitet.",
-            "summary_en": "TODO: Leichtes Schichtdessert aus cremigem Magerquark, frischen Himbeeren und knusprigem Hafergranola — eiweißreich, natürlich gesüßt und in Minuten zubereitet.",
+            "summary_en": "A light layered dessert of creamy low-fat quark, fresh raspberries, and crunchy oat granola — protein-rich, naturally sweetened, and ready in minutes.",
             "child_note": "",
             "ingredients": [
               {
                 "name": "Magerquark",
-                "name_en": "TODO: Magerquark",
+                "name_en": "low-fat quark",
                 "qty_display": "1000 g",
                 "category": "Protein und Milchprodukte"
               },
               {
                 "name": "Naturjoghurt (3,5 %)",
-                "name_en": "TODO: Naturjoghurt (3,5 %)",
+                "name_en": "plain yogurt (3.5%)",
                 "qty_display": "300 g",
                 "category": "Protein und Milchprodukte"
               },
               {
                 "name": "Honig",
-                "name_en": "TODO: Honig",
+                "name_en": "honey",
                 "qty_display": "4 EL",
                 "category": "Konserven und Vorrat"
               },
               {
                 "name": "Vanilleextrakt",
-                "name_en": "TODO: Vanilleextrakt",
+                "name_en": "vanilla extract",
                 "qty_display": "2 TL",
                 "category": "Gewürze"
               },
               {
                 "name": "frische oder TK-Himbeeren",
-                "name_en": "TODO: frische oder TK-Himbeeren",
+                "name_en": "fresh or frozen raspberries",
                 "qty_display": "600 g",
                 "category": "Obst"
               },
               {
                 "name": "Zitronensaft",
-                "name_en": "TODO: Zitronensaft",
+                "name_en": "lemon juice",
                 "qty_display": "2 EL",
                 "category": "Obst"
               },
               {
                 "name": "Agavendicksaft",
-                "name_en": "TODO: Agavendicksaft",
+                "name_en": "agave syrup",
                 "qty_display": "2 EL",
                 "category": "Konserven und Vorrat"
               },
               {
                 "name": "Hafergranola ungesüßt",
-                "name_en": "TODO: Hafergranola ungesüßt",
+                "name_en": "unsweetened oat granola",
                 "qty_display": "200 g",
                 "category": "Kohlenhydrate und Sattmacher"
               },
               {
                 "name": "frische Minze zum Garnieren",
-                "name_en": "TODO: frische Minze zum Garnieren",
+                "name_en": "fresh mint for garnish",
                 "qty_display": "1 Stk",
                 "category": "Gewürze"
               }
@@ -9047,12 +9047,12 @@
               "Sofort servieren oder maximal 2 Stunden im Kühlschrank aufbewahren, damit das Granola knusprig bleibt. Für Meal-Prep Komponenten getrennt lagern."
             ],
             "steps_en": [
-              "TODO: Magerquark, Joghurt, Honig und Vanilleextrakt in einer Schüssel cremig verrühren.",
-              "TODO: Himbeeren mit Zitronensaft und Agavendicksaft in einer separaten Schüssel leicht zerdrücken, sodass ein dickflüssiges Kompott entsteht. TK-Himbeeren vorher auftauen lassen.",
-              "TODO: 8 hohe Gläser oder Dessertbecher bereitstellen.",
-              "TODO: Zuerst eine Schicht Granola einfüllen, dann Quarkcreme daraufgeben, anschließend eine Schicht Himbeerkompott. Vorgang einmal wiederholen.",
-              "TODO: Parfaits mit frischer Minze garnieren.",
-              "TODO: Sofort servieren oder maximal 2 Stunden im Kühlschrank aufbewahren, damit das Granola knusprig bleibt. Für Meal-Prep Komponenten getrennt lagern."
+              "Stir the quark, yogurt, honey, and vanilla extract together in a bowl until smooth and creamy.",
+              "In a separate bowl, lightly crush the raspberries with the lemon juice and agave syrup to form a thick compote. If using frozen raspberries, thaw them first.",
+              "Set out 8 tall glasses or dessert cups.",
+              "Add a layer of granola first, then spoon in the quark cream, followed by a layer of raspberry compote. Repeat once.",
+              "Garnish the parfaits with fresh mint.",
+              "Serve immediately or refrigerate for up to 2 hours to keep the granola crispy. For meal prep, store the components separately."
             ]
           },
           "shopping": [
@@ -10182,69 +10182,69 @@
           "dessert": {
             "id": "date_nut_energy_balls",
             "title": "Dattel-Nuss-Energiekugeln",
-            "title_en": "TODO: Dattel-Nuss-Energiekugeln",
+            "title_en": "Date and Nut Energy Balls",
             "meals": 8,
             "summary": "Kleine, sättigende Energiebällchen aus Datteln, Nüssen und Haferflocken — ohne Backen, ganz ohne Zucker und ideal als süßer Snack für die ganze Familie.",
-            "summary_en": "TODO: Kleine, sättigende Energiebällchen aus Datteln, Nüssen und Haferflocken — ohne Backen, ganz ohne Zucker und ideal als süßer Snack für die ganze Familie.",
+            "summary_en": "Small, satisfying energy bites made from dates, nuts, and oats — no baking, no added sugar, and perfect as a sweet snack for the whole family.",
             "child_note": "",
             "ingredients": [
               {
                 "name": "Medjool-Datteln entsteint",
-                "name_en": "TODO: Medjool-Datteln entsteint",
+                "name_en": "Medjool dates, pitted",
                 "qty_display": "400 g",
                 "category": "Obst"
               },
               {
                 "name": "Mandeln",
-                "name_en": "TODO: Mandeln",
+                "name_en": "almonds",
                 "qty_display": "200 g",
                 "category": "Konserven und Vorrat"
               },
               {
                 "name": "Walnüsse",
-                "name_en": "TODO: Walnüsse",
+                "name_en": "walnuts",
                 "qty_display": "150 g",
                 "category": "Konserven und Vorrat"
               },
               {
                 "name": "Haferflocken (zart)",
-                "name_en": "TODO: Haferflocken (zart)",
+                "name_en": "rolled oats (fine)",
                 "qty_display": "150 g",
                 "category": "Kohlenhydrate und Sattmacher"
               },
               {
                 "name": "Kakaopulver ungesüßt",
-                "name_en": "TODO: Kakaopulver ungesüßt",
+                "name_en": "unsweetened cocoa powder",
                 "qty_display": "3 EL",
                 "category": "Konserven und Vorrat"
               },
               {
                 "name": "Chiasamen",
-                "name_en": "TODO: Chiasamen",
+                "name_en": "chia seeds",
                 "qty_display": "2 EL",
                 "category": "Konserven und Vorrat"
               },
               {
                 "name": "Zimt gemahlen",
-                "name_en": "TODO: Zimt gemahlen",
+                "name_en": "cinnamon, ground",
                 "qty_display": "1 TL",
                 "category": "Gewürze"
               },
               {
                 "name": "Vanilleextrakt",
-                "name_en": "TODO: Vanilleextrakt",
+                "name_en": "vanilla extract",
                 "qty_display": "1 TL",
                 "category": "Gewürze"
               },
               {
                 "name": "Salz",
-                "name_en": "TODO: Salz",
+                "name_en": "salt",
                 "qty_display": "1 Prise",
                 "category": "Gewürze"
               },
               {
                 "name": "Kokosraspeln zum Wälzen",
-                "name_en": "TODO: Kokosraspeln zum Wälzen",
+                "name_en": "desiccated coconut for rolling",
                 "qty_display": "60 g",
                 "category": "Konserven und Vorrat"
               }
@@ -10259,13 +10259,13 @@
               "In einem luftdichten Behälter im Kühlschrank bis zu 2 Wochen haltbar."
             ],
             "steps_en": [
-              "TODO: Datteln 10 Minuten in warmem Wasser einweichen, dann gut abtropfen lassen.",
-              "TODO: Mandeln und Walnüsse in einem Mixer grob zerkleinern.",
-              "TODO: Datteln, Haferflocken, Kakaopulver, Chiasamen, Zimt, Vanilleextrakt und Salz zu den Nüssen geben und alles zu einer klebrigen, formbaren Masse verarbeiten. Falls die Masse zu trocken ist, 1–2 EL Wasser hinzufügen.",
-              "TODO: Hände leicht befeuchten und aus der Masse 24–30 Kugeln (je ca. 3 cm Durchmesser) formen.",
-              "TODO: Kokosraspeln auf einem Teller ausbreiten und die Kugeln darin wälzen.",
-              "TODO: Kugeln auf einem Tablett verteilen und mindestens 30 Minuten im Kühlschrank fest werden lassen.",
-              "TODO: In einem luftdichten Behälter im Kühlschrank bis zu 2 Wochen haltbar."
+              "Soak the dates in warm water for 10 minutes, then drain well.",
+              "Roughly chop the almonds and walnuts in a food processor.",
+              "Add the dates, oats, cocoa powder, chia seeds, cinnamon, vanilla extract, and salt to the nuts and process into a sticky, shapeable dough. If the mixture is too dry, add 1–2 tbsp water.",
+              "Dampen your hands lightly and roll the mixture into 24–30 balls (about 3 cm in diameter each).",
+              "Spread the desiccated coconut on a plate and roll the balls in it to coat.",
+              "Arrange the balls on a tray and refrigerate for at least 30 minutes to firm up.",
+              "Store in an airtight container in the fridge for up to 2 weeks."
             ]
           },
           "shopping": [
@@ -11253,81 +11253,81 @@
           "dessert": {
             "id": "dark_chocolate_oat_muffins",
             "title": "Dunkle-Schokoladen-Hafermuffins",
-            "title_en": "TODO: Dunkle-Schokoladen-Hafermuffins",
+            "title_en": "Dark Chocolate Oat Muffins",
             "meals": 8,
             "summary": "Saftige Muffins mit Vollkornhafer, reifer Banane und dunkler Schokolade — natürlich gesüßt, ohne Weißmehl und trotzdem herrlich schokoladig.",
-            "summary_en": "TODO: Saftige Muffins mit Vollkornhafer, reifer Banane und dunkler Schokolade — natürlich gesüßt, ohne Weißmehl und trotzdem herrlich schokoladig.",
+            "summary_en": "Moist muffins made with whole rolled oats, ripe banana, and dark chocolate — naturally sweetened, flour-free, and wonderfully chocolatey.",
             "child_note": "",
             "ingredients": [
               {
                 "name": "Haferflocken (zart)",
-                "name_en": "TODO: Haferflocken (zart)",
+                "name_en": "rolled oats (fine)",
                 "qty_display": "400 g",
                 "category": "Kohlenhydrate und Sattmacher"
               },
               {
                 "name": "reife Bananen",
-                "name_en": "TODO: reife Bananen",
+                "name_en": "ripe bananas",
                 "qty_display": "4 Stk",
                 "category": "Obst"
               },
               {
                 "name": "Eier",
-                "name_en": "TODO: Eier",
+                "name_en": "eggs",
                 "qty_display": "4 Stk",
                 "category": "Protein und Milchprodukte"
               },
               {
                 "name": "Naturjoghurt",
-                "name_en": "TODO: Naturjoghurt",
+                "name_en": "plain yogurt",
                 "qty_display": "200 g",
                 "category": "Protein und Milchprodukte"
               },
               {
                 "name": "Kakaopulver ungesüßt",
-                "name_en": "TODO: Kakaopulver ungesüßt",
+                "name_en": "unsweetened cocoa powder",
                 "qty_display": "60 g",
                 "category": "Konserven und Vorrat"
               },
               {
                 "name": "Backpulver",
-                "name_en": "TODO: Backpulver",
+                "name_en": "baking powder",
                 "qty_display": "2 TL",
                 "category": "Konserven und Vorrat"
               },
               {
                 "name": "Natron",
-                "name_en": "TODO: Natron",
+                "name_en": "bicarbonate of soda",
                 "qty_display": "1 TL",
                 "category": "Konserven und Vorrat"
               },
               {
                 "name": "Agavendicksaft",
-                "name_en": "TODO: Agavendicksaft",
+                "name_en": "agave syrup",
                 "qty_display": "4 EL",
                 "category": "Konserven und Vorrat"
               },
               {
                 "name": "Vanilleextrakt",
-                "name_en": "TODO: Vanilleextrakt",
+                "name_en": "vanilla extract",
                 "qty_display": "2 TL",
                 "category": "Gewürze"
               },
               {
                 "name": "Salz",
-                "name_en": "TODO: Salz",
+                "name_en": "salt",
                 "qty_display": "1 Prise",
                 "category": "Gewürze"
               },
               {
                 "name": "dunkle Schokolade (mind. 70 %) gehackt",
-                "name_en": "TODO: dunkle Schokolade (mind. 70 %) gehackt",
+                "name_en": "dark chocolate (min. 70 %), chopped",
                 "qty_display": "100 g",
                 "category": "Konserven und Vorrat"
               },
               {
                 "name": "Kokosöl zum Einfetten",
-                "name_en": "TODO: Kokosöl zum Einfetten",
+                "name_en": "coconut oil for greasing",
                 "qty_display": "1 EL",
                 "category": "Konserven und Vorrat"
               }
@@ -11343,14 +11343,14 @@
               "10 Minuten im Blech abkühlen lassen, dann auf einem Gitter vollständig auskühlen. Luftdicht verpackt 4 Tage haltbar, eingefroren bis zu 3 Monate."
             ],
             "steps_en": [
-              "TODO: Ofen auf 180 °C Ober-/Unterhitze vorheizen. Ein Muffinblech (12er) mit Papierförmchen auslegen oder mit Kokosöl einfetten.",
-              "TODO: Haferflocken im Mixer zu einem feinen Mehl mahlen.",
-              "TODO: Bananen in einer großen Schüssel zerdrücken, Eier, Joghurt, Agavendicksaft und Vanilleextrakt einrühren.",
-              "TODO: Hafermehl, Kakaopulver, Backpulver, Natron und Salz in die feuchte Masse sieben und alles zügig verrühren.",
-              "TODO: Gehackte Schokolade unterheben.",
-              "TODO: Teig gleichmäßig auf die 16 Muffinförmchen verteilen (je ca. ¾ voll).",
-              "TODO: Im vorgeheizten Ofen 18–22 Minuten backen, bis ein Zahnstocher sauber herauskommt.",
-              "TODO: 10 Minuten im Blech abkühlen lassen, dann auf einem Gitter vollständig auskühlen. Luftdicht verpackt 4 Tage haltbar, eingefroren bis zu 3 Monate."
+              "Preheat the oven to 180 °C (fan 160 °C). Line a 12-hole muffin tin with paper cases or grease with coconut oil.",
+              "Blitz the rolled oats in a blender to a fine flour.",
+              "Mash the bananas in a large bowl, then stir in the eggs, yogurt, agave syrup, and vanilla extract.",
+              "Sift the oat flour, cocoa powder, baking powder, bicarbonate of soda, and salt into the wet mixture and stir quickly to combine.",
+              "Fold in the chopped chocolate.",
+              "Divide the batter evenly among 16 muffin cases (each about ¾ full).",
+              "Bake in the preheated oven for 18–22 minutes until a toothpick comes out clean.",
+              "Cool in the tin for 10 minutes, then transfer to a wire rack to cool completely. Keeps for 4 days in an airtight container, or up to 3 months frozen."
             ]
           },
           "shopping": [
@@ -12152,93 +12152,93 @@
           "dessert": {
             "id": "berry_chia_jam_tart",
             "title": "Beeren-Chia-Tarte mit Dinkelboden",
-            "title_en": "TODO: Beeren-Chia-Tarte mit Dinkelboden",
+            "title_en": "Berry Chia Jam Tart with Spelt Crust",
             "meals": 8,
             "summary": "Knusprige Dinkelmehl-Tarte mit cremiger Quarkfüllung und fruchtigem Beeren-Chia-Konfitüre-Topping — ohne raffinierten Zucker und perfekt für besondere Anlässe.",
-            "summary_en": "TODO: Knusprige Dinkelmehl-Tarte mit cremiger Quarkfüllung und fruchtigem Beeren-Chia-Konfitüre-Topping — ohne raffinierten Zucker und perfekt für besondere Anlässe.",
+            "summary_en": "Crisp spelt flour tart with a creamy quark filling and a fruity berry chia jam topping — free of refined sugar and perfect for special occasions.",
             "child_note": "",
             "ingredients": [
               {
                 "name": "Vollkorndinkelmehl",
-                "name_en": "TODO: Vollkorndinkelmehl",
+                "name_en": "wholemeal spelt flour",
                 "qty_display": "300 g",
                 "category": "Kohlenhydrate und Sattmacher"
               },
               {
                 "name": "Mandelmehl",
-                "name_en": "TODO: Mandelmehl",
+                "name_en": "almond flour",
                 "qty_display": "80 g",
                 "category": "Konserven und Vorrat"
               },
               {
                 "name": "Kokosöl (kalt, fest)",
-                "name_en": "TODO: Kokosöl (kalt, fest)",
+                "name_en": "coconut oil (cold, solid)",
                 "qty_display": "100 g",
                 "category": "Konserven und Vorrat"
               },
               {
                 "name": "Honig",
-                "name_en": "TODO: Honig",
+                "name_en": "honey",
                 "qty_display": "3 EL",
                 "category": "Konserven und Vorrat"
               },
               {
                 "name": "Ei",
-                "name_en": "TODO: Ei",
+                "name_en": "egg",
                 "qty_display": "1 Stk",
                 "category": "Protein und Milchprodukte"
               },
               {
                 "name": "Salz",
-                "name_en": "TODO: Salz",
+                "name_en": "salt",
                 "qty_display": "1 Prise",
                 "category": "Gewürze"
               },
               {
                 "name": "Magerquark",
-                "name_en": "TODO: Magerquark",
+                "name_en": "low-fat quark",
                 "qty_display": "600 g",
                 "category": "Protein und Milchprodukte"
               },
               {
                 "name": "Griechischer Joghurt",
-                "name_en": "TODO: Griechischer Joghurt",
+                "name_en": "Greek yogurt",
                 "qty_display": "200 g",
                 "category": "Protein und Milchprodukte"
               },
               {
                 "name": "Honig",
-                "name_en": "TODO: Honig",
+                "name_en": "honey",
                 "qty_display": "3 EL",
                 "category": "Konserven und Vorrat"
               },
               {
                 "name": "Vanilleextrakt",
-                "name_en": "TODO: Vanilleextrakt",
+                "name_en": "vanilla extract",
                 "qty_display": "2 TL",
                 "category": "Gewürze"
               },
               {
                 "name": "gemischte Beeren (Erdbeeren, Heidelbeeren, Himbeeren)",
-                "name_en": "TODO: gemischte Beeren (Erdbeeren, Heidelbeeren, Himbeeren)",
+                "name_en": "mixed berries (strawberries, blueberries, raspberries)",
                 "qty_display": "700 g",
                 "category": "Obst"
               },
               {
                 "name": "Chiasamen",
-                "name_en": "TODO: Chiasamen",
+                "name_en": "chia seeds",
                 "qty_display": "4 EL",
                 "category": "Konserven und Vorrat"
               },
               {
                 "name": "Agavendicksaft",
-                "name_en": "TODO: Agavendicksaft",
+                "name_en": "agave syrup",
                 "qty_display": "3 EL",
                 "category": "Konserven und Vorrat"
               },
               {
                 "name": "Zitronensaft",
-                "name_en": "TODO: Zitronensaft",
+                "name_en": "lemon juice",
                 "qty_display": "2 EL",
                 "category": "Obst"
               }
@@ -12253,13 +12253,13 @@
               "Tarte mindestens 1 Stunde kalt stellen, dann in 8 Stücke schneiden und servieren. Im Kühlschrank bis zu 2 Tage haltbar."
             ],
             "steps_en": [
-              "TODO: Für den Teig Vollkorndinkelmehl, Mandelmehl und Salz mischen. Festes Kokosöl in Würfeln, Honig und Ei hinzufügen und rasch zu einem glatten Mürbeteig kneten. In Frischhaltefolie wickeln und 30 Minuten kalt stellen.",
-              "TODO: Ofen auf 180 °C Ober-/Unterhitze vorheizen. Teig auf einer bemehlten Fläche auf ca. 3 mm ausrollen und in eine Tarteform (28 cm) legen, Rand andrücken. Mit einer Gabel mehrfach einstechen.",
-              "TODO: Tarteboden 15–18 Minuten blind backen (mit Backpapier und Hülsenfrüchten beschwert), bis er goldbraun ist. Vollständig auskühlen lassen.",
-              "TODO: Für die Chia-Konfitüre Beeren mit Agavendicksaft und Zitronensaft in einem Topf 5 Minuten köcheln, leicht zerdrücken. Chiasamen einrühren und 20 Minuten quellen lassen, bis eine gelartige Konfitüre entstanden ist. Auskühlen lassen.",
-              "TODO: Magerquark, Joghurt, Honig und Vanilleextrakt zu einer glatten Creme verrühren und gleichmäßig auf dem abgekühlten Tarteboden verteilen.",
-              "TODO: Beeren-Chia-Konfitüre auf der Quarkcreme verteilen.",
-              "TODO: Tarte mindestens 1 Stunde kalt stellen, dann in 8 Stücke schneiden und servieren. Im Kühlschrank bis zu 2 Tage haltbar."
+              "For the pastry: mix wholemeal spelt flour, almond flour, and salt. Add cubed solid coconut oil, honey, and egg; quickly knead into a smooth shortcrust pastry. Wrap in cling film and refrigerate for 30 minutes.",
+              "Preheat oven to 180 °C (350 °F) top/bottom heat. Roll dough out on a lightly floured surface to about 3 mm thick and press into a tart tin (28 cm); press the edges up. Prick the base all over with a fork.",
+              "Blind-bake the tart shell for 15–18 minutes (lined with baking paper and weighted with pulses) until golden brown. Leave to cool completely.",
+              "For the chia jam: simmer berries with agave syrup and lemon juice in a saucepan for 5 minutes, lightly mashing them. Stir in chia seeds and leave to swell for 20 minutes until a gel-like jam forms. Allow to cool.",
+              "Stir quark, yogurt, honey, and vanilla extract together into a smooth cream; spread evenly over the cooled tart shell.",
+              "Spoon the berry chia jam over the quark cream.",
+              "Refrigerate the tart for at least 1 hour, then cut into 8 slices and serve. Keeps in the fridge for up to 2 days."
             ]
           },
           "shopping": [

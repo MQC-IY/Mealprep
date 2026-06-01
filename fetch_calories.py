@@ -13,14 +13,24 @@ Run:
     python3 fetch_calories.py
 """
 
-import json, time, urllib.request, urllib.parse, urllib.error
+import json, os, time, urllib.request, urllib.parse, urllib.error
 from pathlib import Path
 
 import yaml
 
-# ── Credentials ────────────────────────────────────────────────────────────────
-APP_ID  = "5b7aa509"
-APP_KEY = "bf657c02b4218ff791187fc9c6f77f13"
+# ── Credentials — loaded from .env or environment ──────────────────────────────
+_env = Path(__file__).parent / ".env"
+if _env.exists():
+    for _line in _env.read_text().splitlines():
+        if _line.startswith("EDAMAM_APP_ID="):
+            os.environ.setdefault("EDAMAM_APP_ID", _line.split("=", 1)[1].strip())
+        elif _line.startswith("EDAMAM_APP_KEY="):
+            os.environ.setdefault("EDAMAM_APP_KEY", _line.split("=", 1)[1].strip())
+
+APP_ID  = os.environ.get("EDAMAM_APP_ID", "")
+APP_KEY = os.environ.get("EDAMAM_APP_KEY", "")
+if not APP_ID or not APP_KEY:
+    raise SystemExit("Set EDAMAM_APP_ID and EDAMAM_APP_KEY in .env or environment")
 API_URL = "https://api.edamam.com/api/nutrition-details"
 
 # ── Paths / config ─────────────────────────────────────────────────────────────
