@@ -1,6 +1,11 @@
 {
   "last_generated_week": "2026-W23",
   "last_lunch_ids": [
+    "hungarian_beef_goulash",
+    "hungarian_chicken_paprikas",
+    "pasta_arrabbiata_chicken",
+    "pasta_carbonara_pancetta",
+    "pollo_al_ajillo",
     "greek_giouvetsi",
     "hayashi_rice_chicken",
     "pad_krapao_chicken",
@@ -24,6 +29,7 @@
   ],
   "generator_version": "variants-v6",
   "last_dessert_ids": [
+    "strawberry_rhubarb_crumble",
     "pumpkin_yogurt_cake",
     "lemon_poppy_seed_cake",
     "light_banana_bread",
@@ -34,6 +40,11 @@
       "last_generated_week": "2026-W23",
       "generator_version": "variants-v6",
       "last_lunch_ids": [
+        "hungarian_beef_goulash",
+        "hungarian_chicken_paprikas",
+        "pasta_arrabbiata_chicken",
+        "pasta_carbonara_pancetta",
+        "pollo_al_ajillo",
         "greek_giouvetsi",
         "hayashi_rice_chicken",
         "pad_krapao_chicken",
@@ -56,6 +67,7 @@
         "imam_bayildi_chicken"
       ],
       "last_dessert_ids": [
+        "strawberry_rhubarb_crumble",
         "pumpkin_yogurt_cake",
         "lemon_poppy_seed_cake",
         "light_banana_bread",
@@ -66,6 +78,11 @@
       "last_generated_week": "2026-W23",
       "generator_version": "variants-v6",
       "last_lunch_ids": [
+        "moroccan_harira",
+        "moroccan_harissa_chicken_bowl",
+        "pea_mint_orzo_turkey",
+        "pea_spinach_pasta_turkey",
+        "pea_zucchini_orzo_turkey",
         "mild_pepper_lentil_rice",
         "mild_quinoa_lentil_bake",
         "pasta_con_sarde",
@@ -88,6 +105,7 @@
         "mild_lentil_udon_pan"
       ],
       "last_dessert_ids": [
+        "light_banana_bread",
         "date_nut_energy_balls",
         "chia_mango_pudding",
         "berry_oat_pudding_slices",
@@ -98,6 +116,11 @@
       "last_generated_week": "2026-W23",
       "generator_version": "variants-v6",
       "last_lunch_ids": [
+        "chicken_green_bean_rice_pan",
+        "chicken_tinga_chipotle",
+        "quick_lentil_pasta_carrot",
+        "quick_pho_bowl",
+        "quick_polenta_beans_tomato",
         "bulgur_bean_pepper_pan",
         "bulgur_lentil_pepper_stew",
         "quick_broccoli_couscous",
@@ -120,6 +143,7 @@
         "pea_broccoli_couscous_turkey"
       ],
       "last_dessert_ids": [
+        "berry_oat_pudding_slices",
         "apple_oat_bake",
         "pumpkin_yogurt_cake",
         "yogurt_lemon_cake",
