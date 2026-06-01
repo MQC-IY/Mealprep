@@ -1,4 +1,4 @@
-const CACHE = 'mahlzeit-v4';
+const CACHE = 'mahlzeit-v5';
 
 const PRECACHE = [
   '/Mealprep/',
@@ -6,6 +6,7 @@ const PRECACHE = [
   '/Mealprep/weeks.json',
   '/Mealprep/recipe_times.json',
   '/Mealprep/recipe_images.json',
+  '/Mealprep/recipe_calories.json',
   '/Mealprep/manifest.json',
   '/Mealprep/icons/icon-192.png',
   '/Mealprep/icons/icon-512.png',
