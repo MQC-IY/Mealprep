@@ -4,84 +4,95 @@ healthy: true
 meals: 8
 de:
   title: Zitronen-Mohn-Kuchen mit Vollkornmehl
-  summary: "Saftiger Zitronen-Mohn-Kuchen aus Vollkorndinkelmehl, gesüßt mit Honig und Bananen — ein luftiger Blechkuchen für die ganze Woche."
+  summary: Saftiger Zitronen-Mohn-Kuchen aus Vollkorndinkelmehl, gesüßt mit Honig
+    und Bananen — ein luftiger Blechkuchen für die ganze Woche.
 en:
-  title: "TODO: Zitronen-Mohn-Kuchen mit Vollkornmehl"
-  summary: "TODO: Saftiger Zitronen-Mohn-Kuchen aus Vollkorndinkelmehl, gesüßt mit Honig und Bananen — ein luftiger Blechkuchen für die ganze Woche."
+  title: Lemon Poppy Seed Cake with Wholemeal Flour
+  summary: Moist lemon poppy seed cake made with whole-wheat spelt flour, sweetened
+    with honey and bananas – a light sheet cake for the whole week.
 ingredients:
-  - de_name: Vollkorndinkelmehl
-    en_name: "TODO: Vollkorndinkelmehl"
-    qty: 400
-    unit: g
-    category: Kohlenhydrate und Sattmacher
-  - de_name: Mohn
-    en_name: "TODO: Mohn"
-    qty: 80
-    unit: g
-    category: Konserven und Vorrat
-  - de_name: Backpulver
-    en_name: "TODO: Backpulver"
-    qty: 3
-    unit: TL
-    category: Konserven und Vorrat
-  - de_name: Natron
-    en_name: "TODO: Natron"
-    qty: 1
-    unit: TL
-    category: Konserven und Vorrat
-  - de_name: Salz
-    en_name: "TODO: Salz"
-    qty: 1
-    unit: Prise
-    category: Gewürze
-  - de_name: reife Bananen
-    en_name: "TODO: reife Bananen"
-    qty: 3
-    unit: Stk
-    category: Obst
-  - de_name: Eier
-    en_name: "TODO: Eier"
-    qty: 4
-    unit: Stk
-    category: Protein und Milchprodukte
-  - de_name: Naturjoghurt
-    en_name: "TODO: Naturjoghurt"
-    qty: 300
-    unit: g
-    category: Protein und Milchprodukte
-  - de_name: Honig
-    en_name: "TODO: Honig"
-    qty: 6
-    unit: EL
-    category: Konserven und Vorrat
-  - de_name: Kokosöl (geschmolzen)
-    en_name: "TODO: Kokosöl (geschmolzen)"
-    qty: 80
-    unit: ml
-    category: Konserven und Vorrat
-  - de_name: Bio-Zitronen (Schale und Saft)
-    en_name: "TODO: Bio-Zitronen (Schale und Saft)"
-    qty: 3
-    unit: Stk
-    category: Obst
-  - de_name: Vanilleextrakt
-    en_name: "TODO: Vanilleextrakt"
-    qty: 2
-    unit: TL
-    category: Gewürze
+- de_name: Vollkorndinkelmehl
+  en_name: whole-wheat spelt flour
+  qty: 400
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Mohn
+  en_name: poppy seeds
+  qty: 80
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Backpulver
+  en_name: baking powder
+  qty: 3
+  unit: TL
+  category: Konserven und Vorrat
+- de_name: Natron
+  en_name: baking soda
+  qty: 1
+  unit: TL
+  category: Konserven und Vorrat
+- de_name: Salz
+  en_name: salt
+  qty: 1
+  unit: Prise
+  category: Gewürze
+- de_name: reife Bananen
+  en_name: ripe bananas
+  qty: 3
+  unit: Stk
+  category: Obst
+- de_name: Eier
+  en_name: eggs
+  qty: 4
+  unit: Stk
+  category: Protein und Milchprodukte
+- de_name: Naturjoghurt
+  en_name: plain yogurt
+  qty: 300
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Honig
+  en_name: honey
+  qty: 6
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Kokosöl (geschmolzen)
+  en_name: coconut oil (melted)
+  qty: 80
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Bio-Zitronen (Schale und Saft)
+  en_name: organic lemons (zest and juice)
+  qty: 3
+  unit: Stk
+  category: Obst
+- de_name: Vanilleextrakt
+  en_name: vanilla extract
+  qty: 2
+  unit: TL
+  category: Gewürze
 de_steps:
-  - Ofen auf 175 °C Ober-/Unterhitze vorheizen. Eine Springform (26 cm) mit Backpapier auslegen und die Ränder einfetten.
-  - "Vollkorndinkelmehl, Mohn, Backpulver, Natron und Salz in einer großen Schüssel vermengen."
-  - "Bananen in einer separaten Schüssel zerdrücken. Eier, Joghurt, Honig, geschmolzenes Kokosöl, Zitronenschale, Zitronensaft und Vanilleextrakt hinzugeben und cremig verrühren."
-  - "Die feuchten Zutaten zu den trockenen geben und zügig zu einem glatten Teig rühren — nicht zu lange rühren, sonst wird der Kuchen zäh."
-  - Teig in die vorbereitete Form füllen und glattstreichen.
-  - "Im vorgeheizten Ofen 40–45 Minuten backen, bis ein Zahnstocher sauber herauskommt."
-  - "In der Form 15 Minuten abkühlen lassen, dann auf einem Gitter vollständig auskühlen. In Stücke schneiden und luftdicht verpackt bis zu 4 Tage aufbewahren."
+- Ofen auf 175 °C Ober-/Unterhitze vorheizen. Eine Springform (26 cm) mit Backpapier
+  auslegen und die Ränder einfetten.
+- Vollkorndinkelmehl, Mohn, Backpulver, Natron und Salz in einer großen Schüssel vermengen.
+- Bananen in einer separaten Schüssel zerdrücken. Eier, Joghurt, Honig, geschmolzenes
+  Kokosöl, Zitronenschale, Zitronensaft und Vanilleextrakt hinzugeben und cremig verrühren.
+- Die feuchten Zutaten zu den trockenen geben und zügig zu einem glatten Teig rühren
+  — nicht zu lange rühren, sonst wird der Kuchen zäh.
+- Teig in die vorbereitete Form füllen und glattstreichen.
+- Im vorgeheizten Ofen 40–45 Minuten backen, bis ein Zahnstocher sauber herauskommt.
+- In der Form 15 Minuten abkühlen lassen, dann auf einem Gitter vollständig auskühlen.
+  In Stücke schneiden und luftdicht verpackt bis zu 4 Tage aufbewahren.
 en_steps:
-  - "TODO: Ofen auf 175 °C Ober-/Unterhitze vorheizen. Eine Springform (26 cm) mit Backpapier auslegen und die Ränder einfetten."
-  - "TODO: Vollkorndinkelmehl, Mohn, Backpulver, Natron und Salz in einer großen Schüssel vermengen."
-  - "TODO: Bananen in einer separaten Schüssel zerdrücken. Eier, Joghurt, Honig, geschmolzenes Kokosöl, Zitronenschale, Zitronensaft und Vanilleextrakt hinzugeben und cremig verrühren."
-  - "TODO: Die feuchten Zutaten zu den trockenen geben und zügig zu einem glatten Teig rühren — nicht zu lange rühren, sonst wird der Kuchen zäh."
-  - "TODO: Teig in die vorbereitete Form füllen und glattstreichen."
-  - "TODO: Im vorgeheizten Ofen 40–45 Minuten backen, bis ein Zahnstocher sauber herauskommt."
-  - "TODO: In der Form 15 Minuten abkühlen lassen, dann auf einem Gitter vollständig auskühlen. In Stücke schneiden und luftdicht verpackt bis zu 4 Tage aufbewahren."
+- Preheat oven to 175 °C top/bottom heat. Line a 26 cm springform tin with baking
+  paper and grease the sides.
+- Combine whole-wheat spelt flour, poppy seeds, baking powder, baking soda, and salt
+  in a large bowl.
+- Mash bananas in a separate bowl. Add eggs, yogurt, honey, melted coconut oil, lemon
+  zest, lemon juice, and vanilla extract; stir until creamy.
+- Add the wet ingredients to the dry and stir quickly into a smooth batter – do not
+  over-mix or the cake will be tough.
+- Pour batter into the prepared tin and smooth the surface.
+- Bake in the preheated oven for 40–45 minutes until a toothpick comes out clean.
+- Cool in the tin for 15 minutes, then turn out onto a rack to cool completely. Cut
+  into slices and store airtight for up to 4 days.

@@ -8,57 +8,57 @@ de:
   title: Leichte Gemüse-Quiche ohne Speck
   summary: Französisch inspirierte Quiche mit Kartoffelboden, Gemüse und Joghurt-Ei-Guss.
 en:
-  title: 'TODO: Leichte Gemüse-Quiche ohne Speck'
-  summary: |-
-    TODO: Französisch inspirierte Quiche mit Kartoffelboden, Gemüse und Joghurt-Ei-Guss.
+  title: Light Vegetable Quiche without Bacon
+  summary: French-inspired quiche with a potato base, vegetables, and a yoghurt-egg
+    custard.
 ingredients:
 - de_name: Kartoffeln
-  en_name: 'TODO: Kartoffeln'
+  en_name: Potatoes
   qty: 900
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Eier
-  en_name: 'TODO: Eier'
+  en_name: Eggs
   qty: 5
   unit: Stk
   category: Protein und Milchprodukte
 - de_name: Naturjoghurt
-  en_name: 'TODO: Naturjoghurt'
+  en_name: Plain yoghurt
   qty: 250
   unit: g
   category: Protein und Milchprodukte
 - de_name: Zucchini
-  en_name: 'TODO: Zucchini'
+  en_name: Courgette
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: Carrots
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Erbsen, TK
-  en_name: 'TODO: Erbsen, TK'
+  en_name: Frozen peas
   qty: 200
   unit: g
   category: Gemüse und Salat
 - de_name: Gouda gerieben
-  en_name: 'TODO: Gouda gerieben'
+  en_name: Grated Gouda
   qty: 80
   unit: g
   category: Protein und Milchprodukte
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Kräuter der Provence
-  en_name: 'TODO: Kräuter der Provence'
+  en_name: Herbes de Provence
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chilli flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -68,7 +68,7 @@ de_steps:
 - Kartoffeln in eine Form legen, Gemüse darauf verteilen.
 - Eier mit Joghurt verrühren und darübergeben.
 en_steps:
-- 'TODO: Kartoffeln in dünne Scheiben schneiden und vorgaren.'
-- 'TODO: Gemüse klein schneiden und weich dünsten.'
-- 'TODO: Kartoffeln in eine Form legen, Gemüse darauf verteilen.'
-- 'TODO: Eier mit Joghurt verrühren und darübergeben.'
+- Slice the potatoes thinly and par-cook.
+- Finely chop the vegetables and sauté until tender.
+- Layer the potato slices in a baking dish and spread the vegetables on top.
+- Beat the eggs with the yoghurt and pour over the top.

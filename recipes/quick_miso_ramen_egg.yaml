@@ -7,84 +7,84 @@ quick_minutes: 25
 meals: 2
 de:
   title: Schneller Ramen mit Miso und Ei
-  summary: |-
-    Umami-reiche Miso-Brühe mit Ramen-Nudeln, weichem Ei, Frühlingszwiebeln und Sesam.
+  summary: Umami-reiche Miso-Brühe mit Ramen-Nudeln, weichem Ei, Frühlingszwiebeln
+    und Sesam.
 en:
-  title: 'TODO: Schneller Ramen mit Miso und Ei'
-  summary: |-
-    TODO: Umami-reiche Miso-Brühe mit Ramen-Nudeln, weichem Ei, Frühlingszwiebeln und Sesam.
+  title: Quick Miso Ramen with Soft-Boiled Egg
+  summary: Umami-rich miso broth with ramen noodles, soft-boiled eggs, spring onions,
+    and sesame — ready in 25 minutes.
 ingredients:
 - de_name: Ramen-Nudeln (getrocknet)
-  en_name: 'TODO: Ramen-Nudeln (getrocknet)'
+  en_name: Ramen noodles (dried)
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Eier
-  en_name: 'TODO: Eier'
+  en_name: Eggs
   qty: 4
   unit: Stk
   category: Protein und Milchprodukte
 - de_name: Weißes Miso
-  en_name: 'TODO: Weißes Miso'
+  en_name: White miso
   qty: 4
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sesamöl
-  en_name: 'TODO: Sesamöl'
+  en_name: Sesame oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sojasauce
-  en_name: 'TODO: Sojasauce'
+  en_name: Soy sauce
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: Chicken broth
   qty: 1.2
   unit: Liter
   category: Konserven und Vorrat
 - de_name: Frühlingszwiebeln
-  en_name: 'TODO: Frühlingszwiebeln'
+  en_name: Spring onions
   qty: 4
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: Garlic cloves
   qty: 3
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Ingwer, frisch
-  en_name: 'TODO: Ingwer, frisch'
+  en_name: Fresh ginger
   qty: 20
   unit: g
   category: Gemüse und Salat
 - de_name: Sesam, geröstet
-  en_name: 'TODO: Sesam, geröstet'
+  en_name: Toasted sesame seeds
   qty: 2
   unit: EL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Eier in kochendem Wasser 7 Minuten kochen, dann in Eiswasser abschrecken. Schälen und halbieren.
+- Eier in kochendem Wasser 7 Minuten kochen, dann in Eiswasser abschrecken. Schälen
+  und halbieren.
 - Knoblauch und Ingwer reiben. In Sesamöl 1 Minute anbraten.
-- |-
-  Brühe hinzufügen und aufkochen. Miso und Sojasauce in etwas heißer Brühe auflösen und in den Topf einrühren (nicht mehr kochen lassen).
+- Brühe hinzufügen und aufkochen. Miso und Sojasauce in etwas heißer Brühe auflösen
+  und in den Topf einrühren (nicht mehr kochen lassen).
 - Ramen-Nudeln direkt in der Brühe laut Packungsanweisung (ca. 3 Minuten) garen.
-- |-
-  In Schüsseln verteilen, Eier halbiert obenauf legen. Mit Frühlingszwiebelringen, Sesam und Chiliflocken garnieren.
+- In Schüsseln verteilen, Eier halbiert obenauf legen. Mit Frühlingszwiebelringen,
+  Sesam und Chiliflocken garnieren.
 en_steps:
-- |-
-  TODO: Eier in kochendem Wasser 7 Minuten kochen, dann in Eiswasser abschrecken. Schälen und halbieren.
-- 'TODO: Knoblauch und Ingwer reiben. In Sesamöl 1 Minute anbraten.'
-- |-
-  TODO: Brühe hinzufügen und aufkochen. Miso und Sojasauce in etwas heißer Brühe auflösen und in den Topf einrühren (nicht mehr kochen lassen).
-- |-
-  TODO: Ramen-Nudeln direkt in der Brühe laut Packungsanweisung (ca. 3 Minuten) garen.
-- |-
-  TODO: In Schüsseln verteilen, Eier halbiert obenauf legen. Mit Frühlingszwiebelringen, Sesam und Chiliflocken garnieren.
+- Boil the eggs for 7 minutes in simmering water, then transfer to ice water to stop
+  cooking. Peel and halve.
+- Grate the garlic and ginger. Sauté in sesame oil for 1 minute.
+- Add the broth and bring to a boil. Dissolve the miso and soy sauce in a ladle of
+  hot broth, then stir into the pot (do not boil again).
+- Cook the ramen noodles directly in the broth according to package instructions (about
+  3 minutes).
+- Ladle into bowls and top with the halved eggs. Garnish with sliced spring onions,
+  sesame seeds, and chili flakes.

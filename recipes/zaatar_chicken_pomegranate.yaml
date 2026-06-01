@@ -7,114 +7,115 @@ quick_minutes: 30
 meals: 2
 de:
   title: Za'atar-Hähnchen mit Granatapfel und Couscous
-  summary: |-
-    Ofengeröstetes Za'atar-Hähnchen auf levantem Couscous mit frischen Granatapfelkernen, Minze und einem Hauch Granatapfelsirup.
+  summary: Ofengeröstetes Za'atar-Hähnchen auf levantem Couscous mit frischen Granatapfelkernen,
+    Minze und einem Hauch Granatapfelsirup.
 en:
-  title: 'TODO: Za''atar-Hähnchen mit Granatapfel und Couscous'
-  summary: |-
-    TODO: Ofengeröstetes Za'atar-Hähnchen auf levantem Couscous mit frischen Granatapfelkernen, Minze und einem Hauch Granatapfelsirup.
+  title: Za'atar Chicken with Pomegranate and Couscous
+  summary: Oven-roasted za'atar chicken on Levantine couscous with fresh pomegranate
+    seeds, mint, and a drizzle of pomegranate molasses.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: Chicken breast
   qty: 600
   unit: g
   category: Protein und Milchprodukte
 - de_name: Granatapfelkerne, frisch
-  en_name: 'TODO: Granatapfelkerne, frisch'
+  en_name: Fresh pomegranate seeds
   qty: 120
   unit: g
   category: Obst
 - de_name: Zitrone
-  en_name: 'TODO: Zitrone'
+  en_name: Lemon
   qty: 1
   unit: Stk
   category: Obst
 - de_name: Zwiebeln
-  en_name: 'TODO: Zwiebeln'
+  en_name: Onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: Garlic cloves
   qty: 3
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Frische Minzblätter
-  en_name: 'TODO: Frische Minzblätter'
+  en_name: Fresh mint leaves
   qty: 0.5
   unit: Bund
   category: Gemüse und Salat
 - de_name: Frische Petersilie
-  en_name: 'TODO: Frische Petersilie'
+  en_name: Fresh parsley
   qty: 0.5
   unit: Bund
   category: Gemüse und Salat
 - de_name: Couscous
-  en_name: 'TODO: Couscous'
+  en_name: Couscous
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 5
   unit: EL
   category: Konserven und Vorrat
 - de_name: Granatapfelsirup
-  en_name: 'TODO: Granatapfelsirup'
+  en_name: Pomegranate molasses
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Gemüsebrühe
-  en_name: 'TODO: Gemüsebrühe'
+  en_name: Vegetable stock
   qty: 350
   unit: ml
   category: Konserven und Vorrat
 - de_name: Za'atar-Gewürzmischung
-  en_name: 'TODO: Za''atar-Gewürzmischung'
+  en_name: Za'atar spice blend
   qty: 3
   unit: EL
   category: Gewürze
 - de_name: Sumach
-  en_name: 'TODO: Sumach'
+  en_name: Sumac
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: Salt
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: Black pepper
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Chilipulver
-  en_name: 'TODO: Chilipulver'
+  en_name: Chili powder
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Hähnchenbrust mit Za'atar, 3 EL Olivenöl, Zitronensaft, gepresstem Knoblauch, Chili, Salz und Pfeffer einreiben. 1 Stunde marinieren.
-- |-
-  Backofen auf 200°C vorheizen. Hähnchen 20–25 Minuten rösten, bis durchgegart. 5 Minuten ruhen lassen, dann in Scheiben schneiden.
-- |-
-  Couscous in eine Schüssel geben. Heiße Gemüsebrühe mit 1 EL Olivenöl und einer Prise Salz darübergießen. 5 Minuten quellen lassen, dann auflockern.
+- Hähnchenbrust mit Za'atar, 3 EL Olivenöl, Zitronensaft, gepresstem Knoblauch, Chili,
+  Salz und Pfeffer einreiben. 1 Stunde marinieren.
+- Backofen auf 200°C vorheizen. Hähnchen 20–25 Minuten rösten, bis durchgegart. 5
+  Minuten ruhen lassen, dann in Scheiben schneiden.
+- Couscous in eine Schüssel geben. Heiße Gemüsebrühe mit 1 EL Olivenöl und einer Prise
+  Salz darübergießen. 5 Minuten quellen lassen, dann auflockern.
 - Zwiebelringe in 1 EL Olivenöl glasig dünsten. Mit Sumach bestreuen.
-- |-
-  Couscous mit Granatapfelsirup, der Hälfte der Granatapfelkerne, Minze und Petersilie vermengen. Mit Salz und Zitronensaft abschmecken.
-- |-
-  Couscous auf Teller verteilen, Hähnchenscheiben darauflegen. Restliche Granatapfelkerne, Zwiebeln und einen weiteren Spritzer Granatapfelsirup darüber geben.
+- Couscous mit Granatapfelsirup, der Hälfte der Granatapfelkerne, Minze und Petersilie
+  vermengen. Mit Salz und Zitronensaft abschmecken.
+- Couscous auf Teller verteilen, Hähnchenscheiben darauflegen. Restliche Granatapfelkerne,
+  Zwiebeln und einen weiteren Spritzer Granatapfelsirup darüber geben.
 en_steps:
-- |-
-  TODO: Hähnchenbrust mit Za'atar, 3 EL Olivenöl, Zitronensaft, gepresstem Knoblauch, Chili, Salz und Pfeffer einreiben. 1 Stunde marinieren.
-- |-
-  TODO: Backofen auf 200°C vorheizen. Hähnchen 20–25 Minuten rösten, bis durchgegart. 5 Minuten ruhen lassen, dann in Scheiben schneiden.
-- |-
-  TODO: Couscous in eine Schüssel geben. Heiße Gemüsebrühe mit 1 EL Olivenöl und einer Prise Salz darübergießen. 5 Minuten quellen lassen, dann auflockern.
-- 'TODO: Zwiebelringe in 1 EL Olivenöl glasig dünsten. Mit Sumach bestreuen.'
-- |-
-  TODO: Couscous mit Granatapfelsirup, der Hälfte der Granatapfelkerne, Minze und Petersilie vermengen. Mit Salz und Zitronensaft abschmecken.
-- |-
-  TODO: Couscous auf Teller verteilen, Hähnchenscheiben darauflegen. Restliche Granatapfelkerne, Zwiebeln und einen weiteren Spritzer Granatapfelsirup darüber geben.
+- Rub the chicken breast with za'atar, 3 tbsp olive oil, lemon juice, pressed garlic,
+  chili, salt, and pepper. Marinate for 1 hour.
+- Preheat the oven to 200 °C. Roast the chicken for 20–25 minutes until cooked through.
+  Rest for 5 minutes, then slice.
+- Place the couscous in a bowl. Pour hot vegetable stock with 1 tbsp olive oil and
+  a pinch of salt over it. Leave to steep for 5 minutes, then fluff with a fork.
+- Sauté the onion rings in 1 tbsp olive oil until soft. Sprinkle with sumac.
+- Mix the couscous with the pomegranate molasses, half the pomegranate seeds, mint,
+  and parsley. Season with salt and lemon juice.
+- Spoon the couscous onto plates and arrange the chicken slices on top. Scatter over
+  the remaining pomegranate seeds and onion rings, and add another drizzle of pomegranate
+  molasses.

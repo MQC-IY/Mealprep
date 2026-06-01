@@ -6,140 +6,141 @@ next_day: true
 meals: 2
 de:
   title: Butter Chicken (Murgh Makhani) mit Basmatireis
-  summary: |-
-    Zartes Hähnchen in einer reichhaltigen, cremigen Tomatensauce mit Butter und Gewürzen – ein indischer Klassiker mit duftendem Basmatireis.
+  summary: Zartes Hähnchen in einer reichhaltigen, cremigen Tomatensauce mit Butter
+    und Gewürzen – ein indischer Klassiker mit duftendem Basmatireis.
 en:
-  title: 'TODO: Butter Chicken (Murgh Makhani) mit Basmatireis'
-  summary: |-
-    TODO: Zartes Hähnchen in einer reichhaltigen, cremigen Tomatensauce mit Butter und Gewürzen – ein indischer Klassiker mit duftendem Basmatireis.
+  title: Butter Chicken (Murgh Makhani) with Basmati Rice
+  summary: Tender chicken in a rich, creamy tomato sauce with butter and warming spices
+    – an Indian classic served with fragrant basmati rice.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 600
   unit: g
   category: Protein und Milchprodukte
 - de_name: Vollfett-Joghurt
-  en_name: 'TODO: Vollfett-Joghurt'
+  en_name: full-fat yogurt
   qty: 150
   unit: g
   category: Protein und Milchprodukte
 - de_name: Butter
-  en_name: 'TODO: Butter'
+  en_name: butter
   qty: 40
   unit: g
   category: Protein und Milchprodukte
 - de_name: Sahne
-  en_name: 'TODO: Sahne'
+  en_name: heavy cream
   qty: 100
   unit: ml
   category: Protein und Milchprodukte
 - de_name: Zwiebeln
-  en_name: 'TODO: Zwiebeln'
+  en_name: onions
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Ingwer, frisch
-  en_name: 'TODO: Ingwer, frisch'
+  en_name: fresh ginger
   qty: 3
   unit: cm
   category: Gemüse und Salat
 - de_name: Basmatireis
-  en_name: 'TODO: Basmatireis'
+  en_name: basmati rice
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Gehackte Tomaten
-  en_name: 'TODO: Gehackte Tomaten'
+  en_name: chopped tomatoes
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Tomatenmark
-  en_name: 'TODO: Tomatenmark'
+  en_name: tomato paste
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Pflanzenöl
-  en_name: 'TODO: Pflanzenöl'
+  en_name: vegetable oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Garam Masala
-  en_name: 'TODO: Garam Masala'
+  en_name: garam masala
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Kurkuma
-  en_name: 'TODO: Kurkuma'
+  en_name: turmeric
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Kreuzkümmel, gemahlen
-  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  en_name: ground cumin
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Koriander, gemahlen
-  en_name: 'TODO: Koriander, gemahlen'
+  en_name: ground coriander
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Paprikapulver
-  en_name: 'TODO: Paprikapulver'
+  en_name: sweet paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Kashmiri-Chilipulver
-  en_name: 'TODO: Kashmiri-Chilipulver'
+  en_name: Kashmiri chili powder
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Zucker
-  en_name: 'TODO: Zucker'
+  en_name: sugar
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Bockshornklee, gemahlen
-  en_name: 'TODO: Bockshornklee, gemahlen'
+  en_name: ground fenugreek
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Hähnchenbrust in mundgerechte Würfel schneiden. Mit Joghurt, 1 TL Garam Masala, Kurkuma, Kashmiri-Chili und einer Prise Salz vermengen. Mindestens 30 Minuten marinieren.
-- |-
-  Öl in einer großen Pfanne erhitzen. Mariniertes Hähnchen bei starker Hitze 5–6 Minuten anbraten, bis es leicht gebräunt ist. Herausnehmen und beiseitestellen.
-- |-
-  Butter in derselben Pfanne schmelzen. Fein gewürfelte Zwiebeln bei mittlerer Hitze 10 Minuten goldbraun anbraten. Knoblauch und geriebenen Ingwer hinzufügen und 2 Minuten mitbraten.
-- |-
-  Kreuzkümmel, Koriander, Paprika, restliches Garam Masala und Bockshornklee in die Pfanne geben und 1 Minute unter Rühren rösten.
-- |-
-  Tomatenmark einrühren, kurz anrösten, dann die gehackten Tomaten hinzufügen. Alles 15 Minuten köcheln lassen, bis die Sauce eindickt. Mit einem Stabmixer glatt pürieren.
-- |-
-  Hähnchen zurück in die Sauce geben. Sahne einrühren, mit Salz und Zucker abschmecken. 10 Minuten bei niedriger Hitze köcheln lassen.
-- |-
-  Basmatireis nach Packungsanweisung garen. Butter Chicken mit dem Reis servieren, nach Belieben mit frischem Koriander bestreuen.
+- Hähnchenbrust in mundgerechte Würfel schneiden. Mit Joghurt, 1 TL Garam Masala,
+  Kurkuma, Kashmiri-Chili und einer Prise Salz vermengen. Mindestens 30 Minuten marinieren.
+- Öl in einer großen Pfanne erhitzen. Mariniertes Hähnchen bei starker Hitze 5–6 Minuten
+  anbraten, bis es leicht gebräunt ist. Herausnehmen und beiseitestellen.
+- Butter in derselben Pfanne schmelzen. Fein gewürfelte Zwiebeln bei mittlerer Hitze
+  10 Minuten goldbraun anbraten. Knoblauch und geriebenen Ingwer hinzufügen und 2
+  Minuten mitbraten.
+- Kreuzkümmel, Koriander, Paprika, restliches Garam Masala und Bockshornklee in die
+  Pfanne geben und 1 Minute unter Rühren rösten.
+- Tomatenmark einrühren, kurz anrösten, dann die gehackten Tomaten hinzufügen. Alles
+  15 Minuten köcheln lassen, bis die Sauce eindickt. Mit einem Stabmixer glatt pürieren.
+- Hähnchen zurück in die Sauce geben. Sahne einrühren, mit Salz und Zucker abschmecken.
+  10 Minuten bei niedriger Hitze köcheln lassen.
+- Basmatireis nach Packungsanweisung garen. Butter Chicken mit dem Reis servieren,
+  nach Belieben mit frischem Koriander bestreuen.
 en_steps:
-- |-
-  TODO: Hähnchenbrust in mundgerechte Würfel schneiden. Mit Joghurt, 1 TL Garam Masala, Kurkuma, Kashmiri-Chili und einer Prise Salz vermengen. Mindestens 30 Minuten marinieren.
-- |-
-  TODO: Öl in einer großen Pfanne erhitzen. Mariniertes Hähnchen bei starker Hitze 5–6 Minuten anbraten, bis es leicht gebräunt ist. Herausnehmen und beiseitestellen.
-- |-
-  TODO: Butter in derselben Pfanne schmelzen. Fein gewürfelte Zwiebeln bei mittlerer Hitze 10 Minuten goldbraun anbraten. Knoblauch und geriebenen Ingwer hinzufügen und 2 Minuten mitbraten.
-- |-
-  TODO: Kreuzkümmel, Koriander, Paprika, restliches Garam Masala und Bockshornklee in die Pfanne geben und 1 Minute unter Rühren rösten.
-- |-
-  TODO: Tomatenmark einrühren, kurz anrösten, dann die gehackten Tomaten hinzufügen. Alles 15 Minuten köcheln lassen, bis die Sauce eindickt. Mit einem Stabmixer glatt pürieren.
-- |-
-  TODO: Hähnchen zurück in die Sauce geben. Sahne einrühren, mit Salz und Zucker abschmecken. 10 Minuten bei niedriger Hitze köcheln lassen.
-- |-
-  TODO: Basmatireis nach Packungsanweisung garen. Butter Chicken mit dem Reis servieren, nach Belieben mit frischem Koriander bestreuen.
+- Cut the chicken breast into bite-sized cubes. Mix with the yogurt, 1 tsp garam masala,
+  turmeric, Kashmiri chili, and a pinch of salt. Marinate for at least 30 minutes.
+- Heat oil in a large pan. Sear the marinated chicken over high heat for 5–6 minutes
+  until lightly browned. Remove and set aside.
+- Melt the butter in the same pan. Sauté the finely diced onions over medium heat
+  for 10 minutes until golden. Add the garlic and grated ginger and cook for 2 minutes.
+- Add the cumin, coriander, paprika, remaining garam masala, and fenugreek to the
+  pan and toast, stirring, for 1 minute.
+- Stir in the tomato paste and toast briefly, then add the chopped tomatoes. Simmer
+  for 15 minutes until the sauce thickens. Blend smooth with a hand blender.
+- Return the chicken to the sauce. Stir in the cream, season with salt and sugar.
+  Simmer over low heat for 10 minutes.
+- Cook the basmati rice according to the packet instructions. Serve the Butter Chicken
+  with the rice, garnished with fresh cilantro if desired.

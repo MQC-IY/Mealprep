@@ -9,46 +9,46 @@ de:
   title: Reisnudel-Pfanne mit Hähnchen und Gemüse
   summary: Reisnudeln mit Hähnchen, Karotten und Paprika, ohne scharfe Sauce.
 en:
-  title: 'TODO: Reisnudel-Pfanne mit Hähnchen und Gemüse'
-  summary: 'TODO: Reisnudeln mit Hähnchen, Karotten und Paprika, ohne scharfe Sauce.'
+  title: Rice Noodle Stir-Fry with Chicken and Vegetables
+  summary: Rice noodles with chicken, carrots, and bell peppers in a light, mild sauce.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 800
   unit: g
   category: Protein und Milchprodukte
 - de_name: Reisnudeln
-  en_name: 'TODO: Reisnudeln'
+  en_name: rice noodles
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Paprika
-  en_name: 'TODO: Paprika'
+  en_name: bell pepper
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: carrots
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Frühlingszwiebeln
-  en_name: 'TODO: Frühlingszwiebeln'
+  en_name: spring onions
   qty: 1
   unit: Bund
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 1
   unit: Zehe
   category: Gemüse und Salat
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -57,6 +57,6 @@ de_steps:
 - Hähnchen klein schneiden und scharf anbraten.
 - Gemüse klein schneiden und mitgaren.
 en_steps:
-- 'TODO: Reisnudeln nach Packungsangabe weich garen.'
-- 'TODO: Hähnchen klein schneiden und scharf anbraten.'
-- 'TODO: Gemüse klein schneiden und mitgaren.'
+- Cook the rice noodles according to package directions until tender.
+- Cut the chicken into small pieces and sear over high heat.
+- Chop the vegetables and cook through.

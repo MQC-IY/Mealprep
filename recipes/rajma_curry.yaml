@@ -6,136 +6,137 @@ next_day: true
 meals: 2
 de:
   title: Rajma – Kidneybohnen-Curry mit Reis
-  summary: |-
-    Cremiges Kidneybohnen-Curry in einer tiefen Tomaten-Zwiebel-Sauce – das nordindische Seelenfutter par excellence.
+  summary: Cremiges Kidneybohnen-Curry in einer tiefen Tomaten-Zwiebel-Sauce – das
+    nordindische Seelenfutter par excellence.
 en:
-  title: 'TODO: Rajma – Kidneybohnen-Curry mit Reis'
-  summary: |-
-    TODO: Cremiges Kidneybohnen-Curry in einer tiefen Tomaten-Zwiebel-Sauce – das nordindische Seelenfutter par excellence.
+  title: Rajma – Kidney Bean Curry with Rice
+  summary: Creamy kidney bean curry in a rich tomato-onion sauce — the ultimate North
+    Indian comfort food.
 ingredients:
 - de_name: Rote Kidneybohnen, gekocht
-  en_name: 'TODO: Rote Kidneybohnen, gekocht'
+  en_name: red kidney beans, cooked
   qty: 2
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Gehackte Tomaten
-  en_name: 'TODO: Gehackte Tomaten'
+  en_name: canned chopped tomatoes
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Tomatenmark
-  en_name: 'TODO: Tomatenmark'
+  en_name: tomato paste
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Pflanzenöl
-  en_name: 'TODO: Pflanzenöl'
+  en_name: vegetable oil
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Butter
-  en_name: 'TODO: Butter'
+  en_name: butter
   qty: 20
   unit: g
   category: Protein und Milchprodukte
 - de_name: Zwiebeln
-  en_name: 'TODO: Zwiebeln'
+  en_name: onions
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 5
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Ingwer, frisch
-  en_name: 'TODO: Ingwer, frisch'
+  en_name: fresh ginger
   qty: 3
   unit: cm
   category: Gemüse und Salat
 - de_name: Tomate
-  en_name: 'TODO: Tomate'
+  en_name: tomatoes
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Grüne Chilischote
-  en_name: 'TODO: Grüne Chilischote'
+  en_name: green chili peppers
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Frische Korianderblätter
-  en_name: 'TODO: Frische Korianderblätter'
+  en_name: fresh cilantro leaves
   qty: 0.5
   unit: Bund
   category: Gemüse und Salat
 - de_name: Basmatireis
-  en_name: 'TODO: Basmatireis'
+  en_name: basmati rice
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Kreuzkümmelsamen
-  en_name: 'TODO: Kreuzkümmelsamen'
+  en_name: cumin seeds
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Kreuzkümmel, gemahlen
-  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  en_name: ground cumin
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Koriander, gemahlen
-  en_name: 'TODO: Koriander, gemahlen'
+  en_name: ground coriander
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Kurkuma
-  en_name: 'TODO: Kurkuma'
+  en_name: turmeric
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Kashmiri-Chilipulver
-  en_name: 'TODO: Kashmiri-Chilipulver'
+  en_name: Kashmiri chili powder
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Garam Masala
-  en_name: 'TODO: Garam Masala'
+  en_name: garam masala
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Amchur (Mangopulver)
-  en_name: 'TODO: Amchur (Mangopulver)'
+  en_name: amchur (mango powder)
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Zwiebeln fein würfeln, Tomaten würfeln, Knoblauch und Ingwer reiben, Chilischoten hacken.
-- |-
-  Öl und Butter in einem schweren Topf erhitzen. Kreuzkümmelsamen knistern lassen. Zwiebeln hineingeben und 12 Minuten dunkelgoldbraun braten.
-- |-
-  Knoblauch-Ingwer-Paste einrühren, 2 Minuten braten. Tomatenmark dazugeben und 2 Minuten rösten.
-- |-
-  Frische und gehackte Dosentomaten, Kurkuma, Kreuzkümmel, Koriander und Kashmiri-Chili einrühren. 10 Minuten köcheln lassen.
-- |-
-  Abgetropfte Kidneybohnen hinzufügen, 200 ml Wasser dazugeben. Alles 20 Minuten bei mittlerer Hitze köcheln. Einige Bohnen mit einem Löffel zerdrücken, um die Sauce zu binden.
-- |-
-  Garam Masala und Amchur einrühren, mit Salz abschmecken. Mit frischem Koriander bestreuen und mit Basmatireis servieren.
+- Zwiebeln fein würfeln, Tomaten würfeln, Knoblauch und Ingwer reiben, Chilischoten
+  hacken.
+- Öl und Butter in einem schweren Topf erhitzen. Kreuzkümmelsamen knistern lassen.
+  Zwiebeln hineingeben und 12 Minuten dunkelgoldbraun braten.
+- Knoblauch-Ingwer-Paste einrühren, 2 Minuten braten. Tomatenmark dazugeben und 2
+  Minuten rösten.
+- Frische und gehackte Dosentomaten, Kurkuma, Kreuzkümmel, Koriander und Kashmiri-Chili
+  einrühren. 10 Minuten köcheln lassen.
+- Abgetropfte Kidneybohnen hinzufügen, 200 ml Wasser dazugeben. Alles 20 Minuten bei
+  mittlerer Hitze köcheln. Einige Bohnen mit einem Löffel zerdrücken, um die Sauce
+  zu binden.
+- Garam Masala und Amchur einrühren, mit Salz abschmecken. Mit frischem Koriander
+  bestreuen und mit Basmatireis servieren.
 en_steps:
-- |-
-  TODO: Zwiebeln fein würfeln, Tomaten würfeln, Knoblauch und Ingwer reiben, Chilischoten hacken.
-- |-
-  TODO: Öl und Butter in einem schweren Topf erhitzen. Kreuzkümmelsamen knistern lassen. Zwiebeln hineingeben und 12 Minuten dunkelgoldbraun braten.
-- |-
-  TODO: Knoblauch-Ingwer-Paste einrühren, 2 Minuten braten. Tomatenmark dazugeben und 2 Minuten rösten.
-- |-
-  TODO: Frische und gehackte Dosentomaten, Kurkuma, Kreuzkümmel, Koriander und Kashmiri-Chili einrühren. 10 Minuten köcheln lassen.
-- |-
-  TODO: Abgetropfte Kidneybohnen hinzufügen, 200 ml Wasser dazugeben. Alles 20 Minuten bei mittlerer Hitze köcheln. Einige Bohnen mit einem Löffel zerdrücken, um die Sauce zu binden.
-- |-
-  TODO: Garam Masala und Amchur einrühren, mit Salz abschmecken. Mit frischem Koriander bestreuen und mit Basmatireis servieren.
+- Finely dice the onions and tomatoes, grate the garlic and ginger, and chop the green
+  chilies.
+- Heat the oil and butter in a heavy pot. Let the cumin seeds splutter. Add the onions
+  and fry for 12 minutes until deep golden brown.
+- Stir in the garlic-ginger paste and fry for 2 minutes. Add the tomato paste and
+  cook for a further 2 minutes.
+- Stir in the fresh tomatoes, canned chopped tomatoes, turmeric, cumin, coriander,
+  and Kashmiri chili. Simmer for 10 minutes.
+- Add the drained kidney beans and 200 ml water. Simmer everything over medium heat
+  for 20 minutes. Crush a few beans with a spoon to thicken the sauce.
+- Stir in the garam masala and amchur, season with salt. Garnish with fresh cilantro
+  and serve with basmati rice.

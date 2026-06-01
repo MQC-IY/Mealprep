@@ -6,105 +6,104 @@ next_day: true
 meals: 2
 de:
   title: Persisches Fesenjan – Hähnchen in Walnuss-Granatapfel-Sauce
-  summary: |-
-    Hähnchen in einer unverwechselbaren, tiefbraunen Walnuss-Granatapfel-Sauce – das Herzstück der persischen Festküche.
+  summary: Hähnchen in einer unverwechselbaren, tiefbraunen Walnuss-Granatapfel-Sauce
+    – das Herzstück der persischen Festküche.
 en:
-  title: 'TODO: Persisches Fesenjan – Hähnchen in Walnuss-Granatapfel-Sauce'
-  summary: |-
-    TODO: Hähnchen in einer unverwechselbaren, tiefbraunen Walnuss-Granatapfel-Sauce – das Herzstück der persischen Festküche.
+  title: Fesenjaan – Persian Chicken in Walnut & Pomegranate Sauce
+  summary: Chicken simmered in a uniquely deep, dark walnut-pomegranate sauce — the
+    jewel of Persian festive cooking.
 ingredients:
 - de_name: Hähnchenschenkel, ohne Knochen
-  en_name: 'TODO: Hähnchenschenkel, ohne Knochen'
+  en_name: Boneless chicken thighs
   qty: 600
   unit: g
   category: Protein und Milchprodukte
 - de_name: Walnüsse
-  en_name: 'TODO: Walnüsse'
+  en_name: Walnuts
   qty: 250
   unit: g
   category: Konserven und Vorrat
 - de_name: Granatapfelsirup (Pomegranate Molasses)
-  en_name: 'TODO: Granatapfelsirup (Pomegranate Molasses)'
+  en_name: Pomegranate molasses
   qty: 80
   unit: ml
   category: Konserven und Vorrat
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: Chicken stock
   qty: 400
   unit: ml
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Zwiebeln
-  en_name: 'TODO: Zwiebeln'
+  en_name: Onions
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Granatapfelkerne, frisch
-  en_name: 'TODO: Granatapfelkerne, frisch'
+  en_name: Fresh pomegranate seeds
   qty: 100
   unit: g
   category: Obst
 - de_name: Basmatireis
-  en_name: 'TODO: Basmatireis'
+  en_name: Basmati rice
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Safranfäden
-  en_name: 'TODO: Safranfäden'
+  en_name: Saffron threads
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Zimtpulver
-  en_name: 'TODO: Zimtpulver'
+  en_name: Ground cinnamon
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Kardamom, gemahlen
-  en_name: 'TODO: Kardamom, gemahlen'
+  en_name: Ground cardamom
   qty: 0.25
   unit: TL
   category: Gewürze
 - de_name: Zucker
-  en_name: 'TODO: Zucker'
+  en_name: Sugar
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: Salt
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: Black pepper
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Walnüsse in einer trockenen Pfanne goldbraun rösten, abkühlen lassen und im Mixer sehr fein mahlen – bis sie eine fettige, mehlförmige Konsistenz haben.
-- |-
-  Safran in 2 EL warmem Wasser einweichen. Zwiebeln fein würfeln und in Olivenöl 12 Minuten goldbraun anbraten.
+- Walnüsse in einer trockenen Pfanne goldbraun rösten, abkühlen lassen und im Mixer
+  sehr fein mahlen – bis sie eine fettige, mehlförmige Konsistenz haben.
+- Safran in 2 EL warmem Wasser einweichen. Zwiebeln fein würfeln und in Olivenöl 12
+  Minuten goldbraun anbraten.
 - Hähnchen dazugeben und von allen Seiten anbraten. Gemahlene Walnüsse einrühren.
-- |-
-  Hühnerbrühe, Granatapfelsirup, Safranwasser, Zimt und Kardamom hinzufügen. Gut verrühren, aufkochen.
-- |-
-  Bei niedriger Hitze 45–60 Minuten unabgedeckt köcheln lassen, bis die Sauce tief dunkelbraun ist und sich das Walnussöl oben absetzt. Gelegentlich rühren.
-- |-
-  Mit Zucker und Salz nach Geschmack abschmecken – die Sauce soll süß-säuerlich-herb sein. Mit Basmatireis und frischen Granatapfelkernen servieren.
+- Hühnerbrühe, Granatapfelsirup, Safranwasser, Zimt und Kardamom hinzufügen. Gut verrühren,
+  aufkochen.
+- Bei niedriger Hitze 45–60 Minuten unabgedeckt köcheln lassen, bis die Sauce tief
+  dunkelbraun ist und sich das Walnussöl oben absetzt. Gelegentlich rühren.
+- Mit Zucker und Salz nach Geschmack abschmecken – die Sauce soll süß-säuerlich-herb
+  sein. Mit Basmatireis und frischen Granatapfelkernen servieren.
 en_steps:
-- |-
-  TODO: Walnüsse in einer trockenen Pfanne goldbraun rösten, abkühlen lassen und im Mixer sehr fein mahlen – bis sie eine fettige, mehlförmige Konsistenz haben.
-- |-
-  TODO: Safran in 2 EL warmem Wasser einweichen. Zwiebeln fein würfeln und in Olivenöl 12 Minuten goldbraun anbraten.
-- |-
-  TODO: Hähnchen dazugeben und von allen Seiten anbraten. Gemahlene Walnüsse einrühren.
-- |-
-  TODO: Hühnerbrühe, Granatapfelsirup, Safranwasser, Zimt und Kardamom hinzufügen. Gut verrühren, aufkochen.
-- |-
-  TODO: Bei niedriger Hitze 45–60 Minuten unabgedeckt köcheln lassen, bis die Sauce tief dunkelbraun ist und sich das Walnussöl oben absetzt. Gelegentlich rühren.
-- |-
-  TODO: Mit Zucker und Salz nach Geschmack abschmecken – die Sauce soll süß-säuerlich-herb sein. Mit Basmatireis und frischen Granatapfelkernen servieren.
+- Toast the walnuts in a dry pan until golden, let cool, then grind very finely in
+  a blender until they reach a fatty, flour-like consistency.
+- Soak saffron in 2 tbsp warm water. Finely dice the onions and sauté in olive oil
+  for 12 minutes until golden.
+- Add the chicken and brown on all sides. Stir in the ground walnuts.
+- Add chicken stock, pomegranate molasses, saffron water, cinnamon, and cardamom.
+  Stir well and bring to a boil.
+- Simmer uncovered over low heat for 45–60 minutes until the sauce is a deep dark
+  brown and the walnut oil rises to the surface. Stir occasionally.
+- Season to taste with sugar and salt — the sauce should be sweet, sour, and slightly
+  bitter. Serve with basmati rice and fresh pomegranate seeds.

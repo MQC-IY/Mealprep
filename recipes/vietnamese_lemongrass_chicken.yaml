@@ -6,108 +6,108 @@ next_day: true
 meals: 2
 de:
   title: Vietnamesisches Zitronengras-Hähnchen mit Reis
-  summary: |-
-    Würziges Hähnchen mit aromatischem Zitronengras, Chili und Fischsauce, in der Pfanne karamellisiert und über Jasminreis serviert.
+  summary: Würziges Hähnchen mit aromatischem Zitronengras, Chili und Fischsauce,
+    in der Pfanne karamellisiert und über Jasminreis serviert.
 en:
-  title: 'TODO: Vietnamesisches Zitronengras-Hähnchen mit Reis'
-  summary: |-
-    TODO: Würziges Hähnchen mit aromatischem Zitronengras, Chili und Fischsauce, in der Pfanne karamellisiert und über Jasminreis serviert.
+  title: Vietnamese Lemongrass Chicken with Rice
+  summary: Aromatic chicken caramelised in a pan with lemongrass, chili, and fish
+    sauce, served over jasmine rice.
 ingredients:
 - de_name: Hähnchenoberschenkel (ausgelöst)
-  en_name: 'TODO: Hähnchenoberschenkel (ausgelöst)'
+  en_name: boneless chicken thighs
   qty: 500
   unit: g
   category: Protein und Milchprodukte
 - de_name: Jasminreis
-  en_name: 'TODO: Jasminreis'
+  en_name: jasmine rice
   qty: 200
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Zitronengras
-  en_name: 'TODO: Zitronengras'
+  en_name: lemongrass
   qty: 3
   unit: Stange
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Schalotten
-  en_name: 'TODO: Schalotten'
+  en_name: shallots
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Frische rote Chili
-  en_name: 'TODO: Frische rote Chili'
+  en_name: fresh red chili
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Frischer Koriander
-  en_name: 'TODO: Frischer Koriander'
+  en_name: fresh cilantro
   qty: 0.5
   unit: Bund
   category: Gemüse und Salat
 - de_name: Fischsauce
-  en_name: 'TODO: Fischsauce'
+  en_name: fish sauce
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Erdnussöl
-  en_name: 'TODO: Erdnussöl'
+  en_name: peanut oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Zucker
-  en_name: 'TODO: Zucker'
+  en_name: sugar
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Limette
-  en_name: 'TODO: Limette'
+  en_name: lime
   qty: 1
   unit: Stk
   category: Obst
 - de_name: Kurkuma, gemahlen
-  en_name: 'TODO: Kurkuma, gemahlen'
+  en_name: ground turmeric
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer, gemahlen
-  en_name: 'TODO: Schwarzer Pfeffer, gemahlen'
+  en_name: ground black pepper
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Getrocknete Chiliflocken
-  en_name: 'TODO: Getrocknete Chiliflocken'
+  en_name: dried chili flakes
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
 - Jasminreis waschen und kochen.
-- |-
-  Zitronengras (nur das untere Drittel) fein hacken. Knoblauch und Schalotten fein hacken. Chili in Ringe schneiden.
+- Zitronengras (nur das untere Drittel) fein hacken. Knoblauch und Schalotten fein
+  hacken. Chili in Ringe schneiden.
 - Hähnchenoberschenkel in mundgerechte Stücke schneiden.
-- |-
-  Hähnchen mit Fischsauce, Kurkuma, Pfeffer, Zitronengras (2/3) und Zucker vermischen. 15 Minuten marinieren.
-- |-
-  Öl im Wok oder einer schweren Pfanne bei starker Hitze erhitzen. Schalotten und Knoblauch 1 Minute anbraten.
-- |-
-  Hähnchen zugeben und von allen Seiten 6–8 Minuten scharf braten, bis es durchgegart und leicht karamellisiert ist.
+- Hähnchen mit Fischsauce, Kurkuma, Pfeffer, Zitronengras (2/3) und Zucker vermischen.
+  15 Minuten marinieren.
+- Öl im Wok oder einer schweren Pfanne bei starker Hitze erhitzen. Schalotten und
+  Knoblauch 1 Minute anbraten.
+- Hähnchen zugeben und von allen Seiten 6–8 Minuten scharf braten, bis es durchgegart
+  und leicht karamellisiert ist.
 - Restliches Zitronengras und Chili zugeben, 1 Minute mitbraten.
-- |-
-  Mit Limettensaft abschmecken. Mit Chiliflocken bestreuen. Über Reis anrichten und mit Koriander garnieren.
+- Mit Limettensaft abschmecken. Mit Chiliflocken bestreuen. Über Reis anrichten und
+  mit Koriander garnieren.
 en_steps:
-- 'TODO: Jasminreis waschen und kochen.'
-- |-
-  TODO: Zitronengras (nur das untere Drittel) fein hacken. Knoblauch und Schalotten fein hacken. Chili in Ringe schneiden.
-- 'TODO: Hähnchenoberschenkel in mundgerechte Stücke schneiden.'
-- |-
-  TODO: Hähnchen mit Fischsauce, Kurkuma, Pfeffer, Zitronengras (2/3) und Zucker vermischen. 15 Minuten marinieren.
-- |-
-  TODO: Öl im Wok oder einer schweren Pfanne bei starker Hitze erhitzen. Schalotten und Knoblauch 1 Minute anbraten.
-- |-
-  TODO: Hähnchen zugeben und von allen Seiten 6–8 Minuten scharf braten, bis es durchgegart und leicht karamellisiert ist.
-- 'TODO: Restliches Zitronengras und Chili zugeben, 1 Minute mitbraten.'
-- |-
-  TODO: Mit Limettensaft abschmecken. Mit Chiliflocken bestreuen. Über Reis anrichten und mit Koriander garnieren.
+- Rinse the jasmine rice and cook.
+- Finely chop the lemongrass (lower third only). Finely chop the garlic and shallots.
+  Slice the chili into rings.
+- Cut the chicken thighs into bite-sized pieces.
+- Toss the chicken with the fish sauce, turmeric, pepper, two-thirds of the lemongrass,
+  and sugar. Marinate for 15 minutes.
+- Heat the oil in a wok or heavy skillet over high heat. Fry the shallots and garlic
+  for 1 minute.
+- Add the chicken and fry on all sides for 6–8 minutes until cooked through and lightly
+  caramelised.
+- Add the remaining lemongrass and the chili and fry for 1 more minute.
+- Season with lime juice. Scatter with chili flakes. Serve over the rice and garnish
+  with cilantro.

@@ -6,107 +6,107 @@ next_day: true
 meals: 2
 de:
   title: Rumänisches Hähnchen mit Mămăligă (Polenta)
-  summary: |-
-    Rumänisches Soulfood: geschmortes Hähnchen in Tomatensauce mit Knoblauch und Thymian auf cremiger, goldener Polenta.
+  summary: 'Rumänisches Soulfood: geschmortes Hähnchen in Tomatensauce mit Knoblauch
+    und Thymian auf cremiger, goldener Polenta.'
 en:
-  title: 'TODO: Rumänisches Hähnchen mit Mămăligă (Polenta)'
-  summary: |-
-    TODO: Rumänisches Soulfood: geschmortes Hähnchen in Tomatensauce mit Knoblauch und Thymian auf cremiger, goldener Polenta.
+  title: Romanian Chicken with Mămăligă (Polenta)
+  summary: 'Romanian soul food: braised chicken in a tomato sauce with garlic and
+    thyme, served on creamy golden polenta.'
 ingredients:
 - de_name: Hähnchenschenkel
-  en_name: 'TODO: Hähnchenschenkel'
+  en_name: chicken thighs
   qty: 600
   unit: g
   category: Protein und Milchprodukte
 - de_name: Sauerrahm
-  en_name: 'TODO: Sauerrahm'
+  en_name: sour cream
   qty: 100
   unit: g
   category: Protein und Milchprodukte
 - de_name: Butter
-  en_name: 'TODO: Butter'
+  en_name: butter
   qty: 40
   unit: g
   category: Protein und Milchprodukte
 - de_name: Polenta (Maisgrieß, grob)
-  en_name: 'TODO: Polenta (Maisgrieß, grob)'
+  en_name: polenta (coarse cornmeal)
   qty: 200
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Gehackte Tomaten
-  en_name: 'TODO: Gehackte Tomaten'
+  en_name: canned chopped tomatoes
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: chicken broth
   qty: 300
   unit: ml
   category: Konserven und Vorrat
 - de_name: Sonnenblumenöl
-  en_name: 'TODO: Sonnenblumenöl'
+  en_name: sunflower oil
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Zwiebeln
-  en_name: 'TODO: Zwiebeln'
+  en_name: onions
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 5
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Frischer Thymian oder Bund Thymian
-  en_name: 'TODO: Frischer Thymian oder Bund Thymian'
+  en_name: fresh thyme sprigs
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Paprikapulver, süß
-  en_name: 'TODO: Paprikapulver, süß'
+  en_name: sweet paprika
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Lorbeerblätter
-  en_name: 'TODO: Lorbeerblätter'
+  en_name: bay leaves
   qty: 2
   unit: Stk
   category: Gewürze
 de_steps:
-- |-
-  Hähnchenschenkel salzen, pfeffern und mit Paprikapulver einreiben. Öl in einem Schmortopf erhitzen und Hähnchen von allen Seiten kräftig anbraten. Herausnehmen.
-- |-
-  Zwiebeln würfeln und im Bratfett 6 Minuten anschwitzen. Knoblauch hacken und hinzufügen. Gehackte Tomaten, Hühnerbrühe, Thymianzweige, Lorbeerblätter und Chiliflocken hinzufügen.
-- |-
-  Hähnchen zurücklegen. Zugedeckt 40 Minuten bei mittlerer Hitze schmoren. Lorbeer und Thymian entfernen. Sauerrahm einrühren.
-- |-
-  Für die Mămăligă: 800 ml Salzwasser mit Butter zum Kochen bringen. Polenta unter ständigem Rühren einrieseln lassen. Hitze reduzieren und unter häufigem Rühren 10 Minuten köcheln, bis die Polenta dick und cremig ist.
-- |-
-  Polenta in tiefe Teller löffeln, Hähnchen und Sauce darüber anrichten. Sofort servieren.
+- Hähnchenschenkel salzen, pfeffern und mit Paprikapulver einreiben. Öl in einem Schmortopf
+  erhitzen und Hähnchen von allen Seiten kräftig anbraten. Herausnehmen.
+- Zwiebeln würfeln und im Bratfett 6 Minuten anschwitzen. Knoblauch hacken und hinzufügen.
+  Gehackte Tomaten, Hühnerbrühe, Thymianzweige, Lorbeerblätter und Chiliflocken hinzufügen.
+- Hähnchen zurücklegen. Zugedeckt 40 Minuten bei mittlerer Hitze schmoren. Lorbeer
+  und Thymian entfernen. Sauerrahm einrühren.
+- 'Für die Mămăligă: 800 ml Salzwasser mit Butter zum Kochen bringen. Polenta unter
+  ständigem Rühren einrieseln lassen. Hitze reduzieren und unter häufigem Rühren 10
+  Minuten köcheln, bis die Polenta dick und cremig ist.'
+- Polenta in tiefe Teller löffeln, Hähnchen und Sauce darüber anrichten. Sofort servieren.
 en_steps:
-- |-
-  TODO: Hähnchenschenkel salzen, pfeffern und mit Paprikapulver einreiben. Öl in einem Schmortopf erhitzen und Hähnchen von allen Seiten kräftig anbraten. Herausnehmen.
-- |-
-  TODO: Zwiebeln würfeln und im Bratfett 6 Minuten anschwitzen. Knoblauch hacken und hinzufügen. Gehackte Tomaten, Hühnerbrühe, Thymianzweige, Lorbeerblätter und Chiliflocken hinzufügen.
-- |-
-  TODO: Hähnchen zurücklegen. Zugedeckt 40 Minuten bei mittlerer Hitze schmoren. Lorbeer und Thymian entfernen. Sauerrahm einrühren.
-- |-
-  TODO: Für die Mămăligă: 800 ml Salzwasser mit Butter zum Kochen bringen. Polenta unter ständigem Rühren einrieseln lassen. Hitze reduzieren und unter häufigem Rühren 10 Minuten köcheln, bis die Polenta dick und cremig ist.
-- |-
-  TODO: Polenta in tiefe Teller löffeln, Hähnchen und Sauce darüber anrichten. Sofort servieren.
+- Season the chicken thighs with salt, pepper, and paprika. Heat the oil in a braising
+  pot and brown the chicken on all sides. Remove.
+- Dice the onions and sauté in the remaining fat for 6 minutes. Add the garlic. Add
+  the chopped tomatoes, chicken broth, thyme sprigs, bay leaves, and chili flakes.
+- Return the chicken. Cover and braise over medium heat for 40 minutes. Remove the
+  bay leaves and thyme. Stir in the sour cream.
+- 'For the Mămăligă: bring 800 ml salted water with butter to a boil. Gradually whisk
+  in the polenta. Reduce the heat and stir frequently for 10 minutes until thick and
+  creamy.'
+- Spoon the polenta into deep plates and top with the chicken and sauce. Serve immediately.

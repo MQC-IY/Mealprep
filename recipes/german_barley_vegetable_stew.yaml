@@ -6,112 +6,113 @@ next_day: true
 meals: 2
 de:
   title: Eintopf mit Graupen und Gemüse
-  summary: |-
-    Rustikaler, bekömmlicher Eintopf mit Perlgraupen, Wurzelgemüse und Kümmel – der unterschätzte Klassiker der deutschen Hausküche.
+  summary: Rustikaler, bekömmlicher Eintopf mit Perlgraupen, Wurzelgemüse und Kümmel
+    – der unterschätzte Klassiker der deutschen Hausküche.
 en:
-  title: 'TODO: Eintopf mit Graupen und Gemüse'
-  summary: |-
-    TODO: Rustikaler, bekömmlicher Eintopf mit Perlgraupen, Wurzelgemüse und Kümmel – der unterschätzte Klassiker der deutschen Hausküche.
+  title: German Barley & Vegetable Stew
+  summary: Rustic, nourishing stew with pearl barley, root vegetables, and caraway
+    — the underrated classic of the German home kitchen.
 ingredients:
 - de_name: Perlgraupen
-  en_name: 'TODO: Perlgraupen'
+  en_name: Pearl barley
   qty: 150
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Gemüsebrühe
-  en_name: 'TODO: Gemüsebrühe'
+  en_name: Vegetable stock
   qty: 1.2
   unit: Liter
   category: Konserven und Vorrat
 - de_name: Olivenöl oder Butterschmalz
-  en_name: 'TODO: Olivenöl oder Butterschmalz'
+  en_name: Olive oil or clarified butter
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Lorbeerblätter
-  en_name: 'TODO: Lorbeerblätter'
+  en_name: Bay leaves
   qty: 2
   unit: Stk
   category: Konserven und Vorrat
 - de_name: Karotten
-  en_name: 'TODO: Karotten'
+  en_name: Carrots
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Kartoffeln
-  en_name: 'TODO: Kartoffeln'
+  en_name: Potatoes
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knollensellerie
-  en_name: 'TODO: Knollensellerie'
+  en_name: Celeriac
   qty: 200
   unit: g
   category: Gemüse und Salat
 - de_name: Staudensellerie
-  en_name: 'TODO: Staudensellerie'
+  en_name: Celery stalks
   qty: 2
   unit: Stange
   category: Gemüse und Salat
 - de_name: Pastinake
-  en_name: 'TODO: Pastinake'
+  en_name: Parsnips
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zwiebeln
-  en_name: 'TODO: Zwiebeln'
+  en_name: Onions
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: Garlic cloves
   qty: 3
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Glatte Petersilie
-  en_name: 'TODO: Glatte Petersilie'
+  en_name: Flat-leaf parsley
   qty: 1
   unit: Bund
   category: Gemüse und Salat
 - de_name: Kümmel (ganz)
-  en_name: 'TODO: Kümmel (ganz)'
+  en_name: Caraway seeds (whole)
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Majoran, getrocknet
-  en_name: 'TODO: Majoran, getrocknet'
+  en_name: Dried marjoram
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: Salt
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: Black pepper
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Karotten, Kartoffeln, Sellerie und Pastinake in 2 cm große Würfel schneiden. Zwiebeln würfeln.
-- |-
-  Öl in einem großen Topf erhitzen. Zwiebeln 5 Minuten anschwitzen. Knoblauch und Kümmel hinzufügen, 1 Minute rösten.
-- |-
-  Perlgraupen einrühren, kurz mit anschwitzen. Gemüsebrühe aufgießen, Lorbeerblätter einlegen. Zum Kochen bringen.
-- |-
-  Karotten, Kartoffeln, Sellerie und Pastinake einrühren. Majoran, Salz und Pfeffer hinzufügen. Hitze reduzieren und 35 Minuten zugedeckt köcheln, bis Graupen und Gemüse weich sind.
-- |-
-  Lorbeerblätter entfernen. Kräftig abschmecken. Gehackte Petersilie einrühren. Mit Vollkornbrot servieren.
+- Karotten, Kartoffeln, Sellerie und Pastinake in 2 cm große Würfel schneiden. Zwiebeln
+  würfeln.
+- Öl in einem großen Topf erhitzen. Zwiebeln 5 Minuten anschwitzen. Knoblauch und
+  Kümmel hinzufügen, 1 Minute rösten.
+- Perlgraupen einrühren, kurz mit anschwitzen. Gemüsebrühe aufgießen, Lorbeerblätter
+  einlegen. Zum Kochen bringen.
+- Karotten, Kartoffeln, Sellerie und Pastinake einrühren. Majoran, Salz und Pfeffer
+  hinzufügen. Hitze reduzieren und 35 Minuten zugedeckt köcheln, bis Graupen und Gemüse
+  weich sind.
+- Lorbeerblätter entfernen. Kräftig abschmecken. Gehackte Petersilie einrühren. Mit
+  Vollkornbrot servieren.
 en_steps:
-- |-
-  TODO: Karotten, Kartoffeln, Sellerie und Pastinake in 2 cm große Würfel schneiden. Zwiebeln würfeln.
-- |-
-  TODO: Öl in einem großen Topf erhitzen. Zwiebeln 5 Minuten anschwitzen. Knoblauch und Kümmel hinzufügen, 1 Minute rösten.
-- |-
-  TODO: Perlgraupen einrühren, kurz mit anschwitzen. Gemüsebrühe aufgießen, Lorbeerblätter einlegen. Zum Kochen bringen.
-- |-
-  TODO: Karotten, Kartoffeln, Sellerie und Pastinake einrühren. Majoran, Salz und Pfeffer hinzufügen. Hitze reduzieren und 35 Minuten zugedeckt köcheln, bis Graupen und Gemüse weich sind.
-- |-
-  TODO: Lorbeerblätter entfernen. Kräftig abschmecken. Gehackte Petersilie einrühren. Mit Vollkornbrot servieren.
+- Cut the carrots, potatoes, celeriac, and parsnip into 2 cm cubes. Dice the onions.
+- Heat the oil in a large pot. Sweat the onions for 5 minutes. Add garlic and caraway
+  seeds and toast for 1 minute.
+- Stir in the pearl barley and briefly sauté. Pour in the vegetable stock and add
+  the bay leaves. Bring to a boil.
+- Stir in the carrots, potatoes, celeriac, and parsnip. Add marjoram, salt, and pepper.
+  Reduce the heat and simmer covered for 35 minutes until the barley and vegetables
+  are tender.
+- Remove the bay leaves. Season generously. Stir in the chopped parsley. Serve with
+  wholegrain bread.

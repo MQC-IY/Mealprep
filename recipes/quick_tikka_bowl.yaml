@@ -7,105 +7,105 @@ quick_minutes: 28
 meals: 2
 de:
   title: Hähnchen-Tikka-Masala-Bowl (schnell)
-  summary: |-
-    Schnelle Variante des Klassikers: Hähnchen in cremiger Tomaten-Kokos-Tikka-Sauce mit intensiven Gewürzen, fertig in unter 30 Minuten – kein langes Marinieren nötig.
+  summary: 'Schnelle Variante des Klassikers: Hähnchen in cremiger Tomaten-Kokos-Tikka-Sauce
+    mit intensiven Gewürzen, fertig in unter 30 Minuten – kein langes Marinieren nötig.'
 en:
-  title: 'TODO: Hähnchen-Tikka-Masala-Bowl (schnell)'
-  summary: |-
-    TODO: Schnelle Variante des Klassikers: Hähnchen in cremiger Tomaten-Kokos-Tikka-Sauce mit intensiven Gewürzen, fertig in unter 30 Minuten – kein langes Marinieren nötig.
+  title: Quick Chicken Tikka Masala Bowl
+  summary: 'A speedy take on the classic: chicken in a creamy tomato-coconut Tikka
+    sauce with bold spices — ready in under 30 minutes, no long marinating needed.'
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: Chicken breast
   qty: 750
   unit: g
   category: Protein und Milchprodukte
 - de_name: Kokosmilch
-  en_name: 'TODO: Kokosmilch'
+  en_name: Coconut milk
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Passierte Tomaten
-  en_name: 'TODO: Passierte Tomaten'
+  en_name: Strained tomatoes (passata)
   qty: 400
   unit: ml
   category: Konserven und Vorrat
 - de_name: Tomatenmark
-  en_name: 'TODO: Tomatenmark'
+  en_name: Tomato paste
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Rapsöl
-  en_name: 'TODO: Rapsöl'
+  en_name: Canola oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Basmatireis
-  en_name: 'TODO: Basmatireis'
+  en_name: Basmati rice
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: Onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: Garlic
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Ingwer, frisch
-  en_name: 'TODO: Ingwer, frisch'
+  en_name: Fresh ginger
   qty: 25
   unit: g
   category: Gemüse und Salat
 - de_name: Koriander, frisch
-  en_name: 'TODO: Koriander, frisch'
+  en_name: Fresh cilantro
   qty: 0.5
   unit: Bund
   category: Gemüse und Salat
 - de_name: Garam Masala
-  en_name: 'TODO: Garam Masala'
+  en_name: Garam masala
   qty: 2.5
   unit: TL
   category: Gewürze
 - de_name: Kurkuma
-  en_name: 'TODO: Kurkuma'
+  en_name: Turmeric
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Paprika edelsüß
-  en_name: 'TODO: Paprika edelsüß'
+  en_name: Sweet paprika
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Kreuzkümmel, gemahlen
-  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  en_name: Cumin, ground
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chili flakes
   qty: 1.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Hähnchen in Würfel schneiden. Mit Garam Masala, Kurkuma und Salz direkt in der Pfanne würzen – kein Vormarinieren.
+- Hähnchen in Würfel schneiden. Mit Garam Masala, Kurkuma und Salz direkt in der Pfanne
+  würzen – kein Vormarinieren.
 - Reis gleichzeitig aufsetzen.
 - Hähnchen in heißem Öl scharf anbraten, herausnehmen.
-- |-
-  Im gleichen Topf Zwiebel 5 Minuten braten. Knoblauch, Ingwer, Paprika, Kreuzkümmel und Chiliflocken zugeben, 1 Minute rösten. Tomatenmark einrühren.
+- Im gleichen Topf Zwiebel 5 Minuten braten. Knoblauch, Ingwer, Paprika, Kreuzkümmel
+  und Chiliflocken zugeben, 1 Minute rösten. Tomatenmark einrühren.
 - Passierte Tomaten und Kokosmilch zugießen. 10 Minuten köcheln lassen.
-- |-
-  Hähnchen zurück in die Sauce geben, 5 Minuten mitgaren. Mit Salz und ggf. mehr Chiliflocken abschmecken. Mit Koriander bestreuen.
+- Hähnchen zurück in die Sauce geben, 5 Minuten mitgaren. Mit Salz und ggf. mehr Chiliflocken
+  abschmecken. Mit Koriander bestreuen.
 en_steps:
-- |-
-  TODO: Hähnchen in Würfel schneiden. Mit Garam Masala, Kurkuma und Salz direkt in der Pfanne würzen – kein Vormarinieren.
-- 'TODO: Reis gleichzeitig aufsetzen.'
-- 'TODO: Hähnchen in heißem Öl scharf anbraten, herausnehmen.'
-- |-
-  TODO: Im gleichen Topf Zwiebel 5 Minuten braten. Knoblauch, Ingwer, Paprika, Kreuzkümmel und Chiliflocken zugeben, 1 Minute rösten. Tomatenmark einrühren.
-- 'TODO: Passierte Tomaten und Kokosmilch zugießen. 10 Minuten köcheln lassen.'
-- |-
-  TODO: Hähnchen zurück in die Sauce geben, 5 Minuten mitgaren. Mit Salz und ggf. mehr Chiliflocken abschmecken. Mit Koriander bestreuen.
+- Cut the chicken into cubes. Season directly in the pan with garam masala, turmeric,
+  and salt — no pre-marinating needed.
+- Start the rice at the same time.
+- Sear the chicken in hot oil until cooked through, then remove.
+- In the same pot, fry the onion for 5 minutes. Add the garlic, ginger, paprika, cumin,
+  and chili flakes, toast for 1 minute, then stir in the tomato paste.
+- Pour in the strained tomatoes and coconut milk. Simmer for 10 minutes.
+- Return the chicken to the sauce and cook for 5 more minutes. Season with salt and
+  additional chili flakes to taste. Scatter fresh cilantro over the top.

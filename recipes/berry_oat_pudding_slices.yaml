@@ -2,67 +2,66 @@ id: berry_oat_pudding_slices
 pool: dessert
 de:
   title: Beeren-Hafer-Schnitten mit leichter Puddingcreme
-  summary: |-
-    Weiche Hafer-Schnitten mit Beeren und einer einfachen, wenig süßen Vanille-Puddingcreme.
+  summary: Weiche Hafer-Schnitten mit Beeren und einer einfachen, wenig süßen Vanille-Puddingcreme.
 en:
-  title: 'TODO: Beeren-Hafer-Schnitten mit leichter Puddingcreme'
-  summary: |-
-    TODO: Weiche Hafer-Schnitten mit Beeren und einer einfachen, wenig süßen Vanille-Puddingcreme.
+  title: Berry Oat Pudding Slices
+  summary: Soft oat slices with berries and a simple, lightly sweetened vanilla pudding
+    cream.
 ingredients:
 - de_name: Beeren, frisch oder TK
-  en_name: 'TODO: Beeren, frisch oder TK'
+  en_name: berries, fresh or frozen
   qty: 300
   unit: g
   category: Obst
 - de_name: Haferflocken
-  en_name: 'TODO: Haferflocken'
+  en_name: rolled oats
   qty: 180
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Dinkelmehl
-  en_name: 'TODO: Dinkelmehl'
+  en_name: spelt flour
   qty: 100
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Milch oder Haferdrink
-  en_name: 'TODO: Milch oder Haferdrink'
+  en_name: milk or oat drink
   qty: 500
   unit: ml
   category: Protein und Milchprodukte
 - de_name: Vanille-Puddingpulver
-  en_name: 'TODO: Vanille-Puddingpulver'
+  en_name: vanilla pudding powder
   qty: 1
   unit: Packung
   category: Konserven und Vorrat
 - de_name: Eier
-  en_name: 'TODO: Eier'
+  en_name: eggs
   qty: 2
   unit: Stk
   category: Protein und Milchprodukte
 - de_name: Honig
-  en_name: 'TODO: Honig'
+  en_name: honey
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Backpulver
-  en_name: 'TODO: Backpulver'
+  en_name: baking powder
   qty: 1
   unit: Packung
   category: Konserven und Vorrat
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Haferflocken, Dinkelmehl, Eier, 1 EL Honig und Backpulver zu einem weichen Teig verrühren.
+- Haferflocken, Dinkelmehl, Eier, 1 EL Honig und Backpulver zu einem weichen Teig
+  verrühren.
 - Beeren unterheben und bei 180 Grad etwa 25 Minuten backen.
 - Aus Milch, Puddingpulver und 1 EL Honig eine milde Puddingcreme kochen.
 - Pudding dünn auf den abgekühlten Schnitten verteilen.
 en_steps:
-- |-
-  TODO: Haferflocken, Dinkelmehl, Eier, 1 EL Honig und Backpulver zu einem weichen Teig verrühren.
-- 'TODO: Beeren unterheben und bei 180 Grad etwa 25 Minuten backen.'
-- 'TODO: Aus Milch, Puddingpulver und 1 EL Honig eine milde Puddingcreme kochen.'
-- 'TODO: Pudding dünn auf den abgekühlten Schnitten verteilen.'
+- Mix rolled oats, spelt flour, eggs, 1 tbsp honey, and baking powder into a soft
+  dough.
+- Fold in berries and bake at 180 °C (350 °F) for about 25 minutes.
+- Cook a light pudding cream from milk, pudding powder, and 1 tbsp honey.
+- Spread the pudding thinly over the cooled slices.

@@ -4,67 +4,77 @@ healthy: true
 meals: 8
 de:
   title: Schokoladenmousse mit Avocado
-  summary: "Überraschend cremiges Schokoladenmousse auf Avocado-Basis mit Kakaopulver und Agavendicksaft — ohne Sahne, reich an gesunden Fetten und intensiv im Geschmack."
+  summary: Überraschend cremiges Schokoladenmousse auf Avocado-Basis mit Kakaopulver
+    und Agavendicksaft — ohne Sahne, reich an gesunden Fetten und intensiv im Geschmack.
 en:
-  title: "TODO: Schokoladenmousse mit Avocado"
-  summary: "TODO: Überraschend cremiges Schokoladenmousse auf Avocado-Basis mit Kakaopulver und Agavendicksaft — ohne Sahne, reich an gesunden Fetten und intensiv im Geschmack."
+  title: Chocolate Avocado Mousse
+  summary: Surprisingly creamy avocado-based chocolate mousse made with cocoa powder
+    and agave syrup — no cream needed, rich in healthy fats, and intensely chocolatey.
 ingredients:
-  - de_name: reife Avocados
-    en_name: "TODO: reife Avocados"
-    qty: 6
-    unit: Stk
-    category: Obst
-  - de_name: Kakaopulver ungesüßt
-    en_name: "TODO: Kakaopulver ungesüßt"
-    qty: 80
-    unit: g
-    category: Konserven und Vorrat
-  - de_name: Agavendicksaft
-    en_name: "TODO: Agavendicksaft"
-    qty: 6
-    unit: EL
-    category: Konserven und Vorrat
-  - de_name: Kokosmilch (Vollfett)
-    en_name: "TODO: Kokosmilch (Vollfett)"
-    qty: 120
-    unit: ml
-    category: Konserven und Vorrat
-  - de_name: Vanilleextrakt
-    en_name: "TODO: Vanilleextrakt"
-    qty: 2
-    unit: TL
-    category: Gewürze
-  - de_name: Zitronensaft
-    en_name: "TODO: Zitronensaft"
-    qty: 2
-    unit: EL
-    category: Obst
-  - de_name: Salz
-    en_name: "TODO: Salz"
-    qty: 1
-    unit: Prise
-    category: Gewürze
-  - de_name: "dunkle Schokolade (mind. 70 %) geraspelt"
-    en_name: "TODO: dunkle Schokolade (mind. 70 %) geraspelt"
-    qty: 60
-    unit: g
-    category: Konserven und Vorrat
-  - de_name: frische Himbeeren zum Garnieren
-    en_name: "TODO: frische Himbeeren zum Garnieren"
-    qty: 200
-    unit: g
-    category: Obst
+- de_name: reife Avocados
+  en_name: ripe avocados
+  qty: 6
+  unit: Stk
+  category: Obst
+- de_name: Kakaopulver ungesüßt
+  en_name: unsweetened cocoa powder
+  qty: 80
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Agavendicksaft
+  en_name: agave syrup
+  qty: 6
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Kokosmilch (Vollfett)
+  en_name: full-fat coconut milk
+  qty: 120
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Vanilleextrakt
+  en_name: vanilla extract
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Zitronensaft
+  en_name: lemon juice
+  qty: 2
+  unit: EL
+  category: Obst
+- de_name: Salz
+  en_name: salt
+  qty: 1
+  unit: Prise
+  category: Gewürze
+- de_name: dunkle Schokolade (mind. 70 %) geraspelt
+  en_name: dark chocolate (min. 70 %), grated
+  qty: 60
+  unit: g
+  category: Konserven und Vorrat
+- de_name: frische Himbeeren zum Garnieren
+  en_name: fresh raspberries for garnish
+  qty: 200
+  unit: g
+  category: Obst
 de_steps:
-  - "Avocados halbieren, den Stein entfernen und das Fruchtfleisch mit einem Löffel herauslösen."
-  - "Avocadofleisch, Kakaopulver, Agavendicksaft, Kokosmilch, Vanilleextrakt, Zitronensaft und Salz in einem Mixer oder mit dem Stabmixer zu einer absolut glatten, cremigen Masse verarbeiten. Nötigenfalls die Seiten des Mixers abkratzen und nochmals mixen."
-  - Die Mousse kosten und nach Bedarf mehr Agavendicksaft oder Kakaopulver hinzufügen.
-  - Mousse auf 8 kleine Schälchen oder Gläser verteilen.
-  - Mit Frischhaltefolie direkt auf der Oberfläche abdecken (verhindert Verfärbung) und mindestens 1 Stunde kalt stellen.
-  - Vor dem Servieren mit geraspelter dunkler Schokolade und frischen Himbeeren garnieren. Hält sich im Kühlschrank bis zu 2 Tage.
+- Avocados halbieren, den Stein entfernen und das Fruchtfleisch mit einem Löffel herauslösen.
+- Avocadofleisch, Kakaopulver, Agavendicksaft, Kokosmilch, Vanilleextrakt, Zitronensaft
+  und Salz in einem Mixer oder mit dem Stabmixer zu einer absolut glatten, cremigen
+  Masse verarbeiten. Nötigenfalls die Seiten des Mixers abkratzen und nochmals mixen.
+- Die Mousse kosten und nach Bedarf mehr Agavendicksaft oder Kakaopulver hinzufügen.
+- Mousse auf 8 kleine Schälchen oder Gläser verteilen.
+- Mit Frischhaltefolie direkt auf der Oberfläche abdecken (verhindert Verfärbung)
+  und mindestens 1 Stunde kalt stellen.
+- Vor dem Servieren mit geraspelter dunkler Schokolade und frischen Himbeeren garnieren.
+  Hält sich im Kühlschrank bis zu 2 Tage.
 en_steps:
-  - "TODO: Avocados halbieren, den Stein entfernen und das Fruchtfleisch mit einem Löffel herauslösen."
-  - "TODO: Avocadofleisch, Kakaopulver, Agavendicksaft, Kokosmilch, Vanilleextrakt, Zitronensaft und Salz in einem Mixer oder mit dem Stabmixer zu einer absolut glatten, cremigen Masse verarbeiten. Nötigenfalls die Seiten des Mixers abkratzen und nochmals mixen."
-  - "TODO: Die Mousse kosten und nach Bedarf mehr Agavendicksaft oder Kakaopulver hinzufügen."
-  - "TODO: Mousse auf 8 kleine Schälchen oder Gläser verteilen."
-  - "TODO: Mit Frischhaltefolie direkt auf der Oberfläche abdecken (verhindert Verfärbung) und mindestens 1 Stunde kalt stellen."
-  - "TODO: Vor dem Servieren mit geraspelter dunkler Schokolade und frischen Himbeeren garnieren. Hält sich im Kühlschrank bis zu 2 Tage."
+- Halve the avocados, remove the stone, and scoop out the flesh with a spoon.
+- Blend the avocado flesh, cocoa powder, agave syrup, coconut milk, vanilla extract,
+  lemon juice, and salt in a blender or with a hand blender until completely smooth
+  and creamy. Scrape down the sides and blend again if needed.
+- Taste the mousse and add more agave syrup or cocoa powder as desired.
+- Divide the mousse among 8 small bowls or glasses.
+- Cover with cling film pressed directly onto the surface (to prevent browning) and
+  refrigerate for at least 1 hour.
+- Before serving, garnish with grated dark chocolate and fresh raspberries. Keeps
+  in the fridge for up to 2 days.

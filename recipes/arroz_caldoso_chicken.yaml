@@ -6,127 +6,128 @@ next_day: true
 meals: 2
 de:
   title: Spanischer Arroz Caldoso mit Hähnchen
-  summary: |-
-    Spanischer 'nasser Reis' – supiger Reiseintopf mit Hähnchen, Pimentón ahumado, Safran und Gemüse – nicht Paella, nicht Suppe, sondern etwas Eigenes.
+  summary: Spanischer 'nasser Reis' – supiger Reiseintopf mit Hähnchen, Pimentón ahumado,
+    Safran und Gemüse – nicht Paella, nicht Suppe, sondern etwas Eigenes.
 en:
-  title: 'TODO: Spanischer Arroz Caldoso mit Hähnchen'
-  summary: |-
-    TODO: Spanischer 'nasser Reis' – supiger Reiseintopf mit Hähnchen, Pimentón ahumado, Safran und Gemüse – nicht Paella, nicht Suppe, sondern etwas Eigenes.
+  title: Spanish Arroz Caldoso with Chicken
+  summary: Spanish 'wet rice' — a soupy rice stew with chicken, smoked pimentón, saffron,
+    and vegetables. Not quite paella, not quite soup, but something beautifully its
+    own.
 ingredients:
 - de_name: Hähnchenstücke mit Knochen
-  en_name: 'TODO: Hähnchenstücke mit Knochen'
+  en_name: chicken pieces, bone-in
   qty: 700
   unit: g
   category: Protein und Milchprodukte
 - de_name: Rundkornreis
-  en_name: 'TODO: Rundkornreis'
+  en_name: short-grain rice
   qty: 250
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Hühnerbrühe heiß
-  en_name: 'TODO: Hühnerbrühe heiß'
+  en_name: hot chicken stock
   qty: 1200
   unit: ml
   category: Konserven und Vorrat
 - de_name: Rote Paprika
-  en_name: 'TODO: Rote Paprika'
+  en_name: red bell pepper
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Tomate frisch reif
-  en_name: 'TODO: Tomate frisch reif'
+  en_name: ripe fresh tomato
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Karotte
-  en_name: 'TODO: Karotte'
+  en_name: carrot
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Safranfäden
-  en_name: 'TODO: Safranfäden'
+  en_name: saffron threads
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Pimentón ahumado
-  en_name: 'TODO: Pimentón ahumado'
+  en_name: pimentón ahumado (smoked paprika)
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Kreuzkümmel gemahlen
-  en_name: 'TODO: Kreuzkümmel gemahlen'
+  en_name: cumin, ground
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Lorbeerblätter
-  en_name: 'TODO: Lorbeerblätter'
+  en_name: bay leaves
   qty: 2
   unit: Stk
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Frische Petersilie
-  en_name: 'TODO: Frische Petersilie'
+  en_name: fresh parsley
   qty: 0.5
   unit: Bund
   category: Gemüse und Salat
 - de_name: Zitrone zum Servieren
-  en_name: 'TODO: Zitrone zum Servieren'
+  en_name: lemon, for serving
   qty: 1
   unit: Stk
   category: Obst
 de_steps:
-- |-
-  Safranfäden in 4 EL heißer Brühe einweichen. Hähnchenstücke mit Salz, Pfeffer und 1 TL Pimentón würzen.
-- |-
-  Olivenöl in einem großen Topf bei starker Hitze erhitzen. Hähnchenstücke rundherum 5–6 Minuten kräftig anbraten. Herausnehmen.
-- |-
-  Zwiebel, Knoblauch und Karotte fein würfeln. Im Bratfett bei mittlerer Hitze 6 Minuten anschwitzen. Paprika in kleine Stücke schneiden und 4 Minuten mitschmoren.
-- |-
-  Tomaten fein würfeln (oder gerieben) einrühren. Restlichen Pimentón, Kreuzkümmel und Lorbeer dazugeben. Den Sofrito 5 Minuten einköcheln.
+- Safranfäden in 4 EL heißer Brühe einweichen. Hähnchenstücke mit Salz, Pfeffer und
+  1 TL Pimentón würzen.
+- Olivenöl in einem großen Topf bei starker Hitze erhitzen. Hähnchenstücke rundherum
+  5–6 Minuten kräftig anbraten. Herausnehmen.
+- Zwiebel, Knoblauch und Karotte fein würfeln. Im Bratfett bei mittlerer Hitze 6 Minuten
+  anschwitzen. Paprika in kleine Stücke schneiden und 4 Minuten mitschmoren.
+- Tomaten fein würfeln (oder gerieben) einrühren. Restlichen Pimentón, Kreuzkümmel
+  und Lorbeer dazugeben. Den Sofrito 5 Minuten einköcheln.
 - Reis einrühren, 2 Minuten im Sofrito rösten.
-- |-
-  Heiße Brühe und Safranwasser angießen. Hähnchenstücke zurücklegen. Aufkochen, dann bei mittlerer bis niedriger Hitze 18–20 Minuten köcheln.
-- |-
-  Lorbeer entfernen. Konsistenz prüfen: Bei Bedarf mehr Brühe nachgießen. Cremig-suppig ist das Ziel.
-- |-
-  Mit Salz abschmecken. Mit frischer Petersilie und Zitronenspalten servieren – sofort essen, da der Reis sonst weiterquillt.
+- Heiße Brühe und Safranwasser angießen. Hähnchenstücke zurücklegen. Aufkochen, dann
+  bei mittlerer bis niedriger Hitze 18–20 Minuten köcheln.
+- 'Lorbeer entfernen. Konsistenz prüfen: Bei Bedarf mehr Brühe nachgießen. Cremig-suppig
+  ist das Ziel.'
+- Mit Salz abschmecken. Mit frischer Petersilie und Zitronenspalten servieren – sofort
+  essen, da der Reis sonst weiterquillt.
 en_steps:
-- |-
-  TODO: Safranfäden in 4 EL heißer Brühe einweichen. Hähnchenstücke mit Salz, Pfeffer und 1 TL Pimentón würzen.
-- |-
-  TODO: Olivenöl in einem großen Topf bei starker Hitze erhitzen. Hähnchenstücke rundherum 5–6 Minuten kräftig anbraten. Herausnehmen.
-- |-
-  TODO: Zwiebel, Knoblauch und Karotte fein würfeln. Im Bratfett bei mittlerer Hitze 6 Minuten anschwitzen. Paprika in kleine Stücke schneiden und 4 Minuten mitschmoren.
-- |-
-  TODO: Tomaten fein würfeln (oder gerieben) einrühren. Restlichen Pimentón, Kreuzkümmel und Lorbeer dazugeben. Den Sofrito 5 Minuten einköcheln.
-- 'TODO: Reis einrühren, 2 Minuten im Sofrito rösten.'
-- |-
-  TODO: Heiße Brühe und Safranwasser angießen. Hähnchenstücke zurücklegen. Aufkochen, dann bei mittlerer bis niedriger Hitze 18–20 Minuten köcheln.
-- |-
-  TODO: Lorbeer entfernen. Konsistenz prüfen: Bei Bedarf mehr Brühe nachgießen. Cremig-suppig ist das Ziel.
-- |-
-  TODO: Mit Salz abschmecken. Mit frischer Petersilie und Zitronenspalten servieren – sofort essen, da der Reis sonst weiterquillt.
+- Steep saffron threads in 4 tbsp hot stock. Season chicken pieces with salt, pepper,
+  and 1 tsp pimentón.
+- Heat olive oil in a large pot over high heat. Brown chicken pieces all over for
+  5–6 minutes. Remove.
+- Finely dice onion, garlic, and carrot. Sweat in the cooking fat over medium heat
+  for 6 minutes. Cut bell pepper into small pieces and cook for a further 4 minutes.
+- Stir in finely diced (or grated) tomatoes. Add remaining pimentón, cumin, and bay
+  leaves. Simmer the sofrito for 5 minutes.
+- Stir in rice and toast in the sofrito for 2 minutes.
+- Pour in hot stock and saffron water. Return chicken pieces. Bring to the boil, then
+  simmer on medium-low heat for 18–20 minutes.
+- 'Remove bay leaves. Check consistency: add more stock if needed. The goal is creamy
+  and soupy.'
+- Season with salt. Serve immediately with fresh parsley and lemon wedges — the rice
+  will continue to absorb liquid if left to sit.

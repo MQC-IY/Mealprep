@@ -9,46 +9,47 @@ de:
   title: Hähnchen-Nudeln mit Erbsen
   summary: Schnelles Nudelgericht mit Hähnchen, Erbsen und milder Joghurt-Sauce.
 en:
-  title: 'TODO: Hähnchen-Nudeln mit Erbsen'
-  summary: 'TODO: Schnelles Nudelgericht mit Hähnchen, Erbsen und milder Joghurt-Sauce.'
+  title: Chicken Noodles with Peas
+  summary: A quick pasta dish with seared chicken, sweet green peas, and a light yogurt
+    sauce — on the table in 25 minutes.
 ingredients:
 - de_name: Vollkornnudeln
-  en_name: 'TODO: Vollkornnudeln'
+  en_name: whole-wheat pasta
   qty: 320
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 750
   unit: g
   category: Protein und Milchprodukte
 - de_name: Erbsen, TK
-  en_name: 'TODO: Erbsen, TK'
+  en_name: frozen peas
   qty: 220
   unit: g
   category: Gemüse und Salat
 - de_name: Naturjoghurt
-  en_name: 'TODO: Naturjoghurt'
+  en_name: plain yogurt
   qty: 150
   unit: g
   category: Protein und Milchprodukte
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Basilikum
-  en_name: 'TODO: Basilikum'
+  en_name: basil
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -57,6 +58,6 @@ de_steps:
 - Hähnchen mit Zwiebel scharf anbraten.
 - Erbsen kurz mitgaren und Joghurt unterrühren.
 en_steps:
-- 'TODO: Nudeln weich kochen.'
-- 'TODO: Hähnchen mit Zwiebel scharf anbraten.'
-- 'TODO: Erbsen kurz mitgaren und Joghurt unterrühren.'
+- Cook the pasta until tender.
+- Sear the chicken with onion over high heat.
+- Add the peas and heat through, then stir in the yogurt.

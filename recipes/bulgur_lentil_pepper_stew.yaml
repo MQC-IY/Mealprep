@@ -9,46 +9,46 @@ de:
   title: Bulgur-Linsen-Paprika-Topf
   summary: Milder Topf mit Bulgur, roten Linsen, Paprika und Tomaten.
 en:
-  title: 'TODO: Bulgur-Linsen-Paprika-Topf'
-  summary: 'TODO: Milder Topf mit Bulgur, roten Linsen, Paprika und Tomaten.'
+  title: Bulgur, Lentil and Bell Pepper Stew
+  summary: A mild one-pot stew with bulgur, red lentils, bell pepper, and tomatoes.
 ingredients:
 - de_name: Bulgur
-  en_name: 'TODO: Bulgur'
+  en_name: bulgur
   qty: 220
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Rote Linsen
-  en_name: 'TODO: Rote Linsen'
+  en_name: red lentils
   qty: 200
   unit: g
   category: Konserven und Vorrat
 - de_name: Paprika
-  en_name: 'TODO: Paprika'
+  en_name: bell pepper
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Passierte Tomaten
-  en_name: 'TODO: Passierte Tomaten'
+  en_name: strained tomatoes (passata)
   qty: 1
   unit: Glas
   category: Konserven und Vorrat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Paprika edelsüß
-  en_name: 'TODO: Paprika edelsüß'
+  en_name: sweet paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -57,6 +57,6 @@ de_steps:
 - Linsen, Bulgur und Tomaten zugeben.
 - Mit Wasser auffüllen und weich köcheln lassen.
 en_steps:
-- 'TODO: Zwiebel und Paprika in Olivenöl anschwitzen.'
-- 'TODO: Linsen, Bulgur und Tomaten zugeben.'
-- 'TODO: Mit Wasser auffüllen und weich köcheln lassen.'
+- Sauté the onion and bell pepper in olive oil until softened.
+- Add the lentils, bulgur, and tomatoes.
+- Top up with water and simmer until tender.

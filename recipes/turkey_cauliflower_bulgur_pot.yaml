@@ -9,51 +9,51 @@ de:
   title: Puten-Blumenkohl-Bulgur-Topf
   summary: Milder Topf mit Putenhack, Blumenkohl, Bulgur und Tomate.
 en:
-  title: 'TODO: Puten-Blumenkohl-Bulgur-Topf'
-  summary: 'TODO: Milder Topf mit Putenhack, Blumenkohl, Bulgur und Tomate.'
+  title: Turkey Cauliflower Bulgur Pot
+  summary: A mild one-pot of ground turkey, cauliflower, bulgur, and tomato.
 ingredients:
 - de_name: Putenhack
-  en_name: 'TODO: Putenhack'
+  en_name: ground turkey
   qty: 650
   unit: g
   category: Protein und Milchprodukte
 - de_name: Blumenkohl
-  en_name: 'TODO: Blumenkohl'
+  en_name: cauliflower
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Bulgur
-  en_name: 'TODO: Bulgur'
+  en_name: bulgur
   qty: 220
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Passierte Tomaten
-  en_name: 'TODO: Passierte Tomaten'
+  en_name: strained tomatoes (passata)
   qty: 1
   unit: Glas
   category: Konserven und Vorrat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: carrots
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Paprika edelsüß
-  en_name: 'TODO: Paprika edelsüß'
+  en_name: sweet paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -62,6 +62,7 @@ de_steps:
 - Blumenkohl und Möhren klein schneiden und mit Tomaten zugeben.
 - Bulgur und Wasser einrühren und weich köcheln lassen.
 en_steps:
-- 'TODO: Putenhack mit Zwiebel scharf anbraten.'
-- 'TODO: Blumenkohl und Möhren klein schneiden und mit Tomaten zugeben.'
-- 'TODO: Bulgur und Wasser einrühren und weich köcheln lassen.'
+- Brown the ground turkey with the onion over high heat.
+- Chop the cauliflower and carrots into small pieces and add to the pot along with
+  the tomatoes.
+- Stir in the bulgur and water, then simmer until tender.

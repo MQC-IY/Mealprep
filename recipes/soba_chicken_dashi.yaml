@@ -6,97 +6,99 @@ next_day: false
 meals: 2
 de:
   title: Japanische Buchweizennudeln (Soba) mit Hähnchen und Dashi-Sauce
-  summary: |-
-    Kräftige Dashi-Tsuyu-Brühe über elastischen Soba-Nudeln mit zartem Hähnchen, Frühlingszwiebeln und Nori.
+  summary: Kräftige Dashi-Tsuyu-Brühe über elastischen Soba-Nudeln mit zartem Hähnchen,
+    Frühlingszwiebeln und Nori.
 en:
-  title: 'TODO: Japanische Buchweizennudeln (Soba) mit Hähnchen und Dashi-Sauce'
-  summary: |-
-    TODO: Kräftige Dashi-Tsuyu-Brühe über elastischen Soba-Nudeln mit zartem Hähnchen, Frühlingszwiebeln und Nori.
+  title: Japanese Soba Noodles with Chicken and Dashi Broth
+  summary: Rich dashi-tsuyu broth poured over springy soba noodles with tender chicken,
+    spring onions, and nori.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 600
   unit: g
   category: Protein und Milchprodukte
 - de_name: Frühlingszwiebeln
-  en_name: 'TODO: Frühlingszwiebeln'
+  en_name: spring onions
   qty: 1
   unit: Bund
   category: Gemüse und Salat
 - de_name: Ingwer (frisch)
-  en_name: 'TODO: Ingwer (frisch)'
+  en_name: fresh ginger
   qty: 20
   unit: g
   category: Gemüse und Salat
 - de_name: Soba-Nudeln (100 % Buchweizen)
-  en_name: 'TODO: Soba-Nudeln (100 % Buchweizen)'
+  en_name: soba noodles (100% buckwheat)
   qty: 360
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Dashi-Brühe (Kombu + Katsuobushi oder Granulat)
-  en_name: 'TODO: Dashi-Brühe (Kombu + Katsuobushi oder Granulat)'
+  en_name: dashi broth (kombu + katsuobushi or granules)
   qty: 800
   unit: ml
   category: Konserven und Vorrat
 - de_name: Sojasoße (Tamari oder Shoyu)
-  en_name: 'TODO: Sojasoße (Tamari oder Shoyu)'
+  en_name: soy sauce (tamari or shoyu)
   qty: 5
   unit: EL
   category: Konserven und Vorrat
 - de_name: Mirin
-  en_name: 'TODO: Mirin'
+  en_name: mirin
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sake
-  en_name: 'TODO: Sake'
+  en_name: sake
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sesamöl
-  en_name: 'TODO: Sesamöl'
+  en_name: sesame oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Nori-Blätter
-  en_name: 'TODO: Nori-Blätter'
+  en_name: nori sheets
   qty: 2
   unit: Stk
   category: Konserven und Vorrat
 - de_name: Sesamkörner (weiß)
-  en_name: 'TODO: Sesamkörner (weiß)'
+  en_name: white sesame seeds
   qty: 2
   unit: EL
   category: Gewürze
 - de_name: Shichimi-Togarashi
-  en_name: 'TODO: Shichimi-Togarashi'
+  en_name: shichimi togarashi
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Dashi-Tsuyu-Soße: Dashi-Brühe, Sojasoße, Mirin und Sake aufkochen, 5 Minuten köcheln. Beiseite stellen.
-- |-
-  Ingwer in Scheiben schneiden. Hähnchenbrust mit Ingwer, etwas Sojasoße und Sake in Wasser 15 Minuten bei niedriger Hitze pochieren. Herausnehmen, abkühlen lassen und in dünne Scheiben schneiden.
-- |-
-  Soba-Nudeln in reichlich kochendem Wasser nach Packungsanweisung (ca. 4–6 Minuten) garen. In einem Sieb kalt abspülen.
+- 'Dashi-Tsuyu-Soße: Dashi-Brühe, Sojasoße, Mirin und Sake aufkochen, 5 Minuten köcheln.
+  Beiseite stellen.'
+- Ingwer in Scheiben schneiden. Hähnchenbrust mit Ingwer, etwas Sojasoße und Sake
+  in Wasser 15 Minuten bei niedriger Hitze pochieren. Herausnehmen, abkühlen lassen
+  und in dünne Scheiben schneiden.
+- Soba-Nudeln in reichlich kochendem Wasser nach Packungsanweisung (ca. 4–6 Minuten)
+  garen. In einem Sieb kalt abspülen.
 - Nori in feine Streifen schneiden. Frühlingszwiebeln in Ringe schneiden.
 - Dashi-Brühe erhitzen und Sesamöl einrühren.
-- |-
-  Soba-Nudeln in Schüsseln anrichten, heiße Brühe darübergießen. Hähnchenscheiben, Frühlingszwiebeln, Nori und Sesamkörner darauflegen. Mit Shichimi-Togarashi großzügig würzen.
+- Soba-Nudeln in Schüsseln anrichten, heiße Brühe darübergießen. Hähnchenscheiben,
+  Frühlingszwiebeln, Nori und Sesamkörner darauflegen. Mit Shichimi-Togarashi großzügig
+  würzen.
 en_steps:
-- |-
-  TODO: Dashi-Tsuyu-Soße: Dashi-Brühe, Sojasoße, Mirin und Sake aufkochen, 5 Minuten köcheln. Beiseite stellen.
-- |-
-  TODO: Ingwer in Scheiben schneiden. Hähnchenbrust mit Ingwer, etwas Sojasoße und Sake in Wasser 15 Minuten bei niedriger Hitze pochieren. Herausnehmen, abkühlen lassen und in dünne Scheiben schneiden.
-- |-
-  TODO: Soba-Nudeln in reichlich kochendem Wasser nach Packungsanweisung (ca. 4–6 Minuten) garen. In einem Sieb kalt abspülen.
-- 'TODO: Nori in feine Streifen schneiden. Frühlingszwiebeln in Ringe schneiden.'
-- 'TODO: Dashi-Brühe erhitzen und Sesamöl einrühren.'
-- |-
-  TODO: Soba-Nudeln in Schüsseln anrichten, heiße Brühe darübergießen. Hähnchenscheiben, Frühlingszwiebeln, Nori und Sesamkörner darauflegen. Mit Shichimi-Togarashi großzügig würzen.
+- 'Dashi-tsuyu sauce: bring the dashi broth, soy sauce, mirin, and sake to a boil
+  and simmer for 5 minutes. Set aside.'
+- Slice the ginger. Poach the chicken breast with the ginger, a splash of soy sauce,
+  and sake in water over low heat for 15 minutes. Remove, let cool, and slice thinly.
+- Cook the soba noodles in plenty of boiling water according to package directions
+  (about 4–6 minutes). Rinse under cold water in a colander.
+- Cut the nori into thin strips. Slice the spring onions into rings.
+- Heat the dashi broth and stir in the sesame oil.
+- Arrange the soba noodles in bowls, pour the hot broth over them. Top with the chicken
+  slices, spring onions, nori, and sesame seeds. Season generously with shichimi togarashi.

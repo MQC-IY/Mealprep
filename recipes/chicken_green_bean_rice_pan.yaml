@@ -9,46 +9,47 @@ de:
   title: Hähnchen-Reis-Pfanne mit grünen Bohnen
   summary: Schnelle Reispfanne mit Hähnchen, grünen Bohnen und Möhren.
 en:
-  title: 'TODO: Hähnchen-Reis-Pfanne mit grünen Bohnen'
-  summary: 'TODO: Schnelle Reispfanne mit Hähnchen, grünen Bohnen und Möhren.'
+  title: Chicken Rice Pan with Green Beans
+  summary: A quick rice pan with juicy chicken, crisp green beans, and sweet carrots
+    — ideal for meal prep and next-day lunches.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 750
   unit: g
   category: Protein und Milchprodukte
 - de_name: Reis
-  en_name: 'TODO: Reis'
+  en_name: rice
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Grüne Bohnen
-  en_name: 'TODO: Grüne Bohnen'
+  en_name: green beans
   qty: 350
   unit: g
   category: Gemüse und Salat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: carrots
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Rapsöl
-  en_name: 'TODO: Rapsöl'
+  en_name: rapeseed oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Paprika edelsüß
-  en_name: 'TODO: Paprika edelsüß'
+  en_name: sweet paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -57,6 +58,6 @@ de_steps:
 - Hähnchen mit Zwiebel scharf anbraten.
 - Bohnen und Möhren klein schneiden und weich garen.
 en_steps:
-- 'TODO: Reis garen.'
-- 'TODO: Hähnchen mit Zwiebel scharf anbraten.'
-- 'TODO: Bohnen und Möhren klein schneiden und weich garen.'
+- Cook the rice.
+- Sear the chicken with onion over high heat.
+- Slice the green beans and carrots and cook until tender.

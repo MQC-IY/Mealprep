@@ -7,97 +7,96 @@ quick_minutes: 30
 meals: 3
 de:
   title: Türkischer Linsen-Bulgur-Topf
-  summary: |-
-    Türkisch inspirierter Topf mit roten Linsen, Bulgur, Tomate, Paprika, Minze und Kreuzkümmel.
+  summary: Türkisch inspirierter Topf mit roten Linsen, Bulgur, Tomate, Paprika, Minze
+    und Kreuzkümmel.
 en:
-  title: 'TODO: Türkischer Linsen-Bulgur-Topf'
-  summary: |-
-    TODO: Türkisch inspirierter Topf mit roten Linsen, Bulgur, Tomate, Paprika, Minze und Kreuzkümmel.
+  title: Turkish Lentil Bulgur Pot
+  summary: A Turkish-inspired pot of red lentils, bulgur, tomato, bell pepper, mint,
+    and cumin.
 ingredients:
 - de_name: Rote Linsen
-  en_name: 'TODO: Rote Linsen'
+  en_name: red lentils
   qty: 250
   unit: g
   category: Konserven und Vorrat
 - de_name: Bulgur
-  en_name: 'TODO: Bulgur'
+  en_name: bulgur
   qty: 220
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Passierte Tomaten
-  en_name: 'TODO: Passierte Tomaten'
+  en_name: strained tomatoes (passata)
   qty: 1
   unit: Glas
   category: Konserven und Vorrat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: carrots
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Paprika
-  en_name: 'TODO: Paprika'
+  en_name: bell pepper
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 2
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Paprika edelsüß
-  en_name: 'TODO: Paprika edelsüß'
+  en_name: sweet paprika
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Paprika geräuchert
-  en_name: 'TODO: Paprika geräuchert'
+  en_name: smoked paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Minze, getrocknet
-  en_name: 'TODO: Minze, getrocknet'
+  en_name: dried mint
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Kreuzkümmel
-  en_name: 'TODO: Kreuzkümmel'
+  en_name: cumin
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Pul Biber (türkische Chiliflocken)
-  en_name: 'TODO: Pul Biber (türkische Chiliflocken)'
+  en_name: pul biber (Turkish red pepper flakes)
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Sumach
-  en_name: 'TODO: Sumach'
+  en_name: sumac
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Zitrone
-  en_name: 'TODO: Zitrone'
+  en_name: lemon
   qty: 1
   unit: Stk
   category: Obst
 de_steps:
-- |-
-  Zwiebel, Knoblauch, Möhren und Paprika fein schneiden und in Olivenöl kräftig anschwitzen.
+- Zwiebel, Knoblauch, Möhren und Paprika fein schneiden und in Olivenöl kräftig anschwitzen.
 - Paprika edelsüß und Kreuzkümmel kurz mitrösten.
 - Linsen, Bulgur und passierte Tomaten zugeben und mit Wasser auffüllen.
 - Erwachsene mit Minze, Salz, Pfeffer und etwas Zitronensaft abschließen.
 en_steps:
-- |-
-  TODO: Zwiebel, Knoblauch, Möhren und Paprika fein schneiden und in Olivenöl kräftig anschwitzen.
-- 'TODO: Paprika edelsüß und Kreuzkümmel kurz mitrösten.'
-- 'TODO: Linsen, Bulgur und passierte Tomaten zugeben und mit Wasser auffüllen.'
-- 'TODO: Erwachsene mit Minze, Salz, Pfeffer und etwas Zitronensaft abschließen.'
+- Finely chop the onion, garlic, carrots, and bell pepper and sauté vigorously in
+  olive oil.
+- Add the sweet paprika and cumin and toast briefly.
+- Add the lentils, bulgur, and strained tomatoes, then top up with water.
+- Finish with dried mint, salt, pepper, and a squeeze of lemon juice.

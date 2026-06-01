@@ -8,46 +8,46 @@ de:
   title: Puten-Bulgur-Auflauf mit Spinat
   summary: Auflauf mit Putenhack, Bulgur, Spinat und Joghurt-Ei-Guss.
 en:
-  title: 'TODO: Puten-Bulgur-Auflauf mit Spinat'
-  summary: 'TODO: Auflauf mit Putenhack, Bulgur, Spinat und Joghurt-Ei-Guss.'
+  title: Turkey Bulgur Bake with Spinach
+  summary: A baked casserole of ground turkey, bulgur, spinach, and a yogurt-egg topping.
 ingredients:
 - de_name: Putenhack
-  en_name: 'TODO: Putenhack'
+  en_name: ground turkey
   qty: 650
   unit: g
   category: Protein und Milchprodukte
 - de_name: Bulgur
-  en_name: 'TODO: Bulgur'
+  en_name: bulgur
   qty: 250
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Blattspinat
-  en_name: 'TODO: Blattspinat'
+  en_name: leaf spinach
   qty: 180
   unit: g
   category: Gemüse und Salat
 - de_name: Naturjoghurt
-  en_name: 'TODO: Naturjoghurt'
+  en_name: plain yogurt
   qty: 180
   unit: g
   category: Protein und Milchprodukte
 - de_name: Eier
-  en_name: 'TODO: Eier'
+  en_name: eggs
   qty: 3
   unit: Stk
   category: Protein und Milchprodukte
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -56,6 +56,7 @@ de_steps:
 - Putenhack mit Zwiebel scharf anbraten, Spinat unterheben.
 - Alles in eine Form geben, Joghurt mit Eiern verrühren und darübergeben.
 en_steps:
-- 'TODO: Bulgur vorgaren.'
-- 'TODO: Putenhack mit Zwiebel scharf anbraten, Spinat unterheben.'
-- 'TODO: Alles in eine Form geben, Joghurt mit Eiern verrühren und darübergeben.'
+- Par-cook the bulgur.
+- Brown the ground turkey with the onion over high heat, then fold in the spinach.
+- Transfer everything to a baking dish, whisk together the yogurt and eggs, and pour
+  over the top.

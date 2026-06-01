@@ -7,112 +7,117 @@ quick_minutes: 30
 meals: 2
 de:
   title: Griechisches Hähnchen-Souvlaki mit Pitabrot
-  summary: |-
-    Zitronig-oregano-mariniertes Hähnchen auf dem Spieß, serviert im aufgewärmten Pitabrot mit Tzatziki, Tomaten und roten Zwiebeln.
+  summary: Zitronig-oregano-mariniertes Hähnchen auf dem Spieß, serviert im aufgewärmten
+    Pitabrot mit Tzatziki, Tomaten und roten Zwiebeln.
 en:
-  title: 'TODO: Griechisches Hähnchen-Souvlaki mit Pitabrot'
-  summary: |-
-    TODO: Zitronig-oregano-mariniertes Hähnchen auf dem Spieß, serviert im aufgewärmten Pitabrot mit Tzatziki, Tomaten und roten Zwiebeln.
+  title: Chicken Souvlaki with Pita Bread
+  summary: Lemon-and-oregano-marinated chicken on skewers, served in warm pita bread
+    with tzatziki, tomatoes, and red onions.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: Chicken breast
   qty: 500
   unit: g
   category: Protein und Milchprodukte
 - de_name: Griechischer Joghurt (10 %)
-  en_name: 'TODO: Griechischer Joghurt (10 %)'
+  en_name: Greek yoghurt (10 %)
   qty: 200
   unit: g
   category: Protein und Milchprodukte
 - de_name: Gurke
-  en_name: 'TODO: Gurke'
+  en_name: Cucumber
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Tomaten
-  en_name: 'TODO: Tomaten'
+  en_name: Tomatoes
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Rote Zwiebel
-  en_name: 'TODO: Rote Zwiebel'
+  en_name: Red onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: Garlic cloves
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Frische Minze
-  en_name: 'TODO: Frische Minze'
+  en_name: Fresh mint
   qty: 0.5
   unit: Bund
   category: Gemüse und Salat
 - de_name: Pitabrot
-  en_name: 'TODO: Pitabrot'
+  en_name: Pita bread
   qty: 4
   unit: Stk
   category: Kohlenhydrate und Sattmacher
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 4
   unit: EL
   category: Konserven und Vorrat
 - de_name: Zitronensaft
-  en_name: 'TODO: Zitronensaft'
+  en_name: Lemon juice
   qty: 4
   unit: EL
   category: Obst
 - de_name: Zitronenschale
-  en_name: 'TODO: Zitronenschale'
+  en_name: Lemon zest
   qty: 1
   unit: Stk
   category: Obst
 - de_name: Getrockneter Oregano
-  en_name: 'TODO: Getrockneter Oregano'
+  en_name: Dried oregano
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Paprikapulver, geräuchert
-  en_name: 'TODO: Paprikapulver, geräuchert'
+  en_name: Smoked paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chilli flakes
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: Salt
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: Black pepper
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Hähnchenbrust in 3 cm Würfel schneiden. Marinade aus Olivenöl, Zitronensaft, Zitronenschale, Oregano, Paprikapulver, Chiliflocken, 2 Knoblauchzehen (gepresst), Salz und Pfeffer anrühren. Hähnchenwürfel mindestens 30 Minuten darin marinieren.
-- |-
-  Für das Tzatziki: Gurke grob reiben, fest ausdrücken. Mit Joghurt, 2 gepressten Knoblauchzehen, gehackter Minze, Salz und 1 EL Olivenöl vermengen. Kalt stellen.
-- |-
-  Hähnchen auf Holzspieße (zuvor eingeweicht) oder Metallspieße stecken. Auf einer heißen Grillpfanne oder unter dem Ofengrill 10–12 Minuten wenden, bis sie goldbraun und gar sind.
-- |-
-  Pitabrot kurz in einer trockenen Pfanne aufwärmen. Tomaten in Scheiben schneiden, rote Zwiebel in feine Ringe schneiden.
-- |-
-  Pitabrot mit Tzatziki bestreichen, Hähnchen vom Spieß schieben, Tomaten und Zwiebeln darauflegen und einrollen.
+- Hähnchenbrust in 3 cm Würfel schneiden. Marinade aus Olivenöl, Zitronensaft, Zitronenschale,
+  Oregano, Paprikapulver, Chiliflocken, 2 Knoblauchzehen (gepresst), Salz und Pfeffer
+  anrühren. Hähnchenwürfel mindestens 30 Minuten darin marinieren.
+- 'Für das Tzatziki: Gurke grob reiben, fest ausdrücken. Mit Joghurt, 2 gepressten
+  Knoblauchzehen, gehackter Minze, Salz und 1 EL Olivenöl vermengen. Kalt stellen.'
+- Hähnchen auf Holzspieße (zuvor eingeweicht) oder Metallspieße stecken. Auf einer
+  heißen Grillpfanne oder unter dem Ofengrill 10–12 Minuten wenden, bis sie goldbraun
+  und gar sind.
+- Pitabrot kurz in einer trockenen Pfanne aufwärmen. Tomaten in Scheiben schneiden,
+  rote Zwiebel in feine Ringe schneiden.
+- Pitabrot mit Tzatziki bestreichen, Hähnchen vom Spieß schieben, Tomaten und Zwiebeln
+  darauflegen und einrollen.
 en_steps:
-- |-
-  TODO: Hähnchenbrust in 3 cm Würfel schneiden. Marinade aus Olivenöl, Zitronensaft, Zitronenschale, Oregano, Paprikapulver, Chiliflocken, 2 Knoblauchzehen (gepresst), Salz und Pfeffer anrühren. Hähnchenwürfel mindestens 30 Minuten darin marinieren.
-- |-
-  TODO: Für das Tzatziki: Gurke grob reiben, fest ausdrücken. Mit Joghurt, 2 gepressten Knoblauchzehen, gehackter Minze, Salz und 1 EL Olivenöl vermengen. Kalt stellen.
-- |-
-  TODO: Hähnchen auf Holzspieße (zuvor eingeweicht) oder Metallspieße stecken. Auf einer heißen Grillpfanne oder unter dem Ofengrill 10–12 Minuten wenden, bis sie goldbraun und gar sind.
-- |-
-  TODO: Pitabrot kurz in einer trockenen Pfanne aufwärmen. Tomaten in Scheiben schneiden, rote Zwiebel in feine Ringe schneiden.
-- |-
-  TODO: Pitabrot mit Tzatziki bestreichen, Hähnchen vom Spieß schieben, Tomaten und Zwiebeln darauflegen und einrollen.
+- Cut the chicken breast into 3 cm cubes. Mix the marinade from olive oil, lemon juice,
+  lemon zest, oregano, smoked paprika, chilli flakes, 2 pressed garlic cloves, salt,
+  and pepper. Marinate the chicken for at least 30 minutes.
+- 'For the tzatziki: coarsely grate the cucumber and squeeze firmly. Combine with
+  the yoghurt, 2 pressed garlic cloves, chopped mint, salt, and 1 tbsp olive oil.
+  Refrigerate.'
+- Thread the chicken onto wooden skewers (previously soaked) or metal skewers. Cook
+  on a hot griddle pan or under the grill for 10–12 minutes, turning, until golden
+  and cooked through.
+- Briefly warm the pita bread in a dry pan. Slice the tomatoes and cut the red onion
+  into thin rings.
+- Spread the pita with tzatziki, slide the chicken off the skewers, add tomatoes and
+  onions, and roll up.

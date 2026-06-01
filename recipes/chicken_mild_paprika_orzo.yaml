@@ -9,46 +9,47 @@ de:
   title: Paprika-Orzo mit Hähnchen
   summary: Schnelle Orzo-Pfanne mit Hähnchen, Paprika und Frischkäse.
 en:
-  title: 'TODO: Paprika-Orzo mit Hähnchen'
-  summary: 'TODO: Schnelle Orzo-Pfanne mit Hähnchen, Paprika und Frischkäse.'
+  title: Paprika Orzo with Chicken
+  summary: A quick orzo pan with juicy chicken, sweet bell pepper, and a creamy cream-cheese
+    sauce — comfort food in under 25 minutes.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 750
   unit: g
   category: Protein und Milchprodukte
 - de_name: Orzo oder Kritharaki
-  en_name: 'TODO: Orzo oder Kritharaki'
+  en_name: orzo
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Paprika
-  en_name: 'TODO: Paprika'
+  en_name: bell pepper
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Frischkäse natur
-  en_name: 'TODO: Frischkäse natur'
+  en_name: cream cheese
   qty: 100
   unit: g
   category: Protein und Milchprodukte
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Paprika edelsüß
-  en_name: 'TODO: Paprika edelsüß'
+  en_name: sweet paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -57,6 +58,6 @@ de_steps:
 - Hähnchen mit Zwiebel scharf anbraten.
 - Paprika weich garen und Frischkäse unterrühren.
 en_steps:
-- 'TODO: Orzo weich garen.'
-- 'TODO: Hähnchen mit Zwiebel scharf anbraten.'
-- 'TODO: Paprika weich garen und Frischkäse unterrühren.'
+- Cook the orzo until tender.
+- Sear the chicken with onion over high heat.
+- Cook the bell pepper until soft and stir in the cream cheese.

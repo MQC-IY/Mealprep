@@ -6,122 +6,123 @@ next_day: false
 meals: 2
 de:
   title: Hähnchen-Tikka-Bowl mit Raita und Naan
-  summary: |-
-    Saftiges Tikka-Hähnchen in würziger Joghurtmarinade mit Garam Masala und Tandoori-Gewürzen, serviert mit Gurken-Raita und warmem Naan.
+  summary: Saftiges Tikka-Hähnchen in würziger Joghurtmarinade mit Garam Masala und
+    Tandoori-Gewürzen, serviert mit Gurken-Raita und warmem Naan.
 en:
-  title: 'TODO: Hähnchen-Tikka-Bowl mit Raita und Naan'
-  summary: |-
-    TODO: Saftiges Tikka-Hähnchen in würziger Joghurtmarinade mit Garam Masala und Tandoori-Gewürzen, serviert mit Gurken-Raita und warmem Naan.
+  title: Chicken Tikka Bowl with Raita and Naan
+  summary: Juicy Tikka chicken marinated in a spiced yogurt blend with garam masala
+    and tandoori seasonings, served with cucumber raita and warm naan.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 800
   unit: g
   category: Protein und Milchprodukte
 - de_name: Naturjoghurt
-  en_name: 'TODO: Naturjoghurt'
+  en_name: plain yogurt
   qty: 300
   unit: g
   category: Protein und Milchprodukte
 - de_name: Naan-Brot
-  en_name: 'TODO: Naan-Brot'
+  en_name: naan bread
   qty: 4
   unit: Stk
   category: Kohlenhydrate und Sattmacher
 - de_name: Basmatireis
-  en_name: 'TODO: Basmatireis'
+  en_name: basmati rice
   qty: 200
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Gurke
-  en_name: 'TODO: Gurke'
+  en_name: cucumber
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Minze, frisch
-  en_name: 'TODO: Minze, frisch'
+  en_name: fresh mint
   qty: 0.5
   unit: Bund
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Ingwer, frisch
-  en_name: 'TODO: Ingwer, frisch'
+  en_name: fresh ginger
   qty: 20
   unit: g
   category: Gemüse und Salat
 - de_name: Tomate
-  en_name: 'TODO: Tomate'
+  en_name: tomato
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Rapsöl
-  en_name: 'TODO: Rapsöl'
+  en_name: rapeseed oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Zitrone
-  en_name: 'TODO: Zitrone'
+  en_name: lemon
   qty: 1
   unit: Stk
   category: Obst
 - de_name: Garam Masala
-  en_name: 'TODO: Garam Masala'
+  en_name: garam masala
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Tandoori-Gewürzmischung
-  en_name: 'TODO: Tandoori-Gewürzmischung'
+  en_name: tandoori spice blend
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Kurkuma
-  en_name: 'TODO: Kurkuma'
+  en_name: turmeric
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Kreuzkümmel, gemahlen
-  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  en_name: ground cumin
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Paprika edelsüß
-  en_name: 'TODO: Paprika edelsüß'
+  en_name: sweet paprika
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Hähnchen in große Würfel schneiden. 200 g Joghurt mit Knoblauch, Ingwer, Garam Masala, Tandoori-Gewürz, Kurkuma, Kreuzkümmel, Paprika, Chiliflocken und Zitronensaft vermengen. Hähnchen mindestens 30 Minuten marinieren.
+- Hähnchen in große Würfel schneiden. 200 g Joghurt mit Knoblauch, Ingwer, Garam Masala,
+  Tandoori-Gewürz, Kurkuma, Kreuzkümmel, Paprika, Chiliflocken und Zitronensaft vermengen.
+  Hähnchen mindestens 30 Minuten marinieren.
 - Reis nach Packungsanweisung garen.
-- |-
-  Raita: Gurke fein reiben oder würfeln, ausdrücken. Mit 100 g Joghurt, gehackter Minze, Salz und einer Prise Kreuzkümmel verrühren.
-- |-
-  Hähnchen in einer sehr heißen Grillpfanne oder unter dem Ofengrill bei 220 °C garen, bis es leicht angebrannt und durchgegart ist, ca. 10–12 Minuten.
+- 'Raita: Gurke fein reiben oder würfeln, ausdrücken. Mit 100 g Joghurt, gehackter
+  Minze, Salz und einer Prise Kreuzkümmel verrühren.'
+- Hähnchen in einer sehr heißen Grillpfanne oder unter dem Ofengrill bei 220 °C garen,
+  bis es leicht angebrannt und durchgegart ist, ca. 10–12 Minuten.
 - Naan kurz in der trockenen Pfanne oder im Ofen aufwärmen.
-- |-
-  Bowls mit Reis und Hähnchen-Tikka anrichten. Raita daneben servieren, Naan zur Seite.
+- Bowls mit Reis und Hähnchen-Tikka anrichten. Raita daneben servieren, Naan zur Seite.
 en_steps:
-- |-
-  TODO: Hähnchen in große Würfel schneiden. 200 g Joghurt mit Knoblauch, Ingwer, Garam Masala, Tandoori-Gewürz, Kurkuma, Kreuzkümmel, Paprika, Chiliflocken und Zitronensaft vermengen. Hähnchen mindestens 30 Minuten marinieren.
-- 'TODO: Reis nach Packungsanweisung garen.'
-- |-
-  TODO: Raita: Gurke fein reiben oder würfeln, ausdrücken. Mit 100 g Joghurt, gehackter Minze, Salz und einer Prise Kreuzkümmel verrühren.
-- |-
-  TODO: Hähnchen in einer sehr heißen Grillpfanne oder unter dem Ofengrill bei 220 °C garen, bis es leicht angebrannt und durchgegart ist, ca. 10–12 Minuten.
-- 'TODO: Naan kurz in der trockenen Pfanne oder im Ofen aufwärmen.'
-- |-
-  TODO: Bowls mit Reis und Hähnchen-Tikka anrichten. Raita daneben servieren, Naan zur Seite.
+- Cut chicken into large cubes. Mix 200 g yogurt with garlic, ginger, garam masala,
+  tandoori spice blend, turmeric, cumin, paprika, chili flakes, and lemon juice. Marinate
+  the chicken for at least 30 minutes.
+- Cook the rice according to package instructions.
+- 'Raita: finely grate or dice the cucumber and squeeze out excess moisture. Stir
+  together with 100 g yogurt, chopped mint, salt, and a pinch of cumin.'
+- Cook the chicken in a very hot grill pan or under the oven grill at 220 °C until
+  slightly charred and cooked through, about 10–12 minutes.
+- Warm the naan briefly in a dry pan or in the oven.
+- Assemble the bowls with rice and chicken tikka. Serve the raita alongside and the
+  naan on the side.

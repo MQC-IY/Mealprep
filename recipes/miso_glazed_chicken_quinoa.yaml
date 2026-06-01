@@ -6,128 +6,126 @@ next_day: false
 meals: 2
 de:
   title: Miso-glasiertes Hähnchen mit Gemüse-Quinoa
-  summary: |-
-    Hähnchenbrust mit kräftiger Aka-Miso-Glasur, ofengegart und auf nährstoffreichem Quinoa mit Gemüse serviert.
+  summary: Hähnchenbrust mit kräftiger Aka-Miso-Glasur, ofengegart und auf nährstoffreichem
+    Quinoa mit Gemüse serviert.
 en:
-  title: 'TODO: Miso-glasiertes Hähnchen mit Gemüse-Quinoa'
-  summary: |-
-    TODO: Hähnchenbrust mit kräftiger Aka-Miso-Glasur, ofengegart und auf nährstoffreichem Quinoa mit Gemüse serviert.
+  title: Miso-Glazed Chicken with Vegetable Quinoa
+  summary: Oven-roasted chicken breast with a bold aka miso glaze, served on nutrient-rich
+    quinoa tossed with seasonal vegetables.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: Chicken breast
   qty: 800
   unit: g
   category: Protein und Milchprodukte
 - de_name: Brokkoli
-  en_name: 'TODO: Brokkoli'
+  en_name: Broccoli
   qty: 400
   unit: g
   category: Gemüse und Salat
 - de_name: Karotten
-  en_name: 'TODO: Karotten'
+  en_name: Carrots
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zuckerschoten
-  en_name: 'TODO: Zuckerschoten'
+  en_name: Sugar snap peas
   qty: 150
   unit: g
   category: Gemüse und Salat
 - de_name: Frühlingszwiebeln
-  en_name: 'TODO: Frühlingszwiebeln'
+  en_name: Spring onions
   qty: 1
   unit: Bund
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: Garlic cloves
   qty: 3
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Quinoa
-  en_name: 'TODO: Quinoa'
+  en_name: Quinoa
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Aka-Miso (rote Misopaste)
-  en_name: 'TODO: Aka-Miso (rote Misopaste)'
+  en_name: Aka miso (red miso paste)
   qty: 4
   unit: EL
   category: Konserven und Vorrat
 - de_name: Mirin
-  en_name: 'TODO: Mirin'
+  en_name: Mirin
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sake
-  en_name: 'TODO: Sake'
+  en_name: Sake
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sojasoße
-  en_name: 'TODO: Sojasoße'
+  en_name: Soy sauce
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sesamöl
-  en_name: 'TODO: Sesamöl'
+  en_name: Sesame oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Honig
-  en_name: 'TODO: Honig'
+  en_name: Honey
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Pflanzenöl
-  en_name: 'TODO: Pflanzenöl'
+  en_name: Vegetable oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Gemüsebrühe
-  en_name: 'TODO: Gemüsebrühe'
+  en_name: Vegetable broth
   qty: 600
   unit: ml
   category: Konserven und Vorrat
 - de_name: Sesamkörner (schwarz und weiß)
-  en_name: 'TODO: Sesamkörner (schwarz und weiß)'
+  en_name: Sesame seeds (black and white)
   qty: 2
   unit: EL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chili flakes
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: Black pepper
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Quinoa in der Gemüsebrühe aufkochen, Hitze reduzieren und 15 Minuten köcheln, bis die Brühe absorbiert ist. Mit Deckel 5 Minuten quellen lassen.
-- |-
-  Miso-Glasur anrühren: Aka-Miso, Mirin, Sake, Sojasoße, Honig und gepressten Knoblauch glatt rühren.
-- |-
-  Backofen auf 200 °C (Ober-/Unterhitze) vorheizen. Hähnchenbrust auf ein Backblech legen, großzügig mit der Miso-Glasur bestreichen.
-- |-
-  20–22 Minuten im Ofen garen, nach der Hälfte der Zeit erneut mit Glasur einstreichen.
-- |-
-  Karotten in dünne Scheiben, Brokkoli in kleine Röschen schneiden. In Sesamöl mit Pflanzenöl 5 Minuten scharf anbraten. Zuckerschoten die letzten 2 Minuten dazugeben.
+- Quinoa in der Gemüsebrühe aufkochen, Hitze reduzieren und 15 Minuten köcheln, bis
+  die Brühe absorbiert ist. Mit Deckel 5 Minuten quellen lassen.
+- 'Miso-Glasur anrühren: Aka-Miso, Mirin, Sake, Sojasoße, Honig und gepressten Knoblauch
+  glatt rühren.'
+- Backofen auf 200 °C (Ober-/Unterhitze) vorheizen. Hähnchenbrust auf ein Backblech
+  legen, großzügig mit der Miso-Glasur bestreichen.
+- 20–22 Minuten im Ofen garen, nach der Hälfte der Zeit erneut mit Glasur einstreichen.
+- Karotten in dünne Scheiben, Brokkoli in kleine Röschen schneiden. In Sesamöl mit
+  Pflanzenöl 5 Minuten scharf anbraten. Zuckerschoten die letzten 2 Minuten dazugeben.
 - Hähnchen 5 Minuten ruhen lassen, dann in Scheiben schneiden.
-- |-
-  Quinoa mit dem Gemüse mischen. Hähnchen darauflegen, mit Frühlingszwiebeln und Sesamkörnern garnieren.
+- Quinoa mit dem Gemüse mischen. Hähnchen darauflegen, mit Frühlingszwiebeln und Sesamkörnern
+  garnieren.
 en_steps:
-- |-
-  TODO: Quinoa in der Gemüsebrühe aufkochen, Hitze reduzieren und 15 Minuten köcheln, bis die Brühe absorbiert ist. Mit Deckel 5 Minuten quellen lassen.
-- |-
-  TODO: Miso-Glasur anrühren: Aka-Miso, Mirin, Sake, Sojasoße, Honig und gepressten Knoblauch glatt rühren.
-- |-
-  TODO: Backofen auf 200 °C (Ober-/Unterhitze) vorheizen. Hähnchenbrust auf ein Backblech legen, großzügig mit der Miso-Glasur bestreichen.
-- |-
-  TODO: 20–22 Minuten im Ofen garen, nach der Hälfte der Zeit erneut mit Glasur einstreichen.
-- |-
-  TODO: Karotten in dünne Scheiben, Brokkoli in kleine Röschen schneiden. In Sesamöl mit Pflanzenöl 5 Minuten scharf anbraten. Zuckerschoten die letzten 2 Minuten dazugeben.
-- 'TODO: Hähnchen 5 Minuten ruhen lassen, dann in Scheiben schneiden.'
-- |-
-  TODO: Quinoa mit dem Gemüse mischen. Hähnchen darauflegen, mit Frühlingszwiebeln und Sesamkörnern garnieren.
+- Bring the quinoa to a boil in the vegetable broth, reduce heat, and simmer for 15
+  minutes until absorbed. Let steam covered for 5 minutes.
+- 'Make the miso glaze: whisk together the aka miso, mirin, sake, soy sauce, honey,
+  and pressed garlic until smooth.'
+- Preheat the oven to 200 °C (conventional). Place the chicken breasts on a baking
+  sheet and coat generously with the miso glaze.
+- Roast for 20–22 minutes, brushing with glaze again halfway through.
+- Slice the carrots thinly and cut the broccoli into small florets. Sear in sesame
+  oil with vegetable oil for 5 minutes. Add the sugar snap peas for the last 2 minutes.
+- Let the chicken rest for 5 minutes, then slice.
+- Toss the quinoa with the vegetables. Top with the chicken and garnish with spring
+  onions and sesame seeds.

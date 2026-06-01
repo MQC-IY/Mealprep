@@ -9,41 +9,42 @@ de:
   title: Hähnchen-Couscous mit Joghurt und Gemüse
   summary: Schnelle Couscous-Bowl mit Hähnchen, Paprika, Gurke und Joghurt.
 en:
-  title: 'TODO: Hähnchen-Couscous mit Joghurt und Gemüse'
-  summary: 'TODO: Schnelle Couscous-Bowl mit Hähnchen, Paprika, Gurke und Joghurt.'
+  title: Chicken Couscous with Yogurt and Vegetables
+  summary: A quick couscous bowl with seared chicken, roasted bell pepper, cucumber,
+    and a cool yogurt dressing — ready in under 25 minutes.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 750
   unit: g
   category: Protein und Milchprodukte
 - de_name: Couscous
-  en_name: 'TODO: Couscous'
+  en_name: couscous
   qty: 280
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Paprika
-  en_name: 'TODO: Paprika'
+  en_name: bell pepper
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Gurke
-  en_name: 'TODO: Gurke'
+  en_name: cucumber
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Naturjoghurt
-  en_name: 'TODO: Naturjoghurt'
+  en_name: plain yogurt
   qty: 180
   unit: g
   category: Protein und Milchprodukte
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -52,6 +53,6 @@ de_steps:
 - Hähnchen scharf anbraten.
 - Paprika weich garen und Gurke klein schneiden.
 en_steps:
-- 'TODO: Couscous quellen lassen.'
-- 'TODO: Hähnchen scharf anbraten.'
-- 'TODO: Paprika weich garen und Gurke klein schneiden.'
+- Soak the couscous in boiling water until fluffy.
+- Sear the chicken over high heat.
+- Cook the bell pepper until tender and dice the cucumber.

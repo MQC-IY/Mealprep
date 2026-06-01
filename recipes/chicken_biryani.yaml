@@ -6,141 +6,144 @@ next_day: true
 meals: 2
 de:
   title: Hähnchen-Biryani
-  summary: |-
-    Aromatisches Schichtgericht aus safrangewürztem Basmatireis und würzigem Hähnchen – das festliche Herzstück der indischen Küche.
+  summary: Aromatisches Schichtgericht aus safrangewürztem Basmatireis und würzigem
+    Hähnchen – das festliche Herzstück der indischen Küche.
 en:
-  title: 'TODO: Hähnchen-Biryani'
-  summary: |-
-    TODO: Aromatisches Schichtgericht aus safrangewürztem Basmatireis und würzigem Hähnchen – das festliche Herzstück der indischen Küche.
+  title: Chicken Biryani
+  summary: An aromatic layered dish of saffron-scented basmati rice and spiced chicken
+    – the festive centrepiece of Indian cuisine.
 ingredients:
 - de_name: Hähnchenkeulen, ohne Knochen
-  en_name: 'TODO: Hähnchenkeulen, ohne Knochen'
+  en_name: boneless chicken thighs
   qty: 600
   unit: g
   category: Protein und Milchprodukte
 - de_name: Vollfett-Joghurt
-  en_name: 'TODO: Vollfett-Joghurt'
+  en_name: full-fat yogurt
   qty: 150
   unit: g
   category: Protein und Milchprodukte
 - de_name: Butter
-  en_name: 'TODO: Butter'
+  en_name: butter
   qty: 40
   unit: g
   category: Protein und Milchprodukte
 - de_name: Milch, warm
-  en_name: 'TODO: Milch, warm'
+  en_name: warm milk
   qty: 50
   unit: ml
   category: Protein und Milchprodukte
 - de_name: Basmatireis
-  en_name: 'TODO: Basmatireis'
+  en_name: basmati rice
   qty: 350
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Zwiebeln
-  en_name: 'TODO: Zwiebeln'
+  en_name: onions
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 5
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Ingwer, frisch
-  en_name: 'TODO: Ingwer, frisch'
+  en_name: fresh ginger
   qty: 4
   unit: cm
   category: Gemüse und Salat
 - de_name: Frische Minzblätter
-  en_name: 'TODO: Frische Minzblätter'
+  en_name: fresh mint leaves
   qty: 0.5
   unit: Bund
   category: Gemüse und Salat
 - de_name: Frische Korianderblätter
-  en_name: 'TODO: Frische Korianderblätter'
+  en_name: fresh cilantro leaves
   qty: 0.5
   unit: Bund
   category: Gemüse und Salat
 - de_name: Pflanzenöl
-  en_name: 'TODO: Pflanzenöl'
+  en_name: vegetable oil
   qty: 4
   unit: EL
   category: Konserven und Vorrat
 - de_name: Safranfäden
-  en_name: 'TODO: Safranfäden'
+  en_name: saffron threads
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Garam Masala
-  en_name: 'TODO: Garam Masala'
+  en_name: garam masala
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Biryani-Masala
-  en_name: 'TODO: Biryani-Masala'
+  en_name: biryani masala
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Kurkuma
-  en_name: 'TODO: Kurkuma'
+  en_name: turmeric
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Kashmiri-Chilipulver
-  en_name: 'TODO: Kashmiri-Chilipulver'
+  en_name: Kashmiri chili powder
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Kardamom, ganz
-  en_name: 'TODO: Kardamom, ganz'
+  en_name: whole cardamom pods
   qty: 4
   unit: Stk
   category: Gewürze
 - de_name: Nelken, ganz
-  en_name: 'TODO: Nelken, ganz'
+  en_name: whole cloves
   qty: 4
   unit: Stk
   category: Gewürze
 - de_name: Zimtstange
-  en_name: 'TODO: Zimtstange'
+  en_name: cinnamon stick
   qty: 1
   unit: Stk
   category: Gewürze
 - de_name: Lorbeerblätter
-  en_name: 'TODO: Lorbeerblätter'
+  en_name: bay leaves
   qty: 2
   unit: Stk
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 2
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Hähnchen in große Stücke schneiden. Mit Joghurt, Garam Masala, Biryani-Masala, Kurkuma, Kashmiri-Chili und Salz marinieren. Mindestens 2 Stunden oder über Nacht marinieren.
-- |-
-  Safranfäden in warmer Milch einweichen. Zwiebeln in dünne Ringe schneiden und in reichlich Öl bei mittlerer Hitze 20 Minuten goldbraun und knusprig braten. Auf Küchenpapier abtropfen lassen.
-- |-
-  Basmatireis waschen und 20 Minuten einweichen. In stark gesalzenem Wasser mit Kardamom, Nelken, Zimtstange und Lorbeer 6 Minuten kochen – al dente halten. Abgießen.
-- |-
-  Im selben Topf das marinierte Hähnchen mit Knoblauch- und Ingwerpaste schichten. Die Hälfte der Zwiebeln darüberstreuen, dann die Hälfte von Minze und Koriander.
-- |-
-  Reis gleichmäßig über das Hähnchen schichten. Restliche Zwiebeln, Minze und Koriander darüber verteilen. Safranmilch und Butter in kleinen Stücken obendrauf geben.
-- |-
-  Topf fest verschließen (oder mit Alufolie abdichten) und bei sehr niedriger Hitze 35–40 Minuten dampfgaren (Dum-Methode). Nicht öffnen! Fertig servieren.
+- Hähnchen in große Stücke schneiden. Mit Joghurt, Garam Masala, Biryani-Masala, Kurkuma,
+  Kashmiri-Chili und Salz marinieren. Mindestens 2 Stunden oder über Nacht marinieren.
+- Safranfäden in warmer Milch einweichen. Zwiebeln in dünne Ringe schneiden und in
+  reichlich Öl bei mittlerer Hitze 20 Minuten goldbraun und knusprig braten. Auf Küchenpapier
+  abtropfen lassen.
+- Basmatireis waschen und 20 Minuten einweichen. In stark gesalzenem Wasser mit Kardamom,
+  Nelken, Zimtstange und Lorbeer 6 Minuten kochen – al dente halten. Abgießen.
+- Im selben Topf das marinierte Hähnchen mit Knoblauch- und Ingwerpaste schichten.
+  Die Hälfte der Zwiebeln darüberstreuen, dann die Hälfte von Minze und Koriander.
+- Reis gleichmäßig über das Hähnchen schichten. Restliche Zwiebeln, Minze und Koriander
+  darüber verteilen. Safranmilch und Butter in kleinen Stücken obendrauf geben.
+- Topf fest verschließen (oder mit Alufolie abdichten) und bei sehr niedriger Hitze
+  35–40 Minuten dampfgaren (Dum-Methode). Nicht öffnen! Fertig servieren.
 en_steps:
-- |-
-  TODO: Hähnchen in große Stücke schneiden. Mit Joghurt, Garam Masala, Biryani-Masala, Kurkuma, Kashmiri-Chili und Salz marinieren. Mindestens 2 Stunden oder über Nacht marinieren.
-- |-
-  TODO: Safranfäden in warmer Milch einweichen. Zwiebeln in dünne Ringe schneiden und in reichlich Öl bei mittlerer Hitze 20 Minuten goldbraun und knusprig braten. Auf Küchenpapier abtropfen lassen.
-- |-
-  TODO: Basmatireis waschen und 20 Minuten einweichen. In stark gesalzenem Wasser mit Kardamom, Nelken, Zimtstange und Lorbeer 6 Minuten kochen – al dente halten. Abgießen.
-- |-
-  TODO: Im selben Topf das marinierte Hähnchen mit Knoblauch- und Ingwerpaste schichten. Die Hälfte der Zwiebeln darüberstreuen, dann die Hälfte von Minze und Koriander.
-- |-
-  TODO: Reis gleichmäßig über das Hähnchen schichten. Restliche Zwiebeln, Minze und Koriander darüber verteilen. Safranmilch und Butter in kleinen Stücken obendrauf geben.
-- |-
-  TODO: Topf fest verschließen (oder mit Alufolie abdichten) und bei sehr niedriger Hitze 35–40 Minuten dampfgaren (Dum-Methode). Nicht öffnen! Fertig servieren.
+- Cut the chicken into large pieces. Marinate with yogurt, garam masala, biryani masala,
+  turmeric, Kashmiri chili, and salt. Marinate for at least 2 hours or overnight.
+- Soak the saffron threads in the warm milk. Slice the onions into thin rings and
+  fry in plenty of oil over medium heat for 20 minutes until golden and crispy. Drain
+  on kitchen paper.
+- Wash the basmati rice and soak for 20 minutes. Boil in heavily salted water with
+  the cardamom, cloves, cinnamon, and bay leaves for 6 minutes – keep it al dente.
+  Drain.
+- Layer the marinated chicken with garlic and ginger paste in the same pot. Scatter
+  half the fried onions over it, then half the mint and cilantro.
+- Layer the rice evenly over the chicken. Distribute the remaining onions, mint, and
+  cilantro on top. Add the saffron milk and butter in small pieces.
+- Seal the pot tightly (or cover with foil) and steam over very low heat for 35–40
+  minutes using the dum method. Do not open the lid! Serve directly.

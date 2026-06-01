@@ -9,41 +9,41 @@ de:
   title: Reispfanne mit Bohnen und Zucchini
   summary: Schnelle milde Reispfanne mit weißen Bohnen, Zucchini und Möhren.
 en:
-  title: 'TODO: Reispfanne mit Bohnen und Zucchini'
-  summary: 'TODO: Schnelle milde Reispfanne mit weißen Bohnen, Zucchini und Möhren.'
+  title: Rice Skillet with Beans and Zucchini
+  summary: Quick, mild rice skillet with white beans, zucchini, and carrots.
 ingredients:
 - de_name: Reis
-  en_name: 'TODO: Reis'
+  en_name: rice
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Weiße Bohnen
-  en_name: 'TODO: Weiße Bohnen'
+  en_name: white beans
   qty: 2
   unit: Dosen
   category: Konserven und Vorrat
 - de_name: Zucchini
-  en_name: 'TODO: Zucchini'
+  en_name: zucchini
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: carrots
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Paprika edelsüß
-  en_name: 'TODO: Paprika edelsüß'
+  en_name: sweet paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -52,6 +52,6 @@ de_steps:
 - Zucchini und Möhren weich garen.
 - Bohnen kurz erwärmen und alles mischen.
 en_steps:
-- 'TODO: Reis garen.'
-- 'TODO: Zucchini und Möhren weich garen.'
-- 'TODO: Bohnen kurz erwärmen und alles mischen.'
+- Cook the rice.
+- Cook zucchini and carrots until tender.
+- Warm the beans briefly and mix everything together.

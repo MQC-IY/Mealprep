@@ -6,87 +6,87 @@ next_day: true
 meals: 3
 de:
   title: Französischer Linsen-Möhren-Eintopf
-  summary: |-
-    Französisch inspirierter Linsentopf mit Möhren, Kartoffeln, Lauch, Knoblauch und Kräutern der Provence.
+  summary: Französisch inspirierter Linsentopf mit Möhren, Kartoffeln, Lauch, Knoblauch
+    und Kräutern der Provence.
 en:
-  title: 'TODO: Französischer Linsen-Möhren-Eintopf'
-  summary: |-
-    TODO: Französisch inspirierter Linsentopf mit Möhren, Kartoffeln, Lauch, Knoblauch und Kräutern der Provence.
+  title: French Lentil & Carrot Stew
+  summary: French-inspired lentil pot with carrots, potatoes, leek, garlic, and herbes
+    de Provence.
 ingredients:
 - de_name: Braune Linsen
-  en_name: 'TODO: Braune Linsen'
+  en_name: Brown lentils
   qty: 300
   unit: g
   category: Konserven und Vorrat
 - de_name: Kartoffeln
-  en_name: 'TODO: Kartoffeln'
+  en_name: Potatoes
   qty: 700
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: Carrots
   qty: 4
   unit: Stk
   category: Gemüse und Salat
 - de_name: Lauch
-  en_name: 'TODO: Lauch'
+  en_name: Leek
   qty: 1
   unit: Stange
   category: Gemüse und Salat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: Onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: Garlic
   qty: 2
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Kräuter der Provence
-  en_name: 'TODO: Kräuter der Provence'
+  en_name: Herbes de Provence
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Thymian, getrocknet
-  en_name: 'TODO: Thymian, getrocknet'
+  en_name: Dried thyme
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Rosmarin, getrocknet
-  en_name: 'TODO: Rosmarin, getrocknet'
+  en_name: Dried rosemary
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Dijon-Senf
-  en_name: 'TODO: Dijon-Senf'
+  en_name: Dijon mustard
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Rotwein oder Rotweinessig
-  en_name: 'TODO: Rotwein oder Rotweinessig'
+  en_name: Red wine or red wine vinegar
   qty: 100
   unit: ml
   category: Konserven und Vorrat
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chilli flakes
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
 - Linsen abspülen.
 - Kartoffeln, Möhren, Lauch, Zwiebel und Knoblauch klein schneiden.
-- |-
-  Gemüse in Olivenöl anschwitzen, Kräuter kurz mitziehen lassen und Linsen sowie Wasser zugeben.
+- Gemüse in Olivenöl anschwitzen, Kräuter kurz mitziehen lassen und Linsen sowie Wasser
+  zugeben.
 - Alles weich und aromatisch köcheln lassen.
 en_steps:
-- 'TODO: Linsen abspülen.'
-- 'TODO: Kartoffeln, Möhren, Lauch, Zwiebel und Knoblauch klein schneiden.'
-- |-
-  TODO: Gemüse in Olivenöl anschwitzen, Kräuter kurz mitziehen lassen und Linsen sowie Wasser zugeben.
-- 'TODO: Alles weich und aromatisch köcheln lassen.'
+- Rinse the lentils.
+- Dice the potatoes, carrots, leek, onion, and garlic.
+- Sweat the vegetables in olive oil, briefly let the herbs bloom, then add the lentils
+  and water.
+- Simmer everything until soft and fragrant.

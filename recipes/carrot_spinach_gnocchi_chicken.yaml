@@ -9,41 +9,41 @@ de:
   title: Hähnchen-Gnocchi mit Möhren und Spinat
   summary: Sehr schnelles Gnocchigericht mit Hähnchen, Möhren und Spinat.
 en:
-  title: 'TODO: Hähnchen-Gnocchi mit Möhren und Spinat'
-  summary: 'TODO: Sehr schnelles Gnocchigericht mit Hähnchen, Möhren und Spinat.'
+  title: Chicken Gnocchi with Carrots and Spinach
+  summary: A very quick gnocchi dish with chicken, carrots, and spinach.
 ingredients:
 - de_name: Gnocchi
-  en_name: 'TODO: Gnocchi'
+  en_name: gnocchi
   qty: 800
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 700
   unit: g
   category: Protein und Milchprodukte
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: carrots
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Blattspinat
-  en_name: 'TODO: Blattspinat'
+  en_name: baby spinach
   qty: 150
   unit: g
   category: Gemüse und Salat
 - de_name: Frischkäse natur
-  en_name: 'TODO: Frischkäse natur'
+  en_name: cream cheese
   qty: 100
   unit: g
   category: Protein und Milchprodukte
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -52,6 +52,6 @@ de_steps:
 - Hähnchen scharf anbraten und Möhren weich garen.
 - Spinat und Frischkäse unterheben.
 en_steps:
-- 'TODO: Gnocchi weich garen.'
-- 'TODO: Hähnchen scharf anbraten und Möhren weich garen.'
-- 'TODO: Spinat und Frischkäse unterheben.'
+- Cook the gnocchi until tender.
+- Sear the chicken over high heat and cook the carrots until tender.
+- Fold in the spinach and cream cheese.

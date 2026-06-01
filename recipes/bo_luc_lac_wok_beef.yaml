@@ -7,107 +7,103 @@ quick_minutes: 25
 meals: 2
 de:
   title: Bò Lúc Lắc – Wok-gebratenes Rindfleisch auf Reis
-  summary: |-
-    Vietnamesisches 'Shaking Beef' – zartes Rindfleisch in würziger Marinade, scharf im Wok gebraten, auf Reis mit frischem Salat.
+  summary: Vietnamesisches 'Shaking Beef' – zartes Rindfleisch in würziger Marinade,
+    scharf im Wok gebraten, auf Reis mit frischem Salat.
 en:
-  title: 'TODO: Bò Lúc Lắc – Wok-gebratenes Rindfleisch auf Reis'
-  summary: |-
-    TODO: Vietnamesisches 'Shaking Beef' – zartes Rindfleisch in würziger Marinade, scharf im Wok gebraten, auf Reis mit frischem Salat.
+  title: Bò Lúc Lắc – Wok-Fried Beef on Rice
+  summary: Vietnamese 'shaking beef' — tender beef in a flavourful marinade, seared
+    at high heat in a wok, served on rice with fresh salad.
 ingredients:
 - de_name: Rindersteak (Hüfte oder Rücken)
-  en_name: 'TODO: Rindersteak (Hüfte oder Rücken)'
+  en_name: beef steak (rump or sirloin)
   qty: 400
   unit: g
   category: Protein und Milchprodukte
 - de_name: Jasminreis
-  en_name: 'TODO: Jasminreis'
+  en_name: jasmine rice
   qty: 200
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Zwiebel (rot)
-  en_name: 'TODO: Zwiebel (rot)'
+  en_name: red onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Tomaten
-  en_name: 'TODO: Tomaten'
+  en_name: tomatoes
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Blattsalat (Kopfsalat oder Römersalat)
-  en_name: 'TODO: Blattsalat (Kopfsalat oder Römersalat)'
+  en_name: lettuce (butter lettuce or romaine)
   qty: 100
   unit: g
   category: Gemüse und Salat
 - de_name: Frühlingszwiebeln
-  en_name: 'TODO: Frühlingszwiebeln'
+  en_name: spring onions
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Sojasauce
-  en_name: 'TODO: Sojasauce'
+  en_name: soy sauce
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Fischsauce
-  en_name: 'TODO: Fischsauce'
+  en_name: fish sauce
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Austernsauce
-  en_name: 'TODO: Austernsauce'
+  en_name: oyster sauce
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Zucker
-  en_name: 'TODO: Zucker'
+  en_name: sugar
   qty: 1
   unit: TL
   category: Konserven und Vorrat
 - de_name: Erdnussöl
-  en_name: 'TODO: Erdnussöl'
+  en_name: peanut oil
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Limetten
-  en_name: 'TODO: Limetten'
+  en_name: limes
   qty: 2
   unit: Stk
   category: Obst
 - de_name: Schwarzer Pfeffer, grob gemahlen
-  en_name: 'TODO: Schwarzer Pfeffer, grob gemahlen'
+  en_name: black pepper, coarsely ground
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
 - Jasminreis waschen und kochen.
-- |-
-  Rindfleisch in 3-cm-Würfel schneiden. Knoblauch fein hacken. Rote Zwiebel in halbe Ringe schneiden.
-- |-
-  Marinade: Sojasauce, Fischsauce, Austernsauce, Zucker und die Hälfte des Knoblauchs verrühren. Fleisch 20 Minuten darin marinieren.
+- Rindfleisch in 3-cm-Würfel schneiden. Knoblauch fein hacken. Rote Zwiebel in halbe
+  Ringe schneiden.
+- 'Marinade: Sojasauce, Fischsauce, Austernsauce, Zucker und die Hälfte des Knoblauchs
+  verrühren. Fleisch 20 Minuten darin marinieren.'
 - Salat auf Tellern anrichten. Tomaten in Scheiben darauf legen.
-- |-
-  Öl im Wok bei maximaler Hitze erhitzen bis es leicht raucht. Rindfleisch portionsweise scharf 2–3 Minuten anbraten, dabei ständig schütteln.
+- Öl im Wok bei maximaler Hitze erhitzen bis es leicht raucht. Rindfleisch portionsweise
+  scharf 2–3 Minuten anbraten, dabei ständig schütteln.
 - Restlichen Knoblauch und Zwiebelringe zugeben und 1 Minute mitbraten.
-- |-
-  Fleisch auf den Salat geben. Mit grobem schwarzen Pfeffer und Limettensaft übergießen.
+- Fleisch auf den Salat geben. Mit grobem schwarzen Pfeffer und Limettensaft übergießen.
 - Mit Frühlingszwiebeln bestreuen und sofort servieren. Reis separat reichen.
 en_steps:
-- 'TODO: Jasminreis waschen und kochen.'
-- |-
-  TODO: Rindfleisch in 3-cm-Würfel schneiden. Knoblauch fein hacken. Rote Zwiebel in halbe Ringe schneiden.
-- |-
-  TODO: Marinade: Sojasauce, Fischsauce, Austernsauce, Zucker und die Hälfte des Knoblauchs verrühren. Fleisch 20 Minuten darin marinieren.
-- 'TODO: Salat auf Tellern anrichten. Tomaten in Scheiben darauf legen.'
-- |-
-  TODO: Öl im Wok bei maximaler Hitze erhitzen bis es leicht raucht. Rindfleisch portionsweise scharf 2–3 Minuten anbraten, dabei ständig schütteln.
-- 'TODO: Restlichen Knoblauch und Zwiebelringe zugeben und 1 Minute mitbraten.'
-- |-
-  TODO: Fleisch auf den Salat geben. Mit grobem schwarzen Pfeffer und Limettensaft übergießen.
-- |-
-  TODO: Mit Frühlingszwiebeln bestreuen und sofort servieren. Reis separat reichen.
+- Wash and cook jasmine rice.
+- Cut beef into 3 cm cubes. Finely chop garlic. Slice red onion into half-rings.
+- 'Marinade: stir together soy sauce, fish sauce, oyster sauce, sugar, and half the
+  garlic. Marinate the beef for 20 minutes.'
+- Arrange lettuce on plates. Top with tomato slices.
+- Heat oil in a wok over maximum heat until lightly smoking. Sear beef in batches
+  for 2–3 minutes, shaking the wok constantly.
+- Add remaining garlic and onion rings; stir-fry for 1 minute.
+- Pile beef onto the salad. Drizzle with coarsely ground black pepper and lime juice.
+- Scatter spring onions over and serve immediately. Serve rice on the side.

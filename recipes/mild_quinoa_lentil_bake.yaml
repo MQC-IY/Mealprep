@@ -8,41 +8,42 @@ de:
   title: Quinoa-Linsen-Auflauf
   summary: Auflauf mit Quinoa, roten Linsen, Möhren und Joghurt-Ei-Guss.
 en:
-  title: 'TODO: Quinoa-Linsen-Auflauf'
-  summary: 'TODO: Auflauf mit Quinoa, roten Linsen, Möhren und Joghurt-Ei-Guss.'
+  title: Mild Quinoa and Lentil Bake
+  summary: A baked dish of quinoa, red lentils, and carrots finished with a yogurt
+    and egg topping.
 ingredients:
 - de_name: Quinoa
-  en_name: 'TODO: Quinoa'
+  en_name: Quinoa
   qty: 240
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Rote Linsen
-  en_name: 'TODO: Rote Linsen'
+  en_name: Red lentils
   qty: 180
   unit: g
   category: Konserven und Vorrat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: Carrots
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Eier
-  en_name: 'TODO: Eier'
+  en_name: Eggs
   qty: 3
   unit: Stk
   category: Protein und Milchprodukte
 - de_name: Naturjoghurt
-  en_name: 'TODO: Naturjoghurt'
+  en_name: Plain yogurt
   qty: 180
   unit: g
   category: Protein und Milchprodukte
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -51,6 +52,7 @@ de_steps:
 - Möhren fein würfeln und kurz vorgaren.
 - Alles in eine Form geben, Eier mit Joghurt verrühren und darübergeben.
 en_steps:
-- 'TODO: Quinoa und Linsen vorgaren.'
-- 'TODO: Möhren fein würfeln und kurz vorgaren.'
-- 'TODO: Alles in eine Form geben, Eier mit Joghurt verrühren und darübergeben.'
+- Par-cook the quinoa and lentils.
+- Finely dice the carrots and briefly pre-cook.
+- Transfer everything to a baking dish. Whisk the eggs with the yogurt and pour over
+  the top. Bake until set.

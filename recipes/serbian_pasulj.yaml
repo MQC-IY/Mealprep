@@ -6,114 +6,116 @@ next_day: true
 meals: 2
 de:
   title: Serbisches Pasulj – Bohneneintopf mit Speck
-  summary: |-
-    Der deftige serbische Bohneneintopf mit geräuchertem Speck, Paprika und Ajvar – sättigend, rauchig und mit tiefem Balkan-Charakter.
+  summary: Der deftige serbische Bohneneintopf mit geräuchertem Speck, Paprika und
+    Ajvar – sättigend, rauchig und mit tiefem Balkan-Charakter.
 en:
-  title: 'TODO: Serbisches Pasulj – Bohneneintopf mit Speck'
-  summary: |-
-    TODO: Der deftige serbische Bohneneintopf mit geräuchertem Speck, Paprika und Ajvar – sättigend, rauchig und mit tiefem Balkan-Charakter.
+  title: Serbian Pasulj – Bean Stew with Bacon
+  summary: The quintessential Serbian bean stew with smoked bacon, paprika, and ajvar
+    — hearty, smoky, and full of Balkan character.
 ingredients:
 - de_name: Weiße Bohnen (Dose)
-  en_name: 'TODO: Weiße Bohnen (Dose)'
+  en_name: white beans (canned)
   qty: 2
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Ajvar (aus dem Glas)
-  en_name: 'TODO: Ajvar (aus dem Glas)'
+  en_name: ajvar (from a jar)
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Gemüsebrühe
-  en_name: 'TODO: Gemüsebrühe'
+  en_name: vegetable broth
   qty: 500
   unit: ml
   category: Konserven und Vorrat
 - de_name: Olivenöl oder Schmalz
-  en_name: 'TODO: Olivenöl oder Schmalz'
+  en_name: olive oil or lard
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Geräucherter Speck (Bauchspeck, am Stück)
-  en_name: 'TODO: Geräucherter Speck (Bauchspeck, am Stück)'
+  en_name: smoked bacon (pork belly, in one piece)
   qty: 200
   unit: g
   category: Protein und Milchprodukte
 - de_name: Geräucherte Paprikawurst (Kulen oder Chorizo)
-  en_name: 'TODO: Geräucherte Paprikawurst (Kulen oder Chorizo)'
+  en_name: smoked paprika sausage (Kulen or chorizo)
   qty: 150
   unit: g
   category: Protein und Milchprodukte
 - de_name: Zwiebeln
-  en_name: 'TODO: Zwiebeln'
+  en_name: onions
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Paprikaschoten, rot
-  en_name: 'TODO: Paprikaschoten, rot'
+  en_name: red bell peppers
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Karotten
-  en_name: 'TODO: Karotten'
+  en_name: carrots
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Edelsüßes Paprikapulver
-  en_name: 'TODO: Edelsüßes Paprikapulver'
+  en_name: sweet paprika
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Scharfes Paprikapulver
-  en_name: 'TODO: Scharfes Paprikapulver'
+  en_name: hot paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Lorbeerblätter
-  en_name: 'TODO: Lorbeerblätter'
+  en_name: bay leaves
   qty: 2
   unit: Stk
   category: Gewürze
 - de_name: Kümmel (gemahlen)
-  en_name: 'TODO: Kümmel (gemahlen)'
+  en_name: caraway (ground)
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Speck in große Würfel schneiden, Wurst in dicke Scheiben. In einem großen Topf bei mittlerer Hitze Speck auslassen, bis Fett austritt. Wurst hinzufügen und 3 Minuten mitanbraten.
-- |-
-  Zwiebeln würfeln, Karotten in Scheiben schneiden, Paprika würfeln. Alles zum Fleisch geben und 8 Minuten weich dünsten.
-- |-
-  Knoblauch pressen, edelsüßes und scharfes Paprikapulver und Kümmel einrühren. 1 Minute bei mittlerer Hitze rösten.
-- |-
-  Ajvar, Gemüsebrühe und abgetropfte Bohnen hinzufügen. Lorbeerblätter einlegen, pfeffern. Alles verrühren und zum Kochen bringen.
-- |-
-  Hitze reduzieren, zugedeckt 30 Minuten köcheln. Etwa ein Fünftel der Bohnen mit einem Löffel zerdrücken, um den Eintopf zu binden. Abschmecken.
+- Speck in große Würfel schneiden, Wurst in dicke Scheiben. In einem großen Topf bei
+  mittlerer Hitze Speck auslassen, bis Fett austritt. Wurst hinzufügen und 3 Minuten
+  mitanbraten.
+- Zwiebeln würfeln, Karotten in Scheiben schneiden, Paprika würfeln. Alles zum Fleisch
+  geben und 8 Minuten weich dünsten.
+- Knoblauch pressen, edelsüßes und scharfes Paprikapulver und Kümmel einrühren. 1
+  Minute bei mittlerer Hitze rösten.
+- Ajvar, Gemüsebrühe und abgetropfte Bohnen hinzufügen. Lorbeerblätter einlegen, pfeffern.
+  Alles verrühren und zum Kochen bringen.
+- Hitze reduzieren, zugedeckt 30 Minuten köcheln. Etwa ein Fünftel der Bohnen mit
+  einem Löffel zerdrücken, um den Eintopf zu binden. Abschmecken.
 - Mit frischem Brot oder Baguette servieren.
 en_steps:
-- |-
-  TODO: Speck in große Würfel schneiden, Wurst in dicke Scheiben. In einem großen Topf bei mittlerer Hitze Speck auslassen, bis Fett austritt. Wurst hinzufügen und 3 Minuten mitanbraten.
-- |-
-  TODO: Zwiebeln würfeln, Karotten in Scheiben schneiden, Paprika würfeln. Alles zum Fleisch geben und 8 Minuten weich dünsten.
-- |-
-  TODO: Knoblauch pressen, edelsüßes und scharfes Paprikapulver und Kümmel einrühren. 1 Minute bei mittlerer Hitze rösten.
-- |-
-  TODO: Ajvar, Gemüsebrühe und abgetropfte Bohnen hinzufügen. Lorbeerblätter einlegen, pfeffern. Alles verrühren und zum Kochen bringen.
-- |-
-  TODO: Hitze reduzieren, zugedeckt 30 Minuten köcheln. Etwa ein Fünftel der Bohnen mit einem Löffel zerdrücken, um den Eintopf zu binden. Abschmecken.
-- 'TODO: Mit frischem Brot oder Baguette servieren.'
+- Cut the bacon into large cubes and the sausage into thick slices. In a large pot
+  over medium heat, render the bacon until fat is released. Add the sausage and fry
+  for 3 minutes.
+- Dice the onions, slice the carrots, and dice the bell peppers. Add everything to
+  the meat and sweat for 8 minutes until soft.
+- Press the garlic, then stir in the sweet and hot paprika and caraway. Toast over
+  medium heat for 1 minute.
+- Add the ajvar, vegetable broth, and drained beans. Add the bay leaves and season
+  with pepper. Stir everything together and bring to a boil.
+- Reduce the heat and simmer covered for 30 minutes. Mash about one-fifth of the beans
+  with a spoon to thicken the stew. Adjust seasoning.
+- Serve with fresh bread or baguette.

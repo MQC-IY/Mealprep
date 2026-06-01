@@ -4,94 +4,110 @@ healthy: true
 meals: 8
 de:
   title: Kürbis-Joghurt-Kuchen mit Walnüssen
-  summary: "Saftiger Herbstkuchen mit Kürbispüree, Joghurt und wärmenden Gewürzen, getoppt mit knackigen Walnüssen — ohne Weißmehl und mit natürlicher Süße."
+  summary: Saftiger Herbstkuchen mit Kürbispüree, Joghurt und wärmenden Gewürzen,
+    getoppt mit knackigen Walnüssen — ohne Weißmehl und mit natürlicher Süße.
 en:
-  title: "TODO: Kürbis-Joghurt-Kuchen mit Walnüssen"
-  summary: "TODO: Saftiger Herbstkuchen mit Kürbispüree, Joghurt und wärmenden Gewürzen, getoppt mit knackigen Walnüssen — ohne Weißmehl und mit natürlicher Süße."
+  title: Pumpkin Yogurt Cake with Walnuts
+  summary: A moist autumn cake made with pumpkin puree, yogurt, and warming spices,
+    topped with crunchy walnuts — no white flour and naturally sweetened.
 ingredients:
-  - de_name: "Hokkaido-Kürbis (geschält, ohne Kerne)"
-    en_name: "TODO: Hokkaido-Kürbis (geschält, ohne Kerne)"
-    qty: 600
-    unit: g
-    category: Gemüse und Salat
-  - de_name: Vollkorndinkelmehl
-    en_name: "TODO: Vollkorndinkelmehl"
-    qty: 350
-    unit: g
-    category: Kohlenhydrate und Sattmacher
-  - de_name: Backpulver
-    en_name: "TODO: Backpulver"
-    qty: 3
-    unit: TL
-    category: Konserven und Vorrat
-  - de_name: Natron
-    en_name: "TODO: Natron"
-    qty: 1
-    unit: TL
-    category: Konserven und Vorrat
-  - de_name: Zimt gemahlen
-    en_name: "TODO: Zimt gemahlen"
-    qty: 2
-    unit: TL
-    category: Gewürze
-  - de_name: Ingwer gemahlen
-    en_name: "TODO: Ingwer gemahlen"
-    qty: 1
-    unit: TL
-    category: Gewürze
-  - de_name: Muskatnuss gemahlen
-    en_name: "TODO: Muskatnuss gemahlen"
-    qty: 0.5
-    unit: TL
-    category: Gewürze
-  - de_name: Salz
-    en_name: "TODO: Salz"
-    qty: 1
-    unit: Prise
-    category: Gewürze
-  - de_name: Eier
-    en_name: "TODO: Eier"
-    qty: 4
-    unit: Stk
-    category: Protein und Milchprodukte
-  - de_name: Naturjoghurt
-    en_name: "TODO: Naturjoghurt"
-    qty: 300
-    unit: g
-    category: Protein und Milchprodukte
-  - de_name: Kokosöl (geschmolzen)
-    en_name: "TODO: Kokosöl (geschmolzen)"
-    qty: 80
-    unit: ml
-    category: Konserven und Vorrat
-  - de_name: Ahornsirup oder Honig
-    en_name: "TODO: Ahornsirup oder Honig"
-    qty: 6
-    unit: EL
-    category: Konserven und Vorrat
-  - de_name: Vanilleextrakt
-    en_name: "TODO: Vanilleextrakt"
-    qty: 2
-    unit: TL
-    category: Gewürze
-  - de_name: Walnüsse grob gehackt
-    en_name: "TODO: Walnüsse grob gehackt"
-    qty: 100
-    unit: g
-    category: Konserven und Vorrat
+- de_name: Hokkaido-Kürbis (geschält, ohne Kerne)
+  en_name: Hokkaido pumpkin (peeled, seeds removed)
+  qty: 600
+  unit: g
+  category: Gemüse und Salat
+- de_name: Vollkorndinkelmehl
+  en_name: Whole-grain spelt flour
+  qty: 350
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Backpulver
+  en_name: Baking powder
+  qty: 3
+  unit: TL
+  category: Konserven und Vorrat
+- de_name: Natron
+  en_name: Baking soda
+  qty: 1
+  unit: TL
+  category: Konserven und Vorrat
+- de_name: Zimt gemahlen
+  en_name: Cinnamon, ground
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Ingwer gemahlen
+  en_name: Ginger, ground
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Muskatnuss gemahlen
+  en_name: Nutmeg, ground
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Salz
+  en_name: Salt
+  qty: 1
+  unit: Prise
+  category: Gewürze
+- de_name: Eier
+  en_name: Eggs
+  qty: 4
+  unit: Stk
+  category: Protein und Milchprodukte
+- de_name: Naturjoghurt
+  en_name: Plain yogurt
+  qty: 300
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Kokosöl (geschmolzen)
+  en_name: Coconut oil (melted)
+  qty: 80
+  unit: ml
+  category: Konserven und Vorrat
+- de_name: Ahornsirup oder Honig
+  en_name: Maple syrup or honey
+  qty: 6
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Vanilleextrakt
+  en_name: Vanilla extract
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Walnüsse grob gehackt
+  en_name: Walnuts, roughly chopped
+  qty: 100
+  unit: g
+  category: Konserven und Vorrat
 de_steps:
-  - "Kürbisfleisch in Würfel schneiden, im Ofen bei 200 °C 25 Minuten weich garen oder im Topf mit etwas Wasser weichkochen. Abtropfen lassen und zu einem glatten Püree stampfen."
-  - Ofen auf 175 °C Ober-/Unterhitze vorheizen. Eine Springform (26 cm) mit Backpapier auslegen.
-  - "Vollkorndinkelmehl, Backpulver, Natron, Zimt, Ingwer, Muskat und Salz in einer Schüssel vermengen."
-  - "In einer anderen Schüssel Eier, Joghurt, geschmolzenes Kokosöl, Honig, Vanilleextrakt und abgekühltes Kürbispüree cremig verrühren."
-  - Feuchte Zutaten zu den trockenen geben und zu einem glatten Teig verrühren.
-  - "Teig in die Form füllen, glattstreichen und mit gehackten Walnüssen bestreuen."
-  - "Im vorgeheizten Ofen 45–50 Minuten backen, bis ein Zahnstocher sauber herauskommt. In der Form 15 Minuten abkühlen lassen, dann auf einem Gitter vollständig auskühlen. Kühl und luftdicht gelagert bis zu 5 Tage haltbar."
+- Kürbisfleisch in Würfel schneiden, im Ofen bei 200 °C 25 Minuten weich garen oder
+  im Topf mit etwas Wasser weichkochen. Abtropfen lassen und zu einem glatten Püree
+  stampfen.
+- Ofen auf 175 °C Ober-/Unterhitze vorheizen. Eine Springform (26 cm) mit Backpapier
+  auslegen.
+- Vollkorndinkelmehl, Backpulver, Natron, Zimt, Ingwer, Muskat und Salz in einer Schüssel
+  vermengen.
+- In einer anderen Schüssel Eier, Joghurt, geschmolzenes Kokosöl, Honig, Vanilleextrakt
+  und abgekühltes Kürbispüree cremig verrühren.
+- Feuchte Zutaten zu den trockenen geben und zu einem glatten Teig verrühren.
+- Teig in die Form füllen, glattstreichen und mit gehackten Walnüssen bestreuen.
+- Im vorgeheizten Ofen 45–50 Minuten backen, bis ein Zahnstocher sauber herauskommt.
+  In der Form 15 Minuten abkühlen lassen, dann auf einem Gitter vollständig auskühlen.
+  Kühl und luftdicht gelagert bis zu 5 Tage haltbar.
 en_steps:
-  - "TODO: Kürbisfleisch in Würfel schneiden, im Ofen bei 200 °C 25 Minuten weich garen oder im Topf mit etwas Wasser weichkochen. Abtropfen lassen und zu einem glatten Püree stampfen."
-  - "TODO: Ofen auf 175 °C Ober-/Unterhitze vorheizen. Eine Springform (26 cm) mit Backpapier auslegen."
-  - "TODO: Vollkorndinkelmehl, Backpulver, Natron, Zimt, Ingwer, Muskat und Salz in einer Schüssel vermengen."
-  - "TODO: In einer anderen Schüssel Eier, Joghurt, geschmolzenes Kokosöl, Honig, Vanilleextrakt und abgekühltes Kürbispüree cremig verrühren."
-  - "TODO: Feuchte Zutaten zu den trockenen geben und zu einem glatten Teig verrühren."
-  - "TODO: Teig in die Form füllen, glattstreichen und mit gehackten Walnüssen bestreuen."
-  - "TODO: Im vorgeheizten Ofen 45–50 Minuten backen, bis ein Zahnstocher sauber herauskommt. In der Form 15 Minuten abkühlen lassen, dann auf einem Gitter vollständig auskühlen. Kühl und luftdicht gelagert bis zu 5 Tage haltbar."
+- Cut the pumpkin into cubes and roast in the oven at 200 °C (400 °F) for 25 minutes
+  until soft, or cook in a pot with a little water. Drain and mash into a smooth puree.
+- Preheat the oven to 175 °C (350 °F). Line a 26 cm springform pan with parchment
+  paper.
+- Combine the spelt flour, baking powder, baking soda, cinnamon, ginger, nutmeg, and
+  salt in a bowl.
+- In a separate bowl, whisk together the eggs, yogurt, melted coconut oil, honey,
+  vanilla extract, and cooled pumpkin puree until smooth.
+- Add the wet ingredients to the dry ingredients and stir into a smooth batter.
+- Pour the batter into the prepared pan, smooth the surface, and scatter the chopped
+  walnuts on top.
+- Bake in the preheated oven for 45–50 minutes until a skewer comes out clean. Cool
+  in the pan for 15 minutes, then transfer to a wire rack to cool completely. Keeps
+  well wrapped in the fridge for up to 5 days.

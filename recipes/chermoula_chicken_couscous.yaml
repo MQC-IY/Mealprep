@@ -7,126 +7,127 @@ quick_minutes: 25
 meals: 2
 de:
   title: Marokkanisches Chermoula-Hähnchen mit Couscous
-  summary: |-
-    Hähnchen in einer lebhaften Chermoula-Marinade aus Koriander, Kreuzkümmel und Zitrone – gegrillt und auf fluffigem Couscous serviert.
+  summary: Hähnchen in einer lebhaften Chermoula-Marinade aus Koriander, Kreuzkümmel
+    und Zitrone – gegrillt und auf fluffigem Couscous serviert.
 en:
-  title: 'TODO: Marokkanisches Chermoula-Hähnchen mit Couscous'
-  summary: |-
-    TODO: Hähnchen in einer lebhaften Chermoula-Marinade aus Koriander, Kreuzkümmel und Zitrone – gegrillt und auf fluffigem Couscous serviert.
+  title: Moroccan Chermoula Chicken with Couscous
+  summary: Chicken marinated in a vibrant Chermoula paste of cilantro, cumin, and
+    lemon – grilled and served over fluffy couscous.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 600
   unit: g
   category: Protein und Milchprodukte
 - de_name: Frische Korianderblätter
-  en_name: 'TODO: Frische Korianderblätter'
+  en_name: fresh cilantro leaves
   qty: 1
   unit: Bund
   category: Gemüse und Salat
 - de_name: Frische Petersilie
-  en_name: 'TODO: Frische Petersilie'
+  en_name: fresh parsley
   qty: 0.5
   unit: Bund
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Rote Zwiebel
-  en_name: 'TODO: Rote Zwiebel'
+  en_name: red onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Paprika, rot
-  en_name: 'TODO: Paprika, rot'
+  en_name: red bell pepper
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zucchini
-  en_name: 'TODO: Zucchini'
+  en_name: zucchini
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zitrone
-  en_name: 'TODO: Zitrone'
+  en_name: lemons
   qty: 2
   unit: Stk
   category: Obst
 - de_name: Couscous
-  en_name: 'TODO: Couscous'
+  en_name: couscous
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 5
   unit: EL
   category: Konserven und Vorrat
 - de_name: Gemüsebrühe
-  en_name: 'TODO: Gemüsebrühe'
+  en_name: vegetable stock
   qty: 350
   unit: ml
   category: Konserven und Vorrat
 - de_name: Kreuzkümmel, gemahlen
-  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  en_name: ground cumin
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Koriander, gemahlen
-  en_name: 'TODO: Koriander, gemahlen'
+  en_name: ground coriander
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Paprikapulver
-  en_name: 'TODO: Paprikapulver'
+  en_name: sweet paprika
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Chilipulver
-  en_name: 'TODO: Chilipulver'
+  en_name: chili powder
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Kurkuma
-  en_name: 'TODO: Kurkuma'
+  en_name: turmeric
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Für die Chermoula: Koriander, Petersilie, Knoblauch, Kreuzkümmel, Koriander, Paprika, Chili, Kurkuma, Salz, Zitronensaft und 4 EL Olivenöl im Mixer zu einer glatten Paste verarbeiten.
-- |-
-  Hähnchenbrust mehrfach einschneiden. Zwei Drittel der Chermoula über das Hähnchen reiben, 1 Stunde marinieren.
-- |-
-  Hähnchen in einer heißen Grillpfanne oder im Backofen bei 200°C 20–25 Minuten grillen, bis durchgegart. Kurz ruhen lassen, dann in Streifen schneiden.
-- |-
-  Paprika und Zucchini in Würfel schneiden. In 1 EL Olivenöl 5–7 Minuten anbraten, bis weich und leicht angebräunt.
-- |-
-  Couscous in eine Schüssel geben. Heiße Gemüsebrühe (ca. 350 ml) darübergießen, bedeckt 5 Minuten quellen lassen. Mit einer Gabel auflockern.
-- |-
-  Couscous mit der restlichen Chermoula vermengen, gebratenes Gemüse unterheben. Hähnchen darüber anrichten. Mit Zitronenspalten servieren.
+- 'Für die Chermoula: Koriander, Petersilie, Knoblauch, Kreuzkümmel, Koriander, Paprika,
+  Chili, Kurkuma, Salz, Zitronensaft und 4 EL Olivenöl im Mixer zu einer glatten Paste
+  verarbeiten.'
+- Hähnchenbrust mehrfach einschneiden. Zwei Drittel der Chermoula über das Hähnchen
+  reiben, 1 Stunde marinieren.
+- Hähnchen in einer heißen Grillpfanne oder im Backofen bei 200°C 20–25 Minuten grillen,
+  bis durchgegart. Kurz ruhen lassen, dann in Streifen schneiden.
+- Paprika und Zucchini in Würfel schneiden. In 1 EL Olivenöl 5–7 Minuten anbraten,
+  bis weich und leicht angebräunt.
+- Couscous in eine Schüssel geben. Heiße Gemüsebrühe (ca. 350 ml) darübergießen, bedeckt
+  5 Minuten quellen lassen. Mit einer Gabel auflockern.
+- Couscous mit der restlichen Chermoula vermengen, gebratenes Gemüse unterheben. Hähnchen
+  darüber anrichten. Mit Zitronenspalten servieren.
 en_steps:
-- |-
-  TODO: Für die Chermoula: Koriander, Petersilie, Knoblauch, Kreuzkümmel, Koriander, Paprika, Chili, Kurkuma, Salz, Zitronensaft und 4 EL Olivenöl im Mixer zu einer glatten Paste verarbeiten.
-- |-
-  TODO: Hähnchenbrust mehrfach einschneiden. Zwei Drittel der Chermoula über das Hähnchen reiben, 1 Stunde marinieren.
-- |-
-  TODO: Hähnchen in einer heißen Grillpfanne oder im Backofen bei 200°C 20–25 Minuten grillen, bis durchgegart. Kurz ruhen lassen, dann in Streifen schneiden.
-- |-
-  TODO: Paprika und Zucchini in Würfel schneiden. In 1 EL Olivenöl 5–7 Minuten anbraten, bis weich und leicht angebräunt.
-- |-
-  TODO: Couscous in eine Schüssel geben. Heiße Gemüsebrühe (ca. 350 ml) darübergießen, bedeckt 5 Minuten quellen lassen. Mit einer Gabel auflockern.
-- |-
-  TODO: Couscous mit der restlichen Chermoula vermengen, gebratenes Gemüse unterheben. Hähnchen darüber anrichten. Mit Zitronenspalten servieren.
+- 'For the Chermoula: blend the cilantro, parsley, garlic, cumin, coriander, paprika,
+  chili, turmeric, salt, lemon juice, and 4 tbsp olive oil into a smooth paste.'
+- Score the chicken breast several times. Rub two-thirds of the Chermoula over the
+  chicken and marinate for 1 hour.
+- Grill the chicken in a hot griddle pan or in the oven at 200 °C for 20–25 minutes
+  until cooked through. Rest briefly, then slice into strips.
+- Cut the bell pepper and zucchini into chunks. Sauté in 1 tbsp olive oil for 5–7
+  minutes until soft and lightly browned.
+- Place the couscous in a bowl. Pour over the hot vegetable stock (approx. 350 ml),
+  cover, and leave to absorb for 5 minutes. Fluff with a fork.
+- Mix the couscous with the remaining Chermoula and fold in the sautéed vegetables.
+  Arrange the chicken on top. Serve with lemon wedges.

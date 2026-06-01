@@ -6,127 +6,127 @@ next_day: true
 meals: 2
 de:
   title: Hähnchen-Blanquette mit Champignons
-  summary: |-
-    Cremige weiße Hähnchen-Blanquette nach französischer Art mit Champignons, Sahne, Estragon und einem Schuss Weißwein.
+  summary: Cremige weiße Hähnchen-Blanquette nach französischer Art mit Champignons,
+    Sahne, Estragon und einem Schuss Weißwein.
 en:
-  title: 'TODO: Hähnchen-Blanquette mit Champignons'
-  summary: |-
-    TODO: Cremige weiße Hähnchen-Blanquette nach französischer Art mit Champignons, Sahne, Estragon und einem Schuss Weißwein.
+  title: Blanquette de Poulet with Mushrooms
+  summary: Creamy white chicken blanquette in the French style with mushrooms, cream,
+    tarragon, and a splash of white wine.
 ingredients:
 - de_name: Hähnchenbrustfilet
-  en_name: 'TODO: Hähnchenbrustfilet'
+  en_name: chicken breast fillet
   qty: 600
   unit: g
   category: Protein und Milchprodukte
 - de_name: Champignons
-  en_name: 'TODO: Champignons'
+  en_name: button mushrooms
   qty: 300
   unit: g
   category: Gemüse und Salat
 - de_name: Sahne
-  en_name: 'TODO: Sahne'
+  en_name: cream
   qty: 150
   unit: ml
   category: Protein und Milchprodukte
 - de_name: Trockener Weißwein
-  en_name: 'TODO: Trockener Weißwein'
+  en_name: dry white wine
   qty: 150
   unit: ml
   category: Konserven und Vorrat
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: chicken stock
   qty: 400
   unit: ml
   category: Konserven und Vorrat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 2
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Karotte
-  en_name: 'TODO: Karotte'
+  en_name: carrot
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Butter
-  en_name: 'TODO: Butter'
+  en_name: butter
   qty: 40
   unit: g
   category: Protein und Milchprodukte
 - de_name: Mehl
-  en_name: 'TODO: Mehl'
+  en_name: flour
   qty: 2
   unit: EL
   category: Kohlenhydrate und Sattmacher
 - de_name: Dijon-Senf
-  en_name: 'TODO: Dijon-Senf'
+  en_name: Dijon mustard
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Frischer Estragon
-  en_name: 'TODO: Frischer Estragon'
+  en_name: fresh tarragon
   qty: 0.5
   unit: Bund
   category: Gemüse und Salat
 - de_name: Zitronensaft
-  en_name: 'TODO: Zitronensaft'
+  en_name: lemon juice
   qty: 1
   unit: EL
   category: Obst
 - de_name: Lorbeerblätter
-  en_name: 'TODO: Lorbeerblätter'
+  en_name: bay leaves
   qty: 2
   unit: Stk
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Muskatnuss gemahlen
-  en_name: 'TODO: Muskatnuss gemahlen'
+  en_name: nutmeg, ground
   qty: 0.25
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Hähnchenbrustfilet in gleichmäßige Stücke (ca. 4 cm) schneiden. Karotte würfeln, Zwiebel halbieren, Knoblauch andrücken.
-- |-
-  Hähnchen, Karotte, Zwiebel, Knoblauch und Lorbeer in die Brühe mit Weißwein geben. Sanft aufkochen und bei niedriger Hitze 20 Minuten pochieren. Hähnchen herausnehmen, Brühe durch ein Sieb gießen und aufheben.
-- |-
-  Butter in einem Topf bei mittlerer Hitze schmelzen. Champignons in Scheiben schneiden und 5 Minuten goldbraun anbraten. Herausnehmen.
-- |-
-  In der gleichen Butter Mehl einrühren und 1–2 Minuten hellgelb anschwitzen (helle Mehlschwitze).
-- |-
-  Nach und nach die aufgehobene Pochierbrühe einrühren, bis eine glatte Sauce entsteht. Sahne einrühren, aufkochen lassen.
-- |-
-  Dijon-Senf, Zitronensaft und Muskatnuss einrühren. Hähnchenstücke und Champignons zurücklegen.
-- |-
-  Fein gehackten Estragon einrühren. Mit Salz und Pfeffer abschmecken. 5 Minuten sanft erhitzen.
+- Hähnchenbrustfilet in gleichmäßige Stücke (ca. 4 cm) schneiden. Karotte würfeln,
+  Zwiebel halbieren, Knoblauch andrücken.
+- Hähnchen, Karotte, Zwiebel, Knoblauch und Lorbeer in die Brühe mit Weißwein geben.
+  Sanft aufkochen und bei niedriger Hitze 20 Minuten pochieren. Hähnchen herausnehmen,
+  Brühe durch ein Sieb gießen und aufheben.
+- Butter in einem Topf bei mittlerer Hitze schmelzen. Champignons in Scheiben schneiden
+  und 5 Minuten goldbraun anbraten. Herausnehmen.
+- In der gleichen Butter Mehl einrühren und 1–2 Minuten hellgelb anschwitzen (helle
+  Mehlschwitze).
+- Nach und nach die aufgehobene Pochierbrühe einrühren, bis eine glatte Sauce entsteht.
+  Sahne einrühren, aufkochen lassen.
+- Dijon-Senf, Zitronensaft und Muskatnuss einrühren. Hähnchenstücke und Champignons
+  zurücklegen.
+- Fein gehackten Estragon einrühren. Mit Salz und Pfeffer abschmecken. 5 Minuten sanft
+  erhitzen.
 - Mit Reis, Eiernudeln oder Dampfkartoffeln servieren.
 en_steps:
-- |-
-  TODO: Hähnchenbrustfilet in gleichmäßige Stücke (ca. 4 cm) schneiden. Karotte würfeln, Zwiebel halbieren, Knoblauch andrücken.
-- |-
-  TODO: Hähnchen, Karotte, Zwiebel, Knoblauch und Lorbeer in die Brühe mit Weißwein geben. Sanft aufkochen und bei niedriger Hitze 20 Minuten pochieren. Hähnchen herausnehmen, Brühe durch ein Sieb gießen und aufheben.
-- |-
-  TODO: Butter in einem Topf bei mittlerer Hitze schmelzen. Champignons in Scheiben schneiden und 5 Minuten goldbraun anbraten. Herausnehmen.
-- |-
-  TODO: In der gleichen Butter Mehl einrühren und 1–2 Minuten hellgelb anschwitzen (helle Mehlschwitze).
-- |-
-  TODO: Nach und nach die aufgehobene Pochierbrühe einrühren, bis eine glatte Sauce entsteht. Sahne einrühren, aufkochen lassen.
-- |-
-  TODO: Dijon-Senf, Zitronensaft und Muskatnuss einrühren. Hähnchenstücke und Champignons zurücklegen.
-- |-
-  TODO: Fein gehackten Estragon einrühren. Mit Salz und Pfeffer abschmecken. 5 Minuten sanft erhitzen.
-- 'TODO: Mit Reis, Eiernudeln oder Dampfkartoffeln servieren.'
+- Cut chicken breast into even pieces (about 4 cm). Dice carrot, halve onion, crush
+  garlic.
+- Place chicken, carrot, onion, garlic, and bay leaves in the stock with white wine.
+  Bring gently to the boil and poach on low heat for 20 minutes. Remove chicken, strain
+  broth through a sieve and reserve.
+- Melt butter in a pot over medium heat. Slice mushrooms and fry until golden, about
+  5 minutes. Remove.
+- Stir flour into the same butter and cook for 1–2 minutes to make a pale roux.
+- Gradually whisk in the reserved poaching broth until a smooth sauce forms. Stir
+  in cream and bring to the boil.
+- Stir in Dijon mustard, lemon juice, and nutmeg. Return chicken pieces and mushrooms.
+- Stir in finely chopped tarragon. Season with salt and pepper. Heat gently for 5
+  minutes.
+- Serve with rice, egg noodles, or steamed potatoes.

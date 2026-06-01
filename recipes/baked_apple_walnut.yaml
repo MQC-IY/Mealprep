@@ -4,79 +4,89 @@ healthy: true
 meals: 8
 de:
   title: Gebackene Äpfel mit Walnüssen und Zimt
-  summary: "Klassische Bratäpfel gefüllt mit Walnüssen, Datteln und Zimt — ein wärmendes, zuckerfreies Herbst- und Winterdessert für die ganze Familie."
+  summary: Klassische Bratäpfel gefüllt mit Walnüssen, Datteln und Zimt — ein wärmendes,
+    zuckerfreies Herbst- und Winterdessert für die ganze Familie.
 en:
-  title: "TODO: Gebackene Äpfel mit Walnüssen und Zimt"
-  summary: "TODO: Klassische Bratäpfel gefüllt mit Walnüssen, Datteln und Zimt — ein wärmendes, zuckerfreies Herbst- und Winterdessert für die ganze Familie."
+  title: Baked Apples with Walnuts and Cinnamon
+  summary: Classic baked apples filled with walnuts, dates, and cinnamon — a warming,
+    sugar-free autumn and winter dessert for the whole family.
 ingredients:
-  - de_name: große Äpfel (z.B. Boskoop)
-    en_name: "TODO: große Äpfel (z.B. Boskoop)"
-    qty: 8
-    unit: Stk
-    category: Obst
-  - de_name: Walnüsse grob gehackt
-    en_name: "TODO: Walnüsse grob gehackt"
-    qty: 160
-    unit: g
-    category: Konserven und Vorrat
-  - de_name: Medjool-Datteln entsteint fein gehackt
-    en_name: "TODO: Medjool-Datteln entsteint fein gehackt"
-    qty: 120
-    unit: g
-    category: Obst
-  - de_name: Haferflocken (zart)
-    en_name: "TODO: Haferflocken (zart)"
-    qty: 80
-    unit: g
-    category: Kohlenhydrate und Sattmacher
-  - de_name: Zimt gemahlen
-    en_name: "TODO: Zimt gemahlen"
-    qty: 2
-    unit: TL
-    category: Gewürze
-  - de_name: Kardamom gemahlen
-    en_name: "TODO: Kardamom gemahlen"
-    qty: 0.5
-    unit: TL
-    category: Gewürze
-  - de_name: Vanilleextrakt
-    en_name: "TODO: Vanilleextrakt"
-    qty: 1
-    unit: TL
-    category: Gewürze
-  - de_name: Honig
-    en_name: "TODO: Honig"
-    qty: 3
-    unit: EL
-    category: Konserven und Vorrat
-  - de_name: Kokosöl
-    en_name: "TODO: Kokosöl"
-    qty: 2
-    unit: EL
-    category: Konserven und Vorrat
-  - de_name: Apfelsaft naturtrüb
-    en_name: "TODO: Apfelsaft naturtrüb"
-    qty: 200
-    unit: ml
-    category: Obst
-  - de_name: Naturjoghurt zum Servieren
-    en_name: "TODO: Naturjoghurt zum Servieren"
-    qty: 400
-    unit: g
-    category: Protein und Milchprodukte
+- de_name: große Äpfel (z.B. Boskoop)
+  en_name: large apples (e.g. Boskoop)
+  qty: 8
+  unit: Stk
+  category: Obst
+- de_name: Walnüsse grob gehackt
+  en_name: walnuts, roughly chopped
+  qty: 160
+  unit: g
+  category: Konserven und Vorrat
+- de_name: Medjool-Datteln entsteint fein gehackt
+  en_name: Medjool dates, pitted and finely chopped
+  qty: 120
+  unit: g
+  category: Obst
+- de_name: Haferflocken (zart)
+  en_name: rolled oats (fine)
+  qty: 80
+  unit: g
+  category: Kohlenhydrate und Sattmacher
+- de_name: Zimt gemahlen
+  en_name: cinnamon, ground
+  qty: 2
+  unit: TL
+  category: Gewürze
+- de_name: Kardamom gemahlen
+  en_name: cardamom, ground
+  qty: 0.5
+  unit: TL
+  category: Gewürze
+- de_name: Vanilleextrakt
+  en_name: vanilla extract
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: Honig
+  en_name: honey
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Kokosöl
+  en_name: coconut oil
+  qty: 2
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Apfelsaft naturtrüb
+  en_name: cloudy apple juice
+  qty: 200
+  unit: ml
+  category: Obst
+- de_name: Naturjoghurt zum Servieren
+  en_name: plain yogurt, for serving
+  qty: 400
+  unit: g
+  category: Protein und Milchprodukte
 de_steps:
-  - Ofen auf 180 °C Ober-/Unterhitze vorheizen.
-  - "Äpfel waschen und mit einem Apfelausstecher oder Teelöffel das Kerngehäuse von oben aushöhlen, dabei ca. 1 cm Boden stehen lassen."
-  - "Walnüsse, gehackte Datteln, Haferflocken, Zimt, Kardamom, Vanilleextrakt, Honig und Kokosöl in einer Schüssel gut vermengen."
-  - Äpfel in eine Auflaufform stellen und die Füllung fest in die Höhlung drücken.
-  - Apfelsaft in den Boden der Form gießen.
-  - "Im vorgeheizten Ofen 30–35 Minuten backen, bis die Äpfel weich sind und die Füllung leicht gebräunt ist."
-  - Warm mit einem Löffel Naturjoghurt servieren. Reste im Kühlschrank bis zu 2 Tage haltbar.
+- Ofen auf 180 °C Ober-/Unterhitze vorheizen.
+- Äpfel waschen und mit einem Apfelausstecher oder Teelöffel das Kerngehäuse von oben
+  aushöhlen, dabei ca. 1 cm Boden stehen lassen.
+- Walnüsse, gehackte Datteln, Haferflocken, Zimt, Kardamom, Vanilleextrakt, Honig
+  und Kokosöl in einer Schüssel gut vermengen.
+- Äpfel in eine Auflaufform stellen und die Füllung fest in die Höhlung drücken.
+- Apfelsaft in den Boden der Form gießen.
+- Im vorgeheizten Ofen 30–35 Minuten backen, bis die Äpfel weich sind und die Füllung
+  leicht gebräunt ist.
+- Warm mit einem Löffel Naturjoghurt servieren. Reste im Kühlschrank bis zu 2 Tage
+  haltbar.
 en_steps:
-  - "TODO: Ofen auf 180 °C Ober-/Unterhitze vorheizen."
-  - "TODO: Äpfel waschen und mit einem Apfelausstecher oder Teelöffel das Kerngehäuse von oben aushöhlen, dabei ca. 1 cm Boden stehen lassen."
-  - "TODO: Walnüsse, gehackte Datteln, Haferflocken, Zimt, Kardamom, Vanilleextrakt, Honig und Kokosöl in einer Schüssel gut vermengen."
-  - "TODO: Äpfel in eine Auflaufform stellen und die Füllung fest in die Höhlung drücken."
-  - "TODO: Apfelsaft in den Boden der Form gießen."
-  - "TODO: Im vorgeheizten Ofen 30–35 Minuten backen, bis die Äpfel weich sind und die Füllung leicht gebräunt ist."
-  - "TODO: Warm mit einem Löffel Naturjoghurt servieren. Reste im Kühlschrank bis zu 2 Tage haltbar."
+- Preheat oven to 180 °C (350 °F) top/bottom heat.
+- Wash the apples and core them from the top using an apple corer or teaspoon, leaving
+  about 1 cm of base intact.
+- Mix together walnuts, chopped dates, oats, cinnamon, cardamom, vanilla extract,
+  honey, and coconut oil in a bowl.
+- Place apples in a baking dish and press the filling firmly into the cavity.
+- Pour apple juice into the base of the dish.
+- Bake in the preheated oven for 30–35 minutes until the apples are tender and the
+  filling is lightly browned.
+- Serve warm with a spoonful of plain yogurt. Leftovers keep in the fridge for up
+  to 2 days.

@@ -9,46 +9,46 @@ de:
   title: Bulgur-Bohnen-Mais-Topf
   summary: Milder Topf mit Bulgur, weißen Bohnen, Mais und Tomate.
 en:
-  title: 'TODO: Bulgur-Bohnen-Mais-Topf'
-  summary: 'TODO: Milder Topf mit Bulgur, weißen Bohnen, Mais und Tomate.'
+  title: Bulgur, Bean, and Corn Pot
+  summary: A mild pot of bulgur, white beans, corn, and tomato.
 ingredients:
 - de_name: Bulgur
-  en_name: 'TODO: Bulgur'
+  en_name: Bulgur
   qty: 220
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Weiße Bohnen
-  en_name: 'TODO: Weiße Bohnen'
+  en_name: White beans
   qty: 2
   unit: Dosen
   category: Konserven und Vorrat
 - de_name: Mais
-  en_name: 'TODO: Mais'
+  en_name: Corn
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Passierte Tomaten
-  en_name: 'TODO: Passierte Tomaten'
+  en_name: Strained tomatoes (passata)
   qty: 1
   unit: Glas
   category: Konserven und Vorrat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: Onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Paprika
-  en_name: 'TODO: Paprika'
+  en_name: Bell pepper
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -57,6 +57,6 @@ de_steps:
 - Tomaten, Bohnen, Mais und Bulgur zugeben.
 - Mit Wasser weich köcheln lassen.
 en_steps:
-- 'TODO: Zwiebel und Paprika anschwitzen.'
-- 'TODO: Tomaten, Bohnen, Mais und Bulgur zugeben.'
-- 'TODO: Mit Wasser weich köcheln lassen.'
+- Sauté the onion and bell pepper until soft.
+- Add the tomatoes, beans, corn, and bulgur.
+- Simmer with water until the bulgur is tender.

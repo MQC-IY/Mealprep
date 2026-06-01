@@ -7,112 +7,113 @@ quick_minutes: 30
 meals: 2
 de:
   title: Türkischer Kısır-Bowl mit Hähnchen
-  summary: |-
-    Türkischer Bulgur-Salat mit Granatapfelmelasse, Sumach und frischen Kräutern, kombiniert mit gegrillter Hähnchenbrust – knackig, fruchtig und feurig.
+  summary: Türkischer Bulgur-Salat mit Granatapfelmelasse, Sumach und frischen Kräutern,
+    kombiniert mit gegrillter Hähnchenbrust – knackig, fruchtig und feurig.
 en:
-  title: 'TODO: Türkischer Kısır-Bowl mit Hähnchen'
-  summary: |-
-    TODO: Türkischer Bulgur-Salat mit Granatapfelmelasse, Sumach und frischen Kräutern, kombiniert mit gegrillter Hähnchenbrust – knackig, fruchtig und feurig.
+  title: Turkish Kısır Bowl with Chicken
+  summary: A Turkish bulgur salad with pomegranate molasses, sumac, and fresh herbs,
+    paired with grilled chicken breast – crunchy, fruity, and fiery.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 400
   unit: g
   category: Protein und Milchprodukte
 - de_name: Feiner Bulgur
-  en_name: 'TODO: Feiner Bulgur'
+  en_name: fine bulgur
   qty: 250
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Tomatenmark
-  en_name: 'TODO: Tomatenmark'
+  en_name: tomato paste
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 5
   unit: EL
   category: Konserven und Vorrat
 - de_name: Granatapfelmelasse
-  en_name: 'TODO: Granatapfelmelasse'
+  en_name: pomegranate molasses
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Tomaten
-  en_name: 'TODO: Tomaten'
+  en_name: tomatoes
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Gurke
-  en_name: 'TODO: Gurke'
+  en_name: cucumber
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Frühlingszwiebeln
-  en_name: 'TODO: Frühlingszwiebeln'
+  en_name: spring onions
   qty: 1
   unit: Bund
   category: Gemüse und Salat
 - de_name: Glatte Petersilie
-  en_name: 'TODO: Glatte Petersilie'
+  en_name: flat-leaf parsley
   qty: 1
   unit: Bund
   category: Gemüse und Salat
 - de_name: Frische Minze
-  en_name: 'TODO: Frische Minze'
+  en_name: fresh mint
   qty: 0.5
   unit: Bund
   category: Gemüse und Salat
 - de_name: Zitronensaft
-  en_name: 'TODO: Zitronensaft'
+  en_name: lemon juice
   qty: 3
   unit: EL
   category: Obst
 - de_name: Pul Biber (Aleppo-Pfeffer)
-  en_name: 'TODO: Pul Biber (Aleppo-Pfeffer)'
+  en_name: pul biber (Turkish red pepper flakes)
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Sumach
-  en_name: 'TODO: Sumach'
+  en_name: sumac
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Paprikapulver, geräuchert
-  en_name: 'TODO: Paprikapulver, geräuchert'
+  en_name: smoked paprika
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Hähnchenbrust mit Paprikapulver, Pul Biber, Salz und Olivenöl (2 EL) einmassieren. In einer Grillpfanne bei hoher Hitze 5–6 Minuten pro Seite grillen, bis sie durch ist. 5 Minuten ruhen lassen, dann in Streifen schneiden.
-- |-
-  Bulgur in eine große Schüssel geben. Tomatenmark einrühren. 300 ml kochendes Wasser dazugießen, abdecken und 15 Minuten quellen lassen, bis die Flüssigkeit vollständig absorbiert ist.
-- |-
-  Bulgur mit einer Gabel auflockern. Restliches Olivenöl, Granatapfelmelasse, Zitronensaft, Pul Biber, Sumach, Salz und Pfeffer einarbeiten.
-- |-
-  Tomaten würfeln, Gurke in Halbmonde schneiden, Frühlingszwiebeln in Ringe schneiden, Petersilie und Minze fein hacken. Alles unter den Bulgur heben.
-- |-
-  Kısır in Bowls portionieren und die gegrillten Hähnchenstreifen darauf anrichten.
+- Hähnchenbrust mit Paprikapulver, Pul Biber, Salz und Olivenöl (2 EL) einmassieren.
+  In einer Grillpfanne bei hoher Hitze 5–6 Minuten pro Seite grillen, bis sie durch
+  ist. 5 Minuten ruhen lassen, dann in Streifen schneiden.
+- Bulgur in eine große Schüssel geben. Tomatenmark einrühren. 300 ml kochendes Wasser
+  dazugießen, abdecken und 15 Minuten quellen lassen, bis die Flüssigkeit vollständig
+  absorbiert ist.
+- Bulgur mit einer Gabel auflockern. Restliches Olivenöl, Granatapfelmelasse, Zitronensaft,
+  Pul Biber, Sumach, Salz und Pfeffer einarbeiten.
+- Tomaten würfeln, Gurke in Halbmonde schneiden, Frühlingszwiebeln in Ringe schneiden,
+  Petersilie und Minze fein hacken. Alles unter den Bulgur heben.
+- Kısır in Bowls portionieren und die gegrillten Hähnchenstreifen darauf anrichten.
 en_steps:
-- |-
-  TODO: Hähnchenbrust mit Paprikapulver, Pul Biber, Salz und Olivenöl (2 EL) einmassieren. In einer Grillpfanne bei hoher Hitze 5–6 Minuten pro Seite grillen, bis sie durch ist. 5 Minuten ruhen lassen, dann in Streifen schneiden.
-- |-
-  TODO: Bulgur in eine große Schüssel geben. Tomatenmark einrühren. 300 ml kochendes Wasser dazugießen, abdecken und 15 Minuten quellen lassen, bis die Flüssigkeit vollständig absorbiert ist.
-- |-
-  TODO: Bulgur mit einer Gabel auflockern. Restliches Olivenöl, Granatapfelmelasse, Zitronensaft, Pul Biber, Sumach, Salz und Pfeffer einarbeiten.
-- |-
-  TODO: Tomaten würfeln, Gurke in Halbmonde schneiden, Frühlingszwiebeln in Ringe schneiden, Petersilie und Minze fein hacken. Alles unter den Bulgur heben.
-- |-
-  TODO: Kısır in Bowls portionieren und die gegrillten Hähnchenstreifen darauf anrichten.
+- Rub the chicken breast with smoked paprika, pul biber, salt, and 2 tbsp olive oil.
+  Grill in a hot grill pan for 5–6 minutes per side until cooked through. Rest for
+  5 minutes, then slice into strips.
+- Place the bulgur in a large bowl and stir in the tomato paste. Pour over 300 ml
+  boiling water, cover, and let soak for 15 minutes until all liquid is absorbed.
+- Fluff the bulgur with a fork. Work in the remaining olive oil, pomegranate molasses,
+  lemon juice, pul biber, sumac, salt, and pepper.
+- Dice the tomatoes, cut the cucumber into half-moons, slice the spring onions into
+  rings, and finely chop the parsley and mint. Fold everything into the bulgur.
+- Portion the kısır into bowls and arrange the grilled chicken strips on top.

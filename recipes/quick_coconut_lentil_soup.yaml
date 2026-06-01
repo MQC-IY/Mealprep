@@ -7,79 +7,79 @@ quick_minutes: 22
 meals: 2
 de:
   title: Schnelle Kokos-Linsen-Suppe
-  summary: |-
-    Cremige rote Linsensuppe mit Kokosmilch, frischem Ingwer und Kurkuma in 22 Minuten.
+  summary: Cremige rote Linsensuppe mit Kokosmilch, frischem Ingwer und Kurkuma in
+    22 Minuten.
 en:
-  title: 'TODO: Schnelle Kokos-Linsen-Suppe'
-  summary: |-
-    TODO: Cremige rote Linsensuppe mit Kokosmilch, frischem Ingwer und Kurkuma in 22 Minuten.
+  title: Quick Coconut Lentil Soup
+  summary: Creamy red lentil soup with coconut milk, fresh ginger, and turmeric —
+    ready in 22 minutes.
 ingredients:
 - de_name: Rote Linsen
-  en_name: 'TODO: Rote Linsen'
+  en_name: Red lentils
   qty: 250
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Kokosmilch
-  en_name: 'TODO: Kokosmilch'
+  en_name: Coconut milk
   qty: 400
   unit: ml
   category: Konserven und Vorrat
 - de_name: Gemüsebrühe
-  en_name: 'TODO: Gemüsebrühe'
+  en_name: Vegetable broth
   qty: 600
   unit: ml
   category: Konserven und Vorrat
 - de_name: Kokosnussöl
-  en_name: 'TODO: Kokosnussöl'
+  en_name: Coconut oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: Onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: Garlic cloves
   qty: 3
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Ingwer, frisch
-  en_name: 'TODO: Ingwer, frisch'
+  en_name: Fresh ginger
   qty: 30
   unit: g
   category: Gemüse und Salat
 - de_name: Kurkuma, gemahlen
-  en_name: 'TODO: Kurkuma, gemahlen'
+  en_name: Turmeric, ground
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Kreuzkümmel, gemahlen
-  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  en_name: Cumin, ground
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: Salt
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Zwiebel fein würfeln, Knoblauch und Ingwer reiben. Im Kokosnussöl bei mittlerer Hitze 3 Minuten dünsten.
+- Zwiebel fein würfeln, Knoblauch und Ingwer reiben. Im Kokosnussöl bei mittlerer
+  Hitze 3 Minuten dünsten.
 - Kurkuma, Kreuzkümmel und Chiliflocken einrühren und 30 Sekunden rösten.
 - Linsen, Kokosmilch und Brühe hinzufügen, umrühren und aufkochen.
-- |-
-  Auf mittlere Hitze reduzieren und 15 Minuten köcheln lassen, bis die Linsen zerfallen und die Suppe cremig ist. Mit Salz abschmecken.
+- Auf mittlere Hitze reduzieren und 15 Minuten köcheln lassen, bis die Linsen zerfallen
+  und die Suppe cremig ist. Mit Salz abschmecken.
 en_steps:
-- |-
-  TODO: Zwiebel fein würfeln, Knoblauch und Ingwer reiben. Im Kokosnussöl bei mittlerer Hitze 3 Minuten dünsten.
-- 'TODO: Kurkuma, Kreuzkümmel und Chiliflocken einrühren und 30 Sekunden rösten.'
-- 'TODO: Linsen, Kokosmilch und Brühe hinzufügen, umrühren und aufkochen.'
-- |-
-  TODO: Auf mittlere Hitze reduzieren und 15 Minuten köcheln lassen, bis die Linsen zerfallen und die Suppe cremig ist. Mit Salz abschmecken.
+- Finely dice the onion, and grate the garlic and ginger. Sauté in coconut oil over
+  medium heat for 3 minutes.
+- Stir in the turmeric, cumin, and chili flakes, and toast for 30 seconds.
+- Add the lentils, coconut milk, and broth, stir to combine, and bring to a boil.
+- Reduce to medium heat and simmer for 15 minutes until the lentils have dissolved
+  and the soup is creamy. Season with salt.

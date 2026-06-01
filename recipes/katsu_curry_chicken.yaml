@@ -6,113 +6,113 @@ next_day: true
 meals: 2
 de:
   title: Japanisches Katsu-Curry mit Hähnchen und Reis
-  summary: |-
-    Knusprig paniertes Hähnchen-Katsu auf würzigem japanischen Curry-Soße mit Jasminreis – ein japanischer Klassiker.
+  summary: Knusprig paniertes Hähnchen-Katsu auf würzigem japanischen Curry-Soße mit
+    Jasminreis – ein japanischer Klassiker.
 en:
-  title: 'TODO: Japanisches Katsu-Curry mit Hähnchen und Reis'
-  summary: |-
-    TODO: Knusprig paniertes Hähnchen-Katsu auf würzigem japanischen Curry-Soße mit Jasminreis – ein japanischer Klassiker.
+  title: Japanese Katsu Curry with Chicken and Rice
+  summary: Crispy breaded chicken katsu on flavourful Japanese curry sauce with jasmine
+    rice – a Japanese classic.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 800
   unit: g
   category: Protein und Milchprodukte
 - de_name: Ei
-  en_name: 'TODO: Ei'
+  en_name: egg
   qty: 2
   unit: Stk
   category: Protein und Milchprodukte
 - de_name: Zwiebeln
-  en_name: 'TODO: Zwiebeln'
+  en_name: onions
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Karotten
-  en_name: 'TODO: Karotten'
+  en_name: carrots
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Kartoffeln (mehligkochend)
-  en_name: 'TODO: Kartoffeln (mehligkochend)'
+  en_name: floury potatoes
   qty: 3
   unit: Stk
   category: Kohlenhydrate und Sattmacher
 - de_name: Jasminreis
-  en_name: 'TODO: Jasminreis'
+  en_name: jasmine rice
   qty: 400
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Panko-Semmelbrösel
-  en_name: 'TODO: Panko-Semmelbrösel'
+  en_name: panko breadcrumbs
   qty: 120
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Mehl (Type 405)
-  en_name: 'TODO: Mehl (Type 405)'
+  en_name: plain flour (type 405)
   qty: 80
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Japanische Curry-Roux
-  en_name: 'TODO: Japanische Curry-Roux'
+  en_name: Japanese curry roux
   qty: 100
   unit: g
   category: Konserven und Vorrat
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: chicken stock
   qty: 700
   unit: ml
   category: Konserven und Vorrat
 - de_name: Tonkatsu-Soße
-  en_name: 'TODO: Tonkatsu-Soße'
+  en_name: tonkatsu sauce
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Pflanzenöl (zum Frittieren)
-  en_name: 'TODO: Pflanzenöl (zum Frittieren)'
+  en_name: vegetable oil (for deep-frying)
   qty: 400
   unit: ml
   category: Konserven und Vorrat
 - de_name: Worcestersoße
-  en_name: 'TODO: Worcestersoße'
+  en_name: Worcestershire sauce
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer (gemahlen)
-  en_name: 'TODO: Schwarzer Pfeffer (gemahlen)'
+  en_name: ground black pepper
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
 - Reis waschen und mit 700 ml Wasser garen.
-- |-
-  Zwiebeln in halbe Ringe, Karotten in Scheiben, Kartoffeln in mundgerechte Stücke schneiden. In einem Topf mit etwas Öl 5 Minuten anbraten.
-- |-
-  Brühe angießen, aufkochen und 15 Minuten köcheln, bis Kartoffeln weich sind. Curry-Roux einrühren und vollständig auflösen. Worcestersoße hinzufügen. 5 Minuten einköcheln.
-- |-
-  Hähnchenbrust zwischen Frischhaltefolie auf 1 cm Dicke klopfen. Salzen und pfeffern.
-- |-
-  Drei Schüsseln bereitstellen: Mehl, verquirlte Eier, Panko. Hähnchen nacheinander wenden, gut andrücken.
-- |-
-  Öl in einer tiefen Pfanne auf 175 °C erhitzen. Hähnchen portionsweise 3–4 Minuten pro Seite goldbraun frittieren. Auf Küchenpapier abtropfen lassen.
-- |-
-  Hähnchen-Katsu in diagonale Streifen schneiden. Reis in Schalen anrichten, Curry-Soße daneben geben, Katsu darauflegen. Mit Tonkatsu-Soße beträufeln.
+- Zwiebeln in halbe Ringe, Karotten in Scheiben, Kartoffeln in mundgerechte Stücke
+  schneiden. In einem Topf mit etwas Öl 5 Minuten anbraten.
+- Brühe angießen, aufkochen und 15 Minuten köcheln, bis Kartoffeln weich sind. Curry-Roux
+  einrühren und vollständig auflösen. Worcestersoße hinzufügen. 5 Minuten einköcheln.
+- Hähnchenbrust zwischen Frischhaltefolie auf 1 cm Dicke klopfen. Salzen und pfeffern.
+- 'Drei Schüsseln bereitstellen: Mehl, verquirlte Eier, Panko. Hähnchen nacheinander
+  wenden, gut andrücken.'
+- Öl in einer tiefen Pfanne auf 175 °C erhitzen. Hähnchen portionsweise 3–4 Minuten
+  pro Seite goldbraun frittieren. Auf Küchenpapier abtropfen lassen.
+- Hähnchen-Katsu in diagonale Streifen schneiden. Reis in Schalen anrichten, Curry-Soße
+  daneben geben, Katsu darauflegen. Mit Tonkatsu-Soße beträufeln.
 en_steps:
-- 'TODO: Reis waschen und mit 700 ml Wasser garen.'
-- |-
-  TODO: Zwiebeln in halbe Ringe, Karotten in Scheiben, Kartoffeln in mundgerechte Stücke schneiden. In einem Topf mit etwas Öl 5 Minuten anbraten.
-- |-
-  TODO: Brühe angießen, aufkochen und 15 Minuten köcheln, bis Kartoffeln weich sind. Curry-Roux einrühren und vollständig auflösen. Worcestersoße hinzufügen. 5 Minuten einköcheln.
-- |-
-  TODO: Hähnchenbrust zwischen Frischhaltefolie auf 1 cm Dicke klopfen. Salzen und pfeffern.
-- |-
-  TODO: Drei Schüsseln bereitstellen: Mehl, verquirlte Eier, Panko. Hähnchen nacheinander wenden, gut andrücken.
-- |-
-  TODO: Öl in einer tiefen Pfanne auf 175 °C erhitzen. Hähnchen portionsweise 3–4 Minuten pro Seite goldbraun frittieren. Auf Küchenpapier abtropfen lassen.
-- |-
-  TODO: Hähnchen-Katsu in diagonale Streifen schneiden. Reis in Schalen anrichten, Curry-Soße daneben geben, Katsu darauflegen. Mit Tonkatsu-Soße beträufeln.
+- Wash rice and cook with 700 ml water.
+- Slice onions into half-rings, carrots into rounds, potatoes into bite-sized pieces.
+  Fry in a pot with a little oil for 5 minutes.
+- Pour in stock, bring to a boil, and simmer for 15 minutes until potatoes are tender.
+  Stir in curry roux and dissolve completely. Add Worcestershire sauce. Simmer for
+  5 minutes.
+- Place chicken breast between cling film and pound to 1 cm thickness. Season with
+  salt and pepper.
+- 'Set up three bowls: flour, beaten eggs, panko. Coat chicken in each in turn, pressing
+  firmly.'
+- Heat oil in a deep pan to 175 °C. Deep-fry chicken in batches for 3–4 minutes per
+  side until golden. Drain on paper towels.
+- Slice chicken katsu diagonally. Plate rice in bowls, spoon curry sauce alongside,
+  place katsu on top. Drizzle with tonkatsu sauce.

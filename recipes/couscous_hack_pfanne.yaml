@@ -9,51 +9,51 @@ de:
   title: Couscous-Gemüse-Pfanne mit Rinderhack
   summary: Schnelle Pfanne mit Couscous, Hack, Zucchini und Paprika.
 en:
-  title: 'TODO: Couscous-Gemüse-Pfanne mit Rinderhack'
-  summary: 'TODO: Schnelle Pfanne mit Couscous, Hack, Zucchini und Paprika.'
+  title: Couscous Skillet with Ground Beef and Vegetables
+  summary: A quick one-pan dish with couscous, ground beef, courgette, and bell pepper.
 ingredients:
 - de_name: Rinderhack
-  en_name: 'TODO: Rinderhack'
+  en_name: ground beef
   qty: 600
   unit: g
   category: Protein und Milchprodukte
 - de_name: Couscous
-  en_name: 'TODO: Couscous'
+  en_name: couscous
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Paprika
-  en_name: 'TODO: Paprika'
+  en_name: bell pepper
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zucchini
-  en_name: 'TODO: Zucchini'
+  en_name: courgette
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: carrots
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Paprika edelsüß
-  en_name: 'TODO: Paprika edelsüß'
+  en_name: sweet paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -62,6 +62,7 @@ de_steps:
 - Hack in wenig Öl anbraten, Gemüse klein schneiden und mitgaren.
 - Mild würzen und Couscous unterheben.
 en_steps:
-- 'TODO: Couscous mit heißem Wasser quellen lassen.'
-- 'TODO: Hack in wenig Öl anbraten, Gemüse klein schneiden und mitgaren.'
-- 'TODO: Mild würzen und Couscous unterheben.'
+- Soak the couscous in hot water and let it absorb.
+- Brown the ground beef in a little oil. Chop the vegetables finely and cook them
+  alongside.
+- Season lightly and fold in the couscous.

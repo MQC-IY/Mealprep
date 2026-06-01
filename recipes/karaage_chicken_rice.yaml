@@ -6,133 +6,133 @@ next_day: false
 meals: 2
 de:
   title: Hähnchen Karaage mit Reis und Coleslaw
-  summary: |-
-    Japanisch marinierter, knuspriger frittierter Hähnchen-Karaage mit Zitronenmayonnaise, Reis und knackigem Coleslaw.
+  summary: Japanisch marinierter, knuspriger frittierter Hähnchen-Karaage mit Zitronenmayonnaise,
+    Reis und knackigem Coleslaw.
 en:
-  title: 'TODO: Hähnchen Karaage mit Reis und Coleslaw'
-  summary: |-
-    TODO: Japanisch marinierter, knuspriger frittierter Hähnchen-Karaage mit Zitronenmayonnaise, Reis und knackigem Coleslaw.
+  title: Chicken Karaage with Rice and Coleslaw
+  summary: Japanese-marinated crispy fried chicken Karaage with lemon mayonnaise,
+    rice, and crunchy coleslaw.
 ingredients:
 - de_name: Hähnchenschenkel (ausgelöst, mit Haut)
-  en_name: 'TODO: Hähnchenschenkel (ausgelöst, mit Haut)'
+  en_name: bone-out chicken thighs, skin-on
   qty: 900
   unit: g
   category: Protein und Milchprodukte
 - de_name: Eier
-  en_name: 'TODO: Eier'
+  en_name: eggs
   qty: 2
   unit: Stk
   category: Protein und Milchprodukte
 - de_name: Weißkohl
-  en_name: 'TODO: Weißkohl'
+  en_name: white cabbage
   qty: 300
   unit: g
   category: Gemüse und Salat
 - de_name: Rotkohl
-  en_name: 'TODO: Rotkohl'
+  en_name: red cabbage
   qty: 200
   unit: g
   category: Gemüse und Salat
 - de_name: Karotten
-  en_name: 'TODO: Karotten'
+  en_name: carrots
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Ingwer (frisch)
-  en_name: 'TODO: Ingwer (frisch)'
+  en_name: fresh ginger
   qty: 25
   unit: g
   category: Gemüse und Salat
 - de_name: Jasminreis
-  en_name: 'TODO: Jasminreis'
+  en_name: jasmine rice
   qty: 400
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Kartoffelstärke (Katakuriko)
-  en_name: 'TODO: Kartoffelstärke (Katakuriko)'
+  en_name: potato starch (katakuriko)
   qty: 100
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Sojasoße
-  en_name: 'TODO: Sojasoße'
+  en_name: soy sauce
   qty: 5
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sake
-  en_name: 'TODO: Sake'
+  en_name: sake
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Mayonnaise
-  en_name: 'TODO: Mayonnaise'
+  en_name: mayonnaise
   qty: 4
   unit: EL
   category: Konserven und Vorrat
 - de_name: Reisessig
-  en_name: 'TODO: Reisessig'
+  en_name: rice vinegar
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sesamöl
-  en_name: 'TODO: Sesamöl'
+  en_name: sesame oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Zucker
-  en_name: 'TODO: Zucker'
+  en_name: sugar
   qty: 1
   unit: TL
   category: Konserven und Vorrat
 - de_name: Pflanzenöl (zum Frittieren)
-  en_name: 'TODO: Pflanzenöl (zum Frittieren)'
+  en_name: vegetable oil (for deep-frying)
   qty: 500
   unit: ml
   category: Konserven und Vorrat
 - de_name: Zitronensaft
-  en_name: 'TODO: Zitronensaft'
+  en_name: lemon juice
   qty: 2
   unit: EL
   category: Obst
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Sesamkörner (weiß)
-  en_name: 'TODO: Sesamkörner (weiß)'
+  en_name: white sesame seeds
   qty: 1
   unit: EL
   category: Gewürze
 de_steps:
-- |-
-  Hähnchenschenkel in mundgerechte Stücke (ca. 4 cm) schneiden. Knoblauch und Ingwer fein reiben.
-- |-
-  Hähnchen mit Sojasoße, Sake, Knoblauch, Ingwer und Pfeffer mischen. Mindestens 30 Minuten im Kühlschrank marinieren.
+- Hähnchenschenkel in mundgerechte Stücke (ca. 4 cm) schneiden. Knoblauch und Ingwer
+  fein reiben.
+- Hähnchen mit Sojasoße, Sake, Knoblauch, Ingwer und Pfeffer mischen. Mindestens 30
+  Minuten im Kühlschrank marinieren.
 - Reis garen.
-- |-
-  Für den Coleslaw: Weißkohl, Rotkohl und Karotten fein hobeln. Mit Reisessig, Sesamöl, Zucker, 1 Prise Salz und Sesamkörnern mischen. Kühl stellen.
-- |-
-  Öl in einem Topf auf 170 °C erhitzen. Mariniertes Hähnchen portionsweise in Kartoffelstärke wenden, überschüssige Stärke abschütteln.
-- |-
-  Hähnchen 3–4 Minuten frittieren, herausnehmen und 2 Minuten ruhen lassen. Für extra Knusprigkeit bei 180 °C nochmals 1 Minute frittieren.
-- |-
-  Mayonnaise mit Zitronensaft verrühren. Karaage auf Küchenpapier abtropfen lassen und mit Reis, Coleslaw und Zitronenmayo servieren.
+- 'Für den Coleslaw: Weißkohl, Rotkohl und Karotten fein hobeln. Mit Reisessig, Sesamöl,
+  Zucker, 1 Prise Salz und Sesamkörnern mischen. Kühl stellen.'
+- Öl in einem Topf auf 170 °C erhitzen. Mariniertes Hähnchen portionsweise in Kartoffelstärke
+  wenden, überschüssige Stärke abschütteln.
+- Hähnchen 3–4 Minuten frittieren, herausnehmen und 2 Minuten ruhen lassen. Für extra
+  Knusprigkeit bei 180 °C nochmals 1 Minute frittieren.
+- Mayonnaise mit Zitronensaft verrühren. Karaage auf Küchenpapier abtropfen lassen
+  und mit Reis, Coleslaw und Zitronenmayo servieren.
 en_steps:
-- |-
-  TODO: Hähnchenschenkel in mundgerechte Stücke (ca. 4 cm) schneiden. Knoblauch und Ingwer fein reiben.
-- |-
-  TODO: Hähnchen mit Sojasoße, Sake, Knoblauch, Ingwer und Pfeffer mischen. Mindestens 30 Minuten im Kühlschrank marinieren.
-- 'TODO: Reis garen.'
-- |-
-  TODO: Für den Coleslaw: Weißkohl, Rotkohl und Karotten fein hobeln. Mit Reisessig, Sesamöl, Zucker, 1 Prise Salz und Sesamkörnern mischen. Kühl stellen.
-- |-
-  TODO: Öl in einem Topf auf 170 °C erhitzen. Mariniertes Hähnchen portionsweise in Kartoffelstärke wenden, überschüssige Stärke abschütteln.
-- |-
-  TODO: Hähnchen 3–4 Minuten frittieren, herausnehmen und 2 Minuten ruhen lassen. Für extra Knusprigkeit bei 180 °C nochmals 1 Minute frittieren.
-- |-
-  TODO: Mayonnaise mit Zitronensaft verrühren. Karaage auf Küchenpapier abtropfen lassen und mit Reis, Coleslaw und Zitronenmayo servieren.
+- Cut chicken thighs into bite-sized pieces (about 4 cm). Finely grate garlic and
+  ginger.
+- Mix chicken with soy sauce, sake, garlic, ginger, and pepper. Marinate in the fridge
+  for at least 30 minutes.
+- Cook the rice.
+- 'For the coleslaw: thinly shred white cabbage, red cabbage, and carrots. Mix with
+  rice vinegar, sesame oil, sugar, a pinch of salt, and sesame seeds. Chill.'
+- Heat oil in a pot to 170 °C. Toss marinated chicken in potato starch in batches;
+  shake off excess starch.
+- Deep-fry chicken for 3–4 minutes; remove and rest for 2 minutes. For extra crispiness,
+  fry again at 180 °C for 1 minute.
+- Stir mayonnaise with lemon juice. Drain karaage on paper towels and serve with rice,
+  coleslaw, and lemon mayo.

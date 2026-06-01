@@ -6,106 +6,109 @@ next_day: false
 meals: 2
 de:
   title: Türkischer İmam Bayıldı-inspirierter Auberginen-Topf mit Hähnchen
-  summary: |-
-    Der Klassiker, der den Imam in Ohnmacht fallen ließ: gefüllte Auberginen mit Hähnchen, karamellisierten Zwiebeln, Tomaten und reichlich Olivenöl.
+  summary: 'Der Klassiker, der den Imam in Ohnmacht fallen ließ: gefüllte Auberginen
+    mit Hähnchen, karamellisierten Zwiebeln, Tomaten und reichlich Olivenöl.'
 en:
-  title: 'TODO: Türkischer İmam Bayıldı-inspirierter Auberginen-Topf mit Hähnchen'
-  summary: |-
-    TODO: Der Klassiker, der den Imam in Ohnmacht fallen ließ: gefüllte Auberginen mit Hähnchen, karamellisierten Zwiebeln, Tomaten und reichlich Olivenöl.
+  title: İmam Bayıldı-Inspired Stuffed Aubergine Pot with Chicken
+  summary: 'The classic that made the imam faint: stuffed aubergines with chicken,
+    caramelised onions, tomatoes, and generous olive oil.'
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: Chicken breast
   qty: 350
   unit: g
   category: Protein und Milchprodukte
 - de_name: Auberginen
-  en_name: 'TODO: Auberginen'
+  en_name: Aubergines
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Tomaten
-  en_name: 'TODO: Tomaten'
+  en_name: Tomatoes
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zwiebeln
-  en_name: 'TODO: Zwiebeln'
+  en_name: Onions
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: Garlic cloves
   qty: 6
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Glatte Petersilie
-  en_name: 'TODO: Glatte Petersilie'
+  en_name: Flat-leaf parsley
   qty: 1
   unit: Bund
   category: Gemüse und Salat
 - de_name: Gehackte Tomaten
-  en_name: 'TODO: Gehackte Tomaten'
+  en_name: Chopped tomatoes (canned)
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 6
   unit: EL
   category: Konserven und Vorrat
 - de_name: Pul Biber (Aleppo-Pfeffer)
-  en_name: 'TODO: Pul Biber (Aleppo-Pfeffer)'
+  en_name: Pul biber (Aleppo pepper)
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: Salt
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: Black pepper
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Zucker
-  en_name: 'TODO: Zucker'
+  en_name: Sugar
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Getrockneter Thymian
-  en_name: 'TODO: Getrockneter Thymian'
+  en_name: Dried thyme
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Zimt, gemahlen
-  en_name: 'TODO: Zimt, gemahlen'
+  en_name: Ground cinnamon
   qty: 0.25
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Auberginen halbieren. Fruchtfleisch mit einem Löffel aushöhlen, dabei 1 cm Rand lassen. Hälften salzen und 20 Minuten stehen lassen. Abspülen und trocken tupfen.
-- |-
-  Auberginen-Fruchtfleisch grob hacken. Zwiebeln in feine Ringe schneiden, Knoblauch pressen. 4 EL Olivenöl in einer Pfanne bei mittlerer Hitze erhitzen, Zwiebeln 15 Minuten langsam golden karamellisieren.
-- |-
-  Hähnchenbrust in kleine Würfel schneiden. Zum Zwiebeln geben, 5 Minuten anbraten. Knoblauch, Auberginen-Fruchtfleisch, Pul Biber, Zimt und Thymian einrühren.
-- |-
-  Gewürfelte Tomaten und Gehackte Tomaten hinzufügen. Zucker einrühren. 15 Minuten kochen, bis eine dicke Füllung entsteht. Petersilie einrühren, abschmecken.
-- |-
-  Ofen auf 180 °C vorheizen. Auberginenhälften in einer Auflaufform mit restlichem Olivenöl bepinseln. Füllung in die Hälften löffeln. 150 ml Wasser in die Form geben.
-- |-
-  45 Minuten backen, bis die Auberginen vollständig weich sind. Heiß oder auf Zimmertemperatur abgekühlt servieren.
+- Auberginen halbieren. Fruchtfleisch mit einem Löffel aushöhlen, dabei 1 cm Rand
+  lassen. Hälften salzen und 20 Minuten stehen lassen. Abspülen und trocken tupfen.
+- Auberginen-Fruchtfleisch grob hacken. Zwiebeln in feine Ringe schneiden, Knoblauch
+  pressen. 4 EL Olivenöl in einer Pfanne bei mittlerer Hitze erhitzen, Zwiebeln 15
+  Minuten langsam golden karamellisieren.
+- Hähnchenbrust in kleine Würfel schneiden. Zum Zwiebeln geben, 5 Minuten anbraten.
+  Knoblauch, Auberginen-Fruchtfleisch, Pul Biber, Zimt und Thymian einrühren.
+- Gewürfelte Tomaten und Gehackte Tomaten hinzufügen. Zucker einrühren. 15 Minuten
+  kochen, bis eine dicke Füllung entsteht. Petersilie einrühren, abschmecken.
+- Ofen auf 180 °C vorheizen. Auberginenhälften in einer Auflaufform mit restlichem
+  Olivenöl bepinseln. Füllung in die Hälften löffeln. 150 ml Wasser in die Form geben.
+- 45 Minuten backen, bis die Auberginen vollständig weich sind. Heiß oder auf Zimmertemperatur
+  abgekühlt servieren.
 en_steps:
-- |-
-  TODO: Auberginen halbieren. Fruchtfleisch mit einem Löffel aushöhlen, dabei 1 cm Rand lassen. Hälften salzen und 20 Minuten stehen lassen. Abspülen und trocken tupfen.
-- |-
-  TODO: Auberginen-Fruchtfleisch grob hacken. Zwiebeln in feine Ringe schneiden, Knoblauch pressen. 4 EL Olivenöl in einer Pfanne bei mittlerer Hitze erhitzen, Zwiebeln 15 Minuten langsam golden karamellisieren.
-- |-
-  TODO: Hähnchenbrust in kleine Würfel schneiden. Zum Zwiebeln geben, 5 Minuten anbraten. Knoblauch, Auberginen-Fruchtfleisch, Pul Biber, Zimt und Thymian einrühren.
-- |-
-  TODO: Gewürfelte Tomaten und Gehackte Tomaten hinzufügen. Zucker einrühren. 15 Minuten kochen, bis eine dicke Füllung entsteht. Petersilie einrühren, abschmecken.
-- |-
-  TODO: Ofen auf 180 °C vorheizen. Auberginenhälften in einer Auflaufform mit restlichem Olivenöl bepinseln. Füllung in die Hälften löffeln. 150 ml Wasser in die Form geben.
-- |-
-  TODO: 45 Minuten backen, bis die Auberginen vollständig weich sind. Heiß oder auf Zimmertemperatur abgekühlt servieren.
+- Halve the aubergines. Scoop out the flesh with a spoon, leaving a 1 cm border. Salt
+  the halves and leave for 20 minutes. Rinse and pat dry.
+- Roughly chop the aubergine flesh. Slice the onions into thin rings and crush the
+  garlic. Heat 4 tbsp olive oil in a pan over medium heat and slowly caramelise the
+  onions for 15 minutes until golden.
+- Dice the chicken breast. Add to the onions and fry for 5 minutes. Stir in the garlic,
+  aubergine flesh, pul biber, cinnamon, and thyme.
+- Add the diced tomatoes and canned chopped tomatoes. Stir in the sugar. Cook for
+  15 minutes until a thick filling forms. Stir in the parsley and season to taste.
+- Preheat the oven to 180 °C. Brush the aubergine halves in a baking dish with the
+  remaining olive oil. Spoon the filling into the halves. Add 150 ml water to the
+  dish.
+- Bake for 45 minutes until the aubergines are completely tender. Serve hot or at
+  room temperature.

@@ -6,99 +6,104 @@ next_day: false
 meals: 3
 de:
   title: Singapurisches Hainanese Chicken Rice
-  summary: |-
-    Singapurischer Nationalklassiker: pochiertes Hähnchen mit zartem, in Hühnerbrühe gekochtem Jasminreis, Ingwer-Chili-Sauce und Soßen zum Dippen.
+  summary: 'Singapurischer Nationalklassiker: pochiertes Hähnchen mit zartem, in Hühnerbrühe
+    gekochtem Jasminreis, Ingwer-Chili-Sauce und Soßen zum Dippen.'
 en:
-  title: 'TODO: Singapurisches Hainanese Chicken Rice'
-  summary: |-
-    TODO: Singapurischer Nationalklassiker: pochiertes Hähnchen mit zartem, in Hühnerbrühe gekochtem Jasminreis, Ingwer-Chili-Sauce und Soßen zum Dippen.
+  title: Hainanese Chicken Rice
+  summary: 'Singapore''s national classic: poached chicken with delicate jasmine rice
+    cooked in chicken stock, ginger-chilli sauce, and dipping condiments.'
 ingredients:
 - de_name: Ganzes Hähnchen oder Hähnchenschenkel
-  en_name: 'TODO: Ganzes Hähnchen oder Hähnchenschenkel'
+  en_name: Whole chicken or chicken thighs
   qty: 1600
   unit: g
   category: Protein und Milchprodukte
 - de_name: Jasminreis
-  en_name: 'TODO: Jasminreis'
+  en_name: Jasmine rice
   qty: 400
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Sojasauce (hell)
-  en_name: 'TODO: Sojasauce (hell)'
+  en_name: Light soy sauce
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sesamöl
-  en_name: 'TODO: Sesamöl'
+  en_name: Sesame oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Rapsöl
-  en_name: 'TODO: Rapsöl'
+  en_name: Rapeseed oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: Garlic
   qty: 8
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Ingwer, frisch
-  en_name: 'TODO: Ingwer, frisch'
+  en_name: Fresh ginger
   qty: 80
   unit: g
   category: Gemüse und Salat
 - de_name: Frühlingszwiebeln
-  en_name: 'TODO: Frühlingszwiebeln'
+  en_name: Spring onions
   qty: 6
   unit: Stk
   category: Gemüse und Salat
 - de_name: Gurke
-  en_name: 'TODO: Gurke'
+  en_name: Cucumber
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Rote Chili
-  en_name: 'TODO: Rote Chili'
+  en_name: Red chilli
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Limette
-  en_name: 'TODO: Limette'
+  en_name: Limes
   qty: 2
   unit: Stk
   category: Obst
 - de_name: Weißer Pfeffer, gemahlen
-  en_name: 'TODO: Weißer Pfeffer, gemahlen'
+  en_name: Ground white pepper
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Kurkuma
-  en_name: 'TODO: Kurkuma'
+  en_name: Turmeric
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Hähnchen innen und außen salzen. Einen großen Topf mit Wasser aufkochen. Hähnchen einlegen, 5 Knoblauchzehen, die Hälfte des Ingwers (in Scheiben), Frühlingszwiebelgrün und weißen Pfeffer zugeben.
-- |-
-  Auf niedrige Hitze reduzieren – das Wasser soll kaum simmern. Hähnchen 40–45 Minuten pochieren bis komplett gar. Herausnehmen, sofort in eiskaltes Wasser tauchen für 5 Minuten, dann herausheben.
+- Hähnchen innen und außen salzen. Einen großen Topf mit Wasser aufkochen. Hähnchen
+  einlegen, 5 Knoblauchzehen, die Hälfte des Ingwers (in Scheiben), Frühlingszwiebelgrün
+  und weißen Pfeffer zugeben.
+- Auf niedrige Hitze reduzieren – das Wasser soll kaum simmern. Hähnchen 40–45 Minuten
+  pochieren bis komplett gar. Herausnehmen, sofort in eiskaltes Wasser tauchen für
+  5 Minuten, dann herausheben.
 - Brühe durch ein Sieb gießen und aufbewahren. Reis abspülen.
-- |-
-  Rapsöl in einem Topf erhitzen. Restlichen Knoblauch und restlichen Ingwer (fein gehackt) 2 Minuten anbraten. Reis zugeben, 2 Minuten anrösten. 600 ml Hühnerbrühe zugeben, aufkochen, Hitze minimal, 15 Minuten köcheln.
-- |-
-  Chili-Ingwer-Sauce: rote Chilis, restlichen Ingwer, 2 Knoblauchzehen, Limettensaft und eine Prise Salz im Mixer pürieren.
-- |-
-  Hähnchen in Stücke schneiden oder zupfen. Mit warmem Reis, Gurkenscheiben, heller Sojasauce, Sesamöl, etwas Brühe zum Trinken und der Chili-Sauce servieren.
+- Rapsöl in einem Topf erhitzen. Restlichen Knoblauch und restlichen Ingwer (fein
+  gehackt) 2 Minuten anbraten. Reis zugeben, 2 Minuten anrösten. 600 ml Hühnerbrühe
+  zugeben, aufkochen, Hitze minimal, 15 Minuten köcheln.
+- 'Chili-Ingwer-Sauce: rote Chilis, restlichen Ingwer, 2 Knoblauchzehen, Limettensaft
+  und eine Prise Salz im Mixer pürieren.'
+- Hähnchen in Stücke schneiden oder zupfen. Mit warmem Reis, Gurkenscheiben, heller
+  Sojasauce, Sesamöl, etwas Brühe zum Trinken und der Chili-Sauce servieren.
 en_steps:
-- |-
-  TODO: Hähnchen innen und außen salzen. Einen großen Topf mit Wasser aufkochen. Hähnchen einlegen, 5 Knoblauchzehen, die Hälfte des Ingwers (in Scheiben), Frühlingszwiebelgrün und weißen Pfeffer zugeben.
-- |-
-  TODO: Auf niedrige Hitze reduzieren – das Wasser soll kaum simmern. Hähnchen 40–45 Minuten pochieren bis komplett gar. Herausnehmen, sofort in eiskaltes Wasser tauchen für 5 Minuten, dann herausheben.
-- 'TODO: Brühe durch ein Sieb gießen und aufbewahren. Reis abspülen.'
-- |-
-  TODO: Rapsöl in einem Topf erhitzen. Restlichen Knoblauch und restlichen Ingwer (fein gehackt) 2 Minuten anbraten. Reis zugeben, 2 Minuten anrösten. 600 ml Hühnerbrühe zugeben, aufkochen, Hitze minimal, 15 Minuten köcheln.
-- |-
-  TODO: Chili-Ingwer-Sauce: rote Chilis, restlichen Ingwer, 2 Knoblauchzehen, Limettensaft und eine Prise Salz im Mixer pürieren.
-- |-
-  TODO: Hähnchen in Stücke schneiden oder zupfen. Mit warmem Reis, Gurkenscheiben, heller Sojasauce, Sesamöl, etwas Brühe zum Trinken und der Chili-Sauce servieren.
+- Salt the chicken inside and out. Bring a large pot of water to a boil. Add the chicken,
+  5 garlic cloves, half the ginger (sliced), spring onion greens, and white pepper.
+- Reduce to low heat — the water should barely simmer. Poach the chicken for 40–45
+  minutes until fully cooked through. Remove and immediately plunge into ice-cold
+  water for 5 minutes, then lift out.
+- Strain the broth through a sieve and set aside. Rinse the rice.
+- Heat rapeseed oil in a pot. Fry the remaining garlic and ginger (finely chopped)
+  for 2 minutes. Add the rice and toast for 2 minutes. Add 600 ml of the chicken stock,
+  bring to a boil, then cook on the lowest heat for 15 minutes.
+- 'Chilli-ginger sauce: blend red chillies, remaining ginger, 2 garlic cloves, lime
+  juice, and a pinch of salt in a blender.'
+- Cut or shred the chicken. Serve with warm rice, cucumber slices, light soy sauce,
+  sesame oil, a small bowl of broth for drinking, and the chilli sauce.

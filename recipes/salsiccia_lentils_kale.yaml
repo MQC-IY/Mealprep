@@ -6,122 +6,120 @@ next_day: true
 meals: 2
 de:
   title: Salsiccia-Linsen mit Grünkohl
-  summary: |-
-    Herzhafte Umbro-toskanische Linsen mit würziger Salsiccia, Grünkohl, Fenchelsamen und Rotwein – bodenständige Winterküche mit Tiefe.
+  summary: Herzhafte Umbro-toskanische Linsen mit würziger Salsiccia, Grünkohl, Fenchelsamen
+    und Rotwein – bodenständige Winterküche mit Tiefe.
 en:
-  title: 'TODO: Salsiccia-Linsen mit Grünkohl'
-  summary: |-
-    TODO: Herzhafte Umbro-toskanische Linsen mit würziger Salsiccia, Grünkohl, Fenchelsamen und Rotwein – bodenständige Winterküche mit Tiefe.
+  title: Salsiccia Lentils with Kale
+  summary: Hearty Umbrian-Tuscan lentils with spicy Salsiccia, kale, fennel seeds,
+    and red wine — a rustic winter dish with real depth.
 ingredients:
 - de_name: Salsiccia (grobe Bratwurst)
-  en_name: 'TODO: Salsiccia (grobe Bratwurst)'
+  en_name: Salsiccia (coarse pork sausage)
   qty: 400
   unit: g
   category: Protein und Milchprodukte
 - de_name: Braune Linsen (ungekocht)
-  en_name: 'TODO: Braune Linsen (ungekocht)'
+  en_name: brown lentils (uncooked)
   qty: 200
   unit: g
   category: Konserven und Vorrat
 - de_name: Grünkohl
-  en_name: 'TODO: Grünkohl'
+  en_name: kale
   qty: 200
   unit: g
   category: Gemüse und Salat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 3
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Karotte
-  en_name: 'TODO: Karotte'
+  en_name: carrot
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Staudensellerie
-  en_name: 'TODO: Staudensellerie'
+  en_name: celery stalk
   qty: 1
   unit: Stange
   category: Gemüse und Salat
 - de_name: Trockener Rotwein
-  en_name: 'TODO: Trockener Rotwein'
+  en_name: dry red wine
   qty: 150
   unit: ml
   category: Konserven und Vorrat
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: chicken broth
   qty: 600
   unit: ml
   category: Konserven und Vorrat
 - de_name: Tomatenmark
-  en_name: 'TODO: Tomatenmark'
+  en_name: tomato paste
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Fenchelsamen
-  en_name: 'TODO: Fenchelsamen'
+  en_name: fennel seeds
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Peperoncino gemahlen
-  en_name: 'TODO: Peperoncino gemahlen'
+  en_name: ground peperoncino
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Getrockneter Thymian
-  en_name: 'TODO: Getrockneter Thymian'
+  en_name: dried thyme
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Salsiccia aus der Haut drücken und in walnussgroße Stücke formen. Zwiebel, Karotte und Sellerie würfeln, Knoblauch hacken.
-- |-
-  Olivenöl in einem großen Topf bei mittlerer bis hoher Hitze erhitzen. Salsiccia-Stücke 4–5 Minuten rundherum anbraten, bis sie Farbe bekommen. Herausnehmen.
-- |-
-  Im selben Topf Zwiebel, Karotte und Sellerie 6 Minuten anschwitzen. Knoblauch, Fenchelsamen und Peperoncino einrühren, 1 Minute rösten.
-- |-
-  Tomatenmark dazugeben, kurz mitrösten. Mit Rotwein ablöschen, 2 Minuten stark einkochen.
-- |-
-  Linsen (abgespült), Brühe und Thymian dazugeben. Salsiccia zurücklegen. Zugedeckt 25 Minuten bei niedriger Hitze köcheln.
-- |-
-  Grünkohl von den Stielen befreien, grob hacken. In den Eintopf einrühren, weitere 10 Minuten offen köcheln.
+- Salsiccia aus der Haut drücken und in walnussgroße Stücke formen. Zwiebel, Karotte
+  und Sellerie würfeln, Knoblauch hacken.
+- Olivenöl in einem großen Topf bei mittlerer bis hoher Hitze erhitzen. Salsiccia-Stücke
+  4–5 Minuten rundherum anbraten, bis sie Farbe bekommen. Herausnehmen.
+- Im selben Topf Zwiebel, Karotte und Sellerie 6 Minuten anschwitzen. Knoblauch, Fenchelsamen
+  und Peperoncino einrühren, 1 Minute rösten.
+- Tomatenmark dazugeben, kurz mitrösten. Mit Rotwein ablöschen, 2 Minuten stark einkochen.
+- Linsen (abgespült), Brühe und Thymian dazugeben. Salsiccia zurücklegen. Zugedeckt
+  25 Minuten bei niedriger Hitze köcheln.
+- Grünkohl von den Stielen befreien, grob hacken. In den Eintopf einrühren, weitere
+  10 Minuten offen köcheln.
 - 'Konsistenz prüfen: Der Eintopf soll sämig sein, nicht suppig.'
-- |-
-  Mit Salz und Pfeffer abschmecken. Mit rustikalem Brot und einem Schuss Olivenöl servieren.
+- Mit Salz und Pfeffer abschmecken. Mit rustikalem Brot und einem Schuss Olivenöl
+  servieren.
 en_steps:
-- |-
-  TODO: Salsiccia aus der Haut drücken und in walnussgroße Stücke formen. Zwiebel, Karotte und Sellerie würfeln, Knoblauch hacken.
-- |-
-  TODO: Olivenöl in einem großen Topf bei mittlerer bis hoher Hitze erhitzen. Salsiccia-Stücke 4–5 Minuten rundherum anbraten, bis sie Farbe bekommen. Herausnehmen.
-- |-
-  TODO: Im selben Topf Zwiebel, Karotte und Sellerie 6 Minuten anschwitzen. Knoblauch, Fenchelsamen und Peperoncino einrühren, 1 Minute rösten.
-- |-
-  TODO: Tomatenmark dazugeben, kurz mitrösten. Mit Rotwein ablöschen, 2 Minuten stark einkochen.
-- |-
-  TODO: Linsen (abgespült), Brühe und Thymian dazugeben. Salsiccia zurücklegen. Zugedeckt 25 Minuten bei niedriger Hitze köcheln.
-- |-
-  TODO: Grünkohl von den Stielen befreien, grob hacken. In den Eintopf einrühren, weitere 10 Minuten offen köcheln.
-- 'TODO: Konsistenz prüfen: Der Eintopf soll sämig sein, nicht suppig.'
-- |-
-  TODO: Mit Salz und Pfeffer abschmecken. Mit rustikalem Brot und einem Schuss Olivenöl servieren.
+- Squeeze the Salsiccia from its casing and shape into walnut-sized pieces. Dice the
+  onion, carrot, and celery; mince the garlic.
+- Heat the olive oil in a large pot over medium-high heat. Brown the Salsiccia pieces
+  on all sides for 4–5 minutes until coloured. Remove.
+- In the same pot, sweat the onion, carrot, and celery for 6 minutes. Stir in the
+  garlic, fennel seeds, and peperoncino; toast for 1 minute.
+- Add the tomato paste and briefly fry. Deglaze with red wine and reduce hard for
+  2 minutes.
+- Add the rinsed lentils, broth, and thyme. Return the Salsiccia. Cover and simmer
+  over low heat for 25 minutes.
+- Strip the kale from the stems and roughly chop. Stir into the stew and cook uncovered
+  for a further 10 minutes.
+- 'Check consistency: the stew should be thick, not soupy.'
+- Season with salt and pepper. Serve with rustic bread and a drizzle of olive oil.

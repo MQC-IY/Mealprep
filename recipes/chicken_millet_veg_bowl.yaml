@@ -9,41 +9,42 @@ de:
   title: Hähnchen-Hirse-Bowl mit Gemüse
   summary: Leichte Bowl mit Hähnchen, Hirse, Paprika und Gurke.
 en:
-  title: 'TODO: Hähnchen-Hirse-Bowl mit Gemüse'
-  summary: 'TODO: Leichte Bowl mit Hähnchen, Hirse, Paprika und Gurke.'
+  title: Chicken Millet Bowl with Vegetables
+  summary: A light and nourishing bowl with seared chicken, fluffy millet, roasted
+    bell pepper, carrots, and fresh cucumber.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 750
   unit: g
   category: Protein und Milchprodukte
 - de_name: Hirse
-  en_name: 'TODO: Hirse'
+  en_name: millet
   qty: 260
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Paprika
-  en_name: 'TODO: Paprika'
+  en_name: bell pepper
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Gurke
-  en_name: 'TODO: Gurke'
+  en_name: cucumber
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: carrots
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -52,6 +53,6 @@ de_steps:
 - Hähnchen scharf anbraten.
 - Paprika und Möhren weich garen, Gurke klein würfeln.
 en_steps:
-- 'TODO: Hirse garen.'
-- 'TODO: Hähnchen scharf anbraten.'
-- 'TODO: Paprika und Möhren weich garen, Gurke klein würfeln.'
+- Cook the millet.
+- Sear the chicken over high heat.
+- Cook the bell pepper and carrots until tender, then dice the cucumber.

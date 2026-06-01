@@ -6,80 +6,77 @@ next_day: false
 meals: 3
 de:
   title: Hähnchen-Reis-Gemüse-Bowl
-  summary: |-
-    Milde Bowl mit Brokkoli, Paprika und Möhren, ideal für Meal Prep und Familienmittag.
+  summary: Milde Bowl mit Brokkoli, Paprika und Möhren, ideal für Meal Prep und Familienmittag.
 en:
-  title: 'TODO: Hähnchen-Reis-Gemüse-Bowl'
-  summary: |-
-    TODO: Milde Bowl mit Brokkoli, Paprika und Möhren, ideal für Meal Prep und Familienmittag.
+  title: Chicken Rice and Vegetable Bowl
+  summary: A mild and nourishing bowl with broccoli, bell pepper, and carrots — perfect
+    for meal prep and family lunches.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 900
   unit: g
   category: Protein und Milchprodukte
 - de_name: Basmatireis
-  en_name: 'TODO: Basmatireis'
+  en_name: basmati rice
   qty: 350
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Brokkoli
-  en_name: 'TODO: Brokkoli'
+  en_name: broccoli
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Paprika
-  en_name: 'TODO: Paprika'
+  en_name: bell pepper
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: carrots
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Paprika edelsüß
-  en_name: 'TODO: Paprika edelsüß'
+  en_name: sweet paprika
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Kreuzkümmel
-  en_name: 'TODO: Kreuzkümmel'
+  en_name: cumin
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 2
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Zitrone oder Limette
-  en_name: 'TODO: Zitrone oder Limette'
+  en_name: lemon or lime
   qty: 1
   unit: Stk
   category: Obst
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
 - Reis nach Packungsangabe garen.
-- |-
-  Brokkoli in Röschen teilen, Paprika in Streifen und Möhren in Scheiben schneiden.
+- Brokkoli in Röschen teilen, Paprika in Streifen und Möhren in Scheiben schneiden.
 - Gemüse mit etwas Olivenöl mischen und weich garen, im Ofen oder in der Pfanne.
-- |-
-  Hähnchen mit Paprika, etwas Kreuzkümmel, Knoblauch und Zitronensaft würzen und durchgaren.
+- Hähnchen mit Paprika, etwas Kreuzkümmel, Knoblauch und Zitronensaft würzen und durchgaren.
 en_steps:
-- 'TODO: Reis nach Packungsangabe garen.'
-- |-
-  TODO: Brokkoli in Röschen teilen, Paprika in Streifen und Möhren in Scheiben schneiden.
-- |-
-  TODO: Gemüse mit etwas Olivenöl mischen und weich garen, im Ofen oder in der Pfanne.
-- |-
-  TODO: Hähnchen mit Paprika, etwas Kreuzkümmel, Knoblauch und Zitronensaft würzen und durchgaren.
+- Cook the rice according to the package instructions.
+- Break the broccoli into florets, slice the bell pepper into strips, and cut the
+  carrots into rounds.
+- Toss the vegetables with a little olive oil and cook until tender, in the oven or
+  in a pan.
+- Season the chicken with paprika, a little cumin, garlic, and lemon juice and cook
+  through.

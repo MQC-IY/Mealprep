@@ -6,108 +6,109 @@ next_day: true
 meals: 3
 de:
   title: Südafrikanischer Hähnchen-Potjie
-  summary: |-
-    Südafrikanischer Schmortopf aus dem Gusseisenpott: Hähnchen mit Süßkartoffeln, Tomaten, Bier, Aprikosenmarmelade und Ras-el-Hanout langsam geschmort.
+  summary: 'Südafrikanischer Schmortopf aus dem Gusseisenpott: Hähnchen mit Süßkartoffeln,
+    Tomaten, Bier, Aprikosenmarmelade und Ras-el-Hanout langsam geschmort.'
 en:
-  title: 'TODO: Südafrikanischer Hähnchen-Potjie'
-  summary: |-
-    TODO: Südafrikanischer Schmortopf aus dem Gusseisenpott: Hähnchen mit Süßkartoffeln, Tomaten, Bier, Aprikosenmarmelade und Ras-el-Hanout langsam geschmort.
+  title: South African Chicken Potjie
+  summary: A slow-braised South African cast-iron pot stew with chicken, sweet potato,
+    tomatoes, beer, apricot jam and Ras el Hanout.
 ingredients:
 - de_name: Hähnchenstücke mit Knochen
-  en_name: 'TODO: Hähnchenstücke mit Knochen'
+  en_name: bone-in chicken pieces
   qty: 1200
   unit: g
   category: Protein und Milchprodukte
 - de_name: Aprikosenmarmelade
-  en_name: 'TODO: Aprikosenmarmelade'
+  en_name: apricot jam
   qty: 60
   unit: g
   category: Konserven und Vorrat
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: chicken stock
   qty: 300
   unit: ml
   category: Konserven und Vorrat
 - de_name: Gehackte Tomaten
-  en_name: 'TODO: Gehackte Tomaten'
+  en_name: chopped tomatoes
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Rapsöl
-  en_name: 'TODO: Rapsöl'
+  en_name: rapeseed oil
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Langkornreis
-  en_name: 'TODO: Langkornreis'
+  en_name: long-grain rice
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Süßkartoffel
-  en_name: 'TODO: Süßkartoffel'
+  en_name: sweet potato
   qty: 600
   unit: g
   category: Gemüse und Salat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Ingwer, frisch
-  en_name: 'TODO: Ingwer, frisch'
+  en_name: fresh ginger
   qty: 25
   unit: g
   category: Gemüse und Salat
 - de_name: Paprika, rot
-  en_name: 'TODO: Paprika, rot'
+  en_name: red bell pepper
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Ras el Hanout
-  en_name: 'TODO: Ras el Hanout'
+  en_name: Ras el Hanout
   qty: 3
   unit: TL
   category: Gewürze
 - de_name: Paprika edelsüß
-  en_name: 'TODO: Paprika edelsüß'
+  en_name: sweet smoked paprika
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Zimt, gemahlen
-  en_name: 'TODO: Zimt, gemahlen'
+  en_name: cinnamon, ground
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chilli flakes
   qty: 1.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Hähnchenstücke salzen und mit Paprika edelsüß einreiben. Öl in einem schweren Schmortopf oder Gusseisentopf bei hoher Hitze erhitzen. Hähnchen portionsweise scharf anbraten, herausnehmen.
-- |-
-  Zwiebeln würfeln, Knoblauch und Ingwer hacken. Im Bratfett 5 Minuten weich garen.
+- Hähnchenstücke salzen und mit Paprika edelsüß einreiben. Öl in einem schweren Schmortopf
+  oder Gusseisentopf bei hoher Hitze erhitzen. Hähnchen portionsweise scharf anbraten,
+  herausnehmen.
+- Zwiebeln würfeln, Knoblauch und Ingwer hacken. Im Bratfett 5 Minuten weich garen.
 - Ras el Hanout, Zimt und Chiliflocken zugeben, 1 Minute rösten.
 - Tomaten, Hühnerbrühe und Aprikosenmarmelade einrühren, aufkochen.
 - Hähnchenstücke, gewürfelte Süßkartoffeln und Paprikastreifen in den Topf geben.
-- |-
-  Deckel drauf, Hitze auf minimal reduzieren und 50–60 Minuten schmoren bis das Hähnchen vom Knochen fällt und die Süßkartoffeln weich sind.
+- Deckel drauf, Hitze auf minimal reduzieren und 50–60 Minuten schmoren bis das Hähnchen
+  vom Knochen fällt und die Süßkartoffeln weich sind.
 - Mit Salz und Chiliflocken abschmecken. Reis kochen und dazu servieren.
 en_steps:
-- |-
-  TODO: Hähnchenstücke salzen und mit Paprika edelsüß einreiben. Öl in einem schweren Schmortopf oder Gusseisentopf bei hoher Hitze erhitzen. Hähnchen portionsweise scharf anbraten, herausnehmen.
-- |-
-  TODO: Zwiebeln würfeln, Knoblauch und Ingwer hacken. Im Bratfett 5 Minuten weich garen.
-- 'TODO: Ras el Hanout, Zimt und Chiliflocken zugeben, 1 Minute rösten.'
-- 'TODO: Tomaten, Hühnerbrühe und Aprikosenmarmelade einrühren, aufkochen.'
-- |-
-  TODO: Hähnchenstücke, gewürfelte Süßkartoffeln und Paprikastreifen in den Topf geben.
-- |-
-  TODO: Deckel drauf, Hitze auf minimal reduzieren und 50–60 Minuten schmoren bis das Hähnchen vom Knochen fällt und die Süßkartoffeln weich sind.
-- 'TODO: Mit Salz und Chiliflocken abschmecken. Reis kochen und dazu servieren.'
+- Season chicken pieces with salt and rub with sweet paprika. Heat oil in a heavy
+  braising pot or Dutch oven over high heat. Sear chicken in batches until browned,
+  then set aside.
+- Dice onions; mince garlic and ginger. Sauté in the drippings for 5 minutes until
+  soft.
+- Add Ras el Hanout, cinnamon and chilli flakes; toast for 1 minute.
+- Stir in tomatoes, chicken stock and apricot jam; bring to a boil.
+- Return chicken pieces to the pot together with diced sweet potato and sliced bell
+  pepper.
+- Cover, reduce heat to minimum and braise for 50–60 minutes until the chicken falls
+  off the bone and the sweet potato is tender.
+- Season with salt and chilli flakes. Cook rice and serve alongside.

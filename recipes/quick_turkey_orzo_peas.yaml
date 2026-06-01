@@ -9,36 +9,36 @@ de:
   title: Schnelles Puten-Orzo mit Erbsen
   summary: Schnelle Orzo-Pfanne mit Putenhack, Erbsen und Frischkäse.
 en:
-  title: 'TODO: Schnelles Puten-Orzo mit Erbsen'
-  summary: 'TODO: Schnelle Orzo-Pfanne mit Putenhack, Erbsen und Frischkäse.'
+  title: Quick Turkey Orzo with Peas
+  summary: A quick orzo skillet with ground turkey, peas, and cream cheese.
 ingredients:
 - de_name: Putenhack
-  en_name: 'TODO: Putenhack'
+  en_name: ground turkey
   qty: 650
   unit: g
   category: Protein und Milchprodukte
 - de_name: Orzo oder Kritharaki
-  en_name: 'TODO: Orzo oder Kritharaki'
+  en_name: orzo
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Erbsen, TK
-  en_name: 'TODO: Erbsen, TK'
+  en_name: frozen peas
   qty: 220
   unit: g
   category: Gemüse und Salat
 - de_name: Frischkäse natur
-  en_name: 'TODO: Frischkäse natur'
+  en_name: plain cream cheese
   qty: 100
   unit: g
   category: Protein und Milchprodukte
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -47,6 +47,6 @@ de_steps:
 - Putenhack scharf anbraten.
 - Erbsen und Frischkäse unterrühren.
 en_steps:
-- 'TODO: Orzo weich garen.'
-- 'TODO: Putenhack scharf anbraten.'
-- 'TODO: Erbsen und Frischkäse unterrühren.'
+- Cook the orzo until tender.
+- Sear the ground turkey over high heat.
+- Stir in the peas and cream cheese.

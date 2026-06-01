@@ -6,107 +6,105 @@ next_day: true
 meals: 2
 de:
   title: Fabada Asturiana-inspirierter Weißbohneneintopf
-  summary: |-
-    Asturischer Weißbohneneintopf mit Chorizo, Morcilla, Speck und Safran – einer der reichhaltigsten und sättigendsten Klassiker der spanischen Küche.
+  summary: Asturischer Weißbohneneintopf mit Chorizo, Morcilla, Speck und Safran –
+    einer der reichhaltigsten und sättigendsten Klassiker der spanischen Küche.
 en:
-  title: 'TODO: Fabada Asturiana-inspirierter Weißbohneneintopf'
-  summary: |-
-    TODO: Asturischer Weißbohneneintopf mit Chorizo, Morcilla, Speck und Safran – einer der reichhaltigsten und sättigendsten Klassiker der spanischen Küche.
+  title: Fabada – Asturian-Inspired White Bean Stew
+  summary: Asturian white bean stew with chorizo, morcilla, smoked bacon, and saffron
+    — one of the most hearty and satisfying classics of Spanish cuisine.
 ingredients:
 - de_name: Große weiße Bohnen aus der Dose (Fabes oder Cannellini)
-  en_name: 'TODO: Große weiße Bohnen aus der Dose (Fabes oder Cannellini)'
+  en_name: large white beans, tinned (fabes or cannellini)
   qty: 2
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Chorizo
-  en_name: 'TODO: Chorizo'
+  en_name: chorizo
   qty: 200
   unit: g
   category: Protein und Milchprodukte
 - de_name: Morcilla (Blutwurst) oder Bratwurst
-  en_name: 'TODO: Morcilla (Blutwurst) oder Bratwurst'
+  en_name: morcilla (blood sausage) or bratwurst
   qty: 150
   unit: g
   category: Protein und Milchprodukte
 - de_name: Geräucherter Bauchspeck am Stück
-  en_name: 'TODO: Geräucherter Bauchspeck am Stück'
+  en_name: smoked belly bacon, in one piece
   qty: 150
   unit: g
   category: Protein und Milchprodukte
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Hühner- oder Schweinebrühe
-  en_name: 'TODO: Hühner- oder Schweinebrühe'
+  en_name: chicken or pork stock
   qty: 600
   unit: ml
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Safranfäden
-  en_name: 'TODO: Safranfäden'
+  en_name: saffron threads
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Pimentón ahumado
-  en_name: 'TODO: Pimentón ahumado'
+  en_name: pimentón ahumado (smoked paprika)
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Lorbeerblätter
-  en_name: 'TODO: Lorbeerblätter'
+  en_name: bay leaves
   qty: 2
   unit: Stk
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Safranfäden in 3 EL warmem Wasser 10 Minuten einweichen. Chorizo und Morcilla in dicke Scheiben schneiden, Speck in 3–4 Stücke.
-- |-
-  Olivenöl in einem großen Topf bei mittlerer Hitze erwärmen. Zwiebel und Knoblauch (beides fein gewürfelt) 5 Minuten anschwitzen.
-- |-
-  Speck dazugeben und 3 Minuten mitbraten. Chorizo-Scheiben einlegen, 2 Minuten weiterbraten.
-- |-
-  Pimentón und Lorbeer einrühren, 1 Minute rösten. Brühe und Safranwasser dazugießen, aufkochen.
+- Safranfäden in 3 EL warmem Wasser 10 Minuten einweichen. Chorizo und Morcilla in
+  dicke Scheiben schneiden, Speck in 3–4 Stücke.
+- Olivenöl in einem großen Topf bei mittlerer Hitze erwärmen. Zwiebel und Knoblauch
+  (beides fein gewürfelt) 5 Minuten anschwitzen.
+- Speck dazugeben und 3 Minuten mitbraten. Chorizo-Scheiben einlegen, 2 Minuten weiterbraten.
+- Pimentón und Lorbeer einrühren, 1 Minute rösten. Brühe und Safranwasser dazugießen,
+  aufkochen.
 - Bohnen (abgetropft, aber nicht gespült) einlegen. Morcilla obenauf setzen.
-- |-
-  Herd auf niedrigste Stufe reduzieren. Zugedeckt 40 Minuten sanft köcheln – nicht umrühren, damit die Bohnen ganz bleiben.
-- |-
-  Für eine sämige Sauce: Einige Bohnen herausheben und mit einer Gabel zerdrücken, zurück in den Topf einrühren.
-- |-
-  Lorbeer entfernen, mit Salz und Pfeffer abschmecken. Traditionell ohne Beilage servieren.
+- Herd auf niedrigste Stufe reduzieren. Zugedeckt 40 Minuten sanft köcheln – nicht
+  umrühren, damit die Bohnen ganz bleiben.
+- 'Für eine sämige Sauce: Einige Bohnen herausheben und mit einer Gabel zerdrücken,
+  zurück in den Topf einrühren.'
+- Lorbeer entfernen, mit Salz und Pfeffer abschmecken. Traditionell ohne Beilage servieren.
 en_steps:
-- |-
-  TODO: Safranfäden in 3 EL warmem Wasser 10 Minuten einweichen. Chorizo und Morcilla in dicke Scheiben schneiden, Speck in 3–4 Stücke.
-- |-
-  TODO: Olivenöl in einem großen Topf bei mittlerer Hitze erwärmen. Zwiebel und Knoblauch (beides fein gewürfelt) 5 Minuten anschwitzen.
-- |-
-  TODO: Speck dazugeben und 3 Minuten mitbraten. Chorizo-Scheiben einlegen, 2 Minuten weiterbraten.
-- |-
-  TODO: Pimentón und Lorbeer einrühren, 1 Minute rösten. Brühe und Safranwasser dazugießen, aufkochen.
-- 'TODO: Bohnen (abgetropft, aber nicht gespült) einlegen. Morcilla obenauf setzen.'
-- |-
-  TODO: Herd auf niedrigste Stufe reduzieren. Zugedeckt 40 Minuten sanft köcheln – nicht umrühren, damit die Bohnen ganz bleiben.
-- |-
-  TODO: Für eine sämige Sauce: Einige Bohnen herausheben und mit einer Gabel zerdrücken, zurück in den Topf einrühren.
-- |-
-  TODO: Lorbeer entfernen, mit Salz und Pfeffer abschmecken. Traditionell ohne Beilage servieren.
+- Soak the saffron threads in 3 tbsp warm water for 10 minutes. Slice the chorizo
+  and morcilla thickly; cut the bacon into 3–4 pieces.
+- Warm the olive oil in a large pot over medium heat. Sweat the finely diced onion
+  and garlic for 5 minutes.
+- Add the bacon and fry for 3 minutes. Add the chorizo slices and cook for a further
+  2 minutes.
+- Stir in the pimentón and bay leaves; toast for 1 minute. Pour in the stock and saffron
+  water; bring to a boil.
+- Add the drained (but unrinsed) beans. Place the morcilla on top.
+- Reduce the heat to the lowest setting. Cover and simmer gently for 40 minutes —
+  do not stir, to keep the beans whole.
+- 'For a thicker sauce: lift out a few beans, mash with a fork, and stir back into
+  the pot.'
+- Remove the bay leaves and season with salt and pepper. Traditionally served without
+  a side dish.

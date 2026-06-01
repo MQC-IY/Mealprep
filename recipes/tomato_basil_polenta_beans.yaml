@@ -7,50 +7,50 @@ quick_minutes: 20
 meals: 3
 de:
   title: Tomaten-Polenta mit weißen Bohnen
-  summary: |-
-    Sehr schnelles, mildes Komfortgericht mit cremiger Polenta, Bohnen und Tomatensauce.
+  summary: Sehr schnelles, mildes Komfortgericht mit cremiger Polenta, Bohnen und
+    Tomatensauce.
 en:
-  title: 'TODO: Tomaten-Polenta mit weißen Bohnen'
-  summary: |-
-    TODO: Sehr schnelles, mildes Komfortgericht mit cremiger Polenta, Bohnen und Tomatensauce.
+  title: Tomato Polenta with White Beans
+  summary: A very quick, mellow comfort dish of creamy polenta with white beans and
+    tomato sauce.
 ingredients:
 - de_name: Polenta
-  en_name: 'TODO: Polenta'
+  en_name: polenta
   qty: 250
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Weiße Bohnen
-  en_name: 'TODO: Weiße Bohnen'
+  en_name: white beans
   qty: 2
   unit: Dosen
   category: Konserven und Vorrat
 - de_name: Passierte Tomaten
-  en_name: 'TODO: Passierte Tomaten'
+  en_name: strained tomatoes (passata)
   qty: 1
   unit: Glas
   category: Konserven und Vorrat
 - de_name: Blattspinat
-  en_name: 'TODO: Blattspinat'
+  en_name: leaf spinach
   qty: 120
   unit: g
   category: Gemüse und Salat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Basilikum
-  en_name: 'TODO: Basilikum'
+  en_name: basil
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -59,6 +59,6 @@ de_steps:
 - Zwiebel in Olivenöl anschwitzen, Tomaten und Bohnen zugeben.
 - Spinat unterheben und alles kurz köcheln lassen.
 en_steps:
-- 'TODO: Polenta nach Packungsangabe weich rühren.'
-- 'TODO: Zwiebel in Olivenöl anschwitzen, Tomaten und Bohnen zugeben.'
-- 'TODO: Spinat unterheben und alles kurz köcheln lassen.'
+- Cook the polenta until soft and creamy according to package instructions.
+- Sauté the onion in olive oil, then add the tomatoes and white beans.
+- Fold in the spinach and let everything simmer briefly.

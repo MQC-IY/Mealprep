@@ -7,50 +7,50 @@ quick_minutes: 25
 meals: 3
 de:
   title: Udon-Pfanne mit Linsen und Gemüse
-  summary: |-
-    Schnelle Udon-Pfanne mit roten Linsen, Möhren und Zucchini in würziger Tomatensauce.
+  summary: Schnelle Udon-Pfanne mit roten Linsen, Möhren und Zucchini in würziger
+    Tomatensauce.
 en:
-  title: 'TODO: Udon-Pfanne mit Linsen und Gemüse'
-  summary: |-
-    TODO: Schnelle Udon-Pfanne mit roten Linsen, Möhren und Zucchini in würziger Tomatensauce.
+  title: Udon Pan with Lentils and Vegetables
+  summary: A quick udon stir-pan with red lentils, carrots, and zucchini in a flavourful
+    tomato sauce.
 ingredients:
 - de_name: Udon-Nudeln
-  en_name: 'TODO: Udon-Nudeln'
+  en_name: Udon noodles
   qty: 600
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Rote Linsen
-  en_name: 'TODO: Rote Linsen'
+  en_name: Red lentils
   qty: 180
   unit: g
   category: Konserven und Vorrat
 - de_name: Zucchini
-  en_name: 'TODO: Zucchini'
+  en_name: Zucchini
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: Carrots
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Passierte Tomaten
-  en_name: 'TODO: Passierte Tomaten'
+  en_name: Strained tomatoes (passata)
   qty: 1
   unit: Glas
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Paprika edelsüß
-  en_name: 'TODO: Paprika edelsüß'
+  en_name: Sweet paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -59,6 +59,6 @@ de_steps:
 - Linsen in der Tomatensauce weich köcheln.
 - Zucchini und Möhren klein schneiden und mitgaren.
 en_steps:
-- 'TODO: Udon weich garen.'
-- 'TODO: Linsen in der Tomatensauce weich köcheln.'
-- 'TODO: Zucchini und Möhren klein schneiden und mitgaren.'
+- Cook the udon noodles until tender.
+- Simmer the lentils in the tomato sauce until soft.
+- Chop the zucchini and carrots into small pieces and cook along with the lentils.

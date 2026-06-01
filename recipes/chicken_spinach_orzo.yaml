@@ -9,51 +9,52 @@ de:
   title: Orzo-Pfanne mit Hähnchen und Spinat
   summary: Schnelle Orzo-Pfanne mit Hähnchen, Spinat und Frischkäse-Tomaten-Basis.
 en:
-  title: 'TODO: Orzo-Pfanne mit Hähnchen und Spinat'
-  summary: 'TODO: Schnelle Orzo-Pfanne mit Hähnchen, Spinat und Frischkäse-Tomaten-Basis.'
+  title: Orzo Pan with Chicken and Spinach
+  summary: A quick orzo pan with diced chicken, wilted spinach, passata, and a creamy
+    cream-cheese finish — on the table in 25 minutes.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 750
   unit: g
   category: Protein und Milchprodukte
 - de_name: Orzo oder Kritharaki
-  en_name: 'TODO: Orzo oder Kritharaki'
+  en_name: orzo
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Blattspinat
-  en_name: 'TODO: Blattspinat'
+  en_name: leaf spinach
   qty: 180
   unit: g
   category: Gemüse und Salat
 - de_name: Frischkäse natur
-  en_name: 'TODO: Frischkäse natur'
+  en_name: cream cheese
   qty: 120
   unit: g
   category: Protein und Milchprodukte
 - de_name: Passierte Tomaten
-  en_name: 'TODO: Passierte Tomaten'
+  en_name: passata
   qty: 1
   unit: Glas
   category: Konserven und Vorrat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Basilikum
-  en_name: 'TODO: Basilikum'
+  en_name: basil
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -62,6 +63,6 @@ de_steps:
 - Hähnchen klein schneiden und mit Zwiebel in Olivenöl scharf anbraten.
 - Tomaten und Frischkäse unterrühren, Spinat zusammenfallen lassen.
 en_steps:
-- 'TODO: Orzo weich garen.'
-- 'TODO: Hähnchen klein schneiden und mit Zwiebel in Olivenöl scharf anbraten.'
-- 'TODO: Tomaten und Frischkäse unterrühren, Spinat zusammenfallen lassen.'
+- Cook the orzo until tender.
+- Dice the chicken and sear with onion in olive oil over high heat.
+- Stir in the passata and cream cheese, then let the spinach wilt into the pan.

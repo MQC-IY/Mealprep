@@ -7,101 +7,100 @@ quick_minutes: 30
 meals: 2
 de:
   title: Sopa de Lima – Mexikanische Limetten-Hühnersuppe
-  summary: |-
-    Aromatische Suppe aus Yucatán mit zartem Hähnchen, frischem Limettensaft, Tomaten, Chili und knusprigen Tortillastreifen.
+  summary: Aromatische Suppe aus Yucatán mit zartem Hähnchen, frischem Limettensaft,
+    Tomaten, Chili und knusprigen Tortillastreifen.
 en:
-  title: 'TODO: Sopa de Lima – Mexikanische Limetten-Hühnersuppe'
-  summary: |-
-    TODO: Aromatische Suppe aus Yucatán mit zartem Hähnchen, frischem Limettensaft, Tomaten, Chili und knusprigen Tortillastreifen.
+  title: Sopa de Lima – Mexican Lime Chicken Soup
+  summary: Aromatic Yucatán soup with tender chicken, fresh lime juice, tomatoes,
+    chili, and crispy tortilla strips.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 600
   unit: g
   category: Protein und Milchprodukte
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: chicken broth
   qty: 1500
   unit: ml
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Maistortillas
-  en_name: 'TODO: Maistortillas'
+  en_name: corn tortillas
   qty: 4
   unit: Stk
   category: Kohlenhydrate und Sattmacher
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Tomate
-  en_name: 'TODO: Tomate'
+  en_name: tomatoes
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Grüne Chili (Serrano oder Jalapeño)
-  en_name: 'TODO: Grüne Chili (Serrano oder Jalapeño)'
+  en_name: green chili (serrano or jalapeño)
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Koriander, frisch
-  en_name: 'TODO: Koriander, frisch'
+  en_name: fresh cilantro
   qty: 1
   unit: Bund
   category: Gemüse und Salat
 - de_name: Limette
-  en_name: 'TODO: Limette'
+  en_name: lime
   qty: 3
   unit: Stk
   category: Obst
 - de_name: Kreuzkümmel, gemahlen
-  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  en_name: ground cumin
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Oregano, mexikanisch
-  en_name: 'TODO: Oregano, mexikanisch'
+  en_name: Mexican oregano
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Hähnchenbrust in der Hühnerbrühe mit 1 Teelöffel Salz 20 Minuten gar köcheln. Hähnchen herausnehmen, zupfen und die Brühe aufbewahren.
-- |-
-  Tortillas in dünne Streifen schneiden. In 1 EL heißem Öl portionsweise knusprig braten, auf Küchenpapier abtropfen lassen.
-- |-
-  Zwiebel fein würfeln, Knoblauch hacken, Tomaten würfeln, Chilis in Ringe schneiden. Im verbliebenen Öl 5 Minuten bei mittlerer Hitze garen.
-- |-
-  Kreuzkümmel und Oregano einrühren, 30 Sekunden rösten, dann die aufbewahrte Hühnerbrühe zugießen.
-- |-
-  15 Minuten leise köcheln lassen. Gezupftes Hähnchen zurückgeben, Chiliflocken und Limettensaft zugeben.
-- |-
-  Mit Salz abschmecken. In Schüsseln anrichten, Tortillastreifen und frischen Koriander darübergeben.
+- Hähnchenbrust in der Hühnerbrühe mit 1 Teelöffel Salz 20 Minuten gar köcheln. Hähnchen
+  herausnehmen, zupfen und die Brühe aufbewahren.
+- Tortillas in dünne Streifen schneiden. In 1 EL heißem Öl portionsweise knusprig
+  braten, auf Küchenpapier abtropfen lassen.
+- Zwiebel fein würfeln, Knoblauch hacken, Tomaten würfeln, Chilis in Ringe schneiden.
+  Im verbliebenen Öl 5 Minuten bei mittlerer Hitze garen.
+- Kreuzkümmel und Oregano einrühren, 30 Sekunden rösten, dann die aufbewahrte Hühnerbrühe
+  zugießen.
+- 15 Minuten leise köcheln lassen. Gezupftes Hähnchen zurückgeben, Chiliflocken und
+  Limettensaft zugeben.
+- Mit Salz abschmecken. In Schüsseln anrichten, Tortillastreifen und frischen Koriander
+  darübergeben.
 en_steps:
-- |-
-  TODO: Hähnchenbrust in der Hühnerbrühe mit 1 Teelöffel Salz 20 Minuten gar köcheln. Hähnchen herausnehmen, zupfen und die Brühe aufbewahren.
-- |-
-  TODO: Tortillas in dünne Streifen schneiden. In 1 EL heißem Öl portionsweise knusprig braten, auf Küchenpapier abtropfen lassen.
-- |-
-  TODO: Zwiebel fein würfeln, Knoblauch hacken, Tomaten würfeln, Chilis in Ringe schneiden. Im verbliebenen Öl 5 Minuten bei mittlerer Hitze garen.
-- |-
-  TODO: Kreuzkümmel und Oregano einrühren, 30 Sekunden rösten, dann die aufbewahrte Hühnerbrühe zugießen.
-- |-
-  TODO: 15 Minuten leise köcheln lassen. Gezupftes Hähnchen zurückgeben, Chiliflocken und Limettensaft zugeben.
-- |-
-  TODO: Mit Salz abschmecken. In Schüsseln anrichten, Tortillastreifen und frischen Koriander darübergeben.
+- Simmer the chicken breast in the chicken broth with 1 tsp salt for 20 minutes until
+  cooked through. Remove the chicken, shred it, and reserve the broth.
+- Cut the tortillas into thin strips. Fry in 1 tbsp hot oil in batches until crispy;
+  drain on paper towels.
+- Finely dice the onion, mince the garlic, dice the tomatoes, and slice the chilies
+  into rings. Cook in the remaining oil over medium heat for 5 minutes.
+- Stir in the cumin and oregano, toast for 30 seconds, then pour in the reserved chicken
+  broth.
+- Simmer gently for 15 minutes. Return the shredded chicken, add the chili flakes
+  and lime juice.
+- Season with salt. Ladle into bowls and top with tortilla strips and fresh cilantro.

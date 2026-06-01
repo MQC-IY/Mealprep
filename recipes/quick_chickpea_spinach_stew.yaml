@@ -7,88 +7,85 @@ quick_minutes: 20
 meals: 2
 de:
   title: Schneller Kichererbsen-Spinat-Eintopf
-  summary: |-
-    Kräftig gewürzter Eintopf aus Kichererbsen und Spinat — in 20 Minuten auf dem Tisch.
+  summary: Kräftig gewürzter Eintopf aus Kichererbsen und Spinat — in 20 Minuten auf
+    dem Tisch.
 en:
-  title: 'TODO: Schneller Kichererbsen-Spinat-Eintopf'
-  summary: |-
-    TODO: Kräftig gewürzter Eintopf aus Kichererbsen und Spinat — in 20 Minuten auf dem Tisch.
+  title: Quick Chickpea Spinach Stew
+  summary: A boldly spiced stew of chickpeas and spinach — on the table in 20 minutes.
 ingredients:
 - de_name: Kichererbsen, abgetropft
-  en_name: 'TODO: Kichererbsen, abgetropft'
+  en_name: Chickpeas, drained
   qty: 2
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Gehackte Tomaten
-  en_name: 'TODO: Gehackte Tomaten'
+  en_name: Chopped tomatoes
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Gemüsebrühe
-  en_name: 'TODO: Gemüsebrühe'
+  en_name: Vegetable broth
   qty: 400
   unit: ml
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Babyspinat
-  en_name: 'TODO: Babyspinat'
+  en_name: Baby spinach
   qty: 200
   unit: g
   category: Gemüse und Salat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: Onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: Garlic cloves
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Kreuzkümmel, gemahlen
-  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  en_name: Cumin, ground
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Koriander, gemahlen
-  en_name: 'TODO: Koriander, gemahlen'
+  en_name: Coriander, ground
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Geräuchertes Paprikapulver
-  en_name: 'TODO: Geräuchertes Paprikapulver'
+  en_name: Smoked paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Cayennepfeffer
-  en_name: 'TODO: Cayennepfeffer'
+  en_name: Cayenne pepper
   qty: 0.25
   unit: TL
   category: Gewürze
 - de_name: Salz und Pfeffer
-  en_name: 'TODO: Salz und Pfeffer'
+  en_name: Salt and pepper
   qty: 1
   unit: Stk
   category: Gewürze
 de_steps:
-- |-
-  Zwiebel fein würfeln und im Olivenöl bei mittlerer Hitze 3 Minuten glasig dünsten. Knoblauch hacken und 1 Minute mitdünsten.
-- |-
-  Kreuzkümmel, Koriander, Paprika und Cayennepfeffer hinzufügen und 30 Sekunden rösten.
-- |-
-  Kichererbsen, Tomaten und Brühe einrühren. Aufkochen und 10 Minuten kräftig köcheln lassen.
-- |-
-  Spinat unterheben und 2 Minuten köcheln lassen, bis er zusammengefallen ist. Mit Salz und Pfeffer abschmecken.
+- Zwiebel fein würfeln und im Olivenöl bei mittlerer Hitze 3 Minuten glasig dünsten.
+  Knoblauch hacken und 1 Minute mitdünsten.
+- Kreuzkümmel, Koriander, Paprika und Cayennepfeffer hinzufügen und 30 Sekunden rösten.
+- Kichererbsen, Tomaten und Brühe einrühren. Aufkochen und 10 Minuten kräftig köcheln
+  lassen.
+- Spinat unterheben und 2 Minuten köcheln lassen, bis er zusammengefallen ist. Mit
+  Salz und Pfeffer abschmecken.
 en_steps:
-- |-
-  TODO: Zwiebel fein würfeln und im Olivenöl bei mittlerer Hitze 3 Minuten glasig dünsten. Knoblauch hacken und 1 Minute mitdünsten.
-- |-
-  TODO: Kreuzkümmel, Koriander, Paprika und Cayennepfeffer hinzufügen und 30 Sekunden rösten.
-- |-
-  TODO: Kichererbsen, Tomaten und Brühe einrühren. Aufkochen und 10 Minuten kräftig köcheln lassen.
-- |-
-  TODO: Spinat unterheben und 2 Minuten köcheln lassen, bis er zusammengefallen ist. Mit Salz und Pfeffer abschmecken.
+- Finely dice the onion and sauté in olive oil over medium heat for 3 minutes until
+  translucent. Chop the garlic and cook for 1 more minute.
+- Add the cumin, coriander, paprika, and cayenne pepper and toast for 30 seconds.
+- Stir in the chickpeas, tomatoes, and broth. Bring to a boil and simmer vigorously
+  for 10 minutes.
+- Fold in the spinach and simmer for 2 minutes until wilted. Season with salt and
+  pepper.

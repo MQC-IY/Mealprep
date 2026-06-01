@@ -7,77 +7,76 @@ quick_minutes: 30
 meals: 3
 de:
   title: Djuvec-Hähnchen mit Reis
-  summary: |-
-    Klassische Balkan-Reispfanne mit Hähnchen, Paprika, Erbsen und Tomate – Ajvar und geräucherter Paprika geben dem Djuvec seinen unverwechselbaren Charakter.
+  summary: Klassische Balkan-Reispfanne mit Hähnchen, Paprika, Erbsen und Tomate –
+    Ajvar und geräucherter Paprika geben dem Djuvec seinen unverwechselbaren Charakter.
 en:
-  title: 'TODO: Djuvec-Hähnchen mit Reis'
-  summary: |-
-    TODO: Klassische Balkan-Reispfanne mit Hähnchen, Paprika, Erbsen und Tomate – Ajvar und geräucherter Paprika geben dem Djuvec seinen unverwechselbaren Charakter.
+  title: Djuvec Chicken with Rice
+  summary: A classic Balkan rice pan with chicken, bell pepper, peas, and tomato —
+    ajvar and smoked paprika give the Djuvec its unmistakable character.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: Chicken breast
   qty: 850
   unit: g
   category: Protein und Milchprodukte
 - de_name: Reis
-  en_name: 'TODO: Reis'
+  en_name: Rice
   qty: 320
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Paprika
-  en_name: 'TODO: Paprika'
+  en_name: Bell pepper
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Erbsen, TK
-  en_name: 'TODO: Erbsen, TK'
+  en_name: Frozen peas
   qty: 250
   unit: g
   category: Gemüse und Salat
 - de_name: Gehackte Tomaten
-  en_name: 'TODO: Gehackte Tomaten'
+  en_name: Chopped tomatoes
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: Onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: Garlic
   qty: 2
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Paprika edelsüß
-  en_name: 'TODO: Paprika edelsüß'
+  en_name: Sweet paprika
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Oregano
-  en_name: 'TODO: Oregano'
+  en_name: Oregano
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
 - Reis vorkochen oder parallel garen.
 - Hähnchen in Stücke schneiden und in Olivenöl anbraten.
-- |-
-  Zwiebel, Knoblauch und Paprika weich dünsten, Paprika edelsüß kurz mitziehen lassen.
+- Zwiebel, Knoblauch und Paprika weich dünsten, Paprika edelsüß kurz mitziehen lassen.
 - Tomaten und Erbsen zugeben und einige Minuten köcheln lassen.
 en_steps:
-- 'TODO: Reis vorkochen oder parallel garen.'
-- 'TODO: Hähnchen in Stücke schneiden und in Olivenöl anbraten.'
-- |-
-  TODO: Zwiebel, Knoblauch und Paprika weich dünsten, Paprika edelsüß kurz mitziehen lassen.
-- 'TODO: Tomaten und Erbsen zugeben und einige Minuten köcheln lassen.'
+- Pre-cook or cook the rice in parallel.
+- Cut the chicken into pieces and sear in olive oil.
+- Sauté the onion, garlic, and bell pepper until soft, then briefly bloom the sweet
+  paprika.
+- Add the tomatoes and peas and simmer for a few minutes.

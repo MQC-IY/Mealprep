@@ -6,109 +6,111 @@ next_day: true
 meals: 2
 de:
   title: Türkisches Güveç – Hähnchen-Gemüse-Tontopfeintopf
-  summary: |-
-    Saftige Hähnchenschenkel werden mit Sommergemüse, Pul Biber und Tomaten in einem geschlossenen Topf langsam geschmort, bis alles zart und aromatisch ist.
+  summary: Saftige Hähnchenschenkel werden mit Sommergemüse, Pul Biber und Tomaten
+    in einem geschlossenen Topf langsam geschmort, bis alles zart und aromatisch ist.
 en:
-  title: 'TODO: Türkisches Güveç – Hähnchen-Gemüse-Tontopfeintopf'
-  summary: |-
-    TODO: Saftige Hähnchenschenkel werden mit Sommergemüse, Pul Biber und Tomaten in einem geschlossenen Topf langsam geschmort, bis alles zart und aromatisch ist.
+  title: Turkish Güveç – Chicken and Vegetable Clay Pot Stew
+  summary: Succulent chicken thighs slow-braised with summer vegetables, pul biber,
+    and tomatoes in a covered pot until meltingly tender and fragrant.
 ingredients:
 - de_name: Hähnchenschenkel (mit Knochen)
-  en_name: 'TODO: Hähnchenschenkel (mit Knochen)'
+  en_name: chicken thighs (bone-in)
   qty: 600
   unit: g
   category: Protein und Milchprodukte
 - de_name: Auberginen
-  en_name: 'TODO: Auberginen'
+  en_name: eggplants
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zucchini
-  en_name: 'TODO: Zucchini'
+  en_name: zucchini
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Paprikaschoten (rot und grün)
-  en_name: 'TODO: Paprikaschoten (rot und grün)'
+  en_name: bell peppers (red and green)
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Tomaten
-  en_name: 'TODO: Tomaten'
+  en_name: tomatoes
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zwiebeln
-  en_name: 'TODO: Zwiebeln'
+  en_name: onions
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 5
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Tomatenmark
-  en_name: 'TODO: Tomatenmark'
+  en_name: tomato paste
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 4
   unit: EL
   category: Konserven und Vorrat
 - de_name: Pul Biber (Aleppo-Pfeffer)
-  en_name: 'TODO: Pul Biber (Aleppo-Pfeffer)'
+  en_name: pul biber (Turkish red pepper flakes)
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Paprikapulver, geräuchert
-  en_name: 'TODO: Paprikapulver, geräuchert'
+  en_name: smoked paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Kreuzkümmel, gemahlen
-  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  en_name: ground cumin
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Getrockneter Oregano
-  en_name: 'TODO: Getrockneter Oregano'
+  en_name: dried oregano
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Ofen auf 180 °C vorheizen. Hähnchenschenkel mit Salz, Pfeffer, Pul Biber und Paprikapulver einreiben.
-- |-
-  Auberginen und Zucchini in 2 cm Würfel schneiden, Paprika grob würfeln, Tomaten vierteln, Zwiebeln in Ringe schneiden. Alles in einer Schüssel mit Olivenöl, Kreuzkümmel und Oregano mischen.
-- |-
-  Gemüse in einem großen Bräter oder Tontopf auslegen. Tomatenmark und Knoblauch unter das Gemüse mischen.
-- |-
-  Hähnchenschenkel oben auf das Gemüse setzen. Mit 100 ml Wasser begießen. Topf fest mit Deckel oder Alufolie verschließen.
-- |-
-  Im Ofen 1 Stunde schmoren lassen. Deckel abnehmen, Hitze auf 220 °C erhöhen und weitere 15 Minuten offen garen, bis das Hähnchen goldbraun ist.
+- Ofen auf 180 °C vorheizen. Hähnchenschenkel mit Salz, Pfeffer, Pul Biber und Paprikapulver
+  einreiben.
+- Auberginen und Zucchini in 2 cm Würfel schneiden, Paprika grob würfeln, Tomaten
+  vierteln, Zwiebeln in Ringe schneiden. Alles in einer Schüssel mit Olivenöl, Kreuzkümmel
+  und Oregano mischen.
+- Gemüse in einem großen Bräter oder Tontopf auslegen. Tomatenmark und Knoblauch unter
+  das Gemüse mischen.
+- Hähnchenschenkel oben auf das Gemüse setzen. Mit 100 ml Wasser begießen. Topf fest
+  mit Deckel oder Alufolie verschließen.
+- Im Ofen 1 Stunde schmoren lassen. Deckel abnehmen, Hitze auf 220 °C erhöhen und
+  weitere 15 Minuten offen garen, bis das Hähnchen goldbraun ist.
 - Mit frischem Brot servieren und den Bratensaft als Sauce verwenden.
 en_steps:
-- |-
-  TODO: Ofen auf 180 °C vorheizen. Hähnchenschenkel mit Salz, Pfeffer, Pul Biber und Paprikapulver einreiben.
-- |-
-  TODO: Auberginen und Zucchini in 2 cm Würfel schneiden, Paprika grob würfeln, Tomaten vierteln, Zwiebeln in Ringe schneiden. Alles in einer Schüssel mit Olivenöl, Kreuzkümmel und Oregano mischen.
-- |-
-  TODO: Gemüse in einem großen Bräter oder Tontopf auslegen. Tomatenmark und Knoblauch unter das Gemüse mischen.
-- |-
-  TODO: Hähnchenschenkel oben auf das Gemüse setzen. Mit 100 ml Wasser begießen. Topf fest mit Deckel oder Alufolie verschließen.
-- |-
-  TODO: Im Ofen 1 Stunde schmoren lassen. Deckel abnehmen, Hitze auf 220 °C erhöhen und weitere 15 Minuten offen garen, bis das Hähnchen goldbraun ist.
-- 'TODO: Mit frischem Brot servieren und den Bratensaft als Sauce verwenden.'
+- Preheat the oven to 180 °C. Rub the chicken thighs all over with salt, pepper, pul
+  biber, and smoked paprika.
+- Cut the eggplants and zucchini into 2 cm cubes, roughly dice the bell peppers, quarter
+  the tomatoes, and cut the onions into rings. Toss everything in a bowl with olive
+  oil, cumin, and oregano.
+- Spread the vegetables in a large roasting dish or clay pot. Mix in the tomato paste
+  and garlic.
+- Place the chicken thighs on top of the vegetables. Add 100 ml water. Cover tightly
+  with a lid or aluminium foil.
+- Braise in the oven for 1 hour. Remove the lid, raise the heat to 220 °C, and cook
+  uncovered for a further 15 minutes until the chicken is golden brown.
+- Serve with fresh bread, using the cooking juices as a sauce.

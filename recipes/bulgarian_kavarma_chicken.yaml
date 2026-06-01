@@ -6,109 +6,111 @@ next_day: true
 meals: 2
 de:
   title: Bulgarisches Hähnchen-Kavarma
-  summary: |-
-    Schmorfleisch aus dem bulgarischen Lehmofen – Hähnchen, Paprika, Tomaten und Zwiebeln werden langsam mit Weißwein und frischem Thymian gegart.
+  summary: Schmorfleisch aus dem bulgarischen Lehmofen – Hähnchen, Paprika, Tomaten
+    und Zwiebeln werden langsam mit Weißwein und frischem Thymian gegart.
 en:
-  title: 'TODO: Bulgarisches Hähnchen-Kavarma'
-  summary: |-
-    TODO: Schmorfleisch aus dem bulgarischen Lehmofen – Hähnchen, Paprika, Tomaten und Zwiebeln werden langsam mit Weißwein und frischem Thymian gegart.
+  title: Bulgarian Chicken Kavarma
+  summary: A slow-braised Bulgarian clay-pot dish – chicken, bell peppers, tomatoes,
+    and onions gently cooked with white wine and fresh thyme.
 ingredients:
 - de_name: Hähnchenstücke
-  en_name: 'TODO: Hähnchenstücke'
+  en_name: chicken pieces
   qty: 700
   unit: g
   category: Protein und Milchprodukte
 - de_name: Trockener Weißwein
-  en_name: 'TODO: Trockener Weißwein'
+  en_name: dry white wine
   qty: 150
   unit: ml
   category: Konserven und Vorrat
 - de_name: Gehackte Tomaten
-  en_name: 'TODO: Gehackte Tomaten'
+  en_name: chopped tomatoes
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Olivenöl oder Sonnenblumenöl
-  en_name: 'TODO: Olivenöl oder Sonnenblumenöl'
+  en_name: olive oil or sunflower oil
   qty: 4
   unit: EL
   category: Konserven und Vorrat
 - de_name: Paprikaschoten (rot und gelb)
-  en_name: 'TODO: Paprikaschoten (rot und gelb)'
+  en_name: bell peppers (red and yellow)
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zwiebeln
-  en_name: 'TODO: Zwiebeln'
+  en_name: onions
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 5
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Tomaten
-  en_name: 'TODO: Tomaten'
+  en_name: tomatoes
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Frischer Thymian
-  en_name: 'TODO: Frischer Thymian'
+  en_name: fresh thyme
   qty: 4
   unit: Stk
   category: Gemüse und Salat
 - de_name: Glatte Petersilie
-  en_name: 'TODO: Glatte Petersilie'
+  en_name: flat-leaf parsley
   qty: 0.5
   unit: Bund
   category: Gemüse und Salat
 - de_name: Edelsüßes Paprikapulver
-  en_name: 'TODO: Edelsüßes Paprikapulver'
+  en_name: sweet paprika
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Scharfes Paprikapulver
-  en_name: 'TODO: Scharfes Paprikapulver'
+  en_name: hot paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Lorbeerblätter
-  en_name: 'TODO: Lorbeerblätter'
+  en_name: bay leaves
   qty: 2
   unit: Stk
   category: Gewürze
 de_steps:
-- |-
-  Hähnchenstücke mit Salz, Pfeffer und edelsüßem Paprikapulver würzen. Öl in einem Bräter oder Keramiktopf erhitzen und Hähnchen von allen Seiten 8 Minuten goldbraun anbraten. Herausnehmen.
-- |-
-  Zwiebeln in Ringe schneiden und im gleichen Fett 8 Minuten golden dünsten. Paprikaschoten in breite Streifen schneiden, hinzufügen und weitere 5 Minuten mitdünsten.
-- |-
-  Knoblauch pressen, scharfes Paprikapulver einrühren, 1 Minute rösten. Mit Weißwein ablöschen und einkochen lassen.
-- |-
-  Gehackte Tomaten, frische Tomaten (geviertelt), Thymianzweige und Lorbeerblätter hinzufügen. Hähnchen zurücklegen.
-- |-
-  Alles zugedeckt bei niedriger Hitze 45 Minuten schmoren, bis das Hähnchen sehr weich ist. Lorbeer und Thymian entfernen.
+- Hähnchenstücke mit Salz, Pfeffer und edelsüßem Paprikapulver würzen. Öl in einem
+  Bräter oder Keramiktopf erhitzen und Hähnchen von allen Seiten 8 Minuten goldbraun
+  anbraten. Herausnehmen.
+- Zwiebeln in Ringe schneiden und im gleichen Fett 8 Minuten golden dünsten. Paprikaschoten
+  in breite Streifen schneiden, hinzufügen und weitere 5 Minuten mitdünsten.
+- Knoblauch pressen, scharfes Paprikapulver einrühren, 1 Minute rösten. Mit Weißwein
+  ablöschen und einkochen lassen.
+- Gehackte Tomaten, frische Tomaten (geviertelt), Thymianzweige und Lorbeerblätter
+  hinzufügen. Hähnchen zurücklegen.
+- Alles zugedeckt bei niedriger Hitze 45 Minuten schmoren, bis das Hähnchen sehr weich
+  ist. Lorbeer und Thymian entfernen.
 - Mit gehackter Petersilie bestreuen. Mit Reis oder frischem Brot servieren.
 en_steps:
-- |-
-  TODO: Hähnchenstücke mit Salz, Pfeffer und edelsüßem Paprikapulver würzen. Öl in einem Bräter oder Keramiktopf erhitzen und Hähnchen von allen Seiten 8 Minuten goldbraun anbraten. Herausnehmen.
-- |-
-  TODO: Zwiebeln in Ringe schneiden und im gleichen Fett 8 Minuten golden dünsten. Paprikaschoten in breite Streifen schneiden, hinzufügen und weitere 5 Minuten mitdünsten.
-- |-
-  TODO: Knoblauch pressen, scharfes Paprikapulver einrühren, 1 Minute rösten. Mit Weißwein ablöschen und einkochen lassen.
-- |-
-  TODO: Gehackte Tomaten, frische Tomaten (geviertelt), Thymianzweige und Lorbeerblätter hinzufügen. Hähnchen zurücklegen.
-- |-
-  TODO: Alles zugedeckt bei niedriger Hitze 45 Minuten schmoren, bis das Hähnchen sehr weich ist. Lorbeer und Thymian entfernen.
-- 'TODO: Mit gehackter Petersilie bestreuen. Mit Reis oder frischem Brot servieren.'
+- Season the chicken pieces with salt, pepper, and sweet paprika. Heat oil in a casserole
+  or ceramic pot and brown the chicken on all sides for 8 minutes. Remove and set
+  aside.
+- Cut the onions into rings and sauté in the same fat for 8 minutes until golden.
+  Cut the bell peppers into wide strips, add them, and cook for another 5 minutes.
+- Press the garlic and stir in the hot paprika, toast for 1 minute. Deglaze with the
+  white wine and let it reduce.
+- Add the chopped tomatoes, fresh tomatoes (quartered), thyme sprigs, and bay leaves.
+  Return the chicken to the pot.
+- Cover and braise over low heat for 45 minutes until the chicken is very tender.
+  Remove the bay leaves and thyme.
+- Scatter with chopped parsley. Serve with rice or fresh bread.

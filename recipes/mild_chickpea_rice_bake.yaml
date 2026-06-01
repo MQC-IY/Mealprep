@@ -9,56 +9,56 @@ de:
   title: Kichererbsen-Reis-Auflauf
   summary: Auflauf mit Reis, Kichererbsen, Zucchini und leichter Joghurt-Ei-Masse.
 en:
-  title: 'TODO: Kichererbsen-Reis-Auflauf'
-  summary: 'TODO: Auflauf mit Reis, Kichererbsen, Zucchini und leichter Joghurt-Ei-Masse.'
+  title: Mild Chickpea Rice Bake
+  summary: A baked dish of rice, chickpeas, zucchini, and carrots topped with a light
+    yogurt and egg custard.
 ingredients:
 - de_name: Reis
-  en_name: 'TODO: Reis'
+  en_name: Rice
   qty: 250
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Kichererbsen
-  en_name: 'TODO: Kichererbsen'
+  en_name: Chickpeas
   qty: 2
   unit: Dosen
   category: Konserven und Vorrat
 - de_name: Zucchini
-  en_name: 'TODO: Zucchini'
+  en_name: Zucchini
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: Carrots
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Eier
-  en_name: 'TODO: Eier'
+  en_name: Eggs
   qty: 3
   unit: Stk
   category: Protein und Milchprodukte
 - de_name: Naturjoghurt
-  en_name: 'TODO: Naturjoghurt'
+  en_name: Plain yogurt
   qty: 180
   unit: g
   category: Protein und Milchprodukte
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
 - Reis vorgaren.
 - Gemüse klein schneiden und kurz weich dünsten.
-- |-
-  Alles mit Kichererbsen in eine Form geben, Eier mit Joghurt verrühren und darübergeben.
+- Alles mit Kichererbsen in eine Form geben, Eier mit Joghurt verrühren und darübergeben.
 en_steps:
-- 'TODO: Reis vorgaren.'
-- 'TODO: Gemüse klein schneiden und kurz weich dünsten.'
-- |-
-  TODO: Alles mit Kichererbsen in eine Form geben, Eier mit Joghurt verrühren und darübergeben.
+- Par-cook the rice.
+- Chop the vegetables into small pieces and briefly steam until tender.
+- Transfer everything along with the chickpeas to a baking dish. Whisk the eggs with
+  the yogurt and pour over the top. Bake until set.

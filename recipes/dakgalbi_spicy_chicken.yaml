@@ -6,121 +6,119 @@ next_day: true
 meals: 2
 de:
   title: Dakgalbi – Koreanische scharfe Hähnchenpfanne
-  summary: |-
-    Feurige koreanische Hähnchenpfanne mit Gochujang-Marinade, Süßkartoffeln, Frühlingszwiebeln und Perilla-Blättern.
+  summary: Feurige koreanische Hähnchenpfanne mit Gochujang-Marinade, Süßkartoffeln,
+    Frühlingszwiebeln und Perilla-Blättern.
 en:
-  title: 'TODO: Dakgalbi – Koreanische scharfe Hähnchenpfanne'
-  summary: |-
-    TODO: Feurige koreanische Hähnchenpfanne mit Gochujang-Marinade, Süßkartoffeln, Frühlingszwiebeln und Perilla-Blättern.
+  title: Dak Galbi – Korean Spicy Chicken Skillet
+  summary: Fiery Korean chicken pan with a gochujang marinade, sweet potato, spring
+    onions, and perilla leaves.
 ingredients:
 - de_name: Hähnchenschenkel (ausgelöst, ohne Haut)
-  en_name: 'TODO: Hähnchenschenkel (ausgelöst, ohne Haut)'
+  en_name: boneless skinless chicken thighs
   qty: 900
   unit: g
   category: Protein und Milchprodukte
 - de_name: Süßkartoffeln
-  en_name: 'TODO: Süßkartoffeln'
+  en_name: sweet potatoes
   qty: 400
   unit: g
   category: Gemüse und Salat
 - de_name: Weißkohl
-  en_name: 'TODO: Weißkohl'
+  en_name: white cabbage
   qty: 300
   unit: g
   category: Gemüse und Salat
 - de_name: Frühlingszwiebeln
-  en_name: 'TODO: Frühlingszwiebeln'
+  en_name: spring onions
   qty: 2
   unit: Bund
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 6
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Ingwer (frisch)
-  en_name: 'TODO: Ingwer (frisch)'
+  en_name: fresh ginger
   qty: 20
   unit: g
   category: Gemüse und Salat
 - de_name: Perilla-Blätter (Kkaennip) oder Basilikum
-  en_name: 'TODO: Perilla-Blätter (Kkaennip) oder Basilikum'
+  en_name: perilla leaves (kkaennip) or basil
   qty: 20
   unit: g
   category: Gemüse und Salat
 - de_name: Kurzkörniger Reis (Sushireis)
-  en_name: 'TODO: Kurzkörniger Reis (Sushireis)'
+  en_name: short-grain rice (sushi rice)
   qty: 400
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Gochujang
-  en_name: 'TODO: Gochujang'
+  en_name: gochujang
   qty: 5
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sojasoße
-  en_name: 'TODO: Sojasoße'
+  en_name: soy sauce
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sesamöl
-  en_name: 'TODO: Sesamöl'
+  en_name: sesame oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Pflanzenöl
-  en_name: 'TODO: Pflanzenöl'
+  en_name: vegetable oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Zucker
-  en_name: 'TODO: Zucker'
+  en_name: sugar
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Reisessig
-  en_name: 'TODO: Reisessig'
+  en_name: rice vinegar
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Gochugaru (koreanische Chiliflocken)
-  en_name: 'TODO: Gochugaru (koreanische Chiliflocken)'
+  en_name: gochugaru (Korean chili flakes)
   qty: 2
   unit: EL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Sesamkörner
-  en_name: 'TODO: Sesamkörner'
+  en_name: sesame seeds
   qty: 2
   unit: EL
   category: Gewürze
 de_steps:
 - Hähnchen in mundgerechte Stücke schneiden. Knoblauch und Ingwer fein reiben.
-- |-
-  Marinade: Gochujang, Sojasoße, Gochugaru, Zucker, Reisessig, Knoblauch, Ingwer und Sesamöl verrühren. Hähnchen darin mindestens 30 Minuten marinieren.
-- |-
-  Süßkartoffeln schälen und in 1 cm dicke Scheiben schneiden. Weißkohl in grobe Stücke teilen.
+- 'Marinade: Gochujang, Sojasoße, Gochugaru, Zucker, Reisessig, Knoblauch, Ingwer
+  und Sesamöl verrühren. Hähnchen darin mindestens 30 Minuten marinieren.'
+- Süßkartoffeln schälen und in 1 cm dicke Scheiben schneiden. Weißkohl in grobe Stücke
+  teilen.
 - Reis garen.
-- |-
-  Pflanzenöl in einer großen Pfanne erhitzen. Hähnchen mit Marinade hineingeben und 5 Minuten unter Rühren braten.
+- Pflanzenöl in einer großen Pfanne erhitzen. Hähnchen mit Marinade hineingeben und
+  5 Minuten unter Rühren braten.
 - Süßkartoffeln dazugeben, 200 ml Wasser einrühren. Abdecken und 10 Minuten garen.
-- |-
-  Weißkohl einrühren und offen 5 Minuten braten, bis die Soße karamellisiert ist. Frühlingszwiebeln und Perilla-Blätter unterheben. Mit Sesamkörnern bestreuen.
+- Weißkohl einrühren und offen 5 Minuten braten, bis die Soße karamellisiert ist.
+  Frühlingszwiebeln und Perilla-Blätter unterheben. Mit Sesamkörnern bestreuen.
 en_steps:
-- |-
-  TODO: Hähnchen in mundgerechte Stücke schneiden. Knoblauch und Ingwer fein reiben.
-- |-
-  TODO: Marinade: Gochujang, Sojasoße, Gochugaru, Zucker, Reisessig, Knoblauch, Ingwer und Sesamöl verrühren. Hähnchen darin mindestens 30 Minuten marinieren.
-- |-
-  TODO: Süßkartoffeln schälen und in 1 cm dicke Scheiben schneiden. Weißkohl in grobe Stücke teilen.
-- 'TODO: Reis garen.'
-- |-
-  TODO: Pflanzenöl in einer großen Pfanne erhitzen. Hähnchen mit Marinade hineingeben und 5 Minuten unter Rühren braten.
-- |-
-  TODO: Süßkartoffeln dazugeben, 200 ml Wasser einrühren. Abdecken und 10 Minuten garen.
-- |-
-  TODO: Weißkohl einrühren und offen 5 Minuten braten, bis die Soße karamellisiert ist. Frühlingszwiebeln und Perilla-Blätter unterheben. Mit Sesamkörnern bestreuen.
+- Cut the chicken into bite-sized pieces. Finely grate the garlic and ginger.
+- 'Marinade: stir together gochujang, soy sauce, gochugaru, sugar, rice vinegar, garlic,
+  ginger, and sesame oil. Marinate the chicken for at least 30 minutes.'
+- Peel the sweet potatoes and cut into 1 cm thick slices. Tear the cabbage into rough
+  chunks.
+- Cook the rice.
+- Heat the vegetable oil in a large pan. Add the chicken with its marinade and stir-fry
+  for 5 minutes.
+- Add the sweet potatoes and stir in 200 ml water. Cover and cook for 10 minutes.
+- Stir in the cabbage and cook uncovered for 5 minutes until the sauce caramelises.
+  Fold in the spring onions and perilla leaves. Scatter with sesame seeds.

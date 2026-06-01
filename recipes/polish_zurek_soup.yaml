@@ -6,109 +6,109 @@ next_day: true
 meals: 2
 de:
   title: Polnischer Żurek – Sauerteigsuppe mit Ei und Weißwurst
-  summary: |-
-    Polens ikonische Sauerteigsuppe: fermentierter Roggensauer mit hart gekochten Eiern, weißer Polnischer Wurst und Meerrettich.
+  summary: 'Polens ikonische Sauerteigsuppe: fermentierter Roggensauer mit hart gekochten
+    Eiern, weißer Polnischer Wurst und Meerrettich.'
 en:
-  title: 'TODO: Polnischer Żurek – Sauerteigsuppe mit Ei und Weißwurst'
-  summary: |-
-    TODO: Polens ikonische Sauerteigsuppe: fermentierter Roggensauer mit hart gekochten Eiern, weißer Polnischer Wurst und Meerrettich.
+  title: Polish Żurek – Sourdough Soup with Egg and White Sausage
+  summary: 'Poland''s iconic sourdough soup: fermented rye sour with hard-boiled eggs,
+    white Polish sausage and horseradish.'
 ingredients:
 - de_name: Weiße Polnische Wurst (Biała Kiełbasa) oder Weißwurst
-  en_name: 'TODO: Weiße Polnische Wurst (Biała Kiełbasa) oder Weißwurst'
+  en_name: white Polish sausage (Biała Kiełbasa) or bratwurst
   qty: 300
   unit: g
   category: Protein und Milchprodukte
 - de_name: Eier
-  en_name: 'TODO: Eier'
+  en_name: eggs
   qty: 4
   unit: Stk
   category: Protein und Milchprodukte
 - de_name: Sauerrahm
-  en_name: 'TODO: Sauerrahm'
+  en_name: sour cream
   qty: 150
   unit: g
   category: Protein und Milchprodukte
 - de_name: Fermentierter Roggen-Sauerteig-Ansatz (Żur) oder Sauerteig-Starter
-  en_name: 'TODO: Fermentierter Roggen-Sauerteig-Ansatz (Żur) oder Sauerteig-Starter'
+  en_name: fermented rye sourdough starter (Żur)
   qty: 250
   unit: ml
   category: Konserven und Vorrat
 - de_name: Gemüsebrühe oder Wurstbrühe
-  en_name: 'TODO: Gemüsebrühe oder Wurstbrühe'
+  en_name: vegetable stock or sausage broth
   qty: 700
   unit: ml
   category: Konserven und Vorrat
 - de_name: Meerrettich (Glas)
-  en_name: 'TODO: Meerrettich (Glas)'
+  en_name: horseradish (jarred)
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Zwiebeln
-  en_name: 'TODO: Zwiebeln'
+  en_name: onions
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Karotten
-  en_name: 'TODO: Karotten'
+  en_name: carrots
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Majoran, getrocknet
-  en_name: 'TODO: Majoran, getrocknet'
+  en_name: dried marjoram
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Edelsüßes Paprikapulver
-  en_name: 'TODO: Edelsüßes Paprikapulver'
+  en_name: sweet paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Kümmel (gemahlen)
-  en_name: 'TODO: Kümmel (gemahlen)'
+  en_name: ground caraway
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Lorbeerblätter
-  en_name: 'TODO: Lorbeerblätter'
+  en_name: bay leaves
   qty: 2
   unit: Stk
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
 - Eier hart kochen (10 Minuten), abschrecken, schälen und beiseitestellen.
-- |-
-  Wurst in Scheiben schneiden. In einem großen Topf ohne Öl oder mit etwas Fett die Wurstscheiben von beiden Seiten anbraten, bis sie goldbraun sind. Herausnehmen.
-- |-
-  Zwiebeln und Karotten würfeln. Im gleichen Topf 5 Minuten anschwitzen. Knoblauch pressen, Paprikapulver, Majoran, Kümmel und Lorbeer einrühren.
-- |-
-  Gemüsebrühe aufgießen und 15 Minuten köcheln. Żur (Sauerteig-Ansatz) einrühren – er macht die Suppe charakteristisch säuerlich. Nochmals 10 Minuten köcheln.
-- |-
-  Sauerrahm mit 2–3 EL heißer Suppe glatt rühren, dann einrühren. Mit Salz und Pfeffer abschmecken. Meerrettich einrühren.
-- |-
-  Wurstscheiben und halbierte Eier in die Suppe geben. 5 Minuten erwärmen. Mit Schwarzbrot oder Roggenbrötchen servieren.
+- Wurst in Scheiben schneiden. In einem großen Topf ohne Öl oder mit etwas Fett die
+  Wurstscheiben von beiden Seiten anbraten, bis sie goldbraun sind. Herausnehmen.
+- Zwiebeln und Karotten würfeln. Im gleichen Topf 5 Minuten anschwitzen. Knoblauch
+  pressen, Paprikapulver, Majoran, Kümmel und Lorbeer einrühren.
+- Gemüsebrühe aufgießen und 15 Minuten köcheln. Żur (Sauerteig-Ansatz) einrühren –
+  er macht die Suppe charakteristisch säuerlich. Nochmals 10 Minuten köcheln.
+- Sauerrahm mit 2–3 EL heißer Suppe glatt rühren, dann einrühren. Mit Salz und Pfeffer
+  abschmecken. Meerrettich einrühren.
+- Wurstscheiben und halbierte Eier in die Suppe geben. 5 Minuten erwärmen. Mit Schwarzbrot
+  oder Roggenbrötchen servieren.
 en_steps:
-- 'TODO: Eier hart kochen (10 Minuten), abschrecken, schälen und beiseitestellen.'
-- |-
-  TODO: Wurst in Scheiben schneiden. In einem großen Topf ohne Öl oder mit etwas Fett die Wurstscheiben von beiden Seiten anbraten, bis sie goldbraun sind. Herausnehmen.
-- |-
-  TODO: Zwiebeln und Karotten würfeln. Im gleichen Topf 5 Minuten anschwitzen. Knoblauch pressen, Paprikapulver, Majoran, Kümmel und Lorbeer einrühren.
-- |-
-  TODO: Gemüsebrühe aufgießen und 15 Minuten köcheln. Żur (Sauerteig-Ansatz) einrühren – er macht die Suppe charakteristisch säuerlich. Nochmals 10 Minuten köcheln.
-- |-
-  TODO: Sauerrahm mit 2–3 EL heißer Suppe glatt rühren, dann einrühren. Mit Salz und Pfeffer abschmecken. Meerrettich einrühren.
-- |-
-  TODO: Wurstscheiben und halbierte Eier in die Suppe geben. 5 Minuten erwärmen. Mit Schwarzbrot oder Roggenbrötchen servieren.
+- Hard-boil the eggs for 10 minutes, refresh in cold water, peel and set aside.
+- Slice the sausage. In a large pot with a little fat, fry the sausage slices on both
+  sides until golden brown. Remove and set aside.
+- Dice the onions and carrots. Sweat in the same pot for 5 minutes. Press in the garlic,
+  then stir in the sweet paprika, marjoram, caraway and bay leaves.
+- Pour in the stock and simmer for 15 minutes. Stir in the Żur (sourdough starter)
+  – it gives the soup its characteristic sourness. Simmer for a further 10 minutes.
+- Stir the sour cream together with 2–3 tbsp of hot soup until smooth, then stir into
+  the pot. Season with salt and pepper. Stir in the horseradish.
+- Add the sausage slices and halved eggs to the soup. Heat through for 5 minutes.
+  Serve with rye bread or rye rolls.

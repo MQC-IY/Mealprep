@@ -6,118 +6,116 @@ next_day: false
 meals: 2
 de:
   title: Pad Thai mit Hähnchen
-  summary: |-
-    Klassische Thai-Reisnudelpfanne mit Hähnchen, Ei, Erdnüssen und würziger Tamarindensauce.
+  summary: Klassische Thai-Reisnudelpfanne mit Hähnchen, Ei, Erdnüssen und würziger
+    Tamarindensauce.
 en:
-  title: 'TODO: Pad Thai mit Hähnchen'
-  summary: |-
-    TODO: Klassische Thai-Reisnudelpfanne mit Hähnchen, Ei, Erdnüssen und würziger Tamarindensauce.
+  title: Pad Thai with Chicken
+  summary: Classic Thai rice noodle stir-fry with chicken, egg, peanuts and a tangy
+    tamarind sauce.
 ingredients:
 - de_name: Hähnchenbrustfilet
-  en_name: 'TODO: Hähnchenbrustfilet'
+  en_name: chicken breast fillet
   qty: 300
   unit: g
   category: Protein und Milchprodukte
 - de_name: Eier
-  en_name: 'TODO: Eier'
+  en_name: eggs
   qty: 2
   unit: Stk
   category: Protein und Milchprodukte
 - de_name: Reisnudeln (5 mm breit)
-  en_name: 'TODO: Reisnudeln (5 mm breit)'
+  en_name: rice noodles (5 mm wide)
   qty: 200
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Frühlingszwiebeln
-  en_name: 'TODO: Frühlingszwiebeln'
+  en_name: spring onions
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 3
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Sojasprossen
-  en_name: 'TODO: Sojasprossen'
+  en_name: bean sprouts
   qty: 80
   unit: g
   category: Gemüse und Salat
 - de_name: Erdnüsse (geröstet, ungesalzen)
-  en_name: 'TODO: Erdnüsse (geröstet, ungesalzen)'
+  en_name: roasted unsalted peanuts
   qty: 50
   unit: g
   category: Konserven und Vorrat
 - de_name: Tamarindenpaste
-  en_name: 'TODO: Tamarindenpaste'
+  en_name: tamarind paste
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Fischsauce
-  en_name: 'TODO: Fischsauce'
+  en_name: fish sauce
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Palmzucker oder brauner Zucker
-  en_name: 'TODO: Palmzucker oder brauner Zucker'
+  en_name: palm sugar or brown sugar
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Erdnussöl
-  en_name: 'TODO: Erdnussöl'
+  en_name: peanut oil
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Limetten
-  en_name: 'TODO: Limetten'
+  en_name: limes
   qty: 2
   unit: Stk
   category: Obst
 - de_name: Getrocknete Chiliflocken
-  en_name: 'TODO: Getrocknete Chiliflocken'
+  en_name: dried chili flakes
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Weißer Pfeffer, gemahlen
-  en_name: 'TODO: Weißer Pfeffer, gemahlen'
+  en_name: ground white pepper
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Reisnudeln nach Packungsanweisung in lauwarmem Wasser ca. 20 Minuten einweichen, dann abgießen.
-- |-
-  Hähnchenbrustfilet in dünne Streifen schneiden. Knoblauch fein hacken. Frühlingszwiebeln schräg in Ringe schneiden.
-- |-
-  Tamarindenpaste, Fischsauce und Palmzucker in einer kleinen Schüssel verrühren, bis sich der Zucker auflöst.
-- |-
-  Erdnussöl im Wok bei starker Hitze erhitzen. Hähnchen portionsweise scharf anbraten (3–4 Min.), herausnehmen.
-- |-
-  Knoblauch im verbleibenden Öl 30 Sekunden anbraten. Nudeln dazugeben und 1–2 Minuten unter Rühren anbraten.
-- |-
-  Nudeln an den Rand schieben. Eier in die Mitte aufschlagen, kurz rühren und mit den Nudeln vermengen.
-- |-
-  Hähnchen zurückgeben. Tamarindensauce angießen. Alles kräftig vermengen und 2 Minuten auf hoher Hitze schwenken.
-- |-
-  Sojasprossen und Frühlingszwiebeln unterheben. Mit weißem Pfeffer und Chiliflocken abschmecken.
-- |-
-  Auf Teller anrichten. Erdnüsse grob hacken und darüber streuen. Mit Limettenvierteln servieren.
+- Reisnudeln nach Packungsanweisung in lauwarmem Wasser ca. 20 Minuten einweichen,
+  dann abgießen.
+- Hähnchenbrustfilet in dünne Streifen schneiden. Knoblauch fein hacken. Frühlingszwiebeln
+  schräg in Ringe schneiden.
+- Tamarindenpaste, Fischsauce und Palmzucker in einer kleinen Schüssel verrühren,
+  bis sich der Zucker auflöst.
+- Erdnussöl im Wok bei starker Hitze erhitzen. Hähnchen portionsweise scharf anbraten
+  (3–4 Min.), herausnehmen.
+- Knoblauch im verbleibenden Öl 30 Sekunden anbraten. Nudeln dazugeben und 1–2 Minuten
+  unter Rühren anbraten.
+- Nudeln an den Rand schieben. Eier in die Mitte aufschlagen, kurz rühren und mit
+  den Nudeln vermengen.
+- Hähnchen zurückgeben. Tamarindensauce angießen. Alles kräftig vermengen und 2 Minuten
+  auf hoher Hitze schwenken.
+- Sojasprossen und Frühlingszwiebeln unterheben. Mit weißem Pfeffer und Chiliflocken
+  abschmecken.
+- Auf Teller anrichten. Erdnüsse grob hacken und darüber streuen. Mit Limettenvierteln
+  servieren.
 en_steps:
-- |-
-  TODO: Reisnudeln nach Packungsanweisung in lauwarmem Wasser ca. 20 Minuten einweichen, dann abgießen.
-- |-
-  TODO: Hähnchenbrustfilet in dünne Streifen schneiden. Knoblauch fein hacken. Frühlingszwiebeln schräg in Ringe schneiden.
-- |-
-  TODO: Tamarindenpaste, Fischsauce und Palmzucker in einer kleinen Schüssel verrühren, bis sich der Zucker auflöst.
-- |-
-  TODO: Erdnussöl im Wok bei starker Hitze erhitzen. Hähnchen portionsweise scharf anbraten (3–4 Min.), herausnehmen.
-- |-
-  TODO: Knoblauch im verbleibenden Öl 30 Sekunden anbraten. Nudeln dazugeben und 1–2 Minuten unter Rühren anbraten.
-- |-
-  TODO: Nudeln an den Rand schieben. Eier in die Mitte aufschlagen, kurz rühren und mit den Nudeln vermengen.
-- |-
-  TODO: Hähnchen zurückgeben. Tamarindensauce angießen. Alles kräftig vermengen und 2 Minuten auf hoher Hitze schwenken.
-- |-
-  TODO: Sojasprossen und Frühlingszwiebeln unterheben. Mit weißem Pfeffer und Chiliflocken abschmecken.
-- |-
-  TODO: Auf Teller anrichten. Erdnüsse grob hacken und darüber streuen. Mit Limettenvierteln servieren.
+- Soak the rice noodles in lukewarm water for about 20 minutes according to the packet
+  instructions, then drain.
+- Cut the chicken breast fillet into thin strips. Finely chop the garlic. Cut the
+  spring onions diagonally into rings.
+- Whisk together the tamarind paste, fish sauce and palm sugar in a small bowl until
+  the sugar dissolves.
+- Heat the peanut oil in a wok over high heat. Sear the chicken in batches for 3–4
+  minutes, then remove.
+- Fry the garlic in the remaining oil for 30 seconds. Add the noodles and stir-fry
+  for 1–2 minutes.
+- Push the noodles to the side. Crack the eggs into the centre, stir briefly, then
+  mix with the noodles.
+- Return the chicken. Pour in the tamarind sauce. Toss everything vigorously and stir-fry
+  over high heat for 2 minutes.
+- Fold in the bean sprouts and spring onions. Season with white pepper and chili flakes.
+- Plate up. Roughly chop the peanuts and scatter over the top. Serve with lime wedges.

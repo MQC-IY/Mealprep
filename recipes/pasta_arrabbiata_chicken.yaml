@@ -7,96 +7,93 @@ quick_minutes: 30
 meals: 2
 de:
   title: Pasta all'Arrabbiata mit Hähnchen
-  summary: |-
-    Scharfe Tomatensauce mit Peperoncino und knusprigem Hähnchen über Penne – ein klassisches römisches Gericht mit Biss.
+  summary: Scharfe Tomatensauce mit Peperoncino und knusprigem Hähnchen über Penne
+    – ein klassisches römisches Gericht mit Biss.
 en:
-  title: 'TODO: Pasta all''Arrabbiata mit Hähnchen'
-  summary: |-
-    TODO: Scharfe Tomatensauce mit Peperoncino und knusprigem Hähnchen über Penne – ein klassisches römisches Gericht mit Biss.
+  title: Pasta all'Arrabbiata with Chicken
+  summary: Fiery tomato sauce with peperoncino and golden chicken over penne – a classic
+    Roman dish with real kick.
 ingredients:
 - de_name: Hähnchenbrustfilet
-  en_name: 'TODO: Hähnchenbrustfilet'
+  en_name: chicken breast fillet
   qty: 400
   unit: g
   category: Protein und Milchprodukte
 - de_name: Penne Rigate
-  en_name: 'TODO: Penne Rigate'
+  en_name: penne rigate
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Geschälte Tomaten
-  en_name: 'TODO: Geschälte Tomaten'
+  en_name: peeled tomatoes
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Peperoncino getrocknet
-  en_name: 'TODO: Peperoncino getrocknet'
+  en_name: dried peperoncino
   qty: 2
   unit: Stk
   category: Gewürze
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 4
   unit: EL
   category: Konserven und Vorrat
 - de_name: Frische Petersilie
-  en_name: 'TODO: Frische Petersilie'
+  en_name: fresh parsley
   qty: 0.5
   unit: Bund
   category: Gemüse und Salat
 - de_name: Parmesan gerieben
-  en_name: 'TODO: Parmesan gerieben'
+  en_name: grated Parmesan
   qty: 40
   unit: g
   category: Protein und Milchprodukte
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Getrockneter Oregano
-  en_name: 'TODO: Getrockneter Oregano'
+  en_name: dried oregano
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Hähnchenbrustfilet in mundgerechte Würfel schneiden, mit Salz und Pfeffer würzen.
+- Hähnchenbrustfilet in mundgerechte Würfel schneiden, mit Salz und Pfeffer würzen.
 - Knoblauch fein hacken, Peperoncino zerbröseln.
-- |-
-  2 EL Olivenöl in einer großen Pfanne bei mittlerer bis hoher Hitze erhitzen. Hähnchenwürfel darin 5–6 Minuten goldbraun anbraten, dann herausnehmen.
-- |-
-  Weitere 2 EL Olivenöl in die Pfanne geben. Knoblauch und Peperoncino darin 1–2 Minuten bei mittlerer Hitze anrösten, bis es duftet.
-- |-
-  Geschälte Tomaten dazugeben, mit einem Holzlöffel zerdrücken. Oregano einrühren und die Sauce 15 Minuten köcheln lassen.
-- |-
-  Gleichzeitig Penne in reichlich Salzwasser nach Packungsangabe al dente kochen. 100 ml Kochwasser aufheben, dann abgießen.
-- |-
-  Hähnchen zurück in die Tomatensauce geben, weitere 5 Minuten köcheln. Bei Bedarf etwas Nudelwasser einrühren.
+- 2 EL Olivenöl in einer großen Pfanne bei mittlerer bis hoher Hitze erhitzen. Hähnchenwürfel
+  darin 5–6 Minuten goldbraun anbraten, dann herausnehmen.
+- Weitere 2 EL Olivenöl in die Pfanne geben. Knoblauch und Peperoncino darin 1–2 Minuten
+  bei mittlerer Hitze anrösten, bis es duftet.
+- Geschälte Tomaten dazugeben, mit einem Holzlöffel zerdrücken. Oregano einrühren
+  und die Sauce 15 Minuten köcheln lassen.
+- Gleichzeitig Penne in reichlich Salzwasser nach Packungsangabe al dente kochen.
+  100 ml Kochwasser aufheben, dann abgießen.
+- Hähnchen zurück in die Tomatensauce geben, weitere 5 Minuten köcheln. Bei Bedarf
+  etwas Nudelwasser einrühren.
 - Penne mit der Sauce vermengen. Mit gehackter Petersilie und Parmesan anrichten.
 en_steps:
-- |-
-  TODO: Hähnchenbrustfilet in mundgerechte Würfel schneiden, mit Salz und Pfeffer würzen.
-- 'TODO: Knoblauch fein hacken, Peperoncino zerbröseln.'
-- |-
-  TODO: 2 EL Olivenöl in einer großen Pfanne bei mittlerer bis hoher Hitze erhitzen. Hähnchenwürfel darin 5–6 Minuten goldbraun anbraten, dann herausnehmen.
-- |-
-  TODO: Weitere 2 EL Olivenöl in die Pfanne geben. Knoblauch und Peperoncino darin 1–2 Minuten bei mittlerer Hitze anrösten, bis es duftet.
-- |-
-  TODO: Geschälte Tomaten dazugeben, mit einem Holzlöffel zerdrücken. Oregano einrühren und die Sauce 15 Minuten köcheln lassen.
-- |-
-  TODO: Gleichzeitig Penne in reichlich Salzwasser nach Packungsangabe al dente kochen. 100 ml Kochwasser aufheben, dann abgießen.
-- |-
-  TODO: Hähnchen zurück in die Tomatensauce geben, weitere 5 Minuten köcheln. Bei Bedarf etwas Nudelwasser einrühren.
-- |-
-  TODO: Penne mit der Sauce vermengen. Mit gehackter Petersilie und Parmesan anrichten.
+- Cut the chicken breast fillet into bite-sized cubes and season with salt and pepper.
+- Finely chop the garlic and crumble the peperoncino.
+- Heat 2 tbsp olive oil in a large pan over medium-high heat. Fry the chicken cubes
+  for 5–6 minutes until golden brown, then remove.
+- Add another 2 tbsp olive oil to the pan. Toast the garlic and peperoncino over medium
+  heat for 1–2 minutes until fragrant.
+- Add the peeled tomatoes and crush them with a wooden spoon. Stir in the oregano
+  and let the sauce simmer for 15 minutes.
+- Meanwhile, cook the penne in plenty of salted water until al dente according to
+  the packet instructions. Reserve 100 ml of cooking water, then drain.
+- Return the chicken to the tomato sauce and simmer for a further 5 minutes. Stir
+  in a little pasta water if needed.
+- Toss the penne with the sauce. Serve garnished with chopped parsley and grated Parmesan.

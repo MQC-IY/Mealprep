@@ -9,46 +9,46 @@ de:
   title: Puten-Reis-Pfanne mit Brokkoli
   summary: Alltagstaugliche Reispfanne mit Putenhack, Brokkoli und Möhren.
 en:
-  title: 'TODO: Puten-Reis-Pfanne mit Brokkoli'
-  summary: 'TODO: Alltagstaugliche Reispfanne mit Putenhack, Brokkoli und Möhren.'
+  title: Turkey Rice Pan with Broccoli
+  summary: An everyday rice skillet with ground turkey, broccoli, and carrots.
 ingredients:
 - de_name: Putenhack
-  en_name: 'TODO: Putenhack'
+  en_name: ground turkey
   qty: 650
   unit: g
   category: Protein und Milchprodukte
 - de_name: Reis
-  en_name: 'TODO: Reis'
+  en_name: rice
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Brokkoli
-  en_name: 'TODO: Brokkoli'
+  en_name: broccoli
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: carrots
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Rapsöl
-  en_name: 'TODO: Rapsöl'
+  en_name: rapeseed oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Paprika edelsüß
-  en_name: 'TODO: Paprika edelsüß'
+  en_name: sweet paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -57,6 +57,6 @@ de_steps:
 - Putenhack mit Zwiebel scharf anbraten.
 - Brokkoli und Möhren klein schneiden und weich garen.
 en_steps:
-- 'TODO: Reis garen.'
-- 'TODO: Putenhack mit Zwiebel scharf anbraten.'
-- 'TODO: Brokkoli und Möhren klein schneiden und weich garen.'
+- Cook the rice.
+- Brown the ground turkey with the onion over high heat.
+- Chop the broccoli and carrots into small pieces and cook until tender.

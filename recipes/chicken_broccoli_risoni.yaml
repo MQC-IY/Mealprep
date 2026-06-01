@@ -9,41 +9,41 @@ de:
   title: Hähnchen-Risoni mit Brokkoli
   summary: Schnelle Risoni-Pfanne mit Hähnchen, Brokkoli und Frischkäse.
 en:
-  title: 'TODO: Hähnchen-Risoni mit Brokkoli'
-  summary: 'TODO: Schnelle Risoni-Pfanne mit Hähnchen, Brokkoli und Frischkäse.'
+  title: Chicken Risoni with Broccoli
+  summary: A quick risoni pan with chicken, broccoli, and cream cheese.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 750
   unit: g
   category: Protein und Milchprodukte
 - de_name: Orzo oder Kritharaki
-  en_name: 'TODO: Orzo oder Kritharaki'
+  en_name: orzo (risoni)
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Brokkoli
-  en_name: 'TODO: Brokkoli'
+  en_name: broccoli
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Frischkäse natur
-  en_name: 'TODO: Frischkäse natur'
+  en_name: cream cheese
   qty: 100
   unit: g
   category: Protein und Milchprodukte
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: carrots
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -52,6 +52,6 @@ de_steps:
 - Hähnchen scharf anbraten.
 - Brokkoli und Möhren weich garen, Frischkäse unterrühren.
 en_steps:
-- 'TODO: Risoni weich garen.'
-- 'TODO: Hähnchen scharf anbraten.'
-- 'TODO: Brokkoli und Möhren weich garen, Frischkäse unterrühren.'
+- Cook the risoni until tender.
+- Sear the chicken over high heat.
+- Cook the broccoli and carrots until tender, then stir in the cream cheese.

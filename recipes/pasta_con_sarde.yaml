@@ -6,111 +6,111 @@ next_day: false
 meals: 2
 de:
   title: Pasta con le Sarde – Nudeln mit Sardinen und Fenchel
-  summary: |-
-    Sizilianische Pasta mit frischen Sardinen, Fenchel, Pinienkerne, Rosinen und Safran – ein einzigartiges Zusammenspiel aus süß, salzig und anisartig.
+  summary: Sizilianische Pasta mit frischen Sardinen, Fenchel, Pinienkerne, Rosinen
+    und Safran – ein einzigartiges Zusammenspiel aus süß, salzig und anisartig.
 en:
-  title: 'TODO: Pasta con le Sarde – Nudeln mit Sardinen und Fenchel'
-  summary: |-
-    TODO: Sizilianische Pasta mit frischen Sardinen, Fenchel, Pinienkerne, Rosinen und Safran – ein einzigartiges Zusammenspiel aus süß, salzig und anisartig.
+  title: Pasta con le Sarde – Pasta with Sardines and Fennel
+  summary: Sicilian pasta with fresh sardines, fennel, pine nuts, raisins and saffron
+    – a unique interplay of sweet, salty and anise flavours.
 ingredients:
 - de_name: Sardinen frisch oder aus der Dose in Öl
-  en_name: 'TODO: Sardinen frisch oder aus der Dose in Öl'
+  en_name: sardines, fresh or canned in oil
   qty: 300
   unit: g
   category: Protein und Milchprodukte
 - de_name: Spaghetti oder Bucatini
-  en_name: 'TODO: Spaghetti oder Bucatini'
+  en_name: spaghetti or bucatini
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Fenchelknolle
-  en_name: 'TODO: Fenchelknolle'
+  en_name: fennel bulb
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 2
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Pinienkerne
-  en_name: 'TODO: Pinienkerne'
+  en_name: pine nuts
   qty: 40
   unit: g
   category: Konserven und Vorrat
 - de_name: Rosinen
-  en_name: 'TODO: Rosinen'
+  en_name: raisins
   qty: 30
   unit: g
   category: Obst
 - de_name: Safranfäden
-  en_name: 'TODO: Safranfäden'
+  en_name: saffron threads
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 4
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sardellenpaste oder gehackte Sardellenfilets
-  en_name: 'TODO: Sardellenpaste oder gehackte Sardellenfilets'
+  en_name: anchovy paste or chopped anchovy fillets
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Peperoncino gemahlen
-  en_name: 'TODO: Peperoncino gemahlen'
+  en_name: ground peperoncino
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Geröstete Semmelbrösel (Mollica)
-  en_name: 'TODO: Geröstete Semmelbrösel (Mollica)'
+  en_name: toasted breadcrumbs (mollica)
   qty: 40
   unit: g
   category: Kohlenhydrate und Sattmacher
 de_steps:
-- |-
-  Safranfäden in 3 EL warmem Wasser einweichen. Rosinen in lauwarmem Wasser 10 Minuten einweichen, abgießen.
-- |-
-  Fenchelknolle vierteln, Strunk entfernen und in feine Streifen schneiden. Fenchelgrün aufheben. Zwiebel und Knoblauch fein hacken.
+- Safranfäden in 3 EL warmem Wasser einweichen. Rosinen in lauwarmem Wasser 10 Minuten
+  einweichen, abgießen.
+- Fenchelknolle vierteln, Strunk entfernen und in feine Streifen schneiden. Fenchelgrün
+  aufheben. Zwiebel und Knoblauch fein hacken.
 - Pinienkerne in einer trockenen Pfanne goldbraun rösten. Herausnehmen.
-- |-
-  Olivenöl in einer großen Pfanne erhitzen. Zwiebel 5 Minuten anschwitzen. Knoblauch, Sardellenpaste und Peperoncino dazugeben, 1 Minute weiterbraten.
-- |-
-  Fenchelstreifen einrühren, 8 Minuten bei mittlerer Hitze weich schmoren. Safranwasser, Rosinen und Pinienkerne dazugeben.
-- |-
-  Sardinen (wenn frisch: grob zerteilt; wenn aus der Dose: abgetropft und grob zerbröckelt) einlegen. Nur 3–4 Minuten sanft erhitzen.
+- Olivenöl in einer großen Pfanne erhitzen. Zwiebel 5 Minuten anschwitzen. Knoblauch,
+  Sardellenpaste und Peperoncino dazugeben, 1 Minute weiterbraten.
+- Fenchelstreifen einrühren, 8 Minuten bei mittlerer Hitze weich schmoren. Safranwasser,
+  Rosinen und Pinienkerne dazugeben.
+- 'Sardinen (wenn frisch: grob zerteilt; wenn aus der Dose: abgetropft und grob zerbröckelt)
+  einlegen. Nur 3–4 Minuten sanft erhitzen.'
 - Pasta in Salzwasser al dente kochen. Etwas Kochwasser aufheben, dann abgießen.
-- |-
-  Pasta mit der Sardinensauce vermengen. Mit gerösteten Semmelbröseln und fein gehacktem Fenchelgrün bestreuen.
+- Pasta mit der Sardinensauce vermengen. Mit gerösteten Semmelbröseln und fein gehacktem
+  Fenchelgrün bestreuen.
 en_steps:
-- |-
-  TODO: Safranfäden in 3 EL warmem Wasser einweichen. Rosinen in lauwarmem Wasser 10 Minuten einweichen, abgießen.
-- |-
-  TODO: Fenchelknolle vierteln, Strunk entfernen und in feine Streifen schneiden. Fenchelgrün aufheben. Zwiebel und Knoblauch fein hacken.
-- 'TODO: Pinienkerne in einer trockenen Pfanne goldbraun rösten. Herausnehmen.'
-- |-
-  TODO: Olivenöl in einer großen Pfanne erhitzen. Zwiebel 5 Minuten anschwitzen. Knoblauch, Sardellenpaste und Peperoncino dazugeben, 1 Minute weiterbraten.
-- |-
-  TODO: Fenchelstreifen einrühren, 8 Minuten bei mittlerer Hitze weich schmoren. Safranwasser, Rosinen und Pinienkerne dazugeben.
-- |-
-  TODO: Sardinen (wenn frisch: grob zerteilt; wenn aus der Dose: abgetropft und grob zerbröckelt) einlegen. Nur 3–4 Minuten sanft erhitzen.
-- |-
-  TODO: Pasta in Salzwasser al dente kochen. Etwas Kochwasser aufheben, dann abgießen.
-- |-
-  TODO: Pasta mit der Sardinensauce vermengen. Mit gerösteten Semmelbröseln und fein gehacktem Fenchelgrün bestreuen.
+- Soak the saffron threads in 3 tbsp warm water. Soak the raisins in lukewarm water
+  for 10 minutes, then drain.
+- Quarter the fennel bulb, remove the core and cut into fine strips. Reserve the fennel
+  fronds. Finely chop the onion and garlic.
+- Toast the pine nuts in a dry pan until golden. Remove and set aside.
+- Heat the olive oil in a large pan. Sweat the onion for 5 minutes. Add the garlic,
+  anchovy paste and peperoncino and cook for 1 more minute.
+- Stir in the fennel strips and braise over medium heat for 8 minutes until soft.
+  Add the saffron water, raisins and pine nuts.
+- 'Add the sardines (if fresh: roughly broken up; if canned: drained and gently flaked).
+  Heat gently for just 3–4 minutes.'
+- Cook the pasta in salted water until al dente. Reserve a little cooking water, then
+  drain.
+- Toss the pasta with the sardine sauce. Scatter with toasted breadcrumbs and finely
+  chopped fennel fronds.

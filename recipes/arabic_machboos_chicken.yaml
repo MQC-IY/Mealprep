@@ -6,141 +6,142 @@ next_day: true
 meals: 2
 de:
   title: Arabisches Hähnchen-Machboos mit Reis
-  summary: |-
-    Das Nationalgericht der Golfstaaten: aromatischer Gewürzreis mit saftigem Hähnchen, getrockneten Zitronen und einer tiefen Baharat-Würzung.
+  summary: 'Das Nationalgericht der Golfstaaten: aromatischer Gewürzreis mit saftigem
+    Hähnchen, getrockneten Zitronen und einer tiefen Baharat-Würzung.'
 en:
-  title: 'TODO: Arabisches Hähnchen-Machboos mit Reis'
-  summary: |-
-    TODO: Das Nationalgericht der Golfstaaten: aromatischer Gewürzreis mit saftigem Hähnchen, getrockneten Zitronen und einer tiefen Baharat-Würzung.
+  title: Arabic Chicken Machboos with Rice
+  summary: 'The national dish of the Gulf states: aromatic spiced rice with succulent
+    chicken, dried limes, and a deep baharat seasoning.'
 ingredients:
 - de_name: Hähnchenstücke, mit Knochen
-  en_name: 'TODO: Hähnchenstücke, mit Knochen'
+  en_name: chicken pieces, bone-in
   qty: 800
   unit: g
   category: Protein und Milchprodukte
 - de_name: Butter
-  en_name: 'TODO: Butter'
+  en_name: butter
   qty: 30
   unit: g
   category: Protein und Milchprodukte
 - de_name: Langkornreis oder Basmatireis
-  en_name: 'TODO: Langkornreis oder Basmatireis'
+  en_name: long-grain rice or basmati rice
   qty: 350
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Zwiebeln
-  en_name: 'TODO: Zwiebeln'
+  en_name: onions
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Ingwer, frisch
-  en_name: 'TODO: Ingwer, frisch'
+  en_name: fresh ginger
   qty: 3
   unit: cm
   category: Gemüse und Salat
 - de_name: Tomate
-  en_name: 'TODO: Tomate'
+  en_name: tomato
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Grüne Chilischote
-  en_name: 'TODO: Grüne Chilischote'
+  en_name: green chili
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Frische Korianderblätter
-  en_name: 'TODO: Frische Korianderblätter'
+  en_name: fresh cilantro leaves
   qty: 0.5
   unit: Bund
   category: Gemüse und Salat
 - de_name: Getrocknete Zitronen (Loomi)
-  en_name: 'TODO: Getrocknete Zitronen (Loomi)'
+  en_name: dried limes (loomi)
   qty: 2
   unit: Stk
   category: Gewürze
 - de_name: Pflanzenöl
-  en_name: 'TODO: Pflanzenöl'
+  en_name: vegetable oil
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Gehackte Tomaten
-  en_name: 'TODO: Gehackte Tomaten'
+  en_name: chopped tomatoes
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: chicken stock
   qty: 600
   unit: ml
   category: Konserven und Vorrat
 - de_name: Rosenwasser
-  en_name: 'TODO: Rosenwasser'
+  en_name: rose water
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Baharat-Gewürzmischung
-  en_name: 'TODO: Baharat-Gewürzmischung'
+  en_name: baharat spice blend
   qty: 2.5
   unit: TL
   category: Gewürze
 - de_name: Kreuzkümmel, gemahlen
-  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  en_name: cumin, ground
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Kurkuma
-  en_name: 'TODO: Kurkuma'
+  en_name: turmeric
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Zimtpulver
-  en_name: 'TODO: Zimtpulver'
+  en_name: cinnamon, ground
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Kardamom, gemahlen
-  en_name: 'TODO: Kardamom, gemahlen'
+  en_name: cardamom, ground
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Nelkenpulver
-  en_name: 'TODO: Nelkenpulver'
+  en_name: cloves, ground
   qty: 0.25
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Hähnchen mit Baharat, Kurkuma, Kreuzkümmel, Salz und Pfeffer einreiben. Getrocknete Zitronen einstechen.
-- |-
-  Öl in einem großen Topf erhitzen. Hähnchen von allen Seiten goldbraun anbraten. Herausnehmen.
-- |-
-  Butter zugeben. Fein gewürfelte Zwiebeln 10 Minuten goldbraun braten. Knoblauch und geriebenen Ingwer einrühren. Gehackte Chili dazugeben.
-- |-
-  Zimtpulver, Kardamom und Nelken einstreuen, 1 Minute rösten. Tomatenmark kurz mitrösten. Gehackte Tomaten und Dosentomaten hinzufügen, 5 Minuten köcheln.
-- |-
-  Hühnerbrühe und eingestochene Zitronen dazugeben. Hähnchen zurück in den Topf legen. Abdecken und 30 Minuten bei niedriger Hitze schmoren. Hähnchen herausnehmen, Brühe aufbewahren.
-- |-
-  Reis waschen. In der Gewürzbrühe (ca. 600 ml, bei Bedarf mit Wasser auffüllen) 18 Minuten garen. Rosenwasser kurz vor dem Servieren einrühren. Hähnchen auf dem Reis anrichten, mit Koriander bestreuen.
+- Hähnchen mit Baharat, Kurkuma, Kreuzkümmel, Salz und Pfeffer einreiben. Getrocknete
+  Zitronen einstechen.
+- Öl in einem großen Topf erhitzen. Hähnchen von allen Seiten goldbraun anbraten.
+  Herausnehmen.
+- Butter zugeben. Fein gewürfelte Zwiebeln 10 Minuten goldbraun braten. Knoblauch
+  und geriebenen Ingwer einrühren. Gehackte Chili dazugeben.
+- Zimtpulver, Kardamom und Nelken einstreuen, 1 Minute rösten. Tomatenmark kurz mitrösten.
+  Gehackte Tomaten und Dosentomaten hinzufügen, 5 Minuten köcheln.
+- Hühnerbrühe und eingestochene Zitronen dazugeben. Hähnchen zurück in den Topf legen.
+  Abdecken und 30 Minuten bei niedriger Hitze schmoren. Hähnchen herausnehmen, Brühe
+  aufbewahren.
+- Reis waschen. In der Gewürzbrühe (ca. 600 ml, bei Bedarf mit Wasser auffüllen) 18
+  Minuten garen. Rosenwasser kurz vor dem Servieren einrühren. Hähnchen auf dem Reis
+  anrichten, mit Koriander bestreuen.
 en_steps:
-- |-
-  TODO: Hähnchen mit Baharat, Kurkuma, Kreuzkümmel, Salz und Pfeffer einreiben. Getrocknete Zitronen einstechen.
-- |-
-  TODO: Öl in einem großen Topf erhitzen. Hähnchen von allen Seiten goldbraun anbraten. Herausnehmen.
-- |-
-  TODO: Butter zugeben. Fein gewürfelte Zwiebeln 10 Minuten goldbraun braten. Knoblauch und geriebenen Ingwer einrühren. Gehackte Chili dazugeben.
-- |-
-  TODO: Zimtpulver, Kardamom und Nelken einstreuen, 1 Minute rösten. Tomatenmark kurz mitrösten. Gehackte Tomaten und Dosentomaten hinzufügen, 5 Minuten köcheln.
-- |-
-  TODO: Hühnerbrühe und eingestochene Zitronen dazugeben. Hähnchen zurück in den Topf legen. Abdecken und 30 Minuten bei niedriger Hitze schmoren. Hähnchen herausnehmen, Brühe aufbewahren.
-- |-
-  TODO: Reis waschen. In der Gewürzbrühe (ca. 600 ml, bei Bedarf mit Wasser auffüllen) 18 Minuten garen. Rosenwasser kurz vor dem Servieren einrühren. Hähnchen auf dem Reis anrichten, mit Koriander bestreuen.
+- Rub chicken with baharat, turmeric, cumin, salt, and pepper. Pierce the dried limes.
+- Heat oil in a large pot. Brown chicken on all sides until golden. Remove.
+- Add butter. Fry finely diced onions until golden, about 10 minutes. Stir in garlic
+  and grated ginger. Add chopped chili.
+- Sprinkle in ground cinnamon, cardamom, and cloves; toast for 1 minute. Briefly fry
+  tomato paste. Add chopped fresh tomatoes and canned tomatoes; simmer for 5 minutes.
+- Pour in chicken stock and add the pierced dried limes. Return chicken to the pot.
+  Cover and braise on low heat for 30 minutes. Remove chicken and reserve the broth.
+- Wash rice. Cook in the spiced broth (approx. 600 ml, top up with water if needed)
+  for 18 minutes. Stir in rose water just before serving. Arrange chicken on the rice
+  and scatter with cilantro.

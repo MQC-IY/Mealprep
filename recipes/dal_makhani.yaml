@@ -6,131 +6,131 @@ next_day: true
 meals: 2
 de:
   title: Dal Makhani – Schwarze-Linsen-Curry
-  summary: |-
-    Cremige schwarze Beluga-Linsen mit roten Kidneybohnen, langsam geschmort in einer buttrigen Tomatensauce – ein üppiges nordindisches Gericht.
+  summary: Cremige schwarze Beluga-Linsen mit roten Kidneybohnen, langsam geschmort
+    in einer buttrigen Tomatensauce – ein üppiges nordindisches Gericht.
 en:
-  title: 'TODO: Dal Makhani – Schwarze-Linsen-Curry'
-  summary: |-
-    TODO: Cremige schwarze Beluga-Linsen mit roten Kidneybohnen, langsam geschmort in einer buttrigen Tomatensauce – ein üppiges nordindisches Gericht.
+  title: Dal Makhani
+  summary: Creamy black beluga lentils with red kidney beans, slow-braised in a buttery
+    tomato sauce — a rich North Indian classic.
 ingredients:
 - de_name: Schwarze Beluga-Linsen
-  en_name: 'TODO: Schwarze Beluga-Linsen'
+  en_name: black beluga lentils
   qty: 200
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Rote Kidneybohnen, gekocht
-  en_name: 'TODO: Rote Kidneybohnen, gekocht'
+  en_name: red kidney beans, cooked
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Gehackte Tomaten
-  en_name: 'TODO: Gehackte Tomaten'
+  en_name: chopped tomatoes
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Tomatenmark
-  en_name: 'TODO: Tomatenmark'
+  en_name: tomato paste
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Pflanzenöl
-  en_name: 'TODO: Pflanzenöl'
+  en_name: vegetable oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Butter
-  en_name: 'TODO: Butter'
+  en_name: butter
   qty: 40
   unit: g
   category: Protein und Milchprodukte
 - de_name: Sahne
-  en_name: 'TODO: Sahne'
+  en_name: cream
   qty: 80
   unit: ml
   category: Protein und Milchprodukte
 - de_name: Zwiebeln
-  en_name: 'TODO: Zwiebeln'
+  en_name: onions
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 5
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Ingwer, frisch
-  en_name: 'TODO: Ingwer, frisch'
+  en_name: fresh ginger
   qty: 3
   unit: cm
   category: Gemüse und Salat
 - de_name: Basmatireis
-  en_name: 'TODO: Basmatireis'
+  en_name: basmati rice
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Garam Masala
-  en_name: 'TODO: Garam Masala'
+  en_name: garam masala
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Kreuzkümmel, gemahlen
-  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  en_name: cumin, ground
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Koriander, gemahlen
-  en_name: 'TODO: Koriander, gemahlen'
+  en_name: coriander, ground
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Kurkuma
-  en_name: 'TODO: Kurkuma'
+  en_name: turmeric
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Kashmiri-Chilipulver
-  en_name: 'TODO: Kashmiri-Chilipulver'
+  en_name: Kashmiri chili powder
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Kreuzkümmelsamen
-  en_name: 'TODO: Kreuzkümmelsamen'
+  en_name: cumin seeds
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Bockshornklee-Blätter, getrocknet
-  en_name: 'TODO: Bockshornklee-Blätter, getrocknet'
+  en_name: dried fenugreek leaves (kasuri methi)
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Schwarze Linsen über Nacht einweichen. Am nächsten Tag abspülen und in einem Schnellkochtopf oder normalen Topf 45–60 Minuten weich garen.
-- |-
-  Butter und Öl in einem schweren Topf erhitzen. Kreuzkümmelsamen knistern lassen. Fein gewürfelte Zwiebeln 12 Minuten dunkelgoldbraun anbraten.
-- |-
-  Geriebenen Knoblauch und Ingwer hinzufügen, 2 Minuten braten. Tomatenmark einrühren und 3 Minuten rösten.
-- |-
-  Gehackte Tomaten und alle gemahlenen Gewürze dazugeben. Bei mittlerer Hitze 15 Minuten köcheln, bis die Sauce eindickt und sich das Fett absetzt.
-- |-
-  Gegarte Linsen und abgetropfte Kidneybohnen in die Sauce geben. 250 ml Wasser dazugeben und alles 30 Minuten bei niedriger Hitze langsam köcheln lassen.
-- |-
-  Sahne einrühren, zerriebene Bockshornklee-Blätter hinzufügen. Mit Salz und Garam Masala abschmecken. Mit Basmatireis servieren.
+- Schwarze Linsen über Nacht einweichen. Am nächsten Tag abspülen und in einem Schnellkochtopf
+  oder normalen Topf 45–60 Minuten weich garen.
+- Butter und Öl in einem schweren Topf erhitzen. Kreuzkümmelsamen knistern lassen.
+  Fein gewürfelte Zwiebeln 12 Minuten dunkelgoldbraun anbraten.
+- Geriebenen Knoblauch und Ingwer hinzufügen, 2 Minuten braten. Tomatenmark einrühren
+  und 3 Minuten rösten.
+- Gehackte Tomaten und alle gemahlenen Gewürze dazugeben. Bei mittlerer Hitze 15 Minuten
+  köcheln, bis die Sauce eindickt und sich das Fett absetzt.
+- Gegarte Linsen und abgetropfte Kidneybohnen in die Sauce geben. 250 ml Wasser dazugeben
+  und alles 30 Minuten bei niedriger Hitze langsam köcheln lassen.
+- Sahne einrühren, zerriebene Bockshornklee-Blätter hinzufügen. Mit Salz und Garam
+  Masala abschmecken. Mit Basmatireis servieren.
 en_steps:
-- |-
-  TODO: Schwarze Linsen über Nacht einweichen. Am nächsten Tag abspülen und in einem Schnellkochtopf oder normalen Topf 45–60 Minuten weich garen.
-- |-
-  TODO: Butter und Öl in einem schweren Topf erhitzen. Kreuzkümmelsamen knistern lassen. Fein gewürfelte Zwiebeln 12 Minuten dunkelgoldbraun anbraten.
-- |-
-  TODO: Geriebenen Knoblauch und Ingwer hinzufügen, 2 Minuten braten. Tomatenmark einrühren und 3 Minuten rösten.
-- |-
-  TODO: Gehackte Tomaten und alle gemahlenen Gewürze dazugeben. Bei mittlerer Hitze 15 Minuten köcheln, bis die Sauce eindickt und sich das Fett absetzt.
-- |-
-  TODO: Gegarte Linsen und abgetropfte Kidneybohnen in die Sauce geben. 250 ml Wasser dazugeben und alles 30 Minuten bei niedriger Hitze langsam köcheln lassen.
-- |-
-  TODO: Sahne einrühren, zerriebene Bockshornklee-Blätter hinzufügen. Mit Salz und Garam Masala abschmecken. Mit Basmatireis servieren.
+- Soak the black lentils overnight. The next day, rinse and cook in a pressure cooker
+  or regular pot for 45–60 minutes until tender.
+- Heat the butter and oil in a heavy pan. Let the cumin seeds splutter. Fry finely
+  diced onions for 12 minutes until deep golden brown.
+- Add the grated garlic and ginger; cook for 2 minutes. Stir in the tomato paste and
+  fry for 3 minutes.
+- Add the chopped tomatoes and all the ground spices. Simmer over medium heat for
+  15 minutes until the sauce thickens and the fat separates.
+- Add the cooked lentils and drained kidney beans to the sauce. Add 250 ml water and
+  simmer over low heat for 30 minutes.
+- Stir in the cream and crumbled fenugreek leaves. Season with salt and garam masala.
+  Serve with basmati rice.

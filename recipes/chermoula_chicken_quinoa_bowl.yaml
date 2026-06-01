@@ -6,111 +6,110 @@ next_day: false
 meals: 2
 de:
   title: Hähnchen-Chermoula-Bowl mit Quinoa
-  summary: |-
-    Nordafrikanische Chermoula-Marinade aus Koriander, Petersilie, Kreuzkümmel und Zitrone verleiht dem Hähnchen intensive Frische auf Quinoa mit geröstetem Gemüse.
+  summary: Nordafrikanische Chermoula-Marinade aus Koriander, Petersilie, Kreuzkümmel
+    und Zitrone verleiht dem Hähnchen intensive Frische auf Quinoa mit geröstetem
+    Gemüse.
 en:
-  title: 'TODO: Hähnchen-Chermoula-Bowl mit Quinoa'
-  summary: |-
-    TODO: Nordafrikanische Chermoula-Marinade aus Koriander, Petersilie, Kreuzkümmel und Zitrone verleiht dem Hähnchen intensive Frische auf Quinoa mit geröstetem Gemüse.
+  title: Chicken Chermoula Bowl with Quinoa
+  summary: A North African Chermoula marinade of cilantro, parsley, cumin, and lemon
+    gives the chicken vibrant freshness, served over quinoa with roasted vegetables.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 750
   unit: g
   category: Protein und Milchprodukte
 - de_name: Quinoa
-  en_name: 'TODO: Quinoa'
+  en_name: quinoa
   qty: 280
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Zucchini
-  en_name: 'TODO: Zucchini'
+  en_name: zucchini
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Paprika
-  en_name: 'TODO: Paprika'
+  en_name: bell peppers
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Koriander, frisch
-  en_name: 'TODO: Koriander, frisch'
+  en_name: fresh cilantro
   qty: 1
   unit: Bund
   category: Gemüse und Salat
 - de_name: Petersilie, frisch
-  en_name: 'TODO: Petersilie, frisch'
+  en_name: fresh parsley
   qty: 1
   unit: Bund
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 5
   unit: EL
   category: Konserven und Vorrat
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: chicken stock
   qty: 500
   unit: ml
   category: Konserven und Vorrat
 - de_name: Zitrone
-  en_name: 'TODO: Zitrone'
+  en_name: lemons
   qty: 2
   unit: Stk
   category: Obst
 - de_name: Kreuzkümmel, gemahlen
-  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  en_name: ground cumin
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Koriander, gemahlen
-  en_name: 'TODO: Koriander, gemahlen'
+  en_name: ground coriander
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Paprika edelsüß
-  en_name: 'TODO: Paprika edelsüß'
+  en_name: sweet paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Kurkuma
-  en_name: 'TODO: Kurkuma'
+  en_name: turmeric
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Chermoula herstellen: Koriander und Petersilie grob hacken, mit Knoblauch, 3 EL Olivenöl, Zitronensaft und -schale, Kreuzkümmel, Koriander gemahlen, Paprika, Chiliflocken und Kurkuma im Mixer zu einer Paste verarbeiten.
-- |-
-  Hähnchen mit der Hälfte der Chermoula einreiben und mindestens 30 Minuten marinieren.
-- |-
-  Quinoa in Brühe nach Packungsanweisung garen. Mit Salz und etwas Zitronensaft abschmecken.
-- |-
-  Zucchini und Paprika in Stücke schneiden, mit 2 EL Olivenöl und Salz mischen, bei 220 °C 20 Minuten rösten.
-- |-
-  Hähnchen in einer heißen Grillpfanne oder unter dem Grill von jeder Seite 6–7 Minuten garen.
-- |-
-  Bowls mit Quinoa füllen, Gemüse und Hähnchen anrichten. Restliche Chermoula als Sauce darübergeben.
+- 'Chermoula herstellen: Koriander und Petersilie grob hacken, mit Knoblauch, 3 EL
+  Olivenöl, Zitronensaft und -schale, Kreuzkümmel, Koriander gemahlen, Paprika, Chiliflocken
+  und Kurkuma im Mixer zu einer Paste verarbeiten.'
+- Hähnchen mit der Hälfte der Chermoula einreiben und mindestens 30 Minuten marinieren.
+- Quinoa in Brühe nach Packungsanweisung garen. Mit Salz und etwas Zitronensaft abschmecken.
+- Zucchini und Paprika in Stücke schneiden, mit 2 EL Olivenöl und Salz mischen, bei
+  220 °C 20 Minuten rösten.
+- Hähnchen in einer heißen Grillpfanne oder unter dem Grill von jeder Seite 6–7 Minuten
+  garen.
+- Bowls mit Quinoa füllen, Gemüse und Hähnchen anrichten. Restliche Chermoula als
+  Sauce darübergeben.
 en_steps:
-- |-
-  TODO: Chermoula herstellen: Koriander und Petersilie grob hacken, mit Knoblauch, 3 EL Olivenöl, Zitronensaft und -schale, Kreuzkümmel, Koriander gemahlen, Paprika, Chiliflocken und Kurkuma im Mixer zu einer Paste verarbeiten.
-- |-
-  TODO: Hähnchen mit der Hälfte der Chermoula einreiben und mindestens 30 Minuten marinieren.
-- |-
-  TODO: Quinoa in Brühe nach Packungsanweisung garen. Mit Salz und etwas Zitronensaft abschmecken.
-- |-
-  TODO: Zucchini und Paprika in Stücke schneiden, mit 2 EL Olivenöl und Salz mischen, bei 220 °C 20 Minuten rösten.
-- |-
-  TODO: Hähnchen in einer heißen Grillpfanne oder unter dem Grill von jeder Seite 6–7 Minuten garen.
-- |-
-  TODO: Bowls mit Quinoa füllen, Gemüse und Hähnchen anrichten. Restliche Chermoula als Sauce darübergeben.
+- 'Make the Chermoula: coarsely chop the cilantro and parsley, then blend with the
+  garlic, 3 tbsp olive oil, lemon juice and zest, ground cumin, ground coriander,
+  paprika, chili flakes, and turmeric into a paste.'
+- Rub the chicken with half the Chermoula and marinate for at least 30 minutes.
+- Cook the quinoa in the stock according to the packet instructions. Season with salt
+  and a little lemon juice.
+- Cut the zucchini and bell peppers into chunks, toss with 2 tbsp olive oil and salt,
+  and roast at 220 °C for 20 minutes.
+- Cook the chicken in a hot griddle pan or under the grill for 6–7 minutes per side.
+- Fill the bowls with quinoa, arrange the vegetables and chicken on top. Drizzle the
+  remaining Chermoula over as a sauce.

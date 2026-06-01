@@ -6,107 +6,102 @@ next_day: true
 meals: 2
 de:
   title: Koreanisches Kongnamul-Resgericht mit Hähnchen
-  summary: |-
-    Gedämpfter Reis mit Sojasprossen, Hähnchen und kräftiger Sesam-Sojasoßen-Würze – einfach, nährstoffreich und tief aromatisch.
+  summary: Gedämpfter Reis mit Sojasprossen, Hähnchen und kräftiger Sesam-Sojasoßen-Würze
+    – einfach, nährstoffreich und tief aromatisch.
 en:
-  title: 'TODO: Koreanisches Kongnamul-Resgericht mit Hähnchen'
-  summary: |-
-    TODO: Gedämpfter Reis mit Sojasprossen, Hähnchen und kräftiger Sesam-Sojasoßen-Würze – einfach, nährstoffreich und tief aromatisch.
+  title: Korean Kongnamul Rice Bowl with Chicken
+  summary: Steamed rice with bean sprouts, chicken, and a bold sesame-soy seasoning
+    – simple, nutritious, and deeply flavourful.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 600
   unit: g
   category: Protein und Milchprodukte
 - de_name: Sojasprossen (Kongnamul, frisch)
-  en_name: 'TODO: Sojasprossen (Kongnamul, frisch)'
+  en_name: soybean sprouts (kongnamul, fresh)
   qty: 400
   unit: g
   category: Gemüse und Salat
 - de_name: Frühlingszwiebeln
-  en_name: 'TODO: Frühlingszwiebeln'
+  en_name: spring onions
   qty: 1
   unit: Bund
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 5
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Rote Chili (frisch)
-  en_name: 'TODO: Rote Chili (frisch)'
+  en_name: fresh red chili
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Kurzkörniger Reis
-  en_name: 'TODO: Kurzkörniger Reis'
+  en_name: short-grain rice
   qty: 400
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Sojasoße
-  en_name: 'TODO: Sojasoße'
+  en_name: soy sauce
   qty: 5
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sesamöl
-  en_name: 'TODO: Sesamöl'
+  en_name: sesame oil
   qty: 4
   unit: EL
   category: Konserven und Vorrat
 - de_name: Pflanzenöl
-  en_name: 'TODO: Pflanzenöl'
+  en_name: vegetable oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: chicken stock
   qty: 500
   unit: ml
   category: Konserven und Vorrat
 - de_name: Doenjang
-  en_name: 'TODO: Doenjang'
+  en_name: doenjang
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sesamkörner (weiß)
-  en_name: 'TODO: Sesamkörner (weiß)'
+  en_name: white sesame seeds
   qty: 3
   unit: EL
   category: Gewürze
 - de_name: Gochugaru
-  en_name: 'TODO: Gochugaru'
+  en_name: gochugaru
   qty: 2
   unit: EL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Reis waschen. In einem schweren Topf Pflanzenöl erhitzen, Reis kurz 1 Minute anrösten.
-- |-
-  Hühnerbrühe und Doenjang einrühren, aufkochen. Hähnchenbrust ganz einlegen. Abdecken und bei niedriger Hitze 15 Minuten garen.
-- |-
-  Sojasprossen waschen und auf dem Reis verteilen. Deckel schließen und weitere 10 Minuten dämpfen.
+- Reis waschen. In einem schweren Topf Pflanzenöl erhitzen, Reis kurz 1 Minute anrösten.
+- Hühnerbrühe und Doenjang einrühren, aufkochen. Hähnchenbrust ganz einlegen. Abdecken
+  und bei niedriger Hitze 15 Minuten garen.
+- Sojasprossen waschen und auf dem Reis verteilen. Deckel schließen und weitere 10
+  Minuten dämpfen.
 - Hähnchen herausnehmen, in Streifen zerzupfen.
-- |-
-  Würzsoße: Sojasoße, Sesamöl, Knoblauch (fein gehackt), Gochugaru, Frühlingszwiebeln und Chilistücke verrühren.
+- 'Würzsoße: Sojasoße, Sesamöl, Knoblauch (fein gehackt), Gochugaru, Frühlingszwiebeln
+  und Chilistücke verrühren.'
 - Hähnchen zurück auf den Sprossen-Reis geben. Alles mit der Würzsoße übergießen.
-- |-
-  Mit einem großen Löffel durchmischen. Mit Sesamkörnern bestreuen und sofort servieren.
+- Mit einem großen Löffel durchmischen. Mit Sesamkörnern bestreuen und sofort servieren.
 en_steps:
-- |-
-  TODO: Reis waschen. In einem schweren Topf Pflanzenöl erhitzen, Reis kurz 1 Minute anrösten.
-- |-
-  TODO: Hühnerbrühe und Doenjang einrühren, aufkochen. Hähnchenbrust ganz einlegen. Abdecken und bei niedriger Hitze 15 Minuten garen.
-- |-
-  TODO: Sojasprossen waschen und auf dem Reis verteilen. Deckel schließen und weitere 10 Minuten dämpfen.
-- 'TODO: Hähnchen herausnehmen, in Streifen zerzupfen.'
-- |-
-  TODO: Würzsoße: Sojasoße, Sesamöl, Knoblauch (fein gehackt), Gochugaru, Frühlingszwiebeln und Chilistücke verrühren.
-- |-
-  TODO: Hähnchen zurück auf den Sprossen-Reis geben. Alles mit der Würzsoße übergießen.
-- |-
-  TODO: Mit einem großen Löffel durchmischen. Mit Sesamkörnern bestreuen und sofort servieren.
+- Wash the rice. Heat vegetable oil in a heavy pot; briefly toast the rice for 1 minute.
+- Stir in chicken stock and doenjang; bring to a boil. Place whole chicken breast
+  in. Cover and cook over low heat for 15 minutes.
+- Wash bean sprouts and spread over the rice. Close the lid and steam for a further
+  10 minutes.
+- Remove chicken and shred into strips.
+- 'Seasoning sauce: whisk together soy sauce, sesame oil, finely chopped garlic, gochugaru,
+  spring onions, and chili pieces.'
+- Return chicken to the sprout rice. Pour the seasoning sauce over everything.
+- Mix thoroughly with a large spoon. Sprinkle with sesame seeds and serve immediately.

@@ -9,36 +9,37 @@ de:
   title: Schnelle Linsen-Pasta mit Möhren
   summary: Schnelles Nudelgericht mit roten Linsen, Möhren und würziger Tomatensauce.
 en:
-  title: 'TODO: Schnelle Linsen-Pasta mit Möhren'
-  summary: 'TODO: Schnelles Nudelgericht mit roten Linsen, Möhren und würziger Tomatensauce.'
+  title: Quick Lentil Pasta with Carrots
+  summary: A quick pasta dish with red lentils, carrots, and a spiced tomato sauce
+    — wholesome and satisfying.
 ingredients:
 - de_name: Vollkornnudeln
-  en_name: 'TODO: Vollkornnudeln'
+  en_name: Whole-wheat pasta
   qty: 320
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Rote Linsen
-  en_name: 'TODO: Rote Linsen'
+  en_name: Red lentils
   qty: 180
   unit: g
   category: Konserven und Vorrat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: Carrots
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Passierte Tomaten
-  en_name: 'TODO: Passierte Tomaten'
+  en_name: Strained tomatoes (passata)
   qty: 1
   unit: Glas
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -47,6 +48,6 @@ de_steps:
 - Linsen und Möhren in der Tomatensauce weich köcheln.
 - Alles mischen.
 en_steps:
-- 'TODO: Nudeln weich kochen.'
-- 'TODO: Linsen und Möhren in der Tomatensauce weich köcheln.'
-- 'TODO: Alles mischen.'
+- Cook the pasta in salted boiling water until al dente.
+- Simmer the lentils and carrots in the tomato sauce until tender.
+- Combine everything and season to taste.

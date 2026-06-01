@@ -9,51 +9,51 @@ de:
   title: Rote-Linsen-Orzo-Topf mit Möhren
   summary: Milder Eintopf mit roten Linsen, Kritharaki, Möhren und Tomate.
 en:
-  title: 'TODO: Rote-Linsen-Orzo-Topf mit Möhren'
-  summary: 'TODO: Milder Eintopf mit roten Linsen, Kritharaki, Möhren und Tomate.'
+  title: Red Lentil Orzo Pot with Carrots
+  summary: A mild one-pot stew of red lentils, orzo, carrots, and tomato.
 ingredients:
 - de_name: Rote Linsen
-  en_name: 'TODO: Rote Linsen'
+  en_name: red lentils
   qty: 220
   unit: g
   category: Konserven und Vorrat
 - de_name: Orzo oder Kritharaki
-  en_name: 'TODO: Orzo oder Kritharaki'
+  en_name: orzo
   qty: 180
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Passierte Tomaten
-  en_name: 'TODO: Passierte Tomaten'
+  en_name: strained tomatoes (passata)
   qty: 1
   unit: Glas
   category: Konserven und Vorrat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: carrots
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zucchini
-  en_name: 'TODO: Zucchini'
+  en_name: zucchini
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Paprika edelsüß
-  en_name: 'TODO: Paprika edelsüß'
+  en_name: sweet paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -62,6 +62,6 @@ de_steps:
 - Linsen, Tomaten und Wasser zugeben und weich köcheln.
 - Orzo gegen Ende einrühren und mitgaren.
 en_steps:
-- 'TODO: Zwiebel, Möhren und Zucchini klein schneiden und in Olivenöl anschwitzen.'
-- 'TODO: Linsen, Tomaten und Wasser zugeben und weich köcheln.'
-- 'TODO: Orzo gegen Ende einrühren und mitgaren.'
+- Chop the onion, carrots, and zucchini and sweat in olive oil.
+- Add the lentils, tomatoes, and water and simmer until tender.
+- Stir in the orzo towards the end and cook through.

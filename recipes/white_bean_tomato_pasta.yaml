@@ -9,51 +9,52 @@ de:
   title: Tomatenpasta mit weißen Bohnen
   summary: Schnelle, milde Bohnenpasta mit Spinat und cremiger Tomatensauce.
 en:
-  title: 'TODO: Tomatenpasta mit weißen Bohnen'
-  summary: 'TODO: Schnelle, milde Bohnenpasta mit Spinat und cremiger Tomatensauce.'
+  title: Tomato Pasta with White Beans
+  summary: A quick, mild bean pasta with spinach and a creamy tomato-cream cheese
+    sauce.
 ingredients:
 - de_name: Vollkornnudeln
-  en_name: 'TODO: Vollkornnudeln'
+  en_name: Whole-wheat pasta
   qty: 320
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Weiße Bohnen
-  en_name: 'TODO: Weiße Bohnen'
+  en_name: White beans
   qty: 2
   unit: Dosen
   category: Konserven und Vorrat
 - de_name: Passierte Tomaten
-  en_name: 'TODO: Passierte Tomaten'
+  en_name: Passata (tomato purée)
   qty: 1
   unit: Glas
   category: Konserven und Vorrat
 - de_name: Blattspinat
-  en_name: 'TODO: Blattspinat'
+  en_name: Baby spinach
   qty: 150
   unit: g
   category: Gemüse und Salat
 - de_name: Frischkäse natur
-  en_name: 'TODO: Frischkäse natur'
+  en_name: Plain cream cheese
   qty: 100
   unit: g
   category: Protein und Milchprodukte
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: Onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Basilikum
-  en_name: 'TODO: Basilikum'
+  en_name: Basil
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -62,6 +63,6 @@ de_steps:
 - Zwiebel in Olivenöl anschwitzen, Tomaten und Bohnen zugeben.
 - Frischkäse und Spinat unterrühren und kurz ziehen lassen.
 en_steps:
-- 'TODO: Nudeln kochen.'
-- 'TODO: Zwiebel in Olivenöl anschwitzen, Tomaten und Bohnen zugeben.'
-- 'TODO: Frischkäse und Spinat unterrühren und kurz ziehen lassen.'
+- Cook the pasta.
+- Sauté the onion in olive oil, then add the tomatoes and beans.
+- Stir in the cream cheese and spinach and let it meld for a moment.

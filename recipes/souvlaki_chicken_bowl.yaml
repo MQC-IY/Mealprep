@@ -6,109 +6,108 @@ next_day: false
 meals: 2
 de:
   title: Hähnchen-Souvlaki-Bowl mit Tzatziki
-  summary: |-
-    Griechische Souvlaki-Spieße mit Oregano, Zitrone und Knoblauch, dazu selbst gemachter Tzatziki, Choriatiki-Salat und Pitta-Brot.
+  summary: Griechische Souvlaki-Spieße mit Oregano, Zitrone und Knoblauch, dazu selbst
+    gemachter Tzatziki, Choriatiki-Salat und Pitta-Brot.
 en:
-  title: 'TODO: Hähnchen-Souvlaki-Bowl mit Tzatziki'
-  summary: |-
-    TODO: Griechische Souvlaki-Spieße mit Oregano, Zitrone und Knoblauch, dazu selbst gemachter Tzatziki, Choriatiki-Salat und Pitta-Brot.
+  title: Chicken Souvlaki Bowl with Tzatziki
+  summary: Greek Souvlaki skewers marinated with oregano, lemon and garlic, served
+    with homemade tzatziki, a Choriatiki salad and pita bread.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 800
   unit: g
   category: Protein und Milchprodukte
 - de_name: Naturjoghurt
-  en_name: 'TODO: Naturjoghurt'
+  en_name: plain yoghurt
   qty: 300
   unit: g
   category: Protein und Milchprodukte
 - de_name: Feta
-  en_name: 'TODO: Feta'
+  en_name: feta
   qty: 150
   unit: g
   category: Protein und Milchprodukte
 - de_name: Gurke
-  en_name: 'TODO: Gurke'
+  en_name: cucumber
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Tomate
-  en_name: 'TODO: Tomate'
+  en_name: tomato
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Rote Zwiebel
-  en_name: 'TODO: Rote Zwiebel'
+  en_name: red onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 5
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Frische Minze
-  en_name: 'TODO: Frische Minze'
+  en_name: fresh mint
   qty: 0.5
   unit: Bund
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 4
   unit: EL
   category: Konserven und Vorrat
 - de_name: Pita-Brote
-  en_name: 'TODO: Pita-Brote'
+  en_name: pita breads
   qty: 4
   unit: Stk
   category: Kohlenhydrate und Sattmacher
 - de_name: Zitrone
-  en_name: 'TODO: Zitrone'
+  en_name: lemon
   qty: 2
   unit: Stk
   category: Obst
 - de_name: Oregano
-  en_name: 'TODO: Oregano'
+  en_name: oregano
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Paprika edelsüß
-  en_name: 'TODO: Paprika edelsüß'
+  en_name: sweet paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chilli flakes
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Thymian, getrocknet
-  en_name: 'TODO: Thymian, getrocknet'
+  en_name: thyme, dried
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Hähnchen in Würfel schneiden. Mit Olivenöl, Zitronensaft, Oregano, Paprika, Thymian, Chiliflocken und 3 gepressten Knoblauchzehen marinieren. Mindestens 30 Minuten ruhen lassen.
-- |-
-  Tzatziki: Gurke grob reiben, salzen und gut ausdrücken. Mit Joghurt, 2 gepressten Knoblauchzehen, Minze, etwas Olivenöl und Zitronensaft verrühren.
-- |-
-  Choriatiki-Salat: Tomaten, rote Zwiebel und restliche Gurke würfeln. Feta darüber bröseln. Mit Olivenöl, Oregano und Salz abschmecken.
-- |-
-  Hähnchen auf Holzspieße stecken (vorher wässern) und in einer heißen Grillpfanne von allen Seiten 8–10 Minuten garen.
+- Hähnchen in Würfel schneiden. Mit Olivenöl, Zitronensaft, Oregano, Paprika, Thymian,
+  Chiliflocken und 3 gepressten Knoblauchzehen marinieren. Mindestens 30 Minuten ruhen
+  lassen.
+- 'Tzatziki: Gurke grob reiben, salzen und gut ausdrücken. Mit Joghurt, 2 gepressten
+  Knoblauchzehen, Minze, etwas Olivenöl und Zitronensaft verrühren.'
+- 'Choriatiki-Salat: Tomaten, rote Zwiebel und restliche Gurke würfeln. Feta darüber
+  bröseln. Mit Olivenöl, Oregano und Salz abschmecken.'
+- Hähnchen auf Holzspieße stecken (vorher wässern) und in einer heißen Grillpfanne
+  von allen Seiten 8–10 Minuten garen.
 - Pita-Brote kurz in der Pfanne oder im Ofen aufwärmen.
-- |-
-  Bowls mit Salat, Hähnchen-Souvlaki und Pita anrichten. Tzatziki großzügig dazu geben.
+- Bowls mit Salat, Hähnchen-Souvlaki und Pita anrichten. Tzatziki großzügig dazu geben.
 en_steps:
-- |-
-  TODO: Hähnchen in Würfel schneiden. Mit Olivenöl, Zitronensaft, Oregano, Paprika, Thymian, Chiliflocken und 3 gepressten Knoblauchzehen marinieren. Mindestens 30 Minuten ruhen lassen.
-- |-
-  TODO: Tzatziki: Gurke grob reiben, salzen und gut ausdrücken. Mit Joghurt, 2 gepressten Knoblauchzehen, Minze, etwas Olivenöl und Zitronensaft verrühren.
-- |-
-  TODO: Choriatiki-Salat: Tomaten, rote Zwiebel und restliche Gurke würfeln. Feta darüber bröseln. Mit Olivenöl, Oregano und Salz abschmecken.
-- |-
-  TODO: Hähnchen auf Holzspieße stecken (vorher wässern) und in einer heißen Grillpfanne von allen Seiten 8–10 Minuten garen.
-- 'TODO: Pita-Brote kurz in der Pfanne oder im Ofen aufwärmen.'
-- |-
-  TODO: Bowls mit Salat, Hähnchen-Souvlaki und Pita anrichten. Tzatziki großzügig dazu geben.
+- Cut chicken into cubes. Marinate with olive oil, lemon juice, oregano, paprika,
+  thyme, chilli flakes and 3 pressed garlic cloves. Rest for at least 30 minutes.
+- 'Tzatziki: coarsely grate cucumber, salt it and squeeze out well. Mix with yoghurt,
+  2 pressed garlic cloves, mint, a little olive oil and lemon juice.'
+- 'Choriatiki salad: dice tomatoes, red onion and the remaining cucumber. Crumble
+  feta on top. Season with olive oil, oregano and salt.'
+- Thread chicken onto wooden skewers (soaked beforehand) and cook in a hot grill pan
+  on all sides for 8–10 minutes.
+- Warm pita breads briefly in the pan or oven.
+- Assemble bowls with salad, chicken Souvlaki and pita. Add tzatziki generously.

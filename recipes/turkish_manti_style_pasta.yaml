@@ -7,106 +7,109 @@ quick_minutes: 25
 meals: 3
 de:
   title: Yalancı Mantı – Türkische Pasta mit Joghurt und Pul-Biber-Butter
-  summary: |-
-    Schnelle türkische Manti-Variante: kurze Pasta mit würzigem Rinderhack, reichem Knoblauchjoghurt und feuriger Pul-Biber-Butter.
+  summary: 'Schnelle türkische Manti-Variante: kurze Pasta mit würzigem Rinderhack,
+    reichem Knoblauchjoghurt und feuriger Pul-Biber-Butter.'
 en:
-  title: 'TODO: Yalancı Mantı – Türkische Pasta mit Joghurt und Pul-Biber-Butter'
-  summary: |-
-    TODO: Schnelle türkische Manti-Variante: kurze Pasta mit würzigem Rinderhack, reichem Knoblauchjoghurt und feuriger Pul-Biber-Butter.
+  title: Yalancı Mantı – Turkish Pasta with Yogurt and Pul Biber Butter
+  summary: 'A quick Turkish mantı variation: short pasta with spiced ground beef,
+    rich garlic yogurt, and a fiery pul biber butter.'
 ingredients:
 - de_name: Vollkornnudeln (Conchiglie oder Farfalle)
-  en_name: 'TODO: Vollkornnudeln (Conchiglie oder Farfalle)'
+  en_name: wholegrain pasta (conchiglie or farfalle)
   qty: 400
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Rinderhack
-  en_name: 'TODO: Rinderhack'
+  en_name: ground beef
   qty: 600
   unit: g
   category: Protein und Milchprodukte
 - de_name: Naturjoghurt (Raumtemperatur)
-  en_name: 'TODO: Naturjoghurt (Raumtemperatur)'
+  en_name: plain yogurt (room temperature)
   qty: 500
   unit: g
   category: Protein und Milchprodukte
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 5
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Butter
-  en_name: 'TODO: Butter'
+  en_name: butter
   qty: 60
   unit: g
   category: Protein und Milchprodukte
 - de_name: Tomatenmark
-  en_name: 'TODO: Tomatenmark'
+  en_name: tomato paste
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Pul Biber (türkische Chiliflocken)
-  en_name: 'TODO: Pul Biber (türkische Chiliflocken)'
+  en_name: pul biber (Turkish red pepper flakes)
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Paprika edelsüß
-  en_name: 'TODO: Paprika edelsüß'
+  en_name: sweet paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Paprika geräuchert
-  en_name: 'TODO: Paprika geräuchert'
+  en_name: smoked paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Sumach
-  en_name: 'TODO: Sumach'
+  en_name: sumac
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Minze, getrocknet
-  en_name: 'TODO: Minze, getrocknet'
+  en_name: dried mint
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Kreuzkümmel
-  en_name: 'TODO: Kreuzkümmel'
+  en_name: cumin
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Nudeln in gut gesalzenem Wasser al dente kochen, abgießen und dabei eine Tasse Nudelwasser aufheben.
-- |-
-  Knoblauch fein hacken oder pressen. Joghurt mit Knoblauch, etwas Salz und einem Schuss Nudelwasser cremig verrühren – er muss Raumtemperatur haben, damit er nicht gerinnt.
-- |-
-  Zwiebel fein würfeln und in Olivenöl bei hoher Hitze anbraten. Rinderhack zugeben und kräftig anbraten, bis es braune Röstaromen entwickelt.
-- |-
-  Tomatenmark einrühren und 2 Minuten mitrösten. Mit Kreuzkümmel, der Hälfte des Pul Bibers, Paprika edelsüß, Salz und Pfeffer würzen.
-- |-
-  Butter in einer kleinen Pfanne bei mittlerer Hitze schmelzen lassen, bis sie leicht nussig riecht. Pul Biber, geräucherten Paprika und getrocknete Minze einrühren und sofort vom Herd nehmen.
-- |-
-  Nudeln auf vorgewärmten Tellern anrichten. Großzügig Knoblauchjoghurt darüber verteilen. Hack daraufgeben. Die Pul-Biber-Butter darüberträufeln. Mit Sumach und Minze abschließen.
+- Nudeln in gut gesalzenem Wasser al dente kochen, abgießen und dabei eine Tasse Nudelwasser
+  aufheben.
+- Knoblauch fein hacken oder pressen. Joghurt mit Knoblauch, etwas Salz und einem
+  Schuss Nudelwasser cremig verrühren – er muss Raumtemperatur haben, damit er nicht
+  gerinnt.
+- Zwiebel fein würfeln und in Olivenöl bei hoher Hitze anbraten. Rinderhack zugeben
+  und kräftig anbraten, bis es braune Röstaromen entwickelt.
+- Tomatenmark einrühren und 2 Minuten mitrösten. Mit Kreuzkümmel, der Hälfte des Pul
+  Bibers, Paprika edelsüß, Salz und Pfeffer würzen.
+- Butter in einer kleinen Pfanne bei mittlerer Hitze schmelzen lassen, bis sie leicht
+  nussig riecht. Pul Biber, geräucherten Paprika und getrocknete Minze einrühren und
+  sofort vom Herd nehmen.
+- Nudeln auf vorgewärmten Tellern anrichten. Großzügig Knoblauchjoghurt darüber verteilen.
+  Hack daraufgeben. Die Pul-Biber-Butter darüberträufeln. Mit Sumach und Minze abschließen.
 en_steps:
-- |-
-  TODO: Nudeln in gut gesalzenem Wasser al dente kochen, abgießen und dabei eine Tasse Nudelwasser aufheben.
-- |-
-  TODO: Knoblauch fein hacken oder pressen. Joghurt mit Knoblauch, etwas Salz und einem Schuss Nudelwasser cremig verrühren – er muss Raumtemperatur haben, damit er nicht gerinnt.
-- |-
-  TODO: Zwiebel fein würfeln und in Olivenöl bei hoher Hitze anbraten. Rinderhack zugeben und kräftig anbraten, bis es braune Röstaromen entwickelt.
-- |-
-  TODO: Tomatenmark einrühren und 2 Minuten mitrösten. Mit Kreuzkümmel, der Hälfte des Pul Bibers, Paprika edelsüß, Salz und Pfeffer würzen.
-- |-
-  TODO: Butter in einer kleinen Pfanne bei mittlerer Hitze schmelzen lassen, bis sie leicht nussig riecht. Pul Biber, geräucherten Paprika und getrocknete Minze einrühren und sofort vom Herd nehmen.
-- |-
-  TODO: Nudeln auf vorgewärmten Tellern anrichten. Großzügig Knoblauchjoghurt darüber verteilen. Hack daraufgeben. Die Pul-Biber-Butter darüberträufeln. Mit Sumach und Minze abschließen.
+- Cook the pasta al dente in well-salted water, then drain, reserving a cup of pasta
+  water.
+- Finely chop or press the garlic. Whisk the yogurt with the garlic, a little salt,
+  and a splash of pasta water until smooth and creamy – it must be at room temperature
+  so it does not curdle.
+- Finely dice the onion and fry in olive oil over high heat. Add the ground beef and
+  brown well until it develops deep, caramelised colour.
+- Stir in the tomato paste and toast for 2 minutes. Season with cumin, half the pul
+  biber, sweet paprika, salt, and pepper.
+- Melt the butter in a small pan over medium heat until it smells faintly nutty. Stir
+  in the pul biber, smoked paprika, and dried mint, then remove from the heat immediately.
+- Plate the pasta on warmed plates. Spoon the garlic yogurt generously over the top.
+  Add the meat. Drizzle over the pul biber butter. Finish with sumac and mint.

@@ -6,110 +6,110 @@ next_day: true
 meals: 2
 de:
   title: Hähnchen in Berbere-Joghurt-Marinade mit Couscous
-  summary: |-
-    Äthiopische Berbere-Gewürzmischung trifft auf Joghurtmarinade – butterweiches Hähnchen mit intensiver Wärme aus Chili, Fenugreek und Nelken auf lockerem Couscous.
+  summary: Äthiopische Berbere-Gewürzmischung trifft auf Joghurtmarinade – butterweiches
+    Hähnchen mit intensiver Wärme aus Chili, Fenugreek und Nelken auf lockerem Couscous.
 en:
-  title: 'TODO: Hähnchen in Berbere-Joghurt-Marinade mit Couscous'
-  summary: |-
-    TODO: Äthiopische Berbere-Gewürzmischung trifft auf Joghurtmarinade – butterweiches Hähnchen mit intensiver Wärme aus Chili, Fenugreek und Nelken auf lockerem Couscous.
+  title: Chicken in Berbere Yogurt Marinade with Couscous
+  summary: Ethiopian berbere spice blend meets a yogurt marinade — meltingly tender
+    chicken with intense warmth from chili, fenugreek, and cloves, served on fluffy
+    couscous.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 750
   unit: g
   category: Protein und Milchprodukte
 - de_name: Naturjoghurt
-  en_name: 'TODO: Naturjoghurt'
+  en_name: plain yogurt
   qty: 200
   unit: g
   category: Protein und Milchprodukte
 - de_name: Couscous
-  en_name: 'TODO: Couscous'
+  en_name: couscous
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: chicken stock
   qty: 350
   unit: ml
   category: Konserven und Vorrat
 - de_name: Gehackte Tomaten
-  en_name: 'TODO: Gehackte Tomaten'
+  en_name: chopped tomatoes
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Ingwer, frisch
-  en_name: 'TODO: Ingwer, frisch'
+  en_name: fresh ginger
   qty: 20
   unit: g
   category: Gemüse und Salat
 - de_name: Koriander, frisch
-  en_name: 'TODO: Koriander, frisch'
+  en_name: fresh cilantro
   qty: 0.5
   unit: Bund
   category: Gemüse und Salat
 - de_name: Zitrone
-  en_name: 'TODO: Zitrone'
+  en_name: lemon
   qty: 1
   unit: Stk
   category: Obst
 - de_name: Berbere-Gewürzmischung
-  en_name: 'TODO: Berbere-Gewürzmischung'
+  en_name: berbere spice blend
   qty: 3
   unit: TL
   category: Gewürze
 - de_name: Paprika edelsüß
-  en_name: 'TODO: Paprika edelsüß'
+  en_name: sweet paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Kreuzkümmel, gemahlen
-  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  en_name: cumin, ground
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Koriander, gemahlen
-  en_name: 'TODO: Koriander, gemahlen'
+  en_name: coriander, ground
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Hähnchen in großzügige Stücke schneiden. Joghurt mit Berbere, Paprika, Kreuzkümmel, Knoblauch, Ingwer, Chiliflocken und Zitronensaft vermengen. Hähnchen darin 30–60 Minuten marinieren.
-- |-
-  Hähnchen in einer schweren, heißen Pfanne scharf anbraten, ca. 4–5 Minuten je Seite.
-- |-
-  Zwiebel fein würfeln und im Bratfett glasig dünsten. Gehackte Tomaten und etwas Brühe zugeben, 10 Minuten einköcheln lassen. Hähnchen zurück in die Sauce geben.
-- |-
-  Couscous mit heißer Brühe übergießen, 5 Minuten quellen lassen, mit Gabel auflockern. Mit Olivenöl und Salz abschmecken.
+- Hähnchen in großzügige Stücke schneiden. Joghurt mit Berbere, Paprika, Kreuzkümmel,
+  Knoblauch, Ingwer, Chiliflocken und Zitronensaft vermengen. Hähnchen darin 30–60
+  Minuten marinieren.
+- Hähnchen in einer schweren, heißen Pfanne scharf anbraten, ca. 4–5 Minuten je Seite.
+- Zwiebel fein würfeln und im Bratfett glasig dünsten. Gehackte Tomaten und etwas
+  Brühe zugeben, 10 Minuten einköcheln lassen. Hähnchen zurück in die Sauce geben.
+- Couscous mit heißer Brühe übergießen, 5 Minuten quellen lassen, mit Gabel auflockern.
+  Mit Olivenöl und Salz abschmecken.
 - Mit frischem Koriander und Zitronenscheiben servieren.
 en_steps:
-- |-
-  TODO: Hähnchen in großzügige Stücke schneiden. Joghurt mit Berbere, Paprika, Kreuzkümmel, Knoblauch, Ingwer, Chiliflocken und Zitronensaft vermengen. Hähnchen darin 30–60 Minuten marinieren.
-- |-
-  TODO: Hähnchen in einer schweren, heißen Pfanne scharf anbraten, ca. 4–5 Minuten je Seite.
-- |-
-  TODO: Zwiebel fein würfeln und im Bratfett glasig dünsten. Gehackte Tomaten und etwas Brühe zugeben, 10 Minuten einköcheln lassen. Hähnchen zurück in die Sauce geben.
-- |-
-  TODO: Couscous mit heißer Brühe übergießen, 5 Minuten quellen lassen, mit Gabel auflockern. Mit Olivenöl und Salz abschmecken.
-- 'TODO: Mit frischem Koriander und Zitronenscheiben servieren.'
+- Cut chicken into generous pieces. Mix yogurt with berbere, sweet paprika, cumin,
+  garlic, ginger, chili flakes, and lemon juice. Marinate chicken for 30–60 minutes.
+- Sear chicken in a heavy hot pan, about 4–5 minutes per side.
+- Finely dice onion and sweat in the cooking fat until translucent. Add chopped tomatoes
+  and a little stock; simmer for 10 minutes. Return chicken to the sauce.
+- Pour hot stock over couscous, leave to swell for 5 minutes, then fluff with a fork.
+  Season with olive oil and salt.
+- Serve with fresh cilantro and lemon wedges.

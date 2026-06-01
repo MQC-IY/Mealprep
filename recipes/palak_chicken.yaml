@@ -6,123 +6,124 @@ next_day: true
 meals: 2
 de:
   title: Palak Hähnchen – Hähnchen in Spinat-Curry
-  summary: |-
-    Saftiges Hähnchen geschmort in einer samtigen Spinat-Curry-Sauce mit frischen Gewürzen und cremigem Joghurt.
+  summary: Saftiges Hähnchen geschmort in einer samtigen Spinat-Curry-Sauce mit frischen
+    Gewürzen und cremigem Joghurt.
 en:
-  title: 'TODO: Palak Hähnchen – Hähnchen in Spinat-Curry'
-  summary: |-
-    TODO: Saftiges Hähnchen geschmort in einer samtigen Spinat-Curry-Sauce mit frischen Gewürzen und cremigem Joghurt.
+  title: Palak Chicken – Chicken in Spinach Curry
+  summary: Tender chicken braised in a velvety spinach-curry sauce with fresh spices
+    and creamy yogurt.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 600
   unit: g
   category: Protein und Milchprodukte
 - de_name: Vollfett-Joghurt
-  en_name: 'TODO: Vollfett-Joghurt'
+  en_name: full-fat yogurt
   qty: 120
   unit: g
   category: Protein und Milchprodukte
 - de_name: Blattspinat, frisch
-  en_name: 'TODO: Blattspinat, frisch'
+  en_name: fresh leaf spinach
   qty: 400
   unit: g
   category: Gemüse und Salat
 - de_name: Zwiebeln
-  en_name: 'TODO: Zwiebeln'
+  en_name: onions
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Ingwer, frisch
-  en_name: 'TODO: Ingwer, frisch'
+  en_name: fresh ginger
   qty: 3
   unit: cm
   category: Gemüse und Salat
 - de_name: Grüne Chilischote
-  en_name: 'TODO: Grüne Chilischote'
+  en_name: green chili pepper
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Tomate
-  en_name: 'TODO: Tomate'
+  en_name: tomato
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Basmatireis
-  en_name: 'TODO: Basmatireis'
+  en_name: basmati rice
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Pflanzenöl
-  en_name: 'TODO: Pflanzenöl'
+  en_name: vegetable oil
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Garam Masala
-  en_name: 'TODO: Garam Masala'
+  en_name: garam masala
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Kreuzkümmel, gemahlen
-  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  en_name: ground cumin
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Kurkuma
-  en_name: 'TODO: Kurkuma'
+  en_name: turmeric
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Koriander, gemahlen
-  en_name: 'TODO: Koriander, gemahlen'
+  en_name: ground coriander
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chilipulver
-  en_name: 'TODO: Chilipulver'
+  en_name: chili powder
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Kreuzkümmelsamen
-  en_name: 'TODO: Kreuzkümmelsamen'
+  en_name: cumin seeds
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Hähnchen in Würfel schneiden, mit Joghurt, Kurkuma, Chilipulver und Salz marinieren. 30 Minuten ruhen lassen.
-- |-
-  Spinat kurz in kochendem Salzwasser blanchieren, abschrecken und mit grüner Chilischote im Mixer zu einem glatten Püree verarbeiten.
-- |-
-  Öl in einem Topf erhitzen, Kreuzkümmelsamen hineingeben und 30 Sekunden knistern lassen. Fein gewürfelte Zwiebeln goldbraun anbraten (ca. 8 Minuten).
-- |-
-  Knoblauch und Ingwer (fein gerieben) hinzufügen, 2 Minuten mitbraten. Gewürfelte Tomaten und alle gemahlenen Gewürze einrühren. 5 Minuten köcheln, bis die Tomaten zerfallen.
-- |-
-  Mariniertes Hähnchen dazugeben und bei mittlerer Hitze 8–10 Minuten anbraten, bis es fast gar ist.
-- |-
-  Spinat-Püree unterrühren, 150 ml Wasser hinzufügen. Alles zusammen 10 Minuten köcheln lassen. Mit Garam Masala und Salz abschmecken.
+- Hähnchen in Würfel schneiden, mit Joghurt, Kurkuma, Chilipulver und Salz marinieren.
+  30 Minuten ruhen lassen.
+- Spinat kurz in kochendem Salzwasser blanchieren, abschrecken und mit grüner Chilischote
+  im Mixer zu einem glatten Püree verarbeiten.
+- Öl in einem Topf erhitzen, Kreuzkümmelsamen hineingeben und 30 Sekunden knistern
+  lassen. Fein gewürfelte Zwiebeln goldbraun anbraten (ca. 8 Minuten).
+- Knoblauch und Ingwer (fein gerieben) hinzufügen, 2 Minuten mitbraten. Gewürfelte
+  Tomaten und alle gemahlenen Gewürze einrühren. 5 Minuten köcheln, bis die Tomaten
+  zerfallen.
+- Mariniertes Hähnchen dazugeben und bei mittlerer Hitze 8–10 Minuten anbraten, bis
+  es fast gar ist.
+- Spinat-Püree unterrühren, 150 ml Wasser hinzufügen. Alles zusammen 10 Minuten köcheln
+  lassen. Mit Garam Masala und Salz abschmecken.
 - Basmatireis garen und gemeinsam mit dem Palak Hähnchen servieren.
 en_steps:
-- |-
-  TODO: Hähnchen in Würfel schneiden, mit Joghurt, Kurkuma, Chilipulver und Salz marinieren. 30 Minuten ruhen lassen.
-- |-
-  TODO: Spinat kurz in kochendem Salzwasser blanchieren, abschrecken und mit grüner Chilischote im Mixer zu einem glatten Püree verarbeiten.
-- |-
-  TODO: Öl in einem Topf erhitzen, Kreuzkümmelsamen hineingeben und 30 Sekunden knistern lassen. Fein gewürfelte Zwiebeln goldbraun anbraten (ca. 8 Minuten).
-- |-
-  TODO: Knoblauch und Ingwer (fein gerieben) hinzufügen, 2 Minuten mitbraten. Gewürfelte Tomaten und alle gemahlenen Gewürze einrühren. 5 Minuten köcheln, bis die Tomaten zerfallen.
-- |-
-  TODO: Mariniertes Hähnchen dazugeben und bei mittlerer Hitze 8–10 Minuten anbraten, bis es fast gar ist.
-- |-
-  TODO: Spinat-Püree unterrühren, 150 ml Wasser hinzufügen. Alles zusammen 10 Minuten köcheln lassen. Mit Garam Masala und Salz abschmecken.
-- 'TODO: Basmatireis garen und gemeinsam mit dem Palak Hähnchen servieren.'
+- Cut the chicken into cubes, marinate with yogurt, turmeric, chili powder and salt.
+  Leave to rest for 30 minutes.
+- Briefly blanch the spinach in boiling salted water, refresh in cold water, then
+  blend with the green chili to a smooth purée.
+- Heat the oil in a pot, add the cumin seeds and let them crackle for 30 seconds.
+  Fry the finely diced onions until golden brown, about 8 minutes.
+- Add the garlic and ginger (finely grated) and fry for 2 minutes. Stir in the diced
+  tomatoes and all ground spices. Simmer for 5 minutes until the tomatoes break down.
+- Add the marinated chicken and cook over medium heat for 8–10 minutes until almost
+  cooked through.
+- Stir in the spinach purée, add 150 ml water. Simmer everything together for 10 minutes.
+  Season with garam masala and salt.
+- Cook the basmati rice and serve alongside the Palak Chicken.

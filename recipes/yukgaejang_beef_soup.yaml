@@ -6,106 +6,108 @@ next_day: true
 meals: 2
 de:
   title: Koreanisches Yukgaejang – Scharfe Rindfleischsuppe
-  summary: |-
-    Feuriger koreanischer Rindfleisch-Fadennudel-Eintopf mit Farnkraut, Sojasprossen und Ei in kräftiger Gochugaru-Brühe.
+  summary: Feuriger koreanischer Rindfleisch-Fadennudel-Eintopf mit Farnkraut, Sojasprossen
+    und Ei in kräftiger Gochugaru-Brühe.
 en:
-  title: 'TODO: Koreanisches Yukgaejang – Scharfe Rindfleischsuppe'
-  summary: |-
-    TODO: Feuriger koreanischer Rindfleisch-Fadennudel-Eintopf mit Farnkraut, Sojasprossen und Ei in kräftiger Gochugaru-Brühe.
+  title: Yukgaejang – Korean Spicy Beef Soup
+  summary: A fiery Korean beef and glass noodle stew with fernbrake, soybean sprouts,
+    and egg in a bold gochugaru broth.
 ingredients:
 - de_name: Rindfleisch (Wadenstück oder Suppenfleisch)
-  en_name: 'TODO: Rindfleisch (Wadenstück oder Suppenfleisch)'
+  en_name: Beef (shank or stewing beef)
   qty: 600
   unit: g
   category: Protein und Milchprodukte
 - de_name: Eier
-  en_name: 'TODO: Eier'
+  en_name: Eggs
   qty: 2
   unit: Stk
   category: Protein und Milchprodukte
 - de_name: Sojasprossen (Kongnamul)
-  en_name: 'TODO: Sojasprossen (Kongnamul)'
+  en_name: Soybean sprouts (kongnamul)
   qty: 200
   unit: g
   category: Gemüse und Salat
 - de_name: Frühlingszwiebeln
-  en_name: 'TODO: Frühlingszwiebeln'
+  en_name: Spring onions
   qty: 2
   unit: Bund
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: Garlic cloves
   qty: 6
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Gosari (getrocknetes Farnkraut, eingeweicht) oder Pak Choi
-  en_name: 'TODO: Gosari (getrocknetes Farnkraut, eingeweicht) oder Pak Choi'
+  en_name: Gosari (dried fernbrake, soaked) or bok choy
   qty: 150
   unit: g
   category: Gemüse und Salat
 - de_name: Kurzkörniger Reis
-  en_name: 'TODO: Kurzkörniger Reis'
+  en_name: Short-grain rice
   qty: 400
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Rindsbrühe
-  en_name: 'TODO: Rindsbrühe'
+  en_name: Beef stock
   qty: 1.5
   unit: Liter
   category: Konserven und Vorrat
 - de_name: Sojasoße
-  en_name: 'TODO: Sojasoße'
+  en_name: Soy sauce
   qty: 4
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sesamöl
-  en_name: 'TODO: Sesamöl'
+  en_name: Sesame oil
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Pflanzenöl
-  en_name: 'TODO: Pflanzenöl'
+  en_name: Vegetable oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Gochugaru
-  en_name: 'TODO: Gochugaru'
+  en_name: Gochugaru
   qty: 5
   unit: EL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: Black pepper
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Knoblauchpulver
-  en_name: 'TODO: Knoblauchpulver'
+  en_name: Garlic powder
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Rindfleisch in kaltem Wasser 30 Minuten wässern, dann in einem Topf mit frischem Wasser aufsetzen, aufkochen und 5 Minuten blanchieren. Abgießen und abspülen.
-- |-
-  Rindfleisch in der Rindsbrühe mit 3 zerdrückten Knoblauchzehen 60 Minuten bei niedriger Hitze köcheln, bis es zart ist. Fleisch herausnehmen und in Fäden zerzupfen. Brühe aufbewahren.
-- |-
-  Restlichen Knoblauch fein hacken. Gochugaru-Paste: Sesamöl, Pflanzenöl, Gochugaru, Knoblauch, Knoblauchpulver in einem kleinen Topf bei niedriger Hitze 2 Minuten rösten.
+- Rindfleisch in kaltem Wasser 30 Minuten wässern, dann in einem Topf mit frischem
+  Wasser aufsetzen, aufkochen und 5 Minuten blanchieren. Abgießen und abspülen.
+- Rindfleisch in der Rindsbrühe mit 3 zerdrückten Knoblauchzehen 60 Minuten bei niedriger
+  Hitze köcheln, bis es zart ist. Fleisch herausnehmen und in Fäden zerzupfen. Brühe
+  aufbewahren.
+- 'Restlichen Knoblauch fein hacken. Gochugaru-Paste: Sesamöl, Pflanzenöl, Gochugaru,
+  Knoblauch, Knoblauchpulver in einem kleinen Topf bei niedriger Hitze 2 Minuten rösten.'
 - Gochugaru-Paste in die Brühe einrühren. Fleischfäden dazugeben und aufkochen.
-- |-
-  Sojasprossen, Gosari und Frühlingszwiebeln (in 5 cm lange Stücke) dazugeben. 10 Minuten köcheln. Mit Sojasoße und Pfeffer abschmecken.
+- Sojasprossen, Gosari und Frühlingszwiebeln (in 5 cm lange Stücke) dazugeben. 10
+  Minuten köcheln. Mit Sojasoße und Pfeffer abschmecken.
 - Eier verquirlen und fädenartig in die köchelnde Suppe gießen, sofort umrühren.
 - Reis garen und separat servieren. Suppe in tiefe Schüsseln schöpfen.
 en_steps:
-- |-
-  TODO: Rindfleisch in kaltem Wasser 30 Minuten wässern, dann in einem Topf mit frischem Wasser aufsetzen, aufkochen und 5 Minuten blanchieren. Abgießen und abspülen.
-- |-
-  TODO: Rindfleisch in der Rindsbrühe mit 3 zerdrückten Knoblauchzehen 60 Minuten bei niedriger Hitze köcheln, bis es zart ist. Fleisch herausnehmen und in Fäden zerzupfen. Brühe aufbewahren.
-- |-
-  TODO: Restlichen Knoblauch fein hacken. Gochugaru-Paste: Sesamöl, Pflanzenöl, Gochugaru, Knoblauch, Knoblauchpulver in einem kleinen Topf bei niedriger Hitze 2 Minuten rösten.
-- |-
-  TODO: Gochugaru-Paste in die Brühe einrühren. Fleischfäden dazugeben und aufkochen.
-- |-
-  TODO: Sojasprossen, Gosari und Frühlingszwiebeln (in 5 cm lange Stücke) dazugeben. 10 Minuten köcheln. Mit Sojasoße und Pfeffer abschmecken.
-- |-
-  TODO: Eier verquirlen und fädenartig in die köchelnde Suppe gießen, sofort umrühren.
-- 'TODO: Reis garen und separat servieren. Suppe in tiefe Schüsseln schöpfen.'
+- Soak the beef in cold water for 30 minutes, then place in a pot with fresh water,
+  bring to a boil, and blanch for 5 minutes. Drain and rinse.
+- Simmer the beef in the beef stock with 3 crushed garlic cloves over low heat for
+  60 minutes until tender. Remove the meat and shred it into strands. Reserve the
+  broth.
+- 'Finely chop the remaining garlic. Make the gochugaru paste: gently toast sesame
+  oil, vegetable oil, gochugaru, garlic, and garlic powder in a small pot over low
+  heat for 2 minutes.'
+- Stir the gochugaru paste into the broth. Add the shredded beef and bring to a boil.
+- Add the soybean sprouts, gosari, and spring onions (cut into 5 cm lengths). Simmer
+  for 10 minutes. Season with soy sauce and pepper.
+- Beat the eggs and drizzle them in a thin stream into the gently simmering soup,
+  stirring immediately.
+- Cook the rice and serve separately. Ladle the soup into deep bowls.

@@ -6,126 +6,126 @@ next_day: false
 meals: 2
 de:
   title: Aloo Gobi – Blumenkohl-Kartoffel-Curry
-  summary: |-
-    Knusprig gebratener Blumenkohl und Kartoffeln in einem duftenden Trocken-Curry – veganer Klassiker mit lebhafter Gewürznote.
+  summary: Knusprig gebratener Blumenkohl und Kartoffeln in einem duftenden Trocken-Curry
+    – veganer Klassiker mit lebhafter Gewürznote.
 en:
-  title: 'TODO: Aloo Gobi – Blumenkohl-Kartoffel-Curry'
-  summary: |-
-    TODO: Knusprig gebratener Blumenkohl und Kartoffeln in einem duftenden Trocken-Curry – veganer Klassiker mit lebhafter Gewürznote.
+  title: Aloo Gobi – Cauliflower and Potato Curry
+  summary: Crispy pan-fried cauliflower and potatoes in a fragrant dry curry — a vegan
+    classic bursting with vibrant spice.
 ingredients:
 - de_name: Blumenkohl
-  en_name: 'TODO: Blumenkohl'
+  en_name: cauliflower
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Kartoffeln, festkochend
-  en_name: 'TODO: Kartoffeln, festkochend'
+  en_name: waxy potatoes
   qty: 500
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Zwiebeln
-  en_name: 'TODO: Zwiebeln'
+  en_name: onions
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Tomate
-  en_name: 'TODO: Tomate'
+  en_name: tomato
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Ingwer, frisch
-  en_name: 'TODO: Ingwer, frisch'
+  en_name: fresh ginger
   qty: 3
   unit: cm
   category: Gemüse und Salat
 - de_name: Grüne Chilischote
-  en_name: 'TODO: Grüne Chilischote'
+  en_name: green chili
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Frische Korianderblätter
-  en_name: 'TODO: Frische Korianderblätter'
+  en_name: fresh cilantro leaves
   qty: 0.5
   unit: Bund
   category: Gemüse und Salat
 - de_name: Pflanzenöl
-  en_name: 'TODO: Pflanzenöl'
+  en_name: vegetable oil
   qty: 4
   unit: EL
   category: Konserven und Vorrat
 - de_name: Kreuzkümmelsamen
-  en_name: 'TODO: Kreuzkümmelsamen'
+  en_name: cumin seeds
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Senfkörner
-  en_name: 'TODO: Senfkörner'
+  en_name: mustard seeds
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Kurkuma
-  en_name: 'TODO: Kurkuma'
+  en_name: turmeric
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Koriander, gemahlen
-  en_name: 'TODO: Koriander, gemahlen'
+  en_name: coriander, ground
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Kreuzkümmel, gemahlen
-  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  en_name: cumin, ground
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chilipulver
-  en_name: 'TODO: Chilipulver'
+  en_name: chili powder
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Garam Masala
-  en_name: 'TODO: Garam Masala'
+  en_name: garam masala
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Amchur (Mangopulver)
-  en_name: 'TODO: Amchur (Mangopulver)'
+  en_name: amchur (mango powder)
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Kartoffeln schälen und in gleichmäßige Würfel schneiden. Blumenkohl in kleine Röschen teilen. Beides in Salzwasser 6 Minuten vorkochen – bissfest halten. Abgießen.
-- |-
-  Öl in einer großen schweren Pfanne bei hoher Hitze erhitzen. Kartoffeln und Blumenkohl portionsweise einlegen und goldbraun anbraten. Herausnehmen.
-- |-
-  Im verbleibenden Öl Senfkörner und Kreuzkümmelsamen knistern lassen. Zwiebeln 8 Minuten goldbraun anbraten. Knoblauch und Ingwer einrühren.
-- |-
-  Kurkuma, Kreuzkümmel, Koriander und Chilipulver einstreuen, 1 Minute rösten. Gehackte Tomaten und Chilischoten hinzufügen, 5 Minuten köcheln.
-- |-
-  Gebratenes Gemüse zurück in die Pfanne geben. Alles gut vermischen, 5 Minuten unter gelegentlichem Rühren fertig garen.
-- |-
-  Garam Masala und Amchur einstreuen, mit Salz abschmecken. Mit frischem Koriander bestreuen und mit Naan oder Reis servieren.
+- Kartoffeln schälen und in gleichmäßige Würfel schneiden. Blumenkohl in kleine Röschen
+  teilen. Beides in Salzwasser 6 Minuten vorkochen – bissfest halten. Abgießen.
+- Öl in einer großen schweren Pfanne bei hoher Hitze erhitzen. Kartoffeln und Blumenkohl
+  portionsweise einlegen und goldbraun anbraten. Herausnehmen.
+- Im verbleibenden Öl Senfkörner und Kreuzkümmelsamen knistern lassen. Zwiebeln 8
+  Minuten goldbraun anbraten. Knoblauch und Ingwer einrühren.
+- Kurkuma, Kreuzkümmel, Koriander und Chilipulver einstreuen, 1 Minute rösten. Gehackte
+  Tomaten und Chilischoten hinzufügen, 5 Minuten köcheln.
+- Gebratenes Gemüse zurück in die Pfanne geben. Alles gut vermischen, 5 Minuten unter
+  gelegentlichem Rühren fertig garen.
+- Garam Masala und Amchur einstreuen, mit Salz abschmecken. Mit frischem Koriander
+  bestreuen und mit Naan oder Reis servieren.
 en_steps:
-- |-
-  TODO: Kartoffeln schälen und in gleichmäßige Würfel schneiden. Blumenkohl in kleine Röschen teilen. Beides in Salzwasser 6 Minuten vorkochen – bissfest halten. Abgießen.
-- |-
-  TODO: Öl in einer großen schweren Pfanne bei hoher Hitze erhitzen. Kartoffeln und Blumenkohl portionsweise einlegen und goldbraun anbraten. Herausnehmen.
-- |-
-  TODO: Im verbleibenden Öl Senfkörner und Kreuzkümmelsamen knistern lassen. Zwiebeln 8 Minuten goldbraun anbraten. Knoblauch und Ingwer einrühren.
-- |-
-  TODO: Kurkuma, Kreuzkümmel, Koriander und Chilipulver einstreuen, 1 Minute rösten. Gehackte Tomaten und Chilischoten hinzufügen, 5 Minuten köcheln.
-- |-
-  TODO: Gebratenes Gemüse zurück in die Pfanne geben. Alles gut vermischen, 5 Minuten unter gelegentlichem Rühren fertig garen.
-- |-
-  TODO: Garam Masala und Amchur einstreuen, mit Salz abschmecken. Mit frischem Koriander bestreuen und mit Naan oder Reis servieren.
+- Peel potatoes and cut into even cubes. Break cauliflower into small florets. Parboil
+  both in salted water for 6 minutes — keep them al dente. Drain.
+- Heat oil in a large heavy pan over high heat. Add potatoes and cauliflower in batches
+  and fry until golden brown. Remove.
+- In the remaining oil, let mustard seeds and cumin seeds pop. Fry onions until golden,
+  about 8 minutes. Stir in garlic and ginger.
+- Sprinkle in turmeric, cumin, coriander, and chili powder; toast for 1 minute. Add
+  chopped tomatoes and chilies and simmer for 5 minutes.
+- Return the fried vegetables to the pan. Mix well and cook for a further 5 minutes,
+  stirring occasionally.
+- Stir in garam masala and amchur; season with salt. Garnish with fresh cilantro and
+  serve with naan or rice.

@@ -7,114 +7,112 @@ quick_minutes: 25
 meals: 2
 de:
   title: Japanischer Chahan (Gebratener Reis mit Hähnchen und Ei)
-  summary: |-
-    Aromatischer japanisch gebratener Reis mit Hähnchen, Ei, Gemüse und dem Geheimnis guter Yakiniku-Würze.
+  summary: Aromatischer japanisch gebratener Reis mit Hähnchen, Ei, Gemüse und dem
+    Geheimnis guter Yakiniku-Würze.
 en:
-  title: 'TODO: Japanischer Chahan (Gebratener Reis mit Hähnchen und Ei)'
-  summary: |-
-    TODO: Aromatischer japanisch gebratener Reis mit Hähnchen, Ei, Gemüse und dem Geheimnis guter Yakiniku-Würze.
+  title: Japanese Chahan (Fried Rice with Chicken and Egg)
+  summary: Fragrant Japanese fried rice with chicken, egg, vegetables, and the secret
+    of good yakiniku seasoning.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 400
   unit: g
   category: Protein und Milchprodukte
 - de_name: Eier
-  en_name: 'TODO: Eier'
+  en_name: eggs
   qty: 4
   unit: Stk
   category: Protein und Milchprodukte
 - de_name: Frühlingszwiebeln
-  en_name: 'TODO: Frühlingszwiebeln'
+  en_name: spring onions
   qty: 1
   unit: Bund
   category: Gemüse und Salat
 - de_name: Zwiebeln
-  en_name: 'TODO: Zwiebeln'
+  en_name: onions
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 3
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Ingwer (frisch)
-  en_name: 'TODO: Ingwer (frisch)'
+  en_name: fresh ginger
   qty: 15
   unit: g
   category: Gemüse und Salat
 - de_name: Reis (Vortag, kalt)
-  en_name: 'TODO: Reis (Vortag, kalt)'
+  en_name: day-old cold rice
   qty: 800
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Sojasoße
-  en_name: 'TODO: Sojasoße'
+  en_name: soy sauce
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sake
-  en_name: 'TODO: Sake'
+  en_name: sake
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sesamöl
-  en_name: 'TODO: Sesamöl'
+  en_name: sesame oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Pflanzenöl
-  en_name: 'TODO: Pflanzenöl'
+  en_name: vegetable oil
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Austernsauce
-  en_name: 'TODO: Austernsauce'
+  en_name: oyster sauce
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sesamkörner (weiß)
-  en_name: 'TODO: Sesamkörner (weiß)'
+  en_name: white sesame seeds
   qty: 2
   unit: EL
   category: Gewürze
 - de_name: Weißer Pfeffer (gemahlen)
-  en_name: 'TODO: Weißer Pfeffer (gemahlen)'
+  en_name: ground white pepper
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Togarashi
-  en_name: 'TODO: Togarashi'
+  en_name: togarashi
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Hähnchenbrust in kleine Würfel (1 cm) schneiden, mit Sake, 1 EL Sojasoße und Pfeffer 15 Minuten marinieren.
-- |-
-  Zwiebel fein würfeln, Knoblauch und Ingwer fein hacken, Frühlingszwiebeln in Ringe schneiden.
-- |-
-  Wok auf höchster Stufe stark erhitzen. 2 EL Pflanzenöl hineingeben, Hähnchen scharf 4 Minuten anbraten. Herausnehmen.
-- |-
-  Restliches Öl in den Wok, Zwiebeln, Knoblauch und Ingwer 2 Minuten anbraten. Kalten Reis dazugeben und bei maximaler Hitze 3–4 Minuten unter ständigem Rühren braten.
-- |-
-  Reis an den Rand schieben, Eier in die Mitte schlagen, sofort rühren bis sie cremig gestockt sind, dann mit dem Reis vermischen.
-- |-
-  Hähnchen zurückgeben. Restliche Sojasoße, Austernsauce und Sesamöl einrühren. 1–2 Minuten alles vermengen.
+- Hähnchenbrust in kleine Würfel (1 cm) schneiden, mit Sake, 1 EL Sojasoße und Pfeffer
+  15 Minuten marinieren.
+- Zwiebel fein würfeln, Knoblauch und Ingwer fein hacken, Frühlingszwiebeln in Ringe
+  schneiden.
+- Wok auf höchster Stufe stark erhitzen. 2 EL Pflanzenöl hineingeben, Hähnchen scharf
+  4 Minuten anbraten. Herausnehmen.
+- Restliches Öl in den Wok, Zwiebeln, Knoblauch und Ingwer 2 Minuten anbraten. Kalten
+  Reis dazugeben und bei maximaler Hitze 3–4 Minuten unter ständigem Rühren braten.
+- Reis an den Rand schieben, Eier in die Mitte schlagen, sofort rühren bis sie cremig
+  gestockt sind, dann mit dem Reis vermischen.
+- Hähnchen zurückgeben. Restliche Sojasoße, Austernsauce und Sesamöl einrühren. 1–2
+  Minuten alles vermengen.
 - Auf Teller geben, mit Frühlingszwiebeln, Sesamkörnern und Togarashi bestreuen.
 en_steps:
-- |-
-  TODO: Hähnchenbrust in kleine Würfel (1 cm) schneiden, mit Sake, 1 EL Sojasoße und Pfeffer 15 Minuten marinieren.
-- |-
-  TODO: Zwiebel fein würfeln, Knoblauch und Ingwer fein hacken, Frühlingszwiebeln in Ringe schneiden.
-- |-
-  TODO: Wok auf höchster Stufe stark erhitzen. 2 EL Pflanzenöl hineingeben, Hähnchen scharf 4 Minuten anbraten. Herausnehmen.
-- |-
-  TODO: Restliches Öl in den Wok, Zwiebeln, Knoblauch und Ingwer 2 Minuten anbraten. Kalten Reis dazugeben und bei maximaler Hitze 3–4 Minuten unter ständigem Rühren braten.
-- |-
-  TODO: Reis an den Rand schieben, Eier in die Mitte schlagen, sofort rühren bis sie cremig gestockt sind, dann mit dem Reis vermischen.
-- |-
-  TODO: Hähnchen zurückgeben. Restliche Sojasoße, Austernsauce und Sesamöl einrühren. 1–2 Minuten alles vermengen.
-- |-
-  TODO: Auf Teller geben, mit Frühlingszwiebeln, Sesamkörnern und Togarashi bestreuen.
+- Cut chicken breast into small cubes (1 cm); marinate with sake, 1 tbsp soy sauce,
+  and pepper for 15 minutes.
+- Finely dice the onion; finely chop garlic and ginger; slice spring onions into rings.
+- Heat a wok on the highest setting. Add 2 tbsp vegetable oil, sear chicken over high
+  heat for 4 minutes. Remove.
+- Add the remaining oil to the wok; fry onions, garlic, and ginger for 2 minutes.
+  Add cold rice and stir-fry at maximum heat for 3–4 minutes, stirring constantly.
+- Push rice to the sides, crack eggs into the centre, stir immediately until softly
+  scrambled, then mix with the rice.
+- Return chicken. Stir in the remaining soy sauce, oyster sauce, and sesame oil. Toss
+  everything together for 1–2 minutes.
+- Plate up and sprinkle with spring onions, sesame seeds, and togarashi.

@@ -6,116 +6,119 @@ next_day: true
 meals: 2
 de:
   title: Persisches Ghormeh Sabzi – Kräuter-Lamm-Eintopf
-  summary: |-
-    Persischer Nationalstolz: ein tiefaromatischer Lammeintopf mit Mengen an gebratenen Kräutern, getrockneten Limetten und roten Bohnen.
+  summary: 'Persischer Nationalstolz: ein tiefaromatischer Lammeintopf mit Mengen
+    an gebratenen Kräutern, getrockneten Limetten und roten Bohnen.'
 en:
-  title: 'TODO: Persisches Ghormeh Sabzi – Kräuter-Lamm-Eintopf'
-  summary: |-
-    TODO: Persischer Nationalstolz: ein tiefaromatischer Lammeintopf mit Mengen an gebratenen Kräutern, getrockneten Limetten und roten Bohnen.
+  title: Ghormeh Sabzi – Persian Herb & Lamb Stew
+  summary: 'Iran''s national pride: a deeply aromatic lamb stew with copious fried
+    herbs, dried limes, and red kidney beans.'
 ingredients:
 - de_name: Lammfleisch, Schulter gewürfelt
-  en_name: 'TODO: Lammfleisch, Schulter gewürfelt'
+  en_name: Lamb shoulder, diced
   qty: 600
   unit: g
   category: Protein und Milchprodukte
 - de_name: Rote Kidneybohnen, gekocht
-  en_name: 'TODO: Rote Kidneybohnen, gekocht'
+  en_name: Red kidney beans (canned, cooked)
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Getrocknete Limetten (Loomi)
-  en_name: 'TODO: Getrocknete Limetten (Loomi)'
+  en_name: Dried limes (loomi)
   qty: 4
   unit: Stk
   category: Gewürze
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 4
   unit: EL
   category: Konserven und Vorrat
 - de_name: Hühner- oder Rinderbrühe
-  en_name: 'TODO: Hühner- oder Rinderbrühe'
+  en_name: Chicken or beef stock
   qty: 500
   unit: ml
   category: Konserven und Vorrat
 - de_name: Zwiebeln
-  en_name: 'TODO: Zwiebeln'
+  en_name: Onions
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: Garlic cloves
   qty: 3
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Frische Petersilie
-  en_name: 'TODO: Frische Petersilie'
+  en_name: Fresh flat-leaf parsley
   qty: 2
   unit: Bund
   category: Gemüse und Salat
 - de_name: Frischer Koriander
-  en_name: 'TODO: Frischer Koriander'
+  en_name: Fresh coriander
   qty: 1
   unit: Bund
   category: Gemüse und Salat
 - de_name: Frischer Schnittlauch oder Frühlingszwiebeln
-  en_name: 'TODO: Frischer Schnittlauch oder Frühlingszwiebeln'
+  en_name: Fresh chives or spring onions
   qty: 1
   unit: Bund
   category: Gemüse und Salat
 - de_name: Spinat, frisch
-  en_name: 'TODO: Spinat, frisch'
+  en_name: Fresh spinach
   qty: 100
   unit: g
   category: Gemüse und Salat
 - de_name: Basmatireis
-  en_name: 'TODO: Basmatireis'
+  en_name: Basmati rice
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Kurkuma
-  en_name: 'TODO: Kurkuma'
+  en_name: Turmeric
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Kreuzkümmel, gemahlen
-  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  en_name: Ground cumin
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: Salt
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: Black pepper
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Petersilie, Koriander, Schnittlauch und Spinat fein hacken. In 2 EL Olivenöl bei mittlerer Hitze 20–25 Minuten unter ständigem Rühren braten, bis die Kräuter sehr dunkelgrün, fast schwarz, getrocknet und intensiv duften. Beiseitestellen.
-- |-
-  Getrocknete Limetten mehrfach einstechen. Zwiebeln fein würfeln und in 2 EL Olivenöl goldbraun braten. Knoblauch einrühren.
-- |-
-  Lammfleisch hinzufügen, mit Kurkuma, Kreuzkümmel, Salz und Pfeffer würzen. Von allen Seiten anbraten.
-- |-
-  Brühe angießen, eingestochene Limetten dazulegen. Aufkochen, dann bei niedriger Hitze abgedeckt 1 Stunde köcheln.
-- |-
-  Gebratene Kräuter und abgetropfte Kidneybohnen einrühren. Weitere 30–45 Minuten köcheln, bis das Fleisch zart ist und die Sauce intensiv schmeckt. Mit Salz und Pfeffer abschmecken.
-- |-
-  Basmatireis separat garen. Ghormeh Sabzi mit dem Reis servieren – der Eintopf soll tief dunkelgrün und kräftig im Aroma sein.
+- Petersilie, Koriander, Schnittlauch und Spinat fein hacken. In 2 EL Olivenöl bei
+  mittlerer Hitze 20–25 Minuten unter ständigem Rühren braten, bis die Kräuter sehr
+  dunkelgrün, fast schwarz, getrocknet und intensiv duften. Beiseitestellen.
+- Getrocknete Limetten mehrfach einstechen. Zwiebeln fein würfeln und in 2 EL Olivenöl
+  goldbraun braten. Knoblauch einrühren.
+- Lammfleisch hinzufügen, mit Kurkuma, Kreuzkümmel, Salz und Pfeffer würzen. Von allen
+  Seiten anbraten.
+- Brühe angießen, eingestochene Limetten dazulegen. Aufkochen, dann bei niedriger
+  Hitze abgedeckt 1 Stunde köcheln.
+- Gebratene Kräuter und abgetropfte Kidneybohnen einrühren. Weitere 30–45 Minuten
+  köcheln, bis das Fleisch zart ist und die Sauce intensiv schmeckt. Mit Salz und
+  Pfeffer abschmecken.
+- Basmatireis separat garen. Ghormeh Sabzi mit dem Reis servieren – der Eintopf soll
+  tief dunkelgrün und kräftig im Aroma sein.
 en_steps:
-- |-
-  TODO: Petersilie, Koriander, Schnittlauch und Spinat fein hacken. In 2 EL Olivenöl bei mittlerer Hitze 20–25 Minuten unter ständigem Rühren braten, bis die Kräuter sehr dunkelgrün, fast schwarz, getrocknet und intensiv duften. Beiseitestellen.
-- |-
-  TODO: Getrocknete Limetten mehrfach einstechen. Zwiebeln fein würfeln und in 2 EL Olivenöl goldbraun braten. Knoblauch einrühren.
-- |-
-  TODO: Lammfleisch hinzufügen, mit Kurkuma, Kreuzkümmel, Salz und Pfeffer würzen. Von allen Seiten anbraten.
-- |-
-  TODO: Brühe angießen, eingestochene Limetten dazulegen. Aufkochen, dann bei niedriger Hitze abgedeckt 1 Stunde köcheln.
-- |-
-  TODO: Gebratene Kräuter und abgetropfte Kidneybohnen einrühren. Weitere 30–45 Minuten köcheln, bis das Fleisch zart ist und die Sauce intensiv schmeckt. Mit Salz und Pfeffer abschmecken.
-- |-
-  TODO: Basmatireis separat garen. Ghormeh Sabzi mit dem Reis servieren – der Eintopf soll tief dunkelgrün und kräftig im Aroma sein.
+- Finely chop the parsley, coriander, chives, and spinach. Fry in 2 tbsp olive oil
+  over medium heat for 20–25 minutes, stirring constantly, until the herbs are very
+  dark green, almost black, dried out, and intensely fragrant. Set aside.
+- Pierce the dried limes several times. Finely dice the onions and fry in 2 tbsp olive
+  oil until golden. Stir in the garlic.
+- Add the lamb, season with turmeric, cumin, salt, and pepper. Brown on all sides.
+- Pour in the stock and add the pierced limes. Bring to a boil, then simmer covered
+  over low heat for 1 hour.
+- Stir in the fried herbs and drained kidney beans. Continue simmering for a further
+  30–45 minutes until the meat is tender and the sauce is intensely flavoured. Season
+  with salt and pepper.
+- Cook the basmati rice separately. Serve Ghormeh Sabzi with the rice — the stew should
+  be deep dark green and richly aromatic.

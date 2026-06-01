@@ -7,85 +7,83 @@ quick_minutes: 25
 meals: 2
 de:
   title: Schneller Erbsen-Minze-Risotto
-  summary: |-
-    Frischer Frühlings-Risotto mit TK-Erbsen, Minze und Parmesan — cremig in 25 Minuten.
+  summary: Frischer Frühlings-Risotto mit TK-Erbsen, Minze und Parmesan — cremig in
+    25 Minuten.
 en:
-  title: 'TODO: Schneller Erbsen-Minze-Risotto'
-  summary: |-
-    TODO: Frischer Frühlings-Risotto mit TK-Erbsen, Minze und Parmesan — cremig in 25 Minuten.
+  title: Quick Pea and Mint Risotto
+  summary: A fresh, spring-inspired Risotto with frozen peas, mint, and Parmesan —
+    creamy and ready in 25 minutes.
 ingredients:
 - de_name: Risotto-Reis (Arborio)
-  en_name: 'TODO: Risotto-Reis (Arborio)'
+  en_name: Risotto rice (Arborio)
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: TK-Erbsen
-  en_name: 'TODO: TK-Erbsen'
+  en_name: Frozen peas
   qty: 300
   unit: g
   category: Gemüse und Salat
 - de_name: Frische Minze
-  en_name: 'TODO: Frische Minze'
+  en_name: Fresh mint
   qty: 0.5
   unit: Bund
   category: Gemüse und Salat
 - de_name: Schalotten
-  en_name: 'TODO: Schalotten'
+  en_name: Shallots
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: Garlic cloves
   qty: 2
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Parmesan, frisch gerieben
-  en_name: 'TODO: Parmesan, frisch gerieben'
+  en_name: Parmesan, freshly grated
   qty: 80
   unit: g
   category: Protein und Milchprodukte
 - de_name: Butter
-  en_name: 'TODO: Butter'
+  en_name: Butter
   qty: 40
   unit: g
   category: Protein und Milchprodukte
 - de_name: Weißwein
-  en_name: 'TODO: Weißwein'
+  en_name: White wine
   qty: 150
   unit: ml
   category: Konserven und Vorrat
 - de_name: Gemüsebrühe, heiß
-  en_name: 'TODO: Gemüsebrühe, heiß'
+  en_name: Vegetable broth, hot
   qty: 1
   unit: Liter
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Salz und weißer Pfeffer
-  en_name: 'TODO: Salz und weißer Pfeffer'
+  en_name: Salt and white pepper
   qty: 1
   unit: Stk
   category: Gewürze
 de_steps:
-- |-
-  Brühe in einem separaten Topf heiß halten. Schalotten und Knoblauch fein würfeln.
-- |-
-  Olivenöl und die Hälfte der Butter in einem breiten Topf erhitzen. Schalotten und Knoblauch 2 Minuten dünsten. Reis hinzufügen und 2 Minuten glasig rühren.
+- Brühe in einem separaten Topf heiß halten. Schalotten und Knoblauch fein würfeln.
+- Olivenöl und die Hälfte der Butter in einem breiten Topf erhitzen. Schalotten und
+  Knoblauch 2 Minuten dünsten. Reis hinzufügen und 2 Minuten glasig rühren.
 - Mit Weißwein ablöschen und unter Rühren einkochen lassen.
-- |-
-  Kellenschöpfweise heiße Brühe hinzufügen und jeweils unter ständigem Rühren einarbeiten. Diesen Vorgang ca. 18 Minuten wiederholen, bis der Reis al dente ist.
-- |-
-  TK-Erbsen in den letzten 3 Minuten unterheben. Vom Herd nehmen, restliche Butter und Parmesan einrühren. Gehackte Minze untermengen und sofort servieren.
+- Kellenschöpfweise heiße Brühe hinzufügen und jeweils unter ständigem Rühren einarbeiten.
+  Diesen Vorgang ca. 18 Minuten wiederholen, bis der Reis al dente ist.
+- TK-Erbsen in den letzten 3 Minuten unterheben. Vom Herd nehmen, restliche Butter
+  und Parmesan einrühren. Gehackte Minze untermengen und sofort servieren.
 en_steps:
-- |-
-  TODO: Brühe in einem separaten Topf heiß halten. Schalotten und Knoblauch fein würfeln.
-- |-
-  TODO: Olivenöl und die Hälfte der Butter in einem breiten Topf erhitzen. Schalotten und Knoblauch 2 Minuten dünsten. Reis hinzufügen und 2 Minuten glasig rühren.
-- 'TODO: Mit Weißwein ablöschen und unter Rühren einkochen lassen.'
-- |-
-  TODO: Kellenschöpfweise heiße Brühe hinzufügen und jeweils unter ständigem Rühren einarbeiten. Diesen Vorgang ca. 18 Minuten wiederholen, bis der Reis al dente ist.
-- |-
-  TODO: TK-Erbsen in den letzten 3 Minuten unterheben. Vom Herd nehmen, restliche Butter und Parmesan einrühren. Gehackte Minze untermengen und sofort servieren.
+- Keep the broth warm in a separate saucepan. Finely dice the shallots and garlic.
+- Heat the olive oil and half the butter in a wide pot. Sauté the shallots and garlic
+  for 2 minutes. Add the rice and stir for 2 minutes until translucent.
+- Deglaze with the white wine and stir until absorbed.
+- Add the hot broth one ladle at a time, stirring constantly after each addition.
+  Repeat for about 18 minutes until the rice is al dente.
+- Stir in the frozen peas during the last 3 minutes. Remove from the heat and stir
+  in the remaining butter and Parmesan. Fold in the chopped mint and serve immediately.

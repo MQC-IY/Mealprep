@@ -6,96 +6,98 @@ next_day: true
 meals: 3
 de:
   title: Äthiopisches Hähnchen-Doro Wat
-  summary: |-
-    Äthiopiens Nationalgericht: Hähnchen in einer intensiven, tiefroten Berbere-Chili-Sauce mit karamellisierten Zwiebeln, Niter Kibbeh und hartgekochten Eiern.
+  summary: 'Äthiopiens Nationalgericht: Hähnchen in einer intensiven, tiefroten Berbere-Chili-Sauce
+    mit karamellisierten Zwiebeln, Niter Kibbeh und hartgekochten Eiern.'
 en:
-  title: 'TODO: Äthiopisches Hähnchen-Doro Wat'
-  summary: |-
-    TODO: Äthiopiens Nationalgericht: Hähnchen in einer intensiven, tiefroten Berbere-Chili-Sauce mit karamellisierten Zwiebeln, Niter Kibbeh und hartgekochten Eiern.
+  title: Ethiopian Chicken Doro Wat
+  summary: 'Ethiopia''s national dish: chicken in an intensely deep-red berbere sauce
+    with caramelised onions, niter kibbeh, and hard-boiled eggs.'
 ingredients:
 - de_name: Hähnchenstücke mit Knochen
-  en_name: 'TODO: Hähnchenstücke mit Knochen'
+  en_name: bone-in chicken pieces
   qty: 1200
   unit: g
   category: Protein und Milchprodukte
 - de_name: Eier
-  en_name: 'TODO: Eier'
+  en_name: eggs
   qty: 6
   unit: Stk
   category: Protein und Milchprodukte
 - de_name: Niter Kibbeh oder geklärte Butter
-  en_name: 'TODO: Niter Kibbeh oder geklärte Butter'
+  en_name: niter kibbeh or clarified butter
   qty: 60
   unit: g
   category: Protein und Milchprodukte
 - de_name: Rote Zwiebel
-  en_name: 'TODO: Rote Zwiebel'
+  en_name: red onions
   qty: 4
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 6
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Ingwer, frisch
-  en_name: 'TODO: Ingwer, frisch'
+  en_name: fresh ginger
   qty: 40
   unit: g
   category: Gemüse und Salat
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: chicken stock
   qty: 300
   unit: ml
   category: Konserven und Vorrat
 - de_name: Tomatenmark
-  en_name: 'TODO: Tomatenmark'
+  en_name: tomato paste
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Berbere-Gewürzmischung
-  en_name: 'TODO: Berbere-Gewürzmischung'
+  en_name: berbere spice blend
   qty: 5
   unit: EL
   category: Gewürze
 - de_name: Kreuzkümmel, gemahlen
-  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  en_name: cumin, ground
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Kardamom, gemahlen
-  en_name: 'TODO: Kardamom, gemahlen'
+  en_name: cardamom, ground
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Kurkuma
-  en_name: 'TODO: Kurkuma'
+  en_name: turmeric
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Hähnchenstücke mit etwas Zitronensaft und Salz einreiben und 15 Minuten ziehen lassen.
-- |-
-  Rote Zwiebeln sehr fein würfeln. Niter Kibbeh in einem schweren Topf bei mittlerer Hitze schmelzen. Zwiebeln zugeben und unter gelegentlichem Rühren 20–25 Minuten karamellisieren, bis sie sehr dunkelbraun und süßlich sind.
+- Hähnchenstücke mit etwas Zitronensaft und Salz einreiben und 15 Minuten ziehen lassen.
+- Rote Zwiebeln sehr fein würfeln. Niter Kibbeh in einem schweren Topf bei mittlerer
+  Hitze schmelzen. Zwiebeln zugeben und unter gelegentlichem Rühren 20–25 Minuten
+  karamellisieren, bis sie sehr dunkelbraun und süßlich sind.
 - Knoblauch und Ingwer reiben, zugeben und 2 Minuten mitrösten.
-- |-
-  Berbere-Gewürzmischung, Kreuzkümmel, Kardamom und Kurkuma einrühren und 2 Minuten bei niedriger Hitze trocken rösten.
+- Berbere-Gewürzmischung, Kreuzkümmel, Kardamom und Kurkuma einrühren und 2 Minuten
+  bei niedriger Hitze trocken rösten.
 - Tomatenmark einrühren, 1 Minute mitrösten. Hühnerbrühe zugeben, aufkochen.
-- |-
-  Hähnchenstücke in die Sauce legen, Deckel drauf und 35–40 Minuten bei niedriger Hitze schmoren.
-- |-
-  Eier hartkochen, schälen und rundum mit einer Gabel einstechen damit die Sauce einziehen kann. Die letzten 10 Minuten mitköcheln. Mit Injera oder Fladenbrot servieren.
+- Hähnchenstücke in die Sauce legen, Deckel drauf und 35–40 Minuten bei niedriger
+  Hitze schmoren.
+- Eier hartkochen, schälen und rundum mit einer Gabel einstechen damit die Sauce einziehen
+  kann. Die letzten 10 Minuten mitköcheln. Mit Injera oder Fladenbrot servieren.
 en_steps:
-- |-
-  TODO: Hähnchenstücke mit etwas Zitronensaft und Salz einreiben und 15 Minuten ziehen lassen.
-- |-
-  TODO: Rote Zwiebeln sehr fein würfeln. Niter Kibbeh in einem schweren Topf bei mittlerer Hitze schmelzen. Zwiebeln zugeben und unter gelegentlichem Rühren 20–25 Minuten karamellisieren, bis sie sehr dunkelbraun und süßlich sind.
-- 'TODO: Knoblauch und Ingwer reiben, zugeben und 2 Minuten mitrösten.'
-- |-
-  TODO: Berbere-Gewürzmischung, Kreuzkümmel, Kardamom und Kurkuma einrühren und 2 Minuten bei niedriger Hitze trocken rösten.
-- 'TODO: Tomatenmark einrühren, 1 Minute mitrösten. Hühnerbrühe zugeben, aufkochen.'
-- |-
-  TODO: Hähnchenstücke in die Sauce legen, Deckel drauf und 35–40 Minuten bei niedriger Hitze schmoren.
-- |-
-  TODO: Eier hartkochen, schälen und rundum mit einer Gabel einstechen damit die Sauce einziehen kann. Die letzten 10 Minuten mitköcheln. Mit Injera oder Fladenbrot servieren.
+- Rub the chicken pieces with a little lemon juice and salt; leave to stand for 15
+  minutes.
+- Very finely dice the red onions. Melt the niter kibbeh in a heavy pot over medium
+  heat. Add the onions and caramelise, stirring occasionally, for 20–25 minutes until
+  very dark brown and sweet.
+- Grate the garlic and ginger; add to the pot and stir-fry for 2 minutes.
+- Stir in the berbere spice blend, cumin, cardamom, and turmeric; toast over low heat
+  for 2 minutes.
+- Stir in the tomato paste and cook for 1 minute. Add the chicken stock and bring
+  to a boil.
+- Nestle the chicken pieces in the sauce, cover, and braise over low heat for 35–40
+  minutes.
+- Hard-boil the eggs, peel, and prick all over with a fork so the sauce can penetrate.
+  Add for the last 10 minutes of simmering. Serve with injera or flatbread.

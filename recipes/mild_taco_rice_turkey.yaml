@@ -7,114 +7,112 @@ quick_minutes: 25
 meals: 3
 de:
   title: Taco-Reis-Pfanne mit Pute
-  summary: |-
-    Mexikanisch gewürzte Reispfanne mit Putenhack, Kidneybohnen und Mais – mit Kreuzkümmel, Chili, geräuchertem Paprika und einem Spritzer Limette.
+  summary: Mexikanisch gewürzte Reispfanne mit Putenhack, Kidneybohnen und Mais –
+    mit Kreuzkümmel, Chili, geräuchertem Paprika und einem Spritzer Limette.
 en:
-  title: 'TODO: Taco-Reis-Pfanne mit Pute'
-  summary: |-
-    TODO: Mexikanisch gewürzte Reispfanne mit Putenhack, Kidneybohnen und Mais – mit Kreuzkümmel, Chili, geräuchertem Paprika und einem Spritzer Limette.
+  title: Taco Rice Skillet with Turkey
+  summary: A Mexican-spiced rice skillet with ground turkey, kidney beans, and corn
+    — seasoned with cumin, chili, smoked paprika, and a squeeze of lime.
 ingredients:
 - de_name: Putenhack
-  en_name: 'TODO: Putenhack'
+  en_name: Ground turkey
   qty: 650
   unit: g
   category: Protein und Milchprodukte
 - de_name: Reis
-  en_name: 'TODO: Reis'
+  en_name: Rice
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Kidneybohnen
-  en_name: 'TODO: Kidneybohnen'
+  en_name: Kidney beans
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Mais
-  en_name: 'TODO: Mais'
+  en_name: Corn
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Passierte Tomaten
-  en_name: 'TODO: Passierte Tomaten'
+  en_name: Strained tomatoes (passata)
   qty: 1
   unit: Glas
   category: Konserven und Vorrat
 - de_name: Tomatenmark
-  en_name: 'TODO: Tomatenmark'
+  en_name: Tomato paste
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: Onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: Garlic
   qty: 3
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Limette
-  en_name: 'TODO: Limette'
+  en_name: Lime
   qty: 1
   unit: Stk
   category: Obst
 - de_name: Rapsöl
-  en_name: 'TODO: Rapsöl'
+  en_name: Rapeseed oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Kreuzkümmel, gemahlen
-  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  en_name: Ground cumin
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Paprika geräuchert
-  en_name: 'TODO: Paprika geräuchert'
+  en_name: Smoked paprika
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Paprika edelsüß
-  en_name: 'TODO: Paprika edelsüß'
+  en_name: Sweet paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chili flakes
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Koriander, gemahlen
-  en_name: 'TODO: Koriander, gemahlen'
+  en_name: Ground coriander
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Oregano, getrocknet
-  en_name: 'TODO: Oregano, getrocknet'
+  en_name: Dried oregano
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
 - Reis garen.
-- |-
-  Zwiebel und Knoblauch fein würfeln. In Rapsöl bei hoher Hitze anbraten, bis die Zwiebel goldbraun ist.
-- |-
-  Putenhack zugeben und kräftig anbraten, bis es braune Röstaromen entwickelt und nicht mehr roh aussieht.
-- |-
-  Tomatenmark einrühren und 2 Minuten mitrösten. Kreuzkümmel, geräucherten Paprika, Paprika edelsüß, Chiliflocken, Koriander und Oregano einrühren und 1 Minute rösten.
-- |-
-  Passierte Tomaten, Kidneybohnen und Mais zugeben. 10 bis 15 Minuten bei mittlerer Hitze einköcheln lassen.
-- |-
-  Reis unterheben. Mit Limettensaft, Salz und Pfeffer abschmecken. Nach Belieben mit Sauerrahm, Käse oder Avocado servieren.
+- Zwiebel und Knoblauch fein würfeln. In Rapsöl bei hoher Hitze anbraten, bis die
+  Zwiebel goldbraun ist.
+- Putenhack zugeben und kräftig anbraten, bis es braune Röstaromen entwickelt und
+  nicht mehr roh aussieht.
+- Tomatenmark einrühren und 2 Minuten mitrösten. Kreuzkümmel, geräucherten Paprika,
+  Paprika edelsüß, Chiliflocken, Koriander und Oregano einrühren und 1 Minute rösten.
+- Passierte Tomaten, Kidneybohnen und Mais zugeben. 10 bis 15 Minuten bei mittlerer
+  Hitze einköcheln lassen.
+- Reis unterheben. Mit Limettensaft, Salz und Pfeffer abschmecken. Nach Belieben mit
+  Sauerrahm, Käse oder Avocado servieren.
 en_steps:
-- 'TODO: Reis garen.'
-- |-
-  TODO: Zwiebel und Knoblauch fein würfeln. In Rapsöl bei hoher Hitze anbraten, bis die Zwiebel goldbraun ist.
-- |-
-  TODO: Putenhack zugeben und kräftig anbraten, bis es braune Röstaromen entwickelt und nicht mehr roh aussieht.
-- |-
-  TODO: Tomatenmark einrühren und 2 Minuten mitrösten. Kreuzkümmel, geräucherten Paprika, Paprika edelsüß, Chiliflocken, Koriander und Oregano einrühren und 1 Minute rösten.
-- |-
-  TODO: Passierte Tomaten, Kidneybohnen und Mais zugeben. 10 bis 15 Minuten bei mittlerer Hitze einköcheln lassen.
-- |-
-  TODO: Reis unterheben. Mit Limettensaft, Salz und Pfeffer abschmecken. Nach Belieben mit Sauerrahm, Käse oder Avocado servieren.
+- Cook the rice.
+- Finely dice the onion and garlic. Sauté in rapeseed oil over high heat until the
+  onion is golden.
+- Add the ground turkey and fry vigorously until nicely browned and no longer raw.
+- Stir in the tomato paste and toast for 2 minutes. Stir in the cumin, smoked paprika,
+  sweet paprika, chili flakes, coriander, and oregano; toast for 1 minute.
+- Add the passata, kidney beans, and corn. Simmer over medium heat for 10–15 minutes.
+- Fold in the rice. Season with lime juice, salt, and pepper. Serve with sour cream,
+  cheese, or avocado as desired.

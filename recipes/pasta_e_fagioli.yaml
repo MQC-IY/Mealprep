@@ -6,115 +6,114 @@ next_day: true
 meals: 2
 de:
   title: Pasta e Fagioli – Pasta-Bohnen-Eintopf
-  summary: |-
-    Neapolitanischer Pasta-Bohnen-Eintopf – cremig, herzhaft und mit Peperoncino und Rosmarin aromatisch gewürzt.
+  summary: Neapolitanischer Pasta-Bohnen-Eintopf – cremig, herzhaft und mit Peperoncino
+    und Rosmarin aromatisch gewürzt.
 en:
-  title: 'TODO: Pasta e Fagioli – Pasta-Bohnen-Eintopf'
-  summary: |-
-    TODO: Neapolitanischer Pasta-Bohnen-Eintopf – cremig, herzhaft und mit Peperoncino und Rosmarin aromatisch gewürzt.
+  title: Pasta e Fagioli – Pasta and Bean Soup
+  summary: Neapolitan pasta and bean soup – creamy, hearty and beautifully seasoned
+    with peperoncino and rosemary.
 ingredients:
 - de_name: Borlotti-Bohnen aus der Dose
-  en_name: 'TODO: Borlotti-Bohnen aus der Dose'
+  en_name: canned borlotti beans
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Kleine Pasta (Ditalini oder Tubetti)
-  en_name: 'TODO: Kleine Pasta (Ditalini oder Tubetti)'
+  en_name: small pasta (ditalini or tubetti)
   qty: 200
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Pancetta gewürfelt
-  en_name: 'TODO: Pancetta gewürfelt'
+  en_name: pancetta, diced
   qty: 80
   unit: g
   category: Protein und Milchprodukte
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 3
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Staudensellerie
-  en_name: 'TODO: Staudensellerie'
+  en_name: celery stalk
   qty: 1
   unit: Stange
   category: Gemüse und Salat
 - de_name: Karotte
-  en_name: 'TODO: Karotte'
+  en_name: carrot
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Tomatenmark
-  en_name: 'TODO: Tomatenmark'
+  en_name: tomato paste
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Gemüsebrühe
-  en_name: 'TODO: Gemüsebrühe'
+  en_name: vegetable stock
   qty: 700
   unit: ml
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Frischer Rosmarin
-  en_name: 'TODO: Frischer Rosmarin'
+  en_name: fresh rosemary
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Peperoncino gemahlen
-  en_name: 'TODO: Peperoncino gemahlen'
+  en_name: ground peperoncino
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Parmesan gerieben
-  en_name: 'TODO: Parmesan gerieben'
+  en_name: grated Parmesan
   qty: 30
   unit: g
   category: Protein und Milchprodukte
 de_steps:
 - Zwiebel, Sellerie und Karotte fein würfeln. Knoblauch hacken.
-- |-
-  Olivenöl in einem schweren Topf erhitzen. Pancetta darin bei mittlerer Hitze 3–4 Minuten auslassen, bis er leicht knusprig ist.
-- |-
-  Zwiebel, Sellerie und Karotte dazugeben, 6 Minuten anschwitzen. Knoblauch und Peperoncino einrühren, 1 Minute weiterbraten.
+- Olivenöl in einem schweren Topf erhitzen. Pancetta darin bei mittlerer Hitze 3–4
+  Minuten auslassen, bis er leicht knusprig ist.
+- Zwiebel, Sellerie und Karotte dazugeben, 6 Minuten anschwitzen. Knoblauch und Peperoncino
+  einrühren, 1 Minute weiterbraten.
 - Tomatenmark einrühren und kurz rösten. Die Hälfte der Bohnen hinzufügen.
-- |-
-  Mit Gemüsebrühe aufgießen, Rosmarinzweig einlegen. 20 Minuten bei niedriger Hitze köcheln.
-- |-
-  Rosmarinzweig entfernen. Einen Teil der Suppe mit dem Stabmixer pürieren, um eine cremige Basis zu erhalten. Restliche Bohnen einrühren.
-- |-
-  Pasta direkt in die Suppe geben und nach Packungsangabe gar kochen. Bei Bedarf etwas Brühe nachgießen.
-- |-
-  Mit Salz und Pfeffer abschmecken, mit Parmesan und einem Schuss Olivenöl anrichten.
+- Mit Gemüsebrühe aufgießen, Rosmarinzweig einlegen. 20 Minuten bei niedriger Hitze
+  köcheln.
+- Rosmarinzweig entfernen. Einen Teil der Suppe mit dem Stabmixer pürieren, um eine
+  cremige Basis zu erhalten. Restliche Bohnen einrühren.
+- Pasta direkt in die Suppe geben und nach Packungsangabe gar kochen. Bei Bedarf etwas
+  Brühe nachgießen.
+- Mit Salz und Pfeffer abschmecken, mit Parmesan und einem Schuss Olivenöl anrichten.
 en_steps:
-- 'TODO: Zwiebel, Sellerie und Karotte fein würfeln. Knoblauch hacken.'
-- |-
-  TODO: Olivenöl in einem schweren Topf erhitzen. Pancetta darin bei mittlerer Hitze 3–4 Minuten auslassen, bis er leicht knusprig ist.
-- |-
-  TODO: Zwiebel, Sellerie und Karotte dazugeben, 6 Minuten anschwitzen. Knoblauch und Peperoncino einrühren, 1 Minute weiterbraten.
-- 'TODO: Tomatenmark einrühren und kurz rösten. Die Hälfte der Bohnen hinzufügen.'
-- |-
-  TODO: Mit Gemüsebrühe aufgießen, Rosmarinzweig einlegen. 20 Minuten bei niedriger Hitze köcheln.
-- |-
-  TODO: Rosmarinzweig entfernen. Einen Teil der Suppe mit dem Stabmixer pürieren, um eine cremige Basis zu erhalten. Restliche Bohnen einrühren.
-- |-
-  TODO: Pasta direkt in die Suppe geben und nach Packungsangabe gar kochen. Bei Bedarf etwas Brühe nachgießen.
-- |-
-  TODO: Mit Salz und Pfeffer abschmecken, mit Parmesan und einem Schuss Olivenöl anrichten.
+- Finely dice the onion, celery and carrot. Chop the garlic.
+- Heat the olive oil in a heavy pot. Render the pancetta over medium heat for 3–4
+  minutes until lightly crisp.
+- Add the onion, celery and carrot; sweat for 6 minutes. Stir in the garlic and peperoncino
+  and cook for 1 more minute.
+- Stir in the tomato paste and briefly toast. Add half the beans.
+- Pour in the vegetable stock and add the rosemary sprig. Simmer over low heat for
+  20 minutes.
+- Remove the rosemary sprig. Blend part of the soup with a stick blender to create
+  a creamy base. Stir in the remaining beans.
+- Add the pasta directly to the soup and cook until done according to the packet instructions.
+  Add a little more stock if needed.
+- Season with salt and pepper, then serve with a drizzle of olive oil and a sprinkle
+  of Parmesan.

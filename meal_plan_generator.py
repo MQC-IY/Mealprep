@@ -1646,10 +1646,32 @@ if __name__ == "__main__":
         metavar="N",
         help="Anzahl der Folgewochen für --json (Standard: 3).",
     )
+    parser.add_argument(
+        "--force",
+        action="store_true",
+        help="Lokale Ausführung von --json erzwingen (überschreibt Schutzsperre).",
+    )
     args = parser.parse_args()
     if args.pool_report:
         print(format_lunch_pool_report())
     elif args.json:
+        import os
+        if not os.environ.get("CI") and not args.force:
+            print()
+            print("╔══════════════════════════════════════════════════════════════════╗")
+            print("║  STOP: --json darf lokal NICHT ausgeführt werden!               ║")
+            print("║                                                                  ║")
+            print("║  Dieser Befehl generiert NEUE zufällige Gerichte und            ║")
+            print("║  überschreibt weeks.json — der aktuelle Wochenplan geht         ║")
+            print("║  unwiederbringlich verloren.                                     ║")
+            print("║                                                                  ║")
+            print("║  Erlaubte Wege:                                                  ║")
+            print("║    • GitHub Actions (läuft automatisch jeden Montag 09:00)       ║")
+            print("║    • Lokaler Notfall: python3 meal_plan_generator.py             ║")
+            print("║                       --json --force                             ║")
+            print("╚══════════════════════════════════════════════════════════════════╝")
+            print()
+            raise SystemExit(1)
         out = export_weeks_json(weeks_ahead=args.weeks_ahead)
         print(f"weeks.json geschrieben: {out}")
     elif args.variant == "all":

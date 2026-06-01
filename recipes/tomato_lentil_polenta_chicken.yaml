@@ -9,42 +9,42 @@ de:
   title: Polenta mit Tomaten-Linsen-Hähnchen
   summary: Schnelles Gericht mit weicher Polenta, Hähnchen und milder Linsen-Tomatensauce.
 en:
-  title: 'TODO: Polenta mit Tomaten-Linsen-Hähnchen'
-  summary: |-
-    TODO: Schnelles Gericht mit weicher Polenta, Hähnchen und milder Linsen-Tomatensauce.
+  title: Polenta with Tomato-Lentil Chicken
+  summary: A quick dish of soft polenta topped with chicken and a mild red lentil
+    tomato sauce.
 ingredients:
 - de_name: Polenta
-  en_name: 'TODO: Polenta'
+  en_name: polenta
   qty: 250
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 700
   unit: g
   category: Protein und Milchprodukte
 - de_name: Rote Linsen
-  en_name: 'TODO: Rote Linsen'
+  en_name: red lentils
   qty: 180
   unit: g
   category: Konserven und Vorrat
 - de_name: Passierte Tomaten
-  en_name: 'TODO: Passierte Tomaten'
+  en_name: strained tomatoes (passata)
   qty: 1
   unit: Glas
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Paprika edelsüß
-  en_name: 'TODO: Paprika edelsüß'
+  en_name: sweet paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -53,6 +53,6 @@ de_steps:
 - Hähnchen scharf anbraten.
 - Linsen in Tomatensauce weich kochen und Hähnchen unterheben.
 en_steps:
-- 'TODO: Polenta weich rühren.'
-- 'TODO: Hähnchen scharf anbraten.'
-- 'TODO: Linsen in Tomatensauce weich kochen und Hähnchen unterheben.'
+- Cook the polenta until soft and creamy.
+- Sear the chicken over high heat.
+- Simmer the lentils in the tomato sauce until tender, then fold in the chicken.

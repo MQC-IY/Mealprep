@@ -9,41 +9,41 @@ de:
   title: Bulgur-Pfanne mit Möhren und Erbsen
   summary: Schnelle, milde Bulgurpfanne mit Möhren, Erbsen und Bohnen.
 en:
-  title: 'TODO: Bulgur-Pfanne mit Möhren und Erbsen'
-  summary: 'TODO: Schnelle, milde Bulgurpfanne mit Möhren, Erbsen und Bohnen.'
+  title: Bulgur Pan with Carrots and Peas
+  summary: A quick, mild bulgur pan with carrots, peas, and white beans.
 ingredients:
 - de_name: Bulgur
-  en_name: 'TODO: Bulgur'
+  en_name: bulgur
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Erbsen, TK
-  en_name: 'TODO: Erbsen, TK'
+  en_name: frozen peas
   qty: 220
   unit: g
   category: Gemüse und Salat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: carrots
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Weiße Bohnen
-  en_name: 'TODO: Weiße Bohnen'
+  en_name: white beans
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Basilikum
-  en_name: 'TODO: Basilikum'
+  en_name: basil
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -52,6 +52,6 @@ de_steps:
 - Möhren weich garen, Erbsen kurz mitziehen lassen.
 - Bohnen unterheben.
 en_steps:
-- 'TODO: Bulgur garen.'
-- 'TODO: Möhren weich garen, Erbsen kurz mitziehen lassen.'
-- 'TODO: Bohnen unterheben.'
+- Cook the bulgur.
+- Cook the carrots until tender, then briefly stir in the peas to heat through.
+- Fold in the white beans.

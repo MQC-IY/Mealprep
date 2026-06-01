@@ -9,47 +9,47 @@ de:
   title: Puten-Pasta mit Zucchini und Erbsen
   summary: Schnelles Nudelgericht mit Putenhack, Zucchini, Erbsen und milder Sauce.
 en:
-  title: 'TODO: Puten-Pasta mit Zucchini und Erbsen'
-  summary: 'TODO: Schnelles Nudelgericht mit Putenhack, Zucchini, Erbsen und milder
-    Sauce.'
+  title: Turkey Pasta with Zucchini and Peas
+  summary: A quick pasta dish with ground turkey, zucchini, peas, and a mild cream
+    cheese sauce.
 ingredients:
 - de_name: Vollkornnudeln
-  en_name: 'TODO: Vollkornnudeln'
+  en_name: Whole-wheat pasta
   qty: 320
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Putenhack
-  en_name: 'TODO: Putenhack'
+  en_name: Ground turkey
   qty: 650
   unit: g
   category: Protein und Milchprodukte
 - de_name: Zucchini
-  en_name: 'TODO: Zucchini'
+  en_name: Zucchini
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Erbsen, TK
-  en_name: 'TODO: Erbsen, TK'
+  en_name: Peas, frozen
   qty: 200
   unit: g
   category: Gemüse und Salat
 - de_name: Frischkäse natur
-  en_name: 'TODO: Frischkäse natur'
+  en_name: Plain cream cheese
   qty: 100
   unit: g
   category: Protein und Milchprodukte
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: Onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -58,6 +58,6 @@ de_steps:
 - Putenhack mit Zwiebel scharf anbraten.
 - Zucchini und Erbsen weich garen, Frischkäse unterrühren.
 en_steps:
-- 'TODO: Nudeln weich kochen.'
-- 'TODO: Putenhack mit Zwiebel scharf anbraten.'
-- 'TODO: Zucchini und Erbsen weich garen, Frischkäse unterrühren.'
+- Cook the pasta until tender.
+- Brown the ground turkey with the onion over high heat.
+- Cook the zucchini and peas until tender, then stir in the cream cheese.

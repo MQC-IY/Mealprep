@@ -6,131 +6,135 @@ next_day: false
 meals: 2
 de:
   title: Hähnchen-Shawarma-Bowl mit Hummus und Taboulé
-  summary: |-
-    Zartes Shawarma-Hähnchen mit Kurkuma, Kreuzkümmel und Zimt, dazu cremiger Hummus, frisches Taboulé und knusprige Fladenbrot-Chips.
+  summary: Zartes Shawarma-Hähnchen mit Kurkuma, Kreuzkümmel und Zimt, dazu cremiger
+    Hummus, frisches Taboulé und knusprige Fladenbrot-Chips.
 en:
-  title: 'TODO: Hähnchen-Shawarma-Bowl mit Hummus und Taboulé'
-  summary: |-
-    TODO: Zartes Shawarma-Hähnchen mit Kurkuma, Kreuzkümmel und Zimt, dazu cremiger Hummus, frisches Taboulé und knusprige Fladenbrot-Chips.
+  title: Chicken Shawarma Bowl with Hummus and Tabbouleh
+  summary: Tender shawarma-spiced chicken with turmeric, cumin, and cinnamon, served
+    with creamy hummus, fresh tabbouleh, and crispy flatbread chips.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 800
   unit: g
   category: Protein und Milchprodukte
 - de_name: Naturjoghurt
-  en_name: 'TODO: Naturjoghurt'
+  en_name: plain yogurt
   qty: 150
   unit: g
   category: Protein und Milchprodukte
 - de_name: Kichererbsen
-  en_name: 'TODO: Kichererbsen'
+  en_name: chickpeas
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Tahini
-  en_name: 'TODO: Tahini'
+  en_name: tahini
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Fladenbrote
-  en_name: 'TODO: Fladenbrote'
+  en_name: flatbreads
   qty: 4
   unit: Stk
   category: Kohlenhydrate und Sattmacher
 - de_name: Petersilie, frisch
-  en_name: 'TODO: Petersilie, frisch'
+  en_name: fresh parsley
   qty: 1
   unit: Bund
   category: Gemüse und Salat
 - de_name: Tomaten
-  en_name: 'TODO: Tomaten'
+  en_name: tomatoes
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Gurke
-  en_name: 'TODO: Gurke'
+  en_name: cucumber
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zitrone
-  en_name: 'TODO: Zitrone'
+  en_name: lemon
   qty: 2
   unit: Stk
   category: Obst
 - de_name: Kreuzkümmel, gemahlen
-  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  en_name: ground cumin
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Kurkuma
-  en_name: 'TODO: Kurkuma'
+  en_name: turmeric
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Koriander, gemahlen
-  en_name: 'TODO: Koriander, gemahlen'
+  en_name: ground coriander
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Zimt, gemahlen
-  en_name: 'TODO: Zimt, gemahlen'
+  en_name: ground cinnamon
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Paprika edelsüß
-  en_name: 'TODO: Paprika edelsüß'
+  en_name: sweet paprika
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Piment, gemahlen
-  en_name: 'TODO: Piment, gemahlen'
+  en_name: ground allspice
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Hähnchen in dünne Streifen schneiden. Joghurt, 2 EL Olivenöl, Kreuzkümmel, Kurkuma, Koriander, Zimt, Paprika, Piment, Chiliflocken, 2 zerdrückte Knoblauchzehen und Saft einer Zitrone vermengen. Hähnchen mind. 30 Minuten darin marinieren.
-- |-
-  Für den Hummus: Kichererbsen abgießen, dabei 4 EL Einweichwasser beiseite stellen. Kichererbsen mit Tahini, Saft einer Zitrone, 2 Knoblauchzehen, 2 EL Olivenöl und Salz im Mixer cremig pürieren. Falls zu dick, etwas Wasser zugeben.
-- |-
-  Für das Taboulé: Petersilie sehr fein hacken. Tomaten und Gurke fein würfeln. Mit etwas Olivenöl, Zitronensaft, Salz und Pfeffer abschmecken.
-- |-
-  Fladenbrote in Dreiecke schneiden, mit Öl bestreichen und im Ofen bei 200 °C 8 Minuten goldbraun backen.
-- |-
-  Hähnchen in einer sehr heißen Pfanne portionsweise scharf anbraten, bis es goldbraun und leicht knusprig ist, ca. 5–6 Minuten.
-- |-
-  Bowls anrichten: Hummus als Basis, Taboulé daneben, Hähnchen oben drauf, Fladenbrot-Chips zur Seite.
+- Hähnchen in dünne Streifen schneiden. Joghurt, 2 EL Olivenöl, Kreuzkümmel, Kurkuma,
+  Koriander, Zimt, Paprika, Piment, Chiliflocken, 2 zerdrückte Knoblauchzehen und
+  Saft einer Zitrone vermengen. Hähnchen mind. 30 Minuten darin marinieren.
+- 'Für den Hummus: Kichererbsen abgießen, dabei 4 EL Einweichwasser beiseite stellen.
+  Kichererbsen mit Tahini, Saft einer Zitrone, 2 Knoblauchzehen, 2 EL Olivenöl und
+  Salz im Mixer cremig pürieren. Falls zu dick, etwas Wasser zugeben.'
+- 'Für das Taboulé: Petersilie sehr fein hacken. Tomaten und Gurke fein würfeln. Mit
+  etwas Olivenöl, Zitronensaft, Salz und Pfeffer abschmecken.'
+- Fladenbrote in Dreiecke schneiden, mit Öl bestreichen und im Ofen bei 200 °C 8 Minuten
+  goldbraun backen.
+- Hähnchen in einer sehr heißen Pfanne portionsweise scharf anbraten, bis es goldbraun
+  und leicht knusprig ist, ca. 5–6 Minuten.
+- 'Bowls anrichten: Hummus als Basis, Taboulé daneben, Hähnchen oben drauf, Fladenbrot-Chips
+  zur Seite.'
 en_steps:
-- |-
-  TODO: Hähnchen in dünne Streifen schneiden. Joghurt, 2 EL Olivenöl, Kreuzkümmel, Kurkuma, Koriander, Zimt, Paprika, Piment, Chiliflocken, 2 zerdrückte Knoblauchzehen und Saft einer Zitrone vermengen. Hähnchen mind. 30 Minuten darin marinieren.
-- |-
-  TODO: Für den Hummus: Kichererbsen abgießen, dabei 4 EL Einweichwasser beiseite stellen. Kichererbsen mit Tahini, Saft einer Zitrone, 2 Knoblauchzehen, 2 EL Olivenöl und Salz im Mixer cremig pürieren. Falls zu dick, etwas Wasser zugeben.
-- |-
-  TODO: Für das Taboulé: Petersilie sehr fein hacken. Tomaten und Gurke fein würfeln. Mit etwas Olivenöl, Zitronensaft, Salz und Pfeffer abschmecken.
-- |-
-  TODO: Fladenbrote in Dreiecke schneiden, mit Öl bestreichen und im Ofen bei 200 °C 8 Minuten goldbraun backen.
-- |-
-  TODO: Hähnchen in einer sehr heißen Pfanne portionsweise scharf anbraten, bis es goldbraun und leicht knusprig ist, ca. 5–6 Minuten.
-- |-
-  TODO: Bowls anrichten: Hummus als Basis, Taboulé daneben, Hähnchen oben drauf, Fladenbrot-Chips zur Seite.
+- Cut the chicken into thin strips. Combine the yogurt, 2 tbsp olive oil, cumin, turmeric,
+  coriander, cinnamon, paprika, allspice, chili flakes, 2 crushed garlic cloves, and
+  the juice of one lemon. Marinate the chicken for at least 30 minutes.
+- 'For the hummus: drain the chickpeas, reserving 4 tbsp of the liquid. Blend the
+  chickpeas with tahini, juice of one lemon, 2 garlic cloves, 2 tbsp olive oil, and
+  salt until creamy. Add a little water if too thick.'
+- 'For the tabbouleh: finely chop the parsley. Finely dice the tomatoes and cucumber.
+  Season with a little olive oil, lemon juice, salt, and pepper.'
+- Cut the flatbreads into triangles, brush with oil, and bake in the oven at 200°C
+  for 8 minutes until golden.
+- Sear the chicken in batches in a very hot pan until golden brown and slightly crispy,
+  about 5–6 minutes.
+- 'Assemble the bowls: hummus as the base, tabbouleh alongside, chicken on top, and
+  flatbread chips on the side.'

@@ -6,129 +6,132 @@ next_day: true
 meals: 2
 de:
   title: Österreichisches Hähnchen-Rahm-Eintopf
-  summary: |-
-    Wiener Gemütlichkeit im Topf: Hähnchen und Wurzelgemüse in Weißwein-Rahmsoße mit Estragón und Zitrone – hell, elegant und reichhaltig.
+  summary: 'Wiener Gemütlichkeit im Topf: Hähnchen und Wurzelgemüse in Weißwein-Rahmsoße
+    mit Estragón und Zitrone – hell, elegant und reichhaltig.'
 en:
-  title: 'TODO: Österreichisches Hähnchen-Rahm-Eintopf'
-  summary: |-
-    TODO: Wiener Gemütlichkeit im Topf: Hähnchen und Wurzelgemüse in Weißwein-Rahmsoße mit Estragón und Zitrone – hell, elegant und reichhaltig.
+  title: Austrian Chicken Cream Stew
+  summary: 'Viennese comfort in a pot: chicken and root vegetables in a white-wine
+    cream sauce with tarragon and lemon — pale, elegant, and richly satisfying.'
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 500
   unit: g
   category: Protein und Milchprodukte
 - de_name: Schlagsahne
-  en_name: 'TODO: Schlagsahne'
+  en_name: heavy cream
   qty: 200
   unit: ml
   category: Protein und Milchprodukte
 - de_name: Butter
-  en_name: 'TODO: Butter'
+  en_name: butter
   qty: 50
   unit: g
   category: Protein und Milchprodukte
 - de_name: Eigelb
-  en_name: 'TODO: Eigelb'
+  en_name: egg yolks
   qty: 2
   unit: Stk
   category: Protein und Milchprodukte
 - de_name: Trockener Weißwein
-  en_name: 'TODO: Trockener Weißwein'
+  en_name: dry white wine
   qty: 150
   unit: ml
   category: Konserven und Vorrat
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: chicken stock
   qty: 400
   unit: ml
   category: Konserven und Vorrat
 - de_name: Weizenmehl (Typ 405)
-  en_name: 'TODO: Weizenmehl (Typ 405)'
+  en_name: plain flour
   qty: 2
   unit: EL
   category: Kohlenhydrate und Sattmacher
 - de_name: Karotten
-  en_name: 'TODO: Karotten'
+  en_name: carrots
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Pastinaken
-  en_name: 'TODO: Pastinaken'
+  en_name: parsnips
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Staudensellerie
-  en_name: 'TODO: Staudensellerie'
+  en_name: celery stalks
   qty: 2
   unit: Stange
   category: Gemüse und Salat
 - de_name: Zwiebeln
-  en_name: 'TODO: Zwiebeln'
+  en_name: onions
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 2
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Zitronensaft
-  en_name: 'TODO: Zitronensaft'
+  en_name: lemon juice
   qty: 2
   unit: EL
   category: Obst
 - de_name: Zitronenschale
-  en_name: 'TODO: Zitronenschale'
+  en_name: lemon zest
   qty: 1
   unit: Stk
   category: Obst
 - de_name: Lorbeerblätter
-  en_name: 'TODO: Lorbeerblätter'
+  en_name: bay leaves
   qty: 2
   unit: Stk
   category: Gewürze
 - de_name: Getrockneter Estragon
-  en_name: 'TODO: Getrockneter Estragon'
+  en_name: dried tarragon
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Muskatnuss, gemahlen
-  en_name: 'TODO: Muskatnuss, gemahlen'
+  en_name: nutmeg, ground
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Weißer Pfeffer
-  en_name: 'TODO: Weißer Pfeffer'
+  en_name: white pepper
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Hähnchenbrust in 3 cm Würfel schneiden, salzen und pfeffern. Butter in einem Topf erhitzen und Hähnchen sanft 5 Minuten anbraten – es soll weiß bleiben, nicht braun werden. Herausnehmen.
-- |-
-  Zwiebeln, Karotten, Pastinaken und Sellerie in 1 cm Würfel schneiden. Im gleichen Topf 8 Minuten anschwitzen. Knoblauch pressen, Mehl einstreuen und 2 Minuten umrühren.
-- |-
-  Mit Weißwein ablöschen, einkochen. Hühnerbrühe einrühren, Lorbeer, Estragon und Zitronenschale einlegen. Hähnchen zurücklegen.
+- Hähnchenbrust in 3 cm Würfel schneiden, salzen und pfeffern. Butter in einem Topf
+  erhitzen und Hähnchen sanft 5 Minuten anbraten – es soll weiß bleiben, nicht braun
+  werden. Herausnehmen.
+- Zwiebeln, Karotten, Pastinaken und Sellerie in 1 cm Würfel schneiden. Im gleichen
+  Topf 8 Minuten anschwitzen. Knoblauch pressen, Mehl einstreuen und 2 Minuten umrühren.
+- Mit Weißwein ablöschen, einkochen. Hühnerbrühe einrühren, Lorbeer, Estragon und
+  Zitronenschale einlegen. Hähnchen zurücklegen.
 - Zugedeckt bei niedriger Hitze 20 Minuten sanft köcheln.
-- |-
-  Eigelb mit Sahne verquirlen. Topf vom Herd nehmen, Eigelb-Sahne-Mischung einrühren – die Sauce darf nicht mehr kochen, sonst gerinnt das Eigelb. Bei sehr niedriger Hitze noch 5 Minuten unter Rühren binden lassen.
-- |-
-  Lorbeer entfernen. Zitronensaft, Muskatnuss, Salz und Pfeffer abschmecken. Mit Semmelknödeln oder Salzerdäpfeln servieren.
+- Eigelb mit Sahne verquirlen. Topf vom Herd nehmen, Eigelb-Sahne-Mischung einrühren
+  – die Sauce darf nicht mehr kochen, sonst gerinnt das Eigelb. Bei sehr niedriger
+  Hitze noch 5 Minuten unter Rühren binden lassen.
+- Lorbeer entfernen. Zitronensaft, Muskatnuss, Salz und Pfeffer abschmecken. Mit Semmelknödeln
+  oder Salzerdäpfeln servieren.
 en_steps:
-- |-
-  TODO: Hähnchenbrust in 3 cm Würfel schneiden, salzen und pfeffern. Butter in einem Topf erhitzen und Hähnchen sanft 5 Minuten anbraten – es soll weiß bleiben, nicht braun werden. Herausnehmen.
-- |-
-  TODO: Zwiebeln, Karotten, Pastinaken und Sellerie in 1 cm Würfel schneiden. Im gleichen Topf 8 Minuten anschwitzen. Knoblauch pressen, Mehl einstreuen und 2 Minuten umrühren.
-- |-
-  TODO: Mit Weißwein ablöschen, einkochen. Hühnerbrühe einrühren, Lorbeer, Estragon und Zitronenschale einlegen. Hähnchen zurücklegen.
-- 'TODO: Zugedeckt bei niedriger Hitze 20 Minuten sanft köcheln.'
-- |-
-  TODO: Eigelb mit Sahne verquirlen. Topf vom Herd nehmen, Eigelb-Sahne-Mischung einrühren – die Sauce darf nicht mehr kochen, sonst gerinnt das Eigelb. Bei sehr niedriger Hitze noch 5 Minuten unter Rühren binden lassen.
-- |-
-  TODO: Lorbeer entfernen. Zitronensaft, Muskatnuss, Salz und Pfeffer abschmecken. Mit Semmelknödeln oder Salzerdäpfeln servieren.
+- Cut chicken breast into 3 cm cubes, season with salt and pepper. Heat butter in
+  a pot and gently fry chicken for 5 minutes — it should stay white, not brown. Remove.
+- Cut onions, carrots, parsnips, and celery into 1 cm cubes. Sweat in the same pot
+  for 8 minutes. Press garlic, sprinkle in flour, and stir for 2 minutes.
+- Deglaze with white wine and reduce. Stir in chicken stock, add bay leaves, tarragon,
+  and lemon zest. Return chicken.
+- Cover and simmer gently on low heat for 20 minutes.
+- Whisk egg yolks with cream. Remove pot from the heat and stir in the egg-yolk cream
+  mixture — the sauce must not boil again or the yolks will curdle. Stir over very
+  low heat for a further 5 minutes to thicken.
+- Remove bay leaves. Season with lemon juice, nutmeg, salt, and pepper. Serve with
+  bread dumplings or boiled potatoes.

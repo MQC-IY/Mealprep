@@ -9,51 +9,51 @@ de:
   title: Puten-Bulgur-Pfanne mit Zucchini
   summary: Milde Pfanne mit Putenhack, Bulgur, Zucchini und Paprika.
 en:
-  title: 'TODO: Puten-Bulgur-Pfanne mit Zucchini'
-  summary: 'TODO: Milde Pfanne mit Putenhack, Bulgur, Zucchini und Paprika.'
+  title: Turkey Bulgur Pan with Zucchini
+  summary: A mild skillet of ground turkey, bulgur, zucchini, and bell pepper.
 ingredients:
 - de_name: Putenhack
-  en_name: 'TODO: Putenhack'
+  en_name: ground turkey
   qty: 650
   unit: g
   category: Protein und Milchprodukte
 - de_name: Bulgur
-  en_name: 'TODO: Bulgur'
+  en_name: bulgur
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Zucchini
-  en_name: 'TODO: Zucchini'
+  en_name: zucchini
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Paprika
-  en_name: 'TODO: Paprika'
+  en_name: bell pepper
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: carrots
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Oregano
-  en_name: 'TODO: Oregano'
+  en_name: oregano
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -62,6 +62,6 @@ de_steps:
 - Putenhack mit Zwiebel scharf anbraten.
 - Zucchini, Paprika und Möhren zugeben und weich garen.
 en_steps:
-- 'TODO: Bulgur garen.'
-- 'TODO: Putenhack mit Zwiebel scharf anbraten.'
-- 'TODO: Zucchini, Paprika und Möhren zugeben und weich garen.'
+- Cook the bulgur.
+- Brown the ground turkey with the onion over high heat.
+- Add the zucchini, bell pepper, and carrots and cook until tender.

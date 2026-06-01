@@ -6,102 +6,102 @@ next_day: true
 meals: 2
 de:
   title: Griechischer Revithia – Kichererbseneintopf
-  summary: |-
-    Santorinis Sonntagsgericht: langsam gegarte Kichererbsen mit Olivenöl, Rosmarin und Zitrone – vollmundig, nährstoffreich und unaufwändig.
+  summary: 'Santorinis Sonntagsgericht: langsam gegarte Kichererbsen mit Olivenöl,
+    Rosmarin und Zitrone – vollmundig, nährstoffreich und unaufwändig.'
 en:
-  title: 'TODO: Griechischer Revithia – Kichererbseneintopf'
-  summary: |-
-    TODO: Santorinis Sonntagsgericht: langsam gegarte Kichererbsen mit Olivenöl, Rosmarin und Zitrone – vollmundig, nährstoffreich und unaufwändig.
+  title: Revithia – Greek Chickpea Stew
+  summary: 'Santorini''s Sunday dish: slow-cooked chickpeas with olive oil, rosemary,
+    and lemon — full-bodied, nutritious, and effortless.'
 ingredients:
 - de_name: Kichererbsen (Dose)
-  en_name: 'TODO: Kichererbsen (Dose)'
+  en_name: Chickpeas (canned)
   qty: 2
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Gehackte Tomaten
-  en_name: 'TODO: Gehackte Tomaten'
+  en_name: Chopped tomatoes (canned)
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 6
   unit: EL
   category: Konserven und Vorrat
 - de_name: Gemüsebrühe
-  en_name: 'TODO: Gemüsebrühe'
+  en_name: Vegetable stock
   qty: 500
   unit: ml
   category: Konserven und Vorrat
 - de_name: Zwiebeln
-  en_name: 'TODO: Zwiebeln'
+  en_name: Onions
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: Garlic cloves
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Selleriestangen
-  en_name: 'TODO: Selleriestangen'
+  en_name: Celery stalks
   qty: 2
   unit: Stange
   category: Gemüse und Salat
 - de_name: Frische Rosmarinzweige
-  en_name: 'TODO: Frische Rosmarinzweige'
+  en_name: Fresh rosemary sprigs
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zitronensaft
-  en_name: 'TODO: Zitronensaft'
+  en_name: Lemon juice
   qty: 4
   unit: EL
   category: Obst
 - de_name: Zitronenschale
-  en_name: 'TODO: Zitronenschale'
+  en_name: Lemon zest
   qty: 1
   unit: Stk
   category: Obst
 - de_name: Getrockneter Oregano
-  en_name: 'TODO: Getrockneter Oregano'
+  en_name: Dried oregano
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chilli flakes
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: Salt
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: Black pepper
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Zwiebeln grob würfeln, Sellerie schräg schneiden, Knoblauch pressen. 4 EL Olivenöl in einem Topf erhitzen und Zwiebeln und Sellerie 8 Minuten weich dünsten.
-- |-
-  Knoblauch, Chiliflocken und Oregano hinzufügen, 1 Minute rösten. Gehackte Tomaten und Gemüsebrühe einrühren.
-- |-
-  Abgetropfte Kichererbsen und Rosmarinzweige einlegen. Alles zum Kochen bringen, Hitze reduzieren und 30 Minuten zugedeckt köcheln.
-- |-
-  Rosmarinzweige entfernen. Etwa ein Viertel der Kichererbsen mit einer Gabel zerdrücken, um den Eintopf anzudicken.
-- |-
-  Restliches Olivenöl (2 EL), Zitronensaft und Zitronenschale einrühren. Kräftig abschmecken. Mit crustigem Brot und Kalamata-Oliven servieren.
+- Zwiebeln grob würfeln, Sellerie schräg schneiden, Knoblauch pressen. 4 EL Olivenöl
+  in einem Topf erhitzen und Zwiebeln und Sellerie 8 Minuten weich dünsten.
+- Knoblauch, Chiliflocken und Oregano hinzufügen, 1 Minute rösten. Gehackte Tomaten
+  und Gemüsebrühe einrühren.
+- Abgetropfte Kichererbsen und Rosmarinzweige einlegen. Alles zum Kochen bringen,
+  Hitze reduzieren und 30 Minuten zugedeckt köcheln.
+- Rosmarinzweige entfernen. Etwa ein Viertel der Kichererbsen mit einer Gabel zerdrücken,
+  um den Eintopf anzudicken.
+- Restliches Olivenöl (2 EL), Zitronensaft und Zitronenschale einrühren. Kräftig abschmecken.
+  Mit crustigem Brot und Kalamata-Oliven servieren.
 en_steps:
-- |-
-  TODO: Zwiebeln grob würfeln, Sellerie schräg schneiden, Knoblauch pressen. 4 EL Olivenöl in einem Topf erhitzen und Zwiebeln und Sellerie 8 Minuten weich dünsten.
-- |-
-  TODO: Knoblauch, Chiliflocken und Oregano hinzufügen, 1 Minute rösten. Gehackte Tomaten und Gemüsebrühe einrühren.
-- |-
-  TODO: Abgetropfte Kichererbsen und Rosmarinzweige einlegen. Alles zum Kochen bringen, Hitze reduzieren und 30 Minuten zugedeckt köcheln.
-- |-
-  TODO: Rosmarinzweige entfernen. Etwa ein Viertel der Kichererbsen mit einer Gabel zerdrücken, um den Eintopf anzudicken.
-- |-
-  TODO: Restliches Olivenöl (2 EL), Zitronensaft und Zitronenschale einrühren. Kräftig abschmecken. Mit crustigem Brot und Kalamata-Oliven servieren.
+- Roughly dice the onions, cut the celery diagonally, and crush the garlic. Heat 4
+  tbsp olive oil in a pot and sweat the onions and celery for 8 minutes until soft.
+- Add the garlic, chilli flakes, and oregano; toast for 1 minute. Stir in the chopped
+  tomatoes and vegetable stock.
+- Add the drained chickpeas and rosemary sprigs. Bring everything to a boil, reduce
+  the heat, and simmer covered for 30 minutes.
+- Remove the rosemary sprigs. Roughly mash about a quarter of the chickpeas with a
+  fork to thicken the stew.
+- Stir in the remaining olive oil (2 tbsp), lemon juice, and lemon zest. Season generously.
+  Serve with crusty bread and Kalamata olives.

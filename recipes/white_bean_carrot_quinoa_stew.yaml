@@ -9,46 +9,46 @@ de:
   title: Quinoa-Bohnentopf mit Möhren
   summary: Milder Topf mit Quinoa, weißen Bohnen, Möhren und Tomaten.
 en:
-  title: 'TODO: Quinoa-Bohnentopf mit Möhren'
-  summary: 'TODO: Milder Topf mit Quinoa, weißen Bohnen, Möhren und Tomaten.'
+  title: Quinoa and White Bean Stew with Carrots
+  summary: A mild, nourishing stew with quinoa, white beans, carrots, and tomatoes.
 ingredients:
 - de_name: Quinoa
-  en_name: 'TODO: Quinoa'
+  en_name: Quinoa
   qty: 240
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Weiße Bohnen
-  en_name: 'TODO: Weiße Bohnen'
+  en_name: White beans
   qty: 2
   unit: Dosen
   category: Konserven und Vorrat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: Carrots
   qty: 4
   unit: Stk
   category: Gemüse und Salat
 - de_name: Passierte Tomaten
-  en_name: 'TODO: Passierte Tomaten'
+  en_name: Passata (tomato purée)
   qty: 1
   unit: Glas
   category: Konserven und Vorrat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: Onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Oregano
-  en_name: 'TODO: Oregano'
+  en_name: Oregano
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -57,6 +57,6 @@ de_steps:
 - Tomaten, Bohnen und Quinoa zugeben.
 - Mit Wasser auffüllen und weich köcheln lassen.
 en_steps:
-- 'TODO: Zwiebel und Möhren in Olivenöl anschwitzen.'
-- 'TODO: Tomaten, Bohnen und Quinoa zugeben.'
-- 'TODO: Mit Wasser auffüllen und weich köcheln lassen.'
+- Sauté the onion and carrots in olive oil.
+- Add the tomatoes, beans, and quinoa.
+- Top up with water and simmer until tender.

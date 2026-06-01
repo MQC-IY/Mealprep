@@ -7,90 +7,87 @@ quick_minutes: 28
 meals: 2
 de:
   title: Schneller Tomaten-Linsen-Topf mit Chorizo
-  summary: |-
-    Herzhafte rote Linsen mit würziger Chorizo und geräuchertem Paprika in Tomaten-Eintopf.
+  summary: Herzhafte rote Linsen mit würziger Chorizo und geräuchertem Paprika in
+    Tomaten-Eintopf.
 en:
-  title: 'TODO: Schneller Tomaten-Linsen-Topf mit Chorizo'
-  summary: |-
-    TODO: Herzhafte rote Linsen mit würziger Chorizo und geräuchertem Paprika in Tomaten-Eintopf.
+  title: Quick Tomato Lentil Pot with Chorizo
+  summary: Hearty red lentils with spicy chorizo and smoked paprika in a rich tomato
+    stew.
 ingredients:
 - de_name: Chorizo (in Scheiben)
-  en_name: 'TODO: Chorizo (in Scheiben)'
+  en_name: Chorizo (sliced)
   qty: 250
   unit: g
   category: Protein und Milchprodukte
 - de_name: Rote Linsen
-  en_name: 'TODO: Rote Linsen'
+  en_name: Red lentils
   qty: 250
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Gehackte Tomaten
-  en_name: 'TODO: Gehackte Tomaten'
+  en_name: Chopped tomatoes
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: Chicken broth
   qty: 700
   unit: ml
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: Onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: Garlic cloves
   qty: 3
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Paprikaschote, rot
-  en_name: 'TODO: Paprikaschote, rot'
+  en_name: Red bell pepper
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Geräuchertes Paprikapulver
-  en_name: 'TODO: Geräuchertes Paprikapulver'
+  en_name: Smoked paprika
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Kreuzkümmel, gemahlen
-  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  en_name: Cumin, ground
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Cayennepfeffer
-  en_name: 'TODO: Cayennepfeffer'
+  en_name: Cayenne pepper
   qty: 0.25
   unit: TL
   category: Gewürze
 - de_name: Salz und Pfeffer
-  en_name: 'TODO: Salz und Pfeffer'
+  en_name: Salt and pepper
   qty: 1
   unit: Stk
   category: Gewürze
 de_steps:
-- |-
-  Chorizo-Scheiben in einem großen Topf ohne Öl bei mittlerer Hitze 3 Minuten kräftig anbraten. Herausnehmen.
-- |-
-  Zwiebel, Knoblauch und Paprika würfeln und im Chorizo-Fett 3 Minuten anschwitzen.
-- |-
-  Geräuchertes Paprikapulver, Kreuzkümmel und Cayennepfeffer einrühren und 30 Sekunden rösten.
-- |-
-  Linsen, Tomaten und Brühe hinzufügen. Aufkochen, dann 18 Minuten bei mittlerer Hitze köcheln lassen, bis die Linsen gar sind.
+- Chorizo-Scheiben in einem großen Topf ohne Öl bei mittlerer Hitze 3 Minuten kräftig
+  anbraten. Herausnehmen.
+- Zwiebel, Knoblauch und Paprika würfeln und im Chorizo-Fett 3 Minuten anschwitzen.
+- Geräuchertes Paprikapulver, Kreuzkümmel und Cayennepfeffer einrühren und 30 Sekunden
+  rösten.
+- Linsen, Tomaten und Brühe hinzufügen. Aufkochen, dann 18 Minuten bei mittlerer Hitze
+  köcheln lassen, bis die Linsen gar sind.
 - Chorizo zurückgeben, abschmecken und servieren.
 en_steps:
-- |-
-  TODO: Chorizo-Scheiben in einem großen Topf ohne Öl bei mittlerer Hitze 3 Minuten kräftig anbraten. Herausnehmen.
-- |-
-  TODO: Zwiebel, Knoblauch und Paprika würfeln und im Chorizo-Fett 3 Minuten anschwitzen.
-- |-
-  TODO: Geräuchertes Paprikapulver, Kreuzkümmel und Cayennepfeffer einrühren und 30 Sekunden rösten.
-- |-
-  TODO: Linsen, Tomaten und Brühe hinzufügen. Aufkochen, dann 18 Minuten bei mittlerer Hitze köcheln lassen, bis die Linsen gar sind.
-- 'TODO: Chorizo zurückgeben, abschmecken und servieren.'
+- Sear the chorizo slices in a large pot without oil over medium heat for 3 minutes.
+  Remove and set aside.
+- Dice the onion, garlic, and bell pepper and sauté in the chorizo fat for 3 minutes.
+- Stir in the smoked paprika, cumin, and cayenne pepper and toast for 30 seconds.
+- Add the lentils, tomatoes, and broth. Bring to a boil, then simmer over medium heat
+  for 18 minutes until the lentils are cooked through.
+- Return the chorizo to the pot, season to taste, and serve.

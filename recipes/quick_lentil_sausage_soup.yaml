@@ -7,90 +7,88 @@ quick_minutes: 25
 meals: 2
 de:
   title: Schnelle Linsen-Wurst-Suppe
-  summary: |-
-    Rote Linsen mit würziger Merguez und Tomaten — ein herzhafter Eintopf in 25 Minuten.
+  summary: Rote Linsen mit würziger Merguez und Tomaten — ein herzhafter Eintopf in
+    25 Minuten.
 en:
-  title: 'TODO: Schnelle Linsen-Wurst-Suppe'
-  summary: |-
-    TODO: Rote Linsen mit würziger Merguez und Tomaten — ein herzhafter Eintopf in 25 Minuten.
+  title: Quick Lentil Sausage Soup
+  summary: Red lentils with spicy merguez sausage and tomatoes — a hearty stew in
+    25 minutes.
 ingredients:
 - de_name: Merguez (oder Bratwurst)
-  en_name: 'TODO: Merguez (oder Bratwurst)'
+  en_name: Merguez sausage (or bratwurst)
   qty: 400
   unit: g
   category: Protein und Milchprodukte
 - de_name: Rote Linsen
-  en_name: 'TODO: Rote Linsen'
+  en_name: Red lentils
   qty: 250
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: Onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: Garlic cloves
   qty: 3
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Staudensellerie
-  en_name: 'TODO: Staudensellerie'
+  en_name: Celery stalks
   qty: 2
   unit: Stange
   category: Gemüse und Salat
 - de_name: Gehackte Tomaten
-  en_name: 'TODO: Gehackte Tomaten'
+  en_name: Chopped tomatoes
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: Chicken broth
   qty: 800
   unit: ml
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Kreuzkümmel, gemahlen
-  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  en_name: Cumin, ground
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Koriander, gemahlen
-  en_name: 'TODO: Koriander, gemahlen'
+  en_name: Coriander, ground
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Salz und Pfeffer
-  en_name: 'TODO: Salz und Pfeffer'
+  en_name: Salt and pepper
   qty: 1
   unit: Stk
   category: Gewürze
 de_steps:
-- |-
-  Merguez in Scheiben schneiden und in einem großen Topf mit Olivenöl bei mittlerer bis hoher Hitze 3–4 Minuten rundum anbraten. Herausnehmen und beiseitestellen.
-- |-
-  Zwiebel fein würfeln, Knoblauch hacken, Sellerie in dünne Scheiben schneiden. Im gleichen Topf 3 Minuten anschwitzen.
+- Merguez in Scheiben schneiden und in einem großen Topf mit Olivenöl bei mittlerer
+  bis hoher Hitze 3–4 Minuten rundum anbraten. Herausnehmen und beiseitestellen.
+- Zwiebel fein würfeln, Knoblauch hacken, Sellerie in dünne Scheiben schneiden. Im
+  gleichen Topf 3 Minuten anschwitzen.
 - Kreuzkümmel, Koriander und Chiliflocken einrühren und 30 Sekunden rösten.
-- |-
-  Linsen, gehackte Tomaten und Brühe hinzufügen. Aufkochen, dann auf mittlere Hitze reduzieren und 15 Minuten köcheln lassen, bis die Linsen weich sind.
-- |-
-  Gebratene Wurst zurück in den Topf geben. Mit Salz und Pfeffer abschmecken und servieren.
+- Linsen, gehackte Tomaten und Brühe hinzufügen. Aufkochen, dann auf mittlere Hitze
+  reduzieren und 15 Minuten köcheln lassen, bis die Linsen weich sind.
+- Gebratene Wurst zurück in den Topf geben. Mit Salz und Pfeffer abschmecken und servieren.
 en_steps:
-- |-
-  TODO: Merguez in Scheiben schneiden und in einem großen Topf mit Olivenöl bei mittlerer bis hoher Hitze 3–4 Minuten rundum anbraten. Herausnehmen und beiseitestellen.
-- |-
-  TODO: Zwiebel fein würfeln, Knoblauch hacken, Sellerie in dünne Scheiben schneiden. Im gleichen Topf 3 Minuten anschwitzen.
-- 'TODO: Kreuzkümmel, Koriander und Chiliflocken einrühren und 30 Sekunden rösten.'
-- |-
-  TODO: Linsen, gehackte Tomaten und Brühe hinzufügen. Aufkochen, dann auf mittlere Hitze reduzieren und 15 Minuten köcheln lassen, bis die Linsen weich sind.
-- |-
-  TODO: Gebratene Wurst zurück in den Topf geben. Mit Salz und Pfeffer abschmecken und servieren.
+- Slice the merguez and brown in a large pot with olive oil over medium-high heat
+  for 3–4 minutes. Remove and set aside.
+- Finely dice the onion, chop the garlic, and thinly slice the celery. Sauté in the
+  same pot for 3 minutes.
+- Stir in the cumin, coriander, and chili flakes and toast for 30 seconds.
+- Add the lentils, chopped tomatoes, and broth. Bring to a boil, then reduce to medium
+  heat and simmer for 15 minutes until the lentils are soft.
+- Return the sausage to the pot, season with salt and pepper, and serve.

@@ -9,51 +9,51 @@ de:
   title: Puten-Reis-Pfanne mit Erbsen
   summary: Alltagstaugliche Pfanne mit Putenhack, Reis, Erbsen und Möhren.
 en:
-  title: 'TODO: Puten-Reis-Pfanne mit Erbsen'
-  summary: 'TODO: Alltagstaugliche Pfanne mit Putenhack, Reis, Erbsen und Möhren.'
+  title: Turkey Rice Pan with Peas
+  summary: An everyday skillet of ground turkey, rice, peas, and carrots.
 ingredients:
 - de_name: Putenhack
-  en_name: 'TODO: Putenhack'
+  en_name: ground turkey
   qty: 650
   unit: g
   category: Protein und Milchprodukte
 - de_name: Reis
-  en_name: 'TODO: Reis'
+  en_name: rice
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Erbsen, TK
-  en_name: 'TODO: Erbsen, TK'
+  en_name: frozen peas
   qty: 250
   unit: g
   category: Gemüse und Salat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: carrots
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zucchini
-  en_name: 'TODO: Zucchini'
+  en_name: zucchini
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Rapsöl
-  en_name: 'TODO: Rapsöl'
+  en_name: rapeseed oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Paprika edelsüß
-  en_name: 'TODO: Paprika edelsüß'
+  en_name: sweet paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -62,6 +62,6 @@ de_steps:
 - Putenhack mit Zwiebel in etwas Öl scharf anbraten.
 - Möhren, Zucchini und Erbsen zugeben und weich garen.
 en_steps:
-- 'TODO: Reis garen.'
-- 'TODO: Putenhack mit Zwiebel in etwas Öl scharf anbraten.'
-- 'TODO: Möhren, Zucchini und Erbsen zugeben und weich garen.'
+- Cook the rice.
+- Brown the ground turkey with the onion in a little oil over high heat.
+- Add the carrots, zucchini, and peas and cook until tender.

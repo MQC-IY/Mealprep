@@ -9,46 +9,46 @@ de:
   title: Puten-Couscous-Pfanne mit Paprika
   summary: Schnelle Pfanne mit Putenhack, Couscous, Paprika und Möhren.
 en:
-  title: 'TODO: Puten-Couscous-Pfanne mit Paprika'
-  summary: 'TODO: Schnelle Pfanne mit Putenhack, Couscous, Paprika und Möhren.'
+  title: Turkey Couscous Skillet with Bell Pepper
+  summary: A quick skillet of ground turkey, couscous, bell pepper, and carrots.
 ingredients:
 - de_name: Putenhack
-  en_name: 'TODO: Putenhack'
+  en_name: ground turkey
   qty: 650
   unit: g
   category: Protein und Milchprodukte
 - de_name: Couscous
-  en_name: 'TODO: Couscous'
+  en_name: couscous
   qty: 280
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Paprika
-  en_name: 'TODO: Paprika'
+  en_name: bell pepper
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: carrots
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Paprika edelsüß
-  en_name: 'TODO: Paprika edelsüß'
+  en_name: sweet paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -57,6 +57,6 @@ de_steps:
 - Putenhack mit Zwiebel scharf anbraten.
 - Paprika und Möhren weich garen.
 en_steps:
-- 'TODO: Couscous quellen lassen.'
-- 'TODO: Putenhack mit Zwiebel scharf anbraten.'
-- 'TODO: Paprika und Möhren weich garen.'
+- Soak the couscous in boiling water until fluffy.
+- Brown the ground turkey with the onion over high heat.
+- Cook the bell pepper and carrots until tender.

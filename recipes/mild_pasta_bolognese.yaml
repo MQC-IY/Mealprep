@@ -9,56 +9,56 @@ de:
   title: Linsen-Bolognese mit Vollkornnudeln
   summary: Tomatige Linsen-Bolognese mit Möhren und Vollkornnudeln.
 en:
-  title: 'TODO: Linsen-Bolognese mit Vollkornnudeln'
-  summary: 'TODO: Tomatige Linsen-Bolognese mit Möhren und Vollkornnudeln.'
+  title: Lentil Bolognese with Wholegrain Pasta
+  summary: A hearty tomato lentil Bolognese with carrots and wholegrain pasta.
 ingredients:
 - de_name: Vollkornnudeln
-  en_name: 'TODO: Vollkornnudeln'
+  en_name: Wholegrain pasta
   qty: 350
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Rote Linsen
-  en_name: 'TODO: Rote Linsen'
+  en_name: Red lentils
   qty: 220
   unit: g
   category: Konserven und Vorrat
 - de_name: Passierte Tomaten
-  en_name: 'TODO: Passierte Tomaten'
+  en_name: Strained tomatoes (passata)
   qty: 1
   unit: Glas
   category: Konserven und Vorrat
 - de_name: Gehackte Tomaten
-  en_name: 'TODO: Gehackte Tomaten'
+  en_name: Chopped tomatoes
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: Onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: Carrots
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zucchini
-  en_name: 'TODO: Zucchini'
+  en_name: Zucchini
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Oregano
-  en_name: 'TODO: Oregano'
+  en_name: Oregano
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -67,7 +67,6 @@ de_steps:
 - Zwiebel, Möhren und Zucchini fein schneiden und in Olivenöl anschwitzen.
 - Linsen, gehackte Tomaten und passierte Tomaten zugeben und weich köcheln lassen.
 en_steps:
-- 'TODO: Nudeln kochen.'
-- 'TODO: Zwiebel, Möhren und Zucchini fein schneiden und in Olivenöl anschwitzen.'
-- |-
-  TODO: Linsen, gehackte Tomaten und passierte Tomaten zugeben und weich köcheln lassen.
+- Cook the pasta.
+- Finely chop the onion, carrots, and zucchini; sauté in olive oil until softened.
+- Add the lentils, chopped tomatoes, and passata; simmer until the lentils are tender.

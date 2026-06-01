@@ -7,95 +7,91 @@ quick_minutes: 30
 meals: 2
 de:
   title: Schneller Kidney-Chili mit Hähnchen
-  summary: |-
-    Rauchig-scharfes Hähnchenchili mit Kidneybohnen und Chipotle — 30 Minuten Schnellküche.
+  summary: Rauchig-scharfes Hähnchenchili mit Kidneybohnen und Chipotle — 30 Minuten
+    Schnellküche.
 en:
-  title: 'TODO: Schneller Kidney-Chili mit Hähnchen'
-  summary: |-
-    TODO: Rauchig-scharfes Hähnchenchili mit Kidneybohnen und Chipotle — 30 Minuten Schnellküche.
+  title: Quick Kidney Bean Chili with Chicken
+  summary: Smoky, spicy chicken chili with kidney beans and chipotle — 30-minute fast
+    food done right.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: Chicken breast
   qty: 500
   unit: g
   category: Protein und Milchprodukte
 - de_name: Kidneybohnen, abgetropft
-  en_name: 'TODO: Kidneybohnen, abgetropft'
+  en_name: Kidney beans, drained
   qty: 2
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Gehackte Tomaten
-  en_name: 'TODO: Gehackte Tomaten'
+  en_name: Chopped tomatoes
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Chipotle-Paste
-  en_name: 'TODO: Chipotle-Paste'
+  en_name: Chipotle paste
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: Chicken broth
   qty: 300
   unit: ml
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: Onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: Garlic cloves
   qty: 3
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Paprikaschote, rot
-  en_name: 'TODO: Paprikaschote, rot'
+  en_name: Red bell pepper
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Kreuzkümmel, gemahlen
-  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  en_name: Cumin, ground
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Chilipulver
-  en_name: 'TODO: Chilipulver'
+  en_name: Chili powder
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Oregano, getrocknet
-  en_name: 'TODO: Oregano, getrocknet'
+  en_name: Dried oregano
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Salz und Pfeffer
-  en_name: 'TODO: Salz und Pfeffer'
+  en_name: Salt and pepper
   qty: 1
   unit: Stk
   category: Gewürze
 de_steps:
-- |-
-  Hähnchenbrust in kleine Würfel schneiden und in Olivenöl bei hoher Hitze 4–5 Minuten kräftig anbraten. Herausnehmen.
-- |-
-  Zwiebel, Knoblauch und Paprika fein würfeln. Im gleichen Topf 3 Minuten anschwitzen.
-- |-
-  Chipotle-Paste, Kreuzkümmel, Chilipulver und Oregano einrühren und 1 Minute rösten.
+- Hähnchenbrust in kleine Würfel schneiden und in Olivenöl bei hoher Hitze 4–5 Minuten
+  kräftig anbraten. Herausnehmen.
+- Zwiebel, Knoblauch und Paprika fein würfeln. Im gleichen Topf 3 Minuten anschwitzen.
+- Chipotle-Paste, Kreuzkümmel, Chilipulver und Oregano einrühren und 1 Minute rösten.
 - Tomaten, Brühe und Kidneybohnen hinzufügen. Aufkochen.
-- |-
-  Hähnchen zurück in den Topf geben und 12–15 Minuten bei mittlerer Hitze köcheln lassen, bis die Sauce eindickt. Abschmecken.
+- Hähnchen zurück in den Topf geben und 12–15 Minuten bei mittlerer Hitze köcheln
+  lassen, bis die Sauce eindickt. Abschmecken.
 en_steps:
-- |-
-  TODO: Hähnchenbrust in kleine Würfel schneiden und in Olivenöl bei hoher Hitze 4–5 Minuten kräftig anbraten. Herausnehmen.
-- |-
-  TODO: Zwiebel, Knoblauch und Paprika fein würfeln. Im gleichen Topf 3 Minuten anschwitzen.
-- |-
-  TODO: Chipotle-Paste, Kreuzkümmel, Chilipulver und Oregano einrühren und 1 Minute rösten.
-- 'TODO: Tomaten, Brühe und Kidneybohnen hinzufügen. Aufkochen.'
-- |-
-  TODO: Hähnchen zurück in den Topf geben und 12–15 Minuten bei mittlerer Hitze köcheln lassen, bis die Sauce eindickt. Abschmecken.
+- Cut the chicken breast into small cubes and sear in olive oil over high heat for
+  4–5 minutes. Remove and set aside.
+- Finely dice the onion, garlic, and bell pepper. Sauté in the same pot for 3 minutes.
+- Stir in the chipotle paste, cumin, chili powder, and oregano, and toast for 1 minute.
+- Add the tomatoes, broth, and kidney beans. Bring to a boil.
+- Return the chicken to the pot and simmer over medium heat for 12–15 minutes until
+  the sauce thickens. Season to taste.

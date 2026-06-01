@@ -7,119 +7,119 @@ quick_minutes: 30
 meals: 2
 de:
   title: Indisches Hähnchen mit Spinat und Joghurt
-  summary: |-
-    Zartes Hähnchen in einer würzigen Joghurtsauce mit frischem Spinat – leicht, aromatisch und schnell zubereitet.
+  summary: Zartes Hähnchen in einer würzigen Joghurtsauce mit frischem Spinat – leicht,
+    aromatisch und schnell zubereitet.
 en:
-  title: 'TODO: Indisches Hähnchen mit Spinat und Joghurt'
-  summary: |-
-    TODO: Zartes Hähnchen in einer würzigen Joghurtsauce mit frischem Spinat – leicht, aromatisch und schnell zubereitet.
+  title: Indian Chicken with Spinach and Yogurt
+  summary: Tender chicken in a spiced yogurt sauce with fresh spinach – light, aromatic,
+    and ready in no time.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 600
   unit: g
   category: Protein und Milchprodukte
 - de_name: Vollfett-Joghurt
-  en_name: 'TODO: Vollfett-Joghurt'
+  en_name: full-fat yogurt
   qty: 200
   unit: g
   category: Protein und Milchprodukte
 - de_name: Blattspinat, frisch
-  en_name: 'TODO: Blattspinat, frisch'
+  en_name: fresh leaf spinach
   qty: 300
   unit: g
   category: Gemüse und Salat
 - de_name: Zwiebeln
-  en_name: 'TODO: Zwiebeln'
+  en_name: onions
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Ingwer, frisch
-  en_name: 'TODO: Ingwer, frisch'
+  en_name: fresh ginger
   qty: 3
   unit: cm
   category: Gemüse und Salat
 - de_name: Grüne Chilischote
-  en_name: 'TODO: Grüne Chilischote'
+  en_name: green chili pepper
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Basmatireis
-  en_name: 'TODO: Basmatireis'
+  en_name: basmati rice
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Pflanzenöl
-  en_name: 'TODO: Pflanzenöl'
+  en_name: vegetable oil
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Garam Masala
-  en_name: 'TODO: Garam Masala'
+  en_name: garam masala
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Kurkuma
-  en_name: 'TODO: Kurkuma'
+  en_name: turmeric
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Kreuzkümmel, gemahlen
-  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  en_name: ground cumin
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Koriander, gemahlen
-  en_name: 'TODO: Koriander, gemahlen'
+  en_name: ground coriander
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chilipulver
-  en_name: 'TODO: Chilipulver'
+  en_name: chili powder
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Kardamom, gemahlen
-  en_name: 'TODO: Kardamom, gemahlen'
+  en_name: ground cardamom
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Kreuzkümmelsamen
-  en_name: 'TODO: Kreuzkümmelsamen'
+  en_name: cumin seeds
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Hähnchen in Streifen schneiden. Mit 100 g Joghurt, Kurkuma, Chilipulver, Koriander und Salz marinieren. 30 Minuten ruhen lassen.
-- |-
-  Öl in einer großen Pfanne erhitzen. Kreuzkümmelsamen knistern lassen. Zwiebeln 8 Minuten goldbraun braten. Knoblauch und Ingwer reiben und hinzufügen.
-- |-
-  Garam Masala, Kreuzkümmel und Kardamom einstreuen, 1 Minute rösten. Gehackte grüne Chilischoten hinzufügen.
-- |-
-  Hähnchen in die Pfanne geben, bei starker Hitze 6–7 Minuten anbraten, bis es gar ist.
-- |-
-  Restlichen Joghurt einrühren, bei niedriger Hitze 5 Minuten erwärmen (nicht kochen, damit der Joghurt nicht gerinnt). Spinat portionsweise einrühren und zusammenfallen lassen.
+- Hähnchen in Streifen schneiden. Mit 100 g Joghurt, Kurkuma, Chilipulver, Koriander
+  und Salz marinieren. 30 Minuten ruhen lassen.
+- Öl in einer großen Pfanne erhitzen. Kreuzkümmelsamen knistern lassen. Zwiebeln 8
+  Minuten goldbraun braten. Knoblauch und Ingwer reiben und hinzufügen.
+- Garam Masala, Kreuzkümmel und Kardamom einstreuen, 1 Minute rösten. Gehackte grüne
+  Chilischoten hinzufügen.
+- Hähnchen in die Pfanne geben, bei starker Hitze 6–7 Minuten anbraten, bis es gar
+  ist.
+- Restlichen Joghurt einrühren, bei niedriger Hitze 5 Minuten erwärmen (nicht kochen,
+  damit der Joghurt nicht gerinnt). Spinat portionsweise einrühren und zusammenfallen
+  lassen.
 - Mit Salz und Garam Masala abschmecken. Mit Basmatireis servieren.
 en_steps:
-- |-
-  TODO: Hähnchen in Streifen schneiden. Mit 100 g Joghurt, Kurkuma, Chilipulver, Koriander und Salz marinieren. 30 Minuten ruhen lassen.
-- |-
-  TODO: Öl in einer großen Pfanne erhitzen. Kreuzkümmelsamen knistern lassen. Zwiebeln 8 Minuten goldbraun braten. Knoblauch und Ingwer reiben und hinzufügen.
-- |-
-  TODO: Garam Masala, Kreuzkümmel und Kardamom einstreuen, 1 Minute rösten. Gehackte grüne Chilischoten hinzufügen.
-- |-
-  TODO: Hähnchen in die Pfanne geben, bei starker Hitze 6–7 Minuten anbraten, bis es gar ist.
-- |-
-  TODO: Restlichen Joghurt einrühren, bei niedriger Hitze 5 Minuten erwärmen (nicht kochen, damit der Joghurt nicht gerinnt). Spinat portionsweise einrühren und zusammenfallen lassen.
-- 'TODO: Mit Salz und Garam Masala abschmecken. Mit Basmatireis servieren.'
+- Cut chicken into strips. Marinate with 100 g yogurt, turmeric, chili powder, coriander,
+  and salt. Let rest for 30 minutes.
+- Heat oil in a large pan. Let cumin seeds sizzle. Fry onions for 8 minutes until
+  golden brown. Grate garlic and ginger and add to the pan.
+- Sprinkle in garam masala, cumin, and cardamom; toast for 1 minute. Add chopped green
+  chilies.
+- Add chicken to the pan and sear over high heat for 6–7 minutes until cooked through.
+- Stir in the remaining yogurt and warm over low heat for 5 minutes (do not boil,
+  or the yogurt will curdle). Fold in spinach in batches and let it wilt.
+- Season with salt and garam masala. Serve with basmati rice.

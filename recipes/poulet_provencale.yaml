@@ -6,119 +6,117 @@ next_day: true
 meals: 2
 de:
   title: Hähnchen Provençale mit Oliven und Kräutern
-  summary: |-
-    Sonniges Schmorhuhn aus der Provence mit Oliven, Kapern, Tomaten, Herbes de Provence und einem Schuss Weißwein.
+  summary: Sonniges Schmorhuhn aus der Provence mit Oliven, Kapern, Tomaten, Herbes
+    de Provence und einem Schuss Weißwein.
 en:
-  title: 'TODO: Hähnchen Provençale mit Oliven und Kräutern'
-  summary: |-
-    TODO: Sonniges Schmorhuhn aus der Provence mit Oliven, Kapern, Tomaten, Herbes de Provence und einem Schuss Weißwein.
+  title: Chicken Provençale with Olives and Herbs
+  summary: Sun-drenched braised chicken from Provence with olives, capers, tomatoes,
+    herbes de Provence, and a splash of white wine.
 ingredients:
 - de_name: Hähnchenstücke mit Knochen
-  en_name: 'TODO: Hähnchenstücke mit Knochen'
+  en_name: Bone-in chicken pieces
   qty: 900
   unit: g
   category: Protein und Milchprodukte
 - de_name: Geschälte Tomaten aus der Dose
-  en_name: 'TODO: Geschälte Tomaten aus der Dose'
+  en_name: Canned peeled tomatoes
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Gemischte Oliven entsteint
-  en_name: 'TODO: Gemischte Oliven entsteint'
+  en_name: Mixed pitted olives
   qty: 100
   unit: g
   category: Konserven und Vorrat
 - de_name: Kapern abgetropft
-  en_name: 'TODO: Kapern abgetropft'
+  en_name: Capers, drained
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Trockener Weißwein
-  en_name: 'TODO: Trockener Weißwein'
+  en_name: Dry white wine
   qty: 150
   unit: ml
   category: Konserven und Vorrat
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: Chicken broth
   qty: 200
   unit: ml
   category: Konserven und Vorrat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: Onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: Garlic
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Frische Tomaten
-  en_name: 'TODO: Frische Tomaten'
+  en_name: Fresh tomatoes
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Herbes de Provence
-  en_name: 'TODO: Herbes de Provence'
+  en_name: Herbes de Provence
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Paprikapulver edelsüß
-  en_name: 'TODO: Paprikapulver edelsüß'
+  en_name: Sweet paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Lorbeerblätter
-  en_name: 'TODO: Lorbeerblätter'
+  en_name: Bay leaves
   qty: 2
   unit: Stk
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: Salt
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: Black pepper
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Frisches Basilikum
-  en_name: 'TODO: Frisches Basilikum'
+  en_name: Fresh basil
   qty: 0.5
   unit: Bund
   category: Gemüse und Salat
 de_steps:
 - Hähnchenstücke mit Salz, Pfeffer und Paprikapulver würzen.
-- |-
-  Olivenöl im Schmortopf erhitzen, Hähnchen von beiden Seiten 5 Minuten goldbraun anbraten. Herausnehmen.
-- |-
-  Zwiebel in Ringe und Knoblauch grob hacken. Im Bratfett bei mittlerer Hitze 5 Minuten anschwitzen.
+- Olivenöl im Schmortopf erhitzen, Hähnchen von beiden Seiten 5 Minuten goldbraun
+  anbraten. Herausnehmen.
+- Zwiebel in Ringe und Knoblauch grob hacken. Im Bratfett bei mittlerer Hitze 5 Minuten
+  anschwitzen.
 - Frische Tomaten grob würfeln und dazugeben, 3 Minuten mitschmoren.
-- |-
-  Herbes de Provence und Lorbeer einrühren. Mit Weißwein ablöschen, 2 Minuten einkochen.
-- |-
-  Dosentomaten zerdrückt und Brühe dazugeben. Hähnchenstücke zurücklegen, zugedeckt 35 Minuten bei niedriger Hitze schmoren.
-- |-
-  Deckel abnehmen, Oliven und Kapern einrühren. 10 Minuten offen köcheln. Lorbeer entfernen.
+- Herbes de Provence und Lorbeer einrühren. Mit Weißwein ablöschen, 2 Minuten einkochen.
+- Dosentomaten zerdrückt und Brühe dazugeben. Hähnchenstücke zurücklegen, zugedeckt
+  35 Minuten bei niedriger Hitze schmoren.
+- Deckel abnehmen, Oliven und Kapern einrühren. 10 Minuten offen köcheln. Lorbeer
+  entfernen.
 - Mit frischem Basilikum bestreuen. Mit Couscous, Polenta oder Baguette servieren.
 en_steps:
-- 'TODO: Hähnchenstücke mit Salz, Pfeffer und Paprikapulver würzen.'
-- |-
-  TODO: Olivenöl im Schmortopf erhitzen, Hähnchen von beiden Seiten 5 Minuten goldbraun anbraten. Herausnehmen.
-- |-
-  TODO: Zwiebel in Ringe und Knoblauch grob hacken. Im Bratfett bei mittlerer Hitze 5 Minuten anschwitzen.
-- 'TODO: Frische Tomaten grob würfeln und dazugeben, 3 Minuten mitschmoren.'
-- |-
-  TODO: Herbes de Provence und Lorbeer einrühren. Mit Weißwein ablöschen, 2 Minuten einkochen.
-- |-
-  TODO: Dosentomaten zerdrückt und Brühe dazugeben. Hähnchenstücke zurücklegen, zugedeckt 35 Minuten bei niedriger Hitze schmoren.
-- |-
-  TODO: Deckel abnehmen, Oliven und Kapern einrühren. 10 Minuten offen köcheln. Lorbeer entfernen.
-- |-
-  TODO: Mit frischem Basilikum bestreuen. Mit Couscous, Polenta oder Baguette servieren.
+- Season chicken pieces with salt, pepper, and paprika.
+- Heat olive oil in a braising pot and brown the chicken on both sides for 5 minutes.
+  Remove and set aside.
+- Slice the onion into rings and roughly chop the garlic. Sauté in the remaining fat
+  over medium heat for 5 minutes.
+- Roughly dice the fresh tomatoes and add them, simmering for 3 minutes.
+- Stir in the herbes de Provence and bay leaves. Deglaze with white wine and reduce
+  for 2 minutes.
+- Add the crushed canned tomatoes and broth. Return the chicken, cover, and braise
+  over low heat for 35 minutes.
+- Remove the lid, stir in the olives and capers, and simmer uncovered for 10 minutes.
+  Discard the bay leaves.
+- Scatter fresh basil over the top and serve with couscous, polenta, or baguette.

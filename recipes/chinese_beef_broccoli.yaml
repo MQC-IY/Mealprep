@@ -6,115 +6,114 @@ next_day: false
 meals: 2
 de:
   title: Chinesisches Rindfleisch mit Brokkoli
-  summary: |-
-    Saftiges Rindfleisch und knackiger Brokkoli in einer glänzenden Soja-Austernsauce-Glasur – ein chinesischer Wokklassiker.
+  summary: Saftiges Rindfleisch und knackiger Brokkoli in einer glänzenden Soja-Austernsauce-Glasur
+    – ein chinesischer Wokklassiker.
 en:
-  title: 'TODO: Chinesisches Rindfleisch mit Brokkoli'
-  summary: |-
-    TODO: Saftiges Rindfleisch und knackiger Brokkoli in einer glänzenden Soja-Austernsauce-Glasur – ein chinesischer Wokklassiker.
+  title: Chinese Beef and Broccoli
+  summary: Juicy beef and crisp-tender broccoli in a glossy soy and oyster sauce glaze
+    — a classic Chinese wok dish.
 ingredients:
 - de_name: Rinderhüfte oder Rindersteak
-  en_name: 'TODO: Rinderhüfte oder Rindersteak'
+  en_name: beef sirloin or flank steak
   qty: 350
   unit: g
   category: Protein und Milchprodukte
 - de_name: Jasminreis
-  en_name: 'TODO: Jasminreis'
+  en_name: jasmine rice
   qty: 200
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Brokkoli
-  en_name: 'TODO: Brokkoli'
+  en_name: broccoli
   qty: 400
   unit: g
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Ingwer, frisch
-  en_name: 'TODO: Ingwer, frisch'
+  en_name: fresh ginger
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Sojasauce
-  en_name: 'TODO: Sojasauce'
+  en_name: soy sauce
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Austernsauce
-  en_name: 'TODO: Austernsauce'
+  en_name: oyster sauce
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Dunkle Sojasauce
-  en_name: 'TODO: Dunkle Sojasauce'
+  en_name: dark soy sauce
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Shaoxing-Reiswein
-  en_name: 'TODO: Shaoxing-Reiswein'
+  en_name: Shaoxing rice wine
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sesamöl
-  en_name: 'TODO: Sesamöl'
+  en_name: sesame oil
   qty: 1
   unit: TL
   category: Konserven und Vorrat
 - de_name: Speisestärke
-  en_name: 'TODO: Speisestärke'
+  en_name: cornstarch
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Hühner- oder Rinderfond
-  en_name: 'TODO: Hühner- oder Rinderfond'
+  en_name: chicken or beef stock
   qty: 100
   unit: ml
   category: Konserven und Vorrat
 - de_name: Erdnussöl
-  en_name: 'TODO: Erdnussöl'
+  en_name: peanut oil
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Zucker
-  en_name: 'TODO: Zucker'
+  en_name: sugar
   qty: 1
   unit: TL
   category: Konserven und Vorrat
 - de_name: Schwarzer Pfeffer, gemahlen
-  en_name: 'TODO: Schwarzer Pfeffer, gemahlen'
+  en_name: ground black pepper
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
 - Jasminreis waschen und kochen.
-- |-
-  Rindfleisch gegen die Faser in dünne Scheiben schneiden. Mit 1 EL Sojasauce, 1 EL Shaoxing-Wein, Stärke (1 EL) und Pfeffer 20 Minuten marinieren.
-- |-
-  Brokkoli in Röschen teilen. In kochendem Salzwasser 2 Minuten blanchieren, kalt abschrecken.
-- |-
-  Sauce: restliche Sojasauce, Austernsauce, dunkle Sojasauce, Fond, Zucker und restliche Stärke (1 EL in Wasser) verrühren.
-- |-
-  Öl im Wok bei maximaler Hitze erhitzen. Rindfleisch portionsweise 2 Minuten scharf braten. Herausnehmen.
-- |-
-  Knoblauch und Ingwer im Wok 30 Sek. anbraten. Brokkoli zugeben und 2 Minuten mitbraten.
-- |-
-  Rindfleisch zurückgeben. Sauce angießen. Unter Rühren 1–2 Minuten aufkochen bis die Sauce bindet.
+- Rindfleisch gegen die Faser in dünne Scheiben schneiden. Mit 1 EL Sojasauce, 1 EL
+  Shaoxing-Wein, Stärke (1 EL) und Pfeffer 20 Minuten marinieren.
+- Brokkoli in Röschen teilen. In kochendem Salzwasser 2 Minuten blanchieren, kalt
+  abschrecken.
+- 'Sauce: restliche Sojasauce, Austernsauce, dunkle Sojasauce, Fond, Zucker und restliche
+  Stärke (1 EL in Wasser) verrühren.'
+- Öl im Wok bei maximaler Hitze erhitzen. Rindfleisch portionsweise 2 Minuten scharf
+  braten. Herausnehmen.
+- Knoblauch und Ingwer im Wok 30 Sek. anbraten. Brokkoli zugeben und 2 Minuten mitbraten.
+- Rindfleisch zurückgeben. Sauce angießen. Unter Rühren 1–2 Minuten aufkochen bis
+  die Sauce bindet.
 - Sesamöl unterrühren. Sofort mit Jasminreis servieren.
 en_steps:
-- 'TODO: Jasminreis waschen und kochen.'
-- |-
-  TODO: Rindfleisch gegen die Faser in dünne Scheiben schneiden. Mit 1 EL Sojasauce, 1 EL Shaoxing-Wein, Stärke (1 EL) und Pfeffer 20 Minuten marinieren.
-- |-
-  TODO: Brokkoli in Röschen teilen. In kochendem Salzwasser 2 Minuten blanchieren, kalt abschrecken.
-- |-
-  TODO: Sauce: restliche Sojasauce, Austernsauce, dunkle Sojasauce, Fond, Zucker und restliche Stärke (1 EL in Wasser) verrühren.
-- |-
-  TODO: Öl im Wok bei maximaler Hitze erhitzen. Rindfleisch portionsweise 2 Minuten scharf braten. Herausnehmen.
-- |-
-  TODO: Knoblauch und Ingwer im Wok 30 Sek. anbraten. Brokkoli zugeben und 2 Minuten mitbraten.
-- |-
-  TODO: Rindfleisch zurückgeben. Sauce angießen. Unter Rühren 1–2 Minuten aufkochen bis die Sauce bindet.
-- 'TODO: Sesamöl unterrühren. Sofort mit Jasminreis servieren.'
+- Wash and cook the jasmine rice.
+- Slice the beef thinly against the grain. Marinate with 1 tbsp soy sauce, 1 tbsp
+  Shaoxing wine, cornstarch (1 tbsp), and pepper for 20 minutes.
+- Separate the broccoli into florets. Blanch in boiling salted water for 2 minutes,
+  then refresh in cold water.
+- 'Sauce: combine the remaining soy sauce, oyster sauce, dark soy sauce, stock, sugar,
+  and the remaining cornstarch (1 tbsp dissolved in water).'
+- Heat the oil in a wok over maximum heat. Sear the beef in batches for 2 minutes.
+  Remove.
+- Stir-fry the garlic and ginger in the wok for 30 seconds. Add the broccoli and stir-fry
+  for 2 minutes.
+- Return the beef to the wok. Pour in the sauce. Stir-fry for 1–2 minutes until the
+  sauce thickens and coats everything.
+- Stir in the sesame oil. Serve immediately with jasmine rice.

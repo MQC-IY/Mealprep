@@ -9,47 +9,46 @@ de:
   title: Hähnchen-Couscous-Pfanne mit Möhren
   summary: Schnelle Couscous-Pfanne mit Hähnchen, Möhren, Erbsen und milder Würzung.
 en:
-  title: 'TODO: Hähnchen-Couscous-Pfanne mit Möhren'
-  summary: 'TODO: Schnelle Couscous-Pfanne mit Hähnchen, Möhren, Erbsen und milder
-    Würzung.'
+  title: Chicken Couscous Pan with Carrots
+  summary: A quick couscous pan with chicken, carrots, peas, and mild seasoning.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 750
   unit: g
   category: Protein und Milchprodukte
 - de_name: Couscous
-  en_name: 'TODO: Couscous'
+  en_name: couscous
   qty: 280
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: carrots
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Erbsen, TK
-  en_name: 'TODO: Erbsen, TK'
+  en_name: frozen peas
   qty: 200
   unit: g
   category: Gemüse und Salat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Paprika edelsüß
-  en_name: 'TODO: Paprika edelsüß'
+  en_name: sweet paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -58,6 +57,6 @@ de_steps:
 - Hähnchen mit Zwiebel scharf anbraten.
 - Möhren und Erbsen weich garen.
 en_steps:
-- 'TODO: Couscous quellen lassen.'
-- 'TODO: Hähnchen mit Zwiebel scharf anbraten.'
-- 'TODO: Möhren und Erbsen weich garen.'
+- Soak the couscous in hot stock or water.
+- Sear the chicken with the onion over high heat.
+- Cook the carrots and peas until tender.

@@ -9,47 +9,47 @@ de:
   title: Kürbis-Linsen-Orzo-Topf
   summary: Milder Topf mit roten Linsen, Kürbiswürfeln und Orzo in leichter Tomatenbasis.
 en:
-  title: 'TODO: Kürbis-Linsen-Orzo-Topf'
-  summary: |-
-    TODO: Milder Topf mit roten Linsen, Kürbiswürfeln und Orzo in leichter Tomatenbasis.
+  title: Pumpkin Lentil Orzo Pot
+  summary: Mild one-pot with red lentils, pumpkin cubes, and orzo in a light tomato
+    base.
 ingredients:
 - de_name: Rote Linsen
-  en_name: 'TODO: Rote Linsen'
+  en_name: red lentils
   qty: 220
   unit: g
   category: Konserven und Vorrat
 - de_name: Orzo oder Kritharaki
-  en_name: 'TODO: Orzo oder Kritharaki'
+  en_name: orzo or kritharaki
   qty: 180
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Hokkaido-Kürbis
-  en_name: 'TODO: Hokkaido-Kürbis'
+  en_name: Hokkaido pumpkin
   qty: 700
   unit: g
   category: Gemüse und Salat
 - de_name: Passierte Tomaten
-  en_name: 'TODO: Passierte Tomaten'
+  en_name: tomato passata
   qty: 1
   unit: Glas
   category: Konserven und Vorrat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Currypulver
-  en_name: 'TODO: Currypulver'
+  en_name: curry powder
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -58,6 +58,6 @@ de_steps:
 - Kürbis klein würfeln und mit Linsen und Tomaten zugeben.
 - Mit Wasser weich köcheln lassen, Orzo gegen Ende einrühren.
 en_steps:
-- 'TODO: Zwiebel in Olivenöl anschwitzen.'
-- 'TODO: Kürbis klein würfeln und mit Linsen und Tomaten zugeben.'
-- 'TODO: Mit Wasser weich köcheln lassen, Orzo gegen Ende einrühren.'
+- Sweat onion in olive oil.
+- Dice pumpkin small and add together with lentils and tomatoes.
+- Simmer with water until tender; stir in orzo towards the end.

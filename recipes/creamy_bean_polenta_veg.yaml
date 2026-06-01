@@ -9,47 +9,46 @@ de:
   title: Cremige Polenta mit Bohnen und Gemüse
   summary: Sehr schnelles Komfortgericht mit Polenta, weißen Bohnen und mildem Gemüse.
 en:
-  title: 'TODO: Cremige Polenta mit Bohnen und Gemüse'
-  summary: |-
-    TODO: Sehr schnelles Komfortgericht mit Polenta, weißen Bohnen und mildem Gemüse.
+  title: Creamy Polenta with Beans and Vegetables
+  summary: A very quick comfort dish of creamy polenta, white beans, and mild vegetables.
 ingredients:
 - de_name: Polenta
-  en_name: 'TODO: Polenta'
+  en_name: polenta
   qty: 250
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Weiße Bohnen
-  en_name: 'TODO: Weiße Bohnen'
+  en_name: white beans
   qty: 2
   unit: Dosen
   category: Konserven und Vorrat
 - de_name: Zucchini
-  en_name: 'TODO: Zucchini'
+  en_name: courgette
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: carrots
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Passierte Tomaten
-  en_name: 'TODO: Passierte Tomaten'
+  en_name: passata
   qty: 1
   unit: Glas
   category: Konserven und Vorrat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Basilikum
-  en_name: 'TODO: Basilikum'
+  en_name: basil
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -58,6 +57,6 @@ de_steps:
 - Gemüse in Olivenöl anschwitzen, Bohnen und Tomaten zugeben.
 - Kurz weich köcheln lassen.
 en_steps:
-- 'TODO: Polenta weich rühren.'
-- 'TODO: Gemüse in Olivenöl anschwitzen, Bohnen und Tomaten zugeben.'
-- 'TODO: Kurz weich köcheln lassen.'
+- Cook the polenta until creamy and smooth.
+- Sauté the vegetables in olive oil, then add the beans and passata.
+- Simmer briefly until tender.

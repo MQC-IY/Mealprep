@@ -6,113 +6,113 @@ next_day: true
 meals: 2
 de:
   title: Nikujaga – Japanischer Fleisch-Kartoffel-Eintopf
-  summary: |-
-    Herzhafter japanischer Hausmannskost-Eintopf mit Rindfleisch, Kartoffeln und Möhren in würziger Dashi-Sojasoßen-Brühe.
+  summary: Herzhafter japanischer Hausmannskost-Eintopf mit Rindfleisch, Kartoffeln
+    und Möhren in würziger Dashi-Sojasoßen-Brühe.
 en:
-  title: 'TODO: Nikujaga – Japanischer Fleisch-Kartoffel-Eintopf'
-  summary: |-
-    TODO: Herzhafter japanischer Hausmannskost-Eintopf mit Rindfleisch, Kartoffeln und Möhren in würziger Dashi-Sojasoßen-Brühe.
+  title: Nikujaga – Japanese Meat and Potato Stew
+  summary: A hearty Japanese home-cooking stew with beef, potatoes and carrots simmered
+    in a savory dashi-soy broth.
 ingredients:
 - de_name: Rindfleisch (Hüfte, dünn geschnitten)
-  en_name: 'TODO: Rindfleisch (Hüfte, dünn geschnitten)'
+  en_name: beef (rump, thinly sliced)
   qty: 500
   unit: g
   category: Protein und Milchprodukte
 - de_name: Kartoffeln (festkochend)
-  en_name: 'TODO: Kartoffeln (festkochend)'
+  en_name: potatoes (waxy)
   qty: 700
   unit: g
   category: Gemüse und Salat
 - de_name: Karotten
-  en_name: 'TODO: Karotten'
+  en_name: carrots
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zwiebeln
-  en_name: 'TODO: Zwiebeln'
+  en_name: onions
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Frühlingszwiebeln
-  en_name: 'TODO: Frühlingszwiebeln'
+  en_name: spring onions
   qty: 1
   unit: Bund
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 2
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Shirataki-Nudeln (Konnyaku)
-  en_name: 'TODO: Shirataki-Nudeln (Konnyaku)'
+  en_name: shirataki noodles (konnyaku)
   qty: 200
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Dashi-Brühe
-  en_name: 'TODO: Dashi-Brühe'
+  en_name: dashi stock
   qty: 600
   unit: ml
   category: Konserven und Vorrat
 - de_name: Sojasoße
-  en_name: 'TODO: Sojasoße'
+  en_name: soy sauce
   qty: 5
   unit: EL
   category: Konserven und Vorrat
 - de_name: Mirin
-  en_name: 'TODO: Mirin'
+  en_name: mirin
   qty: 4
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sake
-  en_name: 'TODO: Sake'
+  en_name: sake
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Zucker
-  en_name: 'TODO: Zucker'
+  en_name: sugar
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Pflanzenöl
-  en_name: 'TODO: Pflanzenöl'
+  en_name: vegetable oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Togarashi
-  en_name: 'TODO: Togarashi'
+  en_name: togarashi
   qty: 1
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Kartoffeln schälen und in grobe Stücke (ca. 4 cm) schneiden. In kaltem Wasser 10 Minuten wässern, dann abgießen.
-- |-
-  Karotten schräg in 1 cm dicke Scheiben schneiden. Zwiebeln in Spalten schneiden. Knoblauch fein hacken.
-- |-
-  Öl in einem großen Topf erhitzen. Rindfleischstreifen darin 2–3 Minuten anbraten. Herausnehmen.
-- |-
-  Zwiebeln und Knoblauch im selben Topf 3 Minuten glasig dünsten. Kartoffeln und Karotten dazugeben und kurz mitbraten.
+- Kartoffeln schälen und in grobe Stücke (ca. 4 cm) schneiden. In kaltem Wasser 10
+  Minuten wässern, dann abgießen.
+- Karotten schräg in 1 cm dicke Scheiben schneiden. Zwiebeln in Spalten schneiden.
+  Knoblauch fein hacken.
+- Öl in einem großen Topf erhitzen. Rindfleischstreifen darin 2–3 Minuten anbraten.
+  Herausnehmen.
+- Zwiebeln und Knoblauch im selben Topf 3 Minuten glasig dünsten. Kartoffeln und Karotten
+  dazugeben und kurz mitbraten.
 - Dashi-Brühe, Sojasoße, Mirin, Sake und Zucker einrühren. Aufkochen lassen.
-- |-
-  Rindfleisch und Shirataki-Nudeln zurückgeben. Abdecken und bei niedriger Hitze 20 Minuten köcheln, bis die Kartoffeln weich sind.
-- |-
-  Deckel abnehmen und weitere 5 Minuten einkochen, bis die Brühe leicht sämig wird. Mit Frühlingszwiebelringen servieren.
+- Rindfleisch und Shirataki-Nudeln zurückgeben. Abdecken und bei niedriger Hitze 20
+  Minuten köcheln, bis die Kartoffeln weich sind.
+- Deckel abnehmen und weitere 5 Minuten einkochen, bis die Brühe leicht sämig wird.
+  Mit Frühlingszwiebelringen servieren.
 en_steps:
-- |-
-  TODO: Kartoffeln schälen und in grobe Stücke (ca. 4 cm) schneiden. In kaltem Wasser 10 Minuten wässern, dann abgießen.
-- |-
-  TODO: Karotten schräg in 1 cm dicke Scheiben schneiden. Zwiebeln in Spalten schneiden. Knoblauch fein hacken.
-- |-
-  TODO: Öl in einem großen Topf erhitzen. Rindfleischstreifen darin 2–3 Minuten anbraten. Herausnehmen.
-- |-
-  TODO: Zwiebeln und Knoblauch im selben Topf 3 Minuten glasig dünsten. Kartoffeln und Karotten dazugeben und kurz mitbraten.
-- 'TODO: Dashi-Brühe, Sojasoße, Mirin, Sake und Zucker einrühren. Aufkochen lassen.'
-- |-
-  TODO: Rindfleisch und Shirataki-Nudeln zurückgeben. Abdecken und bei niedriger Hitze 20 Minuten köcheln, bis die Kartoffeln weich sind.
-- |-
-  TODO: Deckel abnehmen und weitere 5 Minuten einkochen, bis die Brühe leicht sämig wird. Mit Frühlingszwiebelringen servieren.
+- Peel the potatoes and cut into large chunks (about 4 cm). Soak in cold water for
+  10 minutes, then drain.
+- Cut the carrots diagonally into 1 cm slices. Cut the onions into wedges. Finely
+  chop the garlic.
+- Heat the oil in a large pot. Brown the beef strips for 2–3 minutes. Remove and set
+  aside.
+- In the same pot, sweat the onions and garlic for 3 minutes until translucent. Add
+  the potatoes and carrots and briefly sauté.
+- Stir in the dashi stock, soy sauce, mirin, sake and sugar. Bring to a boil.
+- Return the beef and add the shirataki noodles. Cover and simmer over low heat for
+  20 minutes, until the potatoes are tender.
+- Remove the lid and continue cooking for a further 5 minutes until the broth thickens
+  slightly. Serve garnished with spring onion rings.

@@ -6,121 +6,125 @@ next_day: true
 meals: 3
 de:
   title: Nigerianisches Suya-Hähnchen mit Jollof-Reis
-  summary: |-
-    Nigerianischer Straßenimbiss-Klassiker: Hähnchen in einer erdnussreichen Suya-Gewürzmischung mariniert und gegrillt, serviert mit würzigem Jollof-Reis.
+  summary: 'Nigerianischer Straßenimbiss-Klassiker: Hähnchen in einer erdnussreichen
+    Suya-Gewürzmischung mariniert und gegrillt, serviert mit würzigem Jollof-Reis.'
 en:
-  title: 'TODO: Nigerianisches Suya-Hähnchen mit Jollof-Reis'
-  summary: |-
-    TODO: Nigerianischer Straßenimbiss-Klassiker: Hähnchen in einer erdnussreichen Suya-Gewürzmischung mariniert und gegrillt, serviert mit würzigem Jollof-Reis.
+  title: Nigerian Suya Chicken with Jollof Rice
+  summary: 'A Nigerian street-food classic: chicken marinated in a peanut-rich Suya
+    spice blend and grilled, served alongside smoky, spiced Jollof rice.'
 ingredients:
 - de_name: Hähnchenbrust oder -schenkel
-  en_name: 'TODO: Hähnchenbrust oder -schenkel'
+  en_name: chicken breast or thighs
   qty: 1000
   unit: g
   category: Protein und Milchprodukte
 - de_name: Erdnussbutter (ungesüßt)
-  en_name: 'TODO: Erdnussbutter (ungesüßt)'
+  en_name: unsweetened peanut butter
   qty: 60
   unit: g
   category: Konserven und Vorrat
 - de_name: Gehackte Tomaten
-  en_name: 'TODO: Gehackte Tomaten'
+  en_name: chopped tomatoes
   qty: 2
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: chicken stock
   qty: 400
   unit: ml
   category: Konserven und Vorrat
 - de_name: Palmöl oder Rapsöl
-  en_name: 'TODO: Palmöl oder Rapsöl'
+  en_name: palm oil or rapeseed oil
   qty: 4
   unit: EL
   category: Konserven und Vorrat
 - de_name: Tomatenmark
-  en_name: 'TODO: Tomatenmark'
+  en_name: tomato paste
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Langkornreis
-  en_name: 'TODO: Langkornreis'
+  en_name: long-grain rice
   qty: 350
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Ingwer, frisch
-  en_name: 'TODO: Ingwer, frisch'
+  en_name: fresh ginger
   qty: 30
   unit: g
   category: Gemüse und Salat
 - de_name: Scotch-Bonnet-Chili oder Habanero
-  en_name: 'TODO: Scotch-Bonnet-Chili oder Habanero'
+  en_name: Scotch bonnet chili or habanero
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Erdnüsse, gemahlen
-  en_name: 'TODO: Erdnüsse, gemahlen'
+  en_name: ground peanuts
   qty: 60
   unit: g
   category: Konserven und Vorrat
 - de_name: Paprika edelsüß
-  en_name: 'TODO: Paprika edelsüß'
+  en_name: sweet paprika
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Ingwer, gemahlen
-  en_name: 'TODO: Ingwer, gemahlen'
+  en_name: ground ginger
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Cayennepfeffer
-  en_name: 'TODO: Cayennepfeffer'
+  en_name: cayenne pepper
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Zwiebelpulver
-  en_name: 'TODO: Zwiebelpulver'
+  en_name: onion powder
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Thymian, getrocknet
-  en_name: 'TODO: Thymian, getrocknet'
+  en_name: dried thyme
   qty: 1.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Suya-Marinade herstellen: gemahlene Erdnüsse, Erdnussbutter, Paprika edelsüß, gemahlenen Ingwer, Cayennepfeffer und Zwiebelpulver mischen. Hähnchen in Streifen schneiden, großzügig einreiben und mindestens 1 Stunde marinieren.
-- |-
-  Für den Jollof-Reis Paprika und Scotch-Bonnet mit der Hälfte der Tomaten und einer Zwiebel pürieren.
-- |-
-  Restliche Zwiebeln würfeln. Öl in einem Topf erhitzen. Zwiebeln 5 Minuten anbraten. Tomatenmark zugeben, dunkel rösten.
-- |-
-  Tomatenpüree zugeben, 15 Minuten einköcheln bis sehr dick. Thymian und Gewürze einrühren. Reis zugeben, 2 Minuten mitrösten. Hühnerbrühe angießen. Deckel drauf, 25 Minuten bei niedriger Hitze köcheln.
-- |-
-  Backofen auf 220 °C Grillfunktion vorheizen oder Grillpfanne erhitzen. Hähnchen auf Spieße stecken oder auf einem Gitterrost 10–12 Minuten grillen, wenden, bis es leicht angebrannt und durch ist.
-- |-
-  Suya-Hähnchen mit Jollof-Reis, in Ringe geschnittener Zwiebel und Chiliflocken servieren.
+- 'Suya-Marinade herstellen: gemahlene Erdnüsse, Erdnussbutter, Paprika edelsüß, gemahlenen
+  Ingwer, Cayennepfeffer und Zwiebelpulver mischen. Hähnchen in Streifen schneiden,
+  großzügig einreiben und mindestens 1 Stunde marinieren.'
+- Für den Jollof-Reis Paprika und Scotch-Bonnet mit der Hälfte der Tomaten und einer
+  Zwiebel pürieren.
+- Restliche Zwiebeln würfeln. Öl in einem Topf erhitzen. Zwiebeln 5 Minuten anbraten.
+  Tomatenmark zugeben, dunkel rösten.
+- Tomatenpüree zugeben, 15 Minuten einköcheln bis sehr dick. Thymian und Gewürze einrühren.
+  Reis zugeben, 2 Minuten mitrösten. Hühnerbrühe angießen. Deckel drauf, 25 Minuten
+  bei niedriger Hitze köcheln.
+- Backofen auf 220 °C Grillfunktion vorheizen oder Grillpfanne erhitzen. Hähnchen
+  auf Spieße stecken oder auf einem Gitterrost 10–12 Minuten grillen, wenden, bis
+  es leicht angebrannt und durch ist.
+- Suya-Hähnchen mit Jollof-Reis, in Ringe geschnittener Zwiebel und Chiliflocken servieren.
 en_steps:
-- |-
-  TODO: Suya-Marinade herstellen: gemahlene Erdnüsse, Erdnussbutter, Paprika edelsüß, gemahlenen Ingwer, Cayennepfeffer und Zwiebelpulver mischen. Hähnchen in Streifen schneiden, großzügig einreiben und mindestens 1 Stunde marinieren.
-- |-
-  TODO: Für den Jollof-Reis Paprika und Scotch-Bonnet mit der Hälfte der Tomaten und einer Zwiebel pürieren.
-- |-
-  TODO: Restliche Zwiebeln würfeln. Öl in einem Topf erhitzen. Zwiebeln 5 Minuten anbraten. Tomatenmark zugeben, dunkel rösten.
-- |-
-  TODO: Tomatenpüree zugeben, 15 Minuten einköcheln bis sehr dick. Thymian und Gewürze einrühren. Reis zugeben, 2 Minuten mitrösten. Hühnerbrühe angießen. Deckel drauf, 25 Minuten bei niedriger Hitze köcheln.
-- |-
-  TODO: Backofen auf 220 °C Grillfunktion vorheizen oder Grillpfanne erhitzen. Hähnchen auf Spieße stecken oder auf einem Gitterrost 10–12 Minuten grillen, wenden, bis es leicht angebrannt und durch ist.
-- |-
-  TODO: Suya-Hähnchen mit Jollof-Reis, in Ringe geschnittener Zwiebel und Chiliflocken servieren.
+- 'Make the Suya marinade: mix ground peanuts, peanut butter, sweet paprika, ground
+  ginger, cayenne pepper and onion powder. Cut chicken into strips, rub generously
+  with the marinade and leave to marinate for at least 1 hour.'
+- For the Jollof rice, blend the bell peppers and Scotch bonnet with half the tomatoes
+  and one onion until smooth.
+- Dice the remaining onions. Heat oil in a pot. Fry the onions for 5 minutes. Add
+  tomato paste and cook until darkened.
+- Add the tomato-pepper purée and simmer for 15 minutes until very thick. Stir in
+  thyme and spices. Add the rice and toast for 2 minutes. Pour in the chicken stock.
+  Cover and simmer over low heat for 25 minutes.
+- Preheat the oven to 220 °C grill setting, or heat a grill pan. Thread the chicken
+  onto skewers or place on a wire rack and grill for 10–12 minutes, turning, until
+  slightly charred and cooked through.
+- Serve the Suya chicken with Jollof rice, thinly sliced onion rings and chili flakes.

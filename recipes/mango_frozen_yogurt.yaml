@@ -4,59 +4,67 @@ healthy: true
 meals: 8
 de:
   title: Mango-Frozen-Joghurt
-  summary: "Cremiger Frozen Joghurt aus reifen Mangos und Griechischem Joghurt — nur drei Zutaten, keine Eismaschine nötig und erfrischend süß."
+  summary: Cremiger Frozen Joghurt aus reifen Mangos und Griechischem Joghurt — nur
+    drei Zutaten, keine Eismaschine nötig und erfrischend süß.
 en:
-  title: "TODO: Mango-Frozen-Joghurt"
-  summary: "TODO: Cremiger Frozen Joghurt aus reifen Mangos und Griechischem Joghurt — nur drei Zutaten, keine Eismaschine nötig und erfrischend süß."
+  title: Mango Frozen Yogurt
+  summary: Creamy frozen yogurt made from ripe mangoes and Greek yogurt — just three
+    ingredients, no ice cream machine needed, and refreshingly sweet.
 ingredients:
-  - de_name: reife Mangos (frisch oder TK)
-    en_name: "TODO: reife Mangos (frisch oder TK)"
-    qty: 1200
-    unit: g
-    category: Obst
-  - de_name: "Griechischer Joghurt (10 % Fett)"
-    en_name: "TODO: Griechischer Joghurt (10 % Fett)"
-    qty: 600
-    unit: g
-    category: Protein und Milchprodukte
-  - de_name: Honig
-    en_name: "TODO: Honig"
-    qty: 3
-    unit: EL
-    category: Konserven und Vorrat
-  - de_name: Limettensaft
-    en_name: "TODO: Limettensaft"
-    qty: 3
-    unit: EL
-    category: Obst
-  - de_name: Vanilleextrakt
-    en_name: "TODO: Vanilleextrakt"
-    qty: 1
-    unit: TL
-    category: Gewürze
-  - de_name: frische Minze zum Garnieren
-    en_name: "TODO: frische Minze zum Garnieren"
-    qty: 1
-    unit: Stk
-    category: Gewürze
-  - de_name: Chiliflocken optional
-    en_name: "TODO: Chiliflocken optional"
-    qty: 1
-    unit: Prise
-    category: Gewürze
+- de_name: reife Mangos (frisch oder TK)
+  en_name: Ripe mangoes (fresh or frozen)
+  qty: 1200
+  unit: g
+  category: Obst
+- de_name: Griechischer Joghurt (10 % Fett)
+  en_name: Greek yogurt (10% fat)
+  qty: 600
+  unit: g
+  category: Protein und Milchprodukte
+- de_name: Honig
+  en_name: Honey
+  qty: 3
+  unit: EL
+  category: Konserven und Vorrat
+- de_name: Limettensaft
+  en_name: Lime juice
+  qty: 3
+  unit: EL
+  category: Obst
+- de_name: Vanilleextrakt
+  en_name: Vanilla extract
+  qty: 1
+  unit: TL
+  category: Gewürze
+- de_name: frische Minze zum Garnieren
+  en_name: Fresh mint for garnish
+  qty: 1
+  unit: Stk
+  category: Gewürze
+- de_name: Chiliflocken optional
+  en_name: Chili flakes (optional)
+  qty: 1
+  unit: Prise
+  category: Gewürze
 de_steps:
-  - "Frische Mangos schälen, das Fruchtfleisch vom Stein schneiden und in Würfel schneiden. TK-Mango 10 Minuten antauen lassen."
-  - Mangostücke in einem Mixer zu einem glatten Püree verarbeiten.
-  - "Joghurt, Honig, Limettensaft und Vanilleextrakt hinzufügen und alles cremig mixen."
-  - "Masse in eine flache, gefriergeeignete Form gießen, glattstreichen und mit Frischhaltefolie bedecken."
-  - "Mindestens 4 Stunden, besser über Nacht, einfrieren."
-  - 20–30 Minuten vor dem Servieren aus dem Gefrierfach nehmen und antauen lassen.
-  - "Mit einem Eisportionierer Kugeln formen, in Schälchen geben und mit Minze sowie optional etwas Chiliflocken garnieren. Im Gefrierfach bis zu 2 Monate haltbar."
+- Frische Mangos schälen, das Fruchtfleisch vom Stein schneiden und in Würfel schneiden.
+  TK-Mango 10 Minuten antauen lassen.
+- Mangostücke in einem Mixer zu einem glatten Püree verarbeiten.
+- Joghurt, Honig, Limettensaft und Vanilleextrakt hinzufügen und alles cremig mixen.
+- Masse in eine flache, gefriergeeignete Form gießen, glattstreichen und mit Frischhaltefolie
+  bedecken.
+- Mindestens 4 Stunden, besser über Nacht, einfrieren.
+- 20–30 Minuten vor dem Servieren aus dem Gefrierfach nehmen und antauen lassen.
+- Mit einem Eisportionierer Kugeln formen, in Schälchen geben und mit Minze sowie
+  optional etwas Chiliflocken garnieren. Im Gefrierfach bis zu 2 Monate haltbar.
 en_steps:
-  - "TODO: Frische Mangos schälen, das Fruchtfleisch vom Stein schneiden und in Würfel schneiden. TK-Mango 10 Minuten antauen lassen."
-  - "TODO: Mangostücke in einem Mixer zu einem glatten Püree verarbeiten."
-  - "TODO: Joghurt, Honig, Limettensaft und Vanilleextrakt hinzufügen und alles cremig mixen."
-  - "TODO: Masse in eine flache, gefriergeeignete Form gießen, glattstreichen und mit Frischhaltefolie bedecken."
-  - "TODO: Mindestens 4 Stunden, besser über Nacht, einfrieren."
-  - "TODO: 20–30 Minuten vor dem Servieren aus dem Gefrierfach nehmen und antauen lassen."
-  - "TODO: Mit einem Eisportionierer Kugeln formen, in Schälchen geben und mit Minze sowie optional etwas Chiliflocken garnieren. Im Gefrierfach bis zu 2 Monate haltbar."
+- Peel fresh mangoes, cut the flesh from the stone, and dice. If using frozen mango,
+  let it thaw for 10 minutes.
+- Blend the mango pieces in a blender until smooth.
+- Add the yogurt, honey, lime juice, and vanilla extract; blend until creamy.
+- Pour the mixture into a shallow freezer-safe dish, smooth the surface, and cover
+  with cling film.
+- Freeze for at least 4 hours, preferably overnight.
+- Remove from the freezer 20–30 minutes before serving and allow to soften.
+- Scoop into bowls and garnish with fresh mint and optionally a pinch of chili flakes.
+  Keeps in the freezer for up to 2 months.

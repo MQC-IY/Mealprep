@@ -8,67 +8,66 @@ de:
   title: Tomaten-Risotto mit Hähnchen und Erbsen
   summary: Cremiges Risotto mit Hähnchen, Tomate, Erbsen, Parmesan und frischen Kräutern.
 en:
-  title: 'TODO: Tomaten-Risotto mit Hähnchen und Erbsen'
-  summary: |-
-    TODO: Cremiges Risotto mit Hähnchen, Tomate, Erbsen, Parmesan und frischen Kräutern.
+  title: Tomato Risotto with Chicken and Peas
+  summary: Creamy risotto with chicken, tomato, peas, Parmesan, and fresh herbs.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 750
   unit: g
   category: Protein und Milchprodukte
 - de_name: Risottoreis
-  en_name: 'TODO: Risottoreis'
+  en_name: risotto rice
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Gehackte Tomaten
-  en_name: 'TODO: Gehackte Tomaten'
+  en_name: chopped tomatoes
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Erbsen, TK
-  en_name: 'TODO: Erbsen, TK'
+  en_name: frozen peas
   qty: 250
   unit: g
   category: Gemüse und Salat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: carrots
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Parmesan
-  en_name: 'TODO: Parmesan'
+  en_name: Parmesan
   qty: 40
   unit: g
   category: Protein und Milchprodukte
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 1
   unit: Zehe
   category: Gemüse und Salat
 - de_name: Basilikum
-  en_name: 'TODO: Basilikum'
+  en_name: basil
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Oregano
-  en_name: 'TODO: Oregano'
+  en_name: oregano
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -78,9 +77,7 @@ de_steps:
 - Tomaten und nach und nach Wasser zugeben, bis der Reis cremig und weich ist.
 - Erbsen, Hähnchen und Kräuter unterheben.
 en_steps:
-- 'TODO: Hähnchen klein schneiden und in Olivenöl anbraten.'
-- |-
-  TODO: Zwiebel, Knoblauch und Möhren fein würfeln und mit dem Reis glasig anschwitzen.
-- |-
-  TODO: Tomaten und nach und nach Wasser zugeben, bis der Reis cremig und weich ist.
-- 'TODO: Erbsen, Hähnchen und Kräuter unterheben.'
+- Cut chicken into small pieces and sear in olive oil.
+- Finely dice onion, garlic, and carrots; sweat together with the rice until translucent.
+- Add tomatoes and gradually add water until the rice is creamy and tender.
+- Fold in peas, chicken, and herbs.

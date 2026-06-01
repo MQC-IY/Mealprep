@@ -9,41 +9,41 @@ de:
   title: Tomaten-Quinoa mit Hähnchen
   summary: Milder Quinoatopf mit Hähnchen, Tomate und Erbsen.
 en:
-  title: 'TODO: Tomaten-Quinoa mit Hähnchen'
-  summary: 'TODO: Milder Quinoatopf mit Hähnchen, Tomate und Erbsen.'
+  title: Tomato Quinoa with Chicken
+  summary: A mild quinoa pot with chicken, tomato, and peas.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: Chicken breast
   qty: 750
   unit: g
   category: Protein und Milchprodukte
 - de_name: Quinoa
-  en_name: 'TODO: Quinoa'
+  en_name: Quinoa
   qty: 260
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Passierte Tomaten
-  en_name: 'TODO: Passierte Tomaten'
+  en_name: Strained tomatoes (passata)
   qty: 1
   unit: Glas
   category: Konserven und Vorrat
 - de_name: Erbsen, TK
-  en_name: 'TODO: Erbsen, TK'
+  en_name: Frozen peas
   qty: 220
   unit: g
   category: Gemüse und Salat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: Carrots
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -52,6 +52,6 @@ de_steps:
 - Quinoa, Tomaten und etwas Wasser zugeben.
 - Möhren und Erbsen weich mitgaren.
 en_steps:
-- 'TODO: Hähnchen scharf anbraten.'
-- 'TODO: Quinoa, Tomaten und etwas Wasser zugeben.'
-- 'TODO: Möhren und Erbsen weich mitgaren.'
+- Sear the chicken over high heat.
+- Add the quinoa, tomatoes, and a little water.
+- Cook the carrots and peas together until tender.

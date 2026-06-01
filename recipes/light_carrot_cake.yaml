@@ -2,60 +2,59 @@ id: light_carrot_cake
 pool: dessert
 de:
   title: Leichter Karottenkuchen mit Joghurt
-  summary: |-
-    Milder Karottenkuchen mit wenig Süße, Nüssen und einem einfachen Joghurt-Topping.
+  summary: Milder Karottenkuchen mit wenig Süße, Nüssen und einem einfachen Joghurt-Topping.
 en:
-  title: 'TODO: Leichter Karottenkuchen mit Joghurt'
-  summary: |-
-    TODO: Milder Karottenkuchen mit wenig Süße, Nüssen und einem einfachen Joghurt-Topping.
+  title: Light Carrot Cake with Yogurt
+  summary: A mildly sweet carrot cake with ground almonds and a simple yogurt topping
+    instead of heavy frosting.
 ingredients:
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: Carrots
   qty: 4
   unit: Stk
   category: Gemüse und Salat
 - de_name: Dinkelmehl
-  en_name: 'TODO: Dinkelmehl'
+  en_name: Spelt flour
   qty: 180
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Gemahlene Mandeln
-  en_name: 'TODO: Gemahlene Mandeln'
+  en_name: Ground almonds
   qty: 80
   unit: g
   category: Konserven und Vorrat
 - de_name: Eier
-  en_name: 'TODO: Eier'
+  en_name: Eggs
   qty: 3
   unit: Stk
   category: Protein und Milchprodukte
 - de_name: Naturjoghurt
-  en_name: 'TODO: Naturjoghurt'
+  en_name: Plain yogurt
   qty: 250
   unit: g
   category: Protein und Milchprodukte
 - de_name: Rapsöl
-  en_name: 'TODO: Rapsöl'
+  en_name: Rapeseed oil
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Honig
-  en_name: 'TODO: Honig'
+  en_name: Honey
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Backpulver
-  en_name: 'TODO: Backpulver'
+  en_name: Baking powder
   qty: 1
   unit: Packung
   category: Konserven und Vorrat
 - de_name: Zimt
-  en_name: 'TODO: Zimt'
+  en_name: Cinnamon
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -66,9 +65,8 @@ de_steps:
 - Bei 180 Grad etwa 35 Minuten backen.
 - Restlichen Joghurt als leichtes Topping dazugeben, nicht als schwere Creme.
 en_steps:
-- 'TODO: Möhren fein reiben.'
-- 'TODO: Eier, Rapsöl, Honig und 100 g Joghurt verrühren.'
-- 'TODO: Dinkelmehl, Mandeln, Backpulver, Zimt und Möhren unterheben.'
-- 'TODO: Bei 180 Grad etwa 35 Minuten backen.'
-- |-
-  TODO: Restlichen Joghurt als leichtes Topping dazugeben, nicht als schwere Creme.
+- Finely grate the carrots.
+- Whisk together the eggs, rapeseed oil, honey, and 100 g of yogurt.
+- Fold in the spelt flour, ground almonds, baking powder, cinnamon, and grated carrots.
+- Bake at 180 °C for about 35 minutes.
+- Spoon the remaining yogurt on top as a light topping — not a heavy frosting.

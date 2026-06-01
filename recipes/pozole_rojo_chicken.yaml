@@ -6,105 +6,102 @@ next_day: true
 meals: 3
 de:
   title: Pozole Rojo – Mexikanischer Hähncheneintopf mit Hominy
-  summary: |-
-    Kräftiger mexikanischer Eintopf mit gegarten Maiskörnern (Hominy), zartem Hähnchen und einer tiefen Ancho-Guajillo-Chili-Brühe.
+  summary: Kräftiger mexikanischer Eintopf mit gegarten Maiskörnern (Hominy), zartem
+    Hähnchen und einer tiefen Ancho-Guajillo-Chili-Brühe.
 en:
-  title: 'TODO: Pozole Rojo – Mexikanischer Hähncheneintopf mit Hominy'
-  summary: |-
-    TODO: Kräftiger mexikanischer Eintopf mit gegarten Maiskörnern (Hominy), zartem Hähnchen und einer tiefen Ancho-Guajillo-Chili-Brühe.
+  title: Pozole Rojo – Mexican Chicken Stew with Hominy
+  summary: A robust Mexican stew with hominy, tender shredded chicken, and a deep
+    ancho-guajillo chili broth — rich, warming, and deeply satisfying.
 ingredients:
 - de_name: Hähnchenbrust oder -schenkel
-  en_name: 'TODO: Hähnchenbrust oder -schenkel'
+  en_name: Chicken breast or thighs
   qty: 900
   unit: g
   category: Protein und Milchprodukte
 - de_name: Hominy (Maiskonserve)
-  en_name: 'TODO: Hominy (Maiskonserve)'
+  en_name: Hominy (canned)
   qty: 2
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Gehackte Tomaten
-  en_name: 'TODO: Gehackte Tomaten'
+  en_name: Chopped tomatoes
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: Chicken broth
   qty: 1500
   unit: ml
   category: Konserven und Vorrat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: Onion
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: Garlic
   qty: 6
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Koriander, frisch
-  en_name: 'TODO: Koriander, frisch'
+  en_name: Fresh cilantro
   qty: 1
   unit: Bund
   category: Gemüse und Salat
 - de_name: Limette
-  en_name: 'TODO: Limette'
+  en_name: Lime
   qty: 2
   unit: Stk
   category: Obst
 - de_name: Ancho-Chilipulver
-  en_name: 'TODO: Ancho-Chilipulver'
+  en_name: Ancho chili powder
   qty: 3
   unit: TL
   category: Gewürze
 - de_name: Guajillo-Chilipulver oder Cayennepfeffer
-  en_name: 'TODO: Guajillo-Chilipulver oder Cayennepfeffer'
+  en_name: Guajillo chili powder or cayenne pepper
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Kreuzkümmel, gemahlen
-  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  en_name: Cumin, ground
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Oregano, mexikanisch
-  en_name: 'TODO: Oregano, mexikanisch'
+  en_name: Mexican oregano
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Rapsöl
-  en_name: 'TODO: Rapsöl'
+  en_name: Canola oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 de_steps:
-- |-
-  Hähnchen zusammen mit 1 halbierten Zwiebel, 3 Knoblauchzehen und etwas Salz in der Hühnerbrühe 25 Minuten gar köcheln. Hähnchen herausnehmen, abkühlen lassen und in Fasern zupfen. Brühe durch ein Sieb gießen und aufbewahren.
-- |-
-  Restliche Zwiebel fein würfeln, restlichen Knoblauch hacken. Öl in einem großen Topf erhitzen und Zwiebeln 5 Minuten anbraten.
-- |-
-  Knoblauch, Ancho-Chilipulver, Guajillo-Chilipulver, Kreuzkümmel und Oregano zugeben und 1 Minute rösten.
-- |-
-  Gehackte Tomaten einrühren, kurz aufkochen lassen, dann die gefilterte Brühe zugießen.
-- |-
-  Abgetropfte Hominy-Körner zugeben und alles 20 Minuten bei mittlerer Hitze köcheln lassen.
-- |-
-  Gezupftes Hähnchen zurück in den Topf geben, 5 Minuten erwärmen. Mit Salz, Limettensaft und Chili abschmecken.
-- |-
-  In tiefen Schüsseln servieren, garniert mit frischem Koriander und Limettenspalten.
+- Hähnchen zusammen mit 1 halbierten Zwiebel, 3 Knoblauchzehen und etwas Salz in der
+  Hühnerbrühe 25 Minuten gar köcheln. Hähnchen herausnehmen, abkühlen lassen und in
+  Fasern zupfen. Brühe durch ein Sieb gießen und aufbewahren.
+- Restliche Zwiebel fein würfeln, restlichen Knoblauch hacken. Öl in einem großen
+  Topf erhitzen und Zwiebeln 5 Minuten anbraten.
+- Knoblauch, Ancho-Chilipulver, Guajillo-Chilipulver, Kreuzkümmel und Oregano zugeben
+  und 1 Minute rösten.
+- Gehackte Tomaten einrühren, kurz aufkochen lassen, dann die gefilterte Brühe zugießen.
+- Abgetropfte Hominy-Körner zugeben und alles 20 Minuten bei mittlerer Hitze köcheln
+  lassen.
+- Gezupftes Hähnchen zurück in den Topf geben, 5 Minuten erwärmen. Mit Salz, Limettensaft
+  und Chili abschmecken.
+- In tiefen Schüsseln servieren, garniert mit frischem Koriander und Limettenspalten.
 en_steps:
-- |-
-  TODO: Hähnchen zusammen mit 1 halbierten Zwiebel, 3 Knoblauchzehen und etwas Salz in der Hühnerbrühe 25 Minuten gar köcheln. Hähnchen herausnehmen, abkühlen lassen und in Fasern zupfen. Brühe durch ein Sieb gießen und aufbewahren.
-- |-
-  TODO: Restliche Zwiebel fein würfeln, restlichen Knoblauch hacken. Öl in einem großen Topf erhitzen und Zwiebeln 5 Minuten anbraten.
-- |-
-  TODO: Knoblauch, Ancho-Chilipulver, Guajillo-Chilipulver, Kreuzkümmel und Oregano zugeben und 1 Minute rösten.
-- |-
-  TODO: Gehackte Tomaten einrühren, kurz aufkochen lassen, dann die gefilterte Brühe zugießen.
-- |-
-  TODO: Abgetropfte Hominy-Körner zugeben und alles 20 Minuten bei mittlerer Hitze köcheln lassen.
-- |-
-  TODO: Gezupftes Hähnchen zurück in den Topf geben, 5 Minuten erwärmen. Mit Salz, Limettensaft und Chili abschmecken.
-- |-
-  TODO: In tiefen Schüsseln servieren, garniert mit frischem Koriander und Limettenspalten.
+- Simmer the chicken with 1 halved onion, 3 garlic cloves, and a pinch of salt in
+  the chicken broth for 25 minutes until cooked through. Remove the chicken, let it
+  cool, then shred into pieces. Strain the broth and set aside.
+- Finely dice the remaining onion and chop the remaining garlic. Heat oil in a large
+  pot and sauté the onion for 5 minutes.
+- Add the garlic, ancho chili powder, guajillo chili powder, cumin, and oregano, and
+  toast for 1 minute.
+- Stir in the chopped tomatoes, bring to a brief boil, then pour in the strained broth.
+- Add the drained hominy and simmer everything over medium heat for 20 minutes.
+- Return the shredded chicken to the pot and heat through for 5 minutes. Season with
+  salt, lime juice, and chili to taste.
+- Serve in deep bowls, garnished with fresh cilantro and lime wedges.

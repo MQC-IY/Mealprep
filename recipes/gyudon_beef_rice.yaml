@@ -7,95 +7,95 @@ quick_minutes: 25
 meals: 2
 de:
   title: Gyudon – Japanische Rindfleisch-Reisschale
-  summary: |-
-    Zarte Rindfleischstreifen mit Zwiebeln in süß-salziger Dashi-Soße auf Reis – der Klassiker der japanischen Schnellküche.
+  summary: Zarte Rindfleischstreifen mit Zwiebeln in süß-salziger Dashi-Soße auf Reis
+    – der Klassiker der japanischen Schnellküche.
 en:
-  title: 'TODO: Gyudon – Japanische Rindfleisch-Reisschale'
-  summary: |-
-    TODO: Zarte Rindfleischstreifen mit Zwiebeln in süß-salziger Dashi-Soße auf Reis – der Klassiker der japanischen Schnellküche.
+  title: Gyudon – Japanese Beef Rice Bowl
+  summary: Tender strips of beef with onions in a sweet-savoury dashi broth over rice
+    — the classic of Japanese fast cooking.
 ingredients:
 - de_name: Rindfleisch (Roastbeef oder Hüfte, dünn geschnitten)
-  en_name: 'TODO: Rindfleisch (Roastbeef oder Hüfte, dünn geschnitten)'
+  en_name: Beef (sirloin or rump, thinly sliced)
   qty: 700
   unit: g
   category: Protein und Milchprodukte
 - de_name: Zwiebeln
-  en_name: 'TODO: Zwiebeln'
+  en_name: Onions
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Frühlingszwiebeln
-  en_name: 'TODO: Frühlingszwiebeln'
+  en_name: Spring onions
   qty: 1
   unit: Bund
   category: Gemüse und Salat
 - de_name: Ingwer (frisch)
-  en_name: 'TODO: Ingwer (frisch)'
+  en_name: Fresh ginger
   qty: 15
   unit: g
   category: Gemüse und Salat
 - de_name: Jasminreis
-  en_name: 'TODO: Jasminreis'
+  en_name: Jasmine rice
   qty: 400
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Dashi-Brühe
-  en_name: 'TODO: Dashi-Brühe'
+  en_name: Dashi stock
   qty: 300
   unit: ml
   category: Konserven und Vorrat
 - de_name: Sojasoße
-  en_name: 'TODO: Sojasoße'
+  en_name: Soy sauce
   qty: 5
   unit: EL
   category: Konserven und Vorrat
 - de_name: Mirin
-  en_name: 'TODO: Mirin'
+  en_name: Mirin
   qty: 4
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sake
-  en_name: 'TODO: Sake'
+  en_name: Sake
   qty: 4
   unit: EL
   category: Konserven und Vorrat
 - de_name: Zucker
-  en_name: 'TODO: Zucker'
+  en_name: Sugar
   qty: 2
   unit: TL
   category: Konserven und Vorrat
 - de_name: Sesamöl
-  en_name: 'TODO: Sesamöl'
+  en_name: Sesame oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Rote Chiliflocken (Togarashi)
-  en_name: 'TODO: Rote Chiliflocken (Togarashi)'
+  en_name: Red chilli flakes (togarashi)
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Eingelegter roter Ingwer (Beni Shoga)
-  en_name: 'TODO: Eingelegter roter Ingwer (Beni Shoga)'
+  en_name: Pickled red ginger (beni shoga)
   qty: 30
   unit: g
   category: Gewürze
 de_steps:
 - Reis waschen und nach dem Absorption-Verfahren mit 700 ml Wasser garen.
 - Zwiebeln in halbe Ringe schneiden. Ingwer in feine Julienne schneiden.
-- |-
-  In einem breiten Topf Dashi-Brühe, Sojasoße, Mirin, Sake und Zucker aufkochen. Zwiebeln und Ingwer dazugeben und 8 Minuten köcheln.
-- |-
-  Rindfleischstreifen einzeln in die köchelnde Brühe legen und 2–3 Minuten garen, dabei Schaum abschöpfen.
+- In einem breiten Topf Dashi-Brühe, Sojasoße, Mirin, Sake und Zucker aufkochen. Zwiebeln
+  und Ingwer dazugeben und 8 Minuten köcheln.
+- Rindfleischstreifen einzeln in die köchelnde Brühe legen und 2–3 Minuten garen,
+  dabei Schaum abschöpfen.
 - Sesamöl einrühren, Topf vom Herd nehmen.
-- |-
-  Reis in Schalen geben, Rindfleisch mit Zwiebeln und reichlich Brühe darüber schöpfen. Mit Frühlingszwiebelringen, roten Chiliflocken und Beni-Shoga garnieren.
+- Reis in Schalen geben, Rindfleisch mit Zwiebeln und reichlich Brühe darüber schöpfen.
+  Mit Frühlingszwiebelringen, roten Chiliflocken und Beni-Shoga garnieren.
 en_steps:
-- 'TODO: Reis waschen und nach dem Absorption-Verfahren mit 700 ml Wasser garen.'
-- 'TODO: Zwiebeln in halbe Ringe schneiden. Ingwer in feine Julienne schneiden.'
-- |-
-  TODO: In einem breiten Topf Dashi-Brühe, Sojasoße, Mirin, Sake und Zucker aufkochen. Zwiebeln und Ingwer dazugeben und 8 Minuten köcheln.
-- |-
-  TODO: Rindfleischstreifen einzeln in die köchelnde Brühe legen und 2–3 Minuten garen, dabei Schaum abschöpfen.
-- 'TODO: Sesamöl einrühren, Topf vom Herd nehmen.'
-- |-
-  TODO: Reis in Schalen geben, Rindfleisch mit Zwiebeln und reichlich Brühe darüber schöpfen. Mit Frühlingszwiebelringen, roten Chiliflocken und Beni-Shoga garnieren.
+- Wash the rice and cook by the absorption method with 700 ml water.
+- Slice the onions into half-rings. Cut the ginger into fine julienne.
+- In a wide pot, bring the dashi stock, soy sauce, mirin, sake, and sugar to a boil.
+  Add the onions and ginger and simmer for 8 minutes.
+- Add the beef slices one by one to the simmering broth and cook for 2–3 minutes,
+  skimming off any foam.
+- Stir in the sesame oil and remove the pot from the heat.
+- Divide the rice into bowls. Ladle the beef with onions and plenty of broth on top.
+  Garnish with spring onion rings, red chilli flakes, and beni shoga.

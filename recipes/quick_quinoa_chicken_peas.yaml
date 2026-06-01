@@ -9,41 +9,41 @@ de:
   title: Schnelle Quinoa-Bowl mit Hähnchen und Erbsen
   summary: Leichte Bowl mit Hähnchen, Quinoa, Erbsen und Gurke.
 en:
-  title: 'TODO: Schnelle Quinoa-Bowl mit Hähnchen und Erbsen'
-  summary: 'TODO: Leichte Bowl mit Hähnchen, Quinoa, Erbsen und Gurke.'
+  title: Quick Quinoa Bowl with Chicken and Peas
+  summary: A light bowl with chicken, quinoa, peas, and cucumber — fresh and nutritious.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: Chicken breast
   qty: 750
   unit: g
   category: Protein und Milchprodukte
 - de_name: Quinoa
-  en_name: 'TODO: Quinoa'
+  en_name: Quinoa
   qty: 260
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Erbsen, TK
-  en_name: 'TODO: Erbsen, TK'
+  en_name: Frozen peas
   qty: 220
   unit: g
   category: Gemüse und Salat
 - de_name: Gurke
-  en_name: 'TODO: Gurke'
+  en_name: Cucumber
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Naturjoghurt
-  en_name: 'TODO: Naturjoghurt'
+  en_name: Plain yogurt
   qty: 100
   unit: g
   category: Protein und Milchprodukte
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -52,6 +52,7 @@ de_steps:
 - Hähnchen scharf anbraten.
 - Erbsen kurz mitgaren und Gurke klein schneiden.
 en_steps:
-- 'TODO: Quinoa garen.'
-- 'TODO: Hähnchen scharf anbraten.'
-- 'TODO: Erbsen kurz mitgaren und Gurke klein schneiden.'
+- Cook the quinoa according to package instructions.
+- Sear the chicken over high heat until cooked through.
+- Cook the peas briefly until tender and dice the cucumber. Combine everything and
+  serve.

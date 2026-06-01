@@ -6,116 +6,117 @@ next_day: true
 meals: 2
 de:
   title: Polnischer Bigos – Sauerkraut-Fleisch-Eintopf
-  summary: |-
-    Polens Nationalgericht: Sauerkraut und frischer Weißkohl schmoren stundenlang mit Schweinefleisch, Speck, Kielbasa und Pilzen – besser am nächsten Tag.
+  summary: 'Polens Nationalgericht: Sauerkraut und frischer Weißkohl schmoren stundenlang
+    mit Schweinefleisch, Speck, Kielbasa und Pilzen – besser am nächsten Tag.'
 en:
-  title: 'TODO: Polnischer Bigos – Sauerkraut-Fleisch-Eintopf'
-  summary: |-
-    TODO: Polens Nationalgericht: Sauerkraut und frischer Weißkohl schmoren stundenlang mit Schweinefleisch, Speck, Kielbasa und Pilzen – besser am nächsten Tag.
+  title: Polish Bigos – Sauerkraut and Meat Stew
+  summary: 'Poland''s national dish: sauerkraut and fresh white cabbage braised for
+    hours with pork, bacon, kielbasa and mushrooms – even better the next day.'
 ingredients:
 - de_name: Schweinebauch (gewürfelt)
-  en_name: 'TODO: Schweinebauch (gewürfelt)'
+  en_name: pork belly (diced)
   qty: 300
   unit: g
   category: Protein und Milchprodukte
 - de_name: Kielbasa (Polnische Wurst)
-  en_name: 'TODO: Kielbasa (Polnische Wurst)'
+  en_name: kielbasa (Polish sausage)
   qty: 200
   unit: g
   category: Protein und Milchprodukte
 - de_name: Speckwürfel
-  en_name: 'TODO: Speckwürfel'
+  en_name: bacon lardons
   qty: 100
   unit: g
   category: Protein und Milchprodukte
 - de_name: Sauerkraut
-  en_name: 'TODO: Sauerkraut'
+  en_name: sauerkraut
   qty: 500
   unit: g
   category: Konserven und Vorrat
 - de_name: Getrocknete Steinpilze
-  en_name: 'TODO: Getrocknete Steinpilze'
+  en_name: dried porcini mushrooms
   qty: 20
   unit: g
   category: Konserven und Vorrat
 - de_name: Tomatenmark
-  en_name: 'TODO: Tomatenmark'
+  en_name: tomato paste
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Trockener Rotwein
-  en_name: 'TODO: Trockener Rotwein'
+  en_name: dry red wine
   qty: 150
   unit: ml
   category: Konserven und Vorrat
 - de_name: Lorbeerblätter
-  en_name: 'TODO: Lorbeerblätter'
+  en_name: bay leaves
   qty: 3
   unit: Stk
   category: Konserven und Vorrat
 - de_name: Weißkohl
-  en_name: 'TODO: Weißkohl'
+  en_name: white cabbage
   qty: 400
   unit: g
   category: Gemüse und Salat
 - de_name: Zwiebeln
-  en_name: 'TODO: Zwiebeln'
+  en_name: onions
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Edelsüßes Paprikapulver
-  en_name: 'TODO: Edelsüßes Paprikapulver'
+  en_name: sweet paprika
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Kümmel (ganz)
-  en_name: 'TODO: Kümmel (ganz)'
+  en_name: caraway seeds (whole)
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Piment, gemahlen
-  en_name: 'TODO: Piment, gemahlen'
+  en_name: ground allspice
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Steinpilze in 250 ml warmem Wasser 30 Minuten einweichen. Herausnehmen, grob hacken. Einweichwasser durch ein feines Sieb gießen und aufbewahren.
-- |-
-  Speckwürfel in einem großen, schweren Topf ohne Öl bei mittlerer Hitze auslassen. Schweinebauch hinzufügen, von allen Seiten 8 Minuten anbraten.
-- |-
-  Zwiebeln würfeln und zum Fleisch geben, 5 Minuten mitbraten. Kielbasa in dicke Scheiben schneiden und mitbraten. Knoblauch pressen, Paprikapulver, Piment und Kümmel einrühren.
-- |-
-  Weißkohl in Streifen schneiden und einrühren. Sauerkraut (nicht abspülen) und eingeweichte Pilze mit ihrem Einweichwasser hinzufügen.
-- |-
-  Tomatenmark einrühren, mit Rotwein ablöschen. Lorbeerblätter einlegen, pfeffern. Alles gut umrühren.
-- |-
-  Zugedeckt bei niedriger Hitze 1,5 Stunden schmoren, dabei gelegentlich rühren. Am Ende salzen und abschmecken. Am nächsten Tag schmeckt Bigos noch besser.
+- Steinpilze in 250 ml warmem Wasser 30 Minuten einweichen. Herausnehmen, grob hacken.
+  Einweichwasser durch ein feines Sieb gießen und aufbewahren.
+- Speckwürfel in einem großen, schweren Topf ohne Öl bei mittlerer Hitze auslassen.
+  Schweinebauch hinzufügen, von allen Seiten 8 Minuten anbraten.
+- Zwiebeln würfeln und zum Fleisch geben, 5 Minuten mitbraten. Kielbasa in dicke Scheiben
+  schneiden und mitbraten. Knoblauch pressen, Paprikapulver, Piment und Kümmel einrühren.
+- Weißkohl in Streifen schneiden und einrühren. Sauerkraut (nicht abspülen) und eingeweichte
+  Pilze mit ihrem Einweichwasser hinzufügen.
+- Tomatenmark einrühren, mit Rotwein ablöschen. Lorbeerblätter einlegen, pfeffern.
+  Alles gut umrühren.
+- Zugedeckt bei niedriger Hitze 1,5 Stunden schmoren, dabei gelegentlich rühren. Am
+  Ende salzen und abschmecken. Am nächsten Tag schmeckt Bigos noch besser.
 en_steps:
-- |-
-  TODO: Steinpilze in 250 ml warmem Wasser 30 Minuten einweichen. Herausnehmen, grob hacken. Einweichwasser durch ein feines Sieb gießen und aufbewahren.
-- |-
-  TODO: Speckwürfel in einem großen, schweren Topf ohne Öl bei mittlerer Hitze auslassen. Schweinebauch hinzufügen, von allen Seiten 8 Minuten anbraten.
-- |-
-  TODO: Zwiebeln würfeln und zum Fleisch geben, 5 Minuten mitbraten. Kielbasa in dicke Scheiben schneiden und mitbraten. Knoblauch pressen, Paprikapulver, Piment und Kümmel einrühren.
-- |-
-  TODO: Weißkohl in Streifen schneiden und einrühren. Sauerkraut (nicht abspülen) und eingeweichte Pilze mit ihrem Einweichwasser hinzufügen.
-- |-
-  TODO: Tomatenmark einrühren, mit Rotwein ablöschen. Lorbeerblätter einlegen, pfeffern. Alles gut umrühren.
-- |-
-  TODO: Zugedeckt bei niedriger Hitze 1,5 Stunden schmoren, dabei gelegentlich rühren. Am Ende salzen und abschmecken. Am nächsten Tag schmeckt Bigos noch besser.
+- Soak the dried porcini in 250 ml warm water for 30 minutes. Remove, roughly chop.
+  Strain the soaking liquid through a fine sieve and set aside.
+- Render the bacon lardons in a large, heavy pot over medium heat without oil. Add
+  the pork belly and brown on all sides for 8 minutes.
+- Dice the onions, add to the meat and fry for 5 minutes. Cut the kielbasa into thick
+  slices and add. Press in the garlic, then stir in the sweet paprika, allspice and
+  caraway seeds.
+- Shred the white cabbage and stir in. Add the sauerkraut (do not rinse) and the soaked
+  mushrooms along with their soaking liquid.
+- Stir in the tomato paste and deglaze with red wine. Add the bay leaves and season
+  with pepper. Stir everything well.
+- Cover and braise over low heat for 1.5 hours, stirring occasionally. Season with
+  salt at the end. Bigos tastes even better the next day.

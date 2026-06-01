@@ -9,41 +9,41 @@ de:
   title: Puten-Orzo mit Zucchini und Erbsen
   summary: Schnelle Orzo-Pfanne mit Putenhack, Zucchini und Erbsen.
 en:
-  title: 'TODO: Puten-Orzo mit Zucchini und Erbsen'
-  summary: 'TODO: Schnelle Orzo-Pfanne mit Putenhack, Zucchini und Erbsen.'
+  title: Turkey Orzo with Zucchini and Peas
+  summary: Quick orzo pan with minced turkey, zucchini and peas.
 ingredients:
 - de_name: Putenhack
-  en_name: 'TODO: Putenhack'
+  en_name: minced turkey
   qty: 650
   unit: g
   category: Protein und Milchprodukte
 - de_name: Orzo oder Kritharaki
-  en_name: 'TODO: Orzo oder Kritharaki'
+  en_name: orzo or kritharaki
   qty: 300
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Zucchini
-  en_name: 'TODO: Zucchini'
+  en_name: zucchini
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Erbsen, TK
-  en_name: 'TODO: Erbsen, TK'
+  en_name: frozen peas
   qty: 220
   unit: g
   category: Gemüse und Salat
 - de_name: Frischkäse natur
-  en_name: 'TODO: Frischkäse natur'
+  en_name: plain cream cheese
   qty: 100
   unit: g
   category: Protein und Milchprodukte
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -52,6 +52,6 @@ de_steps:
 - Putenhack scharf anbraten.
 - Zucchini und Erbsen weich garen und Frischkäse unterrühren.
 en_steps:
-- 'TODO: Orzo weich garen.'
-- 'TODO: Putenhack scharf anbraten.'
-- 'TODO: Zucchini und Erbsen weich garen und Frischkäse unterrühren.'
+- Cook the orzo until tender.
+- Sear the minced turkey in a hot pan until browned.
+- Cook the zucchini and peas until tender, then stir in the cream cheese.

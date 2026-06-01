@@ -6,110 +6,109 @@ next_day: false
 meals: 3
 de:
   title: Oyakodon mit Hähnchen, Ei und Reis
-  summary: |-
-    Klassische japanische Reisschale: Hähnchen und Ei sanft in einer Dashi-Soja-Mirin-Sauce gegart und auf Sushireis serviert.
+  summary: 'Klassische japanische Reisschale: Hähnchen und Ei sanft in einer Dashi-Soja-Mirin-Sauce
+    gegart und auf Sushireis serviert.'
 en:
-  title: 'TODO: Oyakodon mit Hähnchen, Ei und Reis'
-  summary: |-
-    TODO: Klassische japanische Reisschale: Hähnchen und Ei sanft in einer Dashi-Soja-Mirin-Sauce gegart und auf Sushireis serviert.
+  title: Oyakodon with Chicken, Egg, and Rice
+  summary: 'Classic Japanese rice bowl: chicken and egg gently cooked in a dashi-soy-mirin
+    sauce and served over sushi rice.'
 ingredients:
 - de_name: Hähnchenbrust oder -schenkel (entbeint)
-  en_name: 'TODO: Hähnchenbrust oder -schenkel (entbeint)'
+  en_name: boneless chicken breast or thighs
   qty: 750
   unit: g
   category: Protein und Milchprodukte
 - de_name: Sushireis oder Rundkornreis
-  en_name: 'TODO: Sushireis oder Rundkornreis'
+  en_name: sushi rice or short-grain rice
   qty: 350
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Eier
-  en_name: 'TODO: Eier'
+  en_name: eggs
   qty: 6
   unit: Stk
   category: Protein und Milchprodukte
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Frühlingszwiebeln
-  en_name: 'TODO: Frühlingszwiebeln'
+  en_name: spring onions
   qty: 1
   unit: Bund
   category: Gemüse und Salat
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: chicken stock
   qty: 300
   unit: ml
   category: Konserven und Vorrat
 - de_name: Sojasauce
-  en_name: 'TODO: Sojasauce'
+  en_name: soy sauce
   qty: 5
   unit: EL
   category: Konserven und Vorrat
 - de_name: Mirin
-  en_name: 'TODO: Mirin'
+  en_name: mirin
   qty: 5
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sake oder trockener Weißwein
-  en_name: 'TODO: Sake oder trockener Weißwein'
+  en_name: sake or dry white wine
   qty: 4
   unit: EL
   category: Konserven und Vorrat
 - de_name: Zucker
-  en_name: 'TODO: Zucker'
+  en_name: sugar
   qty: 1
   unit: TL
   category: Konserven und Vorrat
 - de_name: Sesamöl
-  en_name: 'TODO: Sesamöl'
+  en_name: sesame oil
   qty: 1
   unit: TL
   category: Konserven und Vorrat
 - de_name: Rapsöl
-  en_name: 'TODO: Rapsöl'
+  en_name: rapeseed oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sesam
-  en_name: 'TODO: Sesam'
+  en_name: sesame seeds
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
 - Reis waschen und nach Packungsangabe als Sushireis garen.
-- |-
-  Hähnchen in mundgerechte Stücke schneiden. Zwiebel in Halbringe schneiden. Frühlingszwiebeln in Ringe schneiden.
-- |-
-  Brühe, Sojasauce, Mirin, Sake und Zucker in einer flachen Pfanne oder einem breiten Topf verrühren und aufkochen.
-- |-
-  Zwiebeln in die Sauce geben und 3 Minuten bei mittlerer Hitze köcheln, bis sie weich werden.
-- |-
-  Hähnchenstücke dazugeben und in der Sauce bei mittlerer Hitze 5 bis 7 Minuten garen, bis das Fleisch durch ist.
-- |-
-  Eier verquirlen. Zwei Drittel der Eiermasse gleichmäßig über das Hähnchen gießen, Deckel drauf und 1 Minute stocken lassen.
-- |-
-  Restliche Eier dazugeben und den Herd ausschalten – die Eier sollen cremig-weich bleiben, nicht fest durchgaren.
+- Hähnchen in mundgerechte Stücke schneiden. Zwiebel in Halbringe schneiden. Frühlingszwiebeln
+  in Ringe schneiden.
+- Brühe, Sojasauce, Mirin, Sake und Zucker in einer flachen Pfanne oder einem breiten
+  Topf verrühren und aufkochen.
+- Zwiebeln in die Sauce geben und 3 Minuten bei mittlerer Hitze köcheln, bis sie weich
+  werden.
+- Hähnchenstücke dazugeben und in der Sauce bei mittlerer Hitze 5 bis 7 Minuten garen,
+  bis das Fleisch durch ist.
+- Eier verquirlen. Zwei Drittel der Eiermasse gleichmäßig über das Hähnchen gießen,
+  Deckel drauf und 1 Minute stocken lassen.
+- Restliche Eier dazugeben und den Herd ausschalten – die Eier sollen cremig-weich
+  bleiben, nicht fest durchgaren.
 - Sesamöl einrühren. Mit Frühlingszwiebeln und Sesam auf dem Reis servieren.
 en_steps:
-- 'TODO: Reis waschen und nach Packungsangabe als Sushireis garen.'
-- |-
-  TODO: Hähnchen in mundgerechte Stücke schneiden. Zwiebel in Halbringe schneiden. Frühlingszwiebeln in Ringe schneiden.
-- |-
-  TODO: Brühe, Sojasauce, Mirin, Sake und Zucker in einer flachen Pfanne oder einem breiten Topf verrühren und aufkochen.
-- |-
-  TODO: Zwiebeln in die Sauce geben und 3 Minuten bei mittlerer Hitze köcheln, bis sie weich werden.
-- |-
-  TODO: Hähnchenstücke dazugeben und in der Sauce bei mittlerer Hitze 5 bis 7 Minuten garen, bis das Fleisch durch ist.
-- |-
-  TODO: Eier verquirlen. Zwei Drittel der Eiermasse gleichmäßig über das Hähnchen gießen, Deckel drauf und 1 Minute stocken lassen.
-- |-
-  TODO: Restliche Eier dazugeben und den Herd ausschalten – die Eier sollen cremig-weich bleiben, nicht fest durchgaren.
-- 'TODO: Sesamöl einrühren. Mit Frühlingszwiebeln und Sesam auf dem Reis servieren.'
+- Wash the rice and cook according to package instructions as sushi rice.
+- Cut chicken into bite-sized pieces. Slice onion into half-rings. Slice spring onions
+  into rings.
+- Whisk together chicken stock, soy sauce, mirin, sake, and sugar in a shallow pan
+  or wide pot; bring to a boil.
+- Add onions to the sauce and simmer over medium heat for 3 minutes until soft.
+- Add chicken pieces and cook in the sauce over medium heat for 5 to 7 minutes until
+  cooked through.
+- Beat the eggs. Pour two-thirds of the egg mixture evenly over the chicken; cover
+  and let set for 1 minute.
+- Add the remaining eggs and turn off the heat – the eggs should remain creamy and
+  soft, not fully set.
+- Stir in sesame oil. Serve over rice, topped with spring onions and sesame seeds.

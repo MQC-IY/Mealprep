@@ -6,84 +6,83 @@ next_day: true
 meals: 3
 de:
   title: Hähnchen-Ratatouille mit Kartoffeln
-  summary: |-
-    Französisch inspiriertes Ratatouille mit Hähnchen, Aubergine, Zucchini, Paprika, Tomate und Kräutern.
+  summary: Französisch inspiriertes Ratatouille mit Hähnchen, Aubergine, Zucchini,
+    Paprika, Tomate und Kräutern.
 en:
-  title: 'TODO: Hähnchen-Ratatouille mit Kartoffeln'
-  summary: |-
-    TODO: Französisch inspiriertes Ratatouille mit Hähnchen, Aubergine, Zucchini, Paprika, Tomate und Kräutern.
+  title: Chicken Ratatouille with Potatoes
+  summary: French-inspired ratatouille with chicken, aubergine, courgette, peppers,
+    tomatoes, and Provençal herbs.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: Chicken breast
   qty: 800
   unit: g
   category: Protein und Milchprodukte
 - de_name: Kartoffeln
-  en_name: 'TODO: Kartoffeln'
+  en_name: Potatoes
   qty: 700
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Zucchini
-  en_name: 'TODO: Zucchini'
+  en_name: Courgette
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Aubergine
-  en_name: 'TODO: Aubergine'
+  en_name: Aubergine
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Paprika
-  en_name: 'TODO: Paprika'
+  en_name: Bell peppers
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Gehackte Tomaten
-  en_name: 'TODO: Gehackte Tomaten'
+  en_name: Chopped tomatoes (canned)
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: Onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: Olive oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: Garlic
   qty: 2
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Kräuter der Provence
-  en_name: 'TODO: Kräuter der Provence'
+  en_name: Herbes de Provence
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Basilikum
-  en_name: 'TODO: Basilikum'
+  en_name: Dried basil
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chilli flakes
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
 - Kartoffeln würfeln und vorgaren.
 - Hähnchen in Stücke schneiden und anbraten.
-- |-
-  Gemüse mit Zwiebel und Knoblauch in Olivenöl schmoren, Tomaten und Kräuter zugeben.
+- Gemüse mit Zwiebel und Knoblauch in Olivenöl schmoren, Tomaten und Kräuter zugeben.
 - Kartoffeln und Hähnchen unterheben und alles zusammen weich ziehen lassen.
 - Erwachsene zum Schluss mit Salz, Pfeffer und extra Kräutern abschmecken.
 en_steps:
-- 'TODO: Kartoffeln würfeln und vorgaren.'
-- 'TODO: Hähnchen in Stücke schneiden und anbraten.'
-- |-
-  TODO: Gemüse mit Zwiebel und Knoblauch in Olivenöl schmoren, Tomaten und Kräuter zugeben.
-- 'TODO: Kartoffeln und Hähnchen unterheben und alles zusammen weich ziehen lassen.'
-- 'TODO: Erwachsene zum Schluss mit Salz, Pfeffer und extra Kräutern abschmecken.'
+- Dice the potatoes and par-cook them.
+- Cut the chicken into pieces and brown.
+- Sauté the vegetables with onion and garlic in olive oil, then add the tomatoes and
+  herbs.
+- Fold in the potatoes and chicken and let everything cook through until tender.
+- Season adults' portions at the end with salt, pepper, and extra herbs.

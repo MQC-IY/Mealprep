@@ -8,66 +8,67 @@ de:
   title: Puten-Gemüse-Topf mit Reis
   summary: Tomatiger Eintopf mit Putenhack, Bohnen, Paprika und Möhren.
 en:
-  title: 'TODO: Puten-Gemüse-Topf mit Reis'
-  summary: 'TODO: Tomatiger Eintopf mit Putenhack, Bohnen, Paprika und Möhren.'
+  title: Turkey Vegetable Pot with Rice
+  summary: A tomatoey stew of ground turkey, kidney beans, bell pepper, and carrots
+    served over rice.
 ingredients:
 - de_name: Putenhack
-  en_name: 'TODO: Putenhack'
+  en_name: ground turkey
   qty: 600
   unit: g
   category: Protein und Milchprodukte
 - de_name: Basmatireis
-  en_name: 'TODO: Basmatireis'
+  en_name: basmati rice
   qty: 250
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Kidneybohnen
-  en_name: 'TODO: Kidneybohnen'
+  en_name: kidney beans
   qty: 2
   unit: Dosen
   category: Konserven und Vorrat
 - de_name: Mais
-  en_name: 'TODO: Mais'
+  en_name: corn
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Gehackte Tomaten
-  en_name: 'TODO: Gehackte Tomaten'
+  en_name: canned chopped tomatoes
   qty: 2
   unit: Dosen
   category: Konserven und Vorrat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Paprika
-  en_name: 'TODO: Paprika'
+  en_name: bell pepper
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: carrots
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Paprika edelsüß
-  en_name: 'TODO: Paprika edelsüß'
+  en_name: sweet paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Oregano
-  en_name: 'TODO: Oregano'
+  en_name: oregano
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -77,7 +78,8 @@ de_steps:
 - Putenhack in etwas Olivenöl anbraten, Gemüse dazugeben und kurz mitgaren.
 - Bohnen, Mais und Tomaten zufügen und alles kräftig würzen.
 en_steps:
-- 'TODO: Reis kochen.'
-- 'TODO: Zwiebel, Paprika und Möhren klein schneiden.'
-- 'TODO: Putenhack in etwas Olivenöl anbraten, Gemüse dazugeben und kurz mitgaren.'
-- 'TODO: Bohnen, Mais und Tomaten zufügen und alles kräftig würzen.'
+- Cook the rice.
+- Finely chop the onion, bell pepper, and carrots.
+- Brown the ground turkey in a little olive oil, then add the vegetables and cook
+  briefly.
+- Add the beans, corn, and tomatoes and season generously.

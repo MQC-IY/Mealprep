@@ -6,121 +6,116 @@ next_day: true
 meals: 2
 de:
   title: Poulet Basquaise – Baskisches Paprika-Hähnchen
-  summary: |-
-    Baskisches Schmorgericht mit Hähnchen, roten Paprika, Tomaten, Chorizo, Weißwein und Piment d'Espelette.
+  summary: Baskisches Schmorgericht mit Hähnchen, roten Paprika, Tomaten, Chorizo,
+    Weißwein und Piment d'Espelette.
 en:
-  title: 'TODO: Poulet Basquaise – Baskisches Paprika-Hähnchen'
-  summary: |-
-    TODO: Baskisches Schmorgericht mit Hähnchen, roten Paprika, Tomaten, Chorizo, Weißwein und Piment d'Espelette.
+  title: Poulet Basquaise – Basque Pepper Chicken
+  summary: Basque braised chicken with red peppers, tomatoes, chorizo, white wine
+    and piment d'Espelette.
 ingredients:
 - de_name: Hähnchenstücke mit Knochen
-  en_name: 'TODO: Hähnchenstücke mit Knochen'
+  en_name: bone-in chicken pieces
   qty: 900
   unit: g
   category: Protein und Milchprodukte
 - de_name: Rote Paprika
-  en_name: 'TODO: Rote Paprika'
+  en_name: red bell pepper
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Grüne Paprika
-  en_name: 'TODO: Grüne Paprika'
+  en_name: green bell pepper
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Chorizo (mild oder scharf)
-  en_name: 'TODO: Chorizo (mild oder scharf)'
+  en_name: chorizo (mild or hot)
   qty: 120
   unit: g
   category: Protein und Milchprodukte
 - de_name: Geschälte Tomaten aus der Dose
-  en_name: 'TODO: Geschälte Tomaten aus der Dose'
+  en_name: canned peeled tomatoes
   qty: 1
   unit: Dose
   category: Konserven und Vorrat
 - de_name: Trockener Weißwein
-  en_name: 'TODO: Trockener Weißwein'
+  en_name: dry white wine
   qty: 150
   unit: ml
   category: Konserven und Vorrat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 4
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 3
   unit: EL
   category: Konserven und Vorrat
 - de_name: Piment d'Espelette oder scharfes Paprikapulver
-  en_name: 'TODO: Piment d''Espelette oder scharfes Paprikapulver'
+  en_name: piment d'Espelette or hot paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Geräuchertes Paprikapulver
-  en_name: 'TODO: Geräuchertes Paprikapulver'
+  en_name: smoked paprika
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Getrockneter Thymian
-  en_name: 'TODO: Getrockneter Thymian'
+  en_name: dried thyme
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Lorbeerblätter
-  en_name: 'TODO: Lorbeerblätter'
+  en_name: bay leaves
   qty: 2
   unit: Stk
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Frische Petersilie
-  en_name: 'TODO: Frische Petersilie'
+  en_name: fresh parsley
   qty: 0.5
   unit: Bund
   category: Gemüse und Salat
 de_steps:
-- |-
-  Hähnchenstücke würzen. Olivenöl in einem Schmortopf stark erhitzen, Hähnchen von beiden Seiten 5 Minuten anbraten. Herausnehmen.
-- |-
-  Chorizo in Scheiben schneiden und im gleichen Topf 2–3 Minuten bei mittlerer Hitze anbraten. Herausnehmen.
-- |-
-  Paprika in Streifen schneiden, Zwiebel in Ringe, Knoblauch hacken. Im Bratfett 8 Minuten sanft anschwitzen.
-- |-
-  Piment d'Espelette, Paprikapulver, Thymian und Lorbeer einrühren, 1 Minute rösten.
+- Hähnchenstücke würzen. Olivenöl in einem Schmortopf stark erhitzen, Hähnchen von
+  beiden Seiten 5 Minuten anbraten. Herausnehmen.
+- Chorizo in Scheiben schneiden und im gleichen Topf 2–3 Minuten bei mittlerer Hitze
+  anbraten. Herausnehmen.
+- Paprika in Streifen schneiden, Zwiebel in Ringe, Knoblauch hacken. Im Bratfett 8
+  Minuten sanft anschwitzen.
+- Piment d'Espelette, Paprikapulver, Thymian und Lorbeer einrühren, 1 Minute rösten.
 - Mit Weißwein ablöschen, 2 Minuten einkochen. Tomaten zerdrückt dazugeben.
-- |-
-  Hähnchen und Chorizo zurücklegen. Zugedeckt bei niedriger Hitze 40 Minuten schmoren.
-- |-
-  Deckel abnehmen und 10 Minuten offen köcheln, bis die Sauce eindickt. Lorbeer entfernen.
+- Hähnchen und Chorizo zurücklegen. Zugedeckt bei niedriger Hitze 40 Minuten schmoren.
+- Deckel abnehmen und 10 Minuten offen köcheln, bis die Sauce eindickt. Lorbeer entfernen.
 - Mit frischer Petersilie bestreuen. Mit Basmatireis oder frischem Brot servieren.
 en_steps:
-- |-
-  TODO: Hähnchenstücke würzen. Olivenöl in einem Schmortopf stark erhitzen, Hähnchen von beiden Seiten 5 Minuten anbraten. Herausnehmen.
-- |-
-  TODO: Chorizo in Scheiben schneiden und im gleichen Topf 2–3 Minuten bei mittlerer Hitze anbraten. Herausnehmen.
-- |-
-  TODO: Paprika in Streifen schneiden, Zwiebel in Ringe, Knoblauch hacken. Im Bratfett 8 Minuten sanft anschwitzen.
-- |-
-  TODO: Piment d'Espelette, Paprikapulver, Thymian und Lorbeer einrühren, 1 Minute rösten.
-- 'TODO: Mit Weißwein ablöschen, 2 Minuten einkochen. Tomaten zerdrückt dazugeben.'
-- |-
-  TODO: Hähnchen und Chorizo zurücklegen. Zugedeckt bei niedriger Hitze 40 Minuten schmoren.
-- |-
-  TODO: Deckel abnehmen und 10 Minuten offen köcheln, bis die Sauce eindickt. Lorbeer entfernen.
-- |-
-  TODO: Mit frischer Petersilie bestreuen. Mit Basmatireis oder frischem Brot servieren.
+- Season the chicken pieces. Heat the olive oil in a braising pot until very hot,
+  then brown the chicken on both sides for 5 minutes. Remove and set aside.
+- Slice the chorizo and fry in the same pot over medium heat for 2–3 minutes. Remove
+  and set aside.
+- Slice the peppers into strips, cut the onion into rings and chop the garlic. Sweat
+  gently in the cooking fat for 8 minutes.
+- Stir in the piment d'Espelette, smoked paprika, thyme and bay leaves; toast for
+  1 minute.
+- Deglaze with the white wine and reduce for 2 minutes. Add the crushed tomatoes.
+- Return the chicken and chorizo. Cover and braise over low heat for 40 minutes.
+- Remove the lid and simmer uncovered for a further 10 minutes until the sauce thickens.
+  Remove the bay leaves.
+- Scatter with fresh parsley. Serve with basmati rice or fresh bread.

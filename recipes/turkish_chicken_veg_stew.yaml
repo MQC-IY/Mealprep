@@ -6,70 +6,70 @@ next_day: true
 meals: 3
 de:
   title: Türkischer Hähnchen-Gemüse-Eintopf
-  summary: |-
-    Türkischer Tavuk-Gemüse-Topf mit Kartoffeln, Möhren, Erbsen, Tomate und warmer Paprika-Kreuzkümmel-Würzung.
+  summary: Türkischer Tavuk-Gemüse-Topf mit Kartoffeln, Möhren, Erbsen, Tomate und
+    warmer Paprika-Kreuzkümmel-Würzung.
 en:
-  title: 'TODO: Türkischer Hähnchen-Gemüse-Eintopf'
-  summary: |-
-    TODO: Türkischer Tavuk-Gemüse-Topf mit Kartoffeln, Möhren, Erbsen, Tomate und warmer Paprika-Kreuzkümmel-Würzung.
+  title: Turkish Chicken and Vegetable Stew
+  summary: A Turkish-style chicken and vegetable pot with potatoes, carrots, peas,
+    tomatoes, and a warm paprika-cumin seasoning.
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 800
   unit: g
   category: Protein und Milchprodukte
 - de_name: Kartoffeln
-  en_name: 'TODO: Kartoffeln'
+  en_name: potatoes
   qty: 800
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Möhren
-  en_name: 'TODO: Möhren'
+  en_name: carrots
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Erbsen, TK
-  en_name: 'TODO: Erbsen, TK'
+  en_name: frozen peas
   qty: 200
   unit: g
   category: Gemüse und Salat
 - de_name: Passierte Tomaten
-  en_name: 'TODO: Passierte Tomaten'
+  en_name: strained tomatoes (passata)
   qty: 1
   unit: Glas
   category: Konserven und Vorrat
 - de_name: Zwiebel
-  en_name: 'TODO: Zwiebel'
+  en_name: onion
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Olivenöl
-  en_name: 'TODO: Olivenöl'
+  en_name: olive oil
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Knoblauch
-  en_name: 'TODO: Knoblauch'
+  en_name: garlic
   qty: 2
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Paprika edelsüß
-  en_name: 'TODO: Paprika edelsüß'
+  en_name: sweet paprika
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Kreuzkümmel
-  en_name: 'TODO: Kreuzkümmel'
+  en_name: cumin
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Oregano
-  en_name: 'TODO: Oregano'
+  en_name: oregano
   qty: 0.5
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -79,8 +79,7 @@ de_steps:
 - Kartoffeln, Möhren, Tomaten und Wasser zugeben und weich köcheln lassen.
 - Erwachsene mit Salz, Pfeffer und etwas Oregano abschmecken.
 en_steps:
-- |-
-  TODO: Hähnchen in Stücke schneiden und in Olivenöl mit Zwiebel und Knoblauch anbraten.
-- 'TODO: Paprika edelsüß und Kreuzkümmel kurz mitrösten.'
-- 'TODO: Kartoffeln, Möhren, Tomaten und Wasser zugeben und weich köcheln lassen.'
-- 'TODO: Erwachsene mit Salz, Pfeffer und etwas Oregano abschmecken.'
+- Cut the chicken into pieces and brown in olive oil with the onion and garlic.
+- Add the sweet paprika and cumin and toast briefly.
+- Add the potatoes, carrots, tomatoes, and water and simmer until tender.
+- Season to taste with salt, pepper, and a little oregano.

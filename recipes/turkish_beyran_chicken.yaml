@@ -7,91 +7,92 @@ quick_minutes: 30
 meals: 2
 de:
   title: Türkisches Beyran-inspiriertes Hähnchengericht
-  summary: |-
-    Nach dem Gaziantep-Klassiker: zartes Hähnchenfleisch in einer feurigen, knoblauchreichen Brühe mit Pul Biber-Butter und Reis.
+  summary: 'Nach dem Gaziantep-Klassiker: zartes Hähnchenfleisch in einer feurigen,
+    knoblauchreichen Brühe mit Pul Biber-Butter und Reis.'
 en:
-  title: 'TODO: Türkisches Beyran-inspiriertes Hähnchengericht'
-  summary: |-
-    TODO: Nach dem Gaziantep-Klassiker: zartes Hähnchenfleisch in einer feurigen, knoblauchreichen Brühe mit Pul Biber-Butter und Reis.
+  title: Turkish Beyran-Inspired Chicken Dish
+  summary: 'Inspired by the Gaziantep classic: tender pulled chicken in a fiery, garlic-rich
+    broth finished with pul biber butter, served with rice.'
 ingredients:
 - de_name: Hähnchenbrust
-  en_name: 'TODO: Hähnchenbrust'
+  en_name: chicken breast
   qty: 500
   unit: g
   category: Protein und Milchprodukte
 - de_name: Vollmilchjoghurt
-  en_name: 'TODO: Vollmilchjoghurt'
+  en_name: whole-milk yogurt
   qty: 100
   unit: g
   category: Protein und Milchprodukte
 - de_name: Butter
-  en_name: 'TODO: Butter'
+  en_name: butter
   qty: 50
   unit: g
   category: Protein und Milchprodukte
 - de_name: Basmati-Reis
-  en_name: 'TODO: Basmati-Reis'
+  en_name: basmati rice
   qty: 200
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Hühnerbrühe
-  en_name: 'TODO: Hühnerbrühe'
+  en_name: chicken broth
   qty: 1
   unit: Liter
   category: Konserven und Vorrat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 6
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Pul Biber (Aleppo-Pfeffer)
-  en_name: 'TODO: Pul Biber (Aleppo-Pfeffer)'
+  en_name: pul biber (Turkish red pepper flakes)
   qty: 2
   unit: TL
   category: Gewürze
 - de_name: Salz
-  en_name: 'TODO: Salz'
+  en_name: salt
   qty: 1.5
   unit: TL
   category: Gewürze
 - de_name: Schwarzer Pfeffer
-  en_name: 'TODO: Schwarzer Pfeffer'
+  en_name: black pepper
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Getrocknete Minze
-  en_name: 'TODO: Getrocknete Minze'
+  en_name: dried mint
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Kreuzkümmel, gemahlen
-  en_name: 'TODO: Kreuzkümmel, gemahlen'
+  en_name: ground cumin
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
-- |-
-  Hähnchenbrust in der Hühnerbrühe mit Salz, Pfeffer und der Hälfte des Knoblauchs (zerdrückt) 20 Minuten sanft pochieren, bis sie gar ist.
-- |-
-  Hähnchen herausnehmen, abkühlen lassen und mit zwei Gabeln in grobe Streifen zupfen. Brühe aufbewahren.
-- |-
-  Basmati-Reis unter fließendem Wasser waschen. 400 ml der Hühnerbrühe aufkochen, Reis hinzufügen, Hitze reduzieren und 15 Minuten zugedeckt garen.
-- |-
-  Restlichen Knoblauch fein hacken. Butter in einem kleinen Topf schmelzen, Knoblauch 1 Minute anschwitzen, Pul Biber und Minze einrühren. Sofort vom Herd.
-- |-
-  Gekochten Reis in tiefen Tellern anrichten. Zerzupftes Hähnchen darauf verteilen. Mit heißer Knoblauch-Butter-Pul Biber-Mischung beträufeln.
-- |-
-  Einen Löffel Joghurt daneben setzen und etwas heiße Brühe über den Teller gießen. Mit Kreuzkümmel bestäuben.
+- Hähnchenbrust in der Hühnerbrühe mit Salz, Pfeffer und der Hälfte des Knoblauchs
+  (zerdrückt) 20 Minuten sanft pochieren, bis sie gar ist.
+- Hähnchen herausnehmen, abkühlen lassen und mit zwei Gabeln in grobe Streifen zupfen.
+  Brühe aufbewahren.
+- Basmati-Reis unter fließendem Wasser waschen. 400 ml der Hühnerbrühe aufkochen,
+  Reis hinzufügen, Hitze reduzieren und 15 Minuten zugedeckt garen.
+- Restlichen Knoblauch fein hacken. Butter in einem kleinen Topf schmelzen, Knoblauch
+  1 Minute anschwitzen, Pul Biber und Minze einrühren. Sofort vom Herd.
+- Gekochten Reis in tiefen Tellern anrichten. Zerzupftes Hähnchen darauf verteilen.
+  Mit heißer Knoblauch-Butter-Pul Biber-Mischung beträufeln.
+- Einen Löffel Joghurt daneben setzen und etwas heiße Brühe über den Teller gießen.
+  Mit Kreuzkümmel bestäuben.
 en_steps:
-- |-
-  TODO: Hähnchenbrust in der Hühnerbrühe mit Salz, Pfeffer und der Hälfte des Knoblauchs (zerdrückt) 20 Minuten sanft pochieren, bis sie gar ist.
-- |-
-  TODO: Hähnchen herausnehmen, abkühlen lassen und mit zwei Gabeln in grobe Streifen zupfen. Brühe aufbewahren.
-- |-
-  TODO: Basmati-Reis unter fließendem Wasser waschen. 400 ml der Hühnerbrühe aufkochen, Reis hinzufügen, Hitze reduzieren und 15 Minuten zugedeckt garen.
-- |-
-  TODO: Restlichen Knoblauch fein hacken. Butter in einem kleinen Topf schmelzen, Knoblauch 1 Minute anschwitzen, Pul Biber und Minze einrühren. Sofort vom Herd.
-- |-
-  TODO: Gekochten Reis in tiefen Tellern anrichten. Zerzupftes Hähnchen darauf verteilen. Mit heißer Knoblauch-Butter-Pul Biber-Mischung beträufeln.
-- |-
-  TODO: Einen Löffel Joghurt daneben setzen und etwas heiße Brühe über den Teller gießen. Mit Kreuzkümmel bestäuben.
+- Poach the chicken breast gently in the chicken broth with salt, pepper, and half
+  the garlic (crushed) for 20 minutes until cooked through.
+- Remove the chicken, let it cool slightly, and pull into rough shreds with two forks.
+  Reserve the broth.
+- Rinse the basmati rice under cold running water. Bring 400 ml of the chicken broth
+  to a boil, add the rice, reduce the heat, and cook covered for 15 minutes.
+- Finely chop the remaining garlic. Melt the butter in a small saucepan, sauté the
+  garlic for 1 minute, stir in the pul biber and dried mint. Remove from the heat
+  immediately.
+- Plate the cooked rice in deep bowls. Arrange the pulled chicken on top. Drizzle
+  over the hot garlic-butter-pul biber mixture.
+- Add a spoonful of yogurt alongside and pour a little hot broth over the plate. Dust
+  with cumin.

@@ -6,131 +6,127 @@ next_day: true
 meals: 2
 de:
   title: Thai-Hähnchen mit Erdnusssauce und Reis
-  summary: |-
-    Zartes Hähnchen in cremiger, würziger Thai-Erdnusssauce mit Kokosmilch, Limette und Chili, serviert über duftendem Jasminreis.
+  summary: Zartes Hähnchen in cremiger, würziger Thai-Erdnusssauce mit Kokosmilch,
+    Limette und Chili, serviert über duftendem Jasminreis.
 en:
-  title: 'TODO: Thai-Hähnchen mit Erdnusssauce und Reis'
-  summary: |-
-    TODO: Zartes Hähnchen in cremiger, würziger Thai-Erdnusssauce mit Kokosmilch, Limette und Chili, serviert über duftendem Jasminreis.
+  title: Thai Chicken with Peanut Sauce and Rice
+  summary: Tender chicken in a creamy, spiced Thai peanut sauce with coconut milk,
+    lime and chilli, served over fragrant jasmine rice.
 ingredients:
 - de_name: Hähnchenbrustfilet
-  en_name: 'TODO: Hähnchenbrustfilet'
+  en_name: chicken breast fillet
   qty: 400
   unit: g
   category: Protein und Milchprodukte
 - de_name: Jasminreis
-  en_name: 'TODO: Jasminreis'
+  en_name: jasmine rice
   qty: 200
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Erdnussbutter (cremig, ungesüßt)
-  en_name: 'TODO: Erdnussbutter (cremig, ungesüßt)'
+  en_name: peanut butter (smooth, unsweetened)
   qty: 4
   unit: EL
   category: Konserven und Vorrat
 - de_name: Kokosmilch
-  en_name: 'TODO: Kokosmilch'
+  en_name: coconut milk
   qty: 200
   unit: ml
   category: Konserven und Vorrat
 - de_name: Fischsauce
-  en_name: 'TODO: Fischsauce'
+  en_name: fish sauce
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Sojasauce
-  en_name: 'TODO: Sojasauce'
+  en_name: soy sauce
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Reisessig
-  en_name: 'TODO: Reisessig'
+  en_name: rice vinegar
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Erdnussöl
-  en_name: 'TODO: Erdnussöl'
+  en_name: peanut oil
   qty: 2
   unit: EL
   category: Konserven und Vorrat
 - de_name: Palmzucker oder brauner Zucker
-  en_name: 'TODO: Palmzucker oder brauner Zucker'
+  en_name: palm sugar or brown sugar
   qty: 1
   unit: EL
   category: Konserven und Vorrat
 - de_name: Knoblauchzehen
-  en_name: 'TODO: Knoblauchzehen'
+  en_name: garlic cloves
   qty: 3
   unit: Zehen
   category: Gemüse und Salat
 - de_name: Ingwer, frisch
-  en_name: 'TODO: Ingwer, frisch'
+  en_name: fresh ginger
   qty: 2
   unit: Stk
   category: Gemüse und Salat
 - de_name: Frühlingszwiebeln
-  en_name: 'TODO: Frühlingszwiebeln'
+  en_name: spring onions
   qty: 3
   unit: Stk
   category: Gemüse und Salat
 - de_name: Frische rote Chili
-  en_name: 'TODO: Frische rote Chili'
+  en_name: fresh red chilli
   qty: 1
   unit: Stk
   category: Gemüse und Salat
 - de_name: Frischer Koriander
-  en_name: 'TODO: Frischer Koriander'
+  en_name: fresh coriander
   qty: 0.5
   unit: Bund
   category: Gemüse und Salat
 - de_name: Limette
-  en_name: 'TODO: Limette'
+  en_name: lime
   qty: 1
   unit: Stk
   category: Obst
 - de_name: Geröstete Erdnüsse, gehackt
-  en_name: 'TODO: Geröstete Erdnüsse, gehackt'
+  en_name: roasted peanuts, chopped
   qty: 40
   unit: g
   category: Konserven und Vorrat
 - de_name: Getrocknete Chiliflocken
-  en_name: 'TODO: Getrocknete Chiliflocken'
+  en_name: dried chilli flakes
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Gemahlener Koriander
-  en_name: 'TODO: Gemahlener Koriander'
+  en_name: ground coriander
   qty: 0.5
   unit: TL
   category: Gewürze
 de_steps:
 - Jasminreis waschen und kochen.
-- |-
-  Hähnchenbrustfilet in 2-cm-Würfel schneiden. Knoblauch und Ingwer fein reiben. Chili fein hacken.
-- |-
-  Erdnussbutter, Kokosmilch, Fischsauce, Sojasauce, Reisessig und Palmzucker in einer Schüssel zu einer glatten Sauce verrühren.
+- Hähnchenbrustfilet in 2-cm-Würfel schneiden. Knoblauch und Ingwer fein reiben. Chili
+  fein hacken.
+- Erdnussbutter, Kokosmilch, Fischsauce, Sojasauce, Reisessig und Palmzucker in einer
+  Schüssel zu einer glatten Sauce verrühren.
 - Öl im Wok bei mittlerer Hitze erhitzen. Knoblauch und Ingwer 1 Minute anbraten.
-- |-
-  Hähnchenwürfel zugeben und 5–6 Minuten scharf anbraten, bis sie goldbraun und durchgegart sind.
-- |-
-  Erdnusssauce angießen und aufköcheln. 3–4 Minuten bei mittlerer Hitze einkochen, bis die Sauce sämig wird.
-- |-
-  Mit Limettensaft abschmecken und mit Chiliflocken und gemahlenem Koriander würzen.
-- |-
-  Über Jasminreis anrichten. Mit Frühlingszwiebeln, Koriander, gehackten Erdnüssen und frischer Chili garnieren.
+- Hähnchenwürfel zugeben und 5–6 Minuten scharf anbraten, bis sie goldbraun und durchgegart
+  sind.
+- Erdnusssauce angießen und aufköcheln. 3–4 Minuten bei mittlerer Hitze einkochen,
+  bis die Sauce sämig wird.
+- Mit Limettensaft abschmecken und mit Chiliflocken und gemahlenem Koriander würzen.
+- Über Jasminreis anrichten. Mit Frühlingszwiebeln, Koriander, gehackten Erdnüssen
+  und frischer Chili garnieren.
 en_steps:
-- 'TODO: Jasminreis waschen und kochen.'
-- |-
-  TODO: Hähnchenbrustfilet in 2-cm-Würfel schneiden. Knoblauch und Ingwer fein reiben. Chili fein hacken.
-- |-
-  TODO: Erdnussbutter, Kokosmilch, Fischsauce, Sojasauce, Reisessig und Palmzucker in einer Schüssel zu einer glatten Sauce verrühren.
-- |-
-  TODO: Öl im Wok bei mittlerer Hitze erhitzen. Knoblauch und Ingwer 1 Minute anbraten.
-- |-
-  TODO: Hähnchenwürfel zugeben und 5–6 Minuten scharf anbraten, bis sie goldbraun und durchgegart sind.
-- |-
-  TODO: Erdnusssauce angießen und aufköcheln. 3–4 Minuten bei mittlerer Hitze einkochen, bis die Sauce sämig wird.
-- |-
-  TODO: Mit Limettensaft abschmecken und mit Chiliflocken und gemahlenem Koriander würzen.
-- |-
-  TODO: Über Jasminreis anrichten. Mit Frühlingszwiebeln, Koriander, gehackten Erdnüssen und frischer Chili garnieren.
+- Wash and cook jasmine rice.
+- Cut chicken breast into 2 cm cubes. Finely grate garlic and ginger. Finely chop
+  chilli.
+- Whisk peanut butter, coconut milk, fish sauce, soy sauce, rice vinegar and palm
+  sugar in a bowl into a smooth sauce.
+- Heat oil in a wok over medium heat. Fry garlic and ginger for 1 minute.
+- Add chicken cubes and sear for 5–6 minutes until golden brown and cooked through.
+- Pour in peanut sauce and bring to a gentle boil. Reduce for 3–4 minutes over medium
+  heat until the sauce thickens.
+- Season with lime juice, chilli flakes and ground coriander.
+- Plate over jasmine rice. Garnish with spring onions, coriander, chopped peanuts
+  and fresh chilli.

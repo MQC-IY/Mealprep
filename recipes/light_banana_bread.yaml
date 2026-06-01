@@ -2,55 +2,55 @@ id: light_banana_bread
 pool: dessert
 de:
   title: Leichtes Bananenbrot
-  summary: |-
-    Natürlich süß durch reife Bananen, mit Haferflocken und Joghurt statt schwerer Creme.
+  summary: Natürlich süß durch reife Bananen, mit Haferflocken und Joghurt statt schwerer
+    Creme.
 en:
-  title: 'TODO: Leichtes Bananenbrot'
-  summary: |-
-    TODO: Natürlich süß durch reife Bananen, mit Haferflocken und Joghurt statt schwerer Creme.
+  title: Light Banana Bread
+  summary: Naturally sweet from ripe bananas, made with oats and yogurt instead of
+    heavy cream — wholesome, moist, and delicious.
 ingredients:
 - de_name: Reife Bananen
-  en_name: 'TODO: Reife Bananen'
+  en_name: Ripe bananas
   qty: 3
   unit: Stk
   category: Obst
 - de_name: Haferflocken
-  en_name: 'TODO: Haferflocken'
+  en_name: Rolled oats
   qty: 150
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Dinkelmehl
-  en_name: 'TODO: Dinkelmehl'
+  en_name: Spelt flour
   qty: 150
   unit: g
   category: Kohlenhydrate und Sattmacher
 - de_name: Naturjoghurt
-  en_name: 'TODO: Naturjoghurt'
+  en_name: Plain yogurt
   qty: 150
   unit: g
   category: Protein und Milchprodukte
 - de_name: Eier
-  en_name: 'TODO: Eier'
+  en_name: Eggs
   qty: 2
   unit: Stk
   category: Protein und Milchprodukte
 - de_name: Walnüsse
-  en_name: 'TODO: Walnüsse'
+  en_name: Walnuts
   qty: 60
   unit: g
   category: Konserven und Vorrat
 - de_name: Backpulver
-  en_name: 'TODO: Backpulver'
+  en_name: Baking powder
   qty: 1
   unit: Packung
   category: Konserven und Vorrat
 - de_name: Zimt
-  en_name: 'TODO: Zimt'
+  en_name: Cinnamon
   qty: 1
   unit: TL
   category: Gewürze
 - de_name: Chiliflocken
-  en_name: 'TODO: Chiliflocken'
+  en_name: Chili flakes
   qty: 0.5
   unit: TL
   category: Gewürze
@@ -61,8 +61,8 @@ de_steps:
 - Walnüsse optional grob hacken und für Erwachsenenstücke einstreuen.
 - In einer Kastenform bei 180 Grad etwa 40 bis 45 Minuten backen.
 en_steps:
-- 'TODO: Bananen zerdrücken.'
-- 'TODO: Mit Eiern und Naturjoghurt verrühren.'
-- 'TODO: Haferflocken, Dinkelmehl, Backpulver und Zimt unterheben.'
-- 'TODO: Walnüsse optional grob hacken und für Erwachsenenstücke einstreuen.'
-- 'TODO: In einer Kastenform bei 180 Grad etwa 40 bis 45 Minuten backen.'
+- Mash the bananas.
+- Mix in the eggs and plain yogurt.
+- Fold in the oats, spelt flour, baking powder, and cinnamon.
+- Optionally roughly chop the walnuts and stir in for the adult portions.
+- Pour into a loaf tin and bake at 180 °C for about 40–45 minutes.
