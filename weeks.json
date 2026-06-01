@@ -1064,9 +1064,9 @@
               "day_en": "Monday",
               "breakfast": "Overnight Oats mit Haferflocken, Skyr, Beeren und Chiasamen",
               "breakfast_en": "Overnight oats with rolled oats, skyr, berries and chia seeds",
-              "lunch": "Marokkanischer Harira – Linseneintopf",
-              "lunch_en": "Moroccan Harira – Lentil Stew",
-              "lunch_id": "moroccan_harira",
+              "lunch": "Kichererbsen-Reis-Auflauf",
+              "lunch_en": "Mild Chickpea Rice Bake",
+              "lunch_id": "mild_chickpea_rice_bake",
               "lunch_note": "heute kochen, morgen mittags nochmal essen",
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Apfel und eine Handvoll Mandeln",
@@ -1077,9 +1077,9 @@
               "day_en": "Tuesday",
               "breakfast": "Overnight Oats mit Banane und Zimt",
               "breakfast_en": "Overnight oats with banana and cinnamon",
-              "lunch": "Marokkanischer Harira – Linseneintopf",
-              "lunch_en": "Moroccan Harira – Lentil Stew",
-              "lunch_id": "moroccan_harira",
+              "lunch": "Kichererbsen-Reis-Auflauf",
+              "lunch_en": "Mild Chickpea Rice Bake",
+              "lunch_id": "mild_chickpea_rice_bake",
               "lunch_note": "Rest vom Vortag zum Mittag",
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Möhrensticks mit Hummus",
@@ -1090,9 +1090,9 @@
               "day_en": "Wednesday",
               "breakfast": "Overnight Oats mit Beeren",
               "breakfast_en": "Overnight oats with berries",
-              "lunch": "Puten-Orzo mit Erbsen und Minze",
-              "lunch_en": "Turkey Orzo with Peas and Mint",
-              "lunch_id": "pea_mint_orzo_turkey",
+              "lunch": "Tomaten-Quinoa mit Hähnchen",
+              "lunch_en": "Tomato Quinoa with Chicken",
+              "lunch_id": "mild_tomato_quinoa_chicken",
               "lunch_note": "frisch kochen und mittags aufessen",
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Skyr mit etwas Obst",
@@ -1103,9 +1103,9 @@
               "day_en": "Thursday",
               "breakfast": "Skyr-Becher mit Haferflocken, Birne und Sonnenblumenkernen",
               "breakfast_en": "Skyr with rolled oats, pear and sunflower seeds",
-              "lunch": "Marokkanische Hähnchen-Bowl mit Harissa-Karotten",
-              "lunch_en": "Moroccan Chicken Bowl with Harissa Carrots",
-              "lunch_id": "moroccan_harissa_chicken_bowl",
+              "lunch": "Djuvec-Hähnchen mit Reis",
+              "lunch_en": "Djuvec Chicken with Rice",
+              "lunch_id": "mild_djuvec_chicken",
               "lunch_note": "heute kochen, morgen mittags nochmal essen",
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Paprikastreifen und Hummus",
@@ -1116,9 +1116,9 @@
               "day_en": "Friday",
               "breakfast": "Overnight Oats mit Apfel und Zimt",
               "breakfast_en": "Overnight oats with apple and cinnamon",
-              "lunch": "Marokkanische Hähnchen-Bowl mit Harissa-Karotten",
-              "lunch_en": "Moroccan Chicken Bowl with Harissa Carrots",
-              "lunch_id": "moroccan_harissa_chicken_bowl",
+              "lunch": "Djuvec-Hähnchen mit Reis",
+              "lunch_en": "Djuvec Chicken with Rice",
+              "lunch_id": "mild_djuvec_chicken",
               "lunch_note": "Rest vom Vortag zum Mittag",
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Eine Banane und Walnüsse",
@@ -1129,9 +1129,9 @@
               "day_en": "Saturday",
               "breakfast": "Rührei mit Vollkornbrot und Tomaten",
               "breakfast_en": "Scrambled eggs with wholegrain bread and tomatoes",
-              "lunch": "Puten-Pasta mit Erbsen und Spinat",
-              "lunch_en": "Turkey Pasta with Peas and Spinach",
-              "lunch_id": "pea_spinach_pasta_turkey",
+              "lunch": "Miso-glasiertes Hähnchen mit Gemüse-Quinoa",
+              "lunch_en": "Miso-Glazed Chicken with Vegetable Quinoa",
+              "lunch_id": "miso_glazed_chicken_quinoa",
               "lunch_note": "frisch kochen und mittags aufessen",
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Trauben oder Beeren",
@@ -1142,9 +1142,9 @@
               "day_en": "Sunday",
               "breakfast": "Naturjoghurt mit Obst und Nussmix",
               "breakfast_en": "Natural yoghurt with fruit and nut mix",
-              "lunch": "Puten-Orzo mit Zucchini und Erbsen",
-              "lunch_en": "Turkey Orzo with Zucchini and Peas",
-              "lunch_id": "pea_zucchini_orzo_turkey",
+              "lunch": "Hähnchen-Risotto mit Champignons und Erbsen",
+              "lunch_en": "Chicken Risotto with Mushrooms and Peas",
+              "lunch_id": "mushroom_pea_risotto_chicken",
               "lunch_note": "frisch kochen und mittags aufessen",
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Gurkensticks mit Kräuterquark",
@@ -1153,25 +1153,106 @@
           ],
           "lunches": [
             {
-              "id": "moroccan_harira",
-              "title": "Marokkanischer Harira – Linseneintopf",
-              "title_en": "Moroccan Harira – Lentil Stew",
-              "meals": 2,
-              "summary": "Wärmender marokkanischer Eintopf mit Linsen, Kichererbsen, Tomaten und frischen Kräutern – ein nahrhaftes Traditionsgericht.",
-              "summary_en": "A warming Moroccan stew of lentils, chickpeas, tomatoes, and fresh herbs — a nourishing traditional dish.",
+              "id": "mild_chickpea_rice_bake",
+              "title": "Kichererbsen-Reis-Auflauf",
+              "title_en": "Mild Chickpea Rice Bake",
+              "meals": 3,
+              "summary": "Auflauf mit Reis, Kichererbsen, Zucchini und leichter Joghurt-Ei-Masse.",
+              "summary_en": "A baked dish of rice, chickpeas, zucchini, and carrots topped with a light yogurt and egg custard.",
               "child_note": "",
               "ingredients": [
                 {
-                  "name": "Rote Linsen",
-                  "name_en": "Red lentils",
-                  "qty_display": "150 g",
+                  "name": "Reis",
+                  "name_en": "Rice",
+                  "qty_display": "250 g",
                   "category": "Kohlenhydrate und Sattmacher"
                 },
                 {
-                  "name": "Kichererbsen, gekocht",
-                  "name_en": "Chickpeas, cooked",
-                  "qty_display": "1 Dose",
+                  "name": "Kichererbsen",
+                  "name_en": "Chickpeas",
+                  "qty_display": "2 Dosen",
                   "category": "Konserven und Vorrat"
+                },
+                {
+                  "name": "Zucchini",
+                  "name_en": "Zucchini",
+                  "qty_display": "1 Stk",
+                  "category": "Gemüse und Salat"
+                },
+                {
+                  "name": "Möhren",
+                  "name_en": "Carrots",
+                  "qty_display": "2 Stk",
+                  "category": "Gemüse und Salat"
+                },
+                {
+                  "name": "Eier",
+                  "name_en": "Eggs",
+                  "qty_display": "3 Stk",
+                  "category": "Protein und Milchprodukte"
+                },
+                {
+                  "name": "Naturjoghurt",
+                  "name_en": "Plain yogurt",
+                  "qty_display": "180 g",
+                  "category": "Protein und Milchprodukte"
+                },
+                {
+                  "name": "Olivenöl",
+                  "name_en": "Olive oil",
+                  "qty_display": "1 EL",
+                  "category": "Konserven und Vorrat"
+                },
+                {
+                  "name": "Chiliflocken",
+                  "name_en": "Chili flakes",
+                  "qty_display": "0,5 TL",
+                  "category": "Gewürze"
+                }
+              ],
+              "steps": [
+                "Reis vorgaren.",
+                "Gemüse klein schneiden und kurz weich dünsten.",
+                "Alles mit Kichererbsen in eine Form geben, Eier mit Joghurt verrühren und darübergeben."
+              ],
+              "steps_en": [
+                "Par-cook the rice.",
+                "Chop the vegetables into small pieces and briefly steam until tender.",
+                "Transfer everything along with the chickpeas to a baking dish. Whisk the eggs with the yogurt and pour over the top. Bake until set."
+              ]
+            },
+            {
+              "id": "mild_djuvec_chicken",
+              "title": "Djuvec-Hähnchen mit Reis",
+              "title_en": "Djuvec Chicken with Rice",
+              "meals": 3,
+              "summary": "Klassische Balkan-Reispfanne mit Hähnchen, Paprika, Erbsen und Tomate – Ajvar und geräucherter Paprika geben dem Djuvec seinen unverwechselbaren Charakter.",
+              "summary_en": "A classic Balkan rice pan with chicken, bell pepper, peas, and tomato — ajvar and smoked paprika give the Djuvec its unmistakable character.",
+              "child_note": "",
+              "ingredients": [
+                {
+                  "name": "Hähnchenbrust",
+                  "name_en": "Chicken breast",
+                  "qty_display": "850 g",
+                  "category": "Protein und Milchprodukte"
+                },
+                {
+                  "name": "Reis",
+                  "name_en": "Rice",
+                  "qty_display": "320 g",
+                  "category": "Kohlenhydrate und Sattmacher"
+                },
+                {
+                  "name": "Paprika",
+                  "name_en": "Bell pepper",
+                  "qty_display": "2 Stk",
+                  "category": "Gemüse und Salat"
+                },
+                {
+                  "name": "Erbsen, TK",
+                  "name_en": "Frozen peas",
+                  "qty_display": "250 g",
+                  "category": "Gemüse und Salat"
                 },
                 {
                   "name": "Gehackte Tomaten",
@@ -1180,222 +1261,33 @@
                   "category": "Konserven und Vorrat"
                 },
                 {
-                  "name": "Tomatenmark",
-                  "name_en": "Tomato paste",
-                  "qty_display": "2 EL",
-                  "category": "Konserven und Vorrat"
-                },
-                {
-                  "name": "Gemüsebrühe",
-                  "name_en": "Vegetable broth",
-                  "qty_display": "1 ml",
-                  "category": "Konserven und Vorrat"
-                },
-                {
-                  "name": "Olivenöl",
-                  "name_en": "Olive oil",
-                  "qty_display": "3 EL",
-                  "category": "Konserven und Vorrat"
-                },
-                {
-                  "name": "Zwiebeln",
-                  "name_en": "Onions",
-                  "qty_display": "2 Stk",
-                  "category": "Gemüse und Salat"
-                },
-                {
-                  "name": "Knoblauchzehen",
-                  "name_en": "Garlic cloves",
-                  "qty_display": "3 Zehen",
-                  "category": "Gemüse und Salat"
-                },
-                {
-                  "name": "Stangensellerie",
-                  "name_en": "Celery stalks",
-                  "qty_display": "2 Stangen",
-                  "category": "Gemüse und Salat"
-                },
-                {
-                  "name": "Frische Korianderblätter",
-                  "name_en": "Fresh coriander leaves",
-                  "qty_display": "1 Bund",
-                  "category": "Gemüse und Salat"
-                },
-                {
-                  "name": "Frische Petersilie",
-                  "name_en": "Fresh parsley",
-                  "qty_display": "1 Bund",
-                  "category": "Gemüse und Salat"
-                },
-                {
-                  "name": "Zitrone",
-                  "name_en": "Lemon",
-                  "qty_display": "1 Stk",
-                  "category": "Obst"
-                },
-                {
-                  "name": "Ras el Hanout",
-                  "name_en": "Ras el hanout",
-                  "qty_display": "1,5 TL",
-                  "category": "Gewürze"
-                },
-                {
-                  "name": "Kurkuma",
-                  "name_en": "Turmeric",
-                  "qty_display": "1 TL",
-                  "category": "Gewürze"
-                },
-                {
-                  "name": "Kreuzkümmel, gemahlen",
-                  "name_en": "Ground cumin",
-                  "qty_display": "1 TL",
-                  "category": "Gewürze"
-                },
-                {
-                  "name": "Koriander, gemahlen",
-                  "name_en": "Ground coriander",
-                  "qty_display": "1 TL",
-                  "category": "Gewürze"
-                },
-                {
-                  "name": "Zimtpulver",
-                  "name_en": "Ground cinnamon",
-                  "qty_display": "0,5 TL",
-                  "category": "Gewürze"
-                },
-                {
-                  "name": "Chilipulver",
-                  "name_en": "Chili powder",
-                  "qty_display": "0,5 TL",
-                  "category": "Gewürze"
-                },
-                {
-                  "name": "Schwarzer Pfeffer",
-                  "name_en": "Black pepper",
-                  "qty_display": "0,5 TL",
-                  "category": "Gewürze"
-                },
-                {
-                  "name": "Salz",
-                  "name_en": "Salt",
-                  "qty_display": "1,5 TL",
-                  "category": "Gewürze"
-                }
-              ],
-              "steps": [
-                "Zwiebeln fein würfeln. Sellerie in feine Scheiben schneiden. Knoblauch hacken.",
-                "Olivenöl in einem großen Topf erhitzen. Zwiebeln und Sellerie 8 Minuten weich dünsten. Knoblauch 2 Minuten mitbraten.",
-                "Ras el Hanout, Kurkuma, Kreuzkümmel, Koriander, Zimt und Chili einstreuen, 1 Minute rösten. Tomatenmark kurz mitbraten.",
-                "Gehackte Tomaten und Gemüsebrühe hinzufügen. Rote Linsen dazugeben und aufkochen. 20 Minuten köcheln lassen.",
-                "Abgetropfte Kichererbsen einrühren, weitere 10 Minuten köcheln. Nach Belieben Eintopf leicht stampfen für eine cremigere Konsistenz.",
-                "Mit Salz, Pfeffer und Zitronensaft abschmecken. Mit gehacktem Koriander und Petersilie bestreuen und servieren."
-              ],
-              "steps_en": [
-                "Finely dice the onions. Slice the celery thinly. Mince the garlic.",
-                "Heat the olive oil in a large pot. Sweat the onions and celery for 8 minutes. Add the garlic and cook for 2 minutes more.",
-                "Add the ras el hanout, turmeric, cumin, coriander, cinnamon, and chili; toast for 1 minute. Briefly cook the tomato paste.",
-                "Add the chopped tomatoes and vegetable broth. Stir in the red lentils and bring to a boil. Simmer for 20 minutes.",
-                "Stir in the drained chickpeas and simmer for a further 10 minutes. If desired, lightly mash the stew for a creamier texture.",
-                "Season with salt, pepper, and lemon juice. Scatter over the chopped coriander and parsley and serve."
-              ]
-            },
-            {
-              "id": "moroccan_harissa_chicken_bowl",
-              "title": "Marokkanische Hähnchen-Bowl mit Harissa-Karotten",
-              "title_en": "Moroccan Chicken Bowl with Harissa Carrots",
-              "meals": 2,
-              "summary": "Ofengeröstete Harissa-Karotten, zartes Hähnchen mit Ras el Hanout, Couscous mit Rosinen und gerösteten Mandeln – intensive nordafrikanische Aromen.",
-              "summary_en": "Oven-roasted harissa carrots, tender ras el hanout chicken, couscous with raisins, and toasted almonds — bold North African flavours.",
-              "child_note": "",
-              "ingredients": [
-                {
-                  "name": "Hähnchenbrust",
-                  "name_en": "Chicken breast",
-                  "qty_display": "750 g",
-                  "category": "Protein und Milchprodukte"
-                },
-                {
-                  "name": "Couscous",
-                  "name_en": "Couscous",
-                  "qty_display": "300 g",
-                  "category": "Kohlenhydrate und Sattmacher"
-                },
-                {
-                  "name": "Möhren",
-                  "name_en": "Carrots",
-                  "qty_display": "500 g",
-                  "category": "Gemüse und Salat"
-                },
-                {
                   "name": "Zwiebel",
                   "name_en": "Onion",
                   "qty_display": "1 Stk",
                   "category": "Gemüse und Salat"
                 },
                 {
-                  "name": "Knoblauch",
-                  "name_en": "Garlic",
-                  "qty_display": "3 Zehen",
-                  "category": "Gemüse und Salat"
-                },
-                {
-                  "name": "Koriander, frisch",
-                  "name_en": "Fresh coriander",
-                  "qty_display": "1 Bund",
-                  "category": "Gemüse und Salat"
-                },
-                {
-                  "name": "Harissa-Paste",
-                  "name_en": "Harissa paste",
-                  "qty_display": "3 EL",
-                  "category": "Konserven und Vorrat"
-                },
-                {
                   "name": "Olivenöl",
                   "name_en": "Olive oil",
-                  "qty_display": "4 EL",
+                  "qty_display": "1 EL",
                   "category": "Konserven und Vorrat"
                 },
                 {
-                  "name": "Hühnerbrühe",
-                  "name_en": "Chicken broth",
-                  "qty_display": "350 ml",
-                  "category": "Konserven und Vorrat"
+                  "name": "Knoblauch",
+                  "name_en": "Garlic",
+                  "qty_display": "2 Zehen",
+                  "category": "Gemüse und Salat"
                 },
                 {
-                  "name": "Gehobelte Mandeln",
-                  "name_en": "Flaked almonds",
-                  "qty_display": "50 g",
-                  "category": "Konserven und Vorrat"
-                },
-                {
-                  "name": "Rosinen",
-                  "name_en": "Raisins",
-                  "qty_display": "40 g",
-                  "category": "Konserven und Vorrat"
-                },
-                {
-                  "name": "Zitrone",
-                  "name_en": "Lemon",
-                  "qty_display": "1 Stk",
-                  "category": "Obst"
-                },
-                {
-                  "name": "Ras el Hanout",
-                  "name_en": "Ras el hanout",
+                  "name": "Paprika edelsüß",
+                  "name_en": "Sweet paprika",
                   "qty_display": "2 TL",
                   "category": "Gewürze"
                 },
                 {
-                  "name": "Kreuzkümmel, gemahlen",
-                  "name_en": "Ground cumin",
+                  "name": "Oregano",
+                  "name_en": "Oregano",
                   "qty_display": "1 TL",
-                  "category": "Gewürze"
-                },
-                {
-                  "name": "Zimt, gemahlen",
-                  "name_en": "Ground cinnamon",
-                  "qty_display": "0,5 TL",
                   "category": "Gewürze"
                 },
                 {
@@ -1406,348 +1298,430 @@
                 }
               ],
               "steps": [
-                "Möhren schälen und in Stifte schneiden. Mit Harissa-Paste, 2 EL Olivenöl, Salz und einer Prise Kreuzkümmel mischen. Im Ofen bei 200 °C 25 Minuten rösten.",
-                "Hähnchen mit Ras el Hanout, Zimt, Chiliflocken, Knoblauch und 2 EL Olivenöl marinieren.",
-                "Couscous: Brühe aufkochen, Couscous einrühren, Topf vom Herd nehmen, 5 Minuten quellen lassen. Mit Gabel auflockern, Rosinen und Zitronensaft untermengen.",
-                "Mandeln in einer trockenen Pfanne goldbraun rösten.",
-                "Hähnchen in einer heißen Pfanne scharf anbraten und durchgaren, ca. 6–7 Minuten je Seite.",
-                "Couscous in Bowls geben. Hähnchen und Harissa-Karotten anrichten. Mit gerösteten Mandeln und frischem Koriander bestreuen."
+                "Reis vorkochen oder parallel garen.",
+                "Hähnchen in Stücke schneiden und in Olivenöl anbraten.",
+                "Zwiebel, Knoblauch und Paprika weich dünsten, Paprika edelsüß kurz mitziehen lassen.",
+                "Tomaten und Erbsen zugeben und einige Minuten köcheln lassen."
               ],
               "steps_en": [
-                "Peel the carrots and cut into sticks. Toss with harissa paste, 2 tbsp olive oil, salt, and a pinch of cumin. Roast in the oven at 200 °C for 25 minutes.",
-                "Marinate the chicken with ras el hanout, cinnamon, chili flakes, garlic, and 2 tbsp olive oil.",
-                "For the couscous: bring the broth to a boil, stir in the couscous, remove from the heat, and leave to absorb for 5 minutes. Fluff with a fork and stir in the raisins and lemon juice.",
-                "Toast the flaked almonds in a dry pan until golden.",
-                "Sear the chicken in a hot pan until cooked through, about 6–7 minutes per side.",
-                "Spoon the couscous into bowls. Arrange the chicken and harissa carrots on top. Scatter with the toasted almonds and fresh coriander."
+                "Pre-cook or cook the rice in parallel.",
+                "Cut the chicken into pieces and sear in olive oil.",
+                "Sauté the onion, garlic, and bell pepper until soft, then briefly bloom the sweet paprika.",
+                "Add the tomatoes and peas and simmer for a few minutes."
               ]
             },
             {
-              "id": "pea_mint_orzo_turkey",
-              "title": "Puten-Orzo mit Erbsen und Minze",
-              "title_en": "Turkey Orzo with Peas and Mint",
+              "id": "mild_tomato_quinoa_chicken",
+              "title": "Tomaten-Quinoa mit Hähnchen",
+              "title_en": "Tomato Quinoa with Chicken",
               "meals": 3,
-              "summary": "Schnelle Orzo-Pfanne mit Putenhack, Erbsen und einer milden Joghurt-Note.",
-              "summary_en": "Quick orzo pan with minced turkey, peas and a gentle hint of yogurt.",
+              "summary": "Milder Quinoatopf mit Hähnchen, Tomate und Erbsen.",
+              "summary_en": "A mild quinoa pot with chicken, tomato, and peas.",
               "child_note": "",
               "ingredients": [
                 {
-                  "name": "Putenhack",
-                  "name_en": "minced turkey",
-                  "qty_display": "650 g",
+                  "name": "Hähnchenbrust",
+                  "name_en": "Chicken breast",
+                  "qty_display": "750 g",
                   "category": "Protein und Milchprodukte"
                 },
                 {
-                  "name": "Orzo oder Kritharaki",
-                  "name_en": "orzo or kritharaki",
+                  "name": "Quinoa",
+                  "name_en": "Quinoa",
+                  "qty_display": "260 g",
+                  "category": "Kohlenhydrate und Sattmacher"
+                },
+                {
+                  "name": "Passierte Tomaten",
+                  "name_en": "Strained tomatoes (passata)",
+                  "qty_display": "1 Glas",
+                  "category": "Konserven und Vorrat"
+                },
+                {
+                  "name": "Erbsen, TK",
+                  "name_en": "Frozen peas",
+                  "qty_display": "220 g",
+                  "category": "Gemüse und Salat"
+                },
+                {
+                  "name": "Möhren",
+                  "name_en": "Carrots",
+                  "qty_display": "2 Stk",
+                  "category": "Gemüse und Salat"
+                },
+                {
+                  "name": "Olivenöl",
+                  "name_en": "Olive oil",
+                  "qty_display": "1 EL",
+                  "category": "Konserven und Vorrat"
+                },
+                {
+                  "name": "Chiliflocken",
+                  "name_en": "Chili flakes",
+                  "qty_display": "0,5 TL",
+                  "category": "Gewürze"
+                }
+              ],
+              "steps": [
+                "Hähnchen scharf anbraten.",
+                "Quinoa, Tomaten und etwas Wasser zugeben.",
+                "Möhren und Erbsen weich mitgaren."
+              ],
+              "steps_en": [
+                "Sear the chicken over high heat.",
+                "Add the quinoa, tomatoes, and a little water.",
+                "Cook the carrots and peas together until tender."
+              ]
+            },
+            {
+              "id": "miso_glazed_chicken_quinoa",
+              "title": "Miso-glasiertes Hähnchen mit Gemüse-Quinoa",
+              "title_en": "Miso-Glazed Chicken with Vegetable Quinoa",
+              "meals": 2,
+              "summary": "Hähnchenbrust mit kräftiger Aka-Miso-Glasur, ofengegart und auf nährstoffreichem Quinoa mit Gemüse serviert.",
+              "summary_en": "Oven-roasted chicken breast with a bold aka miso glaze, served on nutrient-rich quinoa tossed with seasonal vegetables.",
+              "child_note": "",
+              "ingredients": [
+                {
+                  "name": "Hähnchenbrust",
+                  "name_en": "Chicken breast",
+                  "qty_display": "800 g",
+                  "category": "Protein und Milchprodukte"
+                },
+                {
+                  "name": "Brokkoli",
+                  "name_en": "Broccoli",
+                  "qty_display": "400 g",
+                  "category": "Gemüse und Salat"
+                },
+                {
+                  "name": "Karotten",
+                  "name_en": "Carrots",
+                  "qty_display": "2 Stk",
+                  "category": "Gemüse und Salat"
+                },
+                {
+                  "name": "Zuckerschoten",
+                  "name_en": "Sugar snap peas",
+                  "qty_display": "150 g",
+                  "category": "Gemüse und Salat"
+                },
+                {
+                  "name": "Frühlingszwiebeln",
+                  "name_en": "Spring onions",
+                  "qty_display": "1 Bund",
+                  "category": "Gemüse und Salat"
+                },
+                {
+                  "name": "Knoblauchzehen",
+                  "name_en": "Garlic cloves",
+                  "qty_display": "3 Zehen",
+                  "category": "Gemüse und Salat"
+                },
+                {
+                  "name": "Quinoa",
+                  "name_en": "Quinoa",
                   "qty_display": "300 g",
                   "category": "Kohlenhydrate und Sattmacher"
                 },
                 {
-                  "name": "Erbsen, TK",
-                  "name_en": "frozen peas",
+                  "name": "Aka-Miso (rote Misopaste)",
+                  "name_en": "Aka miso (red miso paste)",
+                  "qty_display": "4 EL",
+                  "category": "Konserven und Vorrat"
+                },
+                {
+                  "name": "Mirin",
+                  "name_en": "Mirin",
+                  "qty_display": "3 EL",
+                  "category": "Konserven und Vorrat"
+                },
+                {
+                  "name": "Sake",
+                  "name_en": "Sake",
+                  "qty_display": "2 EL",
+                  "category": "Konserven und Vorrat"
+                },
+                {
+                  "name": "Sojasoße",
+                  "name_en": "Soy sauce",
+                  "qty_display": "2 EL",
+                  "category": "Konserven und Vorrat"
+                },
+                {
+                  "name": "Sesamöl",
+                  "name_en": "Sesame oil",
+                  "qty_display": "2 EL",
+                  "category": "Konserven und Vorrat"
+                },
+                {
+                  "name": "Honig",
+                  "name_en": "Honey",
+                  "qty_display": "1 EL",
+                  "category": "Konserven und Vorrat"
+                },
+                {
+                  "name": "Pflanzenöl",
+                  "name_en": "Vegetable oil",
+                  "qty_display": "1 EL",
+                  "category": "Konserven und Vorrat"
+                },
+                {
+                  "name": "Gemüsebrühe",
+                  "name_en": "Vegetable broth",
+                  "qty_display": "600 ml",
+                  "category": "Konserven und Vorrat"
+                },
+                {
+                  "name": "Sesamkörner (schwarz und weiß)",
+                  "name_en": "Sesame seeds (black and white)",
+                  "qty_display": "2 EL",
+                  "category": "Gewürze"
+                },
+                {
+                  "name": "Chiliflocken",
+                  "name_en": "Chili flakes",
+                  "qty_display": "1 TL",
+                  "category": "Gewürze"
+                },
+                {
+                  "name": "Schwarzer Pfeffer",
+                  "name_en": "Black pepper",
+                  "qty_display": "1 TL",
+                  "category": "Gewürze"
+                }
+              ],
+              "steps": [
+                "Quinoa in der Gemüsebrühe aufkochen, Hitze reduzieren und 15 Minuten köcheln, bis die Brühe absorbiert ist. Mit Deckel 5 Minuten quellen lassen.",
+                "Miso-Glasur anrühren: Aka-Miso, Mirin, Sake, Sojasoße, Honig und gepressten Knoblauch glatt rühren.",
+                "Backofen auf 200 °C (Ober-/Unterhitze) vorheizen. Hähnchenbrust auf ein Backblech legen, großzügig mit der Miso-Glasur bestreichen.",
+                "20–22 Minuten im Ofen garen, nach der Hälfte der Zeit erneut mit Glasur einstreichen.",
+                "Karotten in dünne Scheiben, Brokkoli in kleine Röschen schneiden. In Sesamöl mit Pflanzenöl 5 Minuten scharf anbraten. Zuckerschoten die letzten 2 Minuten dazugeben.",
+                "Hähnchen 5 Minuten ruhen lassen, dann in Scheiben schneiden.",
+                "Quinoa mit dem Gemüse mischen. Hähnchen darauflegen, mit Frühlingszwiebeln und Sesamkörnern garnieren."
+              ],
+              "steps_en": [
+                "Bring the quinoa to a boil in the vegetable broth, reduce heat, and simmer for 15 minutes until absorbed. Let steam covered for 5 minutes.",
+                "Make the miso glaze: whisk together the aka miso, mirin, sake, soy sauce, honey, and pressed garlic until smooth.",
+                "Preheat the oven to 200 °C (conventional). Place the chicken breasts on a baking sheet and coat generously with the miso glaze.",
+                "Roast for 20–22 minutes, brushing with glaze again halfway through.",
+                "Slice the carrots thinly and cut the broccoli into small florets. Sear in sesame oil with vegetable oil for 5 minutes. Add the sugar snap peas for the last 2 minutes.",
+                "Let the chicken rest for 5 minutes, then slice.",
+                "Toss the quinoa with the vegetables. Top with the chicken and garnish with spring onions and sesame seeds."
+              ]
+            },
+            {
+              "id": "mushroom_pea_risotto_chicken",
+              "title": "Hähnchen-Risotto mit Champignons und Erbsen",
+              "title_en": "Chicken Risotto with Mushrooms and Peas",
+              "meals": 3,
+              "summary": "Mildes Risotto mit Hähnchen, Champignons und Erbsen.",
+              "summary_en": "A mild and creamy risotto with chicken, mushrooms, and peas.",
+              "child_note": "",
+              "ingredients": [
+                {
+                  "name": "Hähnchenbrust",
+                  "name_en": "Chicken breast",
+                  "qty_display": "750 g",
+                  "category": "Protein und Milchprodukte"
+                },
+                {
+                  "name": "Risottoreis",
+                  "name_en": "Risotto rice",
+                  "qty_display": "300 g",
+                  "category": "Kohlenhydrate und Sattmacher"
+                },
+                {
+                  "name": "Champignons",
+                  "name_en": "Button mushrooms",
                   "qty_display": "250 g",
                   "category": "Gemüse und Salat"
                 },
                 {
-                  "name": "Naturjoghurt",
-                  "name_en": "plain yogurt",
-                  "qty_display": "120 g",
-                  "category": "Protein und Milchprodukte"
+                  "name": "Erbsen, TK",
+                  "name_en": "Frozen peas",
+                  "qty_display": "200 g",
+                  "category": "Gemüse und Salat"
                 },
                 {
                   "name": "Zwiebel",
-                  "name_en": "onion",
+                  "name_en": "Onion",
                   "qty_display": "1 Stk",
                   "category": "Gemüse und Salat"
                 },
                 {
                   "name": "Olivenöl",
-                  "name_en": "olive oil",
+                  "name_en": "Olive oil",
                   "qty_display": "1 EL",
                   "category": "Konserven und Vorrat"
                 },
                 {
-                  "name": "Minze, getrocknet",
-                  "name_en": "dried mint",
-                  "qty_display": "0,5 TL",
-                  "category": "Gewürze"
+                  "name": "Parmesan",
+                  "name_en": "Parmesan",
+                  "qty_display": "30 g",
+                  "category": "Protein und Milchprodukte"
                 },
                 {
                   "name": "Chiliflocken",
-                  "name_en": "chili flakes",
+                  "name_en": "Chili flakes",
                   "qty_display": "0,5 TL",
                   "category": "Gewürze"
                 }
               ],
               "steps": [
-                "Orzo weich garen.",
-                "Putenhack mit Zwiebel scharf anbraten.",
-                "Erbsen zugeben und kurz mitgaren, etwas Joghurt unterrühren."
+                "Hähnchen klein schneiden und scharf anbraten.",
+                "Zwiebel und Champignons anschwitzen, Reis kurz mitgaren.",
+                "Nach und nach Wasser zugeben, bis der Reis weich ist."
               ],
               "steps_en": [
-                "Cook the orzo until tender.",
-                "Sear the minced turkey with the onion until browned.",
-                "Add the peas and cook briefly, then stir in a little yogurt."
-              ]
-            },
-            {
-              "id": "pea_spinach_pasta_turkey",
-              "title": "Puten-Pasta mit Erbsen und Spinat",
-              "title_en": "Turkey Pasta with Peas and Spinach",
-              "meals": 3,
-              "summary": "Schnelles Nudelgericht mit Putenhack, Erbsen, Spinat und milder Sauce.",
-              "summary_en": "Quick pasta dish with minced turkey, peas, spinach and a mild cream cheese sauce.",
-              "child_note": "",
-              "ingredients": [
-                {
-                  "name": "Vollkornnudeln",
-                  "name_en": "wholemeal pasta",
-                  "qty_display": "320 g",
-                  "category": "Kohlenhydrate und Sattmacher"
-                },
-                {
-                  "name": "Putenhack",
-                  "name_en": "minced turkey",
-                  "qty_display": "650 g",
-                  "category": "Protein und Milchprodukte"
-                },
-                {
-                  "name": "Erbsen, TK",
-                  "name_en": "frozen peas",
-                  "qty_display": "220 g",
-                  "category": "Gemüse und Salat"
-                },
-                {
-                  "name": "Blattspinat",
-                  "name_en": "leaf spinach",
-                  "qty_display": "150 g",
-                  "category": "Gemüse und Salat"
-                },
-                {
-                  "name": "Frischkäse natur",
-                  "name_en": "plain cream cheese",
-                  "qty_display": "100 g",
-                  "category": "Protein und Milchprodukte"
-                },
-                {
-                  "name": "Olivenöl",
-                  "name_en": "olive oil",
-                  "qty_display": "1 EL",
-                  "category": "Konserven und Vorrat"
-                },
-                {
-                  "name": "Chiliflocken",
-                  "name_en": "chili flakes",
-                  "qty_display": "0,5 TL",
-                  "category": "Gewürze"
-                }
-              ],
-              "steps": [
-                "Nudeln weich kochen.",
-                "Putenhack scharf anbraten.",
-                "Erbsen und Spinat kurz mitgaren, Frischkäse unterrühren."
-              ],
-              "steps_en": [
-                "Cook the pasta until tender.",
-                "Sear the minced turkey in a hot pan until browned.",
-                "Add the peas and spinach and cook briefly, then stir in the cream cheese."
-              ]
-            },
-            {
-              "id": "pea_zucchini_orzo_turkey",
-              "title": "Puten-Orzo mit Zucchini und Erbsen",
-              "title_en": "Turkey Orzo with Zucchini and Peas",
-              "meals": 3,
-              "summary": "Schnelle Orzo-Pfanne mit Putenhack, Zucchini und Erbsen.",
-              "summary_en": "Quick orzo pan with minced turkey, zucchini and peas.",
-              "child_note": "",
-              "ingredients": [
-                {
-                  "name": "Putenhack",
-                  "name_en": "minced turkey",
-                  "qty_display": "650 g",
-                  "category": "Protein und Milchprodukte"
-                },
-                {
-                  "name": "Orzo oder Kritharaki",
-                  "name_en": "orzo or kritharaki",
-                  "qty_display": "300 g",
-                  "category": "Kohlenhydrate und Sattmacher"
-                },
-                {
-                  "name": "Zucchini",
-                  "name_en": "zucchini",
-                  "qty_display": "2 Stk",
-                  "category": "Gemüse und Salat"
-                },
-                {
-                  "name": "Erbsen, TK",
-                  "name_en": "frozen peas",
-                  "qty_display": "220 g",
-                  "category": "Gemüse und Salat"
-                },
-                {
-                  "name": "Frischkäse natur",
-                  "name_en": "plain cream cheese",
-                  "qty_display": "100 g",
-                  "category": "Protein und Milchprodukte"
-                },
-                {
-                  "name": "Olivenöl",
-                  "name_en": "olive oil",
-                  "qty_display": "1 EL",
-                  "category": "Konserven und Vorrat"
-                },
-                {
-                  "name": "Chiliflocken",
-                  "name_en": "chili flakes",
-                  "qty_display": "0,5 TL",
-                  "category": "Gewürze"
-                }
-              ],
-              "steps": [
-                "Orzo weich garen.",
-                "Putenhack scharf anbraten.",
-                "Zucchini und Erbsen weich garen und Frischkäse unterrühren."
-              ],
-              "steps_en": [
-                "Cook the orzo until tender.",
-                "Sear the minced turkey in a hot pan until browned.",
-                "Cook the zucchini and peas until tender, then stir in the cream cheese."
+                "Cut the chicken into small pieces and sear over high heat.",
+                "Sauté the onion and mushrooms, then briefly cook the rice with them.",
+                "Add water gradually, stirring, until the rice is tender and creamy."
               ]
             }
           ],
           "dessert": {
-            "id": "light_banana_bread",
-            "title": "Leichtes Bananenbrot",
-            "title_en": "TODO: Leichtes Bananenbrot",
-            "meals": 2,
-            "summary": "Natürlich süß durch reife Bananen, mit Haferflocken und Joghurt statt schwerer Creme.",
-            "summary_en": "TODO: Natürlich süß durch reife Bananen, mit Haferflocken und Joghurt statt schwerer Creme.",
+            "id": "date_nut_energy_balls",
+            "title": "Dattel-Nuss-Energiekugeln",
+            "title_en": "Date and Nut Energy Balls",
+            "meals": 8,
+            "summary": "Kleine, sättigende Energiebällchen aus Datteln, Nüssen und Haferflocken — ohne Backen, ganz ohne Zucker und ideal als süßer Snack für die ganze Familie.",
+            "summary_en": "Small, satisfying energy bites made from dates, nuts, and oats — no baking, no added sugar, and perfect as a sweet snack for the whole family.",
             "child_note": "",
             "ingredients": [
               {
-                "name": "Reife Bananen",
-                "name_en": "TODO: Reife Bananen",
-                "qty_display": "3 Stk",
+                "name": "Medjool-Datteln entsteint",
+                "name_en": "Medjool dates, pitted",
+                "qty_display": "400 g",
                 "category": "Obst"
               },
               {
-                "name": "Haferflocken",
-                "name_en": "TODO: Haferflocken",
-                "qty_display": "150 g",
-                "category": "Kohlenhydrate und Sattmacher"
-              },
-              {
-                "name": "Dinkelmehl",
-                "name_en": "TODO: Dinkelmehl",
-                "qty_display": "150 g",
-                "category": "Kohlenhydrate und Sattmacher"
-              },
-              {
-                "name": "Naturjoghurt",
-                "name_en": "TODO: Naturjoghurt",
-                "qty_display": "150 g",
-                "category": "Protein und Milchprodukte"
-              },
-              {
-                "name": "Eier",
-                "name_en": "TODO: Eier",
-                "qty_display": "2 Stk",
-                "category": "Protein und Milchprodukte"
+                "name": "Mandeln",
+                "name_en": "almonds",
+                "qty_display": "200 g",
+                "category": "Konserven und Vorrat"
               },
               {
                 "name": "Walnüsse",
-                "name_en": "TODO: Walnüsse",
-                "qty_display": "60 g",
+                "name_en": "walnuts",
+                "qty_display": "150 g",
                 "category": "Konserven und Vorrat"
               },
               {
-                "name": "Backpulver",
-                "name_en": "TODO: Backpulver",
-                "qty_display": "1 Packung",
+                "name": "Haferflocken (zart)",
+                "name_en": "rolled oats (fine)",
+                "qty_display": "150 g",
+                "category": "Kohlenhydrate und Sattmacher"
+              },
+              {
+                "name": "Kakaopulver ungesüßt",
+                "name_en": "unsweetened cocoa powder",
+                "qty_display": "3 EL",
                 "category": "Konserven und Vorrat"
               },
               {
-                "name": "Zimt",
-                "name_en": "TODO: Zimt",
+                "name": "Chiasamen",
+                "name_en": "chia seeds",
+                "qty_display": "2 EL",
+                "category": "Konserven und Vorrat"
+              },
+              {
+                "name": "Zimt gemahlen",
+                "name_en": "cinnamon, ground",
                 "qty_display": "1 TL",
                 "category": "Gewürze"
               },
               {
-                "name": "Chiliflocken",
-                "name_en": "TODO: Chiliflocken",
-                "qty_display": "0,5 TL",
+                "name": "Vanilleextrakt",
+                "name_en": "vanilla extract",
+                "qty_display": "1 TL",
                 "category": "Gewürze"
+              },
+              {
+                "name": "Salz",
+                "name_en": "salt",
+                "qty_display": "1 Prise",
+                "category": "Gewürze"
+              },
+              {
+                "name": "Kokosraspeln zum Wälzen",
+                "name_en": "desiccated coconut for rolling",
+                "qty_display": "60 g",
+                "category": "Konserven und Vorrat"
               }
             ],
             "steps": [
-              "Bananen zerdrücken.",
-              "Mit Eiern und Naturjoghurt verrühren.",
-              "Haferflocken, Dinkelmehl, Backpulver und Zimt unterheben.",
-              "Walnüsse optional grob hacken und für Erwachsenenstücke einstreuen.",
-              "In einer Kastenform bei 180 Grad etwa 40 bis 45 Minuten backen."
+              "Datteln 10 Minuten in warmem Wasser einweichen, dann gut abtropfen lassen.",
+              "Mandeln und Walnüsse in einem Mixer grob zerkleinern.",
+              "Datteln, Haferflocken, Kakaopulver, Chiasamen, Zimt, Vanilleextrakt und Salz zu den Nüssen geben und alles zu einer klebrigen, formbaren Masse verarbeiten. Falls die Masse zu trocken ist, 1–2 EL Wasser hinzufügen.",
+              "Hände leicht befeuchten und aus der Masse 24–30 Kugeln (je ca. 3 cm Durchmesser) formen.",
+              "Kokosraspeln auf einem Teller ausbreiten und die Kugeln darin wälzen.",
+              "Kugeln auf einem Tablett verteilen und mindestens 30 Minuten im Kühlschrank fest werden lassen.",
+              "In einem luftdichten Behälter im Kühlschrank bis zu 2 Wochen haltbar."
             ],
             "steps_en": [
-              "TODO: Bananen zerdrücken.",
-              "TODO: Mit Eiern und Naturjoghurt verrühren.",
-              "TODO: Haferflocken, Dinkelmehl, Backpulver und Zimt unterheben.",
-              "TODO: Walnüsse optional grob hacken und für Erwachsenenstücke einstreuen.",
-              "TODO: In einer Kastenform bei 180 Grad etwa 40 bis 45 Minuten backen."
-            ]
+              "Soak the dates in warm water for 10 minutes, then drain well.",
+              "Roughly chop the almonds and walnuts in a food processor.",
+              "Add the dates, oats, cocoa powder, chia seeds, cinnamon, vanilla extract, and salt to the nuts and process into a sticky, shapeable dough. If the mixture is too dry, add 1–2 tbsp water.",
+              "Dampen your hands lightly and roll the mixture into 24–30 balls (about 3 cm in diameter each).",
+              "Spread the desiccated coconut on a plate and roll the balls in it to coat.",
+              "Arrange the balls on a tray and refrigerate for at least 30 minutes to firm up.",
+              "Store in an airtight container in the fridge for up to 2 weeks."
+            ],
+            "servings": "",
+            "prep_note": ""
           },
           "shopping": [
             {
               "category": "Gemüse und Salat",
               "items": [
                 {
-                  "name": "Blattspinat",
-                  "qty_display": "50 g"
+                  "name": "Brokkoli",
+                  "qty_display": "200 g"
+                },
+                {
+                  "name": "Champignons",
+                  "qty_display": "80 g"
                 },
                 {
                   "name": "Erbsen, TK",
-                  "qty_display": "230 g"
+                  "qty_display": "310 g"
                 },
                 {
-                  "name": "Frische Korianderblätter",
+                  "name": "Frühlingszwiebeln",
                   "qty_display": "1 Bund"
                 },
                 {
-                  "name": "Frische Petersilie",
-                  "qty_display": "1 Bund"
+                  "name": "Karotten",
+                  "qty_display": "1 Stk"
                 },
                 {
                   "name": "Knoblauch",
-                  "qty_display": "3 Zehen"
+                  "qty_display": "2 Zehen"
                 },
                 {
                   "name": "Knoblauchzehen",
-                  "qty_display": "3 Zehen"
-                },
-                {
-                  "name": "Koriander, frisch",
-                  "qty_display": "1 Bund"
+                  "qty_display": "2 Zehen"
                 },
                 {
                   "name": "Möhren",
-                  "qty_display": "500 g"
+                  "qty_display": "2 Stk"
                 },
                 {
-                  "name": "Stangensellerie",
-                  "qty_display": "2 Stangen"
+                  "name": "Paprika",
+                  "qty_display": "2 Stk"
                 },
                 {
                   "name": "Zucchini",
                   "qty_display": "1 Stk"
                 },
                 {
-                  "name": "Zwiebel",
-                  "qty_display": "2 Stk"
+                  "name": "Zuckerschoten",
+                  "qty_display": "80 g"
                 },
                 {
-                  "name": "Zwiebeln",
-                  "qty_display": "2 Stk"
+                  "name": "Zwiebel",
+                  "qty_display": "1 Stk"
                 }
               ]
             },
@@ -1767,16 +1741,12 @@
                   "qty_display": "4 Stk"
                 },
                 {
-                  "name": "Reife Bananen",
-                  "qty_display": "3 Stk"
+                  "name": "Medjool-Datteln entsteint",
+                  "qty_display": "400 g"
                 },
                 {
                   "name": "Trauben",
                   "qty_display": "500 g"
-                },
-                {
-                  "name": "Zitrone",
-                  "qty_display": "2 Stk"
                 },
                 {
                   "name": "Äpfel",
@@ -1792,16 +1762,12 @@
                   "qty_display": "12 Stk"
                 },
                 {
-                  "name": "Frischkäse natur",
-                  "qty_display": "70 g"
-                },
-                {
                   "name": "Hummus",
                   "qty_display": "1 Packung"
                 },
                 {
                   "name": "Hähnchenbrust",
-                  "qty_display": "750 g"
+                  "qty_display": "1470 g"
                 },
                 {
                   "name": "Magerquark oder Kräuterquark",
@@ -1813,11 +1779,11 @@
                 },
                 {
                   "name": "Naturjoghurt",
-                  "qty_display": "190 g"
+                  "qty_display": "120 g"
                 },
                 {
-                  "name": "Putenhack",
-                  "qty_display": "650 g"
+                  "name": "Parmesan",
+                  "qty_display": "10 g"
                 },
                 {
                   "name": "Skyr oder griechischer Joghurt",
@@ -1829,32 +1795,28 @@
               "category": "Kohlenhydrate und Sattmacher",
               "items": [
                 {
-                  "name": "Couscous",
-                  "qty_display": "300 g"
-                },
-                {
-                  "name": "Dinkelmehl",
-                  "qty_display": "150 g"
-                },
-                {
                   "name": "Haferflocken",
-                  "qty_display": "1150 g"
+                  "qty_display": "1000 g"
                 },
                 {
-                  "name": "Orzo oder Kritharaki",
-                  "qty_display": "200 g"
-                },
-                {
-                  "name": "Rote Linsen",
+                  "name": "Haferflocken (zart)",
                   "qty_display": "150 g"
+                },
+                {
+                  "name": "Quinoa",
+                  "qty_display": "240 g"
+                },
+                {
+                  "name": "Reis",
+                  "qty_display": "380 g"
+                },
+                {
+                  "name": "Risottoreis",
+                  "qty_display": "100 g"
                 },
                 {
                   "name": "Vollkornbrot",
                   "qty_display": "1 Laib"
-                },
-                {
-                  "name": "Vollkornnudeln",
-                  "qty_display": "110 g"
                 }
               ]
             },
@@ -1862,8 +1824,12 @@
               "category": "Konserven und Vorrat",
               "items": [
                 {
-                  "name": "Backpulver",
-                  "qty_display": "1 Packung"
+                  "name": "Aka-Miso (rote Misopaste)",
+                  "qty_display": "2 EL"
+                },
+                {
+                  "name": "Chiasamen",
+                  "qty_display": "2 EL"
                 },
                 {
                   "name": "Chiasamen",
@@ -1874,52 +1840,64 @@
                   "qty_display": "1 Dose"
                 },
                 {
-                  "name": "Gehobelte Mandeln",
-                  "qty_display": "50 g"
-                },
-                {
                   "name": "Gemüsebrühe",
-                  "qty_display": "1 Liter"
-                },
-                {
-                  "name": "Harissa-Paste",
-                  "qty_display": "3 EL"
+                  "qty_display": "300 ml"
                 },
                 {
                   "name": "Honig",
                   "qty_display": "1 Glas"
                 },
                 {
-                  "name": "Hühnerbrühe",
-                  "qty_display": "350 ml"
+                  "name": "Kakaopulver ungesüßt",
+                  "qty_display": "3 EL"
                 },
                 {
-                  "name": "Kichererbsen, gekocht",
-                  "qty_display": "1 Dose"
+                  "name": "Kichererbsen",
+                  "qty_display": "2 Dosen"
+                },
+                {
+                  "name": "Kokosraspeln zum Wälzen",
+                  "qty_display": "60 g"
                 },
                 {
                   "name": "Mandeln",
-                  "qty_display": "200 g"
+                  "qty_display": "400 g"
+                },
+                {
+                  "name": "Mirin",
+                  "qty_display": "1,5 EL"
                 },
                 {
                   "name": "Olivenöl",
                   "qty_display": "1 Flasche"
                 },
                 {
-                  "name": "Rosinen",
-                  "qty_display": "40 g"
+                  "name": "Passierte Tomaten",
+                  "qty_display": "1 Glas"
+                },
+                {
+                  "name": "Pflanzenöl",
+                  "qty_display": "0,5 EL"
+                },
+                {
+                  "name": "Sake",
+                  "qty_display": "1 EL"
+                },
+                {
+                  "name": "Sesamöl",
+                  "qty_display": "1 EL"
+                },
+                {
+                  "name": "Sojasoße",
+                  "qty_display": "1 EL"
                 },
                 {
                   "name": "Sonnenblumenkerne",
                   "qty_display": "1 Packung"
                 },
                 {
-                  "name": "Tomatenmark",
-                  "qty_display": "2 EL"
-                },
-                {
                   "name": "Walnüsse",
-                  "qty_display": "260 g"
+                  "qty_display": "350 g"
                 }
               ]
             },
@@ -1935,27 +1913,15 @@
                   "qty_display": "1,5 TL"
                 },
                 {
-                  "name": "Chilipulver",
-                  "qty_display": "0,5 TL"
-                },
-                {
                   "name": "Knoblauchpulver",
                   "qty_display": "1 Packung"
                 },
                 {
-                  "name": "Koriander, gemahlen",
-                  "qty_display": "1 TL"
+                  "name": "Oregano",
+                  "qty_display": "1 Packung"
                 },
                 {
-                  "name": "Kreuzkümmel, gemahlen",
-                  "qty_display": "2 TL"
-                },
-                {
-                  "name": "Kurkuma",
-                  "qty_display": "1 TL"
-                },
-                {
-                  "name": "Minze, getrocknet",
+                  "name": "Paprika edelsüß",
                   "qty_display": "1 Packung"
                 },
                 {
@@ -1963,12 +1929,8 @@
                   "qty_display": "1 Packung"
                 },
                 {
-                  "name": "Ras el Hanout",
-                  "qty_display": "3,5 TL"
-                },
-                {
                   "name": "Salz",
-                  "qty_display": "1,5 TL"
+                  "qty_display": "1 Prise"
                 },
                 {
                   "name": "Salz",
@@ -1979,16 +1941,20 @@
                   "qty_display": "0,5 TL"
                 },
                 {
+                  "name": "Sesamkörner (schwarz und weiß)",
+                  "qty_display": "1 EL"
+                },
+                {
+                  "name": "Vanilleextrakt",
+                  "qty_display": "1 TL"
+                },
+                {
                   "name": "Zimt",
                   "qty_display": "1 Packung"
                 },
                 {
-                  "name": "Zimt, gemahlen",
-                  "qty_display": "0,5 TL"
-                },
-                {
-                  "name": "Zimtpulver",
-                  "qty_display": "0,5 TL"
+                  "name": "Zimt gemahlen",
+                  "qty_display": "1 TL"
                 }
               ]
             }

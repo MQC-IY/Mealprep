@@ -1535,10 +1535,34 @@ def export_weeks_json(weeks_ahead: int = 3, out_path: Path | None = None) -> Pat
     state = load_state()
     weeks_output: list[dict[str, object]] = []
 
+    # Load existing weeks.json so we can preserve already-generated plans
+    existing_weeks_by_key: dict[str, dict[str, object]] = {}
+    if out_path.exists():
+        try:
+            with open(out_path, encoding="utf-8") as _f:
+                _existing = json.load(_f)
+            for _ew in _existing.get("weeks", []):
+                existing_weeks_by_key[str(_ew["week_key"])] = _ew
+        except Exception:
+            pass
+
     for week_offset in range(weeks_ahead + 1):
         monday = this_monday + timedelta(weeks=week_offset)
         sunday = monday + timedelta(days=6)
         week_key = current_week_key(monday)
+
+        # If all variants were already generated for this week, keep the existing plan
+        all_already_generated = (
+            week_key in existing_weeks_by_key
+            and all(
+                state.get("variants", {}).get(v, {}).get("last_generated_week") == week_key
+                and state.get("variants", {}).get(v, {}).get("generator_version") == GENERATOR_VERSION
+                for v in PLAN_VARIANTS
+            )
+        )
+        if all_already_generated:
+            weeks_output.append(existing_weeks_by_key[week_key])
+            continue
 
         reserved_lunch_ids: set[str] = set()
         selected_weeks: dict[str, dict[str, object]] = {}
