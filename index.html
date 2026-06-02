@@ -741,6 +741,10 @@ function fmtCalories(id) {
   return `${kcal} kcal`;
 }
 
+function fmtKcal(kcal) {
+  return kcal ? `${kcal} kcal` : null;
+}
+
 function imgSrc(raw, w, h, q = 80) {
   return `${raw}&w=${w}&h=${h}&fit=crop&q=${q}&auto=format`;
 }
@@ -906,11 +910,11 @@ function renderMobileDayCards(week, varData) {
           ${today ? `<span class="bg-primary text-on-primary font-label-sm text-label-sm px-3 py-1.5 rounded-full shadow-sm">${t('today')}</span>` : ''}
         </div>
         <div class="flex flex-col gap-4">
-          ${mealRow('🌅', t('breakfast'), dField(day, 'breakfast'))}
+          ${mealRow('🌅', t('breakfast'), dField(day, 'breakfast'), null, fmtKcal(day.breakfast_kcal))}
           <div class="h-px w-full bg-surface-container-high/50 ml-10"></div>
           ${mealRowAccent('🍲', t('lunch'), dField(day, 'lunch'), dField(day, 'lunch_note'))}
           <div class="h-px w-full bg-surface-container-high/50 ml-10"></div>
-          ${mealRow('🍎', t('snack'), dField(day, 'snack'))}
+          ${mealRow('🍎', t('snack'), dField(day, 'snack'), null, fmtKcal(day.snack_kcal))}
         </div>
       </div>`;
   }).join('');
@@ -1115,9 +1119,9 @@ function renderDesktopDayDetail(week, varData) {
   const mealsHtml = `
     <div class="px-8 py-6 border-b border-surface-variant/60">
       <div class="flex flex-col gap-5">
-        ${mealRowLarge('🌅', t('breakfast_long'), dField(day, 'breakfast'))}
+        ${mealRowLarge('🌅', t('breakfast_long'), dField(day, 'breakfast'), null, fmtKcal(day.breakfast_kcal))}
         ${mealRowLarge('🍲', t('lunch_long'), dField(day, 'lunch'), dField(day, 'lunch_note'))}
-        ${mealRowLarge('🍎', t('snack_long'), dField(day, 'snack'))}
+        ${mealRowLarge('🍎', t('snack_long'), dField(day, 'snack'), null, fmtKcal(day.snack_kcal))}
       </div>
     </div>`;
 
@@ -1167,7 +1171,7 @@ function renderDesktopDayDetail(week, varData) {
   detailEl.innerHTML = heroHtml + mealsHtml + recipeHtml;
 }
 
-function mealRowLarge(emoji, label, name, note) {
+function mealRowLarge(emoji, label, name, note, kcalStr) {
   return `
     <div class="flex items-start gap-4">
       <div class="w-10 h-10 rounded-xl flex items-center justify-center text-xl shrink-0 bg-surface-container-low">${emoji}</div>
@@ -1175,6 +1179,7 @@ function mealRowLarge(emoji, label, name, note) {
         <p class="font-label-sm text-label-sm text-on-surface-variant tracking-wider uppercase mb-1">${label}</p>
         <p class="font-body-md text-body-md text-on-surface font-medium leading-snug">${name}</p>
         ${note ? `<p class="font-body-sm text-body-sm text-on-surface-variant mt-0.5 italic">${note}</p>` : ''}
+        ${kcalStr ? `<p class="font-label-sm text-label-sm text-on-surface-variant mt-1 inline-flex items-center gap-1"><span class="material-symbols-outlined text-[12px]">local_fire_department</span>${kcalStr}</p>` : ''}
       </div>
     </div>`;
 }
@@ -1194,7 +1199,7 @@ function selectDay(index) {
   }, 180);
 }
 
-function mealRow(emoji, label, name, note) {
+function mealRow(emoji, label, name, note, kcalStr) {
   return `
     <div class="flex items-start gap-4">
       <div class="text-xl mt-0.5 shrink-0 opacity-70">${emoji}</div>
@@ -1202,6 +1207,7 @@ function mealRow(emoji, label, name, note) {
         <p class="font-label-sm text-label-sm text-on-surface-variant tracking-wider uppercase mb-0.5">${label}</p>
         <p class="font-body-sm text-body-sm text-on-surface leading-tight">${name}</p>
         ${note ? `<p class="font-body-sm text-body-sm text-on-surface-variant mt-0.5 italic">${note}</p>` : ''}
+        ${kcalStr ? `<p class="font-label-sm text-label-sm text-on-surface-variant mt-0.5 inline-flex items-center gap-1"><span class="material-symbols-outlined text-[11px]">local_fire_department</span>${kcalStr}</p>` : ''}
       </div>
     </div>`;
 }

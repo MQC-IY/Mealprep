@@ -22,7 +22,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Apfel und eine Handvoll Mandeln",
               "snack_en": "Apple and a handful of almonds",
-              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow"
+              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow",
+              "breakfast_kcal": 380,
+              "snack_kcal": 210
             },
             {
               "day": "Dienstag",
@@ -36,7 +38,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Möhrensticks mit Hummus",
               "snack_en": "Carrot sticks with hummus",
-              "lunch_note_en": "yesterday's leftovers for lunch"
+              "lunch_note_en": "yesterday's leftovers for lunch",
+              "breakfast_kcal": 360,
+              "snack_kcal": 160
             },
             {
               "day": "Mittwoch",
@@ -50,7 +54,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Skyr mit etwas Obst",
               "snack_en": "Skyr with a bit of fruit",
-              "lunch_note_en": "cook fresh and eat at lunch"
+              "lunch_note_en": "cook fresh and eat at lunch",
+              "breakfast_kcal": 340,
+              "snack_kcal": 180
             },
             {
               "day": "Donnerstag",
@@ -64,7 +70,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Paprikastreifen und Hummus",
               "snack_en": "Bell pepper strips and hummus",
-              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow"
+              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow",
+              "breakfast_kcal": 330,
+              "snack_kcal": 150
             },
             {
               "day": "Freitag",
@@ -78,7 +86,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Eine Banane und Walnüsse",
               "snack_en": "A banana and walnuts",
-              "lunch_note_en": "yesterday's leftovers for lunch"
+              "lunch_note_en": "yesterday's leftovers for lunch",
+              "breakfast_kcal": 350,
+              "snack_kcal": 230
             },
             {
               "day": "Samstag",
@@ -92,7 +102,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Trauben oder Beeren",
               "snack_en": "Grapes or berries",
-              "lunch_note_en": "cook fresh and eat at lunch"
+              "lunch_note_en": "cook fresh and eat at lunch",
+              "breakfast_kcal": 380,
+              "snack_kcal": 100
             },
             {
               "day": "Sonntag",
@@ -106,7 +118,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Gurkensticks mit Kräuterquark",
               "snack_en": "Cucumber sticks with herb quark",
-              "lunch_note_en": "cook fresh and eat at lunch"
+              "lunch_note_en": "cook fresh and eat at lunch",
+              "breakfast_kcal": 340,
+              "snack_kcal": 130
             }
           ],
           "lunches": [
@@ -1152,7 +1166,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Apfel und eine Handvoll Mandeln",
               "snack_en": "Apple and a handful of almonds",
-              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow"
+              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow",
+              "breakfast_kcal": 380,
+              "snack_kcal": 210
             },
             {
               "day": "Dienstag",
@@ -1166,7 +1182,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Möhrensticks mit Hummus",
               "snack_en": "Carrot sticks with hummus",
-              "lunch_note_en": "yesterday's leftovers for lunch"
+              "lunch_note_en": "yesterday's leftovers for lunch",
+              "breakfast_kcal": 360,
+              "snack_kcal": 160
             },
             {
               "day": "Mittwoch",
@@ -1180,7 +1198,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Skyr mit etwas Obst",
               "snack_en": "Skyr with a bit of fruit",
-              "lunch_note_en": "cook fresh and eat at lunch"
+              "lunch_note_en": "cook fresh and eat at lunch",
+              "breakfast_kcal": 340,
+              "snack_kcal": 180
             },
             {
               "day": "Donnerstag",
@@ -1194,7 +1214,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Paprikastreifen und Hummus",
               "snack_en": "Bell pepper strips and hummus",
-              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow"
+              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow",
+              "breakfast_kcal": 330,
+              "snack_kcal": 150
             },
             {
               "day": "Freitag",
@@ -1208,7 +1230,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Eine Banane und Walnüsse",
               "snack_en": "A banana and walnuts",
-              "lunch_note_en": "yesterday's leftovers for lunch"
+              "lunch_note_en": "yesterday's leftovers for lunch",
+              "breakfast_kcal": 350,
+              "snack_kcal": 230
             },
             {
               "day": "Samstag",
@@ -1222,7 +1246,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Trauben oder Beeren",
               "snack_en": "Grapes or berries",
-              "lunch_note_en": "cook fresh and eat at lunch"
+              "lunch_note_en": "cook fresh and eat at lunch",
+              "breakfast_kcal": 380,
+              "snack_kcal": 100
             },
             {
               "day": "Sonntag",
@@ -1236,7 +1262,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Gurkensticks mit Kräuterquark",
               "snack_en": "Cucumber sticks with herb quark",
-              "lunch_note_en": "cook fresh and eat at lunch"
+              "lunch_note_en": "cook fresh and eat at lunch",
+              "breakfast_kcal": 340,
+              "snack_kcal": 130
             }
           ],
           "lunches": [
@@ -2142,7 +2170,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Apfel und eine Handvoll Mandeln",
               "snack_en": "Apple and a handful of almonds",
-              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow"
+              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow",
+              "breakfast_kcal": 380,
+              "snack_kcal": 210
             },
             {
               "day": "Dienstag",
@@ -2156,7 +2186,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Möhrensticks mit Hummus",
               "snack_en": "Carrot sticks with hummus",
-              "lunch_note_en": "yesterday's leftovers for lunch"
+              "lunch_note_en": "yesterday's leftovers for lunch",
+              "breakfast_kcal": 360,
+              "snack_kcal": 160
             },
             {
               "day": "Mittwoch",
@@ -2170,7 +2202,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Skyr mit etwas Obst",
               "snack_en": "Skyr with a bit of fruit",
-              "lunch_note_en": "cook fresh and eat at lunch"
+              "lunch_note_en": "cook fresh and eat at lunch",
+              "breakfast_kcal": 340,
+              "snack_kcal": 180
             },
             {
               "day": "Donnerstag",
@@ -2184,7 +2218,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Paprikastreifen und Hummus",
               "snack_en": "Bell pepper strips and hummus",
-              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow"
+              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow",
+              "breakfast_kcal": 330,
+              "snack_kcal": 150
             },
             {
               "day": "Freitag",
@@ -2198,7 +2234,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Eine Banane und Walnüsse",
               "snack_en": "A banana and walnuts",
-              "lunch_note_en": "yesterday's leftovers for lunch"
+              "lunch_note_en": "yesterday's leftovers for lunch",
+              "breakfast_kcal": 350,
+              "snack_kcal": 230
             },
             {
               "day": "Samstag",
@@ -2212,7 +2250,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Trauben oder Beeren",
               "snack_en": "Grapes or berries",
-              "lunch_note_en": "cook fresh and eat at lunch"
+              "lunch_note_en": "cook fresh and eat at lunch",
+              "breakfast_kcal": 380,
+              "snack_kcal": 100
             },
             {
               "day": "Sonntag",
@@ -2226,7 +2266,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Gurkensticks mit Kräuterquark",
               "snack_en": "Cucumber sticks with herb quark",
-              "lunch_note_en": "cook fresh and eat at lunch"
+              "lunch_note_en": "cook fresh and eat at lunch",
+              "breakfast_kcal": 340,
+              "snack_kcal": 130
             }
           ],
           "lunches": [
@@ -3071,7 +3113,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Apfel und eine Handvoll Mandeln",
               "snack_en": "Apple and a handful of almonds",
-              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow"
+              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow",
+              "breakfast_kcal": 380,
+              "snack_kcal": 210
             },
             {
               "day": "Dienstag",
@@ -3085,7 +3129,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Möhrensticks mit Hummus",
               "snack_en": "Carrot sticks with hummus",
-              "lunch_note_en": "yesterday's leftovers for lunch"
+              "lunch_note_en": "yesterday's leftovers for lunch",
+              "breakfast_kcal": 360,
+              "snack_kcal": 160
             },
             {
               "day": "Mittwoch",
@@ -3099,7 +3145,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Skyr mit etwas Obst",
               "snack_en": "Skyr with a bit of fruit",
-              "lunch_note_en": "cook fresh and eat at lunch"
+              "lunch_note_en": "cook fresh and eat at lunch",
+              "breakfast_kcal": 340,
+              "snack_kcal": 180
             },
             {
               "day": "Donnerstag",
@@ -3113,7 +3161,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Paprikastreifen und Hummus",
               "snack_en": "Bell pepper strips and hummus",
-              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow"
+              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow",
+              "breakfast_kcal": 330,
+              "snack_kcal": 150
             },
             {
               "day": "Freitag",
@@ -3127,7 +3177,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Eine Banane und Walnüsse",
               "snack_en": "A banana and walnuts",
-              "lunch_note_en": "yesterday's leftovers for lunch"
+              "lunch_note_en": "yesterday's leftovers for lunch",
+              "breakfast_kcal": 350,
+              "snack_kcal": 230
             },
             {
               "day": "Samstag",
@@ -3141,7 +3193,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Trauben oder Beeren",
               "snack_en": "Grapes or berries",
-              "lunch_note_en": "cook fresh and eat at lunch"
+              "lunch_note_en": "cook fresh and eat at lunch",
+              "breakfast_kcal": 380,
+              "snack_kcal": 100
             },
             {
               "day": "Sonntag",
@@ -3155,7 +3209,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Gurkensticks mit Kräuterquark",
               "snack_en": "Cucumber sticks with herb quark",
-              "lunch_note_en": "cook fresh and eat at lunch"
+              "lunch_note_en": "cook fresh and eat at lunch",
+              "breakfast_kcal": 340,
+              "snack_kcal": 130
             }
           ],
           "lunches": [
@@ -4398,7 +4454,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Apfel und eine Handvoll Mandeln",
               "snack_en": "Apple and a handful of almonds",
-              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow"
+              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow",
+              "breakfast_kcal": 380,
+              "snack_kcal": 210
             },
             {
               "day": "Dienstag",
@@ -4412,7 +4470,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Möhrensticks mit Hummus",
               "snack_en": "Carrot sticks with hummus",
-              "lunch_note_en": "yesterday's leftovers for lunch"
+              "lunch_note_en": "yesterday's leftovers for lunch",
+              "breakfast_kcal": 360,
+              "snack_kcal": 160
             },
             {
               "day": "Mittwoch",
@@ -4426,7 +4486,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Skyr mit etwas Obst",
               "snack_en": "Skyr with a bit of fruit",
-              "lunch_note_en": "cook fresh and eat at lunch"
+              "lunch_note_en": "cook fresh and eat at lunch",
+              "breakfast_kcal": 340,
+              "snack_kcal": 180
             },
             {
               "day": "Donnerstag",
@@ -4440,7 +4502,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Paprikastreifen und Hummus",
               "snack_en": "Bell pepper strips and hummus",
-              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow"
+              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow",
+              "breakfast_kcal": 330,
+              "snack_kcal": 150
             },
             {
               "day": "Freitag",
@@ -4454,7 +4518,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Eine Banane und Walnüsse",
               "snack_en": "A banana and walnuts",
-              "lunch_note_en": "yesterday's leftovers for lunch"
+              "lunch_note_en": "yesterday's leftovers for lunch",
+              "breakfast_kcal": 350,
+              "snack_kcal": 230
             },
             {
               "day": "Samstag",
@@ -4468,7 +4534,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Trauben oder Beeren",
               "snack_en": "Grapes or berries",
-              "lunch_note_en": "cook fresh and eat at lunch"
+              "lunch_note_en": "cook fresh and eat at lunch",
+              "breakfast_kcal": 380,
+              "snack_kcal": 100
             },
             {
               "day": "Sonntag",
@@ -4482,7 +4550,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Gurkensticks mit Kräuterquark",
               "snack_en": "Cucumber sticks with herb quark",
-              "lunch_note_en": "cook fresh and eat at lunch"
+              "lunch_note_en": "cook fresh and eat at lunch",
+              "breakfast_kcal": 340,
+              "snack_kcal": 130
             }
           ],
           "lunches": [
@@ -5421,7 +5491,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Apfel und eine Handvoll Mandeln",
               "snack_en": "Apple and a handful of almonds",
-              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow"
+              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow",
+              "breakfast_kcal": 380,
+              "snack_kcal": 210
             },
             {
               "day": "Dienstag",
@@ -5435,7 +5507,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Möhrensticks mit Hummus",
               "snack_en": "Carrot sticks with hummus",
-              "lunch_note_en": "yesterday's leftovers for lunch"
+              "lunch_note_en": "yesterday's leftovers for lunch",
+              "breakfast_kcal": 360,
+              "snack_kcal": 160
             },
             {
               "day": "Mittwoch",
@@ -5449,7 +5523,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Skyr mit etwas Obst",
               "snack_en": "Skyr with a bit of fruit",
-              "lunch_note_en": "cook fresh and eat at lunch"
+              "lunch_note_en": "cook fresh and eat at lunch",
+              "breakfast_kcal": 340,
+              "snack_kcal": 180
             },
             {
               "day": "Donnerstag",
@@ -5463,7 +5539,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Paprikastreifen und Hummus",
               "snack_en": "Bell pepper strips and hummus",
-              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow"
+              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow",
+              "breakfast_kcal": 330,
+              "snack_kcal": 150
             },
             {
               "day": "Freitag",
@@ -5477,7 +5555,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Eine Banane und Walnüsse",
               "snack_en": "A banana and walnuts",
-              "lunch_note_en": "yesterday's leftovers for lunch"
+              "lunch_note_en": "yesterday's leftovers for lunch",
+              "breakfast_kcal": 350,
+              "snack_kcal": 230
             },
             {
               "day": "Samstag",
@@ -5491,7 +5571,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Trauben oder Beeren",
               "snack_en": "Grapes or berries",
-              "lunch_note_en": "cook fresh and eat at lunch"
+              "lunch_note_en": "cook fresh and eat at lunch",
+              "breakfast_kcal": 380,
+              "snack_kcal": 100
             },
             {
               "day": "Sonntag",
@@ -5505,7 +5587,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Gurkensticks mit Kräuterquark",
               "snack_en": "Cucumber sticks with herb quark",
-              "lunch_note_en": "cook fresh and eat at lunch"
+              "lunch_note_en": "cook fresh and eat at lunch",
+              "breakfast_kcal": 340,
+              "snack_kcal": 130
             }
           ],
           "lunches": [
@@ -6330,7 +6414,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Apfel und eine Handvoll Mandeln",
               "snack_en": "Apple and a handful of almonds",
-              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow"
+              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow",
+              "breakfast_kcal": 380,
+              "snack_kcal": 210
             },
             {
               "day": "Dienstag",
@@ -6344,7 +6430,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Möhrensticks mit Hummus",
               "snack_en": "Carrot sticks with hummus",
-              "lunch_note_en": "yesterday's leftovers for lunch"
+              "lunch_note_en": "yesterday's leftovers for lunch",
+              "breakfast_kcal": 360,
+              "snack_kcal": 160
             },
             {
               "day": "Mittwoch",
@@ -6358,7 +6446,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Skyr mit etwas Obst",
               "snack_en": "Skyr with a bit of fruit",
-              "lunch_note_en": "cook fresh and eat at lunch"
+              "lunch_note_en": "cook fresh and eat at lunch",
+              "breakfast_kcal": 340,
+              "snack_kcal": 180
             },
             {
               "day": "Donnerstag",
@@ -6372,7 +6462,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Paprikastreifen und Hummus",
               "snack_en": "Bell pepper strips and hummus",
-              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow"
+              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow",
+              "breakfast_kcal": 330,
+              "snack_kcal": 150
             },
             {
               "day": "Freitag",
@@ -6386,7 +6478,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Eine Banane und Walnüsse",
               "snack_en": "A banana and walnuts",
-              "lunch_note_en": "yesterday's leftovers for lunch"
+              "lunch_note_en": "yesterday's leftovers for lunch",
+              "breakfast_kcal": 350,
+              "snack_kcal": 230
             },
             {
               "day": "Samstag",
@@ -6400,7 +6494,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Trauben oder Beeren",
               "snack_en": "Grapes or berries",
-              "lunch_note_en": "cook fresh and eat at lunch"
+              "lunch_note_en": "cook fresh and eat at lunch",
+              "breakfast_kcal": 380,
+              "snack_kcal": 100
             },
             {
               "day": "Sonntag",
@@ -6414,7 +6510,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Gurkensticks mit Kräuterquark",
               "snack_en": "Cucumber sticks with herb quark",
-              "lunch_note_en": "cook fresh and eat at lunch"
+              "lunch_note_en": "cook fresh and eat at lunch",
+              "breakfast_kcal": 340,
+              "snack_kcal": 130
             }
           ],
           "lunches": [
@@ -7560,7 +7658,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Apfel und eine Handvoll Mandeln",
               "snack_en": "Apple and a handful of almonds",
-              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow"
+              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow",
+              "breakfast_kcal": 380,
+              "snack_kcal": 210
             },
             {
               "day": "Dienstag",
@@ -7574,7 +7674,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Möhrensticks mit Hummus",
               "snack_en": "Carrot sticks with hummus",
-              "lunch_note_en": "yesterday's leftovers for lunch"
+              "lunch_note_en": "yesterday's leftovers for lunch",
+              "breakfast_kcal": 360,
+              "snack_kcal": 160
             },
             {
               "day": "Mittwoch",
@@ -7588,7 +7690,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Skyr mit etwas Obst",
               "snack_en": "Skyr with a bit of fruit",
-              "lunch_note_en": "cook fresh and eat at lunch"
+              "lunch_note_en": "cook fresh and eat at lunch",
+              "breakfast_kcal": 340,
+              "snack_kcal": 180
             },
             {
               "day": "Donnerstag",
@@ -7602,7 +7706,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Paprikastreifen und Hummus",
               "snack_en": "Bell pepper strips and hummus",
-              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow"
+              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow",
+              "breakfast_kcal": 330,
+              "snack_kcal": 150
             },
             {
               "day": "Freitag",
@@ -7616,7 +7722,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Eine Banane und Walnüsse",
               "snack_en": "A banana and walnuts",
-              "lunch_note_en": "yesterday's leftovers for lunch"
+              "lunch_note_en": "yesterday's leftovers for lunch",
+              "breakfast_kcal": 350,
+              "snack_kcal": 230
             },
             {
               "day": "Samstag",
@@ -7630,7 +7738,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Trauben oder Beeren",
               "snack_en": "Grapes or berries",
-              "lunch_note_en": "cook fresh and eat at lunch"
+              "lunch_note_en": "cook fresh and eat at lunch",
+              "breakfast_kcal": 380,
+              "snack_kcal": 100
             },
             {
               "day": "Sonntag",
@@ -7644,7 +7754,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Gurkensticks mit Kräuterquark",
               "snack_en": "Cucumber sticks with herb quark",
-              "lunch_note_en": "cook fresh and eat at lunch"
+              "lunch_note_en": "cook fresh and eat at lunch",
+              "breakfast_kcal": 340,
+              "snack_kcal": 130
             }
           ],
           "lunches": [
@@ -8502,7 +8614,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Apfel und eine Handvoll Mandeln",
               "snack_en": "Apple and a handful of almonds",
-              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow"
+              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow",
+              "breakfast_kcal": 380,
+              "snack_kcal": 210
             },
             {
               "day": "Dienstag",
@@ -8516,7 +8630,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Möhrensticks mit Hummus",
               "snack_en": "Carrot sticks with hummus",
-              "lunch_note_en": "yesterday's leftovers for lunch"
+              "lunch_note_en": "yesterday's leftovers for lunch",
+              "breakfast_kcal": 360,
+              "snack_kcal": 160
             },
             {
               "day": "Mittwoch",
@@ -8530,7 +8646,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Skyr mit etwas Obst",
               "snack_en": "Skyr with a bit of fruit",
-              "lunch_note_en": "cook fresh and eat at lunch"
+              "lunch_note_en": "cook fresh and eat at lunch",
+              "breakfast_kcal": 340,
+              "snack_kcal": 180
             },
             {
               "day": "Donnerstag",
@@ -8544,7 +8662,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Paprikastreifen und Hummus",
               "snack_en": "Bell pepper strips and hummus",
-              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow"
+              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow",
+              "breakfast_kcal": 330,
+              "snack_kcal": 150
             },
             {
               "day": "Freitag",
@@ -8558,7 +8678,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Eine Banane und Walnüsse",
               "snack_en": "A banana and walnuts",
-              "lunch_note_en": "yesterday's leftovers for lunch"
+              "lunch_note_en": "yesterday's leftovers for lunch",
+              "breakfast_kcal": 350,
+              "snack_kcal": 230
             },
             {
               "day": "Samstag",
@@ -8572,7 +8694,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Trauben oder Beeren",
               "snack_en": "Grapes or berries",
-              "lunch_note_en": "cook fresh and eat at lunch"
+              "lunch_note_en": "cook fresh and eat at lunch",
+              "breakfast_kcal": 380,
+              "snack_kcal": 100
             },
             {
               "day": "Sonntag",
@@ -8586,7 +8710,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Gurkensticks mit Kräuterquark",
               "snack_en": "Cucumber sticks with herb quark",
-              "lunch_note_en": "cook fresh and eat at lunch"
+              "lunch_note_en": "cook fresh and eat at lunch",
+              "breakfast_kcal": 340,
+              "snack_kcal": 130
             }
           ],
           "lunches": [
@@ -9545,7 +9671,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Apfel und eine Handvoll Mandeln",
               "snack_en": "Apple and a handful of almonds",
-              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow"
+              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow",
+              "breakfast_kcal": 380,
+              "snack_kcal": 210
             },
             {
               "day": "Dienstag",
@@ -9559,7 +9687,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Möhrensticks mit Hummus",
               "snack_en": "Carrot sticks with hummus",
-              "lunch_note_en": "yesterday's leftovers for lunch"
+              "lunch_note_en": "yesterday's leftovers for lunch",
+              "breakfast_kcal": 360,
+              "snack_kcal": 160
             },
             {
               "day": "Mittwoch",
@@ -9573,7 +9703,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Skyr mit etwas Obst",
               "snack_en": "Skyr with a bit of fruit",
-              "lunch_note_en": "cook fresh and eat at lunch"
+              "lunch_note_en": "cook fresh and eat at lunch",
+              "breakfast_kcal": 340,
+              "snack_kcal": 180
             },
             {
               "day": "Donnerstag",
@@ -9587,7 +9719,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Paprikastreifen und Hummus",
               "snack_en": "Bell pepper strips and hummus",
-              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow"
+              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow",
+              "breakfast_kcal": 330,
+              "snack_kcal": 150
             },
             {
               "day": "Freitag",
@@ -9601,7 +9735,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Eine Banane und Walnüsse",
               "snack_en": "A banana and walnuts",
-              "lunch_note_en": "yesterday's leftovers for lunch"
+              "lunch_note_en": "yesterday's leftovers for lunch",
+              "breakfast_kcal": 350,
+              "snack_kcal": 230
             },
             {
               "day": "Samstag",
@@ -9615,7 +9751,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Trauben oder Beeren",
               "snack_en": "Grapes or berries",
-              "lunch_note_en": "cook fresh and eat at lunch"
+              "lunch_note_en": "cook fresh and eat at lunch",
+              "breakfast_kcal": 380,
+              "snack_kcal": 100
             },
             {
               "day": "Sonntag",
@@ -9629,7 +9767,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Gurkensticks mit Kräuterquark",
               "snack_en": "Cucumber sticks with herb quark",
-              "lunch_note_en": "cook fresh and eat at lunch"
+              "lunch_note_en": "cook fresh and eat at lunch",
+              "breakfast_kcal": 340,
+              "snack_kcal": 130
             }
           ],
           "lunches": [
@@ -10876,7 +11016,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Apfel und eine Handvoll Mandeln",
               "snack_en": "Apple and a handful of almonds",
-              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow"
+              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow",
+              "breakfast_kcal": 380,
+              "snack_kcal": 210
             },
             {
               "day": "Dienstag",
@@ -10890,7 +11032,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Möhrensticks mit Hummus",
               "snack_en": "Carrot sticks with hummus",
-              "lunch_note_en": "yesterday's leftovers for lunch"
+              "lunch_note_en": "yesterday's leftovers for lunch",
+              "breakfast_kcal": 360,
+              "snack_kcal": 160
             },
             {
               "day": "Mittwoch",
@@ -10904,7 +11048,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Skyr mit etwas Obst",
               "snack_en": "Skyr with a bit of fruit",
-              "lunch_note_en": "cook fresh and eat at lunch"
+              "lunch_note_en": "cook fresh and eat at lunch",
+              "breakfast_kcal": 340,
+              "snack_kcal": 180
             },
             {
               "day": "Donnerstag",
@@ -10918,7 +11064,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Paprikastreifen und Hummus",
               "snack_en": "Bell pepper strips and hummus",
-              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow"
+              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow",
+              "breakfast_kcal": 330,
+              "snack_kcal": 150
             },
             {
               "day": "Freitag",
@@ -10932,7 +11080,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Eine Banane und Walnüsse",
               "snack_en": "A banana and walnuts",
-              "lunch_note_en": "yesterday's leftovers for lunch"
+              "lunch_note_en": "yesterday's leftovers for lunch",
+              "breakfast_kcal": 350,
+              "snack_kcal": 230
             },
             {
               "day": "Samstag",
@@ -10946,7 +11096,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Trauben oder Beeren",
               "snack_en": "Grapes or berries",
-              "lunch_note_en": "cook fresh and eat at lunch"
+              "lunch_note_en": "cook fresh and eat at lunch",
+              "breakfast_kcal": 380,
+              "snack_kcal": 100
             },
             {
               "day": "Sonntag",
@@ -10960,7 +11112,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Gurkensticks mit Kräuterquark",
               "snack_en": "Cucumber sticks with herb quark",
-              "lunch_note_en": "cook fresh and eat at lunch"
+              "lunch_note_en": "cook fresh and eat at lunch",
+              "breakfast_kcal": 340,
+              "snack_kcal": 130
             }
           ],
           "lunches": [
@@ -11835,7 +11989,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Apfel und eine Handvoll Mandeln",
               "snack_en": "Apple and a handful of almonds",
-              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow"
+              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow",
+              "breakfast_kcal": 380,
+              "snack_kcal": 210
             },
             {
               "day": "Dienstag",
@@ -11849,7 +12005,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Möhrensticks mit Hummus",
               "snack_en": "Carrot sticks with hummus",
-              "lunch_note_en": "yesterday's leftovers for lunch"
+              "lunch_note_en": "yesterday's leftovers for lunch",
+              "breakfast_kcal": 360,
+              "snack_kcal": 160
             },
             {
               "day": "Mittwoch",
@@ -11863,7 +12021,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Skyr mit etwas Obst",
               "snack_en": "Skyr with a bit of fruit",
-              "lunch_note_en": "cook fresh and eat at lunch"
+              "lunch_note_en": "cook fresh and eat at lunch",
+              "breakfast_kcal": 340,
+              "snack_kcal": 180
             },
             {
               "day": "Donnerstag",
@@ -11877,7 +12037,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Paprikastreifen und Hummus",
               "snack_en": "Bell pepper strips and hummus",
-              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow"
+              "lunch_note_en": "cook today, eat leftovers for lunch tomorrow",
+              "breakfast_kcal": 330,
+              "snack_kcal": 150
             },
             {
               "day": "Freitag",
@@ -11891,7 +12053,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Eine Banane und Walnüsse",
               "snack_en": "A banana and walnuts",
-              "lunch_note_en": "yesterday's leftovers for lunch"
+              "lunch_note_en": "yesterday's leftovers for lunch",
+              "breakfast_kcal": 350,
+              "snack_kcal": 230
             },
             {
               "day": "Samstag",
@@ -11905,7 +12069,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Trauben oder Beeren",
               "snack_en": "Grapes or berries",
-              "lunch_note_en": "cook fresh and eat at lunch"
+              "lunch_note_en": "cook fresh and eat at lunch",
+              "breakfast_kcal": 380,
+              "snack_kcal": 100
             },
             {
               "day": "Sonntag",
@@ -11919,7 +12085,9 @@
               "dinner": "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
               "snack": "Gurkensticks mit Kräuterquark",
               "snack_en": "Cucumber sticks with herb quark",
-              "lunch_note_en": "cook fresh and eat at lunch"
+              "lunch_note_en": "cook fresh and eat at lunch",
+              "breakfast_kcal": 340,
+              "snack_kcal": 130
             }
           ],
           "lunches": [
