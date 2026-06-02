@@ -1,4 +1,4 @@
-const CACHE = 'mahlzeit-v5';
+const CACHE = 'mahlzeit-v6';
 
 const PRECACHE = [
   '/Mealprep/',
