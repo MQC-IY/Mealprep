@@ -181,6 +181,13 @@ BREAKFASTS = [
     "Overnight Oats mit Apfel und Zimt",
     "Rührei mit Vollkornbrot und Tomaten",
     "Naturjoghurt mit Obst und Nussmix",
+    "Haferbrei mit Apfelmus, Zimt und Leinsamen",
+    "Müsli mit Milch, Bananenscheiben und Erdnussmus",
+    "Vollkornbrot mit Avocado und Spiegelei",
+    "Birchermüsli mit Joghurt, geriebenem Apfel und Haselnüssen",
+    "Gekochte Eier mit Knäckebrot und Frischkäse",
+    "Protein-Pancakes aus Haferflocken mit frischen Beeren",
+    "Smoothie Bowl mit Beeren, Granola und Kokosflocken",
 ]
 
 SNACKS = [
@@ -201,7 +208,88 @@ BREAKFASTS_EN = [
     "Overnight oats with apple and cinnamon",
     "Scrambled eggs with wholegrain bread and tomatoes",
     "Natural yoghurt with fruit and nut mix",
+    "Oat porridge with apple sauce, cinnamon and flaxseeds",
+    "Muesli with milk, banana slices and peanut butter",
+    "Wholegrain bread with avocado and fried egg",
+    "Bircher muesli with yogurt, grated apple and hazelnuts",
+    "Boiled eggs with crispbread and cream cheese",
+    "Protein pancakes made with oats and fresh berries",
+    "Smoothie bowl with berries, granola and coconut flakes",
 ]
+
+BREAKFASTS_GESUND = [
+    "Rührei mit Spinat und Tomaten auf Vollkornbrot",
+    "Skyr mit Chiasamen, Blaubeeren und Hanfsamen",
+    "Avocado-Toast auf Vollkornbrot mit pochiertem Ei",
+    "Overnight Oats mit Leinsamen, Walnüssen und frischen Himbeeren",
+    "Grüner Smoothie mit Spinat, Banane, Ingwer und Mandelmilch",
+    "Quark mit Beeren, gehackten Walnüssen und Leinöl",
+    "Haferbrei mit Kürbiskernen, Beeren und Zimt",
+    "Griechischer Joghurt mit Walnüssen, Leinsamen und Blaubeeren",
+    "Omelett mit Paprika, Zucchini und Feta",
+    "Overnight Oats mit Mandelmilch, Erdnussmus und Erdbeeren",
+    "Vollkornbrot mit Hüttenkäse, Tomaten und Basilikum",
+    "Smoothie mit Spinat, Avocado, Apfel und Zitrone",
+    "Haferbrei mit Apfelstückchen, Zimt und Mandelmus",
+    "Rote-Bete-Smoothie mit Beeren, Joghurt und Leinsamen",
+]
+
+BREAKFASTS_GESUND_EN = [
+    "Scrambled eggs with spinach and tomatoes on wholegrain bread",
+    "Skyr with chia seeds, blueberries and hemp seeds",
+    "Avocado toast on wholegrain bread with poached egg",
+    "Overnight oats with flaxseeds, walnuts and fresh raspberries",
+    "Green smoothie with spinach, banana, ginger and almond milk",
+    "Quark with berries, chopped walnuts and linseed oil",
+    "Oat porridge with pumpkin seeds, berries and cinnamon",
+    "Greek yogurt with walnuts, flaxseeds and blueberries",
+    "Omelette with bell pepper, courgette and feta",
+    "Overnight oats with almond milk, peanut butter and strawberries",
+    "Wholegrain bread with cottage cheese, tomatoes and basil",
+    "Smoothie with spinach, avocado, apple and lemon",
+    "Oat porridge with apple pieces, cinnamon and almond butter",
+    "Beetroot smoothie with berries, yogurt and flaxseeds",
+]
+
+BREAKFASTS_SCHNELL = [
+    "Overnight Oats (Vorabend vorbereitet) mit Beeren und Honig",
+    "Griechischer Joghurt mit Granola und frischen Früchten",
+    "Vollkorntoast mit Erdnussbutter und Bananenscheiben",
+    "Skyr-Becher mit Honig und Walnüssen",
+    "Müsli mit Milch und frischen Früchten",
+    "Vollkornbrot mit Frischkäse, Gurke und Paprikastreifen",
+    "Bananen-Smoothie mit Haferdrink und Mandelmus",
+    "Joghurt mit Granola, Beeren und etwas Ahornsirup",
+    "Brot mit Hummus, Tomaten und Rucola",
+    "Skyr mit Müsli, Apfelstückchen und Zimt",
+    "Vollkornbrot mit Avocado, Salz und Chiliflocken",
+    "Naturjoghurt mit Banane, Haferflocken und Honig",
+    "Overnight Oats (Vorabend vorbereitet) mit Banane und Chiasamen",
+    "Knäckebrot mit Frischkäse, Räucherlachs und Gurke",
+]
+
+BREAKFASTS_SCHNELL_EN = [
+    "Overnight oats (prepped the evening before) with berries and honey",
+    "Greek yogurt with granola and fresh fruit",
+    "Wholegrain toast with peanut butter and banana slices",
+    "Skyr with honey and walnuts",
+    "Muesli with milk and fresh fruit",
+    "Wholegrain bread with cream cheese, cucumber and bell pepper strips",
+    "Banana smoothie with oat milk and almond butter",
+    "Yogurt with granola, berries and a dash of maple syrup",
+    "Bread with hummus, tomatoes and rocket",
+    "Skyr with muesli, apple pieces and cinnamon",
+    "Wholegrain bread with avocado, salt and chilli flakes",
+    "Natural yogurt with banana, rolled oats and honey",
+    "Overnight oats (prepped the evening before) with banana and chia seeds",
+    "Crispbread with cream cheese, smoked salmon and cucumber",
+]
+
+_BREAKFAST_POOLS: dict[str, tuple[list, list]] = {
+    "standard": (BREAKFASTS, BREAKFASTS_EN),
+    "gesund":   (BREAKFASTS_GESUND, BREAKFASTS_GESUND_EN),
+    "schnell":  (BREAKFASTS_SCHNELL, BREAKFASTS_SCHNELL_EN),
+}
 
 SNACKS_EN = [
     "Apple and a handful of almonds",
@@ -407,6 +495,14 @@ def variant_seed(today: date, variant: str) -> int:
     if variant != DEFAULT_VARIANT:
         seed += list(PLAN_VARIANTS).index(variant) * 11
     return seed
+
+
+def _breakfast_for_week(pool_de: list, pool_en: list, seed: int) -> tuple[list, list]:
+    """Return 7 breakfasts from pool, rotated by weekly seed so the selection varies each week."""
+    n = len(pool_de)
+    start = seed % n
+    indices = [(start + i) % n for i in range(7)]
+    return [pool_de[i] for i in indices], [pool_en[i] for i in indices]
 
 
 def rotate_items(items: list[dict[str, object]], seed: int) -> list[dict[str, object]]:
@@ -620,14 +716,17 @@ def assemble_week(
     _DAYS_DE = ["Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag", "Sonntag"]
     _DAYS_EN = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
 
+    _bf_pool = _BREAKFAST_POOLS.get(variant, (BREAKFASTS, BREAKFASTS_EN))
+    _week_breakfasts, _week_breakfasts_en = _breakfast_for_week(_bf_pool[0], _bf_pool[1], seed + 17)
+
     days = []
     for index, (dish, lunch_note, lunch_note_en) in enumerate(lunch_plan):
         days.append(
             {
                 "day":           _DAYS_DE[index],
                 "day_en":        _DAYS_EN[index],
-                "breakfast":     BREAKFASTS[index],
-                "breakfast_en":  BREAKFASTS_EN[index],
+                "breakfast":     _week_breakfasts[index],
+                "breakfast_en":  _week_breakfasts_en[index],
                 "lunch":         dish["title"],
                 "lunch_en":      dish.get("title_en", ""),
                 "lunch_id":      dish["id"],
