@@ -301,6 +301,65 @@ SNACKS_EN = [
     "Cucumber sticks with herb quark",
 ]
 
+# Estimated kcal per person (keyed by English text for stable matching)
+SNACK_KCAL: dict[str, int] = {
+    "Apple and a handful of almonds":     210,
+    "Carrot sticks with hummus":          160,
+    "Skyr with a bit of fruit":           180,
+    "Bell pepper strips and hummus":      150,
+    "A banana and walnuts":               230,
+    "Grapes or berries":                  100,
+    "Cucumber sticks with herb quark":    130,
+}
+
+BREAKFAST_KCAL: dict[str, int] = {
+    # standard pool
+    "Overnight oats with rolled oats, skyr, berries and chia seeds": 380,
+    "Overnight oats with banana and cinnamon":                        360,
+    "Overnight oats with berries":                                    340,
+    "Skyr with rolled oats, pear and sunflower seeds":                330,
+    "Overnight oats with apple and cinnamon":                         350,
+    "Scrambled eggs with wholegrain bread and tomatoes":              380,
+    "Natural yoghurt with fruit and nut mix":                         340,
+    "Oat porridge with apple sauce, cinnamon and flaxseeds":          370,
+    "Muesli with milk, banana slices and peanut butter":              430,
+    "Wholegrain bread with avocado and fried egg":                    420,
+    "Bircher muesli with yogurt, grated apple and hazelnuts":         380,
+    "Boiled eggs with crispbread and cream cheese":                   360,
+    "Protein pancakes made with oats and fresh berries":              400,
+    "Smoothie bowl with berries, granola and coconut flakes":         390,
+    # gesund pool
+    "Scrambled eggs with spinach and tomatoes on wholegrain bread":   390,
+    "Skyr with chia seeds, blueberries and hemp seeds":               300,
+    "Avocado toast on wholegrain bread with poached egg":             420,
+    "Overnight oats with flaxseeds, walnuts and fresh raspberries":   390,
+    "Green smoothie with spinach, banana, ginger and almond milk":    280,
+    "Quark with berries, chopped walnuts and linseed oil":            320,
+    "Oat porridge with pumpkin seeds, berries and cinnamon":          370,
+    "Greek yogurt with walnuts, flaxseeds and blueberries":           330,
+    "Omelette with bell pepper, courgette and feta":                  360,
+    "Overnight oats with almond milk, peanut butter and strawberries":410,
+    "Wholegrain bread with cottage cheese, tomatoes and basil":       310,
+    "Smoothie with spinach, avocado, apple and lemon":                260,
+    "Oat porridge with apple pieces, cinnamon and almond butter":     390,
+    "Beetroot smoothie with berries, yogurt and flaxseeds":           270,
+    # schnell pool
+    "Overnight oats (prepped the evening before) with berries and honey": 380,
+    "Greek yogurt with granola and fresh fruit":                      370,
+    "Wholegrain toast with peanut butter and banana slices":          430,
+    "Skyr with honey and walnuts":                                    310,
+    "Muesli with milk and fresh fruit":                               380,
+    "Wholegrain bread with cream cheese, cucumber and bell pepper strips": 330,
+    "Banana smoothie with oat milk and almond butter":                370,
+    "Yogurt with granola, berries and a dash of maple syrup":         360,
+    "Bread with hummus, tomatoes and rocket":                         340,
+    "Skyr with muesli, apple pieces and cinnamon":                    340,
+    "Wholegrain bread with avocado, salt and chilli flakes":          380,
+    "Natural yogurt with banana, rolled oats and honey":              360,
+    "Overnight oats (prepped the evening before) with banana and chia seeds": 370,
+    "Crispbread with cream cheese, smoked salmon and cucumber":       330,
+}
+
 
 IMAGES = {
     "lunch_primary": "images/chicken_bowl.png",
@@ -725,16 +784,18 @@ def assemble_week(
             {
                 "day":           _DAYS_DE[index],
                 "day_en":        _DAYS_EN[index],
-                "breakfast":     _week_breakfasts[index],
-                "breakfast_en":  _week_breakfasts_en[index],
-                "lunch":         dish["title"],
-                "lunch_en":      dish.get("title_en", ""),
-                "lunch_id":      dish["id"],
-                "lunch_note":    lunch_note,
-                "lunch_note_en": lunch_note_en,
-                "dinner":       "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
-                "snack":        SNACKS[index],
-                "snack_en":     SNACKS_EN[index],
+                "breakfast":      _week_breakfasts[index],
+                "breakfast_en":   _week_breakfasts_en[index],
+                "breakfast_kcal": BREAKFAST_KCAL.get(_week_breakfasts_en[index]),
+                "lunch":          dish["title"],
+                "lunch_en":       dish.get("title_en", ""),
+                "lunch_id":       dish["id"],
+                "lunch_note":     lunch_note,
+                "lunch_note_en":  lunch_note_en,
+                "dinner":        "Kein Abendessen geplant; bei Hunger Reste vom Mittag.",
+                "snack":         SNACKS[index],
+                "snack_en":      SNACKS_EN[index],
+                "snack_kcal":    SNACK_KCAL.get(SNACKS_EN[index]),
             }
         )
 
