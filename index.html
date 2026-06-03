@@ -630,6 +630,21 @@ function iName(ing) {
   return ing.name;
 }
 
+const DE_UNIT_MAP = {
+  'EL': 'tbsp', 'TL': 'tsp',
+  'Stk': 'pcs', 'Dose': 'can', 'Dosen': 'cans',
+  'Bund': 'bunch', 'Glas': 'jar', 'Gläser': 'jars',
+  'Zehe': 'clove', 'Zehen': 'cloves',
+  'Stange': 'stalk', 'Stangen': 'stalks',
+  'Prise': 'pinch', 'Packung': 'pack',
+  'Laib': 'loaf', 'Flasche': 'bottle',
+};
+function localizeQty(s) {
+  if (lang !== 'en' || !s) return s ?? '';
+  return s.replace(/\b(EL|TL|Stk|Dosen|Dose|Bund|Gläser|Glas|Zehen|Zehe|Stangen|Stange|Prise|Packung|Laib|Flasche)\b/g,
+    m => DE_UNIT_MAP[m] || m);
+}
+
 function toggleLang() {
   lang = lang === 'de' ? 'en' : 'de';
   localStorage.setItem('mahlzeit_lang', lang);
@@ -1059,7 +1074,7 @@ function renderDesktopDayDetail(week, varData) {
               ${(d.ingredients || []).map(ing => `
                 <li class="flex justify-between items-baseline gap-4 py-2 border-b border-surface-container-high/60 last:border-0">
                   <span class="font-body-sm text-body-sm text-on-surface">${iName(ing)}</span>
-                  <span class="font-label-sm text-label-sm text-on-surface-variant shrink-0">${ing.qty_display ?? ''}</span>
+                  <span class="font-label-sm text-label-sm text-on-surface-variant shrink-0">${localizeQty(ing.qty_display)}</span>
                 </li>`).join('')}
             </ul>
           </div>
@@ -1151,7 +1166,7 @@ function renderDesktopDayDetail(week, varData) {
             ${(lunchRecipe.ingredients || []).map(ing => `
               <li class="flex justify-between items-baseline gap-4 py-2 border-b border-surface-container-high/60 last:border-0">
                 <span class="font-body-sm text-body-sm text-on-surface">${iName(ing)}</span>
-                <span class="font-label-sm text-label-sm text-on-surface-variant shrink-0">${ing.qty_display ?? ''}</span>
+                <span class="font-label-sm text-label-sm text-on-surface-variant shrink-0">${localizeQty(ing.qty_display)}</span>
               </li>`).join('')}
           </ul>
         </div>
@@ -1312,7 +1327,7 @@ function copyShoppingList() {
   const lines = [`${t('your_shopping')} – ${formatWeekDates(weeks[weekIndex])} (${currentVariant})`, ''];
   varData.shopping.forEach(cat => {
     lines.push(`${CATEGORY_ICONS[cat.category] || ''} ${tCat(cat.category)}`);
-    cat.items.forEach(item => lines.push(`  • ${iName(item)}  ${item.qty_display}`));
+    cat.items.forEach(item => lines.push(`  • ${iName(item)}  ${localizeQty(item.qty_display)}`));
     lines.push('');
   });
   const text = lines.join('\n');
@@ -1413,7 +1428,7 @@ function renderShoppingList(week, varData) {
             onchange="toggleCheck('${escAttr(key)}', this)"/>
           <label for="${escId(key)}" class="flex-1 flex justify-between items-center cursor-pointer font-body-md text-body-md text-on-surface ${done ? 'item-checked' : ''} transition-all">
             <span>${iName(item)}</span>
-            <span class="text-on-surface-variant text-sm shrink-0 ml-2">${item.qty_display}</span>
+            <span class="text-on-surface-variant text-sm shrink-0 ml-2">${localizeQty(item.qty_display)}</span>
           </label>
         </li>`;
     }).join('');
@@ -1482,7 +1497,7 @@ function renderRezeptEinkauf(week, varData) {
             onchange="toggleCheck('${escAttr(key)}', this)"/>
           <label for="${escId(key)}" class="flex-1 flex justify-between items-center cursor-pointer font-body-md text-body-md text-on-surface ${done ? 'item-checked' : ''} transition-all">
             <span>${iName(ing)}</span>
-            <span class="text-on-surface-variant text-sm shrink-0 ml-2">${ing.qty_display ?? ''}</span>
+            <span class="text-on-surface-variant text-sm shrink-0 ml-2">${localizeQty(ing.qty_display)}</span>
           </label>
         </li>`;
     }).join('');
@@ -1554,7 +1569,7 @@ function openSheet(recipe) {
     (recipe.ingredients || []).map(ing =>
       `<li class="flex justify-between items-baseline gap-4 py-2 border-b border-surface-container-high/60 last:border-0">
         <span class="font-body-sm text-body-sm text-on-surface">${iName(ing)}</span>
-        <span class="font-label-sm text-label-sm text-on-surface-variant shrink-0">${ing.qty_display ?? ''}</span>
+        <span class="font-label-sm text-label-sm text-on-surface-variant shrink-0">${localizeQty(ing.qty_display)}</span>
        </li>`
     ).join('');
 
