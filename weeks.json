@@ -647,104 +647,74 @@
             }
           ],
           "dessert": {
-            "id": "strawberry_rhubarb_crumble",
-            "title": "Erdbeer-Rhabarber-Crumble",
-            "title_en": "Strawberry Rhubarb Crumble",
+            "id": "yogurt_lemon_cake",
+            "title": "Joghurt-Zitronenkuchen in leichter Version",
+            "title_en": "Light Yogurt Lemon Cake",
             "meals": 8,
-            "summary": "Fruchtiger Crumble mit saftigem Erdbeer-Rhabarber-Bett und knusprigem Hafer-Nuss-Topping, gesüßt mit Honig — warm oder kalt ein Genuss.",
-            "summary_en": "A fruity crumble with a juicy strawberry-rhubarb base and a crispy oat-nut topping sweetened with honey – delicious warm or cold.",
+            "summary": "Frischer, heller Kuchen mit Joghurt, Zitrone und wenig Honig statt dickem Zuckerguss.",
+            "summary_en": "A fresh, airy cake made with yogurt, lemon, and a touch of honey instead of thick icing.",
             "child_note": "",
             "ingredients": [
               {
-                "name": "Erdbeeren",
-                "name_en": "strawberries",
-                "qty_display": "800 g",
+                "name": "Dinkelmehl",
+                "name_en": "spelt flour",
+                "qty_display": "200 g",
+                "category": "Kohlenhydrate und Sattmacher"
+              },
+              {
+                "name": "Naturjoghurt",
+                "name_en": "plain yogurt",
+                "qty_display": "250 g",
+                "category": "Protein und Milchprodukte"
+              },
+              {
+                "name": "Eier",
+                "name_en": "eggs",
+                "qty_display": "2 Stk",
+                "category": "Protein und Milchprodukte"
+              },
+              {
+                "name": "Zitrone",
+                "name_en": "lemon",
+                "qty_display": "1 Stk",
                 "category": "Obst"
               },
               {
-                "name": "Rhabarber",
-                "name_en": "rhubarb",
-                "qty_display": "600 g",
-                "category": "Obst"
-              },
-              {
-                "name": "Honig",
-                "name_en": "honey",
-                "qty_display": "5 EL",
-                "category": "Konserven und Vorrat"
-              },
-              {
-                "name": "Stärke (Maisstärke)",
-                "name_en": "cornstarch (cornflour)",
+                "name": "Rapsöl",
+                "name_en": "rapeseed oil",
                 "qty_display": "2 EL",
                 "category": "Konserven und Vorrat"
               },
               {
-                "name": "Vanilleextrakt",
-                "name_en": "vanilla extract",
-                "qty_display": "2 TL",
-                "category": "Gewürze"
-              },
-              {
-                "name": "Haferflocken (kernig)",
-                "name_en": "rolled oats (coarse)",
-                "qty_display": "300 g",
-                "category": "Kohlenhydrate und Sattmacher"
-              },
-              {
-                "name": "Walnüsse grob gehackt",
-                "name_en": "walnuts, roughly chopped",
-                "qty_display": "100 g",
+                "name": "Honig",
+                "name_en": "honey",
+                "qty_display": "2 EL",
                 "category": "Konserven und Vorrat"
               },
               {
-                "name": "Mandelmehl",
-                "name_en": "almond flour",
-                "qty_display": "80 g",
+                "name": "Backpulver",
+                "name_en": "baking powder",
+                "qty_display": "1 Packung",
                 "category": "Konserven und Vorrat"
               },
               {
-                "name": "Kokosöl (geschmolzen)",
-                "name_en": "coconut oil (melted)",
-                "qty_display": "60 ml",
-                "category": "Konserven und Vorrat"
-              },
-              {
-                "name": "Agavendicksaft",
-                "name_en": "agave syrup",
-                "qty_display": "3 EL",
-                "category": "Konserven und Vorrat"
-              },
-              {
-                "name": "Zimt gemahlen",
-                "name_en": "cinnamon, ground",
-                "qty_display": "2 TL",
-                "category": "Gewürze"
-              },
-              {
-                "name": "Salz",
-                "name_en": "salt",
-                "qty_display": "1 Prise",
+                "name": "Chiliflocken",
+                "name_en": "chili flakes",
+                "qty_display": "0,5 TL",
                 "category": "Gewürze"
               }
             ],
             "steps": [
-              "Ofen auf 190 °C Ober-/Unterhitze vorheizen.",
-              "Erdbeeren waschen und halbieren. Rhabarber waschen, schälen und in 2 cm große Stücke schneiden.",
-              "Früchte mit Honig, Maisstärke und Vanilleextrakt vermischen und in eine große Auflaufform (ca. 30×22 cm) geben.",
-              "Für das Topping Haferflocken, gehackte Walnüsse, Mandelmehl, geschmolzenes Kokosöl, Agavendicksaft, Zimt und Salz in einer Schüssel vermengen, bis die Masse leicht klumpt.",
-              "Topping gleichmäßig über die Fruchtmasse streuen.",
-              "Im vorgeheizten Ofen 35–40 Minuten backen, bis das Topping goldbraun und die Früchte sprudelnd sind.",
-              "10 Minuten abkühlen lassen, dann warm servieren. Reste im Kühlschrank bis zu 3 Tage haltbar."
+              "Joghurt, Eier, Rapsöl, Honig, Zitronensaft und etwas Zitronenabrieb verrühren.",
+              "Dinkelmehl und Backpulver unterheben.",
+              "In eine kleine Form geben und bei 180 Grad etwa 30 bis 35 Minuten backen.",
+              "Ohne Zuckerguss servieren oder mit einem Löffel Joghurt ergänzen."
             ],
             "steps_en": [
-              "Preheat oven to 190 °C (top/bottom heat).",
-              "Wash and halve strawberries. Wash, peel and cut rhubarb into 2 cm pieces.",
-              "Mix fruit with honey, cornstarch and vanilla extract and transfer to a large baking dish (approx. 30×22 cm).",
-              "For the topping: combine oats, chopped walnuts, almond flour, melted coconut oil, agave syrup, cinnamon and salt in a bowl until the mixture clumps slightly.",
-              "Scatter the topping evenly over the fruit.",
-              "Bake in the preheated oven for 35–40 minutes until the topping is golden brown and the fruit is bubbling.",
-              "Leave to cool for 10 minutes, then serve warm. Leftovers keep in the fridge for up to 3 days."
+              "Whisk together the yogurt, eggs, rapeseed oil, honey, lemon juice, and a little lemon zest.",
+              "Fold in the spelt flour and baking powder.",
+              "Pour into a small tin and bake at 180 °C for about 30–35 minutes.",
+              "Serve without icing, or with a spoonful of yogurt on the side."
             ]
           },
           "shopping": [
@@ -1711,95 +1681,75 @@
             }
           ],
           "dessert": {
-            "id": "date_nut_energy_balls",
-            "title": "Dattel-Nuss-Energiekugeln",
-            "title_en": "Date and Nut Energy Balls",
+            "id": "yogurt_lemon_cake",
+            "title": "Joghurt-Zitronenkuchen in leichter Version",
+            "title_en": "Light Yogurt Lemon Cake",
             "meals": 8,
-            "summary": "Kleine, sättigende Energiebällchen aus Datteln, Nüssen und Haferflocken — ohne Backen, ganz ohne Zucker und ideal als süßer Snack für die ganze Familie.",
-            "summary_en": "Small, satisfying energy bites made from dates, nuts, and oats — no baking, no added sugar, and perfect as a sweet snack for the whole family.",
+            "summary": "Frischer, heller Kuchen mit Joghurt, Zitrone und wenig Honig statt dickem Zuckerguss.",
+            "summary_en": "A fresh, airy cake made with yogurt, lemon, and a touch of honey instead of thick icing.",
             "child_note": "",
             "ingredients": [
               {
-                "name": "Medjool-Datteln entsteint",
-                "name_en": "Medjool dates, pitted",
-                "qty_display": "400 g",
-                "category": "Obst"
-              },
-              {
-                "name": "Mandeln",
-                "name_en": "almonds",
+                "name": "Dinkelmehl",
+                "name_en": "spelt flour",
                 "qty_display": "200 g",
-                "category": "Konserven und Vorrat"
-              },
-              {
-                "name": "Walnüsse",
-                "name_en": "walnuts",
-                "qty_display": "150 g",
-                "category": "Konserven und Vorrat"
-              },
-              {
-                "name": "Haferflocken (zart)",
-                "name_en": "rolled oats (fine)",
-                "qty_display": "150 g",
                 "category": "Kohlenhydrate und Sattmacher"
               },
               {
-                "name": "Kakaopulver ungesüßt",
-                "name_en": "unsweetened cocoa powder",
-                "qty_display": "3 EL",
-                "category": "Konserven und Vorrat"
+                "name": "Naturjoghurt",
+                "name_en": "plain yogurt",
+                "qty_display": "250 g",
+                "category": "Protein und Milchprodukte"
               },
               {
-                "name": "Chiasamen",
-                "name_en": "chia seeds",
+                "name": "Eier",
+                "name_en": "eggs",
+                "qty_display": "2 Stk",
+                "category": "Protein und Milchprodukte"
+              },
+              {
+                "name": "Zitrone",
+                "name_en": "lemon",
+                "qty_display": "1 Stk",
+                "category": "Obst"
+              },
+              {
+                "name": "Rapsöl",
+                "name_en": "rapeseed oil",
                 "qty_display": "2 EL",
                 "category": "Konserven und Vorrat"
               },
               {
-                "name": "Zimt gemahlen",
-                "name_en": "cinnamon, ground",
-                "qty_display": "1 TL",
-                "category": "Gewürze"
-              },
-              {
-                "name": "Vanilleextrakt",
-                "name_en": "vanilla extract",
-                "qty_display": "1 TL",
-                "category": "Gewürze"
-              },
-              {
-                "name": "Salz",
-                "name_en": "salt",
-                "qty_display": "1 Prise",
-                "category": "Gewürze"
-              },
-              {
-                "name": "Kokosraspeln zum Wälzen",
-                "name_en": "desiccated coconut for rolling",
-                "qty_display": "60 g",
+                "name": "Honig",
+                "name_en": "honey",
+                "qty_display": "2 EL",
                 "category": "Konserven und Vorrat"
+              },
+              {
+                "name": "Backpulver",
+                "name_en": "baking powder",
+                "qty_display": "1 Packung",
+                "category": "Konserven und Vorrat"
+              },
+              {
+                "name": "Chiliflocken",
+                "name_en": "chili flakes",
+                "qty_display": "0,5 TL",
+                "category": "Gewürze"
               }
             ],
             "steps": [
-              "Datteln 10 Minuten in warmem Wasser einweichen, dann gut abtropfen lassen.",
-              "Mandeln und Walnüsse in einem Mixer grob zerkleinern.",
-              "Datteln, Haferflocken, Kakaopulver, Chiasamen, Zimt, Vanilleextrakt und Salz zu den Nüssen geben und alles zu einer klebrigen, formbaren Masse verarbeiten. Falls die Masse zu trocken ist, 1–2 EL Wasser hinzufügen.",
-              "Hände leicht befeuchten und aus der Masse 24–30 Kugeln (je ca. 3 cm Durchmesser) formen.",
-              "Kokosraspeln auf einem Teller ausbreiten und die Kugeln darin wälzen.",
-              "Kugeln auf einem Tablett verteilen und mindestens 30 Minuten im Kühlschrank fest werden lassen.",
-              "In einem luftdichten Behälter im Kühlschrank bis zu 2 Wochen haltbar."
+              "Joghurt, Eier, Rapsöl, Honig, Zitronensaft und etwas Zitronenabrieb verrühren.",
+              "Dinkelmehl und Backpulver unterheben.",
+              "In eine kleine Form geben und bei 180 Grad etwa 30 bis 35 Minuten backen.",
+              "Ohne Zuckerguss servieren oder mit einem Löffel Joghurt ergänzen."
             ],
             "steps_en": [
-              "Soak the dates in warm water for 10 minutes, then drain well.",
-              "Roughly chop the almonds and walnuts in a food processor.",
-              "Add the dates, oats, cocoa powder, chia seeds, cinnamon, vanilla extract, and salt to the nuts and process into a sticky, shapeable dough. If the mixture is too dry, add 1–2 tbsp water.",
-              "Dampen your hands lightly and roll the mixture into 24–30 balls (about 3 cm in diameter each).",
-              "Spread the desiccated coconut on a plate and roll the balls in it to coat.",
-              "Arrange the balls on a tray and refrigerate for at least 30 minutes to firm up.",
-              "Store in an airtight container in the fridge for up to 2 weeks."
-            ],
-            "servings": "",
-            "prep_note": ""
+              "Whisk together the yogurt, eggs, rapeseed oil, honey, lemon juice, and a little lemon zest.",
+              "Fold in the spelt flour and baking powder.",
+              "Pour into a small tin and bake at 180 °C for about 30–35 minutes.",
+              "Serve without icing, or with a spoonful of yogurt on the side."
+            ]
           },
           "shopping": [
             {
@@ -2691,49 +2641,43 @@
             }
           ],
           "dessert": {
-            "id": "berry_oat_pudding_slices",
-            "title": "Beeren-Hafer-Schnitten mit leichter Puddingcreme",
-            "title_en": "Berry Oat Pudding Slices",
-            "meals": 2,
-            "summary": "Weiche Hafer-Schnitten mit Beeren und einer einfachen, wenig süßen Vanille-Puddingcreme.",
-            "summary_en": "Soft oat slices with berries and a simple, lightly sweetened vanilla pudding cream.",
+            "id": "yogurt_lemon_cake",
+            "title": "Joghurt-Zitronenkuchen in leichter Version",
+            "title_en": "Light Yogurt Lemon Cake",
+            "meals": 8,
+            "summary": "Frischer, heller Kuchen mit Joghurt, Zitrone und wenig Honig statt dickem Zuckerguss.",
+            "summary_en": "A fresh, airy cake made with yogurt, lemon, and a touch of honey instead of thick icing.",
             "child_note": "",
             "ingredients": [
               {
-                "name": "Beeren, frisch oder TK",
-                "name_en": "berries, fresh or frozen",
-                "qty_display": "300 g",
-                "category": "Obst"
-              },
-              {
-                "name": "Haferflocken",
-                "name_en": "rolled oats",
-                "qty_display": "180 g",
-                "category": "Kohlenhydrate und Sattmacher"
-              },
-              {
                 "name": "Dinkelmehl",
                 "name_en": "spelt flour",
-                "qty_display": "100 g",
+                "qty_display": "200 g",
                 "category": "Kohlenhydrate und Sattmacher"
               },
               {
-                "name": "Milch oder Haferdrink",
-                "name_en": "milk or oat drink",
-                "qty_display": "500 ml",
+                "name": "Naturjoghurt",
+                "name_en": "plain yogurt",
+                "qty_display": "250 g",
                 "category": "Protein und Milchprodukte"
-              },
-              {
-                "name": "Vanille-Puddingpulver",
-                "name_en": "vanilla pudding powder",
-                "qty_display": "1 Packung",
-                "category": "Konserven und Vorrat"
               },
               {
                 "name": "Eier",
                 "name_en": "eggs",
                 "qty_display": "2 Stk",
                 "category": "Protein und Milchprodukte"
+              },
+              {
+                "name": "Zitrone",
+                "name_en": "lemon",
+                "qty_display": "1 Stk",
+                "category": "Obst"
+              },
+              {
+                "name": "Rapsöl",
+                "name_en": "rapeseed oil",
+                "qty_display": "2 EL",
+                "category": "Konserven und Vorrat"
               },
               {
                 "name": "Honig",
@@ -2755,16 +2699,16 @@
               }
             ],
             "steps": [
-              "Haferflocken, Dinkelmehl, Eier, 1 EL Honig und Backpulver zu einem weichen Teig verrühren.",
-              "Beeren unterheben und bei 180 Grad etwa 25 Minuten backen.",
-              "Aus Milch, Puddingpulver und 1 EL Honig eine milde Puddingcreme kochen.",
-              "Pudding dünn auf den abgekühlten Schnitten verteilen."
+              "Joghurt, Eier, Rapsöl, Honig, Zitronensaft und etwas Zitronenabrieb verrühren.",
+              "Dinkelmehl und Backpulver unterheben.",
+              "In eine kleine Form geben und bei 180 Grad etwa 30 bis 35 Minuten backen.",
+              "Ohne Zuckerguss servieren oder mit einem Löffel Joghurt ergänzen."
             ],
             "steps_en": [
-              "Mix rolled oats, spelt flour, eggs, 1 tbsp honey, and baking powder into a soft dough.",
-              "Fold in berries and bake at 180 °C (350 °F) for about 25 minutes.",
-              "Cook a light pudding cream from milk, pudding powder, and 1 tbsp honey.",
-              "Spread the pudding thinly over the cooled slices."
+              "Whisk together the yogurt, eggs, rapeseed oil, honey, lemon juice, and a little lemon zest.",
+              "Fold in the spelt flour and baking powder.",
+              "Pour into a small tin and bake at 180 °C for about 30–35 minutes.",
+              "Serve without icing, or with a spoonful of yogurt on the side."
             ]
           },
           "shopping": [
