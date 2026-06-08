@@ -358,6 +358,21 @@ tailwind.config = {
                 class="w-full pl-10 pr-4 py-2.5 rounded-xl bg-surface-container border border-surface-container-high font-body-sm text-body-sm text-on-surface placeholder:text-on-surface-variant focus:outline-none focus:ring-2 focus:ring-primary/40 transition-all"/>
             </div>
           </div>
+          <!-- Recipe filter chips -->
+          <div id="recipe-filter-row" class="mx-auto max-w-5xl px-4 lg:px-8 flex flex-wrap gap-2 mb-4">
+            <button id="chip-week" onclick="setRecipeScope('week')"
+              class="px-3 py-1.5 rounded-full font-label-sm text-label-sm transition-all active:scale-95 bg-primary text-on-primary" data-i18n="chip_week">Diese Woche</button>
+            <button id="chip-all" onclick="setRecipeScope('all')"
+              class="px-3 py-1.5 rounded-full font-label-sm text-label-sm transition-all active:scale-95 bg-surface-container-high text-on-surface-variant hover:bg-surface-container-highest" data-i18n="chip_all">Alle Rezepte</button>
+            <div class="w-px bg-outline-variant self-stretch mx-1"></div>
+            <button id="chip-healthy" onclick="toggleRecipeFilter('healthy')"
+              class="px-3 py-1.5 rounded-full font-label-sm text-label-sm transition-all active:scale-95 bg-surface-container-high text-on-surface-variant hover:bg-surface-container-highest" data-i18n="chip_healthy">🥦 Gesund</button>
+            <button id="chip-quick" onclick="toggleRecipeFilter('quick')"
+              class="px-3 py-1.5 rounded-full font-label-sm text-label-sm transition-all active:scale-95 bg-surface-container-high text-on-surface-variant hover:bg-surface-container-highest" data-i18n="chip_quick">⚡ Schnell</button>
+            <button id="chip-dessert" onclick="toggleRecipeFilter('dessert')"
+              class="px-3 py-1.5 rounded-full font-label-sm text-label-sm transition-all active:scale-95 bg-surface-container-high text-on-surface-variant hover:bg-surface-container-highest" data-i18n="chip_dessert">🍰 Dessert</button>
+          </div>
+          <p id="recipe-section-label" class="hidden mx-auto max-w-5xl px-4 lg:px-8 font-label-sm text-label-sm text-on-surface-variant uppercase tracking-wider mb-4"></p>
           <div id="recipe-cards" class="mx-auto max-w-5xl px-4 lg:px-8 grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-6 pb-8"></div>
           <p id="recipe-no-results" class="hidden mx-auto max-w-5xl px-4 lg:px-8 font-body-sm text-body-sm text-on-surface-variant py-8 text-center" data-i18n="no_results">Kein Rezept gefunden.</p>
         </div>
@@ -547,6 +562,12 @@ const UI_STRINGS = {
   no_results:         { de: 'Kein Rezept gefunden.',  en: 'No recipe found.' },
   view_recipe:        { de: 'Rezept ansehen',         en: 'View recipe' },
   in_plan:            { de: 'Im Plan',                en: 'In plan' },
+  chip_week:          { de: 'Diese Woche',            en: 'This Week' },
+  chip_all:           { de: 'Alle Rezepte',           en: 'All Recipes' },
+  chip_healthy:       { de: '🥦 Gesund',              en: '🥦 Healthy' },
+  chip_quick:         { de: '⚡ Schnell',             en: '⚡ Quick' },
+  chip_dessert:       { de: '🍰 Dessert',             en: '🍰 Dessert' },
+  pool_lunch:         { de: 'Mittagessen',            en: 'Lunch' },
   shop_mode_week:     { de: 'Wochenplan',             en: 'Weekly Plan' },
   shop_mode_recipe:   { de: 'Nach Rezept',            en: 'By Recipe' },
   your_shopping:      { de: 'Dein Einkauf',           en: 'Your Shopping' },
@@ -584,6 +605,9 @@ let shoppingMode     = 'standard';
 let selectedRecipeId = null;
 let recipeRegistry   = {};
 let selectedDayIndex = null;   // desktop master-detail: which day is shown
+let allRecipes    = [];        // full 346-recipe pool from recipe_pool.json
+let recipeScope   = 'week';   // 'week' | 'all'
+let recipeFilters = new Set(); // active tag filters: 'healthy', 'quick', 'dessert'
 
 const TODAY = new Date();
 TODAY.setHours(0,0,0,0);
@@ -776,11 +800,12 @@ function escAttr(str) { return str.replace(/'/g,"\\'"); }
 async function init() {
   show('screen-loading');
   try {
-    const [weeksRes, imagesRes, timesRes, calsRes] = await Promise.allSettled([
+    const [weeksRes, imagesRes, timesRes, calsRes, poolRes] = await Promise.allSettled([
       fetch('./weeks.json'),
       fetch('./recipe_images.json'),
       fetch('./recipe_times.json'),
       fetch('./recipe_calories.json'),
+      fetch('./recipe_pool.json'),
     ]);
 
     if (weeksRes.status !== 'fulfilled' || !weeksRes.value.ok)
@@ -796,6 +821,11 @@ async function init() {
 
     if (calsRes.status === 'fulfilled' && calsRes.value.ok)
       recipeCalories = await calsRes.value.json();
+
+    if (poolRes.status === 'fulfilled' && poolRes.value.ok) {
+      allRecipes = await poolRes.value.json();
+      allRecipes.forEach(r => { recipeRegistry[r.id] = r; });
+    }
 
     const idx = weeks.findIndex(w => isCurrentWeek(w));
     weekIndex = idx >= 0 ? idx : 0;
@@ -1250,7 +1280,7 @@ function buildVariantPool() {
     const varData = week.variants[currentVariant];
     if (!varData) return;
     [...varData.lunches, varData.dessert].forEach(r => {
-      if (r && !seen.has(r.id)) { seen.add(r.id); pool.push(r); recipeRegistry[r.id] = r; }
+      if (r && !seen.has(r.id)) { seen.add(r.id); pool.push(r); if (!recipeRegistry[r.id]) recipeRegistry[r.id] = r; }
     });
   });
   return pool;
@@ -1305,20 +1335,26 @@ function renderRezepte() {
     if (day.lunch_id) lunchCounts[day.lunch_id] = (lunchCounts[day.lunch_id] || 0) + 1;
   });
 
-  // Build cross-week pool for search
+  // Build cross-week pool for scope='week' filtering
   _variantPool = buildVariantPool();
+  updateRecipeChips();
 
-  // Render current week's recipes
-  const weekRecipes = [...varData.lunches, varData.dessert];
-  document.getElementById('recipe-cards').innerHTML = weekRecipes.map((recipe, i) => {
-    const isDessert = i === varData.lunches.length;
-    const mealLabel = isDessert ? t('dessert_of_week') : `${lunchCounts[recipe.id] || 1}${t('times_this_week')}`;
-    return recipeCardHTML(recipe, mealLabel, i);
-  }).join('');
+  const q = (document.getElementById('recipe-search')?.value || '').trim().toLowerCase();
 
-  // Re-apply active search if any
-  const q = document.getElementById('recipe-search')?.value || '';
-  if (q.trim()) filterRecipes(q);
+  // Default: week scope, no query, no filters → show current week's recipes
+  if (!q && recipeScope === 'week' && recipeFilters.size === 0) {
+    const weekRecipes = [...varData.lunches, varData.dessert];
+    document.getElementById('recipe-cards').innerHTML = weekRecipes.map((recipe, i) => {
+      const isDessert = i === varData.lunches.length;
+      const mealLabel = isDessert ? t('dessert_of_week') : `${lunchCounts[recipe.id] || 1}${t('times_this_week')}`;
+      return recipeCardHTML(recipe, mealLabel, i);
+    }).join('');
+    document.getElementById('recipe-no-results')?.classList.add('hidden');
+    document.getElementById('recipe-section-label')?.classList.add('hidden');
+    return;
+  }
+
+  applyRecipeView(q);
 }
 
 function copyShoppingList() {
@@ -1343,34 +1379,97 @@ function copyShoppingList() {
 }
 
 function filterRecipes(query) {
-  const q = query.trim().toLowerCase();
-  const noResults = document.getElementById('recipe-no-results');
-
-  if (!q) {
-    // Empty search → restore current week's recipes
+  const q = (query || '').trim().toLowerCase();
+  if (!q && recipeScope === 'week' && recipeFilters.size === 0) {
     renderRezepte();
-    if (noResults) noResults.classList.add('hidden');
     return;
   }
+  applyRecipeView(q);
+}
 
-  // Search across ALL weeks in the current variant pool
-  const matches = _variantPool.filter(r =>
-    rField(r, 'title').toLowerCase().includes(q) ||
-    rField(r, 'summary').toLowerCase().includes(q)
-  );
+function applyRecipeView(query) {
+  const q = (query || '').trim().toLowerCase();
+  const noResults    = document.getElementById('recipe-no-results');
+  const sectionLabel = document.getElementById('recipe-section-label');
 
-  document.getElementById('recipe-cards').innerHTML = matches.map((recipe, i) => {
-    // Find which week this recipe appears in and how many times
-    let weekLabel = t('in_plan');
-    weeks.forEach(week => {
-      const varData = week.variants[currentVariant];
-      const count = varData?.days.filter(d => d.lunch_id === recipe.id).length || 0;
-      if (count > 0) weekLabel = `${formatWeekDates(week)}`;
-    });
-    return recipeCardHTML(recipe, weekLabel, i);
-  }).join('');
+  // Build source pool
+  let source;
+  if (allRecipes.length) {
+    if (recipeScope === 'all') {
+      source = [...allRecipes];
+    } else {
+      const variantIds = new Set(_variantPool.map(r => r.id));
+      source = allRecipes.filter(r => variantIds.has(r.id));
+    }
+  } else {
+    source = [..._variantPool];
+  }
 
-  if (noResults) noResults.classList.toggle('hidden', matches.length > 0);
+  // Tag filters
+  if (recipeFilters.has('healthy'))  source = source.filter(r => r.healthy);
+  if (recipeFilters.has('quick'))    source = source.filter(r => r.quick);
+  if (recipeFilters.has('dessert'))  source = source.filter(r => r.pool === 'dessert');
+
+  // Text search: title, summary, ingredient names
+  if (q) {
+    source = source.filter(r =>
+      rField(r, 'title').toLowerCase().includes(q) ||
+      rField(r, 'summary').toLowerCase().includes(q) ||
+      (r.ingredients || []).some(ing => iName(ing).toLowerCase().includes(q))
+    );
+  }
+
+  document.getElementById('recipe-cards').innerHTML = source.map((recipe, i) =>
+    recipeCardHTML(recipe, poolMealLabel(recipe), i)
+  ).join('');
+
+  if (noResults) noResults.classList.toggle('hidden', source.length > 0);
+  if (sectionLabel) {
+    if (source.length) {
+      sectionLabel.textContent = lang === 'de' ? `${source.length} Rezepte` : `${source.length} recipes`;
+      sectionLabel.classList.remove('hidden');
+    } else {
+      sectionLabel.classList.add('hidden');
+    }
+  }
+}
+
+function poolMealLabel(recipe) {
+  if (recipe.pool === 'dessert') return t('dessert_of_week');
+  const count = lunchCounts[recipe.id];
+  if (count) return `${count}${t('times_this_week')}`;
+  const tags = [];
+  if (recipe.healthy) tags.push(lang === 'de' ? '🥦 Gesund' : '🥦 Healthy');
+  if (recipe.quick)   tags.push(lang === 'de' ? '⚡ Schnell' : '⚡ Quick');
+  return tags.length ? tags.join(' · ') : t('pool_lunch');
+}
+
+function updateRecipeChips() {
+  const ACTIVE   = 'px-3 py-1.5 rounded-full font-label-sm text-label-sm transition-all active:scale-95 bg-primary text-on-primary';
+  const INACTIVE = 'px-3 py-1.5 rounded-full font-label-sm text-label-sm transition-all active:scale-95 bg-surface-container-high text-on-surface-variant hover:bg-surface-container-highest';
+  const set = (id, active) => { const el = document.getElementById(id); if (el) el.className = active ? ACTIVE : INACTIVE; };
+  set('chip-week',    recipeScope === 'week');
+  set('chip-all',     recipeScope === 'all');
+  set('chip-healthy', recipeFilters.has('healthy'));
+  set('chip-quick',   recipeFilters.has('quick'));
+  set('chip-dessert', recipeFilters.has('dessert'));
+}
+
+function setRecipeScope(scope) {
+  recipeScope = scope;
+  updateRecipeChips();
+  const q = (document.getElementById('recipe-search')?.value || '').trim().toLowerCase();
+  if (!q && scope === 'week' && recipeFilters.size === 0) { renderRezepte(); return; }
+  applyRecipeView(q);
+}
+
+function toggleRecipeFilter(filter) {
+  if (recipeFilters.has(filter)) recipeFilters.delete(filter);
+  else recipeFilters.add(filter);
+  updateRecipeChips();
+  const q = (document.getElementById('recipe-search')?.value || '').trim().toLowerCase();
+  if (!q && recipeScope === 'week' && recipeFilters.size === 0) { renderRezepte(); return; }
+  applyRecipeView(q);
 }
 
 // ── Einkauf ───────────────────────────────────────────────
@@ -1615,6 +1714,8 @@ function switchVariant(v) {
   shoppingMode     = 'standard';
   selectedRecipeId = null;
   selectedDayIndex = null;
+  recipeScope      = 'week';
+  recipeFilters    = new Set();
   const s = document.getElementById('recipe-search');
   if (s) s.value = '';
   render();
@@ -1627,6 +1728,8 @@ function navigateWeek(delta) {
   shoppingMode     = 'standard';
   selectedRecipeId = null;
   selectedDayIndex = null;
+  recipeScope      = 'week';
+  recipeFilters    = new Set();
   render();
 }
 
