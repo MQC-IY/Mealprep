@@ -1,6 +1,11 @@
 {
-  "last_generated_week": "2026-W24",
+  "last_generated_week": "2026-W25",
   "last_lunch_ids": [
+    "katsu_curry_chicken",
+    "kenyan_chicken_plantain",
+    "spanish_paella_chicken",
+    "spinach_pea_gnocchi_chicken",
+    "teriyaki_chicken_rice",
     "italian_turkey_meatballs",
     "jerk_chicken_coconut_rice",
     "sabich_chicken_bowl",
@@ -34,6 +39,7 @@
   ],
   "generator_version": "variants-v6",
   "last_dessert_ids": [
+    "chia_mango_pudding",
     "apple_oat_bake",
     "strawberry_rhubarb_crumble",
     "pumpkin_yogurt_cake",
@@ -43,9 +49,14 @@
   ],
   "variants": {
     "standard": {
-      "last_generated_week": "2026-W24",
+      "last_generated_week": "2026-W25",
       "generator_version": "variants-v6",
       "last_lunch_ids": [
+        "katsu_curry_chicken",
+        "kenyan_chicken_plantain",
+        "spanish_paella_chicken",
+        "spinach_pea_gnocchi_chicken",
+        "teriyaki_chicken_rice",
         "italian_turkey_meatballs",
         "jerk_chicken_coconut_rice",
         "sabich_chicken_bowl",
@@ -78,6 +89,7 @@
         "imam_bayildi_chicken"
       ],
       "last_dessert_ids": [
+        "chia_mango_pudding",
         "apple_oat_bake",
         "strawberry_rhubarb_crumble",
         "pumpkin_yogurt_cake",
@@ -87,9 +99,14 @@
       ]
     },
     "gesund": {
-      "last_generated_week": "2026-W24",
+      "last_generated_week": "2026-W25",
       "generator_version": "variants-v6",
       "last_lunch_ids": [
+        "potato_bean_tomato_stew",
+        "potato_leek_chicken_stew",
+        "quick_pho_bowl",
+        "quick_polenta_beans_tomato",
+        "quick_quinoa_chicken_peas",
         "palak_chicken",
         "pasta_e_fagioli",
         "quick_broccoli_couscous",
@@ -122,6 +139,7 @@
         "mild_lentil_udon_pan"
       ],
       "last_dessert_ids": [
+        "baked_apple_walnut",
         "raspberry_quark_parfait",
         "light_banana_bread",
         "date_nut_energy_balls",
@@ -131,9 +149,14 @@
       ]
     },
     "schnell": {
-      "last_generated_week": "2026-W24",
+      "last_generated_week": "2026-W25",
       "generator_version": "variants-v6",
       "last_lunch_ids": [
+        "mild_chickpea_rice_bake",
+        "mild_djuvec_chicken",
+        "rice_noodle_veggie_chicken",
+        "shakshuka_chicken_feta",
+        "sopa_de_lima",
         "lentil_coconut_curry",
         "lentil_couscous_veg_pan",
         "quick_turkey_orzo_peas",
@@ -166,6 +189,7 @@
         "pea_broccoli_couscous_turkey"
       ],
       "last_dessert_ids": [
+        "raspberry_quark_parfait",
         "date_nut_energy_balls",
         "berry_oat_pudding_slices",
         "apple_oat_bake",
