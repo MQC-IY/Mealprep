@@ -1,6 +1,11 @@
 {
-  "last_generated_week": "2026-W41",
+  "last_generated_week": "2026-W42",
   "last_lunch_ids": [
+    "philippine_chicken_adobo",
+    "quick_kidney_bean_chili",
+    "fatteh_chicken_bowl",
+    "greek_pastitsio",
+    "pad_krapao_chicken",
     "patlican_musakka",
     "quick_chicken_tomato_pot",
     "hunkar_begendi",
@@ -35,29 +40,29 @@
     "polish_zurek_soup",
     "chinese_black_bean_chicken",
     "chinese_cashew_chicken",
-    "chinese_pork_tofu_pan",
-    "kenyan_chicken_plantain",
-    "polish_bigos",
-    "chicken_piccata_tagliatelle",
-    "chicken_potato_broccoli_tray",
-    "chicken_saltimbocca_marsala"
+    "chinese_pork_tofu_pan"
   ],
   "generator_version": "variants-v6",
   "last_dessert_ids": [
+    "baked_apple_walnut",
     "apple_cinnamon_oat_cake",
     "yogurt_lemon_cake",
     "strawberry_rhubarb_crumble",
     "raspberry_quark_parfait",
     "pumpkin_yogurt_cake",
     "light_carrot_cake",
-    "lemon_poppy_seed_cake",
-    "frozen_berry_yogurt"
+    "lemon_poppy_seed_cake"
   ],
   "variants": {
     "standard": {
-      "last_generated_week": "2026-W41",
+      "last_generated_week": "2026-W42",
       "generator_version": "variants-v6",
       "last_lunch_ids": [
+        "philippine_chicken_adobo",
+        "quick_kidney_bean_chili",
+        "fatteh_chicken_bowl",
+        "greek_pastitsio",
+        "pad_krapao_chicken",
         "patlican_musakka",
         "quick_chicken_tomato_pot",
         "hunkar_begendi",
@@ -92,28 +97,28 @@
         "polish_zurek_soup",
         "chinese_black_bean_chicken",
         "chinese_cashew_chicken",
-        "chinese_pork_tofu_pan",
-        "kenyan_chicken_plantain",
-        "polish_bigos",
-        "chicken_piccata_tagliatelle",
-        "chicken_potato_broccoli_tray",
-        "chicken_saltimbocca_marsala"
+        "chinese_pork_tofu_pan"
       ],
       "last_dessert_ids": [
+        "baked_apple_walnut",
         "apple_cinnamon_oat_cake",
         "yogurt_lemon_cake",
         "strawberry_rhubarb_crumble",
         "raspberry_quark_parfait",
         "pumpkin_yogurt_cake",
         "light_carrot_cake",
-        "lemon_poppy_seed_cake",
-        "frozen_berry_yogurt"
+        "lemon_poppy_seed_cake"
       ]
     },
     "gesund": {
-      "last_generated_week": "2026-W41",
+      "last_generated_week": "2026-W42",
       "generator_version": "variants-v6",
       "last_lunch_ids": [
+        "red_lentil_orzo_pot",
+        "turkey_quinoa_tomato_bake",
+        "quick_lentil_pasta_carrot",
+        "spinach_millet_chickpeas",
+        "turkey_pea_rice_pan",
         "rajma_curry",
         "turkey_cauliflower_bulgur_pot",
         "quick_pho_bowl",
@@ -148,28 +153,28 @@
         "salsiccia_lentils_kale",
         "quick_zucchini_orzo_beans",
         "quinoa_chicken_veg_pan",
-        "teriyaki_bowl_edamame",
-        "potato_leek_chicken_stew",
-        "ribollita_tuscan_soup",
-        "quick_polenta_beans_tomato",
-        "quick_quinoa_chicken_peas",
-        "spinach_white_bean_udon"
+        "teriyaki_bowl_edamame"
       ],
       "last_dessert_ids": [
+        "apple_cinnamon_oat_cake",
         "yogurt_lemon_cake",
         "strawberry_rhubarb_crumble",
         "raspberry_quark_parfait",
         "pumpkin_yogurt_cake",
         "light_carrot_cake",
         "lemon_poppy_seed_cake",
-        "date_nut_energy_balls",
-        "coconut_rice_pudding_pineapple"
+        "date_nut_energy_balls"
       ]
     },
     "schnell": {
-      "last_generated_week": "2026-W41",
+      "last_generated_week": "2026-W42",
       "generator_version": "variants-v6",
       "last_lunch_ids": [
+        "quick_tikka_bowl",
+        "white_bean_spinach_couscous",
+        "quinoa_chicken_veg_pan",
+        "turkey_corn_zucchini_rice",
+        "vietnamese_wok_chicken_noodles",
         "quick_sweet_potato_lentil_dal",
         "white_bean_carrot_quinoa_stew",
         "rice_noodle_veggie_chicken",
@@ -204,22 +209,17 @@
         "red_lentil_orzo_pot",
         "spinach_millet_chickpeas",
         "spinach_pea_gnocchi_chicken",
-        "turkey_pea_rice_pan",
-        "quick_chicken_curry_pot",
-        "quick_white_bean_bacon_soup",
-        "shakshuka_chicken_feta",
-        "sopa_de_lima",
-        "turkey_mushroom_orzo_skillet"
+        "turkey_pea_rice_pan"
       ],
       "last_dessert_ids": [
+        "yogurt_lemon_cake",
         "strawberry_rhubarb_crumble",
         "raspberry_quark_parfait",
         "pumpkin_yogurt_cake",
         "light_carrot_cake",
         "lemon_poppy_seed_cake",
         "date_nut_energy_balls",
-        "coconut_rice_pudding_pineapple",
-        "chocolate_avocado_mousse"
+        "coconut_rice_pudding_pineapple"
       ]
     }
   }
